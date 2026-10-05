@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#ffffff">
+<title>Tủ Truyện</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,400;0,500;0,600;1,400&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Noto+Serif:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="css/app.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%231a73e8' d='M19 1l-5 5v11l5-4.5V1zM1 6v14.65c0 .25.25.5.5.5.1 0 .15-.05.25-.05C3.1 20.45 5.05 20 6.5 20c1.95 0 4.05.4 5.5 1.5V6c-1.45-1.1-3.55-1.5-5.5-1.5S2.45 4.9 1 6zm22 13.5V6c-.6-.45-1.25-.75-2-1v13.5c-1.1-.35-2.3-.5-3.5-.5-1.7 0-4.15.65-5.5 1.5v2c1.35-.85 3.8-1.5 5.5-1.5 1.65 0 3.35.3 4.75 1.05.1.05.15.05.25.05.25 0 .5-.25.5-.5v-1.1z'/%3E%3C/svg%3E">
+<script type="module" src="js/app.js"></script>
+</head>
+<body>
+
+<main id="library" hidden>
+  <header class="lib-bar">
+    <div class="brand">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 1l-5 5v11l5-4.5V1zM1 6v14.65c0 .25.25.5.5.5.1 0 .15-.05.25-.05C3.1 20.45 5.05 20 6.5 20c1.95 0 4.05.4 5.5 1.5V6c-1.45-1.1-3.55-1.5-5.5-1.5S2.45 4.9 1 6zm22 13.5V6c-.6-.45-1.25-.75-2-1v13.5c-1.1-.35-2.3-.5-3.5-.5-1.7 0-4.15.65-5.5 1.5v2c1.35-.85 3.8-1.5 5.5-1.5 1.65 0 3.35.3 4.75 1.05.1.05.15.05.25.05.25 0 .5-.25.5-.5v-1.1z"/></svg>
+      Tủ Truyện
+    </div>
+  </header>
+  <div class="lib-wrap">
+    <section id="continue"></section>
+    <h2 class="lib-h">Thư viện</h2>
+    <div id="shelf"></div>
+  </div>
+</main>
+
+<div id="reader" hidden>
+  <div id="stage"><div class="spinner"></div></div>
+
+  <header class="bar top">
+    <button class="icon" data-act="back" aria-label="Về thư viện"><svg viewBox="0 0 24 24"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg></button>
+    <div class="titles"><div id="r-book"></div><div id="r-chap"></div></div>
+    <button class="icon" data-act="toc" aria-label="Mục lục"><svg viewBox="0 0 24 24"><path d="M3 9h14V7H3v2zm0 4h14v-2H3v2zm0 4h14v-2H3v2zm16 0h2v-2h-2v2zm0-10v2h2V7h-2zm0 6h2v-2h-2v2z"/></svg></button>
+    <button class="icon" data-act="settings" aria-label="Tuỳ chỉnh hiển thị"><svg viewBox="0 0 24 24"><path d="M9 4v3h5v12h3V7h5V4H9zm-6 8h3v7h3v-7h3V9H3v3z"/></svg></button>
+  </header>
+
+  <footer class="bar bottom">
+    <div id="r-scrub-label"></div>
+    <div class="scrub">
+      <button class="icon" data-act="prev-chap" aria-label="Chương trước"><svg viewBox="0 0 24 24"><path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg></button>
+      <input type="range" id="r-slider" min="0" max="0" step="1" aria-label="Chọn chương">
+      <button class="icon" data-act="next-chap" aria-label="Chương sau"><svg viewBox="0 0 24 24"><path d="M10 6 8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></button>
+    </div>
+    <div class="info"><span id="r-info"></span><span id="r-pct"></span></div>
+  </footer>
+
+  <div class="scrim"></div>
+
+  <aside class="drawer" id="toc" aria-label="Mục lục">
+    <div class="panel-head">
+      <h3>Mục lục</h3>
+      <button class="icon" data-act="close" aria-label="Đóng"><svg viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg></button>
+    </div>
+    <input id="toc-filter" type="search" placeholder="Tìm chương (số hoặc tên)…" autocomplete="off">
+    <ol id="toc-list"></ol>
+  </aside>
+
+  <section class="sheet" id="settings" aria-label="Tuỳ chỉnh hiển thị">
+    <div class="grip"></div>
+    <div class="row"><span class="lbl">Giao diện</span>
+      <div class="swatches" data-set="theme">
+        <button data-v="light" aria-label="Sáng">Aa</button>
+        <button data-v="sepia" aria-label="Giấy cũ">Aa</button>
+        <button data-v="dark" aria-label="Tối">Aa</button>
+        <button data-v="black" aria-label="Đen">Aa</button>
+      </div>
+    </div>
+    <div class="row"><span class="lbl">Phông chữ</span>
+      <div class="chips" data-set="font">
+        <button data-v="literata" style="font-family:Literata,serif">Literata</button>
+        <button data-v="noto" style="font-family:'Noto Serif',serif">Noto Serif</button>
+        <button data-v="vietnam" style="font-family:'Be Vietnam Pro',sans-serif">Be Vietnam</button>
+        <button data-v="system" style="font-family:system-ui,sans-serif">Hệ thống</button>
+      </div>
+    </div>
+    <div class="row"><span class="lbl">Cỡ chữ</span>
+      <div class="stepper" data-set="size" data-step="1" data-min="13" data-max="32">
+        <button data-d="-1" aria-label="Nhỏ hơn"><small>A</small></button><output></output><button data-d="1" aria-label="Lớn hơn">A</button>
+      </div>
+    </div>
+    <div class="row"><span class="lbl">Giãn dòng</span>
+      <div class="stepper" data-set="lh" data-step="0.1" data-min="1.2" data-max="2.2">
+        <button data-d="-1" aria-label="Hẹp hơn">−</button><output></output><button data-d="1" aria-label="Rộng hơn">+</button>
+      </div>
+    </div>
+    <div class="row"><span class="lbl">Lề trang</span>
+      <div class="chips" data-set="margin">
+        <button data-v="narrow">Hẹp</button><button data-v="normal">Vừa</button><button data-v="wide">Rộng</button>
+      </div>
+    </div>
+    <div class="row"><span class="lbl">Căn chữ</span>
+      <div class="chips" data-set="justify">
+        <button data-v="true">Đều hai bên</button><button data-v="false">Lề trái</button>
+      </div>
+    </div>
+    <div class="row"><span class="lbl">Lật trang</span>
+      <div class="chips" data-set="anim">
+        <button data-v="curl">Cuộn giấy</button><button data-v="slide">Trượt</button><button data-v="none">Không</button>
+      </div>
+    </div>
+    <div class="row"><span class="lbl">Song ngữ</span>
+      <div class="chips" data-set="bilingual">
+        <button data-v="false">Tắt</button><button data-v="true">Kèm câu tiếng Anh</button>
+      </div>
+    </div>
+  </section>
+
+  <div class="toast" role="status"></div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,126 @@
+{
+ "number": 270,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier chờ đợi thời cơ trên chiến trường theo kế hoạch ban đầu với Osprey để dụ Heldre vào bẫy. Tuy nhiên, kế hoạch gặp nhiều trở ngại và không thể thực hiện được khi Heldre không xuất hiện. Thay vì tấn công trực diện, Frondier sử dụng một chiêu trò bất ngờ bằng cách bắn tên lửa 'fireworks' lên trời, gây hoang mang cho Thompson và Skyler, đồng thời làm gián đoạn trận chiến của Isamaya và Pascal.",
+ "boi_canh": "Trên chiến trường trên không, trong bối cảnh chờ đợi một cuộc tấn công.",
+ "nhan_vat": [
+  "Frondier",
+  "Osprey",
+  "Pascal",
+  "Heldre",
+  "Cain",
+  "Thompson",
+  "Isamaya",
+  "Skyler",
+  "Khryselakatos",
+  "Penelope"
+ ],
+ "su_kien": [
+  "Frondier chờ đợi Heldre xuất hiện theo kế hoạch ban đầu.",
+  "Kế hoạch dụ Heldre thất bại vì Heldre không đến.",
+  "Frondier bắn tên lửa 'fireworks' lên trời, gây hoang mang cho Thompson và Skyler.",
+  "Isamaya và Pascal bị gián đoạn trận chiến do sự hiện diện của Frondier.",
+  "Tên lửa 'fireworks' phát nổ trên không trung, tạo thành một cơn mưa ánh sáng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, cùng lập kế hoạch.",
+   "cach_goi": "gọi tên Osprey, thân mật"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, cùng lập kế hoạch.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, mục tiêu của kế hoạch.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Heldre",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, mục tiêu của kế hoạch.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "nguoi_la",
+   "mo_ta": "liên quan đến kế hoạch dụ Heldre.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thompson",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, bị Frondier tấn công.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thompson",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Frondier tấn công.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Skyler",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, bị Frondier tấn công.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Skyler",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Frondier tấn công.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Isamaya",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, bị gián đoạn bởi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Isamaya",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Isamaya bị gián đoạn bởi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, bị gián đoạn bởi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Pascal bị gián đoạn bởi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Tên lửa 'fireworks' được nhắc đến như một sự kiện đã xảy ra ở Constel trước đây."
+ ],
+ "stats": {
+  "tokens": 1300,
+  "seconds": 40.2
+ }
+}

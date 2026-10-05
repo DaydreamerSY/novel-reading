@@ -1,0 +1,68 @@
+{
+ "number": 370,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trận chiến tại rào cản tiếp tục diễn ra ác liệt. Sau khi Frondier giết chết Cyclops, một khoảng trống lớn mở ra trên chiến trường. Các Hiệp sĩ Roach đã tận dụng cơ hội này để dụ dỗ quái vật và gây ra sự hỗn loạn. Sylvain chiến đấu thoải mái hơn bao giờ hết, và các hiệp sĩ di chuyển linh hoạt như một đội săn bắn. Sau đó, những thay đổi trong hành vi của quái vật được nhận thấy, khiến Sylvain và Enfer nhanh chóng nắm bắt tình hình và phát động đợt tấn công cuối cùng. Cuối cùng, binh lính Yeranhes đã giành chiến thắng nhờ sự quyết tâm và lời kêu gọi của Sylvain.",
+ "boi_canh": "Trên chiến trường tại rào cản, trong một trận chiến ác liệt giữa người và quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Sylvain"
+ ],
+ "su_kien": [
+  "Frondier giết chết Cyclops, tạo ra khoảng trống trên chiến trường.",
+  "Các Hiệp sĩ Roach dụ dỗ quái vật và gây ra sự hỗn loạn.",
+  "Sylvain chiến đấu thoải mái hơn bao giờ hết.",
+  "Những thay đổi trong hành vi của quái vật được nhận thấy.",
+  "Sylvain phát động đợt tấn công cuối cùng, dẫn đến chiến thắng cho binh lính Yeranhes."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là cấp dưới của Enfer, không giao tiếp trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Enfer là cấp trên của Frondier, không giao tiếp trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, quan sát hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, hành động ảnh hưởng đến Sylvain.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Enfer là cấp trên của Sylvain, giao tiếp bằng ánh mắt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Sylvain là cấp dưới của Enfer, giao tiếp bằng ánh mắt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 795,
+  "seconds": 23.7
+ }
+}

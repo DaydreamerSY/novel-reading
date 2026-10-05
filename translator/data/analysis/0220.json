@@ -1,0 +1,78 @@
+{
+ "number": 220,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhận ra rằng Weaving không phải là một khái niệm riêng biệt mà là sự sử dụng mana, và bắt đầu thử nghiệm cách thức sử dụng nó trực tiếp thông qua cơ thể thay vì chỉ kích hoạt kỹ năng. Trong lúc chiến đấu với Pascal để đánh lạc hướng Kraken, Frondier bộc lộ khả năng tạo ra aura vô hình, khiến Kraken ngạc nhiên. Cuối cùng, một cô gái hầu gái xuất hiện bất ngờ và tấn công Kraken, kết thúc chương bằng việc chặt đứt một phần tay của hắn.",
+ "boi_canh": "Trong đấu trường, giữa lúc Frondier đang chiến đấu với Pascal để đánh lạc hướng Kraken.",
+ "nhan_vat": [
+  "Frondier",
+  "Pascal",
+  "Kraken",
+  "Neil",
+  "Neil Jack",
+  "Student Frondier"
+ ],
+ "su_kien": [
+  "Frondier nhận ra Weaving là sự sử dụng mana, không phải một khái niệm riêng biệt.",
+  "Frondier bắt đầu thử nghiệm cách sử dụng Weaving trực tiếp thông qua cơ thể.",
+  "Frondier bộc lộ khả năng tạo ra aura vô hình trong trận chiến với Pascal.",
+  "Pascal hỗ trợ Frondier bằng cách bắn aura từ phía sau.",
+  "Một cô gái hầu gái bất ngờ xuất hiện và tấn công Kraken."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ trong trận chiến, Pascal hỗ trợ Frondier",
+   "cach_goi": "gọi tên Pascal, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ trong trận chiến, Pascal hỗ trợ Frondier",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kraken",
+   "loai": "ke_thu",
+   "mo_ta": "kẻ thù, Kraken bị tấn công bởi cô gái hầu gái",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kraken",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "kẻ thù, bị Frondier và cô gái hầu gái tấn công",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Kraken",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ của Kraken, hỗ trợ Frondier",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Neil Jack",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "sở hữu thanh kiếm mà Frondier sử dụng",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Student Frondier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "người học trò của Frondier",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 719,
+  "seconds": 21.6
+ }
+}

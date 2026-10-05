@@ -1,0 +1,66 @@
+{
+ "number": 315,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier khám phá một căn phòng ẩn trong xưởng làm việc bằng cách mở một cánh cửa bí mật trên sàn nhà. Cánh cửa dẫn đến một hành lang dài xuống tầng hầm rộng lớn, nơi có một cánh cửa khổng lồ chặn lối vào. Sau khi nói câu trả lời “Tôi không tin vào thần” theo tiếng cổ, cánh cửa đã tự động mở ra. Bên trong là một căn phòng chứa vô số tượng đá, và Frondier nhận ra một trong số đó là bức tượng của Merlin.",
+ "boi_canh": "Trong xưởng làm việc bí mật, tầng hầm sâu thẳm.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Quinie",
+  "Jane",
+  "Merlin"
+ ],
+ "su_kien": [
+  "Frondier tìm thấy và mở cánh cửa bí mật trên sàn nhà.",
+  "Frondier đi xuống một cầu thang dài dẫn đến tầng hầm.",
+  "Cánh cửa lớn tự động mở sau khi Frondier nói câu trả lời theo tiếng cổ.",
+  "Phát hiện căn phòng chứa vô số tượng đá.",
+  "Frondier nhận ra bức tượng của Merlin."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier nhắc đến Aster trong suy nghĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier nhắc đến Sybil trong suy nghĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier nhắc đến Quinie trong suy nghĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier nhắc đến Jane trong suy nghĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Merlin",
+   "loai": "thay_tro",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier nhớ lại việc đã gặp Merlin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster."
+ ],
+ "stats": {
+  "tokens": 708,
+  "seconds": 21.8
+ }
+}

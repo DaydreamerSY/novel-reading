@@ -1,0 +1,85 @@
+{
+ "number": 168,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong bối cảnh chiến trường hỗn loạn, Frondier phát hiện ra một điểm yếu trên bức tường phòng thủ mà những người khác bỏ qua. Sau khi Aten xác nhận lại thông tin này, mọi người đều lo lắng. Để giải quyết vấn đề, Frondier đề xuất gia cố tạm thời bằng phép thuật băng của Aten và tìm kiếm một pháp sư có thể tăng cường mana cho phép thuật đã tồn tại, đó là Sybil. Tuy nhiên, việc này cần tới 5 ngày, khiến tình hình trở nên cấp bách hơn.",
+ "boi_canh": "Trên chiến trường, trong tình huống nguy ngập.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Sybil",
+  "Ludwig",
+  "Sanders",
+  "Hector"
+ ],
+ "su_kien": [
+  "Frondier phát hiện ra điểm yếu trên bức tường phòng thủ.",
+  "Aten xác nhận lại thông tin của Frondier.",
+  "Frondier đề xuất gia cố tạm thời bằng phép thuật băng của Aten.",
+  "Đề cập đến Sybil có khả năng tăng cường mana cho phép thuật đã tồn tại.",
+  "Cần 5 ngày để Sybil có thể thực hiện việc đó."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sanders",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier báo cáo tình hình cho Sanders, người phản đối vì lo ngại ảnh hưởng đến tinh thần chiến đấu.",
+   "cach_goi": "gọi tên Sanders, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Sanders phản đối vì lo ngại ảnh hưởng đến tinh thần chiến đấu.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đề nghị sự giúp đỡ của Aten để gia cố tường.",
+   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Aten đồng ý giúp đỡ và cung cấp thông tin về khả năng sử dụng phép thuật băng.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Ludwig đặt câu hỏi về độ chính xác của nhận định của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier giải thích về tình hình và đưa ra phương án.",
+   "cach_goi": "gọi tên Ludwig, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hector",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Hector bày tỏ sự lo ngại về thời gian và tính khả thi của kế hoạch.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hector",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier trấn an và giải thích thêm về kế hoạch.",
+   "cach_goi": "gọi tên Hector, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 977,
+  "seconds": 30.1
+ }
+}

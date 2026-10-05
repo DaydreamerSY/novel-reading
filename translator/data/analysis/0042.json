@@ -1,0 +1,55 @@
+{
+ "number": 42,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trốn trong bụi cây chờ đợi, Edwin quyết định di chuyển để tránh bị phát hiện. Trong lúc đó, anh vô tình gặp Ellen đang đi bộ say giấc ngủ. Sự việc trở nên căng thẳng hơn khi Ellen nhận ra mùi máu và nghi ngờ Edwin liên quan đến một vụ giết người sử dụng golem. Cuối cùng, Edwin phải đối mặt với sự tức giận của Ellen và nguy cơ bị phơi bày bí mật.",
+ "boi_canh": "Đêm tối gần trường Constel.",
+ "nhan_vat": [
+  "Edwin",
+  "Ellen",
+  "Frondier",
+  "Golem"
+ ],
+ "su_kien": [
+  "Edwin trốn trong bụi cây và chờ đợi.",
+  "Ellen đi bộ say giấc ngủ xuất hiện.",
+  "Ellen ngửi thấy mùi máu và nghi ngờ Edwin.",
+  "Golem tấn công Ellen.",
+  "Edwin cố gắng vô hiệu hóa golem."
+ ],
+ "quan_he": [
+  {
+   "a": "Edwin",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè lâu năm, Edwin có vẻ đang che giấu điều gì đó.",
+   "cach_goi": "gọi tên Ellen, thân thiện"
+  },
+  {
+   "a": "Ellen",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè lâu năm, Ellen đang chất vấn Edwin.",
+   "cach_goi": "gọi tên Edwin, nghi ngờ"
+  },
+  {
+   "a": "Edwin",
+   "b": "Golem",
+   "loai": "khac",
+   "mo_ta": "Edwin điều khiển golem, có vẻ không kiểm soát được.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Golem",
+   "loai": "ke_thu",
+   "mo_ta": "Ellen nghi ngờ golem liên quan đến một vụ án.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 523,
+  "seconds": 15.8
+ }
+}

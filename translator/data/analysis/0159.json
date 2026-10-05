@@ -1,0 +1,74 @@
+{
+ "number": 159,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp gỡ Jei, một sát thủ từ tổ chức Manggot, và quyết định cho cô một cái tên mới là Selena. Anh đến Tyburn theo kế hoạch của Constel nhưng bị Ludwig, người đứng đầu gia đình Urfa, phản đối kịch liệt vì sự xuất hiện của anh được xem là điên rồ. Những lời đồn đại về Frondier lan nhanh chóng trong các hiệp sĩ tại Tyburn.",
+ "boi_canh": "Tại trang viên Urfa ở Tyburn, vào thời điểm Frondier đến thăm.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Philly",
+  "Enfer",
+  "Ludwig",
+  "Robert",
+  "Jei"
+ ],
+ "su_kien": [
+  "Frondier sử dụng kỹ năng 'phân tích' để biết thêm thông tin về Jei.",
+  "Frondier đổi tên Jei thành Selena.",
+  "Ludwig phản đối việc Frondier đến Tyburn và mang theo Selena.",
+  "Những hiệp sĩ tại Tyburn lan truyền tin đồn về sự điên rồ của Frondier.",
+  "Robert, một hiệp sĩ trực thuộc Philly, xuất hiện tại Tyburn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Jei",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier cho Jei một cái tên mới và thể hiện sự quan tâm.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Jei",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena lắng nghe và tuân theo hướng dẫn của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đối diện với sự phản đối từ Ludwig, người có vẻ không hài lòng về việc anh đến Tyburn.",
+   "cach_goi": "gọi 'Ludwig', lễ phép"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Ludwig tỏ ra khó chịu và chỉ trích Frondier vì đã đến Tyburn.",
+   "cach_goi": "gọi 'Kid', thô lỗ"
+  },
+  {
+   "a": "Robert",
+   "b": "Các hiệp sĩ khác",
+   "loai": "dong_minh",
+   "mo_ta": "Robert lắng nghe những lời đồn đại về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Các hiệp sĩ khác",
+   "b": "Robert",
+   "loai": "dong_minh",
+   "mo_ta": "Các hiệp sĩ hỏi Robert về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Jei được đổi tên thành Selena."
+ ],
+ "stats": {
+  "tokens": 796,
+  "seconds": 24.7
+ }
+}

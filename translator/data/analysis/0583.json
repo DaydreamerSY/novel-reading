@@ -1,0 +1,73 @@
+{
+ "number": 583,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Lily chủ động tạo áp lực lên Frondier bằng những câu hỏi mang tính chất dò xét và đe dọa, liên quan đến việc bảo vệ Ameline và sự trung thành của anh với Đế quốc. Frondier đáp trả bằng cách sử dụng khả năng 'obsidian' để thăm dò ý định thực sự của Lily, đồng thời thể hiện sự cảnh giác cao độ. Cuối cùng, Lily sử dụng sức mạnh 'Charm' của mình lên Frondier, nhưng anh đã phản ứng nhanh chóng và tránh được đòn tấn công trực diện.",
+ "boi_canh": "Một nơi không xác định, trong tình huống căng thẳng giữa các nhân vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Ameline",
+  "Ria Lis",
+  "Shadow",
+  "Lis"
+ ],
+ "su_kien": [
+  "Lily đặt câu hỏi dò xét Frondier về việc bảo vệ Ameline.",
+  "Frondier sử dụng 'obsidian' để thăm dò ý định của Lily.",
+  "Lily triển khai sức mạnh 'Charm' lên Frondier.",
+  "Frondier phản ứng nhanh chóng, tránh được đòn tấn công trực diện từ Lily.",
+  "Một vết cắt nhỏ trên mặt Lily do Frondier gây ra."
+ ],
+ "quan_he": [
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Lily cố gắng thăm dò và gây áp lực lên Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ thái độ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier cảnh giác và thăm dò ý định của Lily.",
+   "cach_goi": "gọi tên Lily, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ameline",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người bảo vệ Ameline.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Ameline",
+   "loai": "dong_minh",
+   "mo_ta": "Lily có vẻ đang bảo vệ Ameline.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Shadow",
+   "loai": "khac",
+   "mo_ta": "Liên quan đến bí mật của Shadow Unit.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Ria Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng liên quan đến tình hình chung.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Hiện đang là người bảo vệ của Ameline theo yêu cầu của Lily."
+ ],
+ "stats": {
+  "tokens": 783,
+  "seconds": 24.5
+ }
+}

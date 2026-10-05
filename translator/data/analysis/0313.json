@@ -1,0 +1,73 @@
+{
+ "number": 313,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp Esther và được dẫn đến Cain, người đang bị giam giữ. Qua cuộc trò chuyện, Frondier tìm hiểu thêm về Fragment của Helheim và hỏi Cain về các cổng không gian (portals). Cain tiết lộ lý tưởng cách mạng của mình và bày tỏ sự quyết tâm theo đuổi nó, dù có thể chưa từng giết ai.",
+ "boi_canh": "Trong một phòng giam, Frondier đang trò chuyện với Esther và Cain thông qua một thiết bị liên lạc.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly",
+  "Heldre",
+  "Cain",
+  "Bartello",
+  "Esther",
+  "Serf",
+  "Grobel",
+  "Serf Daniel",
+  "Philly Terst",
+  "Hel",
+  "Bartello Terst"
+ ],
+ "su_kien": [
+  "Frondier và Esther thảo luận về Fragment của Helheim.",
+  "Frondier được giới thiệu với Cain thông qua một thiết bị liên lạc.",
+  "Cain bày tỏ sự ngạc nhiên khi Frondier đến thăm cô.",
+  "Frondier hỏi Cain về các cổng không gian (portals).",
+  "Cain tiết lộ lý tưởng cách mạng của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Esther cung cấp thông tin cho Frondier.",
+   "cach_goi": "gọi tên Esther, thân mật"
+  },
+  {
+   "a": "Esther",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Esther cung cấp thông tin cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier đang thẩm vấn Cain.",
+   "cach_goi": "gọi tên Cain, lạnh lùng"
+  },
+  {
+   "a": "Cain",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Cain tỏ ra không thích Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Esther",
+   "b": "Cain",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mistilteinn (đã bị chứng minh là giả mạo, chứa Obsidian)"
+ ],
+ "stats": {
+  "tokens": 723,
+  "seconds": 22.2
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "number": 383,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Selena phát hiện một người đàn ông khả nghi tại trung tâm thương mại. Họ nhận thấy anh ta có năng lượng bên trong lớn nhưng không thể kiểm soát được. Jacob đột ngột xuất hiện và bắt đầu nói chuyện phiếm, sau đó Frondier sử dụng Obsidian từ vòng tay Black Lotus để vô hiệu hóa anh ta. Selena lo ngại về nguồn gốc của aura mà Jacob sở hữu, cho rằng có thể là 'doping'.",
+ "boi_canh": "Trong một trung tâm thương mại, trong lúc mua sắm.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Elodie",
+  "Aten",
+  "Sybil",
+  "Jacob",
+  "Alan"
+ ],
+ "su_kien": [
+  "Frondier và Selena phát hiện một người đàn ông khả nghi.",
+  "Jacob đột ngột xuất hiện và bắt đầu nói chuyện phiếm.",
+  "Frondier sử dụng Obsidian từ vòng tay Black Lotus để vô hiệu hóa Jacob.",
+  "Selena bày tỏ lo ngại về nguồn gốc aura của Jacob.",
+  "Frondier quyết định giao việc này cho cảnh sát."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, cùng nhau quan sát và đánh giá tình hình.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, cùng nhau quan sát và đánh giá tình hình.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Frondier quan sát Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Elodie bị Frondier quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Frondier quan sát Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Aten bị Frondier quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Frondier quan sát Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Sybil bị Frondier quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jacob",
+   "loai": "doi_thu",
+   "mo_ta": "Đối tượng bị Frondier vô hiệu hóa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jacob",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối tượng bị Frondier vô hiệu hóa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Jacob",
+   "loai": "doi_thu",
+   "mo_ta": "Đối tượng bị Selena quan sát và đánh giá.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jacob",
+   "b": "Selena",
+   "loai": "doi_thu",
+   "mo_ta": "Đối tượng bị Selena quan sát và đánh giá.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Jacob tự xưng là 'third finger'."
+ ],
+ "stats": {
+  "tokens": 1188,
+  "seconds": 35.5
+ }
+}

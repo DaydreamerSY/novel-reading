@@ -1,0 +1,103 @@
+{
+ "number": 221,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chặt đầu Kraken, Frondier phát hiện ra nó không chết hẳn và hồi phục lại. Kraken tiết lộ mối thù giữa 'Manggot' và Indus, đồng thời đưa cho Frondier một tấm danh thiếp và cảnh báo về sự phụ thuộc của anh vào Indus. Kraken sau đó bỏ trốn qua một cổng dịch chuyển đến một hệ thống cống ngầm, khiến Selena lo lắng. Frondier sử dụng lại aura để bắn tên theo hướng mà Kraken đã biến mất.",
+ "boi_canh": "Trong một khán phòng, sau khi một trận chiến vừa kết thúc.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Pascal",
+  "Kraken",
+  "Gregory",
+  "Khryselakatos",
+  "Indus"
+ ],
+ "su_kien": [
+  "Kraken bị chặt đầu nhưng sau đó hồi phục.",
+  "Kraken tiết lộ mối quan hệ thù địch giữa 'Manggot' và Indus.",
+  "Kraken đưa cho Frondier một tấm danh thiếp và cảnh báo về sự phụ thuộc của anh vào Indus.",
+  "Kraken bỏ trốn qua một cổng dịch chuyển đến một hệ thống cống ngầm.",
+  "Frondier sử dụng aura để bắn tên theo hướng Kraken đã biến mất."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier quan tâm đến tình trạng của Gregory sau trận chiến.",
+   "cach_goi": "gọi tên Gregory, lễ phép"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Gregory bị bất tỉnh sau trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Frondier có vẻ bối rối khi chạm tay lên đầu Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Selena có vẻ bối rối khi Frondier chạm tay lên đầu cô.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kraken",
+   "b": "Selena",
+   "loai": "doi_thu",
+   "mo_ta": "Kraken chế nhạo Selena.",
+   "cach_goi": "gọi tên Selena, thô lỗ"
+  },
+  {
+   "a": "Selena",
+   "b": "Kraken",
+   "loai": "doi_thu",
+   "mo_ta": "Selena phản bác lại sự chế nhạo của Kraken.",
+   "cach_goi": "gọi tên Kraken, thô lỗ"
+  },
+  {
+   "a": "Kraken",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Kraken cảnh báo Frondier về sự phụ thuộc của anh vào Indus.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kraken",
+   "loai": "ke_thu",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Indus: Người đứng sau mọi việc, có vẻ là kẻ thù của 'Manggot'.",
+  "'Manggot': Tổ chức hoặc nhóm mà Selena có liên quan đến."
+ ],
+ "stats": {
+  "tokens": 1087,
+  "seconds": 32.4
+ }
+}

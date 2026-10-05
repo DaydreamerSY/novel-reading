@@ -1,0 +1,87 @@
+{
+ "number": 288,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier bí mật kích hoạt một Rune để thử nghiệm 'Hearth của Hestia', một vật phẩm có khả năng ban phước cho các vật thể khác. Anh ta sử dụng nó để tăng cường sức mạnh của Mjölnir, búa của Thor, khiến nó được ban tặng sức mạnh của Sấm chớp. Trong khi đó, Selena đang tận hưởng thời gian ở Constel với những người bạn mới và phải đối mặt với những lời bàn tán về vai trò hộ tống của cô dành cho Frondier.",
+ "boi_canh": "Đêm khuya trên bãi biển.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Jane",
+  "Thor",
+  "Hestia"
+ ],
+ "su_kien": [
+  "Frondier kích hoạt Rune để thử nghiệm 'Hearth của Hestia'.",
+  "Mjölnir được ban tặng sức mạnh của Sấm chớp thông qua Hearth.",
+  "Selena hòa nhập với bạn bè tại Constel.",
+  "Những người bạn của Selena bàn tán về vai trò hộ tống của cô dành cho Frondier.",
+  "Selena phủ nhận những lời đồn đoán và khẳng định không có chuyện gì xảy ra giữa cô và Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Hestia",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier đang thử nghiệm vật phẩm liên quan đến Hestia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena là người được Frondier giao nhiệm vụ hộ tống.",
+   "cach_goi": "gọi tên Frondier, không rõ tone"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier không nhắc Selena về việc cô không ở Manggot.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Jane",
+   "loai": "ban_be",
+   "mo_ta": "Selena và Jane là bạn bè.",
+   "cach_goi": "gọi tên Jane, lễ phép"
+  },
+  {
+   "a": "Bạn của Selena",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Những người bạn của Selena đang bàn tán về Frondier và vai trò hộ tống của Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Bạn của Selena",
+   "loai": "ban_be",
+   "mo_ta": "Selena đang cố gắng xoa dịu những lời bàn tán của bạn bè.",
+   "cach_goi": "gọi tên bạn, thân mật"
+  },
+  {
+   "a": "Thor",
+   "b": "Mjölnir",
+   "loai": "chu_to",
+   "mo_ta": "Thor là chủ nhân của Mjölnir.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mjölnir",
+   "loai": "khac",
+   "mo_ta": "Frondier đang sử dụng Hearth để tăng cường sức mạnh của Mjölnir.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hearth của Hestia: Vật phẩm Divine, có khả năng ban phước cho các vật thể khác.",
+  "Mjölnir: Búa của Thor, được ban tặng sức mạnh của Sấm chớp."
+ ],
+ "stats": {
+  "tokens": 985,
+  "seconds": 30.2
+ }
+}

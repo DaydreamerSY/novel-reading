@@ -1,0 +1,98 @@
+{
+ "number": 10,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đến trang viên nhà Miller để tham gia buổi gặp mặt các gia tộc lớn nhằm tranh giành Mistilteinn. Anh gặp Azier trên đường đi và chứng kiến sự hiện diện của cha anh, Enfer de Roach, người thể hiện quyền lực bằng cách khiến mọi người phải chờ đợi. Buổi họp diễn ra với nhiều lời chào hỏi và những đề nghị trao đổi tài sản để có được Mistilteinn, đặc biệt là sự xuất hiện bí ẩn của Quinie thu hút sự chú ý của Frondier.",
+ "boi_canh": "Trang viên nhà Miller, buổi gặp mặt các gia tộc lớn về việc tranh giành Mistilteinn.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Quinie",
+  "Enfer",
+  "Heldre",
+  "Ludwig",
+  "Ortel",
+  "Enfer de Roach",
+  "Miller"
+ ],
+ "su_kien": [
+  "Frondier gặp Azier trên đường đến trang viên.",
+  "Sự xuất hiện của Enfer de Roach khiến mọi người phải chờ đợi.",
+  "Ludwig bắt đầu buổi họp với một lời chào hỏi có phần thiếu lễ phép.",
+  "Mistilteinn được đưa ra để trưng bày.",
+  "Enfer tuyên bố sẽ dùng kiếm của mình để trao đổi lấy Mistilteinn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em ruột thịt, Frondier là người nhỏ tuổi hơn.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer de Roach",
+   "loai": "cap_tren",
+   "mo_ta": "Cha của Frondier, người có quyền lực lớn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer de Roach",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Cha của Frondier, người có quyền lực lớn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Enfer de Roach",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Enfer, có vẻ thân thiện hơn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "Đi cùng Ludwig, có lẽ là bạn bè hoặc đồng minh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier cảm thấy có gì đó đáng ngờ về cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Miller",
+   "loai": "nguoi_la",
+   "mo_ta": "Ludwig yêu cầu Miller đưa ra Mistilteinn.",
+   "cach_goi": "gọi tên Miller, trịch thượng"
+  },
+  {
+   "a": "Enfer de Roach",
+   "b": "Butler",
+   "loai": "chu_to",
+   "mo_ta": "Enfer ra lệnh cho quản gia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Enfer de Roach: Gia chủ nhà Roach, cha của Frondier và Azier, chồng của Malia."
+ ],
+ "stats": {
+  "tokens": 1024,
+  "seconds": 30.6
+ }
+}

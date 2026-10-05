@@ -1,0 +1,74 @@
+{
+ "number": 599,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier bị Paul và Jeremy thẩm vấn về việc tham gia một bữa tiệc và những thông tin anh ta có được từ các quỷ dữ. Họ nghi ngờ Frondier đang làm việc cho lũ quỷ phương Tây hoặc cố gắng phân biệt giữa người và quỷ. Sau khi giả vờ mất hết Mana, Frondier bộc lộ khả năng sử dụng 'Mana của Helheim', khiến Paul và Jeremy kinh ngạc và hoảng sợ.",
+ "boi_canh": "Một căn phòng thẩm vấn bí mật, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Paul",
+  "Frondier de Roach",
+  "Jeremy",
+  "Neil",
+  "Neil Jack"
+ ],
+ "su_kien": [
+  "Paul và Jeremy thẩm vấn Frondier về việc tham gia bữa tiệc.",
+  "Frondier bị Paul đá vào mặt khi đang suy yếu do mất Mana.",
+  "Jeremy tố cáo Frondier đã nói chuyện với quỷ Agoris để tìm hiểu cách phân biệt người và quỷ.",
+  "Frondier giả vờ mất hết Mana bằng thiết bị của Paul.",
+  "Frondier bộc lộ khả năng sử dụng 'Mana của Helheim' và tạo ra các vật phẩm."
+ ],
+ "quan_he": [
+  {
+   "a": "Paul",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Paul thẩm vấn và tra tấn Frondier để lấy thông tin.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Paul",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier phản kháng lại sự thẩm vấn của Paul.",
+   "cach_goi": "gọi tên Paul, thô lỗ"
+  },
+  {
+   "a": "Jeremy",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Jeremy tham gia thẩm vấn Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jeremy",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier bị Jeremy thẩm vấn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Paul",
+   "b": "Jeremy",
+   "loai": "cap_tren",
+   "mo_ta": "Paul là người có vị trí cao hơn Jeremy.",
+   "cach_goi": "gọi tên Jeremy, thân mật"
+  },
+  {
+   "a": "Jeremy",
+   "b": "Paul",
+   "loai": "cap_tren",
+   "mo_ta": "Jeremy là cấp dưới của Paul.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của Frondier)"
+ ],
+ "stats": {
+  "tokens": 762,
+  "seconds": 23.8
+ }
+}

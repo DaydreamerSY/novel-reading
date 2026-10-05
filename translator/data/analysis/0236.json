@@ -1,0 +1,65 @@
+{
+ "number": 236,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier kiểm tra bài tập giải mã ngôn ngữ cổ của Selena và thấy cô hoàn thành xuất sắc. Anh tiết lộ rằng việc giải mã này chỉ là bước khởi đầu và Manggot đang cố gắng áp dụng những kiến thức cơ bản mà anh đã cung cấp. Sau đó, Frondier từ chối tiếp tục dạy Selena vì sợ Manggot sẽ học được quá nhiều. Cuối cùng, câu chuyện chuyển sang Quinie, người đang băn khoăn về việc ai biết được điểm yếu của cô và gặp một người đàn ông đeo mặt nạ kỳ lạ bên ngoài cửa sổ.",
+ "boi_canh": "Trong phòng làm việc, Frondier đang kiểm tra bài tập giải mã ngôn ngữ cổ của Selena.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Quinie",
+  "Kora",
+  "Người đàn ông đeo mặt nạ"
+ ],
+ "su_kien": [
+  "Selena hoàn thành bài tập giải mã ngôn ngữ cổ.",
+  "Frondier tiết lộ rằng Manggot đang cố gắng giải mã ngôn ngữ cổ.",
+  "Frondier từ chối tiếp tục dạy Selena về ngôn ngữ cổ.",
+  "Quinie suy nghĩ về việc ai biết được điểm yếu của cô.",
+  "Một người đàn ông đeo mặt nạ xuất hiện bên ngoài cửa sổ của Quinie."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học trò, Frondier đang dạy ngôn ngữ cổ cho Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò và giáo viên, Selena đang học ngôn ngữ cổ từ Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Frondier đang suy nghĩ về Quinie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Người đàn ông đeo mặt nạ",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu, không quen biết.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người đàn ông đeo mặt nạ",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu, không quen biết.",
+   "cach_goi": "gọi Quinie bằng tên, trêu chọc"
+  }
+ ],
+ "danh_tinh": [
+  "Kora: Có thể là một nhân vật quan trọng liên quan đến việc tìm ra kẻ phạm tội và điểm yếu của Quinie."
+ ],
+ "stats": {
+  "tokens": 765,
+  "seconds": 23.5
+ }
+}

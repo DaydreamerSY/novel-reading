@@ -1,0 +1,90 @@
+{
+ "number": 341,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhận báo cáo từ Gregory về sự xuất hiện của một mảnh Helheim. Trong khi bị giam lỏng, Frondier lo lắng về sức mạnh của kẻ thù và khả năng phòng thủ của rào cản. Gregory cảnh báo về số lượng lớn quái vật bên ngoài và sự phối hợp bất thường của chúng, cho thấy có sự can thiệp của thần thánh. Cuối cùng, Sylvain dẫn đầu các kỵ sĩ tấn công, trong khi Enfer lên kế hoạch riêng.",
+ "boi_canh": "Phòng Frondier, nơi anh bị giam lỏng.",
+ "nhan_vat": [
+  "Frondier",
+  "Gregory",
+  "Enfer",
+  "Edwin",
+  "Sylvain",
+  "Penelope",
+  "Hel",
+  "Selena"
+ ],
+ "su_kien": [
+  "Gregory báo cáo về mảnh Helheim.",
+  "Frondier bị giam lỏng trong phòng.",
+  "Gregory lo ngại về sức mạnh của kẻ thù và khả năng phòng thủ của rào cản.",
+  "Sylvain dẫn đầu các kỵ sĩ tấn công.",
+  "Enfer lên kế hoạch riêng và giao nhiệm vụ cho Sylvain."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là học trò của Gregory; Frondier lắng nghe báo cáo từ Gregory.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Gregory báo cáo cho Frondier; Gregory lo lắng về tình hình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier bị giam giữ theo lệnh của Enfer; Frondier có thái độ mỉa mai với Enfer.",
+   "cach_goi": "gọi tên Enfer, không tôn trọng"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Enfer là người ra lệnh giam giữ Frondier; Enfer không quan tâm đến ý kiến của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Sylvain là một người bảo vệ; Sylvain hỏi Enfer về kế hoạch của ông.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier quan sát Sylvain; Frondier nhận ra một điều gì đó kỳ lạ ở Sylvain.",
+   "cach_goi": "gọi tên Sylvain, tôn trọng"
+  },
+  {
+   "a": "Enfer",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Enfer là người chỉ huy; Enfer giao nhiệm vụ cho Sylvain.",
+   "cach_goi": "gọi tên Sylvain, tôn trọng"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Sylvain là một kỵ sĩ; Sylvain tuân theo lệnh của Enfer.",
+   "cach_goi": "gọi tên Enfer, tôn trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Helheim: Ban đầu được gọi là 'Hel', sau đó được đổi tên để tránh nhầm lẫn với nữ thần Hel.",
+  "Fabric of Penelope: Đã được Frondier trao cho Selena."
+ ],
+ "stats": {
+  "tokens": 1001,
+  "seconds": 30.0
+ }
+}

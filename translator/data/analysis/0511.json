@@ -1,0 +1,141 @@
+{
+ "number": 511,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier triệu tập một nhóm người có ảnh hưởng trong học viện để thảo luận về sự mất tích đột ngột của Selena và những dấu hiệu bất thường đang diễn ra tại Constel. Aster Evans tiết lộ rằng Manggot sắp đến, và Frondier nhận ra Aster đã vượt qua giới hạn của nhân vật game mà anh từng kiểm soát. Cuộc đối thoại giữa họ làm nổi bật sự phát triển độc lập của Aster và sự lo lắng của Frondier về việc liệu Aster có thể đạt được sức mạnh mà không đi theo con đường tối ưu đã được thiết lập trước đó. Cuối cùng, Aster bày tỏ sự nghi ngờ đối với Frondier, và Elodie xuất hiện với một câu nói đầy ẩn ý.",
+ "boi_canh": "Trong lớp học sau giờ học, thảo luận về sự mất tích của Selena.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Pielott",
+  "Ellen",
+  "Dier",
+  "Edwin",
+  "Lunia",
+  "Robald",
+  "Aster Evans",
+  "Ellen Evans",
+  "Sybil Forte",
+  "Lunia Fricell",
+  "Edwin von Behetorio",
+  "Robald Lieff",
+  "Pielott von Ribanche",
+  "Dier Aigar"
+ ],
+ "su_kien": [
+  "Frondier triệu tập Aster, Ellen, Edwin, Dier, Pielott và Aten để thảo luận về sự mất tích của Selena.",
+  "Aster tiết lộ rằng Manggot sắp đến và đế chế đang chuẩn bị lực lượng để ngăn chặn.",
+  "Frondier nhận ra Aster đã vượt qua giới hạn nhân vật game ban đầu.",
+  "Aster rút kiếm và thể hiện sức mạnh vượt trội so với phiên bản trước đây của anh.",
+  "Elodie xuất hiện và đưa ra một câu nói đầy ẩn ý về việc không sợ hãi các vị thần."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Triệu tập và thảo luận về sự mất tích của Selena.",
+   "cach_goi": "gọi tên Lunia, thân mật"
+  },
+  {
+   "a": "Lunia",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đề nghị và đặt câu hỏi về sự mất tích của Selena.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Quan sát và lo lắng về sự phát triển của Aster.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Nghi ngờ và đối đầu với Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Aster",
+   "b": "Ellen",
+   "loai": "gia_dinh",
+   "mo_ta": "Chia sẻ thông tin với chị gái.",
+   "cach_goi": "gọi tên Ellen, thân mật"
+  },
+  {
+   "a": "Ellen",
+   "b": "Aster",
+   "loai": "gia_dinh",
+   "mo_ta": "Cung cấp thông tin cho em trai.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Nghe báo cáo về tình hình công việc của gia đình Sybil.",
+   "cach_goi": "gọi tên Sybil, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Báo cáo về tình hình công việc của gia đình.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robald",
+   "loai": "nguoi_la",
+   "mo_ta": "Nghe báo cáo về tình hình công việc của gia đình Robald.",
+   "cach_goi": "gọi tên Robald, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Robald",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Báo cáo về tình hình công việc của gia đình.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Triệu tập để tham gia thảo luận.",
+   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Tham gia thảo luận.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đưa ra nhận xét về sự sợ hãi.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1544,
+  "seconds": 46.2
+ }
+}

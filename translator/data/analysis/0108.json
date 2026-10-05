@@ -1,0 +1,77 @@
+{
+ "number": 108,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối chất với Alex về việc tìm ra kẻ phản bội ở Constel. Sau khi tự xưng là một phần của nhóm phản bội, Frondier cho thấy mình có một chiếc nhẫn thuộc hoàng gia và sử dụng Weaving để tạo ra bản sao hoàn hảo. Cuối cùng, Alex nghi ngờ rằng Elysia đã trao chiếc nhẫn này cho Frondier, khiến anh ta hoang mang.",
+ "boi_canh": "Trong một căn phòng học trống ở đế quốc.",
+ "nhan_vat": [
+  "Frondier",
+  "Alex",
+  "Philly",
+  "Aten",
+  "Renzo",
+  "Elysia",
+  "Sale",
+  "Greg"
+ ],
+ "su_kien": [
+  "Frondier đối chất với Alex về kẻ phản bội ở Constel.",
+  "Frondier tự xưng là một phần của nhóm phản bội.",
+  "Frondier cho thấy mình có chiếc nhẫn hoàng gia và tạo bản sao bằng Weaving.",
+  "Alex nghi ngờ Elysia đã trao chiếc nhẫn cho Frondier.",
+  "Alex đặt câu hỏi về sự can thiệp của Frondier vào kế hoạch của Renzo."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Alex",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp về thông tin phản bội.",
+   "cach_goi": "gọi tên Alex, lạnh lùng"
+  },
+  {
+   "a": "Alex",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp về thông tin phản bội.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "nguoi_la",
+   "mo_ta": "Hỏi về chiếc nhẫn hoàng gia.",
+   "cach_goi": "gọi 'Lady Philly', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Trả lời câu hỏi của Frondier về chiếc nhẫn.",
+   "cach_goi": "gọi tên Frondier, trang trọng"
+  },
+  {
+   "a": "Alex",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Nghi ngờ và chất vấn về chiếc nhẫn.",
+   "cach_goi": "gọi tên Frondier, nghi ngờ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Alex",
+   "loai": "doi_thu",
+   "mo_ta": "Đe dọa và thao túng Alex.",
+   "cach_goi": "gọi tên Alex, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)",
+  "Philly Terst (hoàng hậu đế quốc)",
+  "Aten Terst (tam công chúa)"
+ ],
+ "stats": {
+  "tokens": 798,
+  "seconds": 24.7
+ }
+}

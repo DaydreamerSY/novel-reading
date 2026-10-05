@@ -1,0 +1,100 @@
+{
+ "number": 257,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Elodie và Lunia bàn luận về lịch trình bận rộn của Frondier, nhận thấy anh dường như không có thời gian nghỉ ngơi. Jane thông báo rằng Frondier sẽ tham gia công việc tình nguyện thay vì đi thực tế tại Cropolis, gây ra những lời xì xào trong lớp học. Thực chất, đây là một phần của kế hoạch để Frondier bí mật thực hiện nhiệm vụ bắt giữ Indus và bảo vệ Kora.",
+ "boi_canh": "Trong lớp học ở Constel, vào thời điểm thông báo về chuyến đi thực tế.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aten",
+  "Azier",
+  "Osprey",
+  "Jane",
+  "Lunia",
+  "Kora",
+  "Armel",
+  "Student Frondier"
+ ],
+ "su_kien": [
+  "Elodie và Selena nhận xét về lịch trình bận rộn của Frondier.",
+  "Jane thông báo Frondier sẽ tham gia công việc tình nguyện thay vì đi thực tế.",
+  "Học sinh xì xào bàn tán về lý do Frondier phải làm tình nguyện.",
+  "Kora bị buộc phải tham gia tình nguyện sau khi hít phải một loại bột.",
+  "Jane thông báo điểm đến của chuyến thực tế là Cropolis."
+ ],
+ "quan_he": [
+  {
+   "a": "Elodie",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, cùng quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, cùng quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Lunia",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, quan sát cuộc trò chuyện của Elodie và Selena.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, Jane đưa ra thông báo về công việc tình nguyện của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Jane",
+   "b": "Student Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, Jane đưa ra thông báo về công việc tình nguyện của Frondier.",
+   "cach_goi": "gọi 'Student Frondier', lễ phép"
+  },
+  {
+   "a": "Kora",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ, Kora đi cùng Frondier vì lý do an toàn.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Kora",
+   "loai": "nguoi_la",
+   "mo_ta": "Giáo viên và học sinh, Jane thông báo về việc Kora tham gia tình nguyện.",
+   "cach_goi": "gọi tên Kora, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Tạm công chúa và học sinh, Aten quan tâm đến tình trạng của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Học sinh và tạm công chúa, Frondier trấn an Aten.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Cropolis: Thành phố nghỉ dưỡng ven hồ.",
+  "Indus: Đối tượng mà Frondier đang bí mật truy lùng."
+ ],
+ "stats": {
+  "tokens": 1116,
+  "seconds": 35.4
+ }
+}

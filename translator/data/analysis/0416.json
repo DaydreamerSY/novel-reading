@@ -1,0 +1,85 @@
+{
+ "number": 416,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong cuộc họp, mọi người tranh cãi về vị trí căn cứ thật sự của kẻ thù. Frondier chỉ ra một điểm trên bản đồ ba chiều, cho thấy các báo cáo sai lệch xuất phát từ khu vực xung quanh Constel. Eden nghi ngờ tính xác thực của thông tin này, nhưng Azier đã can thiệp. Cuối cùng, Frondier tiết lộ rằng anh ta muốn được phép điều tra một mình.",
+ "boi_canh": "Trong phòng họp, đang diễn ra một cuộc tranh luận căng thẳng về vị trí căn cứ bí mật của kẻ thù.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Eden",
+  "Binkis"
+ ],
+ "su_kien": [
+  "Mọi người tranh cãi về vị trí căn cứ thật sự của kẻ thù.",
+  "Frondier chỉ ra điểm trên bản đồ ba chiều, cho thấy các báo cáo sai lệch xuất phát từ khu vực xung quanh Constel.",
+  "Eden nghi ngờ tính xác thực của thông tin do Frondier cung cấp.",
+  "Azier cảnh báo Eden phải cẩn thận với lời nói của mình.",
+  "Frondier tiết lộ anh ta muốn được phép điều tra một mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là học sinh, Azier có vẻ là người có quyền lực hơn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Azier có vẻ là người có quyền lực hơn, cảnh báo Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Eden nghi ngờ và chất vấn thông tin của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier im lặng khi bị Eden chất vấn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Được nhắc đến trong cuộc thảo luận, có vẻ là đồng nghiệp của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "ban_be",
+   "mo_ta": "Được nhắc đến trong cuộc thảo luận, có vẻ là đồng nghiệp của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden",
+   "b": "Azier",
+   "loai": "nguoi_la",
+   "mo_ta": "Eden và Azier có vẻ là đồng cấp hoặc người có vị trí tương đương.",
+   "cach_goi": "gọi tên Azier, không rõ"
+  },
+  {
+   "a": "Azier",
+   "b": "Eden",
+   "loai": "nguoi_la",
+   "mo_ta": "Azier cảnh báo Eden phải cẩn thận với lời nói của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Constel: Cơ sở đào tạo trẻ trở thành chuyên gia (pro)."
+ ],
+ "stats": {
+  "tokens": 947,
+  "seconds": 28.1
+ }
+}

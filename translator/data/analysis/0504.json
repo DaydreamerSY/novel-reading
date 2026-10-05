@@ -1,0 +1,117 @@
+{
+ "number": 504,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier kể lại về mối đe dọa từ Manggot và những hậu quả nghiêm trọng mà nó có thể gây ra cho Đế quốc. Những lời nói của anh bị các Zodiacs nghi ngờ và phản đối gay gắt. Để thuyết phục họ, Frondier đưa ra những điều kiện kỳ lạ: trở thành hiệp sĩ của Lily trong một tháng và đệ tử của Monty. Cuối cùng, sau khi nhận được sự đồng ý từ Ludwig và Lily, Frondier yêu cầu Lily giúp anh tìm kiếm Renzo.",
+ "boi_canh": "Trong phòng họp của các Zodiacs, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Renzo",
+  "Lily",
+  "Enfer",
+  "Ludwig",
+  "Monty",
+  "Ria Lis",
+  "Lis"
+ ],
+ "su_kien": [
+  "Frondier kể về mối đe dọa từ Manggot.",
+  "Các Zodiacs nghi ngờ và phản đối lời Frondier.",
+  "Frondier đề nghị trở thành hiệp sĩ của Lily và đệ tử của Monty.",
+  "Ludwig đồng ý sau khi được Frondier giải thích thêm.",
+  "Frondier yêu cầu Lily tìm kiếm Renzo."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier báo cáo tình hình cho Hoàng hậu.",
+   "cach_goi": "gọi tên Philly, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier.",
+   "cach_goi": "gọi tên Azier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier đề nghị trở thành đệ tử của Monty.",
+   "cach_goi": "gọi tên Monty, lễ phép"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Monty chấp nhận đề nghị của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier thuyết phục Ludwig.",
+   "cach_goi": "gọi tên Ludwig, lễ phép"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Ludwig đặt câu hỏi và cuối cùng đồng ý.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Đề nghị trở thành hiệp sĩ của Lily.",
+   "cach_goi": "gọi tên Lily, lễ phép"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Lily ban đầu phản đối nhưng sau đó đồng ý một cách hào hứng.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Monty",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Monty cố gắng ngăn cản Lily.",
+   "cach_goi": "gọi tên Lily, lễ phép"
+  },
+  {
+   "a": "Lily",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Lily phản đối lời ngăn cản của Monty.",
+   "cach_goi": "gọi tên Monty, thân mật"
+  },
+  {
+   "a": "Ria Lis",
+   "b": "Monty",
+   "loai": "cap_tren",
+   "mo_ta": "Ria Lis cố gắng can thiệp.",
+   "cach_goi": "gọi tên Monty, lễ phép"
+  },
+  {
+   "a": "Monty",
+   "b": "Ria Lis",
+   "loai": "cap_tren",
+   "mo_ta": "Monty trả lời Ria Lis.",
+   "cach_goi": "gọi tên Ria Lis, lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1194,
+  "seconds": 35.9
+ }
+}

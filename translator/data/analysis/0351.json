@@ -1,0 +1,64 @@
+{
+ "number": 351,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mô tả một trận chiến ác liệt giữa Frondier và lũ quái vật trên bức tường chắn. Frondier kiệt sức, gần như không thể thở được, nhưng vẫn tiếp tục chiến đấu. Anh nhận được sự thúc giục từ một binh lính vô danh, giúp anh lấy lại tinh thần. Sau đó, Frondier phát hiện ra một chiến thuật đáng lo ngại của lũ quái vật: chúng chất đống xác chết để tạo thành một con đường leo lên bức tường chắn, và những con quái vật màu đen đóng vai trò quan trọng trong việc này. Cuối cùng, Frondier sử dụng một phép thuật mạnh mẽ để đối phó với mối đe dọa này.",
+ "boi_canh": "Trên đỉnh bức tường chắn, giữa chốn chiến tranh.",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Sylvain",
+  "Khryselakatos"
+ ],
+ "su_kien": [
+  "Frondier kiệt sức trong trận chiến.",
+  "Một binh lính thúc giục Frondier tiếp tục chiến đấu.",
+  "Quái vật chất đống xác chết để leo lên bức tường chắn.",
+  "Những con quái vật màu đen đóng vai trò quan trọng trong việc tạo ra đường leo.",
+  "Frondier sử dụng phép thuật mạnh mẽ để đối phó với lũ quái vật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Binh lính (vô danh)",
+   "loai": "dong_minh",
+   "mo_ta": "Một binh lính thúc giục Frondier tiếp tục chiến đấu, thể hiện sự quan tâm và lo lắng.",
+   "cach_goi": "gọi 'Soldier', không lịch sự"
+  },
+  {
+   "a": "Binh lính (vô danh)",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Một binh lính thúc giục Frondier tiếp tục chiến đấu, thể hiện sự quan tâm và lo lắng.",
+   "cach_goi": "gọi 'brat', không lịch sự"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Quan hệ cha con, Frondier quan sát Enfer đang bảo vệ bức tường chắn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "ban_be",
+   "mo_ta": "Quan hệ bạn bè, Frondier biết Sylvain đang ở đó nhưng không tương tác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Khryselakatos",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier sử dụng vật phẩm liên quan đến Khryselakatos.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Khryselakatos (được nhắc đến thông qua một chiếc vòng cổ mà Frondier đang sở hữu)"
+ ],
+ "stats": {
+  "tokens": 804,
+  "seconds": 24.0
+ }
+}

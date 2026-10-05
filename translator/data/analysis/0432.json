@@ -1,0 +1,69 @@
+{
+ "number": 432,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Laurie và một thuộc hạ của cô thảo luận về việc Frondier de Roach sẽ tham gia sự kiện tại Cung điện Hoàng gia. Họ phân tích ý nghĩa của hành động này, đặc biệt là sự ủng hộ từ Hoàng hậu Philly và sự thay đổi trong thái độ của Vua Bartello. Cuối cùng, Laurie nhận được báo cáo về việc ngưng điều tra liên quan đến 'Mana Injection', một dự án mà cô nghi ngờ có liên quan đến các thế lực bí ẩn trong bóng tối.",
+ "boi_canh": "Một căn phòng làm việc bí mật, thời điểm hiện tại, thảo luận về tình hình chính trị và những động thái của Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Enfer",
+  "Laurie",
+  "Bartello",
+  "Frondier de Roach",
+  "Geoffrey"
+ ],
+ "su_kien": [
+  "Laurie nhận được báo cáo về việc Frondier sẽ tham gia sự kiện tại Cung điện Hoàng gia.",
+  "Laurie suy đoán về lý do Frondier, người thường kín đáo, lại xuất hiện ở Cung điện Hoàng gia.",
+  "Hoàng hậu Philly được cho là đã ủng hộ việc Frondier tham gia sự kiện.",
+  "Vua Bartello, người trước đây phản đối việc Frondier đến Cung điện Hoàng gia, bất ngờ đồng ý.",
+  "Laurie nhận báo cáo về việc ngưng điều tra 'Mana Injection'."
+ ],
+ "quan_he": [
+  {
+   "a": "Laurie",
+   "b": "Thuộc hạ của Laurie",
+   "loai": "thay_tro",
+   "mo_ta": "Laurie là người cấp trên, thuộc hạ báo cáo tình hình.",
+   "cach_goi": "gọi tên Thuộc hạ, không rõ giọng điệu"
+  },
+  {
+   "a": "Thuộc hạ của Laurie",
+   "b": "Laurie",
+   "loai": "thay_tro",
+   "mo_ta": "Thuộc hạ báo cáo tình hình cho người cấp trên.",
+   "cach_goi": "gọi tên Laurie, không rõ giọng điệu"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Laurie quan sát và phân tích hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Philly",
+   "b": "Bartello",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ vợ chồng, có ảnh hưởng đến quyết định của Bartello.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bartello",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Có mối quan hệ phức tạp trong quá khứ, Bartello từng tức giận với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của nhân vật chính.",
+  "Philly Terst: Hoàng hậu của đế quốc.",
+  "Bartello Tert: Quốc vương."
+ ],
+ "stats": {
+  "tokens": 806,
+  "seconds": 24.0
+ }
+}

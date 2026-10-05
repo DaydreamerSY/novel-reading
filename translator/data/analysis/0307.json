@@ -1,0 +1,60 @@
+{
+ "number": 307,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tỉnh dậy trong một biệt thự và phát hiện ra Esther, người cai ngục nhà tù Morion, đang điều tra vụ án. Anh ta cố tình làm Esther nghi ngờ về sự liên quan của Manggot để tránh bị tình nghi, sau đó phô diễn kiến thức của mình về Esther và nhà tù Morion khiến cô kinh ngạc. Cuối cùng, Frondier đề nghị Esther giải thoát cho anh ta.",
+ "boi_canh": "Trong một biệt thự hoang tàn, vào thời điểm những sự kiện bí ẩn vừa xảy ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Kraken",
+  "Cain",
+  "Esther",
+  "Thompson",
+  "Skyler"
+ ],
+ "su_kien": [
+  "Frondier tỉnh dậy và nhận ra mình bị trói.",
+  "Anh ta phát hiện Esther, người cai ngục nhà tù Morion, đang điều tra tại hiện trường.",
+  "Frondier cố tình gợi ý về sự liên quan của Manggot để đánh lạc hướng nghi ngờ.",
+  "Anh ta phô diễn kiến thức chi tiết về Esther và nhà tù Morion.",
+  "Esther nhận ra Frondier đã lường trước được hành động của cô."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier cố gắng đánh lạc hướng Esther bằng cách gợi ý về Manggot.",
+   "cach_goi": "gọi tên Esther, lạnh lùng"
+  },
+  {
+   "a": "Esther",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Esther thẩm vấn Frondier về sự liên quan của anh ta đến các vụ án.",
+   "cach_goi": "gọi tên Frondier, nghi ngờ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "khac",
+   "mo_ta": "Frondier đề nghị Esther giải thoát cho anh ta.",
+   "cach_goi": "gọi tên Esther, thân mật"
+  },
+  {
+   "a": "Esther",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Esther phản ứng với yêu cầu của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Esther: Người cai ngục nhà tù Morion, được Frondier gọi là 'người cai ngục'."
+ ],
+ "stats": {
+  "tokens": 665,
+  "seconds": 20.5
+ }
+}

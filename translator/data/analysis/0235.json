@@ -1,0 +1,50 @@
+{
+ "number": 235,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tiễn Kora và Quinie về nhà vào đêm khuya, Frondier suy nghĩ thầm trong lòng. Anh vẫn còn nghi ngờ Kora một phần, cho rằng cô là một nhân vật bí ẩn mà anh chưa từng gặp mặt. Anh nhận ra sự khác biệt giữa Kora và Aster, cũng như sự hiếm hoi của loài bán nhân.",
+ "boi_canh": "Đêm khuya, sau khi tiễn người đi.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Quinie",
+  "Kora"
+ ],
+ "su_kien": [
+  "Frondier tiễn Kora và Quinie về nhà.",
+  "Frondier suy nghĩ về sự nghi ngờ của mình đối với Kora.",
+  "Frondier nhận ra anh chưa từng gặp Kora trong game, ngay cả khi chơi vai Aster.",
+  "Frondier giải thích lý do tại sao anh ít có cơ hội gặp gỡ Quinie và Aster.",
+  "Frondier nhận xét về ngoại hình đặc trưng của Kora là một bán nhân mèo hổ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Kora",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier nghi ngờ Kora, chưa từng gặp mặt cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Frondier suy nghĩ về mối quan hệ giữa Aster và Kora.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Frondier suy nghĩ về mối quan hệ giữa Quinie và Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster: biệt danh 'Little Devil'."
+ ],
+ "stats": {
+  "tokens": 519,
+  "seconds": 15.5
+ }
+}

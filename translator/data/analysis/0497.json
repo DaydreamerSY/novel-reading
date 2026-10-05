@@ -1,0 +1,90 @@
+{
+ "number": 497,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi thảo luận với những người liên quan về việc Mei nên ở đâu, Frondier và mọi người đã xem xét nhiều lựa chọn khác nhau. Cuối cùng, một giải pháp tiềm năng được đề xuất là Frondier chuyển đến ký túc xá để tiện chăm sóc Mei, nhưng kế hoạch này vấp phải sự phản đối từ Revet de Rishae, anh trai quá bảo vệ của Elodie. Một tình huống dở khóc dở cười nảy sinh khi Elodie vô tình gọi Frondier bằng biệt danh 'Fron', gây ra một cuộc tranh luận ngắn gọn.",
+ "boi_canh": "Phòng họp tại Constel, buổi thảo luận về tương lai của Mei.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Enfer",
+  "Osprey",
+  "Jane",
+  "Mei",
+  "Revet",
+  "Fron",
+  "Revet de Rishae"
+ ],
+ "su_kien": [
+  "Thảo luận về việc Mei nên sống ở đâu.",
+  "Elodie vô tình gọi Frondier là 'Fron'.",
+  "Đề xuất Frondier chuyển đến ký túc xá để chăm sóc Mei.",
+  "Revet de Rishae phản đối kế hoạch này vì quá bảo vệ Elodie.",
+  "Frondier cân nhắc việc chuyển đến ký túc xá."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, có chút trêu chọc.",
+   "cach_goi": "gọi tên Fron, thân mật (nhưng sau đó sửa lại)"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Người chăm sóc, mối quan hệ bảo mẫu.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Osprey",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát, có vẻ nghi ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Revet de Rishae",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai quá bảo vệ, mối quan hệ phụ thuộc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Revet de Rishae",
+   "loai": "gia_dinh",
+   "mo_ta": "Em gái, bị anh trai kiểm soát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Fron: Biệt danh của Frondier do Elodie gọi."
+ ],
+ "stats": {
+  "tokens": 953,
+  "seconds": 28.6
+ }
+}

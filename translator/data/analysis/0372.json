@@ -1,0 +1,112 @@
+{
+ "number": 372,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier thử nghiệm một kỹ thuật mới kết hợp khả năng chia sẻ giác quan của Malia để bắn tên đồng thời vào hai mục tiêu khác nhau. Kỹ thuật này giúp hỗ trợ chiến đấu ở nhiều địa điểm cùng lúc. Sau khi hoàn thành nhiệm vụ, Frondier và Selena quay trở lại, nhưng anh lo lắng về những mối nguy hiểm tiềm ẩn và những biến cố không lường trước được do sự can thiệp của các vị thần.",
+ "boi_canh": "Một khu vực chiến trường, thời điểm sau một trận đánh.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Philly",
+  "Enfer",
+  "Edwin",
+  "Malia",
+  "Sylvain",
+  "Khryselakatos",
+  "Albaito",
+  "Lokhiera"
+ ],
+ "su_kien": [
+  "Frondier nhận được khả năng chia sẻ giác quan từ Malia.",
+  "Frondier thử nghiệm kỹ thuật bắn tên đồng thời vào hai mục tiêu khác nhau.",
+  "Selena đưa ra lời khen ngợi về kỹ thuật mới của Frondier.",
+  "Frondier và Selena quay trở lại sau khi hoàn thành nhiệm vụ.",
+  "Frondier lo lắng về những mối nguy hiểm tiềm ẩn và sự can thiệp của các vị thần."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "nguoi_la",
+   "mo_ta": "Chia sẻ giác quan, mối quan hệ hỗ trợ.",
+   "cach_goi": "gọi tên Malia, không rõ ràng"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Chia sẻ giác quan, mối quan hệ hỗ trợ.",
+   "cach_goi": "gọi tên Frondier, không rõ ràng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, hỗ trợ lẫn nhau.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, hỗ trợ lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Nhắc nhở, lời khuyên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "thay_tro",
+   "mo_ta": "Người hướng dẫn, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Khryselakatos",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Albaito",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lokhiera",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của Frondier)"
+ ],
+ "stats": {
+  "tokens": 1136,
+  "seconds": 34.0
+ }
+}

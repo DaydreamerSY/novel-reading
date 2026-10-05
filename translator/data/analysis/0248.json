@@ -1,0 +1,76 @@
+{
+ "number": 248,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe lén cuộc trò chuyện của Armel và Quinie, Frondier đã điều tra lại sự việc xảy ra cách đây 13 năm liên quan đến Kora tấn công gia đình Viet. Anh phát hiện ra rằng Kora đã mất kiểm soát và tấn công gia đình Viet, khiến tất cả đều thiệt mạng ngoại trừ Armel và Quinie. Để giải thích sự sống sót của Quinie, Frondier nhớ lại sự xuất hiện của Enfer và bản thân anh (Frondier) khi đó để ngăn chặn Kora. Cuối cùng, Frondier sử dụng mặt nạ và Excalibur để áp chế Kora, thu hút sự chú ý của các giáo viên Constel.",
+ "boi_canh": "Trong khuôn viên trường Constel, vào thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Enfer",
+  "Osprey",
+  "Jane",
+  "Malia",
+  "Kora",
+  "Armel",
+  "Penelope"
+ ],
+ "su_kien": [
+  "Frondier điều tra sự việc tấn công gia đình Viet cách đây 13 năm.",
+  "Kora mất kiểm soát và tấn công gia đình Viet, giết chết tất cả trừ Armel và Quinie.",
+  "Enfer và Frondier (khi đó còn nhỏ) đến ngăn chặn Kora.",
+  "Frondier sử dụng mặt nạ và Excalibur để áp chế Kora.",
+  "Các giáo viên Constel chứng kiến cảnh tượng này."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát và điều tra về sự sống sót của Quinie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Nhớ lại hành động của Enfer trong quá khứ.",
+   "cach_goi": "gọi 'Enfer', không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên Constel chứng kiến hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Malia",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp, quan sát sự việc cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Malia",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp, quan sát sự việc cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Armel",
+   "b": "Quinie",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con gái, mối quan hệ gia đình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier (giả dạng Enfer)"
+ ],
+ "stats": {
+  "tokens": 831,
+  "seconds": 26.6
+ }
+}

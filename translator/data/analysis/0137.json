@@ -1,0 +1,102 @@
+{
+ "number": 137,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với cuộc trò chuyện giữa Elodie và Revet về việc luyện tập phép thuật và một loại kim loại huyền thoại tên là Viper Steel. Sau đó, cuộc đối thoại chuyển sang đề cập đến mối quan hệ của Elodie với Frondier, khiến cô ấy bực bội. Cuối cùng, chương kết thúc bằng một cuộc họp bí mật giữa Hagley và những người khác, thảo luận về sự thay đổi trong hành vi của Frondier và kế hoạch tiếp theo liên quan đến anh ta và Inies.",
+ "boi_canh": "Trong phòng khách của gia đình Revet, vào một buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Hagley",
+  "Revet",
+  "Agni",
+  "Inies"
+ ],
+ "su_kien": [
+  "Elodie bày tỏ sự thất vọng về việc luyện phép thuật trước kỳ thi cuối cùng.",
+  "Revet thông báo về sự xuất hiện của Viper Steel.",
+  "Elodie và Revet tranh luận về khả năng sử dụng Viper Steel để kiểm soát ma lực.",
+  "Revet nhắc đến mối quan hệ giữa Elodie và Frondier, khiến Elodie khó chịu.",
+  "Một cuộc họp bí mật diễn ra với Hagley và những người khác, thảo luận về sự thay đổi trong hành vi của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Elodie",
+   "b": "Revet",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai và em gái, quan tâm lẫn nhau nhưng đôi khi thiếu tế nhị.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Revet",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai và em gái, quan tâm lẫn nhau nhưng đôi khi thiếu tế nhị.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Revet",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "cạnh tranh và có vẻ không thích Frondier.",
+   "cach_goi": "gọi 'punk', thô lỗ"
+  },
+  {
+   "a": "Elodie",
+   "b": "Revet",
+   "loai": "gia_dinh",
+   "mo_ta": "em gái và anh trai, Elodie bực bội với sự thiếu tế nhị của Revet.",
+   "cach_goi": "gọi tên Revet, thân mật"
+  },
+  {
+   "a": "Revet",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai và em gái, quan tâm nhưng đôi khi khiến Elodie khó chịu.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Hagley",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "quan sát và báo cáo về hành vi của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Inies",
+   "loai": "khac",
+   "mo_ta": "đánh giá tầm quan trọng của Inies đối với kế hoạch.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Agni",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "một phần của nhóm đang theo dõi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Rudra",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "một phần của nhóm đang theo dõi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Indra",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "một phần của nhóm đang theo dõi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Viper Steel (kim loại huyền thoại)",
+  "Hitchcock (công ty chế tạo thiết bị ma thuật)"
+ ],
+ "stats": {
+  "tokens": 954,
+  "seconds": 29.6
+ }
+}

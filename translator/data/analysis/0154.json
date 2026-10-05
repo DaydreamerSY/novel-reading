@@ -1,0 +1,73 @@
+{
+ "number": 154,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra một cuộc trò chuyện bí mật giữa Enfer và Azier về quyết định của Frondier đi đến Tyburn. Enfer lo lắng về sự thay đổi của Frondier và muốn đánh giá xem liệu quyết định này có hợp lý hay không. Cuối cùng, Azier thừa nhận rằng Frondier đã trưởng thành và có những mục tiêu riêng, đồng thời bày tỏ sự tin tưởng vào khả năng của cậu. Thông tin về kế hoạch đi Tyburn của Frondier lan truyền nhanh chóng trong trường học, khiến Aten lo lắng.",
+ "boi_canh": "Trong phòng làm việc yên tĩnh của Enfer, với ánh đèn nhỏ hắt hiếm.",
+ "nhan_vat": [
+  "Enfer",
+  "Azier",
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Father"
+ ],
+ "su_kien": [
+  "Enfer triệu tập Azier để thảo luận về quyết định của Frondier.",
+  "Azier giữ im lặng khi Frondier đề cập đến Tyburn.",
+  "Azier bày tỏ sự lo ngại về sự thay đổi của Frondier.",
+  "Tin tức về việc Frondier đi Tyburn lan truyền trong trường học.",
+  "Aten bày tỏ sự lo lắng và chất vấn Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Enfer",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Cha và con trai, Enfer tìm kiếm lời khuyên từ Azier.",
+   "cach_goi": "gọi 'Azier', lễ phép"
+  },
+  {
+   "a": "Azier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và cha, Azier trả lời câu hỏi của cha mình.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, Aten lo lắng cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, Aten chất vấn Frondier.",
+   "cach_goi": "gọi tên 'Frondier', trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, Frondier hỏi Aten.",
+   "cach_goi": "gọi tên 'Aten', thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Elodie lan truyền tin đồn về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 786,
+  "seconds": 26.4
+ }
+}

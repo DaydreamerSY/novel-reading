@@ -1,0 +1,72 @@
+{
+ "number": 295,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Renzo đối mặt trong một trận chiến trên không. Renzo sử dụng vũ khí 'Enkephalos' và 'Lynotoros', khiến Frondier ngạc nhiên. Khả năng đặc biệt của vũ khí 'Infinite Attempts' cho phép Renzo liên tục tấn công mà không tốn sức, gây khó khăn cho Frondier. Cuối cùng, Frondier kích hoạt một vật phẩm bí mật - chiếc vòng cổ – để chặn đòn tấn công của Renzo và phản công với thanh kiếm ánh sáng.",
+ "boi_canh": "Trên bầu trời, trong trận chiến giữa Frondier và Renzo.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Heldre",
+  "Ares"
+ ],
+ "su_kien": [
+  "Frondier chất vấn Renzo về vũ khí 'Enkephalos' và 'Lynotoros'.",
+  "Renzo sử dụng khả năng đặc biệt của vũ khí 'Infinite Attempts', khiến nó liên tục quay trở lại tay anh.",
+  "Renzo tấn công Frondier bằng nhiều đòn giật lao.",
+  "Frondier kích hoạt chiếc vòng cổ ẩn để chặn một đòn tấn công vào tim.",
+  "Frondier biến đổi vòng cổ thành thanh kiếm ánh sáng và phản công."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Renzo, lạnh lùng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Quan sát và phân tích chiến thuật của đối phương.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Tấn công liên tục và tìm kiếm sơ hở của đối phương.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "khac",
+   "mo_ta": "Nhắc đến Heldre trong hồi tưởng về thanh kiếm ánh sáng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Ares",
+   "loai": "khac",
+   "mo_ta": "Sử dụng vũ khí của Ares.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Vũ khí 'Enkephalos' và 'Lynotoros' thuộc về Ares.",
+  "Chiếc vòng cổ mà Frondier luôn đeo, được giấu kín bên trong quần áo."
+ ],
+ "stats": {
+  "tokens": 807,
+  "seconds": 24.9
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "number": 255,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối mặt với Osprey, người nghi ngờ về nguồn gốc sức mạnh của cậu. Frondier khéo léo sử dụng những lời nói dối để che giấu sự thật về khả năng thực sự của mình và nguồn gốc thanh kiếm Excalibur, đồng thời lợi dụng mong muốn của Osprey để dẫn dụ ông vào một kế hoạch mới liên quan đến Indus. Cậu cũng nhắc đến Aster Evans như một phần trong màn kịch.",
+ "boi_canh": "Trong phòng làm việc của Osprey tại trường Constel, diễn ra cuộc đối chất căng thẳng về nguồn gốc sức mạnh của Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Renzo",
+  "Enfer",
+  "Osprey",
+  "Kora",
+  "Frondier de Roach",
+  "Aster Evans",
+  "Penelope"
+ ],
+ "su_kien": [
+  "Osprey nghi ngờ nguồn gốc sức mạnh của Frondier.",
+  "Frondier sử dụng lời nói dối về sức mạnh từ thanh kiếm Excalibur.",
+  "Frondier nhắc đến Aster Evans và việc cậu mượn Excalibur từ anh.",
+  "Osprey tỏ ra lo ngại về khả năng thực sự của Frondier.",
+  "Frondier đồng ý tham gia kế hoạch chống lại Indus, nhưng giới hạn quyền lực của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Osprey là người có vị trí cao hơn, nghi ngờ và thẩm vấn Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier cố gắng thuyết phục và điều khiển Osprey bằng những lời nói dối.",
+   "cach_goi": "gọi tên Osprey, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Sử dụng tên Aster để đánh lạc hướng Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Osprey chưa biết Aster có Excalibur hay không.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của Frondier.",
+  "Aster Evans: Tên đầy đủ của Aster. Cậu đã mượn thanh kiếm Excalibur từ Aster."
+ ],
+ "stats": {
+  "tokens": 707,
+  "seconds": 22.5
+ }
+}

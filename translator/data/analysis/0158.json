@@ -1,0 +1,82 @@
+{
+ "number": 158,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier hoàn thành bài kiểm tra cuối cùng và nâng cấp kỹ năng 'Dệt'. Anh phát hiện ra khả năng sao chép kỹ năng của người khác thông qua Dệt, nhưng bị ràng buộc bởi 'Hạ Cảnh Thanatos'. Sau khi loại bỏ được sự can thiệp này bằng cách tự cải biến kỹ năng Dệt, Frondier lên đường đến Tyburn. Tại đó, anh gặp một hầu gái bí ẩn xưng là người từ gia tộc Roach và hỏi về Hagley.",
+ "boi_canh": "Phòng tập luyện tại lâu đài, trước khi Frondier lên đường đến Tyburn.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Enfer",
+  "Hagley",
+  "Malia",
+  "Mom",
+  "Hầu gái (maid)"
+ ],
+ "su_kien": [
+  "Kỹ năng 'Dệt' của Frondier được nâng cấp.",
+  "Frondier phát hiện ra khả năng sao chép kỹ năng bằng Dệt.",
+  "Sự ràng buộc 'Hạ Cảnh Thanatos' xuất hiện trên kỹ năng Dệt.",
+  "Frondier loại bỏ 'Hạ Cảnh Thanatos' bằng cách cải biến kỹ năng Dệt.",
+  "Frondier gặp một hầu gái bí ẩn tại Tyburn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, có lẽ đang bị Frondier lợi dụng để loại bỏ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, không có mặt khi Frondier rời đi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Cha, có vẻ đang cố gắng tác động đến Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hagley",
+   "loai": "doi_thu",
+   "mo_ta": "Người có liên quan đến kế hoạch loại bỏ Elodie.",
+   "cach_goi": "hỏi về sự biến mất của Hagley, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ, tiễn Frondier ra đi.",
+   "cach_goi": "gọi 'Mom', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hầu gái (maid)",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu mới đến từ gia tộc Roach, có vẻ như được cử đến để hỗ trợ Frondier.",
+   "cach_goi": "gọi 'người hầu', lễ phép"
+  },
+  {
+   "a": "Hầu gái (maid)",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu mới đến từ gia tộc Roach, có vẻ như được cử đến để hỗ trợ Frondier.",
+   "cach_goi": "gọi 'Lord Roach', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Hầu gái (maid): Có thể là người được cử đến từ gia tộc Roach với mục đích bí ẩn."
+ ],
+ "stats": {
+  "tokens": 928,
+  "seconds": 29.0
+ }
+}

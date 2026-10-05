@@ -1,0 +1,81 @@
+{
+ "number": 557,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tiêu diệt Minotaur cuối cùng, Aster nhận được Excalibur từ Nimue nhưng đã kiệt sức và suýt ngã. Merlin sau đó tiết lộ vai trò của Aster là một quân cờ để nâng đỡ những người hùng, đặc biệt là King Arthur, và Frondier đã âm thầm giúp anh ta đạt được vị trí này. Merlin cũng báo trước một thử thách lớn dành cho Frondier và yêu cầu Aster hỗ trợ anh.",
+ "boi_canh": "Trong khu vực bị bao vây bởi rào cản phép thuật, sau trận chiến với Minotaur.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Merlin",
+  "Nimue",
+  "Notker",
+  "Arthur"
+ ],
+ "su_kien": [
+  "Aster tiêu diệt Minotaur cuối cùng.",
+  "Aster nhận Excalibur từ Nimue và bị kiệt sức, suýt ngã.",
+  "Merlin tiết lộ vai trò của Aster là một quân cờ để nâng đỡ những người hùng.",
+  "Nimue đưa Aster đi nhờ trên một dòng nước phép thuật.",
+  "Merlin báo trước một thử thách lớn dành cho Frondier và yêu cầu sự giúp đỡ của Aster."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Nimue",
+   "loai": "nguoi_la",
+   "mo_ta": "Aster nhận Excalibur từ Nimue sau trận chiến.",
+   "cach_goi": "gọi tên Nimue, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nimue",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Nimue trao trả Excalibur cho Aster.",
+   "cach_goi": "gọi tên Aster, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Merlin",
+   "loai": "nguoi_la",
+   "mo_ta": "Aster gặp Merlin và được tiết lộ về vai trò của mình.",
+   "cach_goi": "gọi tên Merlin, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Merlin",
+   "b": "Aster",
+   "loai": "thay_tro",
+   "mo_ta": "Merlin hướng dẫn và tiết lộ thông tin quan trọng cho Aster.",
+   "cach_goi": "gọi tên Aster, lạnh lùng"
+  },
+  {
+   "a": "Aster",
+   "b": "Notker",
+   "loai": "doi_thu",
+   "mo_ta": "Aster nhìn thấy Notker bị giam giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Merlin",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Merlin nhắc đến Frondier và vai trò của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aster suy nghĩ về những hành động và lời nói của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Excalibur: thanh kiếm mà Aster nhận được từ Nimue, sau đó được tiết lộ là Excalibur.",
+  "King Arthur: hình ảnh người hùng được Merlin sử dụng để minh họa vai trò của Aster."
+ ],
+ "stats": {
+  "tokens": 875,
+  "seconds": 27.3
+ }
+}

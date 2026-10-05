@@ -1,0 +1,62 @@
+{
+ "number": 52,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau sự cố với golem của Edwin, Frondier phát hiện ra kỹ năng 'Dệt' của mình có thêm lựa chọn mới: đồng thời tạo ra hai vũ khí. Anh thử tạo ra cây cung Chrysaor từ hình ảnh Artemis nhưng không thể kéo được do thiếu sức mạnh hoặc một lời nguyền nào đó liên quan đến giới tính. Trong khi đó, Sybil tỉnh lại sau khi bị nhiễm độc và nghi ngờ Frondier đã nói dối cô về tác dụng của độc dược.",
+ "boi_canh": "Trong xưởng của Frondier, vài ngày sau sự cố với golem của Edwin.",
+ "nhan_vat": [
+  "Frondier",
+  "Sybil Forte",
+  "Osprey",
+  "Edwin",
+  "Slevb",
+  "Artemis",
+  "Hephaestus",
+  "Doctor",
+  "Nurse"
+ ],
+ "su_kien": [
+  "Frondier phát hiện ra lựa chọn mới của kỹ năng 'Dệt': đồng thời tạo hai vũ khí.",
+  "Anh cố gắng tạo cây cung Chrysaor từ hình ảnh Artemis nhưng không thể kéo được.",
+  "Sybil tỉnh lại sau khi bị nhiễm độc và nghi ngờ Frondier đã lừa dối cô.",
+  "Bác sĩ thông báo quá trình giải độc của Sybil đã hoàn tất.",
+  "Frondier nhận được tin nhắn về việc đến bệnh viện gần Constel."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sybil Forte",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đã cứu Sybil khỏi độc dược, nhưng Sybil nghi ngờ anh ta nói dối.",
+   "cach_goi": "gọi tên Sybil, không rõ cảm xúc"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil nghi ngờ Frondier đã lừa dối cô về tác dụng của độc dược.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Doctor",
+   "b": "Sybil Forte",
+   "loai": "dong_minh",
+   "mo_ta": "Bác sĩ chăm sóc và theo dõi tình trạng của Sybil.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  },
+  {
+   "a": "Nurse",
+   "b": "Sybil Forte",
+   "loai": "dong_minh",
+   "mo_ta": "Y tá chăm sóc và theo dõi tình trạng của Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Chrysaor (cây cung do Hephaestus ban cho Artemis)"
+ ],
+ "stats": {
+  "tokens": 703,
+  "seconds": 21.1
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "number": 446,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier chuẩn bị tham gia một cuộc họp của Hội Thiên Hoàng (Zodiac) để bàn về một sự cố đe dọa đến tính mạng Vua Bartello. Anh tự đánh giá lại sức mạnh của mình kể từ khi đối đầu với Heldre và những thay đổi mà anh đã trải qua nhờ rào cản Yeranhes. Cuộc họp diễn ra trong phòng ngủ của Vua, nơi có sự hiện diện của các thành viên Hội Thiên Hoàng, cùng với những cuộc tranh luận vui vẻ và tin đồn về Frondier. Ludovic đặt câu hỏi về cách Frondier phát hiện được quái vật.",
+ "boi_canh": "Phòng ngủ của Vua Bartello, trong một buổi họp khẩn cấp của Hội Thiên Hoàng.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Renzo",
+  "Lily",
+  "Enfer",
+  "Eden",
+  "Heldre",
+  "Ludwig",
+  "Bartello",
+  "Ludovic"
+ ],
+ "su_kien": [
+  "Cuộc họp của Hội Thiên Hoàng được triệu tập để bàn về sự cố đe dọa đến Vua Bartello.",
+  "Frondier tự đánh giá lại sức mạnh của mình so với các thành viên Hội Thiên Hoàng.",
+  "Các thành viên Hội Thiên Hoàng tranh luận vui vẻ và tin đồn về Frondier lan truyền.",
+  "Vua Bartello đang được bác sĩ kiểm tra sau khi bị tấn công.",
+  "Ludovic đặt câu hỏi cho Frondier về cách anh phát hiện quái vật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "anh em, Philly được chuyển đến nơi an toàn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh em, Azier được nhắc đến trong tin đồn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, Renzo đã giúp Frondier đánh bại Heldre.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "chưa quen biết, Lily bàn tán về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "cha con, Azier là con trai của Enfer.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Frondier đã đánh bại Eden.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Frondier đã đánh bại Heldre.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "cap_tren",
+   "mo_ta": "đồng cấp, Ludwig thay thế Heldre trong Hội Thiên Hoàng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "dong_minh",
+   "mo_ta": "người bảo vệ, Frondier đã bảo vệ Vua Bartello.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludovic",
+   "loai": "cap_tren",
+   "mo_ta": "đồng cấp, Ludovic hỏi Frondier về cách phát hiện quái vật.",
+   "cach_goi": "gọi tên, lễ phép"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "đồng cấp, Ludovic hỏi Frondier về cách phát hiện quái vật.",
+   "cach_goi": "gọi tên, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của nhân vật chính)"
+ ],
+ "stats": {
+  "tokens": 1223,
+  "seconds": 36.5
+ }
+}

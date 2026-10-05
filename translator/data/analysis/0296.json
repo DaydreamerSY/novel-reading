@@ -1,0 +1,58 @@
+{
+ "number": 296,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Renzo đối mặt với một đòn tấn công mạnh mẽ từ Frondier và sử dụng khiên của mình để chặn lại. Anh ta nhận ra rằng Frondier đang cố tình kìm chế sức mạnh để tìm hiểu về khiên Lynotoros. Sau đó, Renzo thể hiện sự xuất hiện của thần Ares bên trong mình, khiến Frondier phải suy ngẫm về những gì đang diễn ra.",
+ "boi_canh": "Một trận chiến căng thẳng diễn ra giữa Frondier và Renzo tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Heldre",
+  "Ares"
+ ],
+ "su_kien": [
+  "Renzo chặn được đòn tấn công mạnh mẽ của Frondier bằng khiên.",
+  "Renzo nhận ra Frondier đang kìm chế sức mạnh.",
+  "Sự xuất hiện của thần Ares bên trong Renzo được tiết lộ thông qua một màn sương tím.",
+  "Renzo tấn công Frondier mà không có vũ khí.",
+  "Frondier bị Renzo ném đi."
+ ],
+ "quan_he": [
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "gọi tên Renzo, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ares",
+   "loai": "ke_thu",
+   "mo_ta": "Nhận thức về sự hiện diện của một kẻ thù tiềm tàng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Ares",
+   "loai": "nguoi_la",
+   "mo_ta": "Sự hiện diện của một vị thần bên trong Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Lynotoros: khiên mà Frondier đang cố gắng tìm hiểu danh tính thật sự.",
+  "Ares: Thần xuất hiện bên trong Renzo, được cảnh báo về việc Frondier điều tra các vị thần."
+ ],
+ "stats": {
+  "tokens": 638,
+  "seconds": 19.6
+ }
+}

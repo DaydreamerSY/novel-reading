@@ -1,0 +1,70 @@
+{
+ "number": 224,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đang dạy ngôn ngữ cổ cho Selena theo kế hoạch của anh ta để thao túng Manggot. Anh ta hướng dẫn cô cách nhận biết sự khác biệt về âm thanh ẩn trong các ký tự giống hệt nhau, một đặc điểm quan trọng của ngôn ngữ cổ. Trong khi đó, Selena bày tỏ sự lo lắng về việc học ngôn ngữ này và mối quan hệ giữa họ.",
+ "boi_canh": "Trong phòng làm việc gần cửa sổ ở nơi ở của Selena.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Elodie",
+  "Manggot",
+  "Indus"
+ ],
+ "su_kien": [
+  "Frondier kiểm tra bàn làm việc của Selena.",
+  "Frondier bắt đầu dạy Selena ngôn ngữ cổ.",
+  "Selena phát hiện ra các ký tự giống hệt nhau nhưng có âm thanh khác nhau.",
+  "Selena bày tỏ sự lo lắng về việc học ngôn ngữ cổ và mối quan hệ với Frondier.",
+  "Frondier giải thích kế hoạch của mình để thao túng Manggot thông qua Selena."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người hướng dẫn và thao túng Selena; Selena tôn trọng nhưng có vẻ lo lắng.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Selena là người học hỏi từ Frondier; Selena có vẻ lo lắng và nghi ngờ.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Manggot",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đang lên kế hoạch thao túng Manggot.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Manggot",
+   "loai": "dong_minh",
+   "mo_ta": "Selena sẽ được Frondier sử dụng để tác động đến Manggot.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier có động cơ trả thù Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Indus",
+   "b": "Manggot",
+   "loai": "doi_thu",
+   "mo_ta": "Cả hai đều là thế lực đối lập với đế chế.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 745,
+  "seconds": 22.3
+ }
+}

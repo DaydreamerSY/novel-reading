@@ -1,0 +1,116 @@
+{
+ "number": 22,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị từ chối một cách nhẹ nhàng bởi Sybil, Frondier tiếp tục nhiệm vụ tuyển dụng Quinie. Sau đó, nhóm cùng nhau đến tham gia một cuộc thám hiểm ngục tối, nơi có 'sanctuary' cho phép những người có sức mạnh thần thánh gặp gỡ và nhận ân huệ từ các vị thần. Frondier đi cùng để quan sát Aster và Sybil, trong khi Jane và Quinie dẫn đầu đội hình.",
+ "boi_canh": "Nhóm đang trên đường đến ngục tối bằng xe hơi.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Quinie",
+  "Jane",
+  "R"
+ ],
+ "su_kien": [
+  "Sybil bị từ chối tình cảm bởi Frondier.",
+  "Sybil suy nghĩ về sự thất vọng và cách cô ấy đối diện với nó.",
+  "Frondier đi cùng nhóm đến ngục tối để quan sát Aster.",
+  "Quinie chào đón Frondier một cách kín đáo.",
+  "Jane dẫn đầu đội hình thám hiểm ngục tối."
+ ],
+ "quan_he": [
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil muốn có được sự chú ý của Frondier nhưng bị từ chối.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier không nhận ra sự quan tâm của Sybil.",
+   "cach_goi": "gọi tên Sybil, thân thiện"
+  },
+  {
+   "a": "Aster",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Aster và Sybil là bạn bè hoặc đồng đội.",
+   "cach_goi": "gọi tên Sybil, thân thiện"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Aster và Sybil là bạn bè hoặc đồng đội.",
+   "cach_goi": "gọi tên Aster, thân thiện"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người có một thỏa thuận nào đó.",
+   "cach_goi": "gọi tên Quinie, lịch sự"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người có một thỏa thuận nào đó.",
+   "cach_goi": "gọi tên Frondier, lịch sự"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Jane là người hướng dẫn và có vẻ không thích Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "Jane là người hướng dẫn và có vẻ không thích Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Aster và Sybil là bạn bè hoặc đồng đội.",
+   "cach_goi": "gọi tên Sybil, thân thiện"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Aster và Sybil là bạn bè hoặc đồng đội.",
+   "cach_goi": "gọi tên Aster, thân thiện"
+  },
+  {
+   "a": "Jane",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "Jane và Quinie là đồng đội.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Jane",
+   "loai": "dong_minh",
+   "mo_ta": "Jane và Quinie là đồng đội.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Quinie de Viet (tên đầy đủ của Quinie)",
+  "Sybil Forte (tên đầy đủ của Sybil)"
+ ],
+ "stats": {
+  "tokens": 1194,
+  "seconds": 35.8
+ }
+}

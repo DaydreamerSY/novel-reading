@@ -1,0 +1,65 @@
+{
+ "number": 291,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đột ngột tấn công Thompson sau khi nghe những lời lẽ xúc phạm về bản thân. Anh ta tước đoạt cánh tay giả của Thompson và thử gắn nó vào cơ thể mình, bất chấp cơn đau khủng khiếp. Sự kiện này gây ra sự kinh hoàng trong đám đông và khiến Kraken phải đối mặt với tình hình khó xử, vì anh ta không thể giết Frondier do tầm quan trọng của Frondier đối với kế hoạch của họ.",
+ "boi_canh": "Trong một biệt thự, sau khi có tranh chấp xảy ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Thompson",
+  "Renzo",
+  "Kraken"
+ ],
+ "su_kien": [
+  "Thompson xúc phạm Renzo.",
+  "Renzo tấn công Thompson và tước đoạt cánh tay giả của anh ta.",
+  "Renzo cố gắng gắn cánh tay giả của Thompson vào cơ thể mình.",
+  "Kraken không thể giết Renzo vì tầm quan trọng của anh ta đối với kế hoạch.",
+  "Frondier điều khiển thành công cánh tay giả, bất chấp cơn đau khủng khiếp."
+ ],
+ "quan_he": [
+  {
+   "a": "Thompson",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Thompson xúc phạm Renzo, dẫn đến cuộc tấn công.",
+   "cach_goi": "gọi tên Renzo, lạnh lùng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Thompson",
+   "loai": "doi_thu",
+   "mo_ta": "Renzo tấn công Thompson và chế nhạo anh ta.",
+   "cach_goi": "gọi tên Thompson, thô lỗ"
+  },
+  {
+   "a": "Kraken",
+   "b": "Renzo",
+   "loai": "cap_tren",
+   "mo_ta": "Kraken không thể giết Renzo vì anh ta là một phần quan trọng của kế hoạch.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Kraken",
+   "loai": "cap_tren",
+   "mo_ta": "Renzo thao túng và chế nhạo Kraken.",
+   "cach_goi": "gọi tên Kraken, trịch thượng"
+  },
+  {
+   "a": "Thompson",
+   "b": "Kraken",
+   "loai": "dong_minh",
+   "mo_ta": "Thompson phàn nàn với Kraken về Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Renzo: Có vẻ là một nhân vật nguy hiểm và khó đoán.",
+  "Kraken: Có thể là người giám sát hoặc chỉ huy của Renzo, nhưng đang gặp khó khăn trong việc kiểm soát anh ta."
+ ],
+ "stats": {
+  "tokens": 706,
+  "seconds": 21.9
+ }
+}

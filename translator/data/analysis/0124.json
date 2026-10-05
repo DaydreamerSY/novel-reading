@@ -1,0 +1,68 @@
+{
+ "number": 124,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tỉnh dậy trong bệnh viện, Elysia hoang mang về việc mình vẫn còn sống sau một sự kiện nào đó. Cô nhận ra Sale đang lạnh lùng với mình và biết được rằng hôm nay là ngày cuối cùng của cô với tư cách là công chúa. Sale giải thích rằng cô lên ngôi hoàng hậu để thay thế Elysia vì không tin tưởng cha, Bartello Terst, và cũng vì lo sợ sự nghi ngờ của dân chúng. Cuối cùng, Elysia nhận ra mình đã bị Philly đánh bại trong một kế hoạch giấu diếm Frondier.",
+ "boi_canh": "Trong phòng bệnh viện, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Elysia",
+  "Sale",
+  "Philly",
+  "Aten",
+  "Bartello Terst",
+  "Frondier",
+  "Roderick"
+ ],
+ "su_kien": [
+  "Elysia tỉnh dậy trong bệnh viện.",
+  "Sale đến thăm Elysia và thông báo về việc Elysia sẽ từ bỏ vương quyền.",
+  "Sale giải thích lý do cô lên ngôi hoàng hậu là để thay thế Elysia.",
+  "Elysia nhận ra mình đã bị Philly đánh bại trong một kế hoạch giấu diếm Frondier.",
+  "Elysia suy ngẫm về những lời của Philly và hiểu rõ hơn về bản thân."
+ ],
+ "quan_he": [
+  {
+   "a": "Elysia",
+   "b": "Sale",
+   "loai": "gia_dinh",
+   "mo_ta": "chị em gái, Elysia cảm thấy Sale lạnh lùng với mình.",
+   "cach_goi": "gọi tên Sale, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sale",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "chị em gái, Sale thông báo về việc Elysia từ bỏ vương quyền.",
+   "cach_goi": "gọi tên Elysia, lễ phép"
+  },
+  {
+   "a": "Elysia",
+   "b": "Philly",
+   "loai": "nguoi_la",
+   "mo_ta": "mẹ của Elysia, những lời Philly từng nói lại có ý nghĩa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sale",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "chị em gái, Sale quan tâm đến tình trạng của Elysia.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Bartello Terst",
+   "loai": "cap_tren",
+   "mo_ta": "cha của Elysia, Sale không tin tưởng ông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: người đã cứu Chimera và được Philly giấu diếm sự tồn tại.",
+  "Philly: người lên kế hoạch giấu Frondier."
+ ],
+ "stats": {
+  "tokens": 772,
+  "seconds": 23.8
+ }
+}

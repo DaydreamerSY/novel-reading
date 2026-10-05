@@ -1,0 +1,86 @@
+{
+ "number": 37,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Edwin đối mặt với một con gấu đỏ hung dữ trong một nhiệm vụ chung. Frondier nhanh chóng giải quyết tình huống bằng cách sử dụng dao, còn Quinie hỗ trợ bằng quạt của mình. Sau đó, Edwin nhận được một golem kim loại từ Binkis như một món quà cảm ơn và phát hiện ra khả năng trở thành chủ nhân của nó.",
+ "boi_canh": "Trong một căn phòng nghiên cứu riêng tư của Constel sau một nhiệm vụ nguy hiểm.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Quinie",
+  "Edwin",
+  "Binkis"
+ ],
+ "su_kien": [
+  "Gấu đỏ tấn công Edwin bất ngờ.",
+  "Frondier cứu Edwin bằng cách kéo anh ta ra khỏi đường tấn công.",
+  "Frondier tung dao trúng mắt gấu đỏ.",
+  "Quinie tiêu diệt gấu đỏ bằng sáu lưỡi dao từ quạt của mình.",
+  "Edwin nhận được một golem kim loại từ Binkis."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội trong nhiệm vụ, Frondier cứu Edwin.",
+   "cach_goi": "gọi tên Edwin, thân mật"
+  },
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội trong nhiệm vụ, Edwin được Frondier cứu.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong nhiệm vụ, hỗ trợ lẫn nhau.",
+   "cach_goi": "gọi tên Quinie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong nhiệm vụ, hỗ trợ lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "thay_tro",
+   "mo_ta": "Người hướng dẫn, Frondier là học trò của Binkis.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người hướng dẫn, Frondier là học trò của Binkis.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Binkis",
+   "loai": "cap_tren",
+   "mo_ta": "Học trò của Binkis.",
+   "cach_goi": "gọi tên Binkis, lễ phép"
+  },
+  {
+   "a": "Binkis",
+   "b": "Edwin",
+   "loai": "cap_tren",
+   "mo_ta": "Người hướng dẫn của Edwin.",
+   "cach_goi": "gọi tên Edwin, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính nhân vật."
+ ],
+ "stats": {
+  "tokens": 891,
+  "seconds": 26.7
+ }
+}

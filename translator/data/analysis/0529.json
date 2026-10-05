@@ -1,0 +1,65 @@
+{
+ "number": 529,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mô tả một cuộc tấn công bất ngờ của lũ Minotaur vào căn cứ phòng thủ. Các phép thuật và bẫy đều vô ích trước sức mạnh áp đảo của chúng. Frondier, hay còn gọi là Aster Evans, xuất hiện để đối phó với tình hình nguy cấp, nhưng hành động của anh ta lại khiến mọi người lo lắng về việc liệu anh ta có sử dụng sức mạnh thần thánh của Baldur hay không.",
+ "boi_canh": "Một trận chiến ác liệt diễn ra tại một căn cứ phòng thủ đang bị lũ Minotaur tấn công.",
+ "nhan_vat": [
+  "Aster",
+  "Aster Evans",
+  "Hector",
+  "Ludwig (cha của Hector)",
+  "Minotaur"
+ ],
+ "su_kien": [
+  "Lũ Minotaur tấn công căn cứ phòng thủ.",
+  "Các pháp sư cố gắng sử dụng phép thuật để đẩy lùi chúng, nhưng vô ích.",
+  "Aster cắt đứt một loạt xác quái vật đang bay về phía rào chắn.",
+  "Hector nhận ra Aster có thể sử dụng sức mạnh thần thánh của Baldur.",
+  "Aster gọi tên Baldur và sau đó đột ngột tắt aura."
+ ],
+ "quan_he": [
+  {
+   "a": "Hector",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Hector là chỉ huy, Aster là người chiến đấu dưới sự chỉ dẫn của Hector.",
+   "cach_goi": "gọi 'Aster', thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Hector",
+   "loai": "cap_tren",
+   "mo_ta": "Aster tuân theo mệnh lệnh của Hector nhưng cũng có thể đưa ra những quyết định độc lập.",
+   "cach_goi": "gọi tên Hector, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Minotaur",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ nguy hiểm, Aster phải đối mặt với chúng để bảo vệ căn cứ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hector",
+   "b": "Minotaur",
+   "loai": "ke_thu",
+   "mo_ta": "Hector chỉ đạo quân đội chống lại lũ Minotaur.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Baldur",
+   "loai": "thay_tro",
+   "mo_ta": "Aster có mối quan hệ đặc biệt với Baldur, có thể sử dụng sức mạnh của vị thần này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)"
+ ],
+ "stats": {
+  "tokens": 701,
+  "seconds": 21.6
+ }
+}

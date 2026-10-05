@@ -1,0 +1,79 @@
+{
+ "number": 277,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đối mặt với thần thánh, Frondier phải trở lại thực tế và tiếp tục kế hoạch của mình. Ông ta đề nghị Heldre một thỏa thuận nguy hiểm: cứu cháu gái Cain nếu ông ta chấp nhận điều kiện của Frondier. Heldre bỏ chạy sau khi chứng kiến hành động tàn nhẫn của Frondier, và Osprey đuổi theo để ngăn chặn ông ta.",
+ "boi_canh": "Một nơi không xác định, thời điểm hiện tại (sau khi đối mặt với một vị thần).",
+ "nhan_vat": [
+  "Frondier",
+  "Heldre",
+  "Cain",
+  "Osprey"
+ ],
+ "su_kien": [
+  "Frondier đề nghị Heldre một thỏa thuận: cứu Cain nếu ông ta chấp nhận.",
+  "Frondier dọa thả Cain từ trên cao và bắn Excalibur vào cô bé.",
+  "Heldre bỏ chạy sau khi chứng kiến hành động của Frondier.",
+  "Osprey đồng ý không can thiệp vào cuộc đối đầu giữa Frondier và Heldre.",
+  "Frondier ra lệnh cho Osprey đuổi theo Heldre."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu, Frondier lợi dụng Heldre để đạt được mục đích.",
+   "cach_goi": "gọi 'Mr. Heldre', lạnh lùng"
+  },
+  {
+   "a": "Heldre",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Bị Frondier đe dọa và lợi dụng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "nguoi_la",
+   "mo_ta": "Sử dụng Cain như một con bài mặc cả.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cain",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Bị Frondier bắt cóc và sử dụng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Heldre",
+   "b": "Cain",
+   "loai": "gia_dinh",
+   "mo_ta": "Quan hệ ông cháu gái.",
+   "cach_goi": "gọi tên Cain, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier ra lệnh cho Osprey.",
+   "cach_goi": "gọi 'Chancellor', lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Tuân lệnh của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Excalibur: vũ khí mà Frondier đang sử dụng.",
+  "Mjölnir: một vật phẩm khác mà Frondier đang sử dụng."
+ ],
+ "stats": {
+  "tokens": 840,
+  "seconds": 25.6
+ }
+}

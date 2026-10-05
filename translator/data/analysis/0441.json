@@ -1,0 +1,79 @@
+{
+ "number": 441,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối mặt với quyết định quan trọng liên quan đến việc Hoàng hậu Philly sử dụng Dragon Heart để tăng cường khả năng tiên đoán của mình. Thay vì theo đuổi mục tiêu ban đầu là củng cố sức mạnh tiên đoán, Philly lại bày tỏ mong muốn sử dụng nó để cứu chồng mình, Vua Bartello. Sự thay đổi này khiến Frondier bất ngờ và suy ngẫm về những nỗ lực trước đây của mình cũng như ý nghĩa thực sự của việc can thiệp vào số phận.",
+ "boi_canh": "Trong phòng làm việc của Vua Bartello, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly Terst",
+  "Aten Terst",
+  "Elysia",
+  "Bartello Tert",
+  "Sale"
+ ],
+ "su_kien": [
+  "Hoàng hậu Philly tuyên bố muốn sử dụng Dragon Heart.",
+  "Frondier bất ngờ trước quyết định của Philly, mong muốn cứu Vua Bartello.",
+  "Philly giải thích rằng cô không cần tăng cường khả năng tiên đoán vì Aten ở bên cạnh Frondier.",
+  "Aten lo lắng về những lời nói của Philly và mối quan hệ với Aster.",
+  "Frondier suy ngẫm về những thất bại trong quá khứ và ý nghĩa của sự tồn tại của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người được Philly tin tưởng và tìm kiếm sự giúp đỡ.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly chia sẻ suy nghĩ và kế hoạch của mình với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "ban_be",
+   "mo_ta": "Aten lo lắng và quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aten quan tâm đến tình trạng của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Philly có cảm giác bất an về mối quan hệ giữa Aster và Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Aten Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ con, Philly quan tâm đến Aten.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Bartello Tert",
+   "b": "Philly Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng, Philly quan tâm đến Bartello.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 887,
+  "seconds": 26.5
+ }
+}

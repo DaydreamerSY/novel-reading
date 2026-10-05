@@ -1,0 +1,41 @@
+{
+ "number": 353,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi quan sát một con quái vật bóng tối, Frondier đột ngột tấn công và thu lấy nó bằng Obsidian, hấp thụ Mana của nó. Anh ta nhận ra rằng những con quái vật này được tạo ra từ mảnh vỡ của Helheim và có ý chí riêng. Frondier khám phá ra mối liên hệ giữa mảnh vỡ Helheim, các thanh kiếm tự chọn chủ như Excalibur và khái niệm về Ego Swords, đồng thời dự định biến mảnh vỡ vừa thu lấy thành một thanh kiếm tương tự.",
+ "boi_canh": "Một trận chiến trên chiến trường, nơi Frondier đối đầu với những con quái vật bóng tối mới sinh ra từ mảnh vỡ của Helheim.",
+ "nhan_vat": [
+  "Frondier",
+  "Dark Monster"
+ ],
+ "su_kien": [
+  "Frondier quan sát một con quái vật bóng tối.",
+  "Con quái vật bóng tối trốn thoát sau khi cảm nhận được ý định của Frondier.",
+  "Frondier tấn công và hấp thụ con quái vật bóng tối vào Obsidian.",
+  "Frondier khám phá ra nguồn gốc của những con quái vật bóng tối từ mảnh vỡ Helheim.",
+  "Frondier suy đoán về khả năng biến mảnh vỡ thành Ego Sword."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Dark Monster",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Frondier tấn công và hấp thụ Mana của quái vật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dark Monster",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, quái vật trốn thoát khỏi sự tấn công của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Obsidian (được sử dụng để hấp thụ Mana của quái vật bóng tối)"
+ ],
+ "stats": {
+  "tokens": 490,
+  "seconds": 14.7
+ }
+}

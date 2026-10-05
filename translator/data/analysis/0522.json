@@ -1,0 +1,98 @@
+{
+ "number": 522,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier nhận ra rằng việc khôi phục rào cản theo chiều kim đồng hồ sẽ dụ Manggot và khiến hắn ta thúc đẩy cuộc tấn công của quái vật bên ngoài. Frondier sử dụng khả năng cảm giác thứ sáu và kỹ thuật che giấu Mana để phát hiện tiên phong của Manggot, xác định được cách thức điều khiển quái vật thông qua một con quái vật cấp thấp. Sau đó, anh ta cử Renzo lên tấm khiên bay đến vị trí chiến lược để gây rối loạn đội hình địch.",
+ "boi_canh": "Gần rào chắn, trong một trận chiến đang diễn ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Aten Terst",
+  "Renzo",
+  "Dier",
+  "Malia",
+  "Gregory",
+  "Mother",
+  "Dier Aigar",
+  "Geoffrey"
+ ],
+ "su_kien": [
+  "Frondier nhận ra việc khôi phục rào cản theo chiều kim đồng hồ sẽ dụ Manggot.",
+  "Frondier phát hiện ra cách thức điều khiển quái vật của Manggot thông qua một con quái vật cấp thấp.",
+  "Frondier liên lạc với Mother để xác nhận tình hình các rào chắn khác.",
+  "Renzo bày tỏ sự ngạc nhiên về hành động của Frondier.",
+  "Frondier cử Renzo lên tấm khiên bay đến vị trí chiến lược."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier chỉ đạo Renzo.",
+   "cach_goi": "gọi tên Renzo, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, liên lạc qua điện thoại.",
+   "cach_goi": "gọi 'Mother', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier Aigar",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Renzo tuân theo hướng dẫn của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Renzo",
+   "b": "Aten Terst",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Dier Aigar (thực chất là Eiger)"
+ ],
+ "stats": {
+  "tokens": 1056,
+  "seconds": 31.5
+ }
+}

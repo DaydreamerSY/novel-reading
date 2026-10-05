@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.tmp
+
+# translator: re-buildable cache, exports and run logs
+translator/data/cache/
+translator/data/*.txt
+translator/data/vi/*/_log.txt
+translator/output/
+translator/glossary.yaml.bak
+
+.claude/settings.local.json
+
+# scraped English source: kept locally, not published
+translator/data/en/

@@ -1,0 +1,85 @@
+{
+ "number": 390,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong khi đang trò chuyện, Roxy bất ngờ tấn công chìa khóa bằng một cây khoan băng. Đây là một phần của chiến lược đã được lên kế hoạch từ trước, với Dier đóng vai trò dẫn đầu để đánh lừa đối phương. Homas lao tới tấn công Frondier, và Pielott cũng nhanh chóng tham gia trận đấu. Cuối cùng, Dier đã giành lấy chìa khóa bằng cách lợi dụng sự phân tâm của Frondier và khả năng ẩn mình tuyệt vời của mình.",
+ "boi_canh": "Trong một cuộc thi, các học viên đang thực hiện một nhiệm vụ bí mật.",
+ "nhan_vat": [
+  "Frondier",
+  "Pielott",
+  "Dier",
+  "Roxy",
+  "Homas",
+  "Nether"
+ ],
+ "su_kien": [
+  "Roxy tấn công chìa khóa bằng khoan băng.",
+  "Homas lao vào tấn công Frondier.",
+  "Frondier phản công Homas bằng obsidian.",
+  "Pielott tấn công Frondier, bỏ qua chìa khóa.",
+  "Dier giành lấy chìa khóa và ẩn mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Roxy",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong cuộc thi.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Homas",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong cuộc thi, đang cố gắng tấn công.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Homas",
+   "loai": "doi_thu",
+   "mo_ta": "Phản công đối thủ trong cuộc thi.",
+   "cach_goi": "gọi tên Homas, lạnh lùng"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong cuộc thi, tấn công bỏ qua chìa khóa.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Phản công đối thủ trong cuộc thi.",
+   "cach_goi": "gọi tên Pielott, lạnh lùng"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người lớn tuổi hơn, đặt câu hỏi về sức mạnh của người tiền nhiệm.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "cap_tren",
+   "mo_ta": "Nhận thấy sự tương đồng với Dier.",
+   "cach_goi": "gọi tên Dier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nether",
+   "b": "Dier",
+   "loai": "khac",
+   "mo_ta": "Hỗ trợ Dier trong trận đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 888,
+  "seconds": 26.6
+ }
+}

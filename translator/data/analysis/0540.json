@@ -1,0 +1,65 @@
+{
+ "number": 540,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một lính canh phát hiện ra Selena đang tuyệt vọng kêu gọi nước và cố gắng giúp đỡ cô ấy. Tuy nhiên, Selena đã sử dụng kỹ thuật tương tự như cách cô ấy hạ gục Frondier để tấn công lính canh, giải thoát bản thân bằng một cây kim nhỏ và trốn thoát khỏi nhà tù. Cô ấy tiết lộ rằng Frondier đã đưa cô đến một cửa hàng bách hóa để tìm hiểu về cấu trúc của vòng xiềng phép thuật và khẳng định anh ấy đã đến cứu cô ấy theo lời hứa.",
+ "boi_canh": "Trong một phòng giam, bốn ngày sau khi bị bắt giữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Jei",
+  "Shadow",
+  "lính canh"
+ ],
+ "su_kien": [
+  "Lính canh nghe thấy tiếng Selena kêu gọi nước.",
+  "Selena tấn công lính canh và giải thoát bản thân.",
+  "Selena sử dụng một cây kim để mở vòng xiềng phép thuật.",
+  "Selena tiết lộ Frondier đã đưa cô đến cửa hàng bách hóa.",
+  "Selena trốn thoát khỏi nhà tù."
+ ],
+ "quan_he": [
+  {
+   "a": "lính canh",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Lính canh cố gắng giúp Selena, nhưng bị cô ấy tấn công và đánh bại.",
+   "cach_goi": "gọi 'Jei', thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "lính canh",
+   "loai": "ke_thu",
+   "mo_ta": "Selena tấn công lính canh để trốn thoát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Jei",
+   "loai": "ban_be",
+   "mo_ta": "Selena kêu gọi Jei, có lẽ là một người bạn hoặc đồng đội.",
+   "cach_goi": "gọi tên 'Jei', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Frondier đã cứu Selena và đưa cô đến cửa hàng bách hóa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Selena trốn thoát để tránh Belphegor.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Selena: tiết lộ đã được Frondier đưa đến cửa hàng bách hóa để tìm hiểu về vòng xiềng phép thuật."
+ ],
+ "stats": {
+  "tokens": 721,
+  "seconds": 22.2
+ }
+}

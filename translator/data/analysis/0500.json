@@ -1,0 +1,55 @@
+{
+ "number": 500,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Selena nói lời tạm biệt, Frondier hồi tưởng lại những kỷ niệm về thời gian họ cùng nhau trải qua. Anh nhận ra rằng anh không thể đọc được sự giả tạo của cô và quyết định chấp nhận nó. Cuối cùng, Selena biến mất sau khi bày tỏ cảm xúc chân thật của mình, để lại Frondier một mình.",
+ "boi_canh": "Một không gian mở, thời điểm chia tay.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena"
+ ],
+ "su_kien": [
+  "Selena nói lời tạm biệt với Frondier.",
+  "Frondier nhận ra anh không thể đọc được sự giả tạo của Selena.",
+  "Selena từ chối việc cúi đầu trước Frondier.",
+  "Selena khóc và bày tỏ cảm xúc chân thật của mình.",
+  "Selena biến mất sau khi nói lời tạm biệt."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Mối quan hệ phức tạp, Frondier nghi ngờ Selena nhưng dần chấp nhận cô.",
+   "cach_goi": "gọi tên Selena, không rõ cảm xúc"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Selena ban đầu có vai trò theo dõi và báo cáo về Frondier, nhưng dần phát triển cảm xúc.",
+   "cach_goi": "gọi 'Frondier-nim', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier cố gắng phá vỡ sự giả tạo của Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena cố gắng giữ khoảng cách và vai trò ban đầu.",
+   "cach_goi": "gọi 'Frondier-nim', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Selena: Ban đầu được giao nhiệm vụ theo dõi và báo cáo về Frondier, sau đó trở thành người hộ tống của anh. Vai trò thực tế là để thu thập thông tin cho Manggot."
+ ],
+ "stats": {
+  "tokens": 622,
+  "seconds": 18.5
+ }
+}

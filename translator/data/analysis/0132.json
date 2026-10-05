@@ -1,0 +1,92 @@
+{
+ "number": 132,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Aten đang trò chuyện về những câu chuyện liên quan đến cha của anh, Enfer, và những ảnh hưởng của ông tới Constel. Cuộc trò chuyện dẫn đến việc họ thảo luận về các kỳ thi cuối năm sắp tới và cơ hội được 'tuyển' một học sinh cao niên để làm đội. Ellen bất ngờ tiết lộ mình đang thực tập dưới sự hướng dẫn của Eden Hamelot, một người hùng nổi tiếng, và Frondier nhận được thông báo từ Malia yêu cầu anh đến phòng y tế.",
+ "boi_canh": "Trong khuôn viên trường Constel, vào thời điểm thảo luận về các kỳ thi cuối năm sắp tới.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Azier",
+  "Renzo",
+  "Elysia",
+  "Enfer",
+  "Ellen",
+  "Edwin",
+  "Malia",
+  "Eden",
+  "Eden Hamelot"
+ ],
+ "su_kien": [
+  "Frondier và Aten thảo luận về những câu chuyện liên quan đến Enfer tại Constel.",
+  "Aten đề cập đến việc Ellen đang thực tập dưới sự hướng dẫn của Eden Hamelot.",
+  "Ellen tiết lộ mình đã từ chối tất cả các lời mời làm đội cho kỳ thi cuối năm.",
+  "Frondier và Aten thảo luận về tầm quan trọng của việc đạt được vị trí số một trong kỳ thi cuối năm.",
+  "Một thông báo bất ngờ yêu cầu Frondier đến phòng y tế."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Trò chuyện thân thiết về các sự kiện và kế hoạch tương lai.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Trò chuyện thân thiết về các sự kiện và kế hoạch tương lai.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Thảo luận về việc tìm kiếm học sinh cao niên để làm đội.",
+   "cach_goi": "gọi tên Ellen, lễ phép"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Thảo luận về việc tìm kiếm học sinh cao niên để làm đội.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Nghe Frondier nói về việc tìm kiếm học sinh cao niên để làm đội.",
+   "cach_goi": "gọi tên Ellen, lễ phép"
+  },
+  {
+   "a": "Ellen",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Nghe Frondier nói về việc tìm kiếm học sinh cao niên để làm đội.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, thông báo cho anh đến phòng y tế.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Malia",
+   "loai": "nguoi_la",
+   "mo_ta": "Nghe thông báo từ Malia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot (tên đầy đủ của Eden)"
+ ],
+ "stats": {
+  "tokens": 1013,
+  "seconds": 31.3
+ }
+}

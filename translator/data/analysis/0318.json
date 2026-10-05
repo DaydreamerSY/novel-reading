@@ -1,0 +1,63 @@
+{
+ "number": 318,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đến thăm Quinie để thảo luận về việc nâng cấp vòng cổ chứa chất lỏng Obsidian. Anh giải thích chi tiết hơn mức cần thiết và đề xuất tăng dung lượng lưu trữ của vòng cổ để chứa nhiều Obsidian hơn, cũng như các mảnh vỡ từ Helheim. Quinie đồng ý rằng cần phải chế tạo một chiếc vòng cổ mới với sự tham gia của các chuyên gia khác nhau, bao gồm kỹ thuật viên khắc Rune, chuyên gia kỹ thuật ma thuật và chuyên gia bảo vệ ma thuật.",
+ "boi_canh": "Trong phòng ở nơi ở của Quinie vào một buổi sáng.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Esther"
+ ],
+ "su_kien": [
+  "Frondier đến thăm Quinie để thảo luận về việc nâng cấp vòng cổ.",
+  "Frondier giải thích chi tiết cách anh sử dụng chất lỏng Obsidian.",
+  "Anh đề xuất tăng dung lượng lưu trữ của vòng cổ để chứa nhiều Obsidian hơn.",
+  "Quinie đồng ý cần phải chế tạo một chiếc vòng cổ mới với sự tham gia của các chuyên gia khác nhau.",
+  "Frondier tin rằng mình có thể tìm được những người phù hợp cho từng vai trò."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, mối quan hệ đang phát triển.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, mối quan hệ đang phát triển.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, mối quan hệ đang phát triển.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, mối quan hệ đang phát triển.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính mới hoặc thay đổi tên gọi trong chương này."
+ ],
+ "stats": {
+  "tokens": 701,
+  "seconds": 21.4
+ }
+}

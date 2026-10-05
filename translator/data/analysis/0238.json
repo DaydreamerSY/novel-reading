@@ -1,0 +1,75 @@
+{
+ "number": 238,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nghe được tin tức về tình hình của Quinie từ một con quạ. Trong khi dạy ngôn ngữ cổ cho Selena, ông nảy ra một ý tưởng và giao nhiệm vụ cho Gregory. Ông phát hiện ra khả năng xóa ký ức người khác và suy đoán về điều kiện cần thiết để xóa hoàn toàn khỏi ký ức mọi người. Frondier lo ngại về sự an nguy của Quinie khi biết có kẻ đang nhắm mục tiêu vào Kora.",
+ "boi_canh": "Trong phòng làm việc, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Selena",
+  "Aster",
+  "Gregory",
+  "Kora",
+  "Lethe"
+ ],
+ "su_kien": [
+  "Frondier nghe tin tức về Quinie từ một con quạ.",
+  "Ông giao nhiệm vụ cho Gregory.",
+  "Ông phát hiện ra khả năng xóa ký ức người khác.",
+  "Ông suy đoán về điều kiện để xóa khỏi ký ức mọi người là cái chết.",
+  "Frondier gửi tin nhắn cho Quinie yêu cầu chuẩn bị kính báo giờ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Frondier lo lắng cho sự an toàn của Quinie.",
+   "cach_goi": "gọi tên Quinie, không trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học trò, Frondier đang dạy ngôn ngữ cổ cho Selena.",
+   "cach_goi": "gọi tên Selena, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Frondier giao việc cho Gregory.",
+   "cach_goi": "gọi tên Gregory, không trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kora",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lethe",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Kora: Một nhân vật bị xóa khỏi ký ức của mọi người.",
+  "River Lethe: Sông Lethe, nơi những linh hồn uống để quên đi quá khứ trước khi tái sinh."
+ ],
+ "stats": {
+  "tokens": 789,
+  "seconds": 24.3
+ }
+}

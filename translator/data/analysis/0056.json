@@ -1,0 +1,56 @@
+{
+ "number": 56,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Daud cùng nhau nghiên cứu một vòng tròn ma thuật kỳ lạ, được Frondier tìm thấy trong một ngục tối. Daud nhận ra rằng nó chứa các ký tự không quen thuộc và có thể là bằng ngôn ngữ cổ đại. Frondier nhớ lại cách anh ta đã giải quyết ngục tối đó - một thánh địa - và suy đoán rằng việc đọc to tên của vòng tròn ma thuật, 'Menosorpho', có thể kích hoạt nó.",
+ "boi_canh": "Trong một căn phòng bí ẩn, hai người đàn ông đang nghiên cứu một vòng tròn ma thuật.",
+ "nhan_vat": [
+  "Frondier",
+  "Daud",
+  "Sybil"
+ ],
+ "su_kien": [
+  "Daud phát hiện ra các ký tự lạ trong vòng tròn ma thuật.",
+  "Daud nghi ngờ Frondier đã vẽ sai hoặc giả mạo vòng tròn ma thuật.",
+  "Daud nhận thấy sự nhất quán trong cấu trúc của vòng tròn ma thuật.",
+  "Frondier tiết lộ rằng anh ta tìm thấy vòng tròn ma thuật trong một thánh địa.",
+  "Daud suy đoán rằng vòng tròn ma thuật có thể được viết bằng ngôn ngữ cổ đại."
+ ],
+ "quan_he": [
+  {
+   "a": "Daud",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Daud là người thầy/người lớn hơn, đánh giá và nghi ngờ Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Daud",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier tôn trọng nhưng cũng có chút lo lắng khi đối diện với sự đánh giá của Daud.",
+   "cach_goi": "gọi tên Daud, lễ phép"
+  },
+  {
+   "a": "Daud",
+   "b": "Sybil",
+   "loai": "gia_dinh",
+   "mo_ta": "Daud là cha của Sybil, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Sybil có vẻ là bạn bè, nhưng không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Menosorpho (tên của vòng tròn ma thuật)"
+ ],
+ "stats": {
+  "tokens": 649,
+  "seconds": 19.4
+ }
+}

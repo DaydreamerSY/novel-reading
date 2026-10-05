@@ -1,0 +1,84 @@
+{
+ "number": 187,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị Selena hạ gục dễ dàng, Frondier nhận ra cô vẫn còn những ký ức bị lãng quên và cố gắng gợi lại chúng bằng lời nói. Sau đó, anh lên lưng Cassian để tiếp tục hành trình, suy tư về một mối đe dọa cổ xưa mà Merlin đã nhắc đến. Trong khi đó, tình hình tại khu vực phòng tuyến trở nên tồi tệ hơn, với Ludwig phải tham chiến trực tiếp và Sybil đang cố gắng duy trì ma pháp cho rào cản.",
+ "boi_canh": "Trong rừng sâu, vào lúc nguy cấp.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aten",
+  "Sybil",
+  "Ludwig",
+  "Merlin",
+  "Sanders",
+  "Cassian",
+  "Arthur"
+ ],
+ "su_kien": [
+  "Selena hạ gục Frondier trong nháy mắt.",
+  "Frondier cố gắng gợi lại ký ức cho Selena bằng lời nói.",
+  "Ludwig tham chiến để hỗ trợ phòng tuyến.",
+  "Sybil duy trì ma pháp cho rào cản, gần như vượt quá giới hạn.",
+  "Một con quái vật phá vỡ rào cản và Ludwig phải can thiệp."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trong chiến đấu, Frondier cố gắng kích hoạt ký ức của Selena.",
+   "cach_goi": "gọi tên Selena, không rõ cảm xúc"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Bị Frondier kích động, nhưng không phản ứng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cassian",
+   "loai": "nguoi_la",
+   "mo_ta": "Sử dụng Cassian để di chuyển.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Sanders",
+   "loai": "cap_tren",
+   "mo_ta": "Ludwig là người có cấp bậc cao hơn, thúc giục Sanders tập trung.",
+   "cach_goi": "gọi tên Sanders, ra lệnh"
+  },
+  {
+   "a": "Sanders",
+   "b": "Ludwig",
+   "loai": "cap_tren",
+   "mo_ta": "Tuân theo lệnh của Ludwig.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Aten quan tâm đến tình trạng của Sybil.",
+   "cach_goi": "gọi tên Sybil, lo lắng"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Sybil cố gắng che giấu sự mệt mỏi của mình.",
+   "cach_goi": "gọi tên Aten, trả lời"
+  }
+ ],
+ "danh_tinh": [
+  "Selena có thể có những ký ức bị lãng quên liên quan đến cái chết của cha cô.",
+  "’Manggot’ là kẻ đã giết cha Selena."
+ ],
+ "stats": {
+  "tokens": 849,
+  "seconds": 25.4
+ }
+}

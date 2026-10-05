@@ -1,0 +1,91 @@
+{
+ "number": 431,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong bữa ăn gia đình, sự căng thẳng tăng lên khi Azier tiết lộ rằng Hoàng hậu Philly đã chủ động yêu cầu Nữ hoàng khen ngợi đóng góp của Frondier trong một nhiệm vụ chung. Điều này dẫn đến những lời cảnh báo từ cha và anh trai của Frondier về thái độ không thích của Hoàng đế đối với cậu, liên quan đến một sự kiện bí ẩn từ khi Frondier mới sinh ra.",
+ "boi_canh": "Trong phòng ăn dinh thự, buổi tối.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Philly",
+  "Azier",
+  "Enfer",
+  "Ellen",
+  "Malia",
+  "Bartello",
+  "Pros"
+ ],
+ "su_kien": [
+  "Hoàng hậu Philly được khen ngợi vì đã chủ động yêu cầu Nữ hoàng ca ngợi Frondier.",
+  "Azier tiết lộ rằng Hoàng đế sẽ gửi thư khen thưởng những người tham gia nhiệm vụ chung, bao gồm cả Frondier.",
+  "Enfer cho rằng sự tham gia của Hoàng hậu là để tạo cớ cho Frondier gặp gỡ Hoàng đế.",
+  "Malia nhắc lại lời cảnh báo về việc Hoàng đế gọi Frondier là 'con quỷ'.",
+  "Azier khuyên Frondier nên tránh mặt Hoàng đế khi đến cung điện."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và mẹ, đang trò chuyện.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Selena quan sát Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Malia quan sát Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Enfer quan sát Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em trai, đang trò chuyện.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và cha, đang trò chuyện.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và mẹ, đang trò chuyện.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Em trai và anh trai, đang trò chuyện.",
+   "cach_goi": "gọi tên, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Bartello Tert (Quốc vương)",
+  "Philly Terst (Hoàng hậu)"
+ ],
+ "stats": {
+  "tokens": 932,
+  "seconds": 27.9
+ }
+}

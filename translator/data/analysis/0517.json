@@ -1,0 +1,90 @@
+{
+ "number": 517,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Notker và quân lính của hắn ẩn mình trong rừng, chờ đợi thời cơ tấn công. Họ quan sát lực lượng Manggot chuẩn bị đối phó với cuộc xâm lược của quái vật, đồng thời phát hiện sự xuất hiện của Aster Evans trên tường thành. Notker bày tỏ ý định tiêu diệt Aster, còn Hector, người đứng cạnh Aster, cảm nhận được một khí chất đặc biệt và suy nghĩ về một thanh kiếm huyền thoại.",
+ "boi_canh": "Trong rừng gần Manggot, trước thềm cuộc xâm lược của quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Hagley",
+  "Ludwig",
+  "Notker",
+  "Aster Evans",
+  "Hector",
+  "Ludwig Urfa"
+ ],
+ "su_kien": [
+  "Notker và quân lính của hắn ẩn mình trong rừng, chờ đợi thời cơ tấn công.",
+  "Phát hiện sự xuất hiện của Aster Evans trên tường thành Manggot.",
+  "Notker bày tỏ ý định tiêu diệt Aster Evans.",
+  "Hector nhận ra Aster Evans và cảm nhận được khí chất đặc biệt của cậu.",
+  "Hector suy nghĩ về thanh kiếm huyền thoại trong Rừng Thiêng."
+ ],
+ "quan_he": [
+  {
+   "a": "Notker",
+   "b": "quân lính (người dưới)",
+   "loai": "thay_tro",
+   "mo_ta": "Người chỉ huy và người thuộc cấp, quan hệ sư đồ.",
+   "cach_goi": "gọi 'Sir Notker', lễ phép"
+  },
+  {
+   "a": "quân lính (người dưới)",
+   "b": "Notker",
+   "loai": "thay_tro",
+   "mo_ta": "Người thuộc cấp, phục tùng mệnh lệnh của người chỉ huy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Notker",
+   "b": "Aster Evans",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, có ý định tiêu diệt.",
+   "cach_goi": "gọi tên Aster, lạnh lùng"
+  },
+  {
+   "a": "Aster Evans",
+   "b": "Notker",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, bị Notker để mắt tới.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hector",
+   "b": "Aster Evans",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội trên tường thành, có vẻ quen biết.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster Evans",
+   "b": "Hector",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội trên tường thành, có vẻ quen biết.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig Urfa",
+   "b": "Hector",
+   "loai": "cap_tren",
+   "mo_ta": "Người cấp trên cũ, đã truyền đạt thông tin quan trọng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hector",
+   "b": "Ludwig Urfa",
+   "loai": "cap_tren",
+   "mo_ta": "Người cấp trên cũ, đã truyền đạt thông tin quan trọng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster.",
+  "Hector Von Urfa: Tên thật của Hector."
+ ],
+ "stats": {
+  "tokens": 938,
+  "seconds": 28.0
+ }
+}

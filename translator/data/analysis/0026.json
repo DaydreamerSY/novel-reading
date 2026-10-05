@@ -1,0 +1,66 @@
+{
+ "number": 26,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier, với khả năng chiến đấu được cải thiện nhờ luyện tập và sử dụng 'Gram', nhận ra sự cần thiết phải giữ kín thân phận để tránh sự chú ý của Thanatos. Trong khi Sybil đối phó với lũ Ratmen, Frondier bí mật quan sát và đã cứu cô khỏi một cuộc tấn công bất ngờ bằng một cây đoản dệt được ném trúng đích. Sau đó, Sybil bị nhiễm độc thần kinh, và Frondier nói dối rằng cô sẽ ngủ say để che giấu sự thật là cô đang bị thôi miên, đồng thời lên kế hoạch đối đầu với kẻ thù bí ẩn đứng sau vụ tấn công - Slevb.",
+ "boi_canh": "Bên trong một ngục tối, vào ban đêm, khi Frondier và Sybil đang chiến đấu với lũ Ratmen.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Slevb",
+  "Thanatos"
+ ],
+ "su_kien": [
+  "Frondier cải thiện kỹ năng ném nhờ luyện tập.",
+  "Frondier cứu Sybil khỏi một cuộc tấn công của Ratman bằng đoản dệt.",
+  "Sybil bị nhiễm độc thần kinh và bất tỉnh.",
+  "Frondier nói dối Sybil rằng cô sẽ ngủ say để che giấu sự thật là cô đang bị thôi miên.",
+  "Frondier đối đầu với Slevb, kẻ đã tấn công Sybil."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier nhận thấy sự nổi tiếng của Aster gây ra nhiều kỳ vọng và hạn chế.",
+   "cach_goi": "gọi tên Aster, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Frondier bảo vệ và chăm sóc Sybil.",
+   "cach_goi": "gọi tên Sybil, thân mật nhưng có vẻ quan tâm"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Sybil tin tưởng và dựa vào Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Slevb",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, Frondier biết Slevb là mối đe dọa và đang lên kế hoạch đối đầu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thanatos",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, Frondier đang cố gắng tránh sự chú ý của Thanatos.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Thanatos: Được nhắc đến như một vị thần đã từng tìm cách giết Frondier.",
+  "Slevb: Một kẻ thù bí ẩn, được mô tả là 'heretic' (kẻ dị giáo) và có khả năng gây độc chết người."
+ ],
+ "stats": {
+  "tokens": 842,
+  "seconds": 25.3
+ }
+}

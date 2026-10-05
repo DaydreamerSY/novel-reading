@@ -1,0 +1,89 @@
+{
+ "number": 523,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Cuộc tấn công của quái vật vào rào cản Đế Chế diễn ra dữ dội, khiến binh lính hoảng loạn. Renzo xuất hiện với vũ khí và sức mạnh phi thường, tạo nên một khoảnh khắc im lặng giữa trận chiến. Anh ta thực hiện một hành động bất ngờ bằng cách ném giáo xuống đất để đáp ứng yêu cầu của Frondier, sau đó Frondier chia sẻ tầm nhìn của Malia cho nhiều người, báo hiệu một cuộc phòng thủ mới.",
+ "boi_canh": "Trên rào cản Đế Chế, trong một trận chiến ác liệt giữa quân đội và quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Elysia",
+  "Osprey",
+  "Malia",
+  "Ares",
+  "Khryselakatos",
+  "Manggot"
+ ],
+ "su_kien": [
+  "Quái vật tấn công rào cản Đế Chế với sức mạnh áp đảo.",
+  "Renzo xuất hiện và sử dụng vũ khí của thần Ares, gây chú ý cho cả hai bên.",
+  "Renzo ném giáo xuống đất để đáp ứng yêu cầu của Frondier một cách bất ngờ.",
+  "Frondier chia sẻ tầm nhìn của Malia với nhiều người thông qua khả năng đặc biệt.",
+  "Frondier tạo ra mây đen trên bầu trời, báo hiệu một cuộc phòng thủ mới cho Đế Chế."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là người hướng dẫn và yêu cầu Renzo thực hiện một nhiệm vụ khó khăn.",
+   "cach_goi": "gọi tên Renzo, thân mật"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Renzo thực hiện yêu cầu của Frondier và báo cáo lại cho anh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, liên lạc với anh qua tầm nhìn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, liên lạc với anh qua tầm nhìn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Manggot",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, Renzo gây chú ý cho các thành viên của Manggot.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Manggot",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, Renzo gây chú ý cho các thành viên của Manggot.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Khryselakatos",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier nhìn thấy Khryselakatos qua tầm nhìn của Malia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Khryselakatos",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier nhìn thấy Khryselakatos qua tầm nhìn của Malia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Renzo được xác định là một thành viên của Manggot."
+ ],
+ "stats": {
+  "tokens": 1027,
+  "seconds": 30.7
+ }
+}

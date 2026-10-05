@@ -1,0 +1,84 @@
+{
+ "number": 285,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đang thực hiện nghĩa vụ lao động trong chuyến đi thực tế của trường Constel Academy. Anh ta cứu một cậu bé bị mất tích và gần như chết đuối bằng cách sử dụng kỹ thuật điều khiển mana. Sự kiện này thu hút sự chú ý của nhiều người, đặc biệt là học sinh Constel, khiến Frondier nghi ngờ có ai đó đang theo dõi anh.",
+ "boi_canh": "Bãi biển, ngày thứ ba của chuyến đi thực tế.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Sybil"
+ ],
+ "su_kien": [
+  "Frondier làm việc như một cứu hộ và cố tình tiếp cận các học sinh Constel.",
+  "Một người phụ nữ kêu cứu vì con trai mình mất tích khi đang bơi.",
+  "Frondier sử dụng Rune Menosorpo để tìm kiếm cậu bé bị mất tích.",
+  "Frondier cứu cậu bé bằng cách tạo ra một tấm chắn mana và bay trên đó.",
+  "Sau khi giải cứu, Frondier nhận được lời cảm ơn và hứa hẹn chơi đùa từ cậu bé."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier cố tình tiếp cận để thể hiện đang làm việc.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier cố tình tiếp cận để thể hiện đang làm việc.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier cố tình tiếp cận để thể hiện đang làm việc.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier cố tình tiếp cận để thể hiện đang làm việc.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Người phụ nữ (mẹ của cậu bé)",
+   "loai": "nguoi_la",
+   "mo_ta": "Cứu người mẹ đang hoảng loạn, không có mối quan hệ trước đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người phụ nữ (mẹ của cậu bé)",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Cảm ơn Frondier vì đã cứu con trai mình.",
+   "cach_goi": "gọi 'anh', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cậu bé",
+   "loai": "nguoi_la",
+   "mo_ta": "Đã cứu cậu bé, cậu bé bám vào Frondier và khóc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cậu bé",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Bám vào Frondier sau khi được cứu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 956,
+  "seconds": 29.3
+ }
+}

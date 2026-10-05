@@ -1,0 +1,74 @@
+{
+ "number": 534,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier chứng kiến cuộc chiến giữa Cohen và Medart de Thebes tại một rào cản. Cohen, chỉ huy của Manggot, đánh giá cao sự mạnh mẽ của Medart nhưng cũng nhận thấy dấu hiệu tuổi tác trên cơ thể ông. Sau khi chiến đấu với Medart, Cohen chuyển sang đối đầu với Sybil Forte, người đã hỗ trợ Medart trong trận chiến. Cuộc đối đầu giữa Cohen và Sybil diễn ra đầy bất ngờ, với những lời lẽ trêu chọc và tấn công liên tục từ Cohen, nhưng Sybil luôn né tránh một cách kỳ lạ. Cuối cùng, Sybil tiết lộ suy nghĩ sâu kín của mình về việc chạy trốn để tự bảo toàn, khiến Cohen nhận ra sự nguy hiểm tiềm ẩn của cô.",
+ "boi_canh": "Một rào cản chiến đấu, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Sybil",
+  "Hagley",
+  "Cohen",
+  "Medart",
+  "Sybil Forte",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Medart de Thebes sụp đổ trên rào cản.",
+  "Cohen đánh giá cao sự mạnh mẽ của Medart nhưng nhận thấy dấu hiệu tuổi tác.",
+  "Cohen và Sybil đối đầu sau trận chiến với Medart.",
+  "Sybil né tránh các đòn tấn công của Cohen một cách kỳ lạ.",
+  "Sybil tiết lộ suy nghĩ về việc chạy trốn để tự bảo toàn."
+ ],
+ "quan_he": [
+  {
+   "a": "Cohen",
+   "b": "Medart",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trên chiến trường, Cohen ngưỡng mộ sức mạnh của Medart.",
+   "cach_goi": "gọi tên Medart, lễ phép"
+  },
+  {
+   "a": "Medart",
+   "b": "Cohen",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trên chiến trường, Medart bị Cohen tấn công.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cohen",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối thủ trên chiến trường, Cohen nghi ngờ và chế giễu Sybil.",
+   "cach_goi": "gọi tên Sybil, trịch thượng"
+  },
+  {
+   "a": "Sybil",
+   "b": "Cohen",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trên chiến trường, Sybil né tránh các đòn tấn công của Cohen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Cohen",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trên chiến trường, Sybil bị Cohen chế giễu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cohen",
+   "b": "Sybil Forte",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trên chiến trường, Cohen coi Sybil là mối đe dọa lớn nhất.",
+   "cach_goi": "gọi tên Sybil Forte, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Sybil Forte là tên đầy đủ của Sybil."
+ ],
+ "stats": {
+  "tokens": 828,
+  "seconds": 26.2
+ }
+}

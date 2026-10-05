@@ -1,0 +1,81 @@
+{
+ "number": 136,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với việc Elodie và Quinie đến thăm Frondier tại phòng y tế, nghi ngờ anh liên quan đến vụ tiêu diệt quỷ. Sau đó, câu chuyện chuyển sang dinh thự Rishae, nơi Elodie bộc lộ sự khó chịu và lo lắng sau khi nghe lén một đoạn hội thoại đáng báo động về mối quan hệ của cô với Frondier. Cuối cùng, Revet de Rishae cố gắng tiếp cận Elodie nhưng bị cô từ chối.",
+ "boi_canh": "Phòng y tế tại học viện, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Quinie",
+  "Hagley",
+  "Malia",
+  "Revet",
+  "Revet de Rishae"
+ ],
+ "su_kien": [
+  "Elodie và Quinie đến phòng y tế để gặp Frondier.",
+  "Elodie nghe lén một đoạn hội thoại đáng lo ngại về mối quan hệ của cô với Frondier.",
+  "Elodie bộc lộ sự khó chịu và tức giận tại dinh thự Rishae.",
+  "Revet de Rishae cố gắng tiếp cận Elodie nhưng bị từ chối.",
+  "Elodie suy sụp tinh thần sau khi nghe lén đoạn hội thoại."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, mối quan hệ phức tạp và có vẻ như Frondier đang che giấu điều gì đó.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, có vẻ đang nghi ngờ và lo lắng về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh kính trọng người lớn tuổi hơn, có sự nghi ngờ về tình hình của Frondier.",
+   "cach_goi": "gọi 'Senior', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "Người lớn tuổi hơn đối với học sinh, tương tác ngắn gọn.",
+   "cach_goi": "gọi tên Quinie, lịch sự"
+  },
+  {
+   "a": "Elodie",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, không xuất hiện trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Revet de Rishae",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Elodie, cố gắng tiếp cận nhưng bị từ chối.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Revet de Rishae",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Elodie, bị cô từ chối tiếp cận.",
+   "cach_goi": "gọi tên Revet, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính nhân vật trong chương này."
+ ],
+ "stats": {
+  "tokens": 921,
+  "seconds": 28.5
+ }
+}

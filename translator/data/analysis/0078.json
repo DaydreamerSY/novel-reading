@@ -1,0 +1,73 @@
+{
+ "number": 78,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bắt đầu dạy Aten cách học để chuẩn bị cho kỳ thi giữa kỳ của trường Constel. Anh ta phải viết lại các bài giảng từ hội thảo theo cách riêng của mình để Aten có thể hiểu và ghi nhớ. Aten nhận ra sự nghiêm túc của Frondier, và sau đó nhận được cuộc gọi từ mẹ, hoàng hậu Philly, thông báo rằng bà và các chị gái sẽ đến xem kỳ thi thực hành của Aten.",
+ "boi_canh": "Trong thư viện trường Constel, vào một buổi chiều trước kỳ thi giữa kỳ.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Philly",
+  "Khryselakatos",
+  "Mom"
+ ],
+ "su_kien": [
+  "Frondier và Aten ngồi cạnh nhau trong thư viện.",
+  "Frondier bắt đầu dạy Aten cách học bằng cách viết lại các bài giảng từ hội thảo.",
+  "Aten nhận ra sự nghiêm túc của Frondier khi anh ta giúp cô học tập.",
+  "Aten nhận được cuộc gọi từ Philly, hoàng hậu.",
+  "Philly thông báo rằng bà và các chị gái sẽ đến xem kỳ thi thực hành của Aten."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, Frondier giúp Aten học tập.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên, Aten học hỏi từ Frondier.",
+   "cach_goi": "gọi tên Frondier, lịch sự"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con gái, Philly quan tâm đến việc học tập và cuộc sống của Aten.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái và mẹ, Aten trả lời cuộc gọi của Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Constel (trường học)",
+  "sagephone (điện thoại thông minh)"
+ ],
+ "stats": {
+  "tokens": 775,
+  "seconds": 23.3
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "number": 18,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Instructor Alex giảng về 'aura' và cách sử dụng nó để tăng cường sức mạnh chiến đấu. Ông minh họa bằng cách cắt một tảng đá lớn bằng aura. Sau đó, ông đưa ra thử thách: ai có thể cắt được tảng đá đặc biệt này sẽ nhận được quyền vào một dungeon cấp thấp. Frondier không quan tâm đến việc cắt đá nhưng lại quan sát các học sinh để tìm kiếm người có khả năng làm điều đó.",
+ "boi_canh": "Sân tập ngoài trời của trường Constel, trong một buổi giảng về kỹ thuật chiến đấu.",
+ "nhan_vat": [
+  "Frondier",
+  "Alex",
+  "Aster"
+ ],
+ "su_kien": [
+  "Alex giới thiệu khái niệm 'aura' và tầm quan trọng của nó trong chiến đấu.",
+  "Alex minh họa cách sử dụng aura bằng cách cắt một tảng đá lớn.",
+  "Alex chọn Aster làm ví dụ về sự cân bằng cơ thể lý tưởng.",
+  "Alex đưa ra thử thách: cắt được tảng đá đặc biệt để nhận quyền vào dungeon.",
+  "Học sinh bày tỏ sự hào hứng với thử thách và cơ hội đến dungeon."
+ ],
+ "quan_he": [
+  {
+   "a": "Alex",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Instructor Alex giảng bài cho Frondier; Frondier quan sát và suy nghĩ về những gì được dạy.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Alex",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier quan sát và suy nghĩ về những gì được dạy bởi Instructor Alex.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Alex",
+   "b": "Aster",
+   "loai": "thay_tro",
+   "mo_ta": "Instructor Alex chọn Aster làm ví dụ và động viên cậu.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Alex",
+   "loai": "thay_tro",
+   "mo_ta": "Aster là học sinh được Alex chọn làm ví dụ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Học sinh (không xác định)",
+   "b": "Alex",
+   "loai": "dong_minh",
+   "mo_ta": "Một học sinh đặt câu hỏi cho Alex.",
+   "cach_goi": "gọi 'Instructor', lễ phép"
+  },
+  {
+   "a": "Alex",
+   "b": "Học sinh (không xác định)",
+   "loai": "dong_minh",
+   "mo_ta": "Alex trả lời câu hỏi của một học sinh.",
+   "cach_goi": "gọi 'you', thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 758,
+  "seconds": 22.8
+ }
+}

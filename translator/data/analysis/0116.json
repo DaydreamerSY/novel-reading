@@ -1,0 +1,77 @@
+{
+ "number": 116,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Philly chất vấn Elysia về vụ án liên quan đến Aten, Elysia đã đổ lỗi cho Sale và cố gắng đánh lạc hướng. Tuy nhiên, Philly đã vạch trần sự dối trá của Elysia bằng cách đề cập đến phép thuật Rafflesia. Một trận động đất lớn xảy ra, tiết lộ một Chimera khổng lồ mà Elysia đã tạo ra, khiến Philly kinh hãi. Frondier nhận ra mức độ nghiêm trọng của tình hình và chuẩn bị đối mặt với Chimera.",
+ "boi_canh": "Trong phòng thẩm vấn tại lâu đài, vào thời điểm Elysia đang cố gắng đổ lỗi cho người khác.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Renzo",
+  "Elysia",
+  "Sale",
+  "Khryselakatos",
+  "Mom",
+  "Sigurd"
+ ],
+ "su_kien": [
+  "Philly chất vấn Elysia về vụ án liên quan đến Aten.",
+  "Elysia đổ lỗi cho Sale và cố gắng đánh lạc hướng.",
+  "Philly vạch trần sự dối trá của Elysia bằng cách đề cập đến phép thuật Rafflesia.",
+  "Một trận động đất lớn xảy ra, tiết lộ một Chimera khổng lồ.",
+  "Chimera bỏ chạy khỏi Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu Philly quan sát và đánh giá hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier báo cáo tình hình cho Hoàng hậu Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia",
+   "loai": "doi_thu",
+   "mo_ta": "Hoàng hậu Philly thẩm vấn và vạch trần sự dối trá của công chúa Elysia.",
+   "cach_goi": "gọi tên Elysia, lạnh lùng"
+  },
+  {
+   "a": "Elysia",
+   "b": "Philly",
+   "loai": "doi_thu",
+   "mo_ta": "Công chúa Elysia cố gắng đánh lạc hướng và phủ nhận tội lỗi của mình.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Rafflesia: Một phép thuật dùng để dụ dỗ quái vật.",
+  "Chimera: Sinh vật được Elysia tổng hợp từ nhiều loài khác nhau."
+ ],
+ "stats": {
+  "tokens": 832,
+  "seconds": 25.8
+ }
+}

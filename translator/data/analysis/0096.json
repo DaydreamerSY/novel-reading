@@ -1,0 +1,73 @@
+{
+ "number": 96,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Hoàng hậu Philly Terst bí mật gặp Renzo trong một căn phòng dưới lòng đất của Constel. Cuộc trò chuyện căng thẳng khi Philly thăm dò thông tin về Frondier và cách Renzo mất đi cánh tay phải. Renzo tỏ ra tức giận nhưng không hành động, cho thấy sự tính toán đằng sau vẻ ngoài điên rồ của mình.",
+ "boi_canh": "Dưới lòng đất Constel, vào một buổi tối bí mật.",
+ "nhan_vat": [
+  "Philly Terst",
+  "Renzo",
+  "Aten",
+  "Frondier",
+  "Robert"
+ ],
+ "su_kien": [
+  "Hoàng hậu Philly xuất hiện với hai kỵ sĩ tại căn phòng dưới lòng đất.",
+  "Renzo tỏ vẻ khó chịu khi hỏi thăm tình hình của Philly.",
+  "Philly cố tình khiến Renzo tức giận bằng cách đề cập đến việc mất cánh tay.",
+  "Renzo định tấn công Philly nhưng bị ngăn cản.",
+  "Philly dò hỏi về Frondier và cách Renzo mất đi cánh tay, nhận được câu trả lời mơ hồ."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly Terst",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Hoàng hậu thăm dò thông tin, Renzo tỏ vẻ tức giận và phòng thủ.",
+   "cach_goi": "gọi tên 'Renzo', lạnh lùng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Philly Terst",
+   "loai": "doi_thu",
+   "mo_ta": "Tức giận vì bị Philly khiêu khích, nhưng vẫn giữ được sự bình tĩnh nhất định.",
+   "cach_goi": "gọi tên 'Philly', thô lỗ"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "kỵ sĩ (không rõ tên)",
+   "loai": "cap_tren",
+   "mo_ta": "Ra lệnh cho kỵ sĩ rời đi.",
+   "cach_goi": "gọi 'các ngươi', trịch thượng"
+  },
+  {
+   "a": "kỵ sĩ (không rõ tên)",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Tuân lệnh của Philly.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Frondier đã thông tin về Renzo cho Philly.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Aten là người chứng kiến sự việc nhưng không rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot: Tên đầy đủ của Eden.",
+  "Enfer de Roach: Gia chủ nhà Roach, cha của Frondier và Azir, chồng của Malia."
+ ],
+ "stats": {
+  "tokens": 789,
+  "seconds": 23.9
+ }
+}

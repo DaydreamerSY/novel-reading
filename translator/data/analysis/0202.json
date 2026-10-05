@@ -1,0 +1,78 @@
+{
+ "number": 202,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier bị Pascal, một giáo viên có vẻ ngoài kỳ lạ, tấn công bằng aura sau khi tin đồn về việc anh sử dụng aura lan truyền. Anh phải đối mặt với Pascal và nhận ra rằng những hành động của giáo viên này không hề ngẫu nhiên mà có mục đích. Frondier nghi ngờ Gregory đứng sau chuyện này và nhờ Selena điều tra mối liên hệ giữa Gregory, Rokbel và Grobel.",
+ "boi_canh": "Trong lớp học, lúc đang diễn ra một buổi giảng.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Azier",
+  "Pascal",
+  "Gregory",
+  "Serf",
+  "Grobel",
+  "Rokbel",
+  "Neil",
+  "Neil Jack",
+  "Student Frondier"
+ ],
+ "su_kien": [
+  "Pascal tấn công Frondier bằng aura sau khi lan truyền tin đồn.",
+  "Frondier sử dụng thanh kiếm 'Thanh Kiếm Ngắn Neil Jack' để đối phó với Pascal.",
+  "Sinh viên trong lớp kinh ngạc trước khả năng chặn aura của Frondier.",
+  "Pascal tỏ ra bối rối và yêu cầu Frondier trở lại chỗ ngồi.",
+  "Frondier nhờ Selena điều tra về Gregory, Rokbel và Grobel."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp trong trận chiến aura.",
+   "cach_goi": "gọi tên Pascal, lạnh lùng"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên chế giễu và khiêu khích học sinh.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier nhờ Selena điều tra.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Selena lắng nghe và thực hiện yêu cầu của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "ke_thu",
+   "mo_ta": "Nghi ngờ Gregory là nguồn gốc của tin đồn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Grobel",
+   "b": "Rokbel",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai lo lắng cho sự an toàn của em trai.",
+   "cach_goi": "gọi tên Rokbel, lo lắng"
+  }
+ ],
+ "danh_tinh": [
+  "Thanh Kiếm Ngắn Neil Jack: Thanh kiếm thực sự mà Frondier sử dụng, không phải bản sao."
+ ],
+ "stats": {
+  "tokens": 809,
+  "seconds": 24.2
+ }
+}

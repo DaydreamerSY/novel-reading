@@ -1,0 +1,77 @@
+{
+ "number": 135,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào hoạt động tuyển chọn học sinh năm nhất tại trường, nơi các học sinh khóa trên tranh giành cơ hội được tham gia đội hỗ trợ cho kỳ thi cuối cùng. Quinie de Viet nổi bật với sự tự tin và khả năng từ chối những lời đề nghị, trong khi Anne quan sát cô một cách lạnh lùng. Một loạt các sự kiện diễn ra sau đó hé lộ âm mưu tiềm ẩn liên quan đến Frondier và Aten, dẫn đến việc Quinie đột ngột thay đổi kế hoạch và phát hiện ra một rào cản phép thuật đáng ngờ xung quanh phòng y tế.",
+ "boi_canh": "Trong khuôn viên trường, trong thời gian hoạt động tuyển chọn học sinh năm nhất.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aten Terst",
+  "Quinie de Viet",
+  "Quinie",
+  "Renzo",
+  "Ellen",
+  "Malia",
+  "Anne",
+  "Aster"
+ ],
+ "su_kien": [
+  "Học sinh năm nhất tranh giành cơ hội được tuyển vào đội hỗ trợ.",
+  "Quinie de Viet nhận nhiều lời đề nghị và từ chối chúng một cách tự tin.",
+  "Anne quan sát Quinie với vẻ mặt lạnh lùng.",
+  "Quinie gửi thông báo cho mẹ của Frondier, Malia.",
+  "Quinie phát hiện ra rào cản phép thuật xung quanh phòng y tế."
+ ],
+ "quan_he": [
+  {
+   "a": "Quinie de Viet",
+   "b": "Anne",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân với mối quan hệ phức tạp, thường xuyên trêu chọc và mỉa mai nhau.",
+   "cach_goi": "gọi tên Anne, lạnh lùng"
+  },
+  {
+   "a": "Anne",
+   "b": "Quinie de Viet",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân với mối quan hệ phức tạp, thường xuyên trêu chọc và mỉa mai nhau.",
+   "cach_goi": "gọi tên Quinie, trịch thượng"
+  },
+  {
+   "a": "Quinie de Viet",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh, có vẻ như có sự quan tâm ngầm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Anne",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Anne quan sát Frondier thông qua Quinie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, có vẻ như đang âm mưu điều gì đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie de Viet",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu, Elodie có vẻ như đang nghe lén.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Quinie de Viet (tên đầy đủ của Quinie)"
+ ],
+ "stats": {
+  "tokens": 864,
+  "seconds": 26.9
+ }
+}

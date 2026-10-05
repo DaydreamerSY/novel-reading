@@ -1,0 +1,98 @@
+{
+ "number": 23,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi xuống cầu thang, nhóm khám phá một hang động rộng lớn với hoa dại mọc xen kẽ giữa đá và rêu. Frondier phát hiện ra một bẫy ẩn bằng cách quan sát kỹ lưỡng, khiến Jane phải dừng lại. Sau đó, Quinie kích hoạt một bẫy khác để kiểm tra, và cuối cùng, một cơ chế xoay chuyển sàn nhà đã tách Frondier và Sybil khỏi nhóm còn lại.",
+ "boi_canh": "Bên trong một hang động tự nhiên, trong một ngục tối cấp thấp.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Quinie",
+  "Jane"
+ ],
+ "su_kien": [
+  "Nhóm khám phá hang động tự nhiên với hoa dại.",
+  "Frondier phát hiện bẫy ẩn bằng cách quan sát kỹ lưỡng.",
+  "Quinie kích hoạt một bẫy khác để kiểm tra và tìm hiểu thêm.",
+  "Một cơ chế xoay chuyển sàn nhà tách Frondier và Sybil khỏi nhóm còn lại.",
+  "Sybil lo lắng khi bị cô lập với Frondier trong một không gian mới."
+ ],
+ "quan_he": [
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên hướng dẫn và học trò, Jane quan sát và chỉ dẫn Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò nhận lời khen từ giáo viên.",
+   "cach_goi": "gọi tên Jane, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster quan sát và có phần trêu chọc Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier đáp lại lời trêu chọc của Aster một cách ngắn gọn.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Quan sát Frondier từ xa, có vẻ nghi ngờ khả năng của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng đội, Jane ra lệnh cho Aster.",
+   "cach_goi": "gọi tên Aster, lễ phép"
+  },
+  {
+   "a": "Jane",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Jane lo lắng cho Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster quan tâm đến Sybil.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sybil bày tỏ sự nhàm chán và mong muốn được thấy Aster hành động.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil cảm thấy cảnh giác với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1060,
+  "seconds": 31.8
+ }
+}

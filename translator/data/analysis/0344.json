@@ -1,0 +1,79 @@
+{
+ "number": 344,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trận chiến đầu tiên kết thúc, Frondier giúp đỡ các hiệp sĩ nghỉ ngơi và chuẩn bị bữa ăn. Anh ta đối mặt với sự nghi ngờ của Sylvain về việc ai điều khiển con quạ hỗ trợ trong trận chiến. Tại cuộc họp sau đó, Frondier được lệnh im lặng nhưng đã truyền đạt một thông điệp quan trọng cho Sylvain bằng cách đọc môi.",
+ "boi_canh": "Buổi chiều ngày đầu tiên của trận chiến kết thúc.",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Sylvain",
+  "Gregory",
+  "Father"
+ ],
+ "su_kien": [
+  "Trận chiến đầu tiên kết thúc với thương vong tương đối nhỏ.",
+  "Frondier giúp đỡ các hiệp sĩ nghỉ ngơi và chuẩn bị bữa ăn.",
+  "Sylvain nghi ngờ Frondier có liên quan đến việc điều khiển con quạ hỗ trợ.",
+  "Enfer yêu cầu Frondier tham gia cuộc họp sau bữa ăn, nhưng ra lệnh anh ta im lặng.",
+  "Frondier truyền đạt thông điệp cho Sylvain bằng cách đọc môi."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai, Frondier giúp đỡ cha mình và không cãi lời.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha, Enfer không hoàn toàn hài lòng với hành động của con trai nhưng không ngăn cản.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier và Sylvain có mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Sylvain, thân mật"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sylvain nghi ngờ Frondier và tìm kiếm câu trả lời từ anh ta.",
+   "cach_goi": "gọi tên Frondier, thận trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Frondier đánh giá cao bản đồ của Gregory.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Các hiệp sĩ",
+   "loai": "cap_tren",
+   "mo_ta": "Cha, Enfer là người ra lệnh và được các hiệp sĩ tôn trọng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Các hiệp sĩ",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Hiệp sĩ, các hiệp sĩ tuân theo lệnh của Enfer.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính mới hoặc thay đổi tên gọi trong chương này."
+ ],
+ "stats": {
+  "tokens": 855,
+  "seconds": 25.6
+ }
+}

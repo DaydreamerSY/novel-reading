@@ -1,0 +1,91 @@
+{
+ "number": 141,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier tham gia một cuộc họp với Aten và Quinie để thảo luận về kỳ thi cuối năm của học viên Constel. Họ bàn về định dạng bài kiểm tra, bao gồm cả những thông tin mà Frondier đã biết trước. Sau đó, Frondier đề xuất bán 'Cursed Cloth' của Penelope để chuẩn bị cho kỳ thi, tiết lộ kế hoạch sử dụng nó như một nguồn mana thay thế cho Weaving Dragon Heart.",
+ "boi_canh": "Trong phòng họp tại Học viện Constel, đang diễn ra cuộc thảo luận về kỳ thi cuối năm.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Aten Terst",
+  "Azier",
+  "Quinie",
+  "Pros",
+  "Penelope",
+  "Neil",
+  "Neil Jack"
+ ],
+ "su_kien": [
+  "Cuộc họp được bắt đầu với những lời tranh luận nhỏ giữa Quinie và Aten.",
+  "Frondier ngắt lời cuộc trò chuyện để chuyển sang chủ đề kỳ thi cuối năm.",
+  "Aten hỏi về định dạng bài kiểm tra, và Frondier tiết lộ thông tin đã biết trước.",
+  "Frondier giới thiệu 'Cursed Cloth' của Penelope và kế hoạch sử dụng nó.",
+  "Frondier gấp vải và đeo vào như một chiếc cà vạt."
+ ],
+ "quan_he": [
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng cấp và có vẻ như đang cố gắng điều khiển cuộc họp.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng cấp và ngắt lời để chuyển hướng cuộc trò chuyện.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Quinie",
+   "loai": "cap_tren",
+   "mo_ta": "Tên công chúa Aten, có vẻ như đang đánh giá Quinie.",
+   "cach_goi": "gọi tên Quinie, lễ phép"
+  },
+  {
+   "a": "Quinie",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Tên công chúa Aten, trả lời một cách lịch sự.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp nhưng Frondier quan sát Aten.",
+   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp nhưng Aten quan sát Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pros",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pros",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst (tam công chúa)",
+  "Neil Jack (một nhân vật)"
+ ],
+ "stats": {
+  "tokens": 975,
+  "seconds": 30.1
+ }
+}

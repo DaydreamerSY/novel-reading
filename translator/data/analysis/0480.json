@@ -1,0 +1,93 @@
+{
+ "number": 480,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi kết thúc lớp học, Frondier rời khỏi Constel để tìm hiểu về một sự bất thường kỳ lạ. Anh bị đuổi khỏi nhà Rishae bởi Revett vì những lời nói vô nghĩa. Lo lắng cho Elodie và nghi ngờ cô ấy có thể không còn tồn tại, Frondier liên hệ với Ludwig von Urfa để được giúp đỡ. Cuộc gặp gỡ với Ludwig và hai người bạn của ông, Lily và Monty, đã mang đến một góc nhìn mới về tình hình, gợi ý rằng Elodie có thể vẫn còn trong thế giới này và bị xóa khỏi ký ức của mọi người.",
+ "boi_canh": "Một buổi chiều tại dinh thự của gia đình Rishae.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Philly",
+  "Lily",
+  "Osprey",
+  "Jane",
+  "Ludwig",
+  "Monty",
+  "Hector",
+  "Ludwig von Urfa",
+  "GwhoisJ",
+  "Revett"
+ ],
+ "su_kien": [
+  "Frondier rời khỏi Constel sau giờ học.",
+  "Frondier bị Revett đuổi khỏi nhà Rishae.",
+  "Frondier liên hệ với Ludwig von Urfa để được giúp đỡ về ma thuật.",
+  "Lily và Monty đi cùng Ludwig, gây ra một cuộc tranh cãi nhỏ.",
+  "Monty đưa ra giả thuyết rằng Elodie có thể vẫn còn trong thế giới này."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Lo lắng cho sự an toàn của Elodie, Frondier không biết cô ấy còn tồn tại hay không.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Revett",
+   "loai": "doi_thu",
+   "mo_ta": "Revett tỏ ra thù địch với Frondier, không thay đổi dù Elodie có mặt hay không.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier tìm kiếm sự giúp đỡ từ Ludwig, một nhà thuật sĩ tài ba.",
+   "cach_goi": "lễ phép"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Ludwig giúp đỡ Frondier nhưng có vẻ không hoàn toàn tin tưởng anh.",
+   "cach_goi": "lạnh lùng"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Lily đi cùng Ludwig và bày tỏ sự quan tâm đến Frondier.",
+   "cach_goi": "thân mật"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Monty đi cùng Ludwig và đưa ra một giả thuyết quan trọng về Elodie.",
+   "cach_goi": "thân mật"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Lily",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, Ludwig và Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Monty",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, Ludwig và Monty.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hector Von Urfa được biết là Hector, con trai của Ludwig von Urfa."
+ ],
+ "stats": {
+  "tokens": 984,
+  "seconds": 29.6
+ }
+}

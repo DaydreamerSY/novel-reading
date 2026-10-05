@@ -1,0 +1,86 @@
+{
+ "number": 55,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tiếp tục tìm kiếm thông tin trong thư viện để tìm cách 'sửa đổi' vũ khí dệt. Anh xác nhận rằng xưởng của anh lưu trữ hình ảnh vật thể một cách chính xác, cho phép anh tái tạo chúng với Obsidian. Sau đó, anh gặp Elodie, người nghi ngờ điều gì đó về anh. Cuối cùng, Frondier đến nhà Sybil theo lời chỉ dẫn và gặp cha cô, Daud Forte, người tỏ ra hoài nghi về khả năng của anh.",
+ "boi_canh": "Trong thư viện, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Edwin",
+  "Ainen",
+  "Daud",
+  "Daud Forte"
+ ],
+ "su_kien": [
+  "Frondier tìm kiếm thông tin về cách 'sửa đổi' vũ khí dệt trong thư viện.",
+  "Elodie tiếp cận Frondier và nghi ngờ anh đang che giấu điều gì đó.",
+  "Frondier đến nhà Sybil theo lời chỉ dẫn.",
+  "Frondier gặp cha của Sybil, Daud Forte.",
+  "Daud yêu cầu Frondier vẽ một rune lớn trên mặt đất."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie nghi ngờ Frondier đang che giấu điều gì đó.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie nghi ngờ Frondier đang che giấu điều gì đó.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mới quen, Frondier đến nhà Sybil theo lời chỉ dẫn.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mới quen, Frondier đến nhà Sybil theo lời chỉ dẫn.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Daud Forte",
+   "loai": "nguoi_la",
+   "mo_ta": "Cha của Sybil, tỏ ra hoài nghi về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Daud Forte",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Cha của Sybil, tỏ ra hoài nghi về Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Sybil",
+   "b": "Daud Forte",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, Sybil phản đối cách đối xử của cha với Frondier.",
+   "cach_goi": "gọi 'Dad', thân mật"
+  },
+  {
+   "a": "Daud Forte",
+   "b": "Sybil",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, Sybil phản đối cách đối xử của cha với Frondier.",
+   "cach_goi": "gọi tên Sybil, thô lỗ"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 980,
+  "seconds": 29.5
+ }
+}

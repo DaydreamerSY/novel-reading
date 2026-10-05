@@ -1,0 +1,53 @@
+{
+ "number": 487,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi vào cabin, Elodie lo lắng kiểm tra xem Frondier có bị thương không. Cô ấy liên tục xin lỗi vì cánh cửa cabin đã hỏng. Để che giấu khả năng của mình và khiến Elodie chấp nhận sự thật, Frondier nói dối rằng đó là một khả năng mà anh sẽ đạt được trong tương lai. Cuối cùng, Frondier nhận ra giấc mơ này là do Elodie tạo ra để xin lỗi anh vì những điều đã làm.",
+ "boi_canh": "Trong cabin, vào thời điểm hiện tại (trong giấc mơ của Elodie).",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie"
+ ],
+ "su_kien": [
+  "Elodie và Frondier bước vào cabin.",
+  "Elodie lo lắng kiểm tra xem Frondier có bị thương không.",
+  "Frondier nói dối về nguồn gốc của khả năng của mình để Elodie chấp nhận.",
+  "Elodie tỏ ra sợ hãi khi Frondier đề nghị cùng cô đánh bại quái vật.",
+  "Frondier nhận ra giấc mơ này là do Elodie tạo ra để xin lỗi anh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier đang cố gắng giúp Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, lo lắng và bảo vệ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhận ra Elodie là hiện thân của sự hối lỗi và muốn giúp cô ấy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Tạo ra giấc mơ để xin lỗi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 530,
+  "seconds": 15.7
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "number": 150,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với việc Aster nhanh chóng tiếp cận Frondier, sử dụng sức mạnh của Baldur để tăng cường khả năng của mình. Một cuộc đối đầu diễn ra, nhưng một rào cản vô hình ngăn chặn Aster. Elodie và Jane chuẩn bị phép thuật hỗ trợ, nhưng lại bị Aten chặn lại bằng một bức tường băng lớn. Cuối cùng, sự thật được tiết lộ: Frondier không hề cứu một nạn nhân mà là Quinie de Viet, tạo nên một bước ngoặt trong trận chiến khi mọi người nhận ra đây là một chiến thuật đã được lên kế hoạch từ trước. Aster và Azier tiếp tục đối đầu, với những kỹ năng đặc trưng của mỗi bên được phô diễn.",
+ "boi_canh": "Một khu vực chiến đấu không xác định, vào thời điểm diễn ra một trận chiến căng thẳng giữa các học viên.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten Terst",
+  "Azier",
+  "Quinie de Viet",
+  "Enfer",
+  "Jane"
+ ],
+ "su_kien": [
+  "Aster tiếp cận Frondier với sức mạnh tăng cường từ Baldur.",
+  "Một rào cản vô hình ngăn chặn Aster khi anh ta cố gắng tiếp cận Frondier.",
+  "Aten tạo ra một bức tường băng lớn, chặn đứng phép thuật của Elodie và Jane.",
+  "Sự thật được tiết lộ: Frondier đang cứu Quinie de Viet chứ không phải một nạn nhân.",
+  "Aster và Azier đối đầu với những kỹ năng đặc trưng của mỗi bên."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Aster, thô lỗ"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Frondier, hỗ trợ từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Frondier, hỗ trợ từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "Aten là người có cấp bậc cao hơn Elodie, chặn phép thuật của cô ấy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie de Viet",
+   "b": "Azier",
+   "loai": "nguoi_la",
+   "mo_ta": "Tấn công Azier và chế nhạo anh ta.",
+   "cach_goi": "gọi tên Azier, trịch thượng"
+  },
+  {
+   "a": "Azier",
+   "b": "Quinie de Viet",
+   "loai": "nguoi_la",
+   "mo_ta": "Bị tấn công bởi Quinie, không quen biết cô ấy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy của Frondier, xuất hiện bất ngờ và hỗ trợ anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Quinie de Viet (tên đầy đủ của Quinie)"
+ ],
+ "stats": {
+  "tokens": 972,
+  "seconds": 30.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "number": 427,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một người đàn ông bí ẩn cầu xin Frondier giết anh ta vì anh ta sợ mình sẽ gây hại cho người khác khi mất kiểm soát. Sau khi phân tích tình trạng của người đàn ông, Frondier quyết định loại bỏ Mana hỗn tạp trong cơ thể anh ta để ngăn chặn sự suy thoái. Angus, sau đó, nhìn thấy tiềm năng ở Frondier và cố gắng dụ dỗ anh ta tham gia vào kế hoạch tạo ra vũ khí tối thượng, nhưng Frondier đã từ chối một cách lạnh lùng.",
+ "boi_canh": "Một phòng thí nghiệm bí mật, thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Ellen",
+  "Dier",
+  "Angus"
+ ],
+ "su_kien": [
+  "Người đàn ông cầu xin Frondier giết anh ta để ngăn chặn những hành động nguy hiểm khi mất kiểm soát.",
+  "Frondier phân tích cơ thể người đàn ông và phát hiện ra sự hỗn loạn do các thí nghiệm gây ra.",
+  "Frondier loại bỏ Mana hỗn tạp trong cơ thể người đàn ông, khiến anh ta ngất đi.",
+  "Angus cố gắng dụ dỗ Frondier tham gia vào kế hoạch tạo vũ khí tối thượng.",
+  "Frondier từ chối Angus và trói anh ta lại."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Người đàn ông",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier lắng nghe lời cầu xin của người đàn ông và quyết định giúp anh ta.",
+   "cach_goi": "gọi 'anh', lạnh lùng"
+  },
+  {
+   "a": "Người đàn ông",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người đàn ông cầu xin Frondier giết anh ta.",
+   "cach_goi": "gọi 'anh', khẩn khoản"
+  },
+  {
+   "a": "Angus",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Angus cố gắng dụ dỗ Frondier tham gia vào kế hoạch của mình.",
+   "cach_goi": "gọi tên, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Angus",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier từ chối Angus và trói anh ta lại.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Dier",
+   "b": "Ellen",
+   "loai": "gia_dinh",
+   "mo_ta": "Quan sát tình hình cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Dier",
+   "loai": "gia_dinh",
+   "mo_ta": "Quan sát tình hình cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 786,
+  "seconds": 23.5
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "number": 120,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một chimera xuất hiện và tấn công Philly. Frondier trao cho Philly một con dao độc chết người để kết liễu Elysia, người đã cố gắng ám sát bà. Elysia đối diện với số phận của mình và chất vấn mẹ về tình yêu dành cho Aten. Cuối cùng, Philly đâm Elysia bằng con dao nhưng không thể đẩy mạnh lưỡi dao xuống hoàn toàn.",
+ "boi_canh": "Trong tháp canh, vào thời điểm quyết định vận mệnh của Elysia.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Elysia",
+  "Mother"
+ ],
+ "su_kien": [
+  "Chimera tấn công Philly.",
+  "Frondier tạo ra một con dao độc chết người.",
+  "Elysia chất vấn Philly về tình yêu dành cho Aten.",
+  "Philly đâm Elysia bằng con dao độc.",
+  "Elysia qua đời sau khi bị đâm."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người đưa ra quyết định và trao con dao cho Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly tuân theo chỉ dẫn của Frondier và đặt câu hỏi cho ông.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier là người đã đưa Elysia vào tình thế nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Elysia là đối tượng mà Frondier muốn kết liễu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con gái, mối quan hệ phức tạp với những lời chất vấn.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái chất vấn mẹ về tình yêu và sự ưu ái dành cho Aten.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Hai chị em gái, một người được ưu ái hơn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elysia: Công chúa hoàng gia, bị cáo buộc cố gắng ám sát Philly."
+ ],
+ "stats": {
+  "tokens": 831,
+  "seconds": 25.7
+ }
+}

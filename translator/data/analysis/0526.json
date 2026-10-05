@@ -1,0 +1,60 @@
+{
+ "number": 526,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier vượt qua rào cản một cách táo bạo, anh ta đối mặt với Notker, một thành viên của Manggot. Hai người trao đổi vài lời lẽ khiêu khích trước khi chiến đấu nổ ra. Notker tấn công liên tục, cố gắng lợi dụng điểm yếu trong phòng thủ của Frondier, nhưng Frondier vẫn kiên cường chặn lại và phản công.",
+ "boi_canh": "Bên ngoài rào cản của Đế quốc, lúc đối mặt với kẻ thù.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster Evans",
+  "Ludovic",
+  "Notker",
+  "Hector",
+  "Manggot"
+ ],
+ "su_kien": [
+  "Hector bày tỏ sự ngạc nhiên và lo lắng khi Frondier vượt qua rào cản.",
+  "Frondier đáp lại lời chào của Notker bằng một câu nói khiêu khích.",
+  "Notker tuyên bố mình là một trong những người chăn dắt của Manggot và sẽ đốt cháy Đế quốc.",
+  "Aster trả lại ngọn giáo mà Notker đã ném đi, như thể đó là một món đồ bị lạc.",
+  "Trận chiến giữa Frondier và Notker bắt đầu với các đòn tấn công liên tục."
+ ],
+ "quan_he": [
+  {
+   "a": "Hector",
+   "b": "Aster Evans",
+   "loai": "gia_dinh",
+   "mo_ta": "cha con, Hector lo lắng cho hành động của Aster.",
+   "cach_goi": "gọi tên Aster, không rõ cảm xúc"
+  },
+  {
+   "a": "Aster Evans",
+   "b": "Notker",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, trao đổi lời nói thách thức trước trận chiến.",
+   "cach_goi": "gọi tên Notker, khiêu khích"
+  },
+  {
+   "a": "Notker",
+   "b": "Aster Evans",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, không thích vẻ mặt bình thường của Aster.",
+   "cach_goi": "gọi tên Aster, thô lỗ"
+  },
+  {
+   "a": "Aster Evans",
+   "b": "Notker",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, trả lại giáo một cách thờ ơ.",
+   "cach_goi": "gọi tên Notker, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans là tên đầy đủ của Aster.",
+  "Hector là con trai Ludwig, tên thật là Hector Von Urfa."
+ ],
+ "stats": {
+  "tokens": 662,
+  "seconds": 20.4
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "number": 429,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này xoay quanh việc Dier đột nhập vào phòng thí nghiệm để lấy thuốc tiêm theo kế hoạch của Frondier và Ellen. Sau đó, Frondier và Ellen tranh luận về vai trò của anh trong vụ việc. Cuối cùng, Frondier lên mái nhà trường Constel để suy nghĩ về nhiệm vụ còn lại là tìm kiếm những con quái vật và đối mặt với sự mệt mỏi tột độ, trước khi Ellen xuất hiện và hỏi anh một câu hỏi quen thuộc.",
+ "boi_canh": "Trên mái trường Constel vào ban đêm.",
+ "nhan_vat": [
+  "Frondier",
+  "Ellen",
+  "Dier",
+  "Eden",
+  "Angus",
+  "Eden Hamelot",
+  "Angus Mason"
+ ],
+ "su_kien": [
+  "Dier đột nhập vào các phòng thí nghiệm để lấy thuốc tiêm.",
+  "Frondier và Ellen tranh luận về vai trò của Frondier trong việc giúp Dier.",
+  "Frondier lên mái nhà trường Constel để suy nghĩ.",
+  "Ellen hỏi Frondier tại sao anh cứu cô.",
+  "Frondier tiết lộ những hành động tàn ác mà anh đã làm."
+ ],
+ "quan_he": [
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Ellen đang cố gắng hiểu động cơ của Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ ràng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier có vẻ mệt mỏi và cần thời gian để chia sẻ với Ellen.",
+   "cach_goi": "gọi tên Ellen, thân thiện"
+  },
+  {
+   "a": "Dier",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Dier ngưỡng mộ sự điềm tĩnh của Frondier.",
+   "cach_goi": "gọi tên Frondier, ngưỡng mộ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden Hamelot",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier đã sử dụng thông tin từ Eden để tìm kiếm quái vật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Angus Mason",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier đã sử dụng thông tin từ Angus để tìm kiếm quái vật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot (tên đầy đủ của Eden)",
+  "Angus Mason (tên đầy đủ của Angus)"
+ ],
+ "stats": {
+  "tokens": 874,
+  "seconds": 26.1
+ }
+}

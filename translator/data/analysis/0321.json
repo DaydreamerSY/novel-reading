@@ -1,0 +1,103 @@
+{
+ "number": 321,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đã hoàn thành kỹ thuật 'Falling Edge' một cách hoàn hảo trong quá trình kiểm tra với Binkis. Sau đó, họ thảo luận về việc cải thiện kỹ thuật chiết xuất Obsidian từ vòng cổ và tìm kiếm một tạo tác bổ sung để điều khiển lượng chất lỏng được chiết xuất. Cuối cùng, Frondier đề xuất sử dụng một vòng tay mà Elodie đã từng dùng để kiểm soát sức mạnh của cô ấy, và cuộc thảo luận xoay quanh việc lấy được bản thiết kế của nó từ công ty Hitchcock.",
+ "boi_canh": "Xưởng chế tạo, buổi chiều ngày không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Quinie",
+  "Edwin",
+  "Esther",
+  "Binkis",
+  "Revet",
+  "Greg"
+ ],
+ "su_kien": [
+  "Frondier hoàn thành kỹ thuật 'Falling Edge'.",
+  "Binkis bày tỏ sự thất vọng về kết quả kiểm tra.",
+  "Thảo luận về việc cải thiện kỹ thuật chiết xuất Obsidian từ vòng cổ.",
+  "Đề xuất sử dụng một tạo tác khác để điều khiển lượng chất lỏng được chiết xuất.",
+  "Frondier đề xuất sử dụng vòng tay của Elodie và thảo luận về việc lấy bản thiết kế từ Hitchcock."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là học trò của Binkis, trình bày kết quả và thảo luận về các vấn đề kỹ thuật.",
+   "cach_goi": "gọi tên Binkis, thân mật"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Binkis là người hướng dẫn của Frondier, đặt câu hỏi và đưa ra lời khuyên.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và đồng nghiệp, cùng tham gia vào cuộc thảo luận.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và đồng nghiệp, cùng tham gia vào cuộc thảo luận.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binkis",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và đồng nghiệp, thảo luận về các giải pháp.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Binkis",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và đồng nghiệp, thảo luận về các giải pháp.",
+   "cach_goi": "gọi tên Binkis, thân mật"
+  },
+  {
+   "a": "Binkis",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và đồng nghiệp, thảo luận về các giải pháp.",
+   "cach_goi": "gọi tên Edwin, thân mật"
+  },
+  {
+   "a": "Edwin",
+   "b": "Binkis",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và đồng nghiệp, thảo luận về các giải pháp.",
+   "cach_goi": "gọi tên Binkis, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Vòng tay của Elodie: Được thiết kế để kiểm soát sức mạnh Mana của cô ấy."
+ ],
+ "stats": {
+  "tokens": 1162,
+  "seconds": 35.9
+ }
+}

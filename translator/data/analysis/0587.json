@@ -1,0 +1,65 @@
+{
+ "number": 587,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi kết thúc nhiệm vụ hầu cận cho Lily, Frondier tiếp tục nhận các nhiệm vụ tương tự như những hiệp sĩ khác nhưng lại gặp nhiều rắc rối hơn do địa vị của anh. Anh cũng phải đối mặt với sự chú ý và kỳ vọng từ những người xung quanh về cách cư xử. Trong một cuộc trò chuyện riêng tư với Lily, Frondier bắt đầu khám phá bí ẩn về nguồn gốc của cô, đặc biệt là khả năng cô không thể quay trở lại thế giới Demon Realm.",
+ "boi_canh": "Một buổi tiệc của các quý tộc cao cấp, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Ameline",
+  "Sophie",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Frondier tiếp tục nhận các nhiệm vụ như một hiệp sĩ sau khi kết thúc nhiệm vụ cho Lily.",
+  "Sophie von Meyer thuê Frondier làm hiệp sĩ để tăng thêm sự uy tín cho gia đình bà.",
+  "Frondier phải học cách cư xử phù hợp trong các buổi tiệc của quý tộc, bao gồm cả việc mỉm cười theo yêu cầu.",
+  "Frondier bắt đầu đặt câu hỏi về nguồn gốc của Lily và khả năng cô không thể quay trở lại thế giới Demon Realm.",
+  "Lily tiết lộ rằng cô không có ký ức về thời gian ở thế giới Demon Realm."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đặt câu hỏi về quá khứ của Lily, cô trả lời một cách bí ẩn.",
+   "cach_goi": "gọi tên 'Lily-nim', lễ phép"
+  },
+  {
+   "a": "Sophie",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Sophie là người thuê Frondier, đánh giá cao vẻ ngoài và khí chất của anh.",
+   "cach_goi": "gọi tên 'Sir Frondier', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ameline",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier quan tâm đến Ameline và những rủi ro liên quan đến cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Shadow",
+   "b": "Ameline",
+   "loai": "ke_thu",
+   "mo_ta": "Shadow Unit đang theo dõi Ameline.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sophie",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là hiệp sĩ của Sophie, tuân theo mệnh lệnh của bà.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Biệt danh 'human sloth' của Frondier trong Constel."
+ ],
+ "stats": {
+  "tokens": 756,
+  "seconds": 23.8
+ }
+}

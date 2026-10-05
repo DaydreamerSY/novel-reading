@@ -1,0 +1,86 @@
+{
+ "number": 264,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Malia gửi một thông điệp được mã hóa để kích hoạt chiến dịch bắt giữ các thành viên Indus trên tàu. Để đánh lạc hướng đối phương, Constel lan truyền tin đồn Frondier ở một toa khác và sử dụng mặt nạ thay đổi khuôn mặt cho học sinh. Trong khi đó, giáo viên Jane phát hiện ra những người bị theo dõi và nhận được thông báo về việc Thủ tướng Osprey đã liên hệ với Indus, khiến cô lạnh lùng hơn.",
+ "boi_canh": "Trên tàu hỏa, trong một chiến dịch bí mật.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Osprey",
+  "Jane",
+  "Malia",
+  "Gregory",
+  "Chancellor Osprey"
+ ],
+ "su_kien": [
+  "Malia gửi thông điệp kích hoạt chiến dịch.",
+  "Constel lan truyền tin đồn Frondier ở một toa khác để đánh lạc hướng Indus.",
+  "Quinie phát phân phát mặt nạ thay đổi khuôn mặt cho các nữ sinh.",
+  "Jane bắt giữ những người bị theo dõi.",
+  "Malia gửi thông báo về việc Thủ tướng Osprey đã liên hệ với Indus."
+ ],
+ "quan_he": [
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ của Frondier, lên kế hoạch cho chiến dịch.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "con trai của Malia, không biết về kế hoạch.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Quinie thực hiện yêu cầu của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, yêu cầu Quinie phát mặt nạ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Malia",
+   "loai": "cap_tren",
+   "mo_ta": "đồng nghiệp, Malia thông báo cho Jane về liên hệ của Thủ tướng Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "đồng nghiệp, Malia thông báo cho Jane về liên hệ của Thủ tướng Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Người bị bắt",
+   "loai": "nguoi_la",
+   "mo_ta": "giáo viên bắt giữ những người bị theo dõi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người bị bắt",
+   "b": "Jane",
+   "loai": "nguoi_la",
+   "mo_ta": "bị Jane bắt giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 894,
+  "seconds": 27.4
+ }
+}

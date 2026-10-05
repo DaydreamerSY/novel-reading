@@ -1,0 +1,80 @@
+{
+ "number": 444,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối mặt với một quái vật thạch tương có khả năng tàng hình và tấn công nhắm vào Vua Bartello. Sau khi bị Frondier phát hiện và áp chế, quái vật phát ra tiếng thét kỳ lạ gây khó chịu cho mọi người xung quanh. Cuối cùng, nó bị các kỵ sĩ Hoàng gia giam giữ, và Frondier suy luận rằng quái vật đến từ một thế giới khác.",
+ "boi_canh": "Trong một địa điểm không xác định, trong tình huống đối đầu với một con quái vật nguy hiểm.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Enfer",
+  "Bartello",
+  "Alan"
+ ],
+ "su_kien": [
+  "Quái vật thạch tương xuất hiện với vẻ ngoài kỳ dị và nhắm vào Vua Bartello.",
+  "Frondier sử dụng vòng tay ma thuật để tấn công quái vật.",
+  "Quái vật tàng hình hoàn toàn, không để lại dấu vết mana hoặc âm thanh.",
+  "Frondier phát hiện vị trí của quái vật bằng giác quan thứ sáu của mình.",
+  "Quái vật phát ra tiếng thét kỳ lạ sau khi bị Frondier đâm xuyên."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "dong_minh",
+   "mo_ta": "Bảo vệ Vua Bartello khỏi quái vật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Frondier giải thích cách anh ta phát hiện quái vật.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hỏi về cách Frondier phát hiện quái vật.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier, quan sát sự kiện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bartello",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Vua Bartello được Frondier bảo vệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Một kỵ sĩ Hoàng gia",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Kỵ sĩ bày tỏ lòng biết ơn và muốn báo cáo.",
+   "cach_goi": "gọi 'Your assistance', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Một kỵ sĩ Hoàng gia",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier cắt ngang lời của kỵ sĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Alan (người đã tài trợ chương này)",
+  "Wordsmith (người đã tài trợ chương này)"
+ ],
+ "stats": {
+  "tokens": 882,
+  "seconds": 26.3
+ }
+}

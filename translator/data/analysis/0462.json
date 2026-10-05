@@ -1,0 +1,64 @@
+{
+ "number": 462,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier sử dụng vũ khí sao chép từ kho vũ khí hoàng gia để tiêu diệt lũ quỷ đang tấn công. Ông nhận thấy Obsidian có khả năng xuyên thủng hào quang của chúng dễ dàng hơn mana thông thường, và bắt đầu thử nghiệm các loại vũ khí khác nhau để tìm ra phương pháp hiệu quả nhất. Frondier cũng dự đoán sự xuất hiện của các thành viên Hoàng Đạo trong tương lai gần.",
+ "boi_canh": "Một chiến trường hỗn loạn, nơi Frondier đang đối mặt với một đội quân quỷ dữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Eden",
+  "Mizonas",
+  "Metamorph",
+  "Huy"
+ ],
+ "su_kien": [
+  "Frondier sao chép và bắn vũ khí để tiêu diệt lũ quỷ.",
+  "Ông phát hiện ra Obsidian có thể xuyên thủng hào quang của quỷ dễ dàng hơn mana thông thường.",
+  "Các quỷ bắt đầu cảnh giác với Frondier sau khi bị tấn công liên tục.",
+  "Frondier thử nghiệm các loại vũ khí khác nhau để tìm ra phương pháp hiệu quả nhất.",
+  "Ông dự đoán sự xuất hiện của các thành viên Hoàng Đạo."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier biết Azier đang có kế hoạch sử dụng lũ quỷ để chia cắt ông và Metamorph.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đã từng đối phó với Eden và thuộc hạ của hắn, từ đó rút ra được kinh nghiệm về việc mana Helheim có thể xuyên thủng hào quang.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mizonas",
+   "loai": "doi_thu",
+   "mo_ta": "Azier và Mizonas có kế hoạch sử dụng lũ quỷ để chia cắt Frondier và Metamorph.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Metamorph",
+   "loai": "ban_be",
+   "mo_ta": "Hai người đang cùng chiến đấu chống lại lũ quỷ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Huy",
+   "loai": "nguoi_la",
+   "mo_ta": "Người đã giúp đỡ Frondier để có được chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 728,
+  "seconds": 21.6
+ }
+}

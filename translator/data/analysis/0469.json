@@ -1,0 +1,98 @@
+{
+ "number": 469,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi giải quyết xong tình hình, các thành viên của Zodiac và Kỵ Sĩ Hoàng Gia đã tiến hành điều tra kỹ lưỡng xung quanh khu vực. Khi Zodiac rời đi, họ đều chào Frondier, thể hiện sự thay đổi trong cách nhìn nhận đối với anh. Frondier sau đó sử dụng cổng không gian để đưa Metamorph đến túp lều của Roach và bắt đầu thử nghiệm một phương pháp mới liên quan đến Dragon Heart.",
+ "boi_canh": "Trong phòng làm việc của Frondier, vào thời điểm anh đang suy nghĩ về cách phục hồi quốc vương Bartello.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Lily",
+  "Pascal",
+  "Bartello",
+  "Monty",
+  "Mizonas",
+  "Metamorph",
+  "Penelope",
+  "Roach"
+ ],
+ "su_kien": [
+  "Zodiacs chào tạm biệt Frondier với thái độ thân thiện hơn.",
+  "Frondier sử dụng cổng không gian để đưa Metamorph đến túp lều của Roach.",
+  "Frondier suy nghĩ về nguyên nhân khiến các quỷ dữ muốn chia cắt anh và Metamorph.",
+  "Frondier bắt đầu thử nghiệm một phương pháp mới liên quan đến Dragon Heart, nhằm phục hồi quốc vương Bartello.",
+  "Frondier tạo ra một phiên bản giả của Dragon Heart bằng Obsidian để nghiên cứu."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy và học trò, Azier quan sát Frondier.",
+   "cach_goi": "gọi tên Azier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Lily thể hiện sự quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Pascal thể hiện sự quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Pascal, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Đôi phương có trách nhiệm với nhau, Frondier muốn giúp Bartello.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Monty thể hiện sự quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Monty, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mizonas",
+   "loai": "khac",
+   "mo_ta": "Đề cập đến trong cuộc trò chuyện, không tương tác trực tiếp.",
+   "cach_goi": "gọi tên Mizonas, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Metamorph",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ, Metamorph hiện tại không có hình dạng người.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Đề cập đến trong cuộc trò chuyện, không tương tác trực tiếp.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Roach",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ, Frondier gửi Metamorph đến túp lều của Roach.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Metamorph: Hiện tại không có hình dạng người, biến thành một khối chất nhờn (slime)."
+ ],
+ "stats": {
+  "tokens": 1088,
+  "seconds": 32.3
+ }
+}

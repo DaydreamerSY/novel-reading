@@ -1,0 +1,86 @@
+{
+ "number": 69,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bác sĩ khám cho Frondier và phát hiện ra tốc độ phục hồi mana của cậu quá nhanh, Elodie và Sybil vô cùng bất ngờ. Họ nhận ra rằng Frondier đã trải qua rất nhiều trận chiến khắc nghiệt trước khi đến Constel. Điều này khiến Elodie tức giận với bản thân vì đã đánh giá sai về Frondier. Trong khi đó, Ainen giành được phiếu mua hàng từ một cuộc thi kiến thức và đang lên kế hoạch mua sắm.",
+ "boi_canh": "Phòng khám bệnh của bác sĩ tại Constel.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Ainen",
+  "Bác sĩ"
+ ],
+ "su_kien": [
+  "Bác sĩ phát hiện tốc độ phục hồi mana của Frondier bất thường.",
+  "Elodie nhận ra Frondier đã trải qua nhiều trận chiến khắc nghiệt trước khi đến Constel.",
+  "Elodie tức giận vì đã đánh giá sai về Frondier.",
+  "Ainen giành được phiếu mua hàng từ cuộc thi kiến thức.",
+  "Một người đàn ông bí ẩn theo dõi Ainen."
+ ],
+ "quan_he": [
+  {
+   "a": "Bác sĩ",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Bác sĩ khám bệnh cho Frondier, đưa ra kết luận về tình trạng mana của cậu.",
+   "cach_goi": "gọi 'patient', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bác sĩ",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Bác sĩ",
+   "loai": "nguoi_la",
+   "mo_ta": "Elodie lắng nghe và đặt câu hỏi cho bác sĩ.",
+   "cach_goi": "gọi 'Ms.', lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Bác sĩ",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil lắng nghe và phản ứng với những gì bác sĩ nói.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Hai người bạn thân thiết, cùng suy nghĩ về Frondier.",
+   "cach_goi": "gọi tên 'Sybil', thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người bạn thân thiết, cùng suy nghĩ về Frondier.",
+   "cach_goi": "gọi tên 'Elodie', thân mật"
+  },
+  {
+   "a": "Ainen",
+   "b": "Không ai",
+   "loai": "nguoi_la",
+   "mo_ta": "Một mình đi mua sắm và suy nghĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người đàn ông bí ẩn",
+   "b": "Ainen",
+   "loai": "ke_thu",
+   "mo_ta": "Theo dõi Ainen từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "SagePhone: thiết bị liên lạc cá nhân"
+ ],
+ "stats": {
+  "tokens": 912,
+  "seconds": 27.3
+ }
+}

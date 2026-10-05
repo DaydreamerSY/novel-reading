@@ -1,0 +1,56 @@
+{
+ "number": 60,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier khám phá một căn phòng chứa đầy những bí mật trong tầng hầm của gia đình mình, đặc biệt là nhật ký ghi lại những suy nghĩ và cảm xúc sâu kín của chính anh ta khi còn nhỏ. Qua nhật ký, Frondier nhận ra sự phức tạp trong mối quan hệ giữa anh và Elodie, cùng với những nỗ lực giải mã ngôn ngữ cổ xưa có liên quan đến sức mạnh thần thánh của Elodie. Cuối chương, một giọng nói lớn tiếng từ bên ngoài đe dọa sẽ đốt nhà nếu Frondier không ra mở cửa.",
+ "boi_canh": "Trong tầng hầm tối tăm và ẩm ướt của dinh thự Roach.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Frondier de Roach"
+ ],
+ "su_kien": [
+  "Frondier tìm thấy nhật ký 'Diary - Frondier de Roach' trong tầng hầm.",
+  "Nhật ký tiết lộ những cảm xúc tiêu cực của Frondier đối với Elodie và sự ghen tị về sức mạnh thần thánh của cô.",
+  "Frondier phát hiện ra anh đã từng cố gắng giải mã ngôn ngữ cổ xưa, có liên quan đến Elodie.",
+  "Anh nhận ra rằng việc giải mã ngôn ngữ cổ xưa có thể khiến Elodie rơi vào một vị trí tương đương với mình.",
+  "Một giọng nói lớn tiếng từ bên ngoài đe dọa sẽ đốt nhà nếu Frondier không mở cửa."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Mối quan hệ phức tạp, có sự ghen tị và những cảm xúc tiêu cực được ghi lại trong nhật ký.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Mối quan hệ phức tạp, có sự ghen tị và những cảm xúc tiêu cực được ghi lại trong nhật ký.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier de Roach",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Tên đầy đủ của Frondier, được nhắc đến trong nhật ký.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người ngoài",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Những người lạ đe dọa Frondier, có thể có động cơ không rõ.",
+   "cach_goi": "gọi 'young master', thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Nhật ký tiết lộ những sự kiện và cảm xúc mà trước đây Frondier che giấu."
+ ],
+ "stats": {
+  "tokens": 738,
+  "seconds": 22.2
+ }
+}

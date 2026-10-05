@@ -1,0 +1,102 @@
+{
+ "number": 244,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị đánh bại, Armel nhanh chóng lấy lại tinh thần và lùi lại. Frondier truy đuổi và tấn công Armel bằng kiếm ngắn nhưng không thành công do Armel đã dự đoán được. Một vết thương sâu trên ngực Armel khiến ông ta chảy máu nhiều. Sau đó, Quinie xuất hiện và đối chất với Armel về một sự kiện xảy ra 13 năm trước. Armel cố gắng trốn thoát nhưng bị Frondier ngăn chặn, tuy nhiên, Kora bất ngờ xuất hiện, gây ra tình huống nguy hiểm khi Armel ném một lưỡi dao có chứa thuốc độc vào cô.",
+ "boi_canh": "Trong một tòa nhà bỏ hoang ở Constel, sau một trận chiến.",
+ "nhan_vat": [
+  "Frondier",
+  "Armel",
+  "Quinie",
+  "Kora",
+  "Neil",
+  "Neil Jack",
+  "Selena"
+ ],
+ "su_kien": [
+  "Armel lùi lại sau khi bị đánh bại.",
+  "Kiếm ngắn của Frondier không thể chạm tới Armel do ông ta đã dự đoán được.",
+  "Armel bị thương nặng và chảy máu.",
+  "Quinie đối chất với Armel về một sự kiện 13 năm trước.",
+  "Armel ném lưỡi dao có chứa thuốc độc vào Kora."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Armel",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Armel, lạnh lùng"
+  },
+  {
+   "a": "Armel",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, cùng nhau đối mặt với Armel.",
+   "cach_goi": "gọi tên Quinie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, cùng nhau đối mặt với Armel.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Armel",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp, Quinie là người tố cáo Armel.",
+   "cach_goi": "gọi tên Armel, lạnh lùng"
+  },
+  {
+   "a": "Armel",
+   "b": "Quinie",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con gái, mối quan hệ căng thẳng.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kora",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng cùng chung hoàn cảnh nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kora",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng cùng chung hoàn cảnh nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Armel",
+   "b": "Kora",
+   "loai": "khac",
+   "mo_ta": "Armel cố tình ném dao vào Kora.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kora",
+   "b": "Armel",
+   "loai": "khac",
+   "mo_ta": "Bị Armel nhắm mục tiêu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Neil Jack là tên của Neil."
+ ],
+ "stats": {
+  "tokens": 1088,
+  "seconds": 34.9
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "number": 507,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi vũ khí của Frondier bị Renzo cuốn đi bằng hào quang mạnh mẽ, anh đã kiên cường chống đỡ và tiếp tục tấn công bằng giáo và kiếm. Trong lúc phòng thủ trước hàng chục lưỡi dao, Renzo tiến đến gần và vung kiếm với sức mạnh kinh hoàng. Frondier kích hoạt một rune để phân tán Obsidian, sau đó đối đầu trực diện với Renzo. Sau đó, anh sử dụng kỹ thuật Falling edge để đẩy lùi Renzo, nhưng Renzo đã chặn được nó bằng cách vô thức thực hiện động tác tương tự. Cuối cùng, Frondier đánh bại Renzo và đưa anh ta đến một vùng đất hoang vu của Manggot, nơi mà Belphegor đang chờ đợi.",
+ "boi_canh": "Một trận chiến khốc liệt diễn ra trong một không gian mở rộng lớn.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Hagley",
+  "Belphegor",
+  "Eden Hamelot",
+  "Azier",
+  "Mei",
+  "Heldre"
+ ],
+ "su_kien": [
+  "Frondier chống lại Renzo bằng giáo và kiếm sau khi vũ khí bị cuốn đi.",
+  "Renzo tấn công Frondier với sức mạnh đáng kinh ngạc.",
+  "Obsidian được sử dụng để tấn công Renzo.",
+  "Falling edge được sử dụng để đẩy lùi Renzo, nhưng anh ta chặn lại.",
+  "Frondier đánh bại Renzo và đưa anh đến Manggot."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu.",
+   "cach_goi": "gọi tên 'Renzo', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  },
+  {
+   "a": "Hagley",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Người hầu và chủ nhân.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Hagley",
+   "loai": "cap_tren",
+   "mo_ta": "Chủ nhân và người hầu.",
+   "cach_goi": "gọi tên 'Hagley', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy và học trò, không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 685,
+  "seconds": 20.6
+ }
+}

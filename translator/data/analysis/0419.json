@@ -1,0 +1,71 @@
+{
+ "number": 419,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một người đàn ông bị Frondier truy đuổi và tra tấn tàn bạo sau khi hắn thừa nhận đã làm việc theo lệnh của cấp trên. Người đàn ông cố gắng trốn thoát nhưng cuối cùng bị Frondier đánh lừa bằng cách tạo ra ảo ảnh về lối thoát. Các Pro khác đang chiến đấu với các golem để bảo vệ Frondier, và họ chứng kiến cảnh tượng kinh hoàng mà Frondier gây ra cho người đàn ông kia.",
+ "boi_canh": "Bên trong một tòa nhà, tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Eden",
+  "Pros",
+  "Eden Hamelot"
+ ],
+ "su_kien": [
+  "Một người đàn ông bị Frondier tấn công và mất tay trái, sau đó là mắt cá chân trái.",
+  "Người đàn ông cầu xin tha mạng nhưng bị Frondier từ chối.",
+  "Frondier tạo ra ảo ảnh về lối thoát để đánh lừa người đàn ông đang trốn chạy.",
+  "Các Pro chiến đấu với các golem để bảo vệ Frondier.",
+  "Eden Hamelot xuất hiện từ trong bóng tối."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Người đàn ông",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier tra tấn và giết người đàn ông, thể hiện sự tàn nhẫn.",
+   "cach_goi": "gọi 'mày', thô lỗ"
+  },
+  {
+   "a": "Người đàn ông",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Người đàn ông cầu xin Frondier tha mạng, sợ hãi.",
+   "cach_goi": "gọi 'anh', cầu xin"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier nhận ra Eden Hamelot, mỉm cười.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Eden xuất hiện từ bóng tối, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pros",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier điều khiển golem để tấn công Pros, thể hiện quyền lực.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pros",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Pros cố gắng bảo vệ Frondier, nhưng bất lực.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot: Tên đầy đủ của Eden."
+ ],
+ "stats": {
+  "tokens": 780,
+  "seconds": 23.3
+ }
+}

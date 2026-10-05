@@ -1,0 +1,64 @@
+{
+ "number": 347,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bày tỏ ý định vượt rào chắn một mình để đối phó với mối đe dọa sắp tới, khiến Sylvain lo lắng. Sau khi không nhận được sự giúp đỡ từ Sylvain và những người khác, Frondier vẫn quyết tâm hành động. Sylvain tìm đến Sanders, cựu chỉ huy của Kỵ binh Shroud, để hỏi về kinh nghiệm của Frondier tại Tyburn, và nhận được lời khuyên kỳ lạ là nên để Frondier tự do làm theo ý mình.",
+ "boi_canh": "Trong phòng làm việc riêng của Sylvain, vào một thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Sylvain",
+  "Sanders"
+ ],
+ "su_kien": [
+  "Frondier bày tỏ ý định vượt rào chắn một mình.",
+  "Sylvain lo lắng về hành động của Frondier.",
+  "Sylvain tìm kiếm sự giúp đỡ từ Sanders.",
+  "Sanders khuyên Sylvain nên để Frondier tự do hành động.",
+  "Sylvain bối rối trước lời khuyên của Sanders."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier bày tỏ ý định hành động một mình; Sylvain lo lắng và cố gắng ngăn cản.",
+   "cach_goi": "gọi tên Sylvain, lễ phép"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Sylvain cố gắng ngăn cản hành động của Frondier; Frondier phớt lờ.",
+   "cach_goi": "gọi tên Frondier, thân mật nhưng lo lắng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Frondier đang bị Enfer giữ lại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Sanders",
+   "loai": "dong_minh",
+   "mo_ta": "Sylvain tìm kiếm lời khuyên từ Sanders.",
+   "cach_goi": "gọi tên Sanders, lễ phép"
+  },
+  {
+   "a": "Sanders",
+   "b": "Sylvain",
+   "loai": "dong_minh",
+   "mo_ta": "Sanders đưa ra lời khuyên kỳ lạ cho Sylvain.",
+   "cach_goi": "gọi tên Sylvain, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của Frondier."
+ ],
+ "stats": {
+  "tokens": 695,
+  "seconds": 20.8
+ }
+}

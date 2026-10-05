@@ -1,0 +1,92 @@
+{
+ "number": 194,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi sửa chữa thành công bức tường chắn bằng khả năng đặc biệt của mình, Frondier nhận được sự tôn trọng lớn lao từ mọi người ở Tyburn. Aten Terst trở về Đế chế, và Sybil cũng quay lại. Trong thời gian còn lại của kỳ nghỉ, Frondier tiếp tục ở lại Tyburn để đảm bảo an toàn cho bức tường chắn, đồng thời đối mặt với những lời trêu chọc thân thiện từ các hiệp sĩ, đặc biệt là Hector Dutoit, người gọi anh là 'Madman'.",
+ "boi_canh": "Trên tường thành Tyburn sau khi sửa chữa xong.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten Terst",
+  "Sybil",
+  "Ludwig",
+  "Sanders",
+  "Cassian",
+  "Hector",
+  "Penelope",
+  "Hector Dutoit",
+  "Dutoit"
+ ],
+ "su_kien": [
+  "Frondier sửa chữa bức tường thành bằng khả năng của mình.",
+  "Mọi người ở Tyburn bày tỏ lòng biết ơn đối với Frondier.",
+  "Aten Terst trở về Đế chế cùng với đội kỵ sĩ.",
+  "Sybil quay lại.",
+  "Hector Dutoit trêu chọc Frondier bằng biệt danh 'Madman'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người được Aten tôn trọng và biết ơn.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Aten bày tỏ lòng biết ơn đối với Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cassian",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hector Dutoit",
+   "loai": "ban_be",
+   "mo_ta": "Hai người trêu chọc nhau một cách thân thiện.",
+   "cach_goi": "gọi tên Hector, thân mật"
+  },
+  {
+   "a": "Hector Dutoit",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người trêu chọc nhau một cách thân thiện.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hector Dutoit",
+   "b": "Ludwig",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con có vẻ căng thẳng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hector Von Urfa (tên thật của Hector)",
+  "Hector Dutoit (tên gọi thay thế của Hector)"
+ ],
+ "stats": {
+  "tokens": 949,
+  "seconds": 28.3
+ }
+}

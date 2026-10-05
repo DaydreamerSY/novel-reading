@@ -1,0 +1,64 @@
+{
+ "number": 475,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong kho vũ khí của Hoàng cung, Frondier và Jane đối đầu sau khi Frondier chất vấn về danh tính hiệu trưởng Constel. Jane né tránh câu hỏi và sử dụng khả năng điều khiển từ xa để ngăn chặn những ngọn giáo mà Frondier đã phóng ra. Sự kiện này khiến Frondier nghi ngờ Jane có liên quan đến sự biến mất của Osprey, và anh bắt đầu tấn công bằng búa gỗ đồng thời để ép cô khai báo.",
+ "boi_canh": "Trong kho vũ khí Hoàng cung, vào một thời điểm khẩn cấp.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Azier",
+  "Osprey",
+  "Jane"
+ ],
+ "su_kien": [
+  "Frondier chất vấn Jane về danh tính hiệu trưởng Constel.",
+  "Jane sử dụng khả năng điều khiển từ xa để chặn các ngọn giáo của Frondier.",
+  "Frondier nghi ngờ Jane có liên quan đến sự biến mất của Osprey.",
+  "Frondier tấn công bằng búa gỗ đồng thời để ép Jane khai báo.",
+  "Một mảnh băng được điều khiển trúng lưng Frondier, cho thấy Jane có thể gây nguy hiểm hơn những gì cô thể hiện."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, Frondier nghi ngờ Jane có liên quan đến một vụ án.",
+   "cach_goi": "gọi 'teacher', lạnh lùng"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên cố gắng trì hoãn và né tránh câu hỏi của học sinh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, Frondier so sánh bản thân với Azier về khả năng đối phó với tình huống.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier so sánh bản thân với Aster về khả năng đối phó với tình huống.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier so sánh khả năng của Jane với Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 729,
+  "seconds": 21.8
+ }
+}

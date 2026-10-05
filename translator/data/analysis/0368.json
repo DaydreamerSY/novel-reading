@@ -1,0 +1,74 @@
+{
+ "number": 368,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier sử dụng kỹ thuật astral projection để thoát khỏi cơ thể bị hàng chục ngàn tà linh chiếm giữ. Anh ta học được cách tự thôi miên từ Laurie và sau đó sử dụng kỹ năng đó để kiểm soát cơ thể của mình. Sau khi tái nhập vào cơ thể, anh ta đối mặt với Hela và Selena, chứng minh sức mạnh mới của mình.",
+ "boi_canh": "Trong một không gian đầy tà linh, Frondier đang cố gắng thoát khỏi cơ thể bị chiếm giữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Renzo",
+  "Laurie",
+  "Heldre",
+  "Frondier de Roach",
+  "Hela"
+ ],
+ "su_kien": [
+  "Frondier sử dụng astral projection để thoát khỏi cơ thể.",
+  "Laurie giúp Frondier kéo linh hồn ra ngoài bằng thôi miên.",
+  "Frondier tự thôi miên mình để nhận ra linh hồn của bản thân.",
+  "Frondier tái nhập vào cơ thể và đối mặt với Hela.",
+  "Frondier tiêu diệt tà linh và kiểm soát lại cơ thể."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học trò, Frondier được Laurie hướng dẫn về thôi miên.",
+   "cach_goi": "gọi tên Laurie, thân mật"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học trò, Laurie giúp đỡ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hela",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Frondier khiêu khích Hela.",
+   "cach_goi": "gọi 'Hela', lạnh lùng"
+  },
+  {
+   "a": "Hela",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Hela chế nhạo và đe dọa Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Frondier trấn an Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Selena quan sát Frondier với sự lo lắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của nhân vật chính."
+ ],
+ "stats": {
+  "tokens": 790,
+  "seconds": 23.6
+ }
+}

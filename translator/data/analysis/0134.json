@@ -1,0 +1,61 @@
+{
+ "number": 134,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Malia rời đi để gặp cha, Frondier tình cờ gặp Hagley trong phòng y tế. Hagley đã cố gắng thao túng Frondier bằng cách gợi lại những cảm xúc tiêu cực về Elodie và nhắc đến việc Frondier là người đứng đầu gia tộc Roach. Tuy nhiên, Frondier đã nhận ra sự thao túng này và khẳng định mình không có thù hằn với Elodie.",
+ "boi_canh": "Phòng y tế của dinh thự, sau khi Malia rời đi.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Enfer",
+  "Hagley",
+  "Malia",
+  "Quinie"
+ ],
+ "su_kien": [
+  "Malia rời đi để gặp Enfer.",
+  "Frondier gặp Hagley trong phòng y tế.",
+  "Hagley xưng hô Frondier là 'Head of the Roach Clan'.",
+  "Hagley cố gắng thao túng Frondier bằng cách nhắc đến Elodie và gợi lại những cảm xúc tiêu cực.",
+  "Frondier khẳng định mình không có thù hằn với Elodie."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai, Frondier ủng hộ mẹ.",
+   "cach_goi": "gọi 'mẹ', lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ, Malia rời đi để gặp cha.",
+   "cach_goi": "gọi 'con', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hagley",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Hagley cố gắng thao túng Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Hagley cố gắng thao túng Frondier.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Hagley được xác định là 'Head of the Roach Clan' (nhưng sau đó sửa lại).",
+  "Hagley tiết lộ mình đến từ Manggot và làm việc cho Enfer."
+ ],
+ "stats": {
+  "tokens": 658,
+  "seconds": 20.4
+ }
+}

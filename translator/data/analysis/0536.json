@@ -1,0 +1,72 @@
+{
+ "number": 536,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Sybil đối diện với nhau sau một thời gian xa cách, Sybil bày tỏ sự lo lắng về việc liệu Frondier có tin vào số phận hay không. Frondier giải thích lý do anh tránh mặt cô là vì anh nhìn thấy cô như một cô gái bình thường, chứ không phải một chiến binh hay pháp sư. Cuối cùng, Frondier nhắc lại lời nói của Sybil về 'số phận dưới chân bạn' và gửi cô đến rào chắn. Trong khi đó, Cohen đang giao tranh với ai đó thì bất ngờ bị Sybil tấn công bằng một thanh kiếm được cường hóa bởi aura và ma thuật.",
+ "boi_canh": "Trong một chiến trường không xác định, vào thời điểm căng thẳng trong cuộc chiến.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Sybil",
+  "Cohen",
+  "Slevb"
+ ],
+ "su_kien": [
+  "Sybil bày tỏ sự lo lắng về việc Frondier có tin vào số phận hay không.",
+  "Frondier giải thích lý do anh tránh mặt Sybil là vì anh nhìn thấy cô như một cô gái bình thường.",
+  "Sybil sử dụng kết hợp Aura∙Mana, tạo ra thanh kiếm bùng cháy.",
+  "Cohen chứng kiến cảnh tượng chưa từng có trong lịch sử nhân loại.",
+  "Frondier gửi Sybil đến rào chắn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người có quá khứ phức tạp, hiện tại đang đối diện với những cảm xúc và sự thật bị che giấu.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil tìm kiếm sự xác nhận từ Frondier về cảm xúc và niềm tin của mình.",
+   "cach_goi": "gọi tên Frondier, kính trọng"
+  },
+  {
+   "a": "Cohen",
+   "b": "Sybil",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trên chiến trường, Cohen bị Sybil tấn công bất ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Cohen",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trên chiến trường, Sybil tấn công Cohen bằng một kỹ thuật mạnh mẽ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có mối quan hệ bạn bè, nhưng không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Slevb",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Sybil từng được Frondier nhìn nhận như một 'kẻ phản bội' của Đế quốc."
+ ],
+ "stats": {
+  "tokens": 846,
+  "seconds": 26.2
+ }
+}

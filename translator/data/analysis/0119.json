@@ -1,0 +1,68 @@
+{
+ "number": 119,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Elysia trốn thoát khỏi tháp, Philly đuổi theo. Một con chimera bất ngờ xuất hiện và tấn công Constel. Elysia tỏ ra lạnh lùng và tiết lộ kế hoạch chiếm đoạt quyền lực trong cung điện, khiến Philly cảm thấy lo lắng và kích hoạt 'foresight'. Cuối cùng, Frondier xuất hiện để đối đầu với chimera.",
+ "boi_canh": "Trong một khu vực không xác định của cung điện hoàng gia, vào thời điểm Elysia bị buộc tội sử dụng chimera.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Aten Terst",
+  "Elysia",
+  "Mother",
+  "Roderick",
+  "Roderick Terst"
+ ],
+ "su_kien": [
+  "Chimera bất ngờ xuất hiện sau khi Elysia trốn thoát.",
+  "Philly đuổi theo Elysia.",
+  "Elysia tiết lộ kế hoạch chiếm đoạt quyền lực và chỉ trích Philly.",
+  "Philly kích hoạt 'foresight' do sự tương đồng giữa Elysia và quá khứ của mình.",
+  "Frondier xuất hiện để đối đầu với chimera."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly Terst",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con gái, mối quan hệ căng thẳng do âm mưu của Elysia.",
+   "cach_goi": "gọi tên Elysia, lạnh lùng"
+  },
+  {
+   "a": "Elysia",
+   "b": "Philly Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái và mẹ, Elysia coi thường Philly.",
+   "cach_goi": "gọi tên 'mom', trịch thượng"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Philly quan sát Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Frondier đối đầu với chimera mà Elysia điều khiển.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Chimera",
+   "loai": "khac",
+   "mo_ta": "Điều khiển chimera, mối quan hệ kiểm soát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elysia: Có thể đang sử dụng danh tính giả hoặc che giấu mục đích thực sự của mình.",
+  "Chimera: Được tạo ra như một thí nghiệm cho Rafflesia, có lẽ là một vũ khí bí mật."
+ ],
+ "stats": {
+  "tokens": 756,
+  "seconds": 23.4
+ }
+}

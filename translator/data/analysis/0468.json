@@ -1,0 +1,81 @@
+{
+ "number": 468,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đối mặt với Satan, người cố gắng thao túng anh bằng những lời lẽ khiêu khích và đề nghị trao đổi quái đản. Frondier vạch trần sự giả dối của Satan, chỉ ra điểm yếu trong kế hoạch của hắn và thách thức hắn. Cuộc đối đầu kết thúc khi Frondier nghiền nát Dragon Heart, khiến Satan biến mất. Sau đó, anh nhận thấy thái độ kỳ lạ của Philly, cho thấy cô ấy cũng đã hiểu ra điều gì đó về tình hình.",
+ "boi_canh": "Trong một không gian không xác định, nơi có sự hiện diện của các quỷ dữ và cổng kết nối thế giới.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Satan",
+  "Mizonas",
+  "Metamorph",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Satan đề nghị trao đổi quái vật để bảo vệ nhân loại.",
+  "Frondier vạch trần sự giả dối và mục đích thực sự của Satan.",
+  "Frondier chỉ ra những điểm yếu trong kế hoạch của Satan, bao gồm cả việc hắn không thể tự mình đến đây.",
+  "Frondier thách thức Satan bằng những lời lẽ mạnh mẽ và đe dọa.",
+  "Frondier nghiền nát Dragon Heart, kết thúc cuộc đối đầu."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Satan",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, thách thức và vạch trần sự giả dối.",
+   "cach_goi": "gọi 'Satan', lạnh lùng"
+  },
+  {
+   "a": "Satan",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cố gắng thao túng và khiêu khích Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "dong_minh",
+   "mo_ta": "Trao đổi lời nói ngắn gọn, Frondier nhận thấy thái độ kỳ lạ của Philly.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Nhìn Frondier với ánh mắt đầy nghi ngờ và lo lắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Mizonas",
+   "loai": "ke_thu",
+   "mo_ta": "Satan nắm lấy đầu Mizonas để thể hiện sức mạnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Metamorph",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Frondier suy luận về sự hiện diện của Metamorph.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Shadow",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Frondier suy luận về sự hiện diện của Shadow.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Philly Terst (hoàng hậu đế quốc)",
+  "Satan (demon of wrath)"
+ ],
+ "stats": {
+  "tokens": 926,
+  "seconds": 27.7
+ }
+}

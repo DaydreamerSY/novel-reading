@@ -1,0 +1,54 @@
+{
+ "number": 484,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier thức dậy trong cơ thể của chính mình nhưng lại có những ký ức lẫn lộn với Frondier trước đây, cùng với Elodie. Họ đến một cabin kỳ lạ và Elodie bắt đầu phô diễn phép thuật của mình. Frondier cố gắng tìm cách đánh thức Elodie khỏi giấc mơ này bằng cách gợi ý về sự bất thường, nhưng không thành công. Cuối cùng, anh ta quyết định tiếp tục trò chuyện với cô ấy vì có thể đây là cơ hội duy nhất để nhìn thấy nụ cười của cô.",
+ "boi_canh": "Một cabin kỳ lạ, dưới bầu trời xanh thẳm và dải Ngân Hà vô tận.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Fron (tên thân mật của Frondier)"
+ ],
+ "su_kien": [
+  "Frondier trải nghiệm những ký ức lẫn lộn với Frondier trước đây.",
+  "Họ đến một cabin kỳ lạ nằm ở vị trí bất thường.",
+  "Elodie phô diễn phép thuật của mình, bao gồm cả việc niệm chú kép.",
+  "Frondier cố gắng gợi ý cho Elodie về sự bất thường để đánh thức cô.",
+  "Elodie kể những câu chuyện về các vị thần và phép thuật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, có vẻ như Frondier đang cảm thấy sự thao túng về mặt cảm xúc.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, có vẻ như Elodie không nhận ra sự bất thường.",
+   "cach_goi": "gọi tên Fron, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không biết nhau, Frondier đang cố gắng đánh thức Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không biết nhau, Elodie đang kể những câu chuyện cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 648,
+  "seconds": 19.4
+ }
+}

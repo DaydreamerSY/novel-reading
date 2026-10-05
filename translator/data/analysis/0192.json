@@ -1,0 +1,88 @@
+{
+ "number": 192,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đưa ra một đề nghị khó khăn cho Selena, yêu cầu cô báo cáo tình hình Mangott một cách có chọn lọc hoặc báo cáo sự việc với đối phương. Selena do dự và đặt câu hỏi về động cơ của Frondier. Sau đó, Frondier tiết lộ danh tính thật của mình và hứa sẽ giúp Selena đoàn tụ với gia đình nếu cô hợp tác. Cuối cùng, Frondier rời đi để cảm ơn Aten và Sybil vì đã hỗ trợ phá vỡ rào cản, nhưng lại bị họ nhìn chằm chằm với vẻ mặt lo lắng.",
+ "boi_canh": "Trong phòng kín tại một nơi không xác định, vào thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aten",
+  "Sybil",
+  "Renzo",
+  "Cassian"
+ ],
+ "su_kien": [
+  "Frondier yêu cầu Selena báo cáo tình hình Mangott một cách có chọn lọc.",
+  "Selena nghi ngờ động cơ của Frondier và đặt câu hỏi về đề nghị của anh.",
+  "Frondier tiết lộ danh tính thật là 'Frondier De Roach'.",
+  "Aten sử dụng kỹ năng Mana Care để kiểm tra tình trạng của Frondier.",
+  "Sybil lo lắng cho Frondier sau khi họ rời khỏi rào cản."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đưa ra đề nghị khó khăn và thao túng Selena.",
+   "cach_goi": "gọi tên Selena, lạnh lùng"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Selena đặt câu hỏi về động cơ của Frondier và tỏ ra không tin tưởng.",
+   "cach_goi": "gọi tên Frondier, nghi ngờ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Hợp tác phá vỡ rào cản, Aten sử dụng Mana Care.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hợp tác phá vỡ rào cản, Aten sử dụng Mana Care.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Hợp tác phá vỡ rào cản, Sybil lo lắng cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hợp tác phá vỡ rào cản, Sybil lo lắng cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Trao đổi thông tin về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Trao đổi thông tin về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Tên đầy đủ của Aten là Aten Terst, tam công chúa.",
+  "Frondier tiết lộ tên thật của mình là 'Frondier De Roach'."
+ ],
+ "stats": {
+  "tokens": 994,
+  "seconds": 29.7
+ }
+}

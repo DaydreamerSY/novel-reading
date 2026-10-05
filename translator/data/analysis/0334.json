@@ -1,0 +1,59 @@
+{
+ "number": 334,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier quan sát Laurie từ bên trong Workshop, một không gian mà chỉ anh ta có thể nhìn thấy được. Anh ta sử dụng Workshop để giam giữ Laurie bằng những vũ khí và sau đó lật ngược toàn bộ Workshop khiến cô bị treo ngược. Frondier tiết lộ rằng đây là một chiến thuật tâm lý nhằm khiến Laurie tin rằng anh ta hoàn toàn kiểm soát không gian này, và sẽ quay lại sau một tháng.",
+ "boi_canh": "Bên trong Workshop của Frondier, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Edwin",
+  "Laurie",
+  "Serf",
+  "Frondier de Roach",
+  "GwhoisJ"
+ ],
+ "su_kien": [
+  "Frondier quan sát Laurie từ bên trong Workshop.",
+  "Laurie bị giam giữ bằng vũ khí của Frondier.",
+  "Frondier lật ngược Workshop khiến Laurie bị treo ngược.",
+  "Laurie cố gắng sử dụng Hypnosis lên Frondier nhưng thất bại.",
+  "Frondier tiết lộ kế hoạch tâm lý của mình với Laurie."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang bị giam giữ và bị Frondier thao túng tâm lý.",
+   "cach_goi": "gọi tên Laurie, không thân mật"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang bị giam giữ và cố gắng phản kháng.",
+   "cach_goi": "gọi tên Frondier, không thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "GwhoisJ",
+   "loai": "nguoi_la",
+   "mo_ta": "Người đã yêu cầu chương này, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "NianJKL",
+   "loai": "nguoi_la",
+   "mo_ta": "Người đã yêu cầu chương này, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)"
+ ],
+ "stats": {
+  "tokens": 618,
+  "seconds": 18.5
+ }
+}

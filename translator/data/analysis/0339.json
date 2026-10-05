@@ -1,0 +1,85 @@
+{
+ "number": 339,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Sylvain thảo luận về những lời tiên tri liên quan đến Frondier và sự lười biếng bất thường của anh ấy. Enfer tiết lộ rằng sự lười biếng đó có thể là do một thế lực bên ngoài can thiệp, hoặc là một phản ứng bản năng để bảo vệ Frondier khỏi nguy hiểm. Cuối cùng, Enfer thừa nhận Frondier yếu đuối và quyết định bảo vệ anh. Một trận chiến tại rào cản sắp diễn ra, với những người lính chuẩn bị đối mặt với lũ quái vật.",
+ "boi_canh": "Diễn ra tại một nơi không xác định, trong cuộc trò chuyện giữa các nhân vật chính.",
+ "nhan_vat": [
+  "Frondier",
+  "Sylvain",
+  "Enfer",
+  "Azier"
+ ],
+ "su_kien": [
+  "Cuộc thảo luận về lời tiên tri liên quan đến Frondier.",
+  "Phân tích nguyên nhân sự lười biếng bất thường của Frondier.",
+  "Enfer tiết lộ sự can thiệp có thể xảy ra từ bên ngoài.",
+  "Enfer thừa nhận Frondier là một đứa trẻ yếu đuối và quyết định bảo vệ anh.",
+  "Chuẩn bị cho trận chiến tại rào cản với lũ quái vật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "ban_be",
+   "mo_ta": "Thân thiết, thảo luận về những lời tiên tri và sự lười biếng của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Thân thiết, thảo luận về những lời tiên tri và sự lười biếng của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Học trò và người có quyền lực cao hơn, thảo luận về những lời tiên tri.",
+   "cach_goi": "gọi 'Lord', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, thảo luận về những lời tiên tri và tương lai của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Người dưới quyền và người có quyền lực cao hơn, thảo luận về Frondier.",
+   "cach_goi": "gọi 'Lord', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Người có quyền lực cao hơn và người dưới quyền, thảo luận về Frondier.",
+   "cach_goi": "gọi tên Sylvain, thân mật"
+  },
+  {
+   "a": "Enfer",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và cha.",
+   "cach_goi": "gọi tên Enfer, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Biệt danh của Frondier: 'Human Sloth' (Người Lười Biếng)"
+ ],
+ "stats": {
+  "tokens": 965,
+  "seconds": 28.9
+ }
+}

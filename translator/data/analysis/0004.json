@@ -1,0 +1,49 @@
+{
+ "number": 4,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tiếp tục các lớp học và nhận thấy mọi người đã quen với việc anh ấy không ghi chép gì cả. Khi được giáo viên gọi trả lời câu hỏi, Frondier đọc thông tin từ hình ảnh lưu trữ trong 'xưởng' của mình. Anh trả lời chính xác về sự kiện lịch sử liên quan đến Edesion Terst và việc di chuyển thủ đô, khiến giáo viên có vẻ khó chịu.",
+ "boi_canh": "Trong lớp học tại Constel.",
+ "nhan_vat": [
+  "Frondier",
+  "Edesion",
+  "Teacher (unnamed)"
+ ],
+ "su_kien": [
+  "Giáo viên gọi Frondier trả lời câu hỏi.",
+  "Frondier đọc thông tin từ hình ảnh trong 'xưởng' của mình để trả lời.",
+  "Frondier trả lời chính xác về sự kiện lịch sử liên quan đến Edesion Terst.",
+  "Frondier đề cập đến việc di chuyển thủ đô của Đế chế Terst.",
+  "Giáo viên có vẻ khó chịu với cách Frondier học và trả lời."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Teacher (unnamed)",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên có vẻ khó chịu với cách Frondier học và trả lời.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Teacher (unnamed)",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên có vẻ khó chịu với cách Frondier học và trả lời.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edesion",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đề cập đến Edesion trong câu trả lời của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Edesion Terst: Ông nội của hoàng đế hiện tại của Đế chế Terst."
+ ],
+ "stats": {
+  "tokens": 547,
+  "seconds": 16.5
+ }
+}

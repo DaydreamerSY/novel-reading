@@ -1,0 +1,85 @@
+{
+ "number": 193,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier cố gắng vượt rào chắn cùng Cassian, Sybil nổi giận dữ và mắng chửi anh. Sau đó, Aten đến an ủi Frondier và họ có một cuộc trò chuyện về tương lai của Aten với tư cách là công chúa. Cuối cùng, Frondier bắt đầu công việc 'khôi phục' tường thành Tyburn dưới sự chứng kiến của nhiều binh lính, cố gắng che giấu sức mạnh thực sự của mình để tránh bị Manggot phát hiện.",
+ "boi_canh": "Trong khuôn viên dinh thự của Sybil tại Tyburn, vào một buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Sybil",
+  "Aten",
+  "Elodie",
+  "Philly",
+  "Ludwig",
+  "Sanders",
+  "Cassian",
+  "Penelope",
+  "Selena"
+ ],
+ "su_kien": [
+  "Frondier cố gắng vượt rào chắn cùng Cassian.",
+  "Sybil nổi giận dữ và mắng chửi Frondier.",
+  "Aten đến an ủi Frondier.",
+  "Cuộc trò chuyện giữa Aten và Frondier về vai trò của Aten với tư cách là công chúa.",
+  "Frondier bắt đầu 'khôi phục' tường thành Tyburn trước sự chứng kiến của binh lính."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ke_thu",
+   "mo_ta": "Sybil tức giận với Frondier vì anh cố gắng vượt rào chắn.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Sybil mắng chửi và trách móc Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Frondier xin lỗi Aten vì hành động của mình.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aten an ủi và trò chuyện với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Ludwig ra lệnh cho Frondier 'khôi phục' tường thành.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sanders",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier và Sanders trao đổi ngắn gọn.",
+   "cach_goi": "gọi tên Sanders, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Selena trêu chọc và quan sát Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Philly: Hoàng hậu đế quốc.",
+  "Aten: Tam công chúa Terst."
+ ],
+ "stats": {
+  "tokens": 916,
+  "seconds": 27.4
+ }
+}

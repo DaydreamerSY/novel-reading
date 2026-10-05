@@ -1,0 +1,65 @@
+{
+ "number": 369,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier sử dụng sức mạnh mới để đánh bại Hela, Selena khóc nức nở vì xúc động. Frondier sau đó thu thập mảnh vỡ của Helheim vào hoa sen đen mới tạo ra và giải thoát những người Ambu bị mắc kẹt. Cuối cùng, trên đường trở về, Frondier nhận ra sự thay đổi trong mối quan hệ của anh ta với Selena và quyết định quay lại cách giao tiếp cũ để duy trì sự ổn định.",
+ "boi_canh": "Trong một trận chiến với Hela, sau khi Frondier sử dụng sức mạnh mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Laurie",
+  "Cassian",
+  "Hela"
+ ],
+ "su_kien": [
+  "Frondier đánh bại Hela bằng sức mạnh mới.",
+  "Selena khóc nức nở vì xúc động.",
+  "Frondier thu thập mảnh vỡ của Helheim vào hoa sen đen.",
+  "Những người Ambu được giải thoát khỏi Workshop.",
+  "Frondier và Selena trở về trên lưng Cassian."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Mối quan hệ đang thay đổi; Frondier nhận ra sự cần thiết phải quay lại cách giao tiếp cũ.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena cảm thấy khó xử với cách giao tiếp dịu dàng của Frondier.",
+   "cach_goi": "gọi 'Frondier-nim', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier giao nhiệm vụ cho Laurie.",
+   "cach_goi": "gọi tên Laurie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cassian",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier sử dụng Cassian để di chuyển.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hela",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Frondier đã đánh bại Hela.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mảnh vỡ của Helheim biến thành obsidian và được đặt vào hoa sen đen."
+ ],
+ "stats": {
+  "tokens": 703,
+  "seconds": 20.9
+ }
+}

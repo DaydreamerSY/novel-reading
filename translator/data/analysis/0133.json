@@ -1,0 +1,75 @@
+{
+ "number": 133,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau sự cố với Renzo, Ellen và Eden gặp gỡ để thảo luận về việc Frondier có thể tham gia thực tập hay không. Eden từ chối vì ông chưa đánh giá được khả năng của Frondier. Sau đó, Malia tiết lộ rằng Enfer đã có ý định đuổi Frondier ra khỏi trường từ lâu, nhưng giờ đây tình hình có vẻ khác sau sự kiện tấn công quỷ gần đây và một nhiệm vụ mới xuất hiện liên quan đến việc Frondier phải lọt vào top 10 của Constel. Cuối cùng, Malia tiết lộ rằng Quinie đã yêu cầu bà tìm hiểu xem Frondier có gặp khó khăn trong việc tìm kiếm đội nhóm hay không.",
+ "boi_canh": "Trong phòng làm việc của Eden, ngày hôm sau sự cố với Renzo.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Quinie",
+  "Renzo",
+  "Enfer",
+  "Ellen",
+  "Malia",
+  "Eden",
+  "Mom",
+  "Father"
+ ],
+ "su_kien": [
+  "Eden từ chối đề xuất thực tập cho Frondier vì chưa đánh giá được khả năng của cậu.",
+  "Malia tiết lộ rằng Enfer đã có ý định đuổi Frondier ra khỏi trường từ lâu.",
+  "Một nhiệm vụ mới xuất hiện, yêu cầu Frondier phải lọt vào top 10 của Constel để nhận được sự công nhận của Enfer.",
+  "Ellen lo ngại về việc Eden đang che giấu điều gì đó.",
+  "Malia tiết lộ rằng Quinie đã yêu cầu bà tìm hiểu xem Frondier có gặp khó khăn trong việc tìm kiếm đội nhóm hay không."
+ ],
+ "quan_he": [
+  {
+   "a": "Ellen",
+   "b": "Eden",
+   "loai": "cap_tren",
+   "mo_ta": "Ellen là cấp dưới của Eden, hỏi về tình hình của Frondier và đề xuất thực tập.",
+   "cach_goi": "gọi tên Eden, lễ phép"
+  },
+  {
+   "a": "Eden",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Eden là cấp trên của Ellen, trả lời câu hỏi và thảo luận về Frondier.",
+   "cach_goi": "gọi tên Ellen, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Malia là mẹ của Frondier, bày tỏ sự đồng cảm và chia sẻ thông tin.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Frondier là con trai của Malia, bày tỏ sự ngạc nhiên và thắc mắc.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  },
+  {
+   "a": "Enfer",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Enfer là chồng của Malia, có ý định đuổi Frondier ra khỏi trường.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Malia được Quinie yêu cầu tìm hiểu về tình hình của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 903,
+  "seconds": 28.0
+ }
+}

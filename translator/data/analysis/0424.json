@@ -1,0 +1,85 @@
+{
+ "number": 424,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Dier bắt Angus bằng một mũi tiêm và thẩm vấn anh ta về thuốc giải độc. Anh ta phát hiện ra rằng Angus đang cố gắng trốn thoát vì một lý do nào đó, không phải vì sợ hãi mà là vì sự tự tin. Sau đó, Dier tiết lộ rằng anh ta đã được Frondier de Roach gửi đến để tìm nơi ẩn náu của Angus và Ellen hạ vũ khí sau khi nghe điều này. Cuối cùng, Dier tìm thấy thuốc giải độc trong túi của Angus nhưng lại tỏ ra lo lắng.",
+ "boi_canh": "Một căn cứ bí mật, thời điểm không rõ.",
+ "nhan_vat": [
+  "Frondier",
+  "Ellen",
+  "Dier",
+  "Angus"
+ ],
+ "su_kien": [
+  "Dier bắt Angus bằng một mũi tiêm.",
+  "Angus cố gắng trốn thoát khỏi Dier.",
+  "Dier tiết lộ rằng anh ta được Frondier de Roach gửi đến để tìm nơi ẩn náu của Angus.",
+  "Ellen hạ vũ khí sau khi nghe lời giải thích của Dier.",
+  "Dier tìm thấy thuốc giải độc trong túi của Angus."
+ ],
+ "quan_he": [
+  {
+   "a": "Angus",
+   "b": "Dier",
+   "loai": "doi_thu",
+   "mo_ta": "Angus cố gắng trốn thoát khỏi Dier.",
+   "cach_goi": "gọi tên Dier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Angus",
+   "loai": "doi_thu",
+   "mo_ta": "Dier thẩm vấn và bắt giữ Angus.",
+   "cach_goi": "gọi tên Angus, lạnh lùng"
+  },
+  {
+   "a": "Ellen",
+   "b": "Angus",
+   "loai": "gia_dinh",
+   "mo_ta": "Ellen là chị gái của Angus và bảo vệ anh ta.",
+   "cach_goi": "gọi tên Angus, thân mật"
+  },
+  {
+   "a": "Angus",
+   "b": "Ellen",
+   "loai": "gia_dinh",
+   "mo_ta": "Angus kêu gọi sự giúp đỡ của Ellen.",
+   "cach_goi": "gọi tên Ellen, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Dier lợi dụng Ellen để đạt được mục đích của mình.",
+   "cach_goi": "gọi tên Ellen, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Dier",
+   "loai": "nguoi_la",
+   "mo_ta": "Ellen nghi ngờ và đối đầu với Dier.",
+   "cach_goi": "gọi tên Dier, lạnh lùng"
+  },
+  {
+   "a": "Frondier de Roach",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người cấp trên của Ellen, đã gửi Dier đến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier de Roach",
+   "loai": "cap_tren",
+   "mo_ta": "Dier nhắc đến Frondier một cách kín đáo.",
+   "cach_goi": "gọi 'Senior Sloth', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach được gọi là 'Senior Sloth'."
+ ],
+ "stats": {
+  "tokens": 899,
+  "seconds": 26.9
+ }
+}

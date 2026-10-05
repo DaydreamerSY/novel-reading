@@ -1,0 +1,88 @@
+{
+ "number": 145,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong khi Frondier đối mặt với Binkis một mình, tình hình bên phía Aster diễn ra hoàn toàn khác biệt. Aster phát hiện ra rằng các giáo viên đã chủ động bố trí các nhiệm vụ khó khăn để khiến học sinh thất bại. Sau đó, Azier xuất hiện, bắt giữ Theo làm con tin và hợp tác với Jane chống lại Aster. Eden và Ellen tiết lộ sự thật về cách thức Constel thiết kế kỳ thi thực hành này nhằm mục đích dạy cho học sinh về 'sự thất bại'.",
+ "boi_canh": "Một khu vực huấn luyện của Constel, trong một buổi kiểm tra thực hành.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten Terst",
+  "Azier",
+  "Quinie",
+  "Ellen Evans",
+  "Jane",
+  "Eden Hamelot",
+  "Binkis",
+  "Theo",
+  "Eden",
+  "Ellen"
+ ],
+ "su_kien": [
+  "Aster quan sát Jane và nhận ra sự thiếu vắng của người đóng vai 'nạn nhân'.",
+  "Aster tấn công, sử dụng sức mạnh thần thánh.",
+  "Azier xuất hiện, bắt giữ Theo làm con tin.",
+  "Eden và Ellen tiết lộ rằng các giáo viên đã chủ động bố trí nhiệm vụ để khiến học sinh thất bại.",
+  "Ellen giải thích rằng cô ấy trở nên mạnh mẽ hơn nhờ trải nghiệm thất bại trong quá khứ."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Jane",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong một bài kiểm tra thực hành.",
+   "cach_goi": "gọi tên Jane, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội trong một bài kiểm tra thực hành.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Theo",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội trong một bài kiểm tra thực hành.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Theo",
+   "loai": "ke_thu",
+   "mo_ta": "Azier bắt giữ Theo làm con tin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden Hamelot",
+   "b": "Ellen",
+   "loai": "thay_tro",
+   "mo_ta": "Mối quan hệ sư đồ.",
+   "cach_goi": "gọi tên Ellen, lễ phép"
+  },
+  {
+   "a": "Eden Hamelot",
+   "b": "Aten Terst",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong một bài kiểm tra thực hành.",
+   "cach_goi": "gọi tên Azier, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot (Eden)",
+  "Ellen Evans (Ellen)"
+ ],
+ "stats": {
+  "tokens": 878,
+  "seconds": 29.7
+ }
+}

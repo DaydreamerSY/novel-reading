@@ -1,0 +1,77 @@
+{
+ "number": 445,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Ludwig gặp nhau tại cung điện khi có tin đồn về một con quái vật tấn công Hoàng đế Bartello. Ludwig lo lắng vì chỉ mình anh ta đến, cho thấy sự khác biệt trong cách ứng xử của các thành viên Zodiac. Frondier được giao nhiệm vụ bảo vệ Hoàng đế và phải đối mặt với sự nghi ngờ từ những người lính canh, những người sợ rằng anh ta có thể phản bội.",
+ "boi_canh": "Trong cung điện hoàng gia, khi một con quái vật tấn công Hoàng đế Bartello.",
+ "nhan_vat": [
+  "Frondier",
+  "Elysia",
+  "Enfer",
+  "Heldre",
+  "Ludwig",
+  "Bartello",
+  "Sale",
+  "Ludwig von Urfa",
+  "Edward",
+  "Edesion"
+ ],
+ "su_kien": [
+  "Có tin đồn về một con quái vật tấn công Hoàng đế Bartello.",
+  "Frondier và Ludwig gặp nhau tại cung điện.",
+  "Ludwig lo lắng vì chỉ mình anh ta đến.",
+  "Những người lính canh tỏ ra nghi ngờ Frondier.",
+  "Ludwig cảnh báo Frondier về sự nghi ngờ đang dành cho anh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè lâu năm, Ludwig lo lắng về tình hình hiện tại.",
+   "cach_goi": "gọi tên Ludwig, thân mật"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè lâu năm, Ludwig lo lắng về tình hình hiện tại.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Phục vụ Hoàng đế, Frondier phải bảo vệ ông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Ludwig có vẻ tôn trọng Hoàng đế.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người lính canh",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Nghi ngờ Frondier, lo sợ anh ta phản bội.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Người lính canh",
+   "loai": "dong_minh",
+   "mo_ta": "Phải chứng minh sự trung thành của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Bartello Tert (tên đầy đủ của quốc vương Bartello)"
+ ],
+ "stats": {
+  "tokens": 782,
+  "seconds": 23.3
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "number": 3,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Elodie đang ở trong phòng khi một quả bóng chày bất ngờ bay vào. Frondier vô thức sử dụng 'Kỹ Năng Độc Quyền' của mình, tạo ra một tấm khiên ảo để chặn bóng. Tuy nhiên, tấm khiên này bỗng nhiên bùng cháy do năng lượng từ Elodie, khiến bóng và các mảnh vỡ tan biến. Sau đó, Frondier nhận ra rằng kỹ năng của mình có thể tác động đến thực tế trong những điều kiện nhất định, nhưng anh vẫn chưa hiểu rõ cách thức hoạt động của nó.",
+ "boi_canh": "Trong phòng khách nhà Frondier vào một buổi chiều nắng gắt.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie"
+ ],
+ "su_kien": [
+  "Một quả bóng chày bay trúng cửa sổ.",
+  "Frondier vô thức tạo ra một tấm khiên ảo để chặn bóng.",
+  "Tấm khiên bỗng nhiên bùng cháy do năng lượng từ Elodie.",
+  "Bóng và các mảnh vỡ tan biến trong lửa.",
+  "Frondier nhận ra kỹ năng của mình có thể tác động đến thực tế."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan hệ thân thiết.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan hệ thân thiết.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 453,
+  "seconds": 13.6
+ }
+}

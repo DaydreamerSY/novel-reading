@@ -1,0 +1,97 @@
+{
+ "number": 437,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Đế quốc triệu tập một cuộc họp để thảo luận về các vấn đề liên quan đến Mana Injection. Eden trình bày một báo cáo được Frondier cung cấp thông tin, nhưng Nữ Hoàng Philly đã nhận ra sự không nhất quán trong lời giải thích của Eden và nghi ngờ anh ta. Sau đó, Philly kêu gọi Frondier gặp riêng để thẩm vấn về cách anh ta tìm thấy địa điểm nghiên cứu, đồng thời mời Aten đi cùng. Cuối cùng, Philly đưa ra một số bình luận kỳ lạ về mối quan hệ giữa Aten và Frondier, có vẻ như là một tín hiệu bí mật chỉ dành cho Frondier.",
+ "boi_canh": "Trong phòng họp của Đế quốc, buổi thẩm vấn các nhân vật liên quan đến Mana Injection.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Eden"
+ ],
+ "su_kien": [
+  "Eden trình bày báo cáo giả mạo về địa điểm nghiên cứu, do Frondier cung cấp.",
+  "Nữ Hoàng Philly nhận ra sự không nhất quán trong lời giải thích của Eden và nghi ngờ anh ta.",
+  "Philly kêu gọi Frondier gặp riêng để thẩm vấn.",
+  "Philly mời Aten đi cùng Frondier đến phòng tiếp khách.",
+  "Philly đưa ra những bình luận kỳ lạ về mối quan hệ giữa Aten và Frondier, có vẻ như là một tín hiệu bí mật."
+ ],
+ "quan_he": [
+  {
+   "a": "Eden",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Eden được Frondier cung cấp thông tin và hướng dẫn.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "khac",
+   "mo_ta": "Frondier cung cấp thông tin cho Eden để đánh lạc hướng.",
+   "cach_goi": "gọi tên Eden, lạnh lùng"
+  },
+  {
+   "a": "Philly",
+   "b": "Eden",
+   "loai": "cap_tren",
+   "mo_ta": "Nữ Hoàng Philly thẩm vấn và nghi ngờ Eden.",
+   "cach_goi": "gọi tên Eden, trịch thượng"
+  },
+  {
+   "a": "Eden",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Eden trình bày báo cáo cho Nữ Hoàng Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier trả lời câu hỏi của Nữ Hoàng Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Nữ Hoàng Philly triệu tập và thẩm vấn Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly",
+   "loai": "dong_minh",
+   "mo_ta": "Aten tham gia buổi thẩm vấn cùng Nữ Hoàng Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Nữ Hoàng Philly mời Aten đi cùng.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Hai người từng là học viên Constel.",
+   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người từng là học viên Constel.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1095,
+  "seconds": 32.6
+ }
+}

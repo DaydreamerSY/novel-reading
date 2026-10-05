@@ -1,0 +1,96 @@
+{
+ "number": 83,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này giới thiệu về kỳ thi thực hành Constel, một bài kiểm tra quan trọng để sinh viên năm nhất chuẩn bị trở thành 'Pro' (những người làm việc nguy hiểm bằng phép thuật và chiến đấu). Frondier bày tỏ sự lo lắng về khả năng của mình và kế hoạch hoạt động độc lập. Sự xuất hiện bất ngờ của Aten và lời đề nghị hợp tác của cô ấy, cùng với sự quan sát của Hoàng hậu Philly và những nhân vật quyền lực khác, tạo thêm một lớp căng thẳng chính trị.",
+ "boi_canh": "Sân trường Constel, trong ngày thi thực hành.",
+ "nhan_vat": [
+  "Frondier",
+  "Alex",
+  "Philly",
+  "Aten",
+  "Elysia",
+  "Sale",
+  "Pros",
+  "Roderick",
+  "Roderick Terst",
+  "Mother"
+ ],
+ "su_kien": [
+  "Giới thiệu về kỳ thi thực hành Constel và định nghĩa 'Pro'.",
+  "Alex giải thích luật lệ của bài kiểm tra: chiến đấu cá nhân hoặc theo nhóm, chia điểm.",
+  "Frondier quyết định hoạt động độc lập để tận dụng kiến thức địa hình và thông tin về quái vật.",
+  "Sự xuất hiện bất ngờ của Aten và đề nghị hợp tác với Frondier.",
+  "Hoàng hậu Philly quan sát bài kiểm tra từ khán đài, cùng với các nhân vật quyền lực khác."
+ ],
+ "quan_he": [
+  {
+   "a": "Alex",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên hướng dẫn và học sinh. Alex giải thích luật lệ thi.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Alex",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh lắng nghe hướng dẫn từ giáo viên.",
+   "cach_goi": "gọi tên Alex, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ bất ngờ. Aten đề nghị hợp tác.",
+   "cach_goi": "gọi tên Aten, ngạc nhiên"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đề nghị hợp tác với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân thiện"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con gái. Philly thể hiện sự phấn khích khi Aten xuất hiện.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Sale",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con gái. Philly thể hiện sự phấn khích khi Aten xuất hiện.",
+   "cach_goi": "gọi tên Sale, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái phàn nàn về cách mẹ thể hiện sự phấn khích.",
+   "cach_goi": "gọi tên Mother, lễ phép"
+  },
+  {
+   "a": "Sale",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái phàn nàn về cách mẹ thể hiện sự phấn khích.",
+   "cach_goi": "gọi tên Mother, lễ phép"
+  },
+  {
+   "a": "Roderick Terst",
+   "b": "Elysia",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ chính trị, Elysia cảm thấy bất an khi nhìn thấy anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1059,
+  "seconds": 32.0
+ }
+}

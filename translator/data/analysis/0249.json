@@ -1,0 +1,88 @@
+{
+ "number": 249,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi một người đàn ông sử dụng khuôn mặt của Enfer để chế ngự Bạch Hổ, các giáo viên của Constel muốn thẩm vấn anh ta. Quinie đứng ra bảo vệ Frondier và đưa anh về dinh thự. Cô tiết lộ những ký ức bị thay đổi liên quan đến Kora và Lord Enfer, đồng thời suy đoán về mối liên hệ giữa Frondier và quá khứ của cô.",
+ "boi_canh": "Trong khuôn viên Constel, sau giờ học.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Enfer",
+  "Osprey",
+  "Kora",
+  "Armel"
+ ],
+ "su_kien": [
+  "Một người đàn ông sử dụng khuôn mặt của Enfer chế ngự Bạch Hổ.",
+  "Các giáo viên Constel muốn thẩm vấn người đàn ông đó.",
+  "Quinie bảo vệ Frondier và đưa anh về dinh thự.",
+  "Quinie tiết lộ những ký ức bị thay đổi liên quan đến Kora và Lord Enfer.",
+  "Frondier mất ý thức sau khi được Quinie hỗ trợ."
+ ],
+ "quan_he": [
+  {
+   "a": "Osprey",
+   "b": "Các giáo viên",
+   "loai": "cap_tren",
+   "mo_ta": "Osprey quan sát từ xa, có vẻ như là một người có quyền lực.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Các giáo viên",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Các giáo viên nhận lệnh từ Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người đàn ông (Enfer's face)",
+   "b": "Các giáo viên",
+   "loai": "nguoi_la",
+   "mo_ta": "Người đàn ông được các giáo viên muốn thẩm vấn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Các giáo viên",
+   "loai": "cap_tren",
+   "mo_ta": "Quinie bảo vệ Frondier, có vẻ như là một học sinh nhưng hành động như người đứng đầu Viet.",
+   "cach_goi": "gọi 'teachers', lễ phép"
+  },
+  {
+   "a": "Các giáo viên",
+   "b": "Quinie",
+   "loai": "cap_tren",
+   "mo_ta": "Các giáo viên cố gắng thẩm vấn Quinie.",
+   "cach_goi": "gọi tên Quinie, lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Quinie",
+   "loai": "cap_tren",
+   "mo_ta": "Osprey quan sát và đưa ra lời khuyên cho Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Quinie chăm sóc và bảo vệ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Frondier đang ngủ, không tương tác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Người đàn ông sử dụng khuôn mặt của Enfer: chưa rõ danh tính thật sự.",
+  "Kora: trước đây là một con sói, có dòng máu bạch hổ."
+ ],
+ "stats": {
+  "tokens": 944,
+  "seconds": 29.8
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "number": 589,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Lily giải thích về cách nhận biết quỷ, Frondier suy luận về sự tồn tại của những con quỷ ẩn mình trong xã hội loài người và những động cơ của chúng. Anh ta bắt đầu nghi ngờ rằng Satan có thể đã để lại một số quỷ cấp cao hơn sau trận chiến trước đó. Cuối cùng, anh ta nhìn thấy Elodie de Rishae xuất hiện bất ngờ tại một buổi tiệc và nhận ra điều gì đó quan trọng.",
+ "boi_canh": "Một buổi tiệc của giới quý tộc trong lâu đài Hoàng gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Elodie",
+  "Sophie",
+  "Ria Lis",
+  "Mizonas",
+  "Satan",
+  "Belphegor",
+  "Lucifer",
+  "Elodie de Rishae",
+  "Lis"
+ ],
+ "su_kien": [
+  "Lily giải thích cách nhận biết quỷ dựa trên cánh và hào quang.",
+  "Frondier suy đoán về sự tồn tại của những con quỷ cấp cao ẩn mình trong xã hội loài người.",
+  "Frondier nhớ lại những lời nói đơn giản, lặp đi lặp lại của những con quỷ cấp thấp mà anh ta đã từng đối mặt.",
+  "Lily tiết lộ rằng những con quỷ không thể thỏa mãn được mong muốn của chúng sẽ không chết.",
+  "Elodie de Rishae xuất hiện bất ngờ tại buổi tiệc và chào Sophie."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier hỏi Lily về cách nhận biết quỷ và suy luận từ những gì cô nói.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Lily giải thích và trả lời các câu hỏi của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sophie",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier là hiệp sĩ bảo vệ Sophie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie de Rishae",
+   "b": "Sophie",
+   "loai": "dong_minh",
+   "mo_ta": "Elodie chào Sophie tại buổi tiệc.",
+   "cach_goi": "gọi tên Sophie, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie de Rishae",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier nhìn thấy Elodie và nhận ra điều gì đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Rishae (trước đây là Elodie)"
+ ],
+ "stats": {
+  "tokens": 767,
+  "seconds": 23.3
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "number": 156,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mô tả sự im lặng kỳ lạ tại nhà Roach do tâm trạng u sầu của Enfer. Frondier tiếp tục luyện tập khắc nghiệt với Azier, chuẩn bị cho chuyến đi Tyburn sắp tới. Trong quá trình luyện tập, Azier đề nghị dạy Frondier kỹ thuật tước vũ khí và Frondier đã thành công sau một vài lần thử. Cuối cùng, Aster đến tìm Frondier và tiết lộ kế hoạch học kiếm của mình từ Ellen dưới sự hướng dẫn của Eden Hamelot.",
+ "boi_canh": "Tại nhà Roach, trong buổi luyện tập kiếm giữa Frondier và Azier.",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Azier",
+  "Renzo",
+  "Ellen",
+  "Jane",
+  "Binkis",
+  "Eden Hamelot",
+  "Neil",
+  "Neil Jack",
+  "Aster",
+  "Elodie"
+ ],
+ "su_kien": [
+  "Sự im lặng kỳ lạ tại nhà Roach do Enfer u sầu.",
+  "Frondier luyện tập kiếm với Azier, tăng cường độ luyện tập.",
+  "Azier dạy Frondier kỹ thuật tước vũ khí và Frondier thành công.",
+  "Aster đến tìm Frondier và tiết lộ kế hoạch học kiếm từ Ellen dưới sự hướng dẫn của Eden Hamelot.",
+  "Nhiều người đến tiễn Frondier đi Tyburn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "thay_tro",
+   "mo_ta": "Người học trò và người thầy đang luyện tập kiếm với nhau.",
+   "cach_goi": "gọi tên Azier, không rõ ràng"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy đang hướng dẫn và đánh giá người học trò.",
+   "cach_goi": "gọi tên Frondier, nghiêm khắc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối tượng thử nghiệm kỹ thuật tước vũ khí của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy đang động viên người học trò.",
+   "cach_goi": "gọi tên Frondier, khích lệ"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người bạn đang trò chuyện.",
+   "cach_goi": "gọi tên Frondier, thân thiện"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Hai người bạn đang trò chuyện.",
+   "cach_goi": "gọi tên Aster, thân thiện"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Giáo viên tiễn Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Giáo viên tiễn Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Aster",
+   "loai": "gia_dinh",
+   "mo_ta": "Chị em ruột đang có kế hoạch chung.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden Hamelot",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Người có ảnh hưởng đến kế hoạch của Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Neil Jack: Người chế tạo thanh kiếm ngắn mà Frondier đang sử dụng."
+ ],
+ "stats": {
+  "tokens": 1105,
+  "seconds": 35.9
+ }
+}

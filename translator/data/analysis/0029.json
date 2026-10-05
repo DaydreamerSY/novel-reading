@@ -1,0 +1,85 @@
+{
+ "number": 29,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau một thời gian đi bộ, Frondier và nhóm của anh ta đến một thánh địa trong ngục tối. Anh ta đối mặt với bức tượng đá, tuyên bố niềm tin vào nhân loại thay vì các vị thần, gây sốc cho Sybil. Sau đó, bức tượng trao cho anh ta một vòng tròn ma thuật bí ẩn, Menosorpo, và phá hủy thánh địa. Cuối cùng, Frondier nhận được phần thưởng từ việc chinh phục ngục tối, bao gồm cả vòng tròn ma thuật mới này, và nhận được tin nhắn về tình trạng của Sybil.",
+ "boi_canh": "Bên trong một thánh địa bí ẩn ở sâu trong ngục tối, vào thời điểm Frondier đối mặt với bức tượng đá để chứng minh niềm tin của mình.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Quinie",
+  "Jane",
+  "Slevb"
+ ],
+ "su_kien": [
+  "Frondier và nhóm của anh ta tìm thấy một thánh địa trong ngục tối.",
+  "Frondier tuyên bố niềm tin vào nhân loại thay vì các vị thần trước bức tượng đá.",
+  "Bức tượng trao cho Frondier vòng tròn ma thuật 'Menosorpo'.",
+  "Thánh địa bị phá hủy sau khi Frondier nhận được vòng tròn ma thuật.",
+  "Frondier nhận được phần thưởng từ việc chinh phục ngục tối, bao gồm cả vòng tròn ma thuật mới."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, hỗ trợ lẫn nhau.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Sybil bị sốc bởi những lời nói của Frondier.",
+   "cach_goi": "gọi tên Sybil, không thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Sybil bị sốc bởi những lời nói của Frondier.",
+   "cach_goi": "gọi tên Frondier, không thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, liên lạc qua SagePhone.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, liên lạc qua SagePhone.",
+   "cach_goi": "gọi 'Senior', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Frondier giao Sybil cho Jane chăm sóc.",
+   "cach_goi": "gọi tên Jane, thân mật"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Frondier giao Sybil cho Jane chăm sóc.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Slevb",
+   "loai": "khac",
+   "mo_ta": "chỉ nhắc đến Slevb khi đề cập đến vũ khí của cô ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 974,
+  "seconds": 29.1
+ }
+}

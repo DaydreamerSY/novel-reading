@@ -1,0 +1,90 @@
+{
+ "number": 312,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tiễn Selena đi, Frondier phát hiện ra lối vào một khu vực ngầm bí mật trong xưởng của mình. Anh nhận ra rằng việc tiếp cận khu vực này đòi hỏi những phương pháp phức tạp và thu hút sự chú ý. Sau đó, anh quyết định sử dụng một cabin riêng để thử nghiệm sức mạnh mới và xây dựng căn cứ. Cuối cùng, Frondier đến gặp Warden Esther tại Obsidian theo yêu cầu bí ẩn, dẫn đến một cuộc đối đầu căng thẳng với những câu hỏi về quá khứ và năng lực của anh.",
+ "boi_canh": "Trong xưởng của Frondier, vào thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Renzo",
+  "Heldre",
+  "Cain",
+  "Esther",
+  "Thompson",
+  "Skyler",
+  "Warden Esther"
+ ],
+ "su_kien": [
+  "Frondier tiễn Selena đi.",
+  "Phát hiện lối vào khu vực ngầm dưới xưởng.",
+  "Quyết định sử dụng cabin để thử nghiệm và xây dựng căn cứ.",
+  "Frondier đến gặp Warden Esther tại Obsidian.",
+  "Esther chất vấn Frondier về chiếc vòng cổ của anh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier tiễn Selena đi.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "khac",
+   "mo_ta": "Liên quan đến sự biến mất của Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "khac",
+   "mo_ta": "Liên quan đến Cain và việc xóa bỏ hồ sơ của cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "doi_thu",
+   "mo_ta": "Muốn gặp gỡ để tìm hiểu thông tin.",
+   "cach_goi": "gọi tên Cain, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đến gặp Warden Esther theo yêu cầu.",
+   "cach_goi": "gọi tên Esther, lễ phép"
+  },
+  {
+   "a": "Warden Esther",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Esther chất vấn và nghi ngờ Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Warden Esther",
+   "b": "Thompson",
+   "loai": "cap_tren",
+   "mo_ta": "Esther nhận thông tin từ Thompson qua điện thoại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Warden Esther",
+   "b": "Skyler",
+   "loai": "cap_tren",
+   "mo_ta": "Esther nhận thông tin từ Skyler qua điện thoại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của Frondier)"
+ ],
+ "stats": {
+  "tokens": 918,
+  "seconds": 28.4
+ }
+}

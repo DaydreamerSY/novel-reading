@@ -1,0 +1,71 @@
+{
+ "number": 276,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tiếp tục kế hoạch lừa gạt, sử dụng mana để hạ gục Heldre. Tuy nhiên, việc duy trì hình dạng Excalibur và Mjölnir khiến anh gặp khó khăn. Một sự thật bất ngờ được hé lộ: Heldre không sử dụng Divine Power, mặc dù là một thành viên của Zodiac. Sau đó, Hestia, nữ thần của gia đình, xuất hiện và tiết lộ những thông tin quan trọng về cuộc chiến giữa các vị thần và vai trò của Frondier trong đó.",
+ "boi_canh": "Trong một không gian bí mật, thời gian tạm dừng, nơi diễn ra cuộc đối đầu giữa Frondier và Heldre.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Renzo",
+  "Edwin",
+  "Heldre",
+  "Alex",
+  "Artemis",
+  "Penelope",
+  "Glutton of Chaos",
+  "Hestia"
+ ],
+ "su_kien": [
+  "Frondier sử dụng mana để đánh bại Heldre.",
+  "Heldre không sử dụng Divine Power, điều bất thường đối với một thành viên của Zodiac.",
+  "Sự xuất hiện của Hestia, nữ thần của gia đình.",
+  "Hestia tiết lộ rằng Heldre đã từng được ban cho và sau đó bị tước đoạt Divine Power.",
+  "Frondier nhìn thấy ký ức quá khứ của Hestia thông qua một tầm nhìn đặc biệt."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Heldre, lạnh lùng"
+  },
+  {
+   "a": "Heldre",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Van xin sự tha thứ sau khi bị đánh bại.",
+   "cach_goi": "gọi tên Frondier, sợ hãi"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hestia",
+   "loai": "khac",
+   "mo_ta": "Nhận được thông tin quan trọng từ một vị thần.",
+   "cach_goi": "gọi tên Hestia, lễ phép"
+  },
+  {
+   "a": "Hestia",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Cung cấp thông tin về cuộc chiến giữa các vị thần.",
+   "cach_goi": "gọi tên Frondier, thân thiện"
+  }
+ ],
+ "danh_tinh": [
+  "Heldre: Trước đây được miêu tả là một đối thủ mạnh mẽ trong game, nhưng hiện tại đang cầu xin sự tha thứ.",
+  "Hestia: Nữ thần của gia đình, người đã ban cho Heldre Divine Power và tiết lộ những thông tin quan trọng."
+ ],
+ "stats": {
+  "tokens": 807,
+  "seconds": 25.0
+ }
+}

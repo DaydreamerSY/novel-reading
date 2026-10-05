@@ -1,0 +1,93 @@
+{
+ "number": 384,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Jacob bị đánh bất tỉnh, Aten kiểm tra tình trạng thể chất của anh ta và phát hiện ra có dấu hiệu của việc tiêm Mana. Elodie phân tích Mana trong cơ thể Jacob và nhận thấy nó đang xung đột lẫn nhau, gây ra sự gia tăng sức mạnh ma thuật. Họ nghi ngờ một thế lực lớn hơn đứng sau hành động này, liên quan đến công nghệ và y học tiên tiến. Dier Aiger, một tân sinh viên, khao khát được gặp Aster Evans trong kỳ kiểm tra kỹ năng sắp tới.",
+ "boi_canh": "Một khu vực không xác định tại Constel, vài ngày sau khi xảy ra sự việc.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Dier",
+  "Jacob",
+  "Mother",
+  "Piellot",
+  "Dier Aiger",
+  "Aster Evans"
+ ],
+ "su_kien": [
+  "Aten kiểm tra tình trạng của Jacob và chẩn đoán anh ta bị chấn động não.",
+  "Elodie phát hiện Mana trong cơ thể Jacob đang xung đột, gây ra sự gia tăng sức mạnh ma thuật.",
+  "Phát hiện dấu hiệu tiêm Mana vào Jacob dưới dạng chất lỏng.",
+  "Sybil suy luận rằng Jacob đã biết trước tác dụng của việc tiêm Mana vào cơ thể mình.",
+  "Dier Aiger khao khát được gặp Aster Evans trong kỳ kiểm tra kỹ năng sắp tới."
+ ],
+ "quan_he": [
+  {
+   "a": "Aten",
+   "b": "Jacob",
+   "loai": "khac",
+   "mo_ta": "Aten kiểm tra tình trạng thể chất của Jacob.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Aten và Sybil cùng quan sát tình hình của Jacob.",
+   "cach_goi": "gọi tên Sybil, không rõ"
+  },
+  {
+   "a": "Elodie",
+   "b": "Jacob",
+   "loai": "nguoi_la",
+   "mo_ta": "Elodie phân tích Mana trong cơ thể Jacob.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Sybil đặt câu hỏi cho Elodie về tình trạng của Jacob.",
+   "cach_goi": "gọi tên Elodie, không rõ"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Elodie và Aten cùng suy luận về tình hình của Jacob.",
+   "cach_goi": "gọi tên Aten, không rõ"
+  },
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Sybil đưa ra suy đoán và Elodie trả lời.",
+   "cach_goi": "gọi tên Elodie, không rõ"
+  },
+  {
+   "a": "Dier Aiger",
+   "b": "Piellot",
+   "loai": "dong_minh",
+   "mo_ta": "Cả hai là tân sinh viên và cùng quan tâm đến Aster Evans.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier Aiger",
+   "b": "Aster Evans",
+   "loai": "cap_tren",
+   "mo_ta": "Dier Aiger ngưỡng mộ và hâm mộ Aster Evans.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)"
+ ],
+ "stats": {
+  "tokens": 897,
+  "seconds": 26.8
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "number": 297,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier phá hủy một đường dây trên không để đánh lạc hướng Renzo. Hai người tiếp tục chiến đấu với những kỹ thuật mới và sáng tạo của cả hai. Cuối cùng, khi tưởng chừng như Frondier sắp giành thế thượng phong, Cain bất ngờ xuất hiện và bắt cóc Frondier qua một cổng không gian, khiến Renzo tức giận.",
+ "boi_canh": "Trên một đường dây trên không bị phá hủy, vào lúc giữa trận chiến.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Renzo",
+  "Cain",
+  "Ares",
+  "Neil",
+  "Neil Jack"
+ ],
+ "su_kien": [
+  "Frondier phá hủy đường dây trên không.",
+  "Renzo sử dụng kỹ thuật di chuyển bằng Aura để tạo ra các bệ nhảy.",
+  "Frondier tấn công Renzo bằng nhiều giáo được tạo ra từ Void Weaving.",
+  "Cain bất ngờ xuất hiện và bắt cóc Frondier qua cổng không gian.",
+  "Renzo tức giận sau khi bị Frondier trêu chọc và mất đi Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "gọi tên Renzo, thân mật"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Cain",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, bắt cóc Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "ke_thu",
+   "mo_ta": "Bị bắt cóc bởi kẻ thù.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Cain",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Renzo tức giận với Cain.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Có thể được thông báo về sự kiện bởi một con quạ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Neil Jack: Tên đầy đủ của Neil (không có thêm chi tiết)."
+ ],
+ "stats": {
+  "tokens": 756,
+  "seconds": 23.3
+ }
+}

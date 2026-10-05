@@ -1,0 +1,70 @@
+{
+ "number": 275,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Heldre đe dọa Frondier bằng lời lẽ tàn bạo, cảnh báo sẽ khiến anh ta phải chịu đau khổ kinh hoàng. Tuy nhiên, Frondier vẫn bình tĩnh đối phó với tình hình, sử dụng một chiến thuật bất ngờ liên quan đến Cain và Excalibur để tấn công Heldre. Cuối cùng, Heldre bị thương nặng và cầu xin sự tha thứ từ Frondier.",
+ "boi_canh": "Một trận chiến căng thẳng diễn ra giữa Frondier và Heldre.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Osprey",
+  "Heldre",
+  "Cain"
+ ],
+ "su_kien": [
+  "Heldre đe dọa Frondier bằng lời lẽ tàn bạo.",
+  "Frondier triệu hồi Osprey và ra lệnh lui về vị trí an toàn hơn.",
+  "Frondier siết chặt cổ Cain bằng thanh kiếm.",
+  "Frondier sử dụng Excalibur để giải phóng một lượng lớn mana, tấn công Heldre.",
+  "Heldre cầu xin sự tha thứ từ Frondier sau khi bị thương nặng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "ban_be",
+   "mo_ta": "Frondier ra lệnh cho Osprey lui về để đảm bảo an toàn.",
+   "cach_goi": "gọi tên Osprey, thân mật"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Osprey bày tỏ sự lo lắng về việc Frondier đối đầu với Heldre.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier tấn công Heldre.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Heldre",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Heldre bị tấn công bởi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier sử dụng Cain như một công cụ trong chiến thuật của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cain",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Cain bị Frondier sử dụng như một công cụ trong chiến thuật của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 769,
+  "seconds": 23.6
+ }
+}

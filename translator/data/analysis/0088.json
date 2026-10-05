@@ -1,0 +1,69 @@
+{
+ "number": 88,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier sử dụng chiến thuật bắn tên để đánh lạc hướng Renzo và tấn công bằng thương. Tuy nhiên, Renzo đã nhanh chóng phản ứng lại và vô hiệu hóa đòn tấn công của Frondier. Cuộc chiến tiếp tục với một kỹ thuật đặc biệt của Azier khiến cả hai đều mất vũ khí. Sau đó, Frondier sử dụng 'Azier’s Basic Spear Technique' kết hợp với kiếm pháp độc đáo nhưng bị Renzo chặn lại dễ dàng bằng tay trần. Aten xuất hiện và đề nghị giúp đỡ Frondier, đồng thời nhắc nhở anh về trách nhiệm của một thành viên hoàng gia.",
+ "boi_canh": "Trận chiến giữa Frondier và Renzo diễn ra trong một môi trường chiến tranh không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Azier",
+  "Renzo"
+ ],
+ "su_kien": [
+  "Frondier sử dụng tên để đánh lạc hướng Renzo.",
+  "Renzo vô hiệu hóa đòn tấn công bằng thương của Frondier.",
+  "Cả hai đều mất vũ khí sau khi sử dụng kỹ thuật của Azier.",
+  "Renzo dễ dàng chặn đứng đòn tấn công của Frondier bằng tay trần.",
+  "Aten đề nghị giúp đỡ và nhắc nhở Frondier về trách nhiệm của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Renzo, lạnh lùng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, khinh thường"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đề nghị giúp đỡ và nhắc nhở trách nhiệm.",
+   "cach_goi": "gọi tên Frondier, thân thiện"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhận lời đề nghị giúp đỡ của Aten.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "thay_tro",
+   "mo_ta": "Học kiếm pháp từ Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Azier",
+   "loai": "khac",
+   "mo_ta": "Sử dụng kỹ thuật của Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 777,
+  "seconds": 23.3
+ }
+}

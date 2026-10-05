@@ -1,0 +1,94 @@
+{
+ "number": 359,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Sylvain vô cùng bất lực trước tình hình nguy hiểm. Frondier nhảy lên để tin rằng Sylvain sẽ giải cứu anh, nhưng Sylvain không thể đáp ứng được kỳ vọng đó. Một cuộc tấn công của Cyclops suýt chút nữa đã trúng Frondier, và Sylvain đã sử dụng kỹ năng Roach Swordsmanship để đánh trả, giúp họ sống sót. Sau khi tiêu diệt Cyclops, Frondier nhận ra một con đường dẫn đến căn cứ của lũ quái vật và quyết định đi một mình.",
+ "boi_canh": "Trên lưng Cyclops vừa ngã xuống, giữa trận chiến với lũ quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Enfer",
+  "Sylvain",
+  "Cassian",
+  "Cyclops"
+ ],
+ "su_kien": [
+  "Sylvain cảm thấy bất lực khi không thể đáp ứng kỳ vọng của Frondier.",
+  "Frondier nhảy lên tránh đòn tấn công của Cyclops.",
+  "Sylvain sử dụng Roach Swordsmanship để đánh trúng chân Cyclops, khiến nó ngã xuống.",
+  "Frondier đạp lên mắt Cyclops và kết liễu nó bằng Mjölnir và Excalibur.",
+  "Frondier phát hiện ra một con đường dẫn đến căn cứ của lũ quái vật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier tin tưởng và dựa dẫm vào Sylvain trong tình huống nguy hiểm.",
+   "cach_goi": "gọi tên Sylvain, thân mật"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Sylvain cố gắng bảo vệ và hướng dẫn Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Selena hỗ trợ Frondier và Cassian.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Selena hỗ trợ Frondier và Cassian.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cassian",
+   "loai": "ban_be",
+   "mo_ta": "Cassian là người hỗ trợ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cassian",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Cassian là người hỗ trợ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Sylvain là chỉ huy của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cyclops",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ nguy hiểm, bị Frondier tiêu diệt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cyclops",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ nguy hiểm, bị Frondier tiêu diệt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính mới trong chương này."
+ ],
+ "stats": {
+  "tokens": 1012,
+  "seconds": 30.2
+ }
+}

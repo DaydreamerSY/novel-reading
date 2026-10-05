@@ -1,0 +1,78 @@
+{
+ "number": 190,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đe dọa Frondier bằng vũ khí, Selena lo lắng về việc bị kỷ luật nhưng mọi thứ lại diễn ra suôn sẻ vì Frondier đã ngất xỉu. Cô báo cáo chi tiết chuyến đi đến hồ cho Hagley, kể cả việc nhìn thấy một thanh kiếm giống Excalibur. Hagley kết luận đó có lẽ là một bản sao giả và Selena bắt đầu nghi ngờ về những lời nói của Frondier liên quan đến danh tính thật của mình.",
+ "boi_canh": "Đêm tối tại căn cứ Manggot.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Hagley",
+  "Heldre",
+  "Ludwig",
+  "Nimue",
+  "Jei",
+  "Lady of the Lake",
+  "Ludwig von Urfa",
+  "Selena de Barnier"
+ ],
+ "su_kien": [
+  "Selena báo cáo với Hagley về chuyến đi đến hồ và việc nhìn thấy thanh kiếm giống Excalibur.",
+  "Hagley kết luận thanh kiếm có lẽ là bản sao giả.",
+  "Selena hồi tưởng lại lời nói của Nimue, Lady of the Lake, về thanh kiếm Frondier tạo ra.",
+  "Selena suy nghĩ về những lời nói của Frondier liên quan đến danh tính thật của cô.",
+  "Hagley xác định vụ tiêu diệt quái vật gần Tyburn's rampart là do Ludwig von Urfa gây ra."
+ ],
+ "quan_he": [
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Selena nghi ngờ và suy đoán về ý định của Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier có vẻ như đang che giấu điều gì đó từ Selena.",
+   "cach_goi": "gọi tên Selena, không rõ cảm xúc"
+  },
+  {
+   "a": "Selena",
+   "b": "Hagley",
+   "loai": "cap_tren",
+   "mo_ta": "Selena báo cáo với Hagley, tỏ ra lo lắng và kính trọng.",
+   "cach_goi": "gọi 'Sir', lễ phép"
+  },
+  {
+   "a": "Hagley",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Hagley đặt câu hỏi và hướng dẫn Selena trong quá trình báo cáo.",
+   "cach_goi": "gọi tên Selena, thân thiện"
+  },
+  {
+   "a": "Selena",
+   "b": "Jei",
+   "loai": "ban_be",
+   "mo_ta": "Selena và Jei là đồng đội trong Manggot.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Ludwig von Urfa",
+   "loai": "khac",
+   "mo_ta": "Đề cập đến Ludwig như là người chịu trách nhiệm cho vụ tiêu diệt quái vật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Selena de Barnier (tên đầy đủ của Selena)",
+  "Ludwig von Urfa (được Hagley nhắc đến liên quan đến vụ tiêu diệt quái vật)"
+ ],
+ "stats": {
+  "tokens": 879,
+  "seconds": 26.3
+ }
+}

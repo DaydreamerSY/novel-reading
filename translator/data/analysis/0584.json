@@ -1,0 +1,70 @@
+{
+ "number": 584,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier định giết Ria Lis, cô ta đã trốn thoát nhưng bị mắc kẹt trong một xưởng bí mật do chính Frondier tạo ra. Xưởng này xuất hiện đột ngột và phá hủy dinh thự của Lily. Lily nhận ra mình đang ở trong một nơi tương tự như nơi giam giữ Metamorph trước đây. Cô bị bao vây bởi vũ khí và không thể di chuyển, chờ đợi sự xuất hiện của Frondier mà không biết điều gì sẽ xảy đến tiếp theo.",
+ "boi_canh": "Trong một căn phòng bí mật bên trong dinh thự của Lily.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Ria Lis",
+  "Metamorph",
+  "Lis"
+ ],
+ "su_kien": [
+  "Frondier định giết Ria Lis, nhưng cô ta trốn thoát.",
+  "Một xưởng bí mật xuất hiện và phá hủy dinh thự của Lily.",
+  "Ria Lis bị mắc kẹt trong xưởng do Frondier tạo ra.",
+  "Lily bị bao vây bởi vũ khí và không thể di chuyển.",
+  "Lily chờ đợi sự xuất hiện của Frondier mà không có phản hồi."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ria Lis",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier định giết Ria Lis để trốn thoát.",
+   "cach_goi": "gọi tên Ria Lis, lạnh lùng"
+  },
+  {
+   "a": "Ria Lis",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Ria Lis cố gắng trốn thoát khỏi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier tạo ra xưởng để giam giữ Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Lily cố gắng thuyết phục Frondier thả cô ra.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Ria Lis",
+   "loai": "ban_be",
+   "mo_ta": "Lily và Ria Lis là bạn bè, nhưng hiện tại ở hai vị trí khác nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Metamorph",
+   "b": "Lily",
+   "loai": "khac",
+   "mo_ta": "Lily từng thấy Frondier sử dụng xưởng để giam giữ Metamorph.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 638,
+  "seconds": 20.1
+ }
+}

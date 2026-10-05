@@ -1,0 +1,58 @@
+{
+ "number": 332,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đối mặt với Laurie, người có vẻ đang cố gắng đánh giá anh. Họ trao đổi những lời lẽ đầy ẩn ý về danh tính và mục đích của nhau. Laurie tấn công Frondier nhưng bị đánh bại bởi một số kỹ năng bí mật của anh, bao gồm cả việc sử dụng Weaving dagger. Cuối cùng, Laurie thừa nhận rằng cô đã từng cảm nhận được sự hiện diện của Frondier khi anh dùng goblin để kiểm tra cô.",
+ "boi_canh": "Trong căn cứ quân sự, tại một thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Laurie",
+  "Frondier de Roach"
+ ],
+ "su_kien": [
+  "Laurie nghi ngờ Frondier và gọi tên anh.",
+  "Frondier phát hiện Laurie sử dụng một cái tên giả và không có danh tính thực sự.",
+  "Laurie tấn công Frondier bằng kiếm.",
+  "Frondier vô hiệu hóa Laurie bằng Weaving dagger, gây ra vết thương sâu.",
+  "Laurie sử dụng vũ khí ném độc nhưng bị chặn lại."
+ ],
+ "quan_he": [
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Laurie nghi ngờ và đối đầu với Frondier, có vẻ như đang cố gắng đánh giá anh.",
+   "cach_goi": "gọi tên 'Frondier de Roach', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đối đầu với Laurie, cố gắng tìm hiểu mục đích của cô.",
+   "cach_goi": "gọi tên 'Laurie', thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Laurie",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena là người có liên quan đến Laurie, nhưng mối quan hệ cụ thể chưa rõ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier de Roach",
+   "b": "Laurie",
+   "loai": "doi_thu",
+   "mo_ta": "Laurie biết tên đầy đủ của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Laurie: Sử dụng tên giả, không có danh tính thực sự được đăng ký.",
+  "Selena: Có thể là danh tính thật của Laurie, nhưng đã bị quên lãng."
+ ],
+ "stats": {
+  "tokens": 646,
+  "seconds": 19.9
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "number": 176,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Cassian di chuyển đến Rừng Thiêng để thực hiện kế hoạch tấn công, tương tự như chiến dịch ở Constel. Trên đường đi, Frondier phải vật lộn với việc cưỡi ngựa lần đầu tiên và đối phó với những quái vật chặn đường. Anh ta cũng nhận ra một sự thật quan trọng: kẻ điều khiển lũ quái vật thực chất đang ẩn náu trong Rừng Thiêng, lợi dụng niềm tin sai lầm của con người.",
+ "boi_canh": "Rừng Thiêng, thời điểm Frondier và Selena trên đường đi thực hiện kế hoạch tấn công.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Hagley",
+  "Merlin",
+  "Cassian",
+  "Arthur",
+  "Slevb",
+  "Penelope"
+ ],
+ "su_kien": [
+  "Frondier cưỡi Cassian lần đầu tiên và gặp khó khăn.",
+  "Frondier sử dụng Búa Hoa Đen để tạo ra một cây đao và tấn công quái vật dơi.",
+  "Quái vật dơi tự động ngã xuống và chết sau 24 giờ.",
+  "Frondier nhận ra kẻ điều khiển lũ quái vật đang ẩn náu trong Rừng Thiêng.",
+  "Merlin xuất hiện, chào đón Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Người hộ tống, có vẻ đang đánh giá Frondier.",
+   "cach_goi": "gọi tên Selena, không thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Người hộ tống, có vẻ đang đánh giá Frondier.",
+   "cach_goi": "gọi tên Frondier, không thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cassian",
+   "loai": "nguoi_la",
+   "mo_ta": "Người cưỡi và con ngựa, Frondier điều khiển Cassian.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cassian",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người cưỡi và con ngựa, Frondier điều khiển Cassian.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Sử dụng vải của Penelope để giữ ấm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Merlin",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tin vẻ ngoài của Merlin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Merlin",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người xuất hiện chào đón Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Merlin: Được biết đến trong truyền thuyết về King Arthur, là một pháp sư vĩ đại, tiên tri và nhà hiền triết. Trong Etius, ông được biết đến với vai trò 'Druid'."
+ ],
+ "stats": {
+  "tokens": 918,
+  "seconds": 27.5
+ }
+}

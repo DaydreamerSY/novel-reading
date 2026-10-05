@@ -1,0 +1,69 @@
+{
+ "number": 230,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier trải qua một buổi thẩm định đồ vật tại dinh thự của Quinie, dưới sự chứng kiến của Dushang và người hầu. Anh cảm thấy chán nản vì phải chờ đợi kết quả của chuyên gia khác sau khi anh đã thẩm định. Frondier nhận ra mọi người xung quanh đang nghi ngờ năng lực của anh và mong muốn có một món đồ giả để phá vỡ sự nhàm chán, và cuối cùng đối mặt với sự bất đồng ý kiến về chiếc vòng cổ.",
+ "boi_canh": "Tại dinh thự của Quinie, trong buổi thẩm định đồ vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Dushang",
+  "GwhoisJ"
+ ],
+ "su_kien": [
+  "Người hầu đưa ra lời xin lỗi và mời Frondier dùng trà.",
+  "Dushang gọi người hầu mang trà và đồ ăn ngon cho Frondier.",
+  "Frondier nhận xét về chất lượng trà.",
+  "Dushang gọi một chuyên gia thẩm định khác.",
+  "Frondier trực tiếp hỏi Dushang có gọi thêm chuyên gia hay không."
+ ],
+ "quan_he": [
+  {
+   "a": "Dushang",
+   "b": "Quinie",
+   "loai": "gia_dinh",
+   "mo_ta": "Người hầu và chủ nhà, mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Dushang",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu và người được thẩm định, mối quan hệ khách sáo.",
+   "cach_goi": "gọi 'appraiser', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dushang",
+   "loai": "nguoi_la",
+   "mo_ta": "Người thẩm định và người hầu, mối quan hệ khách sáo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Dushang",
+   "loai": "gia_dinh",
+   "mo_ta": "Chủ nhà và người hầu, mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Dushang, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Dushang",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu và người được thẩm định, mối quan hệ khách sáo.",
+   "cach_goi": "gọi 'appraiser', lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 744,
+  "seconds": 22.5
+ }
+}

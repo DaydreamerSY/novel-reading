@@ -1,0 +1,78 @@
+{
+ "number": 231,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier gặp gỡ Quentin, một chuyên gia thẩm định đồ cổ, cùng với Dushang. Khi Quentin xác nhận chiếc mặt dây chuyền là giả, Frondier đã giải thích cơ chế hoạt động phức tạp của nó và tiết lộ những thông tin bí mật được ghi âm bên trong liên quan đến Mistilteinn. Sau đó, để bù đắp cho sự nghi ngờ ban đầu của Dushang, Frondier đề nghị bán hàng hóa từ cửa hàng bách hóa Terst cho Quinie.",
+ "boi_canh": "Trong phòng thẩm định đồ cổ, buổi gặp gỡ giữa các chuyên gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Dushang",
+  "Quentin"
+ ],
+ "su_kien": [
+  "Frondier và Quentin chào hỏi nhau sau khi giới thiệu.",
+  "Quentin xác định chiếc mặt dây chuyền là giả, chỉ ra sự khác biệt trong các vòng.",
+  "Frondier giải thích cơ chế hoạt động của chiếc mặt dây chuyền và kích hoạt nó để phát lại thông tin bí mật.",
+  "Dushang xin lỗi Frondier vì đã nghi ngờ ông ta.",
+  "Frondier đề nghị bán hàng hóa từ cửa hàng bách hóa Terst cho Quinie."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quentin",
+   "loai": "nguoi_la",
+   "mo_ta": "Giới thiệu bản thân, tranh luận về giá trị của mặt dây chuyền.",
+   "cach_goi": "gọi tên 'Quentin', lễ phép"
+  },
+  {
+   "a": "Quentin",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Thẩm định đồ vật, nghi ngờ Frondier là kẻ lừa đảo.",
+   "cach_goi": "gọi tên 'Frondier', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dushang",
+   "loai": "cap_tren",
+   "mo_ta": "Quan hệ cấp trên - cấp dưới, Frondier quan sát Dushang.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dushang",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Xin lỗi vì đã nghi ngờ Frondier.",
+   "cach_goi": "gọi tên 'Master', lễ phép"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Tôn trọng và tin tưởng Frondier, bày tỏ sự ngạc nhiên về kỹ năng của ông.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Đề nghị bán hàng hóa, trêu chọc Quinie.",
+   "cach_goi": "gọi tên 'Senior', thân mật"
+  },
+  {
+   "a": "Dushang",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Đứng cạnh Frondier, quan sát cuộc trò chuyện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Roach (đề cập đến nhưng không xuất hiện)"
+ ],
+ "stats": {
+  "tokens": 902,
+  "seconds": 27.0
+ }
+}

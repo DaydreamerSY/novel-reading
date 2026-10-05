@@ -1,0 +1,91 @@
+{
+ "number": 140,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một cuộc đấu giá Viper Steel diễn ra với mức giá tăng vọt lên 10.5 triệu quir. Frondier có vẻ như không thực sự quan tâm đến việc trúng đấu giá và không hề giấu giếm điều đó, khiến những người khác bối rối. Sau khi kết thúc đấu giá, Frondier tiết lộ một bí mật với Quinie và Aten về cách anh ta biết trước cuộc tấn công của quái vật và 'Fireworks', đồng thời từ chối chia sẻ phương pháp của mình.",
+ "boi_canh": "Một phiên đấu giá tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten Terst",
+  "Quinie",
+  "Ellen",
+  "Malia",
+  "Revet",
+  "Auctioneer",
+  "Middle-aged aristocratic man"
+ ],
+ "su_kien": [
+  "Cuộc đấu giá Viper Steel bắt đầu với mức giá cao.",
+  "Elodie liên tục tăng giá, vượt qua nhiều đối thủ khác.",
+  "Frondier không hề giấu sự thờ ơ của mình khi quan sát cuộc đấu giá.",
+  "Người đàn ông trung niên bỏ cuộc sau khi Elodie tiếp tục tăng giá.",
+  "Frondier tiết lộ với Quinie và Aten về cách anh ta biết trước cuộc tấn công của quái vật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong cuộc đấu giá, Frondier tỏ ra thờ ơ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong cuộc đấu giá, Elodie quan sát Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Revet",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Elodie, quan sát cuộc đấu giá và Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Revet",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Elodie, quan sát cuộc đấu giá và Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier chia sẻ thông tin bí mật với Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Quinie tò mò về cách Frondier biết trước cuộc tấn công.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier chia sẻ thông tin bí mật với Aten.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aten tò mò về cách Frondier biết trước cuộc tấn công.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Quinie: tên đầy đủ là Quinie (không có thêm thông tin)"
+ ],
+ "stats": {
+  "tokens": 994,
+  "seconds": 30.7
+ }
+}

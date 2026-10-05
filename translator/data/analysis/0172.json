@@ -1,0 +1,71 @@
+{
+ "number": 172,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Aten và Sybil đang thực hiện một bài tập luyện phép thuật đặc biệt: Aten tạo tượng băng và Sybil dùng mana để giữ cho tượng băng không tan. Sybil thể hiện khả năng cảm nhận mana phi thường, học hỏi cực nhanh mà không cần trải qua quá trình thử nghiệm thông thường. Frondier xuất hiện và mượn Cassian của Sybil một cách bí ẩn, khiến cả Aten và Sybil đều tò mò.",
+ "boi_canh": "Trước khu vực nghỉ chân, vào buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Sybil",
+  "Cassian"
+ ],
+ "su_kien": [
+  "Aten và Sybil luyện phép giữ băng không tan.",
+  "Sybil giữ được tượng băng trong một giờ chỉ sau hai ngày luyện tập.",
+  "Sybil nhận xét về hình dáng tượng băng của Aten (dạng búa).",
+  "Tượng băng biến mất đột ngột khi Sybil đang nói chuyện.",
+  "Frondier mượn Cassian của Sybil."
+ ],
+ "quan_he": [
+  {
+   "a": "Aten",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aten có vẻ lịch sự nhưng không biết nói gì thêm về tình hình.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sybil hào hứng khoe khoang về thành tích của mình.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Sếp và nhân viên, Frondier tỏ ra khiêm tốn.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Sếp và nhân viên, Aten thở phào nhẹ nhõm khi thấy Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Frondier mượn Cassian của Sybil.",
+   "cach_goi": "gọi tên Sybil, không trang trọng"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Sybil đồng ý cho Frondier mượn Cassian.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Cassian: Ngựa chiến tinh nhuệ vùng trung tâm."
+ ],
+ "stats": {
+  "tokens": 781,
+  "seconds": 23.2
+ }
+}

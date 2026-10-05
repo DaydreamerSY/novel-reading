@@ -1,0 +1,106 @@
+{
+ "number": 376,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier cảm thấy vô cùng bối rối khi biệt danh 'Sloth' (Lười Biếng) lan rộng khắp trường Constel, thậm chí cả giáo viên và nhân viên cũng biết đến. Khi bước vào năm thứ hai, cậu nhận ra mình được xếp chung lớp với nhiều nhân vật quan trọng như Aster, Elodie, Aten,... Sự thay đổi này khiến Frondier tự hỏi liệu đây có phải là một sự can thiệp nào đó hay không.",
+ "boi_canh": "Trong lớp học của trường Constel, năm thứ hai.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Quinie",
+  "Ellen",
+  "Lunia",
+  "Kora",
+  "Robald"
+ ],
+ "su_kien": [
+  "Biệt danh 'Sloth' lan rộng khắp trường Constel.",
+  "Frondier trở thành học sinh năm thứ hai và được xếp vào lớp 1.",
+  "Lớp 1 tập hợp nhiều nhân vật quan trọng, bao gồm cả Aten, Kora và Selena.",
+  "Aten chào Frondier khi họ ngồi cạnh nhau trong lớp.",
+  "Sybil trêu chọc Frondier về biệt danh 'Sloth'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn học ngồi cạnh nhau, thân thiện.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn học ngồi cạnh nhau, thân thiện.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn học trêu chọc về biệt danh của Frondier.",
+   "cach_goi": "gọi tên Frondier, trêu chọc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn học bị Sybil trêu chọc.",
+   "cach_goi": "gọi tên Sybil, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Robald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn học trêu chọc về việc Frondier có phải là Belphegor.",
+   "cach_goi": "gọi tên Frondier, đùa cợt"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robald",
+   "loai": "ban_be",
+   "mo_ta": "Bạn học bị Robald trêu chọc.",
+   "cach_goi": "gọi tên Robald, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn học cùng lớp, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn học cùng lớp, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kora",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không biết nhau, cùng lớp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không biết nhau, cùng lớp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier được gọi là 'Sloth' (Lười Biếng)."
+ ],
+ "stats": {
+  "tokens": 1143,
+  "seconds": 34.2
+ }
+}

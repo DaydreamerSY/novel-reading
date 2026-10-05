@@ -1,0 +1,59 @@
+{
+ "number": 460,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong khi Azier và Mizonas đang giao chiến, Mizonas đột ngột co rúm lại và nhìn lên trần nhà. Azier có thể đã tận dụng khoảnh khắc đó để tấn công, nhưng anh nghi ngờ đó là một cái bẫy. Sau đó, Mizonas tiết lộ rằng Frondier đã từng thoát khỏi ngục tù, khiến Azier suy đoán về mối liên hệ giữa Mizonas và Frondier. Mizonas cố gắng trốn thoát, nhưng bị Azier chặn lại. Cuối cùng, Mizonas kích hoạt một lượng lớn quái vật thông qua máu của mình, và Azier nhận ra rằng những sinh vật này có thể liên quan đến Frondier.",
+ "boi_canh": "Trên chiến trường, giữa trận chiến giữa Azier và Mizonas.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Gregory",
+  "Mizonas",
+  "Metamorph"
+ ],
+ "su_kien": [
+  "Mizonas đột ngột co rúm lại và nhìn lên trần nhà.",
+  "Azier nghi ngờ Mizonas đang dụ dỗ anh ta.",
+  "Mizonas tiết lộ rằng Frondier đã từng thoát khỏi ngục tù.",
+  "Mizonas cố gắng trốn thoát, nhưng bị Azier chặn lại.",
+  "Mizonas kích hoạt một lượng lớn quái vật thông qua máu của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Azier",
+   "b": "Mizonas",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang giao chiến với nhau.",
+   "cach_goi": "gọi tên Mizonas, lạnh lùng"
+  },
+  {
+   "a": "Mizonas",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang giao chiến với nhau.",
+   "cach_goi": "gọi tên Azier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Người ra lệnh cho Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mizonas",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Mizonas đã từng báo cáo về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mizonas có thể là một sinh vật lai giữa người và quỷ, hoặc là sản phẩm của thí nghiệm.",
+  "Satan trong game Etius có đặc điểm nhận dạng là đôi cánh giống chim, khác biệt so với các quỷ khác."
+ ],
+ "stats": {
+  "tokens": 700,
+  "seconds": 21.0
+ }
+}

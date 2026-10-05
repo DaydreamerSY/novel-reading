@@ -1,0 +1,112 @@
+{
+ "number": 379,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe giải thích từ phòng chức năng, Frondier quay lại lớp học và chuẩn bị đi mua sắm quần áo cho Selena theo lời hứa. Anh lo lắng về việc tìm được những bộ trang phục phù hợp thay thế cho trang phục quá gợi cảm của cô. Trong lúc đó, Sybil bày tỏ sự ghen tị, còn Elodie và Aten bắt đầu suy đoán về mối quan hệ giữa Frondier và Selena, dẫn đến quyết định theo dõi họ.",
+ "boi_canh": "Trong lớp học, sau khi các thành viên chức năng rời đi.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aten Terst",
+  "Sybil"
+ ],
+ "su_kien": [
+  "Frondier quay lại lớp học sau cuộc họp ở phòng chức năng.",
+  "Frondier chuẩn bị đi mua sắm quần áo cho Selena.",
+  "Sybil bày tỏ sự ghen tị khi thấy Frondier và Selena rời đi cùng nhau.",
+  "Elodie và Aten suy đoán về mối quan hệ giữa Frondier và Selena.",
+  "Elodie, Sybil và Aten quyết định theo dõi Frondier và Selena."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Mối quan hệ đang được xác định, có thể là tình cảm lãng mạn.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ của họ, có vẻ như Selena đang giữ bí mật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Mối quan hệ đồng nghiệp, có vẻ như Sybil ghen tị với Frondier.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Ghen tị và muốn can thiệp vào mối quan hệ của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, có vẻ như Elodie đang suy đoán về mối quan hệ của Frondier.",
+   "cach_goi": "gọi tên Elodie, lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, quan sát và suy đoán về mối quan hệ của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp, Aten tò mò về mối quan hệ của Frondier.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Tò mò và suy đoán về mối quan hệ của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sybil ghen tị và muốn can thiệp.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Elodie lo lắng về hành động của Sybil.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sybil muốn Aten tham gia theo dõi.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aten đồng ý tham gia theo dõi.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1255,
+  "seconds": 37.5
+ }
+}

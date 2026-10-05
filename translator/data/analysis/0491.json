@@ -1,0 +1,89 @@
+{
+ "number": 491,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đối diện với Rudra và đặt câu hỏi về động cơ thực sự của Rudra khi để lại Elodie trong trạng thái bị tổn thương. Frondier nhận ra rằng các vị thần không hiểu con người như thế nào, sau đó khẳng định quyền tự quyết của Elodie. Sau cuộc trò chuyện, Frondier tỉnh dậy trong khoang tàu và phát hiện ra Mei, một nhân vật mới có ngoại hình giống cả Frondier lẫn Elodie, khiến cả hai bối rối.",
+ "boi_canh": "Trong khoang tàu trên một con thuyền, sau một giấc mơ dài.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Mei",
+  "Aster Evans",
+  "Rudra"
+ ],
+ "su_kien": [
+  "Frondier chất vấn Rudra về động cơ của hắn.",
+  "Rudra bày tỏ tình yêu với Elodie và mong muốn cô mạnh mẽ hơn.",
+  "Frondier nhận ra sự khác biệt giữa con người và các vị thần.",
+  "Frondier tỉnh dậy trong khoang tàu.",
+  "Xuất hiện Mei, một nhân vật có ngoại hình giống Frondier và Elodie."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Rudra",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu, chất vấn động cơ.",
+   "cach_goi": "gọi 'Rudra', lạnh lùng"
+  },
+  {
+   "a": "Rudra",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Trả lời câu hỏi của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Bạn từ thuở nhỏ.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Bạn từ thuở nhỏ.",
+   "cach_goi": "gọi tên thân mật 'Fron', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ lần đầu, Frondier nghi ngờ về nguồn gốc của Mei.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ lần đầu, Mei có vẻ ngoài giống Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Bối rối trước sự xuất hiện của Mei.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Bối rối trước sự xuất hiện của Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mei: Có vẻ ngoài giống Frondier và Elodie, có thể đang bắt chước cách nói chuyện của ai đó."
+ ],
+ "stats": {
+  "tokens": 934,
+  "seconds": 27.9
+ }
+}

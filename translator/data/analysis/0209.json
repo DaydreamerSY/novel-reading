@@ -1,0 +1,70 @@
+{
+ "number": 209,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau kỳ nghỉ, Elodie cảm thấy nhớ Constel. Cuộc sống tại Tháp Pháp Sư quá khắc nghiệt và cô đơn. Khi học kỳ mới bắt đầu, tin đồn về sự kết hợp ba nguyên tố của Elodie và Aster lan truyền khắp trường. Tin đồn này sau đó bị bóp méo, thêm vào những chi tiết sai lệch liên quan đến Frondier, Sybil và Aten, gây ra nhiều tranh cãi.",
+ "boi_canh": "Trong lớp học tại Constel, đầu học kỳ mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Aster Evans",
+  "Fron",
+  "Aten Terst"
+ ],
+ "su_kien": [
+  "Tin đồn về sự kết hợp ba nguyên tố của Elodie và Aster lan truyền.",
+  "Tin đồn bị bóp méo, thêm vào những chi tiết sai lệch liên quan đến Frondier, Sybil và Aten.",
+  "Elodie cảm thấy khó chịu khi phải lặp đi lặp lại câu trả lời về sự kết hợp ba nguyên tố.",
+  "Aster cảm thấy bối rối và khó chịu vì tin đồn thất thiệt về mối quan hệ với Sybil.",
+  "Aten bị cuốn vào một cuộc tranh cãi giữa hai phe phái, mỗi phe có cách giải thích khác nhau về mối quan hệ của cô với Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie nhớ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Fron (biệt danh của Frondier)",
+  "Aster Evans (tên đầy đủ của Aster)"
+ ],
+ "stats": {
+  "tokens": 749,
+  "seconds": 22.5
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "number": 14,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier thử nghiệm Obsidian Weaving để tạo ra vũ khí mạnh mẽ hơn, bắt đầu với việc sao chép thanh kiếm 'Gram' của Sigurd. Quá trình này tiêu tốn rất nhiều mana và khiến anh ta bị kiệt sức. Bất ngờ, một vị thần trẻ tuổi xuất hiện trong xưởng của Frondier, báo hiệu những nguy hiểm tiềm ẩn liên quan đến Obsidian Weaving.",
+ "boi_canh": "Trong xưởng của Frondier, vào thời điểm anh bắt đầu thử nghiệm Obsidian Weaving.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Quinie",
+  "Quinie de Viet",
+  "Sigurd",
+  "Anfer"
+ ],
+ "su_kien": [
+  "Frondier thử nghiệm Obsidian Weaving để tạo ra vũ khí.",
+  "Anh bắt đầu sao chép thanh kiếm 'Gram' của Sigurd.",
+  "Quá trình Weaving tiêu tốn rất nhiều mana và khiến Frondier kiệt sức.",
+  "Một vị thần trẻ tuổi xuất hiện trong xưởng của Frondier.",
+  "Thanh kiếm do Frondier tạo ra tự động chỉ về phía anh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, có thể chi tiêu thoải mái hơn anh.",
+   "cach_goi": "gọi tên Azier, không thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie de Viet",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mà Frondier cần để giao dịch và xây dựng mối quan hệ.",
+   "cach_goi": "gọi tên Quinie de Viet, không thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sigurd",
+   "loai": "khac",
+   "mo_ta": "Người sở hữu thanh kiếm 'Gram' mà Frondier đang cố gắng sao chép.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Anfer",
+   "loai": "khac",
+   "mo_ta": "Người sở hữu thanh kiếm 'Gram' trước đây.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Vị thần trẻ tuổi",
+   "loai": "ke_thu",
+   "mo_ta": "Một vị thần xuất hiện đột ngột, có vẻ như đang đe dọa Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Thanh kiếm 'Gram' được sao chép từ thanh kiếm của Sigurd."
+ ],
+ "stats": {
+  "tokens": 725,
+  "seconds": 21.7
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "number": 86,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Aten đi săn quái vật trong một khu vực để kiếm điểm. Thay vì đối đầu với boss mạnh 'Trunkus', họ chọn săn những con quái vật ở rìa nhằm tránh sự hỗn loạn. Tuy nhiên, Frondier cảm thấy có điều gì đó bất thường khi không gặp mặt học viên nào khác và phát hiện ra một chiếc drone giả mạo. Sự việc này dẫn đến việc anh ta nhận ra mình đang bị đối đầu bởi một kẻ thù mạnh mẽ hơn dự kiến – Renzo, 'Glutton of Chaos'.",
+ "boi_canh": "Khu vực săn quái vật, thời điểm học viên tham gia hoạt động.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Renzo",
+  "Glutton of Chaos"
+ ],
+ "su_kien": [
+  "Frondier và Aten thảo luận về việc nên nhắm mục tiêu boss hay quái vật ở rìa.",
+  "Frondier phát hiện ra một chiếc drone giả mạo.",
+  "Frondier đặt bẫy rune Menosorpo để phát hiện kẻ thù ẩn nấp.",
+  "Renzo, 'Glutton of Chaos', xuất hiện và tiết lộ đã bị Frondier phát hiện.",
+  "Frondier nhận ra Renzo là một nhân vật phản diện mạnh mẽ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành và người hỗ trợ Frondier trong việc săn quái vật.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành và người hỗ trợ Frondier trong việc săn quái vật.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ mạnh mẽ, Frondier không có khả năng đối đầu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ mạnh mẽ, đang đánh giá và chế giễu Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Aten nhận thấy sự hiện diện của Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Renzo",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Aten nhận thấy sự hiện diện của Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Glutton of Chaos: Tên thật là Renzo.",
+  "[Copy of Constel's Manufactured Filming Drone]: Một chiếc drone giả mạo."
+ ],
+ "stats": {
+  "tokens": 848,
+  "seconds": 25.5
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "number": 199,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong bữa ăn tại Constel, Selena xuất hiện và tự giới thiệu là người hộ tống của Frondier, gây bất ngờ cho Elodie. Cuộc trò chuyện xoay quanh danh tiếng 'Human Sloth' của Frondier, với những giả thuyết khác nhau về mối quan hệ giữa Aten Terst và Frondier. Sự xuất hiện của Aten cùng với việc Selena chủ động đến bên cạnh Frondier đã tạo nên một tình huống phức tạp, thu hút sự chú ý của nhiều người xung quanh.",
+ "boi_canh": "Bữa ăn tại hội trường Constel vào một ngày học mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Lunia",
+  "Robald",
+  "Aten Terst",
+  "Sybil Forte",
+  "Lunia Fricell",
+  "Robald Lieff"
+ ],
+ "su_kien": [
+  "Selena tự giới thiệu là người hộ tống của Frondier.",
+  "Elodie nhắc đến biệt danh 'Human Sloth' của Frondier.",
+  "Aten Terst xuất hiện, đi theo sát cạnh Frondier.",
+  "Selena chủ động ngồi xuống bên cạnh Frondier trong bữa ăn.",
+  "Sybil và Lunia tham gia vào bữa ăn, tạo nên một nhóm đông đảo."
+ ],
+ "quan_he": [
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "người hộ tống, tôn trọng và trung thành.",
+   "cach_goi": "gọi 'Lord Frondier', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "người được bảo vệ, không tương tác nhiều.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "bạn học, tò mò về mối quan hệ của Selena với Frondier.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "bạn học, trả lời câu hỏi của Elodie.",
+   "cach_goi": "gọi tên Elodie, lịch sự"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "đi theo sát cạnh, mối quan hệ bí ẩn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "tôn trọng, có vẻ căng thẳng.",
+   "cach_goi": "gọi 'Third Imperial Princess Aten Terst', lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "tạo cảm giác thân thiện và thoải mái.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "tò mò về mối quan hệ của Frondier và Aten.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Robald",
+   "loai": "doi_thu",
+   "mo_ta": "cạnh tranh, có vẻ ganh tị.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst (Tam công chúa)",
+  "Sybil Forte (Tên đầy đủ của Sybil)",
+  "Lunia Fricell (Tên đầy đủ của Lunia)",
+  "Robald Lieff (Tên đầy đủ của Robald)"
+ ],
+ "stats": {
+  "tokens": 1075,
+  "seconds": 32.3
+ }
+}

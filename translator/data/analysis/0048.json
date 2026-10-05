@@ -1,0 +1,111 @@
+{
+ "number": 48,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Edwin bị triệu tập đến một cuộc họp kỷ luật tại trường Constel sau khi tấn công học sinh và sử dụng golem trái phép. Các giáo viên tranh luận về mức độ tội lỗi của Edwin, với Alex nghi ngờ anh ta đã lên kế hoạch trước để tấn công học sinh. Edwin cuối cùng cũng thừa nhận hành động của mình, thể hiện sự hối hận sâu sắc và chấp nhận rằng bản thân đã 'rơi xuống'.",
+ "boi_canh": "Trong phòng họp kỷ luật tại trường Constel.",
+ "nhan_vat": [
+  "Edwin",
+  "Alex",
+  "Jane",
+  "Malia de Roach",
+  "Osprey",
+  "Binkis",
+  "Gary",
+  "Ellen",
+  "Frondier"
+ ],
+ "su_kien": [
+  "Edwin bị triệu tập đến cuộc họp kỷ luật.",
+  "Alex cáo buộc Edwin tấn công học sinh và sử dụng golem trái phép.",
+  "Jane bảo vệ Edwin, cho rằng anh ta chỉ phòng thân.",
+  "Malia de Roach can thiệp vào cuộc tranh luận.",
+  "Edwin thừa nhận đã ăn cắp golem và sử dụng nó."
+ ],
+ "quan_he": [
+  {
+   "a": "Edwin",
+   "b": "Alex",
+   "loai": "doi_thu",
+   "mo_ta": "Alex nghi ngờ Edwin đã lên kế hoạch tấn công và chất vấn anh ta.",
+   "cach_goi": "gọi tên Alex, lạnh lùng"
+  },
+  {
+   "a": "Alex",
+   "b": "Edwin",
+   "loai": "doi_thu",
+   "mo_ta": "Alex chất vấn Edwin một cách gay gắt.",
+   "cach_goi": "gọi tên Edwin, thô lỗ"
+  },
+  {
+   "a": "Jane",
+   "b": "Alex",
+   "loai": "ban_be",
+   "mo_ta": "Jane phản đối cách chất vấn của Alex.",
+   "cach_goi": "gọi tên Alex, không hài lòng"
+  },
+  {
+   "a": "Alex",
+   "b": "Jane",
+   "loai": "ban_be",
+   "mo_ta": "Alex bác bỏ phản đối của Jane.",
+   "cach_goi": "gọi tên Jane, lạnh lùng"
+  },
+  {
+   "a": "Malia de Roach",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "Malia là người ngoài cuộc can thiệp vào cuộc họp.",
+   "cach_goi": "gọi tên Edwin, khách quan"
+  },
+  {
+   "a": "Edwin",
+   "b": "Malia de Roach",
+   "loai": "nguoi_la",
+   "mo_ta": "Edwin không trực tiếp giao tiếp với Malia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Edwin",
+   "loai": "cap_tren",
+   "mo_ta": "Osprey là người chủ trì cuộc họp kỷ luật.",
+   "cach_goi": "gọi tên Edwin, lạnh lùng"
+  },
+  {
+   "a": "Edwin",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Edwin không trực tiếp giao tiếp với Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Alex",
+   "b": "Binkis",
+   "loai": "thay_tro",
+   "mo_ta": "Alex đề cập đến Binkis trong cuộc họp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Edwin hồi tưởng lại lời nói của Ellen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Edwin hồi tưởng lại hành động của mình đối với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Edwin von Behetorio (tên đầy đủ của Edwin)"
+ ],
+ "stats": {
+  "tokens": 1097,
+  "seconds": 32.8
+ }
+}

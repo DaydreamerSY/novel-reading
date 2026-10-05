@@ -1,0 +1,68 @@
+{
+ "number": 281,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier cảm thấy vô cùng mệt mỏi sau nhiều nhiệm vụ liên tiếp. Anh kiểm tra lại mình trong gương và nhận ra vẻ mặt luôn mệt mỏi của mình. Gregory, dưới hình dạng một con quạ, báo cáo rằng Kraken đã đến gặp Renzo đang bị giam giữ tại nhà tù Morion. Frondier tin rằng đây là một bước quan trọng để kết thúc mối thù dai dẳng với Indus.",
+ "boi_canh": "Trong phòng riêng của Frondier tại Constel sau khi ca trực của lính cứu hộ kết thúc.",
+ "nhan_vat": [
+  "Frondier",
+  "Gregory",
+  "Renzo",
+  "Kraken",
+  "Armel",
+  "Khryselakatos",
+  "Quinie"
+ ],
+ "su_kien": [
+  "Frondier kiểm tra vẻ ngoài của mình trong gương.",
+  "Gregory báo cáo rằng Kraken đã đến gặp Renzo tại nhà tù Morion.",
+  "Frondier nhận ra rằng nhiệm vụ 'Operation Suppress Indus' vẫn chưa hoàn thành.",
+  "Frondier giao cho Gregory nhiệm vụ tìm kiếm Kraken.",
+  "Frondier suy đoán về kế hoạch của Kraken liên quan đến Trident."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là người điều khiển và giao nhiệm vụ cho Gregory.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Gregory báo cáo tình hình cho Frondier.",
+   "cach_goi": "gọi tên Frondier, trung lập"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier quan sát Renzo thông qua Gregory.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kraken",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Kraken đến gặp Renzo để thực hiện một kế hoạch nào đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Armel",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Armel là người bị bắt giữ, Frondier là người ra lệnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Gregory: Hiện đang hoạt động dưới hình dạng một con quạ.",
+  "Morion (trước đây gọi là Obsidian): Tên nhà tù đã được thay đổi."
+ ],
+ "stats": {
+  "tokens": 722,
+  "seconds": 22.3
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "number": 110,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Alex bị phơi bày là kẻ phản bội, cậu ta phải ra trước ủy ban kỷ luật. Frondier và Aten thảo luận về vai trò của cậu trong đội hình chiến đấu, kết luận rằng cậu nên giữ vị trí hậu vệ. Họ quyết định tuyển dụng Ellen Evans làm tiền đạo. Cuối cùng, phiên tòa kỷ luật của Alex bắt đầu với sự tham gia của các giáo viên, bao gồm cả Isamaya, người có vẻ rất muốn trừng phạt Alex.",
+ "boi_canh": "Trong phòng huấn luyện của trường Constel.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly",
+  "Aten",
+  "Renzo",
+  "Elysia",
+  "Ellen",
+  "Jane",
+  "Edwin",
+  "Malia",
+  "Alex",
+  "Isamaya",
+  "Slevb",
+  "Khryselakatos",
+  "Ellen Evans",
+  "Edwin von Behetorio"
+ ],
+ "su_kien": [
+  "Alex bị phơi bày là kẻ phản bội.",
+  "Frondier và Aten thảo luận về vai trò chiến đấu của Frondier.",
+  "Họ quyết định rằng Frondier nên giữ vai trò hậu vệ.",
+  "Quyết định tuyển dụng Ellen Evans làm tiền đạo.",
+  "Phiên tòa kỷ luật của Alex bắt đầu."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Frondier có vẻ không thích Aster.",
+   "cach_goi": "gọi tên Aster, không thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Aten đánh giá cao khả năng chiến đấu của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Frondier tôn trọng ý kiến của Aten.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "hoàng hậu, có vẻ như phép thuật của Philly đang ảnh hưởng đến Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Aten đánh giá cao khả năng chiến đấu của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Isamaya",
+   "b": "Alex",
+   "loai": "ke_thu",
+   "mo_ta": "giáo viên, Isamaya muốn trừng phạt Alex.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Isamaya",
+   "loai": "nguoi_la",
+   "mo_ta": "đồng nghiệp, Jane có vẻ ngạc nhiên về thái độ của Isamaya.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Isamaya",
+   "loai": "cap_tren",
+   "mo_ta": "đồng nghiệp, Malia đang chờ đợi để chia sẻ thông tin về Elysia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 948,
+  "seconds": 29.5
+ }
+}

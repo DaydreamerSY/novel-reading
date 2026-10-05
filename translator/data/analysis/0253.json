@@ -1,0 +1,99 @@
+{
+ "number": 253,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Kora tiết lộ một ký ức mơ hồ về nỗi sợ hãi, Frondier bị triệu tập đến văn phòng hiệu trưởng thông qua loa phát thanh toàn trường. Hiệu trưởng Osprey gọi Frondier riêng để thảo luận về những vấn đề liên quan đến cha của cậu là Enfer và những sự kiện trước đây. Cuộc gặp gỡ diễn ra trong một không gian được bảo vệ bằng phép thuật, cho thấy sự nghiêm trọng của tình hình.",
+ "boi_canh": "Trong lớp học tại trường Constel, giữa giờ học.",
+ "nhan_vat": [
+  "Frondier",
+  "Kora",
+  "Aster",
+  "Aten",
+  "Enfer",
+  "Osprey",
+  "Jane",
+  "Malia",
+  "Arthur",
+  "Student Frondier",
+  "Selena"
+ ],
+ "su_kien": [
+  "Kora tiết lộ một ký ức mơ hồ về nỗi sợ hãi.",
+  "Frondier bị triệu tập đến văn phòng hiệu trưởng qua loa phát thanh.",
+  "Aten nghi ngờ Frondier che giấu điều gì đó.",
+  "Osprey sử dụng phép thuật để kiểm tra xem Frondier có bị ảnh hưởng bởi ma thuật hay không.",
+  "Osprey đề cập đến cha của Frondier là Enfer và hỏi thẳng về sự liên quan của cậu."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Kora",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier cố gắng hiểu những gì Kora đang nói.",
+   "cach_goi": "gọi tên Kora, không rõ cảm xúc"
+  },
+  {
+   "a": "Kora",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Kora tiết lộ một ký ức mơ hồ.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Aten tỏ ra nghi ngờ và chỉ trích Frondier.",
+   "cach_goi": "gọi tên Frondier, nghi ngờ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier bảo vệ bản thân khỏi sự chỉ trích của Aten.",
+   "cach_goi": "gọi tên Aten, phản bác"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Osprey triệu tập và thẩm vấn Frondier.",
+   "cach_goi": "gọi tên Frondier, trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier trả lời lời triệu tập của Osprey.",
+   "cach_goi": "gọi 'Mr.', lễ phép"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Jane quan tâm đến việc Frondier bị triệu tập.",
+   "cach_goi": "gọi tên Frondier, lo lắng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Jane trao đổi ánh mắt trước khi Frondier rời khỏi lớp học.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena có vẻ là người đáng tin cậy nhất xung quanh Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của nhân vật chính)"
+ ],
+ "stats": {
+  "tokens": 1056,
+  "seconds": 33.6
+ }
+}

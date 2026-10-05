@@ -1,0 +1,73 @@
+{
+ "number": 282,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tiếp tục công việc cứu hộ bãi biển để tránh gây ra nghi ngờ. Anh cảm thấy mệt mỏi vì những người xung quanh liên tục tìm cách làm quen và xin số điện thoại. Sybil bất ngờ xuất hiện và quan tâm đến Frondier, khiến anh lo lắng về lòng trung thành của cô dựa trên kinh nghiệm từ trò chơi. Một sự kiện bất thường xảy ra trong nhà tù Morion khi Renzo, kẻ được biết đến với biệt danh 'Glutton of Chaos', đột ngột qua đời trong phòng giam biệt lập.",
+ "boi_canh": "Bãi biển Cropolis, vào một ngày nắng ấm áp, Frondier đang làm nhiệm vụ cứu hộ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aten",
+  "Sybil",
+  "Renzo",
+  "Glutton of Chaos"
+ ],
+ "su_kien": [
+  "Frondier tiếp tục làm nhiệm vụ cứu hộ bãi biển.",
+  "Những sinh viên Constel liên tục tìm cách làm quen với Frondier.",
+  "Sybil xuất hiện và quan tâm đến Frondier, theo dõi anh sau sự kiện ở Tyburn.",
+  "Renzo, biệt danh 'Glutton of Chaos', qua đời trong phòng giam biệt lập tại nhà tù Morion.",
+  "Các lính canh phát hiện ra Renzo đã chết và phải mở cửa phòng giam."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier không chắc Elodie sẽ phản ứng thế nào với công việc của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier không chắc Aten sẽ phản ứng thế nào với công việc của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sybil quan tâm và theo dõi Frondier.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sybil quan tâm và theo dõi Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, Frondier biết về sự tồn tại của Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Glutton of Chaos",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, Glutton of Chaos là một nhân vật phản diện nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Renzo được biết đến với biệt danh 'Glutton of Chaos'."
+ ],
+ "stats": {
+  "tokens": 845,
+  "seconds": 26.1
+ }
+}

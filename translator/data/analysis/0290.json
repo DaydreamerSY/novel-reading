@@ -1,0 +1,89 @@
+{
+ "number": 290,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi triệu tập tại một căn nhà gỗ hẻo lánh do Kraken sở hữu, nhóm Indus gặp mặt để bàn về kế hoạch cách mạng. Sự xuất hiện của Cain, Thompson và Skyler bị thương khiến tình hình căng thẳng hơn. Một sự nghi ngờ lớn nảy sinh khi họ phát hiện ra có người trong Indus tiết lộ thông tin cho Frondier, dẫn đến những tổn thất nặng nề cho các thành viên. Mâu thuẫn bùng nổ giữa Kraken và Thompson sau khi Kraken nhắc lại về cái chết của mình vì cuộc cách mạng.",
+ "boi_canh": "Một căn nhà gỗ ở khu rừng sâu thẳm, nơi nhóm Indus gặp mặt để bàn kế hoạch.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Kraken",
+  "Heldre",
+  "Cain",
+  "Thompson",
+  "Skyler"
+ ],
+ "su_kien": [
+  "Nhóm Indus gặp mặt tại căn nhà gỗ của Kraken.",
+  "Cain, Thompson và Skyler xuất hiện với nhiều vết thương.",
+  "Phát hiện có người trong Indus tiết lộ thông tin cho Frondier.",
+  "Kraken nhắc lại về cái chết của mình vì cuộc cách mạng.",
+  "Mâu thuẫn bùng nổ giữa Kraken và Thompson."
+ ],
+ "quan_he": [
+  {
+   "a": "Kraken",
+   "b": "Renzo",
+   "loai": "nguoi_la",
+   "mo_ta": "Kraken sử dụng Renzo cho mục đích của Indus.",
+   "cach_goi": "gọi tên Renzo, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Kraken",
+   "loai": "nguoi_la",
+   "mo_ta": "Renzo nghi ngờ động cơ của Kraken.",
+   "cach_goi": "gọi tên Kraken, thân mật"
+  },
+  {
+   "a": "Kraken",
+   "b": "Cain",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus.",
+   "cach_goi": "gọi tên Cain, lễ phép"
+  },
+  {
+   "a": "Cain",
+   "b": "Kraken",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus.",
+   "cach_goi": "gọi tên Kraken, lễ phép"
+  },
+  {
+   "a": "Kraken",
+   "b": "Thompson",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus.",
+   "cach_goi": "gọi tên Thompson, lễ phép"
+  },
+  {
+   "a": "Thompson",
+   "b": "Kraken",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus, có sự căng thẳng.",
+   "cach_goi": "gọi tên Kraken, thô lỗ"
+  },
+  {
+   "a": "Kraken",
+   "b": "Skyler",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus.",
+   "cach_goi": "gọi tên Skyler, lễ phép"
+  },
+  {
+   "a": "Skyler",
+   "b": "Kraken",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus.",
+   "cach_goi": "gọi tên Kraken, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Người cung cấp thông tin cho kẻ thù của Indus.",
+  "Kraken: Có một quá khứ và cái chết trước đó liên quan đến cuộc cách mạng."
+ ],
+ "stats": {
+  "tokens": 930,
+  "seconds": 28.6
+ }
+}

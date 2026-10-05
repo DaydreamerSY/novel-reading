@@ -1,0 +1,89 @@
+{
+ "number": 301,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Một cuộc hỗn chiến đột ngột nổ ra trong dinh thự của Heldre. Các thành viên của Indus đánh giá những người bảo vệ Frondier từ bóng tối và nhanh chóng rút lui để tạo khoảng cách với kẻ tấn công. Trong khi đó, một lượng lớn người đổ xô đến dinh thự của Heldre và giao tranh đẫm máu với Manggot. Selena, sát thủ thứ mười được đào tạo trong Manggot, giải thoát Frondier nhưng phát hiện ra anh ta không có mana.",
+ "boi_canh": "Trong dinh thự của Heldre, giữa một trận chiến đang diễn ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Renzo",
+  "Heldre",
+  "Manggot",
+  "Indus",
+  "Yeolgol"
+ ],
+ "su_kien": [
+  "Một trận chiến nổ ra trong dinh thự của Heldre.",
+  "Các thành viên Indus rút lui để tránh đối đầu trực tiếp với kẻ tấn công.",
+  "Selena giải thoát Frondier bằng một con dao găm.",
+  "Selena phát hiện Frondier không có mana.",
+  "Selena quyết định bảo vệ Frondier và tiêu diệt những kẻ địch đến gần."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena giải thoát Frondier và quan sát anh ta.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena giải thoát Frondier và quan sát anh ta.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier giao tiếp với Selena thông qua việc đọc môi.",
+   "cach_goi": "không nói chuyện trực tiếp, giao tiếp bằng ký hiệu tay"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena đọc môi của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp, giao tiếp bằng ký hiệu tay"
+  },
+  {
+   "a": "Indus",
+   "b": "Manggot",
+   "loai": "doi_thu",
+   "mo_ta": "Hai phe phái đang giao chiến.",
+   "cach_goi": "không nói chuyện trực tiếp, đối địch"
+  },
+  {
+   "a": "Yeolgol",
+   "b": "Indus",
+   "loai": "doi_thu",
+   "mo_ta": "Hai phe phái đang giao chiến.",
+   "cach_goi": "không nói chuyện trực tiếp, đối địch"
+  },
+  {
+   "a": "Selena",
+   "b": "Indus",
+   "loai": "doi_thu",
+   "mo_ta": "Selena tiêu diệt các thành viên Indus.",
+   "cach_goi": "không nói chuyện trực tiếp, tấn công"
+  },
+  {
+   "a": "Indus",
+   "b": "Selena",
+   "loai": "doi_thu",
+   "mo_ta": "Các thành viên Indus bị Selena tiêu diệt.",
+   "cach_goi": "không nói chuyện trực tiếp, bị tấn công"
+  }
+ ],
+ "danh_tinh": [
+  "Selena được gọi là 'J', sát thủ thứ mười của Manggot.",
+  "Yeolgol là đội tinh nhuệ dưới quyền Selena."
+ ],
+ "stats": {
+  "tokens": 956,
+  "seconds": 29.2
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "number": 35,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Đoàn tập sự chung của học sinh Constel bắt đầu với một nhiệm vụ theo dõi và bắt giữ quái vật trong 'Trường'. Frondier bốc được giấy chỉ định nhóm, gặp gỡ thành viên Edwin từ gia tộc Behrtio và nhận ra anh ta là một nhân vật có sức mạnh thần thánh. Sau đó, họ cùng Quinie bắt đầu nhiệm vụ, với những diễn biến ban đầu về việc tìm kiếm dấu vết quái vật.",
+ "boi_canh": "Ngày của đoàn tập sự chung tại 'Trường' của Constel.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Edwin"
+ ],
+ "su_kien": [
+  "Học sinh Constel tập trung để tham gia nhiệm vụ chung.",
+  "Frondier bốc được giấy chỉ định nhóm.",
+  "Frondier gặp Edwin và nhận ra anh ta là thành viên của gia tộc Behrtio.",
+  "Giáo viên giải thích về nhiệm vụ và giới hạn thời gian.",
+  "Nhóm B bắt đầu theo dõi dấu vết quái vật trong 'Trường'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội trong nhiệm vụ, có vẻ như Quinie khá thân thiện với Frondier.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội trong nhiệm vụ, có vẻ như Quinie khá thân thiện với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "Mới gặp nhau trong nhiệm vụ, Frondier nhận ra danh tính của Edwin.",
+   "cach_goi": "gọi tên Edwin, lịch sự"
+  },
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Mới gặp nhau trong nhiệm vụ, Edwin có vẻ hơi rụt rè.",
+   "cach_goi": "gọi tên Frondier, lịch sự"
+  },
+  {
+   "a": "Quinie",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Quinie tỏ ra thân thiện với Edwin.",
+   "cach_goi": "gọi tên Edwin, thân mật"
+  },
+  {
+   "a": "Edwin",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Edwin có vẻ rụt rè và ít nói khi giao tiếp với Quinie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Edwin von Beherti: Một nhân vật có sức mạnh thần thánh, thuộc gia tộc Behrtio, từng là một quý tộc suy tàn."
+ ],
+ "stats": {
+  "tokens": 785,
+  "seconds": 23.5
+ }
+}

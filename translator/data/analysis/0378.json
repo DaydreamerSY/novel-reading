@@ -1,0 +1,110 @@
+{
+ "number": 378,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe giải thích từ phòng ban, Robald thông báo về bài kiểm tra kỹ năng cho học viên mới của Constel. Aster bày tỏ lo ngại về việc Ellen có động cơ ngầm. Frondier bị các bạn cùng lớp nghi ngờ đang giả yếu, Aten cảnh báo về khả năng kiểm soát sức mạnh của cậu. Sybil nhận thấy Selena cũng bị bỏ qua và trêu chọc cô về một cuộc hẹn với Frondier, khiến Selena bối rối trả lời.",
+ "boi_canh": "Trong phòng ban của Constel, vào thời điểm thông báo về bài kiểm tra kỹ năng cho học viên mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Ellen",
+  "Jane",
+  "Robald",
+  "Sybil Forte"
+ ],
+ "su_kien": [
+  "Thông báo về bài kiểm tra kỹ năng cho học viên mới.",
+  "Aster nghi ngờ Ellen có động cơ ngầm.",
+  "Frondier bị các bạn cùng lớp nghi ngờ giả yếu.",
+  "Aten cảnh báo Frondier về việc kiểm soát sức mạnh.",
+  "Sybil trêu chọc Selena về một cuộc hẹn với Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Robald",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, có vẻ như Robald đã nhận ra sự giả tạo của Frondier.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robald",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Frondier đang cố gắng che giấu sức mạnh thật của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster nghi ngờ và trêu chọc Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier đang cố gắng che giấu sức mạnh thật của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Sếp, Aten quan tâm đến việc Frondier kiểm soát sức mạnh của mình.",
+   "cach_goi": "gọi tên Frondier, trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Sếp, Frondier đang cố gắng che giấu sức mạnh thật của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Sybil trêu chọc Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Selena bối rối trước câu hỏi của Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Sybil quan sát Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người bảo vệ của Frondier, mối quan hệ chưa rõ ràng.",
+   "cach_goi": "gọi tên Frondier-nim, trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được Selena bảo vệ, mối quan hệ chưa rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1186,
+  "seconds": 35.4
+ }
+}

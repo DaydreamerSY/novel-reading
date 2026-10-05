@@ -1,0 +1,128 @@
+{
+ "number": 219,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Quinie thảo luận về một món đồ phép thuật có thể thay đổi khuôn mặt thành người khác dựa trên trí nhớ của người dùng. Họ cũng bàn về cách Frondier đã lừa dối Alex bằng cách giả vờ đồng minh với Elysia, khiến Alex nghi ngờ mình là bản sao. Sau đó, Frondier tập luyện kiếm đạo với Pascal và phát hiện ra những ký ức mơ hồ liên quan đến việc sử dụng aura, cùng với sự thật rằng anh ta có thể đã sử dụng 'Falling Edge' mà không hề biết.",
+ "boi_canh": "Trong phòng học của trường, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Quinie",
+  "Renzo",
+  "Elysia",
+  "Malia",
+  "Pascal",
+  "Kraken",
+  "Alex",
+  "Slevb",
+  "Neil",
+  "Neil Jack",
+  "Student Frondier"
+ ],
+ "su_kien": [
+  "Quinie đề cập đến món đồ phép thuật thay đổi khuôn mặt.",
+  "Malia giải thích cách Frondier đã lừa Alex bằng một chiến lược giả vờ.",
+  "Frondier và Pascal tập luyện kiếm đạo khắc nghiệt.",
+  "Frondier trải qua những ký ức mơ hồ liên quan đến việc sử dụng aura.",
+  "Frondier nhớ ra rằng mana và aura có thể là cùng một chất."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier được nhắc đến trong câu chuyện của mẹ anh.",
+   "cach_goi": "gọi tên Philly, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier được nhắc đến trong câu chuyện.",
+   "cach_goi": "gọi tên Azier, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Trò chuyện thân thiết về một món đồ phép thuật.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đã từng lừa dối và thao túng.",
+   "cach_goi": "gọi tên Renzo, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "doi_thu",
+   "mo_ta": "Đã từng lừa dối và thao túng.",
+   "cach_goi": "gọi tên Elysia, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, giải thích về hành động trước đây của anh.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "thay_tro",
+   "mo_ta": "Huấn luyện kiếm đạo khắc nghiệt.",
+   "cach_goi": "gọi tên Pascal, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kraken",
+   "loai": "nguoi_la",
+   "mo_ta": "Đứng cạnh Frondier, phát ra tiếng ngáy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Alex",
+   "loai": "doi_thu",
+   "mo_ta": "Đã từng lừa dối và thao túng.",
+   "cach_goi": "gọi tên Alex, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Slevb",
+   "loai": "ke_thu",
+   "mo_ta": "Một kẻ thù đã chết, ký ức của Frondier liên quan đến aura.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Neil Jack",
+   "loai": "khac",
+   "mo_ta": "Sở hữu thanh kiếm mà Frondier đang sử dụng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Neil",
+   "loai": "nguoi_la",
+   "mo_ta": "Một người khác, không rõ mối quan hệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Student Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Một học sinh khác, đang tập luyện kiếm đạo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1336,
+  "seconds": 40.0
+ }
+}

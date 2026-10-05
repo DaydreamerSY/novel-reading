@@ -1,0 +1,79 @@
+{
+ "number": 95,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Aten sử dụng khả năng tiên tri để cứu Frondier khỏi một cuộc tấn công bất ngờ của Renzo, cả hai đều trải qua những cảm xúc hỗn loạn và sợ hãi. Một người đàn ông tự xưng là thám tử Robert đến điều tra vụ việc, nhưng Frondier nhanh chóng nhận ra anh ta là một hiệp sĩ dưới quyền Hoàng hậu Philly. Cuộc đối đầu giữa họ dẫn đến việc tiết lộ thông tin về một đồng phạm bí ẩn trong Constel và gợi ý rằng kẻ chủ mưu có thể là một thành viên hoàng gia.",
+ "boi_canh": "Trong phòng bệnh viện, sau sự kiện hồi phục của Aten.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Renzo",
+  "Robert"
+ ],
+ "su_kien": [
+  "Aten sử dụng khả năng tiên tri để cứu Frondier.",
+  "Frondier nghi ngờ Robert là một hiệp sĩ của Philly.",
+  "Frondier vạch trần sự giả mạo của Robert.",
+  "Robert tiết lộ anh ta đến theo ý mình, không phải lệnh của Philly.",
+  "Frondier suy luận về sự tồn tại của đồng phạm trong Constel và một kẻ chủ mưu tiềm ẩn là thành viên hoàng gia."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Người được Frondier gọi bằng tên thân mật, thể hiện sự thoải mái.",
+   "cach_goi": "gọi 'Philly', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Mối quan hệ bạn bè thân thiết, vừa trải qua tình huống nguy hiểm.",
+   "cach_goi": "gọi tên Aten, không rõ"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Mối quan hệ bạn bè thân thiết, vừa trải qua tình huống nguy hiểm.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robert",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối đầu trực tiếp, nghi ngờ và vạch trần sự giả mạo.",
+   "cach_goi": "gọi tên Robert, lạnh lùng"
+  },
+  {
+   "a": "Robert",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối đầu trực tiếp, nghi ngờ và vạch trần sự giả mạo.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Robert",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Hiệp sĩ phục vụ Philly, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Robert",
+   "loai": "cap_tren",
+   "mo_ta": "Hiệp sĩ phục vụ Philly, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Robert: Hiệp sĩ dưới quyền Hoàng hậu Philly, giả dạng thám tử."
+ ],
+ "stats": {
+  "tokens": 893,
+  "seconds": 26.8
+ }
+}

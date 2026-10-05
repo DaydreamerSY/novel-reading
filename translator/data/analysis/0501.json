@@ -1,0 +1,78 @@
+{
+ "number": 501,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi sự kiện Mana Injection kết thúc, Eden Hamelot tận hưởng những giây phút yên bình tại trụ sở của Phenomenon. Tuy nhiên, một tin nhắn từ Frondier đã phá vỡ sự tĩnh lặng đó, yêu cầu tất cả lực lượng của Phenomenon và đề nghị một thỏa thuận nguy hiểm với Nữ Hoàng Philly. Frondier đến Cung điện Hoàng gia cùng Aten, mang theo một Dragonheart giả do chính ông và Mei tạo ra, và đưa ra lời đề nghị đáng lo ngại: xin tất cả quân đội hoàng cung để đối phó với mối đe dọa Manggot sắp tới.",
+ "boi_canh": "Trong văn phòng riêng của Eden Hamelot tại trụ sở Phenomenon.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Eden",
+  "Mei",
+  "Bartello",
+  "Eden Hamelot",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Eden tận hưởng sự yên bình sau sự kiện Mana Injection.",
+  "Frondier gửi tin nhắn yêu cầu Phenomenon điều động lực lượng và đề nghị một thỏa thuận.",
+  "Frondier đến Cung điện Hoàng gia cùng Aten.",
+  "Frondier đưa ra Dragonheart giả cho Philly.",
+  "Frondier đề nghị giao tất cả quân đội hoàng cung để đối phó với Manggot."
+ ],
+ "quan_he": [
+  {
+   "a": "Eden",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Eden nghi ngờ và sợ hãi Frondier, tin rằng Frondier nắm giữ thông tin quan trọng.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier coi Eden như một cấp dưới và lợi dụng ông để đạt được mục đích.",
+   "cach_goi": "gọi tên Eden, lạnh lùng"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aten là bạn đồng hành của Frondier và quan tâm đến ông.",
+   "cach_goi": "gọi tên Frondier, thân thiện"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Aten có mối quan hệ bạn bè.",
+   "cach_goi": "gọi tên Aten, thân thiện"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly là Nữ Hoàng và có quyền lực hơn Frondier, nhưng cũng tò mò về hành động của ông.",
+   "cach_goi": "gọi tên Frondier, tôn trọng nhưng nghi ngờ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier phải tỏ ra tôn trọng Philly, nhưng lại có những mục đích riêng.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot (tên đầy đủ của Eden)",
+  "Bartello Tert (quốc vương)",
+  "Philly Terst (hoàng hậu)",
+  "Aten Terst (tam công chúa)"
+ ],
+ "stats": {
+  "tokens": 893,
+  "seconds": 26.9
+ }
+}

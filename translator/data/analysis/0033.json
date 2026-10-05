@@ -1,0 +1,89 @@
+{
+ "number": 33,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào mối quan hệ phức tạp giữa Frondier và Quinie, cũng như những suy đoán của Elodie về Frondier. Frondier nắm giữ thông tin mà Quinie muốn che giấu, nhưng anh ta không lợi dụng nó để tống tiền cô. Trong khi đó, Elodie lo lắng về hành động gần đây của Frondier và bắt đầu nghi ngờ rằng anh ta có thể sở hữu sức mạnh thần thánh.",
+ "boi_canh": "Bên trong một chiếc xe hơi sang trọng trên đường đến trang viên Roach.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Quinie",
+  "Enfer",
+  "Ludwig",
+  "Father (Ortel)",
+  "Roach"
+ ],
+ "su_kien": [
+  "Frondier nắm giữ thông tin mà Quinie muốn giấu kín.",
+  "Ludwig nhận ra sự lo lắng của Quinie và quan tâm đến cô.",
+  "Elodie suy đoán về khả năng Frondier có sức mạnh thần thánh.",
+  "Enfer tiết lộ rằng Frondier phải lọt vào top 10 của năm tại Constel để tránh bị đuổi học.",
+  "Frondier dường như chấp nhận việc mình sẽ bị đuổi học một cách chủ động."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người có một mối quan hệ phức tạp với những bí mật và trao đổi thông tin.",
+   "cach_goi": "gọi tên Quinie, lạnh lùng"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người có một mối quan hệ phức tạp với những bí mật và trao đổi thông tin.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Ludwig là một người bạn quan tâm đến Quinie.",
+   "cach_goi": "gọi tên Quinie, quan tâm"
+  },
+  {
+   "a": "Quinie",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "Ludwig là một người bạn quan tâm đến Quinie.",
+   "cach_goi": "gọi tên Ludwig, lễ phép"
+  },
+  {
+   "a": "Ortel",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Elodie, mối quan hệ gia đình.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Ortel",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Elodie, mối quan hệ gia đình.",
+   "cach_goi": "gọi tên Ortel, thân mật"
+  },
+  {
+   "a": "Enfer",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "Cha của Frondier, cấp trên của Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Cha của Frondier, cấp trên của Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mistilteinn: Có vẻ như là một vật thể hoặc khái niệm quan trọng mà Frondier biết rõ hơn những người khác."
+ ],
+ "stats": {
+  "tokens": 964,
+  "seconds": 28.9
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "number": 410,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Azier cùng nhau lái xe đến trụ sở của Phenomenon, một tổ chức chuyên nghiệp. Cuộc trò chuyện giữa họ tiết lộ những thông tin đáng lo ngại về vụ án Mana Injection, bao gồm sự liên quan có thể có của quái vật và con người trong việc sử dụng nạn nhân để thử nghiệm. Frondier dần hiểu ra mức độ nghiêm trọng của tình hình và mối nguy hiểm tiềm ẩn đằng sau những hành động này.",
+ "boi_canh": "Trong xe hơi, trên đường đến trụ sở của Phenomenon.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Enfer",
+  "Alex",
+  "Jacob"
+ ],
+ "su_kien": [
+  "Frondier và Azier cùng lái xe đến trụ sở của Phenomenon.",
+  "Azier kể về người lái xe cũ đã qua đời trong một nhiệm vụ.",
+  "Cuộc trò chuyện tiết lộ sự liên quan có thể có của quái vật và con người trong vụ án Mana Injection.",
+  "Jacob, nạn nhân bị Frondier vô tình gây bất tỉnh, được nhắc đến như một ví dụ về tác động của việc tiêm Mana.",
+  "Azier giải thích cách thức hoạt động của các tổ chức chuyên nghiệp và vai trò của chúng trong việc bảo vệ con người."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "ban_be",
+   "mo_ta": "Anh em ruột thịt, Frondier tò mò và muốn hiểu rõ hơn về những gì Azier biết.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai quan tâm và chia sẻ thông tin với Frondier để giúp cậu hiểu rõ tình hình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò hỏi thăm người thầy về tình hình và những thông tin liên quan.",
+   "cach_goi": "gọi tên Azier, lễ phép"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy giải thích và cung cấp thông tin cho học trò.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Azier",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha con, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Alex",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jacob",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Người lái xe cũ của Azier đã qua đời trong một nhiệm vụ, không rõ danh tính cụ thể."
+ ],
+ "stats": {
+  "tokens": 980,
+  "seconds": 29.2
+ }
+}

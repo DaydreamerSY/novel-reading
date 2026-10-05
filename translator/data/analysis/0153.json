@@ -1,0 +1,83 @@
+{
+ "number": 153,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Marlia thay đổi cách xưng hô với Frondier từ 'người thân' thành 'ngươi', cuộc tranh luận nảy lửa về kế hoạch nghỉ hè của anh đã bùng lên. Frondier tuyên bố sẽ đến Tyburn, một vùng đất nguy hiểm nơi thường xuyên bị quấy nhiễu bởi quái vật, bất chấp sự phản đối mạnh mẽ từ cha anh, Enfer. Quyết định này của Frondier nhằm đối mặt với số phận tất yếu của nhân loại và tìm kiếm những bảo vật quý giá ở Tyburn.",
+ "boi_canh": "Bữa tối gia đình tại dinh thự Roach, thời điểm Frondier công bố kế hoạch nghỉ hè.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Enfer",
+  "Malia",
+  "Ludwig",
+  "Frondier de Roach",
+  "Ludwig von Urfa",
+  "Marlia"
+ ],
+ "su_kien": [
+  "Marlia thay đổi cách xưng hô với Frondier.",
+  "Frondier tuyên bố sẽ đến Tyburn trong kỳ nghỉ hè.",
+  "Enfer phản đối mạnh mẽ kế hoạch của Frondier.",
+  "Malia thể hiện sự lo lắng và thương cảm cho Frondier.",
+  "Frondier khẳng định trách nhiệm của mình với gia tộc Roach."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Marlia",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ con, Marlia lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Marlia, không rõ cảm xúc"
+  },
+  {
+   "a": "Marlia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ con, Marlia lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Frondier, quan tâm"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "cha con, Enfer nghiêm khắc với Frondier.",
+   "cach_goi": "gọi 'cha', không rõ cảm xúc"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "cha con, Enfer nghiêm khắc với Frondier.",
+   "cach_goi": "gọi tên Frondier, nghiêm khắc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "ban_be",
+   "mo_ta": "anh em, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "vợ chồng, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marlia",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "vợ chồng, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)",
+  "Ludwig von Urfa (tên đầy đủ của Ludwig)"
+ ],
+ "stats": {
+  "tokens": 902,
+  "seconds": 28.0
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "number": 6,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đang luyện tập kỹ năng ném dao trong phòng huấn luyện, gặp khó khăn vì thiếu tài năng chiến đấu. Anh ta nhận được một skill mới 'Throwing' (Ném) ở cấp độ thấp nhất. Sau đó, Frondier chờ đợi Aster Evans, nhân vật chính của game 'Etius', để xác nhận điều gì đó quan trọng và nhận ra rằng trò chơi sẽ khó khăn hơn dự kiến.",
+ "boi_canh": "Phòng huấn luyện vào buổi tối, dưới ánh trăng non.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Aster Evans"
+ ],
+ "su_kien": [
+  "Frondier luyện tập kỹ năng ném dao và nhận được skill 'Throwing'.",
+  "Frondier chờ đợi Aster tại phòng huấn luyện.",
+  "Aster xuất hiện, chào hỏi Frondier bằng một cái gật đầu nhẹ.",
+  "Aster đi đến ngã rẽ dẫn đến thư viện hoặc ký túc xá.",
+  "Frondier xác nhận điều gì đó về dáng đi của Aster và rơi vào tuyệt vọng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster Evans",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier chờ đợi Aster để quan sát anh ta; Aster không nhận ra Frondier.",
+   "cach_goi": "gọi tên Aster, không rõ tone"
+  },
+  {
+   "a": "Aster Evans",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Aster chào hỏi Frondier bằng một cái gật đầu; anh ta không nhận ra Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ tone"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster."
+ ],
+ "stats": {
+  "tokens": 471,
+  "seconds": 14.2
+ }
+}

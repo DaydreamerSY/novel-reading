@@ -1,0 +1,80 @@
+{
+ "number": 514,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier trình bày bản đồ ba chiều về Đế quốc cho các lãnh đạo quyền lực nhất, tiết lộ vị trí của người Manggot và giải thích lý do họ sắp tấn công. Ông cũng chỉ ra rằng người Manggot yếu hơn Đế quốc, nhưng vẫn cảnh báo về những khó khăn phía trước. Osprey xác nhận việc nhìn thấy người Manggot từ bên ngoài thế giới, và Frondier đổ lỗi cho hành động của Osprey là nguyên nhân khiến người Manggot lộ vị trí.",
+ "boi_canh": "Trong phòng họp của Đế quốc, các lãnh đạo quyền lực nhất đang tham dự một cuộc họp quan trọng.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Renzo",
+  "Osprey",
+  "Ludwig",
+  "Sanders"
+ ],
+ "su_kien": [
+  "Frondier trình bày bản đồ ba chiều về Đế quốc.",
+  "Osprey xác nhận đã nhìn thấy người Manggot từ bên ngoài thế giới.",
+  "Frondier tiết lộ vị trí của người Manggot.",
+  "Frondier chỉ ra rằng người Manggot yếu hơn Đế quốc.",
+  "Frondier giải thích lý do người Manggot vẫn quyết định tấn công."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier trình bày thông tin cho Hoàng hậu, thể hiện sự tôn trọng.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu xác nhận thông tin của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier giới thiệu Osprey lên sân khấu.",
+   "cach_goi": "gọi tên Osprey, thân mật"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Osprey trêu chọc Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp, Ludwig bày tỏ sự thất vọng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sanders",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp, Sanders có vẻ lo lắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp, Renzo đang ở một địa điểm được đề cập.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hitchcock (công ty chế tạo ma thuật)"
+ ],
+ "stats": {
+  "tokens": 852,
+  "seconds": 25.3
+ }
+}

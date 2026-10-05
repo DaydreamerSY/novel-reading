@@ -1,0 +1,111 @@
+{
+ "number": 143,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu bằng việc Frondier và Elodie thảo luận về bài kiểm tra cuối kỳ, mô phỏng một nhiệm vụ thực tế. Khi chuông báo động vang lên, cả hai nhanh chóng xác định vị trí của giáo viên Jane. Sau đó, họ gặp Edwin, người đang đóng vai nạn nhân trong một sự cố liên quan đến golem. Cuối cùng, Frondier và Edwin bị tấn công bởi những con golem được cải tiến do Binkis điều khiển, hé lộ một âm mưu bất ngờ.",
+ "boi_canh": "Trong khu vực huấn luyện mô phỏng thành phố, trong buổi kiểm tra cuối kỳ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Azier",
+  "Quinie",
+  "Jane",
+  "Edwin",
+  "Binkis",
+  "Edwin von Behetorio"
+ ],
+ "su_kien": [
+  "Frondier và Elodie thảo luận về bài kiểm tra cuối kỳ.",
+  "Chuông báo động vang lên đồng loạt, gây hoang mang.",
+  "Elodie sử dụng phép thuật để xác định vị trí của Jane.",
+  "Gặp Edwin, người đang đóng vai nạn nhân trong sự cố golem.",
+  "Những con golem bất ngờ xuất hiện và tấn công Frondier và Edwin."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, hỗ trợ lẫn nhau trong bài kiểm tra.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, hỗ trợ lẫn nhau trong bài kiểm tra.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tham gia bài kiểm tra.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tham gia bài kiểm tra.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tham gia bài kiểm tra.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tham gia bài kiểm tra.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ trong tình huống bất ngờ, có vẻ như Edwin đã trải qua nhiều điều.",
+   "cach_goi": "gọi tên Edwin, lễ phép"
+  },
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ trong tình huống bất ngờ, có vẻ như Edwin đã trải qua nhiều điều.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tham gia bài kiểm tra.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tham gia bài kiểm tra.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Edwin",
+   "b": "Binkis",
+   "loai": "khac",
+   "mo_ta": "Người tạo ra golem, có vẻ như Edwin đã trải qua nhiều điều.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Edwin von Behetorio (tên đầy đủ của Edwin)"
+ ],
+ "stats": {
+  "tokens": 1186,
+  "seconds": 39.4
+ }
+}

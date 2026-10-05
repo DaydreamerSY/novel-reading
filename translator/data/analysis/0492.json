@@ -1,0 +1,71 @@
+{
+ "number": 492,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier giới thiệu Mei, một Metamorph có vẻ ngoài kết hợp nét của anh và Elodie, cho Elodie. Sau khi nghe giải thích chi tiết về nguồn gốc và khả năng của Mei, Elodie tỏ ra lo lắng nhưng dần chấp nhận. Cuối cùng, Mei tuyên bố sẽ không sao chép ngoại hình nữa và bày tỏ mong muốn đến một nơi đặc biệt với Frondier, khiến Elodie vô cùng hoảng sợ.",
+ "boi_canh": "Trong phòng, lúc Frondier đang giới thiệu về Mei cho Elodie.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Mei",
+  "Metamorph"
+ ],
+ "su_kien": [
+  "Frondier giới thiệu Mei và giải thích nguồn gốc của cô cho Elodie.",
+  "Mei tuyên bố sẽ không sao chép ngoại hình nữa.",
+  "Elodie tỏ ra lo lắng khi biết ý nghĩa tên 'Mei'.",
+  "Mei bày tỏ mong muốn được đến một nơi đặc biệt với Frondier.",
+  "Elodie phản ứng thái quá, sợ hãi trước lời đề nghị của Mei."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân lâu năm, Frondier thường xuyên giải thích mọi thứ cho Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân lâu năm, Elodie có vẻ hơi lo lắng khi nói chuyện với Frondier.",
+   "cach_goi": "gọi tên Fron, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mới, Frondier đang cố gắng giải thích mọi thứ cho Mei.",
+   "cach_goi": "gọi tên Mei, không rõ cảm xúc"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mới, Mei có vẻ quan tâm đến những gì Frondier nói.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Elodie",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mới, Elodie tỏ ra lo lắng và bối rối khi nhìn Mei.",
+   "cach_goi": "gọi tên Mei, không rõ cảm xúc"
+  },
+  {
+   "a": "Mei",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mới, Mei có vẻ không hiểu những gì Elodie đang nói.",
+   "cach_goi": "gọi tên Elodie, không rõ cảm xúc"
+  }
+ ],
+ "danh_tinh": [
+  "Mei: Tên được Frondier đặt cho Metamorph, có ý nghĩa 'tháng Năm'."
+ ],
+ "stats": {
+  "tokens": 807,
+  "seconds": 24.1
+ }
+}

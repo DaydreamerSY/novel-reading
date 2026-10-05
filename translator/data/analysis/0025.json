@@ -1,0 +1,61 @@
+{
+ "number": 25,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Sybil tiếp tục hành trình trong ngục tối, Frondier chủ động kích hoạt bẫy để Sybil làm quen với việc tránh né. Anh ta cứu Sybil khỏi một tình huống nguy hiểm khi cô suýt rơi xuống vực sâu, khiến cô hoàn toàn tin tưởng anh. Sau đó, họ chạm trán với một đàn Ratmen và Sybil chiến đấu rất hiệu quả.",
+ "boi_canh": "Trong một hành lang ngục tối đầy bẫy, vào buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil"
+ ],
+ "su_kien": [
+  "Frondier chủ động kích hoạt và xử lý các bẫy để Sybil làm quen.",
+  "Sybil suýt rơi xuống vực sâu, được Frondier cứu.",
+  "Sybil tin tưởng Frondier hơn sau khi anh ta cứu cô.",
+  "Họ bước vào một không gian rộng lớn hơn trong ngục tối.",
+  "Frondier và Sybil chạm trán với một đàn Ratmen."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier cố tình tạo ra nguy hiểm để Sybil làm quen với việc tránh né bẫy.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil ban đầu nghi ngờ Frondier nhưng dần tin tưởng anh sau khi được cứu.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Cả hai đang chạy đua đến 'sanctuary'.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Sybil tin tưởng và bám víu vào Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Sybil có vẻ quan tâm đến Aster, nhưng Frondier mong muốn điều này sẽ thay đổi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 584,
+  "seconds": 17.5
+ }
+}

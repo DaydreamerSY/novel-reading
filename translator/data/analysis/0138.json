@@ -1,0 +1,81 @@
+{
+ "number": 138,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đến thành phố Arkre để tham gia đấu giá, Elodie tận hưởng sự tự do hiếm hoi bên ngoài Constel. Cô phát hiện ra Frondier cũng có mặt tại đó và nghi ngờ anh trai Revet đang lo lắng về việc này. Cuộc đấu giá bắt đầu với những món đồ thông thường, nhưng Elodie và Revet nhận thấy Frondier chỉ chờ đợi một vật phẩm cụ thể: Viper Steel.",
+ "boi_canh": "Trong sảnh đấu giá ở thành phố Arkre, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Enfer",
+  "Revet",
+  "Gilles Brosau"
+ ],
+ "su_kien": [
+  "Elodie và Revet đến sảnh đấu giá ở Arkre.",
+  "Frondier xuất hiện tại cuộc đấu giá, khiến Revet lo lắng.",
+  "Cuộc đấu giá bắt đầu với những món đồ thông thường.",
+  "Revet tiết lộ Frondier có thể đang chờ đợi 'Viper Steel'.",
+  "Một món đồ kỳ lạ được giới thiệu: 'cursed cloth'."
+ ],
+ "quan_he": [
+  {
+   "a": "Elodie",
+   "b": "Revet",
+   "loai": "gia_dinh",
+   "mo_ta": "Chị em ruột thịt, Elodie trấn an và đôi khi trêu chọc Revet.",
+   "cach_goi": "gọi tên Revet, thân mật"
+  },
+  {
+   "a": "Revet",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Elodie, lo lắng và có phần bực bội.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không giao tiếp trực tiếp, Elodie quan sát Frondier với sự tò mò.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không giao tiếp trực tiếp, Frondier có vẻ thờ ơ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Revet",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Có vẻ như Revet có sự cạnh tranh hoặc thù địch với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Revet",
+   "loai": "doi_thu",
+   "mo_ta": "Có vẻ như Revet có sự cạnh tranh hoặc thù địch với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gilles Brosau",
+   "b": "Khán giả",
+   "loai": "dong_minh",
+   "mo_ta": "Người điều hành buổi đấu giá, chào đón khán giả.",
+   "cach_goi": "gọi 'Ladies and gentlemen', trang trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de 'Inies' Rishae (sửa sai tên)",
+  "Revet de Rishae (tên đầy đủ)"
+ ],
+ "stats": {
+  "tokens": 881,
+  "seconds": 27.2
+ }
+}

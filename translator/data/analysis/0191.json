@@ -1,0 +1,67 @@
+{
+ "number": 191,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tỉnh dậy, Frondier phát hiện ra mình bị bịt miệng bằng một miếng vải Penelope. Anh ta kích hoạt khả năng 'Restoration' mới có được và sau đó trò chuyện với Selena, đưa ra hình phạt cho cô: báo cáo điều độ về anh ta cho 'Manggot'. Cuộc đối thoại hé lộ những suy nghĩ của Frondier về Selena và mối quan hệ phức tạp giữa anh ta và 'Manggot'.",
+ "boi_canh": "Buổi sáng tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Philly",
+  "Aten",
+  "Penelope"
+ ],
+ "su_kien": [
+  "Frondier tỉnh dậy và phát hiện bị bịt miệng bằng vải Penelope.",
+  "Anh ta kích hoạt khả năng 'Restoration' mới có được.",
+  "Selena ngồi tư thế seiza và tỏ ra khó chịu.",
+  "Frondier trò chuyện với Selena và đưa ra hình phạt cho cô.",
+  "Selena chấp nhận hình phạt."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier là người điều khiển, Selena là đối tượng bị kiểm soát.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena là người bị điều khiển, Frondier là người kiểm soát.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Penelope",
+   "loai": "khac",
+   "mo_ta": "Vải của Penelope bịt miệng Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "khac",
+   "mo_ta": "Frondier suy đoán Philly có thể đọc được biểu cảm của Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "khac",
+   "mo_ta": "Frondier so sánh khả năng 'Restoration' của mình với 'Reversion' của Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope: Tên đầy đủ là Penelope Terst.",
+  "Philly: Tên đầy đủ là Philly Terst, hoàng hậu của đế quốc.",
+  "Aten: Tên đầy đủ là Aten Terst, tam công chúa."
+ ],
+ "stats": {
+  "tokens": 715,
+  "seconds": 21.5
+ }
+}

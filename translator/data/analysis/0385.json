@@ -1,0 +1,76 @@
+{
+ "number": 385,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này giới thiệu bài kiểm tra năng lực đầu tiên của năm dành cho sinh viên năm nhất tại Constel. Bài kiểm tra được tổ chức bởi Hội học sinh chủ động, do Ellen Evans dẫn dắt. Bài kiểm tra bao gồm nhiều giai đoạn, bắt đầu bằng một thử thách thể chất và trí tuệ đơn giản nhưng đầy bất ngờ, với thiết kế có vẻ vô hại nhưng thực tế rất khó khăn. Dier Eiger đã vượt qua thành công giai đoạn đầu tiên.",
+ "boi_canh": "Sân Field của Constel, trong buổi kiểm tra năng lực năm nhất.",
+ "nhan_vat": [
+  "Frondier",
+  "Ellen",
+  "Dier",
+  "Lunia",
+  "Ellen Evans",
+  "Dier Eiger",
+  "Lunia Fricell"
+ ],
+ "su_kien": [
+  "Bài kiểm tra năng lực đầu tiên của sinh viên năm nhất được tổ chức tại Constel's Field.",
+  "Ellen Evans, Chủ tịch Hội học sinh, chủ trì bài kiểm tra.",
+  "Sinh viên năm nhất bày tỏ sự ngạc nhiên và ngưỡng mộ đối với Ellen.",
+  "Giai đoạn đầu tiên bao gồm các chướng ngại vật thể chất và giải quyết vấn đề bằng Mana.",
+  "Dier Eiger vượt qua thành công giai đoạn đầu tiên."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Người kể chuyện quan sát và mô tả hành động của người lớn.",
+   "cach_goi": "gọi 'Senior Ellen', lễ phép"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người chủ trì bài kiểm tra, phát biểu trước sinh viên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Ellen",
+   "loai": "khac",
+   "mo_ta": "Một sinh viên năm nhất, quan sát Ellen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Ellen",
+   "loai": "khac",
+   "mo_ta": "Một sinh viên năm nhất, quan sát Ellen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Một sinh viên năm nhất, quan sát Ellen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Người kể chuyện quan sát Dier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ellen = Ellen Evans",
+  "Lunia = Lunia Fricell",
+  "Dier = Dier Eiger"
+ ],
+ "stats": {
+  "tokens": 754,
+  "seconds": 22.7
+ }
+}

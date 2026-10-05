@@ -1,0 +1,82 @@
+{
+ "number": 299,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier vạch trần kế hoạch của Indus nhằm sử dụng ông ta làm mồi nhử cha mình, Enfer, để ra tay giết Hoàng Đế. Ông ta tiết lộ rằng những người trong Indus đang lên kế hoạch giả danh cái chết của ông ta để kích động sự phẫn nộ của Enfer. Kraken tấn công Frondier nhưng bị Selena chặn lại, và Hagley cùng nhiều người khác xuất hiện từ bóng tối, dẫn đến một cuộc đột kích bất ngờ.",
+ "boi_canh": "Trong phòng họp bí mật, tại thời điểm những thành viên Indus đang thảo luận về kế hoạch ám sát Hoàng Đế.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Enfer",
+  "Hagley",
+  "Kraken",
+  "Heldre",
+  "Thompson"
+ ],
+ "su_kien": [
+  "Frondier vạch trần kế hoạch sử dụng ông ta làm mồi nhử Enfer.",
+  "Kraken tấn công Frondier bằng xúc tu.",
+  "Selena chặn đứng đòn tấn công của Kraken.",
+  "Hagley và nhiều người khác bất ngờ xuất hiện từ bóng tối.",
+  "Hagley ra lệnh cho 'Yeolgot'."
+ ],
+ "quan_he": [
+  {
+   "a": "Thompson",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Thompson nghi ngờ và chất vấn Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thompson",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier vạch trần kế hoạch của Thompson.",
+   "cach_goi": "gọi tên Thompson, lạnh lùng"
+  },
+  {
+   "a": "Kraken",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Kraken tấn công Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena bảo vệ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hagley quan sát Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Heldre",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Heldre quan sát tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thompson",
+   "b": "Kraken",
+   "loai": "doi_thu",
+   "mo_ta": "Thompson ra lệnh cho Kraken tấn công Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Selena: Có vẻ là người bảo vệ bí mật của Frondier.",
+  "Hagley: Thành viên cốt cán của Manggot, từng tiếp cận Frondier trước đó."
+ ],
+ "stats": {
+  "tokens": 853,
+  "seconds": 26.6
+ }
+}

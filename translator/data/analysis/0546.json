@@ -1,0 +1,79 @@
+{
+ "number": 546,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier phải đối mặt với sức mạnh của 'Sự Lười Biếng' từ Belphegor, gây ảnh hưởng lớn đến tinh thần và cơ thể anh. Anh kiên nhẫn phân tích tình hình, nhận ra Belphegor đang chờ đợi thời gian trôi qua để Manggot chiến thắng. Trong khi đó, Mei tuân theo chỉ dẫn của Frondier, di chuyển quanh rào cản và đặt câu hỏi về chiến lược kỳ lạ mà anh đã vạch ra.",
+ "boi_canh": "Bên trong một khu vực bị ảnh hưởng bởi sức mạnh của Belphegor, thời điểm hiện tại là lúc cuộc đối đầu giữa Frondier và Belphegor đang diễn ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Enfer",
+  "Mei",
+  "Frondier de Roach",
+  "Adela",
+  "Belphegor",
+  "Thanatos",
+  "Manggot",
+  "Yeranhes",
+  "Tyburn",
+  "The Gods"
+ ],
+ "su_kien": [
+  "Belphegor tấn công Frondier bằng sức mạnh 'Sự Lười Biếng'.",
+  "Frondier phân tích chiến thuật của Belphegor và nhận ra anh đang chờ đợi thời gian trôi qua.",
+  "Mei di chuyển quanh rào cản theo chỉ dẫn của Frondier.",
+  "Mei đặt câu hỏi về chiến lược kỳ lạ mà Frondier đã vạch ra.",
+  "Adela xác nhận điều gì đó liên quan đến kế hoạch của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang đối đầu trong một trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy hướng dẫn người học việc.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người học việc đặt câu hỏi cho người thầy.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thanatos",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, có vẻ như đã từng đối đầu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Manggot",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, đang chờ đợi chiến thắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Adela",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Xác nhận điều gì đó liên quan đến kế hoạch của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của nhân vật chính)"
+ ],
+ "stats": {
+  "tokens": 849,
+  "seconds": 26.5
+ }
+}

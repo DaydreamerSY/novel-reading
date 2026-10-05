@@ -1,0 +1,89 @@
+{
+ "number": 106,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier hẹn Aten để thảo luận về chiến thuật trong trận chiến sắp tới. Trong lúc chờ đợi, anh quan sát Aten và nhận thấy sự thay đổi trong vẻ ngoài của cô. Khi họ gặp Aster, Frondier nhận ra mình đã cố tình tạo ra cuộc gặp gỡ này để cải thiện mối quan hệ giữa Aten và Aster. Một nhiệm vụ bất ngờ xuất hiện liên quan đến Robald đang tìm cách trốn thoát khỏi Constel.",
+ "boi_canh": "Trước tòa nhà Constel vào buổi trưa.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly",
+  "Aten",
+  "Robald",
+  "Aster Evans",
+  "Robald Lieff"
+ ],
+ "su_kien": [
+  "Frondier hẹn Aten để thảo luận về chiến thuật.",
+  "Aten thay đổi phong cách ăn mặc, mặc áo blouse trắng và quần jeans.",
+  "Frondier cố tình tạo ra cuộc gặp gỡ giữa Aten và Aster.",
+  "Một nhiệm vụ bất ngờ xuất hiện liên quan đến Robald.",
+  "Robald nhảy từ cửa sổ tầng 4 xuống đất."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier muốn cải thiện mối quan hệ giữa Aten và Aster.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aten tò mò về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier cố tình tạo ra cuộc gặp gỡ giữa Aten và Aster.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Aster nghi ngờ Frondier đã sắp đặt cuộc gặp gỡ.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Aten tỏ ra cảnh giác khi gặp Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Aten tỏ ra cảnh giác khi gặp Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Robald",
+   "b": "Aster",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, cùng lớp học.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robald",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, Frondier biết về Robald.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)",
+  "Robald Lieff (tên đầy đủ của Robald)"
+ ],
+ "stats": {
+  "tokens": 929,
+  "seconds": 28.6
+ }
+}

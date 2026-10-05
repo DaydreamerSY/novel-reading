@@ -1,0 +1,80 @@
+{
+ "number": 44,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier chứng kiến một con golem kim loại xuất hiện và tấn công Ellen. Edwin dường như đang điều khiển nó, nhưng Frondier nghi ngờ Edwin bị golem kiểm soát. Sau khi trao đổi ngắn với Edwin, Frondier nhận ra sự 'corrupted' của Edwin thông qua hào quang tím đặc trưng cho người chơi bị ảnh hưởng. Cuối cùng, Frondier phải đối mặt với con golem trong một trận chiến.",
+ "boi_canh": "Một khu vực không xác định, thời điểm hiện tại đang diễn ra một cuộc chiến.",
+ "nhan_vat": [
+  "Frondier",
+  "Ellen",
+  "Edwin",
+  "Frondier de Roach",
+  "Edwin von Behetorio"
+ ],
+ "su_kien": [
+  "Một con golem kim loại xuất hiện và tấn công Ellen.",
+  "Edwin dường như đang điều khiển con golem, nhưng Frondier nghi ngờ Edwin bị golem kiểm soát.",
+  "Frondier phát hiện ra hào quang tím 'corrupted' xung quanh Edwin.",
+  "Ellen bị thương bởi con golem.",
+  "Frondier và con golem tham gia vào một trận chiến."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "gia_dinh",
+   "mo_ta": "Frondier quan tâm đến tình trạng của Ellen sau khi cô bị thương.",
+   "cach_goi": "gọi tên Ellen, thân mật"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Ellen bị thương và cần được Frondier chăm sóc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier nghi ngờ Edwin và tỏ ra cảnh giác.",
+   "cach_goi": "gọi tên Edwin, thận trọng"
+  },
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Edwin tỏ ra tức giận và đổ lỗi cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đặt câu hỏi về hành động của Edwin.",
+   "cach_goi": "gọi tên Edwin, lễ phép"
+  },
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Edwin phản ứng giận dữ với câu hỏi của Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Ellen trả lời câu hỏi của Frondier về người gây ra vết thương.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của nhân vật chính)",
+  "Edwin von Behetorio (tên đầy đủ của Edwin)"
+ ],
+ "stats": {
+  "tokens": 862,
+  "seconds": 25.7
+ }
+}

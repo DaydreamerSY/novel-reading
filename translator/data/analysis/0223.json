@@ -1,0 +1,102 @@
+{
+ "number": 223,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier bị một người có khuôn mặt giống mình tấn công, anh phát hiện ra đó chỉ là Quinie de Viet đang đeo mặt nạ để thu hút sự chú ý của học sinh. Sau đó, Aster và Robald lại tiếp tục tranh chấp, và cuối cùng Frondier quyết định dạy Selena ngôn ngữ cổ.",
+ "boi_canh": "Trong khuôn viên trường đại học, vào một buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aster",
+  "Sybil",
+  "Quinie",
+  "Robald",
+  "Quinie de Viet"
+ ],
+ "su_kien": [
+  "Một người có khuôn mặt giống Frondier tấn công anh.",
+  "Người đó hóa ra là Quinie de Viet đeo mặt nạ.",
+  "Aster và Robald đánh nhau.",
+  "Frondier quyết định dạy Selena ngôn ngữ cổ.",
+  "Selena mặc một chiếc áo ngủ thoải mái."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier được Sybil giải thích về tình hình.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Sybil giải thích tình hình cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier quan sát Quinie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Quinie truyền đạt thông tin cho Frondier bằng mắt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Robald",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người tranh cãi và đánh nhau.",
+   "cach_goi": "gọi tên Robald, thô lỗ"
+  },
+  {
+   "a": "Robald",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người tranh cãi và đánh nhau.",
+   "cach_goi": "gọi tên Aster, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Frondier thúc giục Aster đấu lại Robald.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aster từ chối lời đề nghị của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đến phòng của Selena.",
+   "cach_goi": "gọi tên Selena, lễ phép"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Selena trả lời Frondier một cách lịch sự.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Quinie de Viet là tên đầy đủ của Quinie."
+ ],
+ "stats": {
+  "tokens": 998,
+  "seconds": 29.8
+ }
+}

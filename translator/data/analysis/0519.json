@@ -1,0 +1,126 @@
+{
+ "number": 519,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau cuộc họp triển khai quân đội, Frondier bị nghi ngờ đã tự loại mình khỏi danh sách và trốn thoát. Anh ta bị các thành viên quan trọng của đế quốc truy đuổi, những người lo lắng về kế hoạch xâm nhập lãnh thổ địch của anh ta. Cuối cùng, Frondier buộc phải thuyết phục Nữ hoàng Philly bằng cách nhấn mạnh tầm quan trọng của hành động mạo hiểm này đối với sự sống còn của đế chế.",
+ "boi_canh": "Trong phòng họp tại Hoàng cung Đế quốc.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Aten Terst",
+  "Azier",
+  "Lily",
+  "Enfer",
+  "Osprey",
+  "Sylvain",
+  "Ludwig",
+  "Monty",
+  "Sanders",
+  "Ludovic"
+ ],
+ "su_kien": [
+  "Frondier bị phát hiện không có tên trong danh sách triển khai quân đội.",
+  "Aten nghi ngờ Frondier đang trốn chạy vì sợ chiến tranh.",
+  "Philly giải thích cách thức triển khai quân đội của Frondier nhằm giảm thiểu thiệt hại cho Đế quốc.",
+  "Osprey hỏi liệu Frondier có định xâm nhập lãnh thổ địch hay không.",
+  "Frondier thuyết phục Philly bằng cách nhấn mạnh lợi ích tiềm năng của hành động mạo hiểm này."
+ ],
+ "quan_he": [
+  {
+   "a": "Ludovic",
+   "b": "Philly Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Ludovic không có ý kiến về việc triển khai quân đội, Philly quan sát anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier tìm kiếm sự chấp thuận của Philly cho kế hoạch của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly quan sát Frondier, do dự trước yêu cầu của anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Aten nghi ngờ và lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier không đáp lại sự lo lắng của Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Enfer lo lắng cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Azier lo lắng cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Lily nghi ngờ hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Monty nghi ngờ hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Osprey đặt câu hỏi về kế hoạch của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Ludwig bày tỏ sự lo ngại về hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Sanders bày tỏ sự lo ngại về hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Ludwig",
+   "loai": "nguoi_la",
+   "mo_ta": "Sylvain cung cấp thông tin cho Ludwig về hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1317,
+  "seconds": 39.3
+ }
+}

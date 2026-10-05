@@ -1,0 +1,62 @@
+{
+ "number": 198,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với tiết học đầu tiên của kỳ học thứ hai, nơi Selena có vẻ bối rối và mất phương hướng. Cô gặp gỡ Elodie de Rishae, người mà cô nhận ra là Elodie de Inies Rishae, và họ cùng nhau đi tham quan trường. Cuộc trò chuyện giữa họ hé lộ về sự tương đồng trong quá khứ của cả hai và những khó khăn Selena đang trải qua.",
+ "boi_canh": "Trong lớp học đầu tiên của kỳ học thứ hai.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Elodie de Inies Rishae",
+  "Elodie de Rishae"
+ ],
+ "su_kien": [
+  "Selena có vẻ bối rối và mất phương hướng trong lớp học.",
+  "Selena gặp gỡ một nữ sinh khác và trao đổi vài câu ngắn gọn.",
+  "Selena nhận ra Elodie de Rishae và xác định danh tính thật của cô.",
+  "Elodie đề nghị dẫn Selena đi tham quan trường.",
+  "Elodie giải thích về 'the field' có thể thay đổi cảnh quan."
+ ],
+ "quan_he": [
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Selena có vẻ không tự tin khi đối mặt với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Elodie de Rishae",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu và có vẻ như có sự đồng cảm giữa họ.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie de Rishae",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Elodie chủ động tiếp cận và giúp đỡ Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Elodie de Rishae",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena đáp lại sự quan tâm của Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Inies Rishae (tên đầy đủ trước khi tức tỉnh thần tính)",
+  "Elodie de Rishae (tên đầy đủ sau khi tức tỉnh thần tính)"
+ ],
+ "stats": {
+  "tokens": 670,
+  "seconds": 20.1
+ }
+}

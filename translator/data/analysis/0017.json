@@ -1,0 +1,87 @@
+{
+ "number": 17,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này giới thiệu về sự trỗi dậy của Viet Merchant Guild dưới tay Quinie, người đã cải tổ mạnh mẽ để xoay chuyển tình thế từ bờ vực phá sản. Tuy nhiên, những thay đổi này cũng khiến cô tạo ra nhiều kẻ thù. Hiện tại, Viet Merchant Guild đang đối mặt với một vụ lừa đảo tinh vi liên quan đến tranh giả, và Quinie phát hiện ra rằng cả hai bức tranh đều có vẻ ngoài giống hệt nhau, một bức là bản gốc còn lại là tranh sao chép chất lượng cao hơn cả bản gốc.",
+ "boi_canh": "Trước mặt trang viên của Viet Merchant Guild, vào thời điểm đang xử lý hậu quả của một vụ lừa đảo tinh vi.",
+ "nhan_vat": [
+  "Quinie",
+  "Anne",
+  "Frontier",
+  "Người quản gia (butler)",
+  "Nhân viên/người hầu (servants)",
+  "Định giá viên (appraisers)"
+ ],
+ "su_kien": [
+  "Viet Merchant Guild đang là công ty có giá cổ phiếu cao nhất.",
+  "Quinie đã cải tổ Viet Merchant Guild, loại bỏ các mối quan hệ kinh doanh không hiệu quả và cắt đứt với những quý tộc thân thiết.",
+  "Viet Merchant Guild đang bị tấn công bởi một vụ lừa đảo tranh giả tinh vi.",
+  "Hai bức tranh 'The Girl's Prayer' của Alain Bouchon xuất hiện: một bản gốc và một bản sao chất lượng cao hơn.",
+  "Các chuyên gia định giá xác nhận rằng bản sao có giá trị nghệ thuật cao hơn bản gốc."
+ ],
+ "quan_he": [
+  {
+   "a": "Quinie",
+   "b": "Người quản gia (butler)",
+   "loai": "cap_tren",
+   "mo_ta": "Quinie là chủ, người quản gia báo cáo tình hình.",
+   "cach_goi": "gọi 'Người quản gia', không rõ thái độ"
+  },
+  {
+   "a": "Người quản gia (butler)",
+   "b": "Quinie",
+   "loai": "cap_tren",
+   "mo_ta": "Người quản gia báo cáo tình hình cho chủ.",
+   "cach_goi": "gọi 'Miss Quinie', lễ phép"
+  },
+  {
+   "a": "Quinie",
+   "b": "Nhân viên/người hầu (servants)",
+   "loai": "dong_minh",
+   "mo_ta": "Quinie quan sát công việc của nhân viên.",
+   "cach_goi": "gọi 'các bạn', không rõ thái độ"
+  },
+  {
+   "a": "Nhân viên/người hầu (servants)",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "Nhân viên làm việc dưới sự giám sát của Quinie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Định giá viên (appraisers)",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Định giá viên báo cáo kết quả định giá cho Quinie.",
+   "cach_goi": "gọi 'Miss Quinie', lễ phép"
+  },
+  {
+   "a": "Quinie",
+   "b": "Định giá viên (appraisers)",
+   "loai": "nguoi_la",
+   "mo_ta": "Quinie hỏi các định giá viên về tranh giả.",
+   "cach_goi": "gọi 'các bạn', không rõ thái độ"
+  },
+  {
+   "a": "Anne",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Anne đã từng đề cập đến việc cha cô bị lừa bởi tranh giả.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frontier",
+   "b": "Quinie",
+   "loai": "khac",
+   "mo_ta": "Frontier đã từng gọi vụ lừa đảo này là 'great counterfeit'.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Bức tranh 'The Girl's Prayer' của Alain Bouchon: Có cả bản gốc và bản sao chất lượng cao hơn."
+ ],
+ "stats": {
+  "tokens": 1048,
+  "seconds": 31.5
+ }
+}

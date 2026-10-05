@@ -1,0 +1,88 @@
+{
+ "number": 394,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Dier từ chối giúp đỡ, Pielott tìm đến sự hỗ trợ của thần Hypnos để đánh cắp một vật phẩm. Đồng thời, Madeline, người hầu trong dinh thự Roach, bị ngủ gật và đột nhập vào phòng Frondier để trộm sợi dây chuyền và vòng tay. Sau đó, cô được dẫn ra khỏi dinh thự bởi Hypnos. Edwin, sử dụng một hologram bảo mật do chính mình tạo ra, xuất hiện để đối đầu với Hypnos.",
+ "boi_canh": "Buổi chiều tà, sau giờ học tại dinh thự Roach.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Pielott",
+  "Dier",
+  "Edwin",
+  "Madeline",
+  "Hypnos"
+ ],
+ "su_kien": [
+  "Pielott tìm kiếm sự giúp đỡ của thần Hypnos.",
+  "Madeline bị ngủ gật và đột nhập vào phòng Frondier để trộm đồ.",
+  "Hypnos dẫn Madeline ra khỏi dinh thự Roach.",
+  "Edwin xuất hiện dưới dạng hologram để đối đầu với Hypnos.",
+  "Hologram Edwin tiết lộ về một biện pháp an toàn bí mật mà anh ta đã tạo ra."
+ ],
+ "quan_he": [
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "doi_thu",
+   "mo_ta": "Pielott tìm kiếm sự giúp đỡ từ Dier nhưng bị từ chối.",
+   "cach_goi": "gọi tên Dier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Dier từ chối giúp đỡ Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Hypnos",
+   "loai": "cap_tren",
+   "mo_ta": "Pielott tìm kiếm sự hỗ trợ từ thần Hypnos.",
+   "cach_goi": "gọi tên Hypnos, lễ phép"
+  },
+  {
+   "a": "Hypnos",
+   "b": "Pielott",
+   "loai": "cap_tren",
+   "mo_ta": "Thần Hypnos đồng ý giúp đỡ Pielott.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Madeline",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Madeline đột nhập vào phòng Frondier trong trạng thái ngủ gật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hypnos",
+   "b": "Madeline",
+   "loai": "nguoi_la",
+   "mo_ta": "Hypnos điều khiển Madeline ra khỏi dinh thự.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin (hologram)",
+   "b": "Hypnos",
+   "loai": "ke_thu",
+   "mo_ta": "Hologram Edwin đối đầu với Hypnos.",
+   "cach_goi": "gọi tên Hypnos, trịch thượng"
+  },
+  {
+   "a": "Hypnos",
+   "b": "Edwin (hologram)",
+   "loai": "ke_thu",
+   "mo_ta": "Hypnos đối đầu với hologram Edwin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hypnos: Thần ngủ, anh trai của Thanatos (người đã từng đe dọa Frondier)."
+ ],
+ "stats": {
+  "tokens": 936,
+  "seconds": 28.1
+ }
+}

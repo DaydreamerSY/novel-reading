@@ -1,0 +1,86 @@
+{
+ "number": 50,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đang ngủ gật trong lớp học và hồi tưởng lại trận chiến với golem, nơi Ellen đã quan sát anh một cách tỉ mỉ. Sau đó, cô tỉnh giấc và tranh luận với Gisele về việc cứu Edwin. Cuối cùng, họ đi tìm kiếm thanh kiếm mới cho Ellen nhưng bị một thương nhân lừa dỗ mua một thanh kiếm đắt tiền, cho đến khi Frondier xuất hiện và vạch trần sự thật.",
+ "boi_canh": "Trong lớp học của trường Constel vào buổi sáng.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Ellen",
+  "Edwin",
+  "Gisele"
+ ],
+ "su_kien": [
+  "Ellen hồi tưởng lại trận chiến với golem, quan sát kỹ lưỡng cách Frondier chiến đấu.",
+  "Ellen ngủ gật trong lớp học và bị Gisele đánh thức.",
+  "Ellen và Gisele tranh luận về việc cô ấy nên báo cáo sự cố cứu Edwin cho người lớn hơn.",
+  "Ellen và Gisele đi tìm kiếm thanh kiếm mới.",
+  "Frondier vạch trần một thương nhân đang bán một thanh kiếm kém chất lượng với giá cao."
+ ],
+ "quan_he": [
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Ellen quan sát Frondier trong trận chiến, tò mò về anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier được Ellen quan sát và suy nghĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gisele",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng lớp của Ellen, trêu chọc và quan tâm đến cô.",
+   "cach_goi": "gọi tên Ellen, thân mật"
+  },
+  {
+   "a": "Ellen",
+   "b": "Gisele",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng lớp của Gisele, trả lời và tranh luận với cô.",
+   "cach_goi": "gọi tên Gisele, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier xuất hiện và can thiệp vào việc mua kiếm của Ellen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Ellen nhìn Frondier với vẻ ngạc nhiên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thương nhân",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Thương nhân bị Frondier vạch trần.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thương nhân",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier vạch trần sự thật về thanh kiếm.",
+   "cach_goi": "lạnh lùng, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Ellen đã bị thương bởi ngọn giáo của golem, nhưng hồi phục nhanh chóng."
+ ],
+ "stats": {
+  "tokens": 925,
+  "seconds": 27.7
+ }
+}

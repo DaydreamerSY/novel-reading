@@ -1,0 +1,68 @@
+{
+ "number": 53,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào những suy nghĩ và cảm xúc phức tạp của Sybil sau khi được Frondier cứu giúp. Cô ấy đấu tranh với sự phụ thuộc vào may mắn, sự ngưỡng mộ lẫn dè chừng dành cho Frondier, và sự bối rối trước lòng tốt bất ngờ của anh ta. Cuối cùng, cô ấy đề nghị giúp đỡ Frondier tìm hiểu về một rune ma thuật bí ẩn mà anh ta có được.",
+ "boi_canh": "Trong phòng bệnh viện, sau khi Sybil tỉnh lại.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Quinie",
+  "Slevb",
+  "Artemis",
+  "Doud Forte"
+ ],
+ "su_kien": [
+  "Sybil đấu tranh với sự phụ thuộc vào may mắn và những suy nghĩ về Frondier.",
+  "Frondier đến thăm Sybil tại bệnh viện.",
+  "Sybil bày tỏ lòng biết ơn đối với Frondier vì đã cứu giúp cô ấy.",
+  "Frondier kể cho Sybil nghe về rune ma thuật 'Menosorpo' mà anh ta có được.",
+  "Sybil đề nghị giúp Frondier tìm hiểu về rune bằng cách hỏi cha cô, Doud Forte."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Mối quan hệ phức tạp, sự dè chừng và ngưỡng mộ lẫn nhau.",
+   "cach_goi": "gọi tên Sybil, không rõ cảm xúc"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Sự bối rối và lòng biết ơn xen lẫn sự ngờ vực.",
+   "cach_goi": "gọi tên Frondier, thân thiện nhưng có chút ngượng ngùng"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Thông tin về Frondier được Aster truyền đạt cho Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Thông tin về Frondier được Quinie truyền đạt cho Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Doud Forte",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Sybil, một chuyên gia về rune ma thuật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster.",
+  "Doud Forte: Chuyên gia khắc rune ma thuật, cha của Sybil."
+ ],
+ "stats": {
+  "tokens": 749,
+  "seconds": 22.5
+ }
+}

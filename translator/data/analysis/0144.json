@@ -1,0 +1,102 @@
+{
+ "number": 144,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và đồng đội đối mặt với những golem được cải tiến do Aten và Quinie dẫn đầu. Frondier sử dụng thanh kiếm Gram huyền thoại để tiêu diệt chúng, gây bất ngờ cho Quinie. Sau đó, anh ta quyết định ở lại chiến đấu một mình, khiến Quinie lo lắng. Cuối cùng, Frondier thể hiện sức mạnh mới của mình bằng cách sử dụng Menosorpo và những kỹ năng khác, thay đổi ấn tượng của mọi người về anh.",
+ "boi_canh": "Một khu vực bị bao vây bởi golem, thời điểm chiến đấu.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Azier",
+  "Quinie",
+  "Enfer",
+  "Edwin",
+  "Binkis"
+ ],
+ "su_kien": [
+  "Nhóm đối mặt với golem cải tiến.",
+  "Frondier sử dụng kiếm Gram để tiêu diệt một golem.",
+  "Quinie ngạc nhiên trước việc Frondier sở hữu kiếm Gram.",
+  "Frondier quyết định ở lại chiến đấu một mình.",
+  "Frondier thể hiện sức mạnh mới bằng Menosorpo và những kỹ năng khác."
+ ],
+ "quan_he": [
+  {
+   "a": "Aten",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, hỗ trợ lẫn nhau trong chiến đấu.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, hỗ trợ lẫn nhau trong chiến đấu.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, chỉ gặp gỡ trong chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, chỉ gặp gỡ trong chiến đấu.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier giao nhiệm vụ bảo vệ con tin cho Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Quinie lo lắng cho Frondier khi anh ta quyết định chiến đấu một mình.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "Cứu Edwin khỏi bị rơi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Bị Frondier cứu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier có thể trở thành đối thủ tự nhiên của Binkis.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier có thể trở thành đối thủ tự nhiên của Binkis.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của nhân vật chính."
+ ],
+ "stats": {
+  "tokens": 1098,
+  "seconds": 40.1
+ }
+}

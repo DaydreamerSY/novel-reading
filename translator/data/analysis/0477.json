@@ -1,0 +1,72 @@
+{
+ "number": 477,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đọc được một lá thư từ Headmaster Osprey, tiết lộ rằng ông ta đã tự loại mình khỏi thế giới bằng phép thuật để trốn tránh một kẻ thù bí ẩn. Lá thư cũng cảnh báo Frondier và Elodie không nên tìm hiểu sự thật về tình hình này. Jane hiện đang giữ chức Headmaster thay cho Osprey, và Frondier nhận thấy có điều gì đó bất thường trong việc sử dụng ma pháp của mình.",
+ "boi_canh": "Trong văn phòng hiệu trưởng tại Constel, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Osprey",
+  "Jane"
+ ],
+ "su_kien": [
+  "Frondier tìm thấy một lá thư từ Headmaster Osprey.",
+  "Lá thư tiết lộ rằng Osprey đã tự loại mình khỏi thế giới bằng phép thuật.",
+  "Jane hiện đang giữ chức Headmaster thay cho Osprey.",
+  "Frondier nhận ra mình có thể sử dụng ma pháp bất thường.",
+  "Một lá thư cảnh báo Frondier và Elodie không nên tìm hiểu sự thật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Người đọc thư từ Headmaster, mối quan hệ cấp trên - cấp dưới.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "dong_minh",
+   "mo_ta": "Cùng là học sinh tại Constel, mối quan hệ đồng minh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn học, mối quan hệ bạn bè.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Osprey",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "Người giao quyền Headmaster cho Jane.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Jane",
+   "loai": "ban_be",
+   "mo_ta": "Người đến báo cáo với Headmaster Jane.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Người nhận báo cáo từ Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Osprey: Headmaster của Constel, hiện đang ẩn mình khỏi thế giới.",
+  "Jane: Hiện tại giữ chức Headmaster thay cho Osprey."
+ ],
+ "stats": {
+  "tokens": 750,
+  "seconds": 22.3
+ }
+}

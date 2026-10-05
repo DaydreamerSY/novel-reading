@@ -1,0 +1,74 @@
+{
+ "number": 234,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau gợi ý của Quinie, Frondier cùng cô xâm nhập vào lâu đài của Roach để đối phó với Kora. Tại đó, Kora tỏ ra suy yếu và thừa nhận là nguồn gốc của tin đồn về Quinie ở Constel. Tuy nhiên, Frondier nghi ngờ về khả năng tạo ra bùa chú ma thuật mạnh mẽ như vậy của Kora. Họ phát hiện ra Kora sử dụng phép ẩn thân để đến thăm Quinie và cuối cùng tìm thấy người đứng sau việc lan truyền tin đồn là ai đó đã lợi dụng lời nói của Kora.",
+ "boi_canh": "Trong lâu đài Roach, buổi tối.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Quinie",
+  "Edwin",
+  "Kora",
+  "Robald",
+  "Robald Lieff"
+ ],
+ "su_kien": [
+  "Quinie gợi ý đột nhập vào lâu đài Roach để đối phó với Kora.",
+  "Kora thừa nhận là nguồn gốc của tin đồn về Quinie ở Constel.",
+  "Phát hiện Kora sử dụng phép ẩn thân để đến thăm Quinie.",
+  "Tìm thấy một chiếc vòng tay giúp Kora ẩn mình.",
+  "Kora không nhớ ai đã lan truyền tin đồn dựa trên lời nói của cô."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier lắng nghe và đặt câu hỏi cho Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Quinie dẫn dắt cuộc điều tra và giải thích cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kora",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier nghi ngờ và chất vấn Kora.",
+   "cach_goi": "gọi tên Kora, lạnh lùng"
+  },
+  {
+   "a": "Kora",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Kora phòng bị và đôi khi phản ứng gay gắt với Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Quinie",
+   "b": "Kora",
+   "loai": "nguoi_la",
+   "mo_ta": "Không thân thiết, Quinie quan sát và phân tích hành động của Kora.",
+   "cach_goi": "gọi tên Kora, lạnh lùng"
+  },
+  {
+   "a": "Kora",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không thân thiết, Kora có vẻ khó chịu khi ở gần Quinie.",
+   "cach_goi": "gọi tên Quinie, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Kora sử dụng phép ẩn thân để che giấu tai và đuôi của mình."
+ ],
+ "stats": {
+  "tokens": 844,
+  "seconds": 25.4
+ }
+}

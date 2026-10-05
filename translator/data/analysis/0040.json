@@ -1,0 +1,75 @@
+{
+ "number": 40,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier phát hiện ra thứ vũ khí mà Azier ném đi là một con dao giả được tạo ra bằng kỹ thuật 'dệt'. Anh ta sử dụng điều này để đánh lừa Azier và gần như đã tấn công anh trai mình. Sau đó, Edwin nghe thấy những lời đồn đại về bản thân và đối mặt với sự chế giễu từ đám đông. Cuối cùng, anh ta bị Gary Clatt khiêu khích, khiến tình hình trở nên căng thẳng.",
+ "boi_canh": "Trường học, sau trận đấu giữa Frondier và Azier.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Ellen",
+  "Edwin",
+  "Binkis",
+  "Gary"
+ ],
+ "su_kien": [
+  "Frondier phát hiện ra con dao mà Azier ném đi là giả.",
+  "Frondier tấn công Azier bằng một con dao thật.",
+  "Azier chấp nhận thất bại và đề nghị dạy Frondier kỹ thuật chiến đấu.",
+  "Edwin nghe thấy những lời đồn đại tiêu cực về bản thân.",
+  "Gary Clatt khiêu khích Edwin, khiến anh ta mất bình tĩnh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em trai, có sự cạnh tranh và tôn trọng lẫn nhau.",
+   "cach_goi": "gọi tên Azier, không thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em trai, có sự cạnh tranh và tôn trọng lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, không thân mật"
+  },
+  {
+   "a": "Edwin",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè lâu năm, có sự tin tưởng và gần gũi.",
+   "cach_goi": "gọi tên Ellen, thân thiện"
+  },
+  {
+   "a": "Ellen",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè lâu năm, có sự tin tưởng và gần gũi.",
+   "cach_goi": "gọi tên Edwin, thân thiện"
+  },
+  {
+   "a": "Gary",
+   "b": "Edwin",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Gary khiêu khích Edwin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Gary",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Edwin cố gắng tránh xung đột với Gary.",
+   "cach_goi": "gọi tên Gary, không thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Con dao mà Frondier cầm là một vật phẩm 'dệt' giả.",
+  "Nhóm người chế giễu Edwin được gọi là 'October'."
+ ],
+ "stats": {
+  "tokens": 799,
+  "seconds": 23.9
+ }
+}

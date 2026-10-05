@@ -1,0 +1,82 @@
+{
+ "number": 175,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Đại tá Sanders phát hiện ra một người đàn ông mặc trang phục của Frondier, hóa ra là tù nhân tên Grobel. Sanders nghi ngờ đây là một phần kế hoạch trốn thoát của Frondier. Aten và Sybil nhận ra Frondier đã sử dụng một người đóng thế để đánh lạc hướng, và có thể đã vượt qua rào cản đến Rừng Thánh cùng Selena. Họ vô cùng tức giận và quyết định chặn lại rào cản.",
+ "boi_canh": "Trên chiến trường, Sanders phát hiện ra sự thay đổi trong đội hình quân lính.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aten Terst",
+  "Sybil",
+  "Sanders",
+  "Cassian",
+  "Grobel",
+  "Alberto Montes"
+ ],
+ "su_kien": [
+  "Sanders phát hiện ra người đàn ông mặc trang phục của Frondier là tù nhân Grobel.",
+  "Sanders nghi ngờ đây là một phần kế hoạch trốn thoát của Frondier.",
+  "Aten và Sybil nhận ra Frondier đã sử dụng người đóng thế.",
+  "Frondier được phát hiện đang cưỡi Cassian cùng Selena hướng về Rừng Thánh.",
+  "Sybil và Aten quyết định chặn lại rào cản."
+ ],
+ "quan_he": [
+  {
+   "a": "Sanders",
+   "b": "Grobel",
+   "loai": "nguoi_la",
+   "mo_ta": "Sanders thẩm vấn Grobel, người đang mặc trang phục của Frondier.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Grobel",
+   "b": "Sanders",
+   "loai": "nguoi_la",
+   "mo_ta": "Grobel trả lời câu hỏi của Sanders.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Sanders nghi ngờ Frondier có kế hoạch trốn thoát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten Terst",
+   "loai": "ban_be",
+   "mo_ta": "Hai người cùng quan sát tình hình và suy đoán về hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Hai người cùng quan sát tình hình và suy đoán về hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Sybil",
+   "loai": "cap_tren",
+   "mo_ta": "Sanders ra lệnh cho Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Aten Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Sanders ra lệnh cho Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Grobel: Tù nhân đang mặc trang phục của Frondier."
+ ],
+ "stats": {
+  "tokens": 846,
+  "seconds": 25.3
+ }
+}

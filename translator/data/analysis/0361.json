@@ -1,0 +1,74 @@
+{
+ "number": 361,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Selena phát hiện một vách đá che khuất đường đi của họ, nhưng nhận ra nó có thể dùng để phục kích. Họ quan sát một bầy quái vật khổng lồ đang thờ phụng một mảnh băng Helheim. Sự xuất hiện của nhóm đặc vụ bí mật hoàng gia do Laurie dẫn đầu khiến tình hình trở nên phức tạp hơn, buộc Frondier phải đưa ra quyết định khó khăn.",
+ "boi_canh": "Trên một con đường hẹp ở phía bắc Yeranhes, giữa một đồng bằng đóng băng với bầy quái vật thờ phụng mảnh băng Helheim.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Enfer",
+  "Laurie",
+  "Sylvain",
+  "Cassian",
+  "Serena"
+ ],
+ "su_kien": [
+  "Frondier và Selena phát hiện vách đá trên đường đi.",
+  "Họ quan sát bầy quái vật khổng lồ đang thờ phụng mảnh băng Helheim.",
+  "Nhóm đặc vụ bí mật hoàng gia do Laurie dẫn đầu tiến về phía mảnh băng.",
+  "Selena lo lắng khi Frondier có ý định hành động một mình.",
+  "Frondier cảm thấy bất an trước năng lượng từ mảnh băng và lo ngại cho sự an toàn của Selena."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Đồng hành và bảo vệ lẫn nhau, Selena lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đồng hành và bảo vệ lẫn nhau, Selena lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "doi_thu",
+   "mo_ta": "Nhận ra Laurie là đặc vụ bí mật hoàng gia, đối đầu tiềm ẩn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Nhận ra Laurie là đặc vụ bí mật hoàng gia, đối đầu tiềm ẩn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serena",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Quan sát Frondier, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Serena",
+   "loai": "ban_be",
+   "mo_ta": "Quan sát Frondier, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Laurie: Đặc vụ bí mật hoàng gia (Imperial secret agent)"
+ ],
+ "stats": {
+  "tokens": 808,
+  "seconds": 24.2
+ }
+}

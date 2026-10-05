@@ -1,0 +1,75 @@
+{
+ "number": 271,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Thompson và Skyler bị tấn công dữ dội bằng mũi tên, khiến Thompson bị thương nặng. Frondier sử dụng kế hoạch làm con tin để dụ Cain ra hiện diện, nhưng kế hoạch thất bại khi Cain xuất hiện và đối đầu với Frondier. Cuối cùng, Frondier trốn thoát khỏi tình hình nguy hiểm bằng cách lợi dụng sự bối rối của Cain.",
+ "boi_canh": "Một khu vực không xác định, trong một trận mưa tên dữ dội.",
+ "nhan_vat": [
+  "Thompson",
+  "Skyler",
+  "Pascal",
+  "Isamaya",
+  "Osprey",
+  "Kraken",
+  "Cain",
+  "Frondier"
+ ],
+ "su_kien": [
+  "Thompson và Skyler bị tấn công bằng một trận mưa tên.",
+  "Thompson bị thương nặng do mũi tên xuyên qua lớp phòng thủ của anh ta.",
+  "Isamaya không hề bị ảnh hưởng bởi trận mưa tên.",
+  "Frondier dụ Cain ra hiện diện bằng kế hoạch làm con tin.",
+  "Frondier trốn thoát khỏi tình hình nguy hiểm."
+ ],
+ "quan_he": [
+  {
+   "a": "Thompson",
+   "b": "Skyler",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, hỗ trợ lẫn nhau trong chiến đấu.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Skyler",
+   "b": "Thompson",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, hỗ trợ lẫn nhau trong chiến đấu.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Thompson",
+   "b": "Isamaya",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Isamaya không bị ảnh hưởng bởi mũi tên và tấn công Thompson.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Isamaya",
+   "b": "Thompson",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Isamaya không bị ảnh hưởng bởi mũi tên và tấn công Thompson.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Frondier cố gắng dụ Cain ra hiện diện.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Cain",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Cain nghi ngờ Frondier là kẻ phản bội.",
+   "cach_goi": "gọi tên nhau, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Kraken tiết lộ thông tin cho Frondier về việc anh ta có thể trở thành 'nạn nhân' trong cuộc cách mạng của Indus."
+ ],
+ "stats": {
+  "tokens": 773,
+  "seconds": 23.8
+ }
+}

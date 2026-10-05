@@ -1,0 +1,85 @@
+{
+ "number": 425,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Angus kích hoạt một thiết bị tự động tiêm giải độc vào cơ thể mình để đối phó với việc bị tiêm huyết thanh mana. Anh ta cũng kích hoạt báo động khẩn cấp và mở cửa xưởng, giải phóng những người bị giam giữ và chịu ảnh hưởng của huyết thanh mana. Frondier xuất hiện kịp thời để bảo vệ Dier và Ellen khỏi đám đông, nhưng tình hình trở nên phức tạp hơn khi Frondier đề cập đến nguyên nhân gây ra tác dụng phụ của huyết thanh mana.",
+ "boi_canh": "Trong phòng thí nghiệm bí mật, vào một thời điểm nguy hiểm.",
+ "nhan_vat": [
+  "Frondier",
+  "Ellen",
+  "Dier",
+  "Angus"
+ ],
+ "su_kien": [
+  "Angus kích hoạt thiết bị tiêm giải độc tự động.",
+  "Angus kích hoạt báo động khẩn cấp và mở cửa xưởng.",
+  "Những người bị giam giữ, chịu ảnh hưởng của huyết thanh mana, được thả ra.",
+  "Frondier xuất hiện và bảo vệ Dier và Ellen.",
+  "Frondier đề cập đến nguyên nhân gây ra tác dụng phụ của huyết thanh mana."
+ ],
+ "quan_he": [
+  {
+   "a": "Angus",
+   "b": "Dier",
+   "loai": "doi_thu",
+   "mo_ta": "Angus chế nhạo và đe dọa Dier.",
+   "cach_goi": "gọi tên Dier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Angus",
+   "loai": "doi_thu",
+   "mo_ta": "Dier đối mặt với sự chế nhạo của Angus.",
+   "cach_goi": "gọi tên Angus, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Ellen và Dier cùng nhau đối mặt với tình hình nguy hiểm.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Ellen và Dier cùng nhau đối mặt với tình hình nguy hiểm.",
+   "cach_goi": "gọi tên Ellen, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier bảo vệ Dier và có vẻ như là cấp trên của anh ta.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Dier hỏi Frondier về việc giết những người bị ảnh hưởng bởi huyết thanh mana.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "khac",
+   "mo_ta": "Frondier giao tiếp với Ellen mà không cần Dier.",
+   "cach_goi": "gọi tên Ellen, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Ellen giao tiếp với Frondier mà không cần Dier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Angus đã chuẩn bị sẵn giải độc trong cơ thể mình để đối phó với việc bị tiêm huyết thanh mana."
+ ],
+ "stats": {
+  "tokens": 940,
+  "seconds": 27.9
+ }
+}

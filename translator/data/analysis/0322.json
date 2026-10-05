@@ -1,0 +1,143 @@
+{
+ "number": 322,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong phòng thí nghiệm nghiên cứu, Frondier được yêu cầu vẽ một sơ đồ cấu trúc 3D bằng Mana. Sự xuất hiện của Sybil và cha cô, Daud Forte, cùng với những lời bình luận của họ đã làm tăng thêm sự kỳ lạ cho tình huống này. Cách Frondier tiếp cận nhiệm vụ, bỏ qua các quy tắc thông thường, khiến mọi người kinh ngạc, gợi ý về một khả năng đặc biệt vượt xa kỹ năng thông thường.",
+ "boi_canh": "Trong phòng thí nghiệm nghiên cứu, vào thời điểm thử nghiệm một thiết bị mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Quinie",
+  "Edwin",
+  "Binkis",
+  "Daud",
+  "Daud Forte"
+ ],
+ "su_kien": [
+  "Sybil bất ngờ xuất hiện trong phòng thí nghiệm.",
+  "Frondier chào Binkis theo yêu cầu.",
+  "Daud Forte đi cùng Sybil, đưa ra những nhận xét mỉa mai.",
+  "Frondier được yêu cầu vẽ sơ đồ cấu trúc 3D bằng Mana.",
+  "Cách Frondier vẽ sơ đồ khác thường khiến mọi người kinh ngạc."
+ ],
+ "quan_he": [
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái và người được yêu cầu thực hiện nhiệm vụ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái và người được yêu cầu thực hiện nhiệm vụ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Daud Forte",
+   "b": "Sybil",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con gái.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Daud Forte",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con gái.",
+   "cach_goi": "gọi tên cha, thân mật"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh.",
+   "cach_goi": "gọi tên Binkis, lễ phép"
+  },
+  {
+   "a": "Daud Forte",
+   "b": "Binkis",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người quen biết nhau.",
+   "cach_goi": "gọi tên Binkis, thân mật"
+  },
+  {
+   "a": "Binkis",
+   "b": "Daud Forte",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người quen biết nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Daud Forte",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được chào hỏi bởi người khác.",
+   "cach_goi": "gọi 'Sir', lễ phép"
+  },
+  {
+   "a": "Daud Forte",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được chào hỏi bởi người khác.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1410,
+  "seconds": 43.5
+ }
+}

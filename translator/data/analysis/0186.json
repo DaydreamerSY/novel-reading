@@ -1,0 +1,66 @@
+{
+ "number": 186,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bị bắt giữ bởi những người muốn lợi dụng khả năng giải mã ngôn ngữ cổ của anh. Selena, một trong số đó, được lệnh thể hiện sự khắc nghiệt và đe dọa Frondier để buộc anh phải tiết lộ thông tin. Tuy nhiên, các nỗ lực đe dọa ban đầu của cô không hiệu quả. Cuối cùng, Frondier bắt đầu đọc những gì anh giải mã được từ ngôn ngữ cổ, tiết lộ một bí mật về quá khứ của Selena.",
+ "boi_canh": "Một căn phòng tối tăm, nơi Frondier bị giam giữ và đối mặt với Selena.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Hagley",
+  "RainEday",
+  "Selena de Barnier",
+  "Manggot"
+ ],
+ "su_kien": [
+  "Frondier bị bắt giữ vì khả năng giải mã ngôn ngữ cổ.",
+  "Selena được lệnh đe dọa Frondier để buộc anh phải tiết lộ thông tin.",
+  "Các nỗ lực đe dọa ban đầu của Selena không hiệu quả.",
+  "Frondier đọc những gì anh giải mã được từ ngôn ngữ cổ, tiết lộ tên thật và gia thế của Selena.",
+  "Selena phản ứng mạnh mẽ với những lời nói của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Selena được lệnh đe dọa và buộc Frondier phải tiết lộ thông tin.",
+   "cach_goi": "gọi tên 'Frondier', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đối mặt với Selena trong tình thế bị giam giữ.",
+   "cach_goi": "gọi tên 'Selena', lạnh lùng"
+  },
+  {
+   "a": "Hagley",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Hagley là cấp trên của Selena, đưa ra chỉ thị cho cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "RainEday",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "RainEday là cấp trên của Selena, đưa ra chỉ thị cho cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Manggot",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Manggot muốn sử dụng khả năng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Selena de Barnier (Tên đầy đủ của Selena)"
+ ],
+ "stats": {
+  "tokens": 745,
+  "seconds": 22.3
+ }
+}

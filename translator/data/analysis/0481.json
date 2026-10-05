@@ -1,0 +1,65 @@
+{
+ "number": 481,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đang tìm kiếm Elodie sau khi cô biến mất, nghi ngờ rằng cô có thể ở một nơi nào đó liên quan đến quá khứ của họ. Anh ta gặp Mei dưới hình dạng của anh ta và nhận được manh mối về vị trí của Elodie. Cuối cùng, Frondier phát hiện ra Elodie trong tầng hầm cabin, nhưng cô đã trở lại hình dáng trẻ con.",
+ "boi_canh": "Tại cabin, vài ngày sau sự kiện gần đây.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Osprey",
+  "Mei"
+ ],
+ "su_kien": [
+  "Frondier mở một cổng và đến cabin.",
+  "Frondier gặp Mei, người có hình dạng giống anh ta.",
+  "Mei cung cấp manh mối mơ hồ về vị trí của Elodie.",
+  "Frondier sử dụng giác quan thứ sáu để tìm kiếm Elodie trong cabin.",
+  "Frondier phát hiện ra Elodie đang ngủ ở tầng hầm, trở lại hình dáng trẻ con."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Lo lắng về sự biến mất của Elodie và tìm kiếm cô.",
+   "cach_goi": "gọi tên Elodie, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Tìm kiếm thông tin từ Mei về Elodie.",
+   "cach_goi": "gọi tên Mei, thân thiện"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Cung cấp thông tin mơ hồ về Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Hai người từng cùng nhau đến cabin khi Frondier bị Indus tấn công.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hiện đang ở trạng thái không rõ, cần được Frondier giúp đỡ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mei hiện tại có hình dạng giống Frondier."
+ ],
+ "stats": {
+  "tokens": 677,
+  "seconds": 20.2
+ }
+}

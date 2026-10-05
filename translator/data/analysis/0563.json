@@ -1,0 +1,73 @@
+{
+ "number": 563,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hấp thụ tinh thể mana, Frondier cảm thấy sức mạnh tràn ngập cơ thể. Ông ta vội vàng bay lên để bảo vệ Aten khỏi vụ nổ tiềm tàng và giao nhiệm vụ cho Osprey. Trong lúc kiểm soát lượng mana dư thừa, Frondier đối mặt với Belphegor, người đã lợi dụng sự yếu ớt của Sloth để tấn công ông. Cuối cùng, Frondier nhận ra một điều sâu sắc về bản thân mình: dù ai thay thế cũng sẽ phải chiến đấu vì vận mệnh của thế giới.",
+ "boi_canh": "Bầu trời đêm, giữa trận chiến căng thẳng.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Aten Terst",
+  "Osprey",
+  "Belphegor",
+  "Frondier de Roach"
+ ],
+ "su_kien": [
+  "Frondier hấp thụ tinh thể mana.",
+  "Frondier bay lên để bảo vệ Aten.",
+  "Mana dư thừa bắt đầu phát nổ.",
+  "Belphegor tấn công Frondier bằng Sloth.",
+  "Frondier suy ngẫm về số phận của mình và vai trò của bản thân."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "dong_minh",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier giao nhiệm vụ cho Osprey.",
+   "cach_goi": "gọi 'Headmaster', lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ trực tiếp, Belphegor tấn công Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ trực tiếp, Belphegor tấn công Frondier.",
+   "cach_goi": "gọi 'Sloth', trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của nhân vật chính)"
+ ],
+ "stats": {
+  "tokens": 761,
+  "seconds": 23.6
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "number": 207,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier triệu tập Hoàng hậu Philly để bàn về tin đồn liên quan đến Pascal và việc ai đó đang lan truyền tin đồn rằng anh ta có khả năng sử dụng Aura. Cuộc trò chuyện dẫn đến việc tiết lộ Gregory, một cựu thành viên của Indus, đứng sau những hành động này. Khi Frondier và Philly đang phân tích tình hình, chiếc xe của họ bị tấn công, khiến nó lao xuống vực.",
+ "boi_canh": "Trong xe hơi, trên đường đi đâu đó.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Pascal",
+  "Gregory",
+  "Serf Daniel",
+  "Renzo"
+ ],
+ "su_kien": [
+  "Frondier triệu tập Philly để thảo luận về tin đồn.",
+  "Philly nhắc nhở Frondier gọi mình là 'Miss Philly'.",
+  "Frondier đề cập đến việc Pascal nghĩ anh ta có khả năng sử dụng Aura.",
+  "Philly tiết lộ Gregory, cựu thành viên Indus, đứng sau những tin đồn.",
+  "Chiếc xe của Frondier và Philly bị tấn công và lao xuống vực."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier tìm kiếm sự giúp đỡ từ Philly, người có địa vị cao hơn.",
+   "cach_goi": "gọi 'Miss Philly', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly là người có địa vị cao hơn, nhắc nhở Frondier về cách xưng hô.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em, Frondier tránh làm phiền Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ đề cập đến Pascal.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Pascal",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ đề cập đến Pascal.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "ke_thu",
+   "mo_ta": "Đối tượng bị nghi ngờ, Frondier đang điều tra Gregory.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Gregory",
+   "loai": "ke_thu",
+   "mo_ta": "Đối tượng bị nghi ngờ, Philly đang phân tích hành động của Gregory.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Serf Daniel",
+   "loai": "nguoi_la",
+   "mo_ta": "Đề cập đến Serf Daniel trong bối cảnh Indus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Gregory: trước đây là thành viên của Indus, hiện đang giả làm thành viên để lan truyền tin đồn.",
+  "Indus: tổ chức bề ngoài hoạt động vì quyền lợi của người dân thường, nhưng thực chất có những hành vi đen tối."
+ ],
+ "stats": {
+  "tokens": 1035,
+  "seconds": 31.0
+ }
+}

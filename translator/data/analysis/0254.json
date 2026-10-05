@@ -1,0 +1,69 @@
+{
+ "number": 254,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bị Osprey triệu tập và buộc phải đối mặt với sự thật rằng ông ta biết thân phận của Frondier đằng sau mặt nạ. Osprey tiết lộ một kế hoạch liên quan đến Indus và cần sức mạnh của Frondier. Frondier, lợi dụng tình hình, khai báo về việc sử dụng Excalibur để ngăn chặn Kora, đồng thời che giấu sự thật về năng lực của mình.",
+ "boi_canh": "Trong phòng làm việc của Osprey, tại một buổi thẩm vấn bí mật.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Quinie",
+  "Enfer",
+  "Osprey",
+  "Kora",
+  "Armel",
+  "Arthur"
+ ],
+ "su_kien": [
+  "Osprey triệu tập Frondier và biết được thân phận của anh.",
+  "Osprey tiết lộ kế hoạch liên quan đến Indus và cần sức mạnh của Frondier.",
+  "Frondier hỏi về tác động của câu trả lời của mình đối với cuộc sống hàng ngày.",
+  "Frondier khai báo đã sử dụng Excalibur để ngăn chặn Kora.",
+  "Frondier che giấu sự thật về năng lực của mình bằng cách nói dối về lượng mana."
+ ],
+ "quan_he": [
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Osprey là người có vị thế cao hơn, thẩm vấn và ra lệnh cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier trả lời câu hỏi của Osprey một cách tôn trọng.",
+   "cach_goi": "gọi tên Osprey, lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Kora",
+   "loai": "ke_thu",
+   "mo_ta": "Osprey quan tâm đến Kora, liên quan đến việc Frondier sử dụng Excalibur.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Armel",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đã áp chế Armel, ảnh hưởng đến hoạt động của Indus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier suy nghĩ về kinh nghiệm của Aster, liên quan đến việc che giấu năng lực.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster.",
+  "Arthur: Được nhắc đến trong cuốn sách mà Osprey đang đọc."
+ ],
+ "stats": {
+  "tokens": 760,
+  "seconds": 24.0
+ }
+}

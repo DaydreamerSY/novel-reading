@@ -1,0 +1,54 @@
+{
+ "number": 342,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier chứng kiến cha mình, Enfer, đối mặt với một đội quân quái vật đang tấn công. Enfer sử dụng kỹ năng kiếm thuật đặc biệt để tiêu diệt chúng từ xa, khiến binh lính trên tường thành kinh ngạc và đồn đoán về nguồn gốc sức mạnh của ông. Sự kiện này làm nổi bật danh hiệu 'Tường Thép' của Enfer và đặt ra câu hỏi về cách bảo vệ bức tường thành.",
+ "boi_canh": "Trước bức tường thành, trong một trận chiến với quái vật.",
+ "nhan_vat": [
+  "Enfer",
+  "Sylvain",
+  "Frondier (người kể chuyện)"
+ ],
+ "su_kien": [
+  "Enfer đứng trước rào chắn và thu hút sự chú ý của quái vật.",
+  "Enfer sử dụng kiếm thuật để tiêu diệt quái vật từ xa, cắt đứt đầu và chia tách cơ thể chúng.",
+  "Binh lính trên tường thành chứng kiến cảnh tượng này và thắc mắc về nguồn gốc sức mạnh của Enfer.",
+  "Các binh lính bắt đầu suy đoán rằng Enfer đang sử dụng 'sức mạnh thần thánh'.",
+  "Một người lính nhận ra rằng Enfer thực sự xứng đáng với danh hiệu 'Tường Thép'."
+ ],
+ "quan_he": [
+  {
+   "a": "Enfer",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Enfer là cấp trên của Sylvain, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binh lính 1",
+   "b": "Binh lính 2",
+   "loai": "dong_minh",
+   "mo_ta": "Hai binh lính là đồng đội, trao đổi quan sát về Enfer.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Binh lính 1",
+   "b": "Enfer",
+   "loai": "dong_minh",
+   "mo_ta": "Người lính quan sát và thắc mắc về hành động của Enfer.",
+   "cach_goi": "gọi 'Lord Commander', lễ phép"
+  },
+  {
+   "a": "Binh lính 2",
+   "b": "Enfer",
+   "loai": "dong_minh",
+   "mo_ta": "Người lính quan sát và bình luận về hành động của Enfer.",
+   "cach_goi": "gọi 'Lord Commander', lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 648,
+  "seconds": 19.4
+ }
+}

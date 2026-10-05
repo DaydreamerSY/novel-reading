@@ -1,0 +1,71 @@
+{
+ "number": 545,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Hagley sử dụng 'Chuyển Đổi Bóng Tối' tấn công bất ngờ, Selena phản ứng nhanh chóng và đối đầu với ông ta. Cuộc đối thoại giữa họ tiết lộ rằng Selena đã học diễn xuất từ Hagley và hiện tại đang cố gắng che giấu ý định thật sự của mình. Trong khi đó, Belphegor theo dõi Frondier bị ảnh hưởng bởi quyền năng của Sloth và bày tỏ sự khó chịu vì Frondier vẫn chống cự. Cuối cùng, Belphegor bắt đầu tấn công bằng những vũ khí được tạo ra từ Void Weaving.",
+ "boi_canh": "Bên trong hang động của Manggot, vào thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Hagley",
+  "Jei",
+  "Shadow",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Selena sử dụng 'Chuyển Đổi Bóng Tối' tấn công Hagley.",
+  "Selena và Hagley đối thoại về diễn xuất của Selena.",
+  "Belphegor theo dõi Frondier bị ảnh hưởng bởi quyền năng Sloth.",
+  "Belphegor tạo ra vũ khí bằng Void Weaving để tấn công.",
+  "Frondier che giấu đôi mắt lạnh giá trong khi chịu ảnh hưởng của Sloth."
+ ],
+ "quan_he": [
+  {
+   "a": "Hagley",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Người thầy của Selena, có vẻ nghi ngờ và bực bội với cô.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Hagley",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu với Hagley, che giấu ý định thật sự.",
+   "cach_goi": "gọi tên Hagley, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không giao tiếp trực tiếp, nhưng có ảnh hưởng đến quyết định của Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không giao tiếp trực tiếp, nhưng có ảnh hưởng đến quyết định của Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Theo dõi Frondier, bày tỏ sự khó chịu và muốn kết thúc cuộc chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ke_thu",
+   "mo_ta": "Bị ảnh hưởng bởi Belphegor, đang cố gắng chống lại quyền năng Sloth.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 812,
+  "seconds": 25.4
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "number": 179,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Selena nghi ngờ khu rừng mà họ đang ở là một giấc mơ, Frondier giải thích rằng nó là một giấc mơ được hiện thực hóa bằng ma thuật của Merlin. Trong quá trình di chuyển, Frondier tiết lộ những chi tiết đáng sợ về cách các sát thủ bị tra tấn để lấy thông tin và dẫn dắt Selena đi qua khu rừng theo ý mình, bỏ lại con đường đã định. Cuối cùng, họ đến gần hồ nước, đối mặt với Merlin và Lady of the Lake.",
+ "boi_canh": "Khu rừng kỳ lạ trong giấc mơ của Merlin.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aster",
+  "Hagley",
+  "Merlin",
+  "Cassian",
+  "Lady of the Lake"
+ ],
+ "su_kien": [
+  "Selena nghi ngờ khu rừng là một giấc mơ.",
+  "Frondier giải thích về bản chất của khu rừng và ma thuật.",
+  "Frondier tiết lộ chi tiết đáng sợ về việc tra tấn các sát thủ.",
+  "Frondier dẫn Cassian đi theo hướng mình muốn, bỏ qua con đường đã định.",
+  "Frondier và Selena đối mặt với Merlin và Lady of the Lake tại hồ nước."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Frondier hướng dẫn và trêu chọc Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Selena đặt câu hỏi và quan sát Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cassian",
+   "loai": "khac",
+   "mo_ta": "người cưỡi và con ngựa, Frondier điều khiển Cassian.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Merlin",
+   "b": "Lady of the Lake",
+   "loai": "cap_tren",
+   "mo_ta": "người tạo ra giấc mơ và hiện thân của hồ nước.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Merlin",
+   "loai": "doi_thu",
+   "mo_ta": "đối đầu, Frondier thách thức Merlin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lady of the Lake",
+   "loai": "nguoi_la",
+   "mo_ta": "đối đầu, Frondier nhận ra Lady of the Lake.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Khu rừng được gọi là 'Sacred Forest' (Rừng thiêng) nhưng thực chất là một giấc mơ của Merlin.",
+  "Manggot: nơi bị bỏ rơi bởi đất nước, nơi tích tụ sự phẫn nộ và thù hận."
+ ],
+ "stats": {
+  "tokens": 827,
+  "seconds": 25.4
+ }
+}

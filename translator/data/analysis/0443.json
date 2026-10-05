@@ -1,0 +1,82 @@
+{
+ "number": 443,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhận thấy sự bất thường trong lượng Mana của Hoàng đế Bartello, khác với những gì anh từng biết từ trò chơi gốc. Anh lo ngại về một thế lực bí ẩn đang làm suy yếu Bartello và nghi ngờ có ai đó cố tình gây ra điều này. Sau khi báo cho Azier biết, Frondier phát hiện ra một sinh vật kỳ lạ định tấn công Bartello và kịp thời ngăn chặn, mở ra một cuộc chiến phức tạp mà anh chưa từng biết đến.",
+ "boi_canh": "Trong phòng lớn của cung điện, vào lúc diễn ra một sự kiện trang trọng.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Enfer",
+  "Bartello",
+  "Father",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Frondier cảm nhận được sự bất thường trong lượng Mana của Bartello.",
+  "Azier so sánh tình trạng của Bartello với quá khứ của Frondier.",
+  "Azier tiết lộ cha anh từng nói có thứ gì đó can thiệp vào Frondier.",
+  "Một sinh vật kỳ lạ định tấn công Bartello.",
+  "Frondier chặn được đòn tấn công và đối mặt với sinh vật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier quan sát và lo lắng về tình trạng của Bartello.",
+   "cach_goi": "gọi 'His Majesty', lễ phép"
+  },
+  {
+   "a": "Bartello",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Bartello là đối tượng được Frondier quan sát và bảo vệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "ban_be",
+   "mo_ta": "Frondier báo cáo tình hình cho Azier và tìm kiếm sự giúp đỡ.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Azier quan sát Bartello và đưa ra nhận xét về Frondier.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Azier quan sát Bartello và đưa ra nhận xét.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng liên quan đến thông tin từ cha anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng liên quan đến thông tin từ cha anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Bartello Tert (Quốc vương)",
+  "Frondier de Roach (Tên đầy đủ của nhân vật chính)"
+ ],
+ "stats": {
+  "tokens": 878,
+  "seconds": 26.3
+ }
+}

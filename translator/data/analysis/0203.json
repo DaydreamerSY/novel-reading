@@ -1,0 +1,58 @@
+{
+ "number": 203,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào những lo lắng của Quinie về tương lai và sự an toàn của gia tộc Viet, cũng như những tin đồn đang lan truyền trong trường Constelle. Cô ấy nghi ngờ có ai đó đang cố tình tung tin giả để gây rối. Đồng thời, Frondier nhận được báo cáo từ Selena về Rokbel và bày tỏ sự tin tưởng vào Selena dù biết cô ấy là thành viên của Manggot.",
+ "boi_canh": "Hành lang trường Constelle, trong một ngày bình thường.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Anne",
+  "Rokbel",
+  "Selena"
+ ],
+ "su_kien": [
+  "Quinie lo lắng về tương lai của gia tộc Viet và cách để củng cố quyền lực.",
+  "Tin đồn thất thiệt xuất hiện trên bảng tin phép thuật, bôi nhọ Quinie.",
+  "Anne khuyên Quinie đừng quá lo lắng về những chuyện nhỏ nhặt.",
+  "Frondier yêu cầu Selena báo cáo về tình hình của Rokbel.",
+  "Selena bắt đầu báo cáo cho Frondier và bày tỏ sự an toàn của Rokbel."
+ ],
+ "quan_he": [
+  {
+   "a": "Quinie",
+   "b": "Anne",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Anne thường xuyên khuyên bảo Quinie.",
+   "cach_goi": "gọi tên Anne, thân mật"
+  },
+  {
+   "a": "Anne",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Anne thường xuyên khuyên bảo Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "thay_tro",
+   "mo_ta": "Người ra lệnh và người báo cáo. Frondier tin tưởng vào Selena.",
+   "cach_goi": "gọi tên Selena, lễ phép"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người báo cáo cho Frondier. Cô ấy có thể là đồng minh của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Quinie de Viet (tên đầy đủ của Quinie)"
+ ],
+ "stats": {
+  "tokens": 631,
+  "seconds": 18.9
+ }
+}

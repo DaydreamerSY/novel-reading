@@ -1,0 +1,59 @@
+{
+ "number": 488,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier nói ra những lời lẽ chân thật, Elodie đã sụp đổ và khóc nức nở. Frondier an ủi cô ấy, thú nhận rằng anh ta đang giả làm Frondier thực sự và xin lỗi vì những hành động trước đây của mình. Anh trấn an cô rằng cô không có lỗi gì và hứa sẽ bảo vệ cô. Cuối cùng, Elodie đã sử dụng phép thuật mạnh mẽ nhất của mình, 'Phoenix Rise - Nether Hell', với sự hỗ trợ của Frondier.",
+ "boi_canh": "Trong một không gian mơ hồ, nơi Elodie đang đối mặt với những cảm xúc sâu sắc và ám ảnh.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Fron",
+  "Elodie de Inies Rishae",
+  "Nether"
+ ],
+ "su_kien": [
+  "Elodie nghe lời Frondier nói và sụp đổ.",
+  "Elodie khóc nức nở khi những cảm xúc bị kìm nén trào ra.",
+  "Frondier an ủi Elodie và thú nhận anh đang giả làm Frondier.",
+  "Elodie sử dụng phép thuật 'Phoenix Rise - Nether Hell'.",
+  "Frondier hỗ trợ Elodie bằng cách tạo ra các rune và vũ khí."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "An ủi và thú nhận với người đang đau khổ.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Khóc và tìm kiếm sự an ủi từ người bạn.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "An ủi và bảo vệ người bạn đang đau khổ.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Tìm kiếm sự bảo vệ và an ủi từ người bạn.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier đang giả làm chính mình.",
+  "Elodie de Inies Rishae là tên đầy đủ của Elodie sau khi tỉnh táo lại."
+ ],
+ "stats": {
+  "tokens": 671,
+  "seconds": 20.3
+ }
+}

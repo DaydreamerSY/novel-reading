@@ -1,0 +1,81 @@
+{
+ "number": 438,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Tiệc mừng diễn ra, Frondier cùng Hoàng hậu Philly và công chúa Aten rời sang phòng vẽ tranh. Vua Bartello không tham gia. Philly chia sẻ về gánh nặng chính trị và sự bất mãn của những người phản đối việc bà đảm nhận công việc của nhà vua. Sau đó, bà đề cập đến sự tồn tại của 'Đội Bóng Tối' trong cung điện, khiến Aten ngạc nhiên.",
+ "boi_canh": "Trong phòng vẽ tranh của Cung điện Hoàng gia, buổi tối.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly Terst (Hoàng hậu)",
+  "Aten Terst (Tam công chúa)",
+  "Bartello Tert (Vua)",
+  "Sale",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Frondier và Philly rời tiệc đến phòng vẽ tranh cùng Aten.",
+  "Hoàng hậu Philly chia sẻ về gánh nặng chính trị và sự bất mãn của một số người.",
+  "Philly đề cập đến sự tồn tại của 'Đội Bóng Tối' trong cung điện.",
+  "Aten bày tỏ sự ngạc nhiên khi Philly tiết lộ thông tin về Đội Bóng Tối.",
+  "Frondier và Philly đối diện nhau trong phòng vẽ tranh, tạo ra một bầu không khí căng thẳng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là một người thân cận của Hoàng hậu, có sự hiểu biết và gần gũi.",
+   "cach_goi": "gọi tên 'Hoàng hậu', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu quan tâm và tin tưởng Frondier.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier và Aten cùng đi, có mối quan hệ đồng minh.",
+   "cach_goi": "gọi tên 'Công chúa Aten', lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Aten quan sát Frondier, có sự tôn trọng.",
+   "cach_goi": "gọi tên 'Frondier', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Bartello",
+   "loai": "gia_dinh",
+   "mo_ta": "Hoàng hậu và Vua có mối quan hệ phức tạp, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "Hoàng hậu có trách nhiệm giáo dục Aten về chính trị và sự thật của thế giới.",
+   "cach_goi": "gọi tên 'Công chúa', thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Công chúa Aten lắng nghe và tôn trọng lời khuyên của Hoàng hậu.",
+   "cach_goi": "gọi tên 'Hoàng hậu', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Đội Bóng Tối (Shadow Unit): Một tổ chức bí mật trong cung điện."
+ ],
+ "stats": {
+  "tokens": 922,
+  "seconds": 27.6
+ }
+}

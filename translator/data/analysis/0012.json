@@ -1,0 +1,102 @@
+{
+ "number": 12,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một nghi lễ trưng bày 'Mistilteinn' diễn ra nhưng hóa ra là giả mạo. Frondier phát hiện ra vật thể đó là kim loại nhớ hình (viscoelastic metal) và giải thích tính chất đặc biệt của nó. Sự việc giúp tránh được sự trừng phạt từ thần thánh và ngăn chặn xung đột giữa các gia tộc. Cuối cùng, cha của Frondier, Enfer, thay vì trách mắng con trai đã chấp nhận hành động của cậu.",
+ "boi_canh": "Một buổi lễ trang trọng tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Enfer",
+  "Heldre",
+  "Ludwig",
+  "Father",
+  "Quinnie"
+ ],
+ "su_kien": [
+  "Một vật thể được cho là 'Mistilteinn' xuất hiện trong một chiếc quan tài.",
+  "Vật thể đó hóa ra là kim loại nhớ hình (viscoelastic metal).",
+  "Frondier nhận biết và giải thích tính chất của kim loại này.",
+  "Sự việc giúp tránh được sự trừng phạt từ thần thánh.",
+  "Enfer chấp nhận hành động của Frondier thay vì trách mắng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, đồng tình với nhận xét của nhau.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, đồng tình với nhận xét của nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và cha, mối quan hệ căng thẳng nhưng cuối cùng được giải quyết.",
+   "cach_goi": "gọi 'Cha', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, ban đầu muốn trách mắng nhưng sau đó chấp nhận.",
+   "cach_goi": "gọi tên Frondier, nghiêm khắc"
+  },
+  {
+   "a": "Heldre",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, khen ngợi sự filial piety của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân thiện"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier trả lời lại Heldre.",
+   "cach_goi": "gọi tên Heldre, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Người có địa vị cao hơn, tham gia vào cuộc trò chuyện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Ludwig",
+   "loai": "cap_tren",
+   "mo_ta": "Người có địa vị cao hơn, Ludwig tham gia vào cuộc trò chuyện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinnie",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, bày tỏ sự ngưỡng mộ đối với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinnie",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Frondier là chủ đề của sự ngưỡng mộ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Vật thể được cho là 'Mistilteinn' hóa ra là kim loại nhớ hình (viscoelastic metal) giả mạo."
+ ],
+ "stats": {
+  "tokens": 1117,
+  "seconds": 33.4
+ }
+}

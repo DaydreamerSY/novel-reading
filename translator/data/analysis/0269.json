@@ -1,0 +1,63 @@
+{
+ "number": 269,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Pascal và Skyler nhận thấy sự kỳ lạ trong trận chiến. Họ giao đấu với nhau bằng kiếm và aura, đồng thời tranh luận về tuổi tác của đối phương. Cuối cùng, họ phát hiện ra một Rune khổng lồ và nghi ngờ Frondier có liên quan đến nó. Sự xuất hiện của Frondier gây sốc cho cả hai người, khiến họ hoang mang liệu đó là thật hay giả.",
+ "boi_canh": "Trên địa hình hiểm trở với đường ray cáp treo nối liền hai vách đá, trong một trận chiến giữa các hiệp sĩ.",
+ "nhan_vat": [
+  "Frondier",
+  "Pascal",
+  "Skyler"
+ ],
+ "su_kien": [
+  "Pascal và Skyler giao đấu bằng kiếm và aura.",
+  "Họ tranh luận về tuổi tác của nhau, Pascal chọc tức Skyler.",
+  "Skyler nhận thấy Rune khổng lồ và nghi ngờ có người kích hoạt nó.",
+  "Skyler phát hiện ra một bóng người trên vách đá đối diện, nghi là Frondier.",
+  "Pascal cũng sốc trước sự xuất hiện của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Pascal",
+   "b": "Skyler",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là đồng đội, tranh luận và trêu chọc nhau.",
+   "cach_goi": "gọi tên Skyler, thân mật"
+  },
+  {
+   "a": "Skyler",
+   "b": "Pascal",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là đồng đội, tranh luận và trêu chọc nhau.",
+   "cach_goi": "gọi tên Pascal, thân mật"
+  },
+  {
+   "a": "Skyler",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Skyler nghi ngờ Frondier là người kích hoạt Rune, nhưng chưa gặp mặt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Pascal sốc trước sự xuất hiện của Frondier, không biết thật giả.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Skyler",
+   "b": "Pascal",
+   "loai": "ban_be",
+   "mo_ta": "Cả hai đều sốc và bối rối về sự xuất hiện của Frondier.",
+   "cach_goi": "gọi tên Pascal, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Có thể có người giả trang thành Frondier."
+ ],
+ "stats": {
+  "tokens": 694,
+  "seconds": 21.4
+ }
+}

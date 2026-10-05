@@ -1,0 +1,71 @@
+{
+ "number": 232,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier mang về nhiều đồ hàng hiệu từ cửa hàng bách hóa theo yêu cầu của Elysia, nhưng cha anh, Enfer, không quan tâm đến chúng và cất chúng vào kho. Sau đó, Frondier cùng Quinie đến trang viên Roach, nơi họ gặp gỡ ngắn gọn với Enfer. Quinie mua toàn bộ số hàng này với giá 8 triệu quils, và Frondier phát hiện ra ai đó đang theo dõi họ từ bên ngoài.",
+ "boi_canh": "Tại kho chứa đồ của trang viên Roach, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Quinie",
+  "Renzo",
+  "Elysia",
+  "Enfer"
+ ],
+ "su_kien": [
+  "Frondier mang đồ từ cửa hàng bách hóa về.",
+  "Enfer cất số đồ đó vào kho mà không quan tâm.",
+  "Frondier và Quinie đến trang viên Roach.",
+  "Quinie mua toàn bộ số đồ với giá 8 triệu quils.",
+  "Frondier phát hiện ai đó đang theo dõi họ từ bên ngoài."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "con và mẹ, Frondier làm theo yêu cầu của Elysia.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "con và cha, mối quan hệ xa cách.",
+   "cach_goi": "gọi tên Enfer, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, Frondier và Quinie có mối quan hệ phức tạp.",
+   "cach_goi": "gọi tên Quinie-senpai, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, Quinie có vẻ quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Enfer",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "đồng minh, mối quan hệ chính trị.",
+   "cach_goi": "gọi tên Quinie, lễ phép"
+  },
+  {
+   "a": "Quinie",
+   "b": "Enfer",
+   "loai": "dong_minh",
+   "mo_ta": "đồng minh, mối quan hệ chính trị.",
+   "cach_goi": "gọi tên Enfer, lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 755,
+  "seconds": 22.6
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "number": 457,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Quái vật lang thang trong cung điện, tìm cách thử nghiệm một kỹ thuật mới bằng cách biến thành Azier de Roach để tránh bị phát hiện. Nó bắt đầu im lặng và hành động như Azier, nhưng sau đó bị Philly Terst phát hiện. Khi cố gắng sử dụng 'Falling Edge', nó vô tình gây ra đau đớn cho một hiệp sĩ và bị Frondier đối mặt, người đã được lệnh giết quái vật này nhưng lại tò mò về nó.",
+ "boi_canh": "Trong các hành lang của cung điện hoàng gia, vào thời điểm quái vật đang cố gắng hòa nhập.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Aten Terst",
+  "Azier de Roach",
+  "Gregory",
+  "Mizonas",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Quái vật lang thang trong cung điện để thử nghiệm kỹ thuật.",
+  "Quái vật biến thành Azier de Roach.",
+  "Philly Terst phát hiện ra sự bất thường của 'Azier'.",
+  "Quái vật cố gắng sử dụng 'Falling Edge' và gây đau cho một hiệp sĩ.",
+  "Frondier xuất hiện và đối mặt với quái vật."
+ ],
+ "quan_he": [
+  {
+   "a": "Quái Vật (Monster)",
+   "b": "Philly Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Quái vật giả dạng Azier, Philly nghi ngờ nhưng chưa xác định được.",
+   "cach_goi": "gọi 'Azier', không rõ thái độ"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Quái Vật (Monster)",
+   "loai": "nguoi_la",
+   "mo_ta": "Philly nghi ngờ sự bất thường của Azier.",
+   "cach_goi": "gọi 'Azier', không rõ thái độ"
+  },
+  {
+   "a": "Quái Vật (Monster)",
+   "b": "Hiệp Sĩ (Knight)",
+   "loai": "dong_minh",
+   "mo_ta": "Quái vật vô tình gây đau cho hiệp sĩ khi thử nghiệm kỹ thuật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hiệp Sĩ (Knight)",
+   "b": "Quái Vật (Monster)",
+   "loai": "dong_minh",
+   "mo_ta": "Hiệp sĩ bị quái vật gây đau và sau đó rút kiếm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quái Vật (Monster)",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đối mặt với quái vật, có sự tò mò và nghi ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quái Vật (Monster)",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Quái vật bị Frondier đối mặt, cảm thấy bối rối và khó chịu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly quan sát Frondier từ xa, có vẻ như đang đánh giá tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Quái vật (Monster) biến thành Azier de Roach để thử nghiệm kỹ thuật. Không rõ danh tính thật của quái vật."
+ ],
+ "stats": {
+  "tokens": 930,
+  "seconds": 27.9
+ }
+}

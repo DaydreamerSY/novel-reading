@@ -1,0 +1,96 @@
+{
+ "number": 326,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi rời khỏi trang viên, xe đã chờ sẵn. Ông Enfer đang trò chuyện bí mật với tài xế khiến Frondier không nghe rõ. Sau đó, ông ấy nhắc đến việc Frondier đến Yeranhes, khiến tài xế có vẻ ngạc nhiên. Trong xe, một cuộc trò chuyện ngắn ngủi về kết quả thi cuối kỳ của Frondier đã diễn ra, và ông Enfer dường như đang dò xét cậu. Cuối cùng, họ đến Yeranhes, nơi các Hiệp sĩ Roach chào đón, và ông Enfer giao Frondier cho chỉ huy Sylvain để huấn luyện.",
+ "boi_canh": "Bên trong xe hơi trên đường tới Yeranhes.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aster",
+  "Azier",
+  "Enfer",
+  "Malia",
+  "Sylvain",
+  "Sanders"
+ ],
+ "su_kien": [
+  "Xe đã sẵn sàng chờ Frondier và gia đình rời khỏi trang viên.",
+  "Ông Enfer có cuộc trò chuyện bí mật với tài xế.",
+  "Ông Enfer nhắc đến việc Frondier đến Yeranhes, khiến tài xế tỏ ra ngạc nhiên.",
+  "Ông Enfer hỏi Frondier về thứ hạng thi cuối kỳ của cậu.",
+  "Ông Enfer giao Frondier cho chỉ huy Sylvain để huấn luyện."
+ ],
+ "quan_he": [
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Ông bố nghiêm khắc, dò xét và có vẻ biết nhiều hơn những gì cậu nói.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Con trai luôn phải tuân theo mệnh lệnh của cha.",
+   "cach_goi": "gọi tên Enfer, lễ phép"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành im lặng, hiểu rõ bầu không khí.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành im lặng, hiểu rõ bầu không khí.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Tài xế",
+   "loai": "nguoi_la",
+   "mo_ta": "Trò chuyện bí mật, không rõ nội dung.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Chỉ huy Hiệp sĩ Roach, kính trọng ông Enfer.",
+   "cach_goi": "gọi 'Lord', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Ông chủ giao việc cho người dưới quyền.",
+   "cach_goi": "gọi tên Sylvain, trịch thượng"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Chỉ huy Hiệp sĩ Roach, có vẻ ngạc nhiên khi thấy Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Con trai được giao huấn luyện bởi chỉ huy Hiệp sĩ Roach.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster."
+ ],
+ "stats": {
+  "tokens": 1025,
+  "seconds": 31.6
+ }
+}

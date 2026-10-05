@@ -1,0 +1,110 @@
+{
+ "number": 472,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi giải phóng hoàn toàn áp lực từ Obsidian, Frondier nhận thấy Hạt Long Cung vẫn không đổi. Anh quyết định giao nó cho Aten để giúp Philly chữa trị chứng yếu của Hoàng đế Bartello. Trên đường đến Học viện Constel, Frondier cảm thấy có điều gì đó bất thường nhưng không xác định được và sau đó gặp Robald Lief, người bày tỏ sự ghen tị với anh. Cuối cùng, Frondier hẹn Aten ở một nơi bí mật để giao Dragon Heart.",
+ "boi_canh": "Trong khuôn viên Học viện Constel vào buổi sáng.",
+ "nhan_vat": [
+  "Frondier",
+  "Mei",
+  "Azier",
+  "Enfer",
+  "Philly",
+  "Aten",
+  "Bartello",
+  "Gregory",
+  "Robald",
+  "Adam"
+ ],
+ "su_kien": [
+  "Frondier giải phóng áp lực từ Obsidian và quan sát Hạt Long Cung.",
+  "Frondier quyết định giao Dragon Heart cho Aten để giúp Philly.",
+  "Gregory, con quạ, hỏi Frondier về những bất thường tại Học viện Constel.",
+  "Robald Lief bày tỏ sự ghen tị với Frondier.",
+  "Frondier hẹn Aten ở một nơi bí mật để giao Dragon Heart."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Frondier giải thích về Dragon Heart cho Mei.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Mei hỏi về cách giao Dragon Heart.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Con trai và cha, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "dong_minh",
+   "mo_ta": "Không tương tác trực tiếp, Frondier đề cập đến Philly.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier hẹn Aten để giao Dragon Heart.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aten đáp lại lời chào của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "thay_tro",
+   "mo_ta": "Chủ và quạ, Frondier hỏi Gregory về tình hình tại Học viện Constel.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Quạ và chủ, Gregory trả lời câu hỏi của Frondier.",
+   "cach_goi": "gọi 'Master', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robald",
+   "loai": "dong_minh",
+   "mo_ta": "Không phải người thân thiết, Robald bày tỏ sự ghen tị với Frondier.",
+   "cach_goi": "gọi tên Robald, thân mật"
+  },
+  {
+   "a": "Robald",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Không phải người thân thiết, Robald bày tỏ sự ghen tị với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1188,
+  "seconds": 35.6
+ }
+}

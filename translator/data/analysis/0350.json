@@ -1,0 +1,56 @@
+{
+ "number": 350,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chapter này mô tả một cuộc tấn công của lũ quái vật lên rào chắn. Frondier sử dụng khả năng đặc biệt để tiêu diệt quái vật bay, giúp quân đội lấy lại tinh thần và chiến đấu hiệu quả hơn. Sylvain bị chất vấn về nguồn gốc của những ngọn giáo bay, và anh ta đã nói dối để bảo vệ Frondier, nhận ra tầm quan trọng của Frondier trong cuộc chiến này. Cuối cùng, Enfer hạ cánh xuống dưới rào chắn, giao phó việc đối phó với quái vật bay cho Frondier.",
+ "boi_canh": "Trên rào chắn, giữa một trận chiến ác liệt.",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Sylvain"
+ ],
+ "su_kien": [
+  "Những ngọn giáo bay bất ngờ xuất hiện và tiêu diệt lũ quái vật bay.",
+  "Quân đội và kỵ sĩ kinh ngạc trước sự kiện này.",
+  "Tinh thần của quân đội được nâng cao sau khi thấy Sylvain tạo ra những ngọn giáo đó.",
+  "Frondier đột ngột rời vị trí quan sát.",
+  "Sylvain nói dối về nguồn gốc của những ngọn giáo bay để bảo vệ Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là người hướng dẫn và Sylvain là người thực thi mệnh lệnh.",
+   "cach_goi": "gọi tên Sylvain, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Sylvain nhận lệnh từ Frondier và thực hiện.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Enfer",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Enfer là cấp trên của Sylvain và chất vấn anh ta.",
+   "cach_goi": "gọi tên Sylvain, lạnh lùng"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Sylvain trả lời chất vấn của Enfer.",
+   "cach_goi": "gọi tên Enfer, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính mới hoặc bí mật nào được tiết lộ trong chương này."
+ ],
+ "stats": {
+  "tokens": 645,
+  "seconds": 19.3
+ }
+}

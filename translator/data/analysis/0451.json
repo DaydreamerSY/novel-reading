@@ -1,0 +1,86 @@
+{
+ "number": 451,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Đêm đến, một người đàn ông bí ẩn đột nhập vào nhà tù giam giữ quái vật có khả năng bắt chước. Anh ta đối đầu với Azier trong một trận chiến ngắn, hé lộ sức mạnh vượt trội và sự khác biệt lớn về đẳng cấp giữa họ. Quái vật, hiện đang mang hình dạng của Pascal, quan sát cuộc chiến và dường như đang học hỏi.",
+ "boi_canh": "Một nhà tù tối tăm vào đêm khuya.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Enfer",
+  "Pascal",
+  "Guard (disguised as Azier)"
+ ],
+ "su_kien": [
+  "Quái vật bắt chước hình dạng của Pascal.",
+  "Một người đàn ông bí ẩn đột nhập vào nhà tù.",
+  "Azier đối đầu với người lạ, người đã đánh lừa lính canh.",
+  "Lính canh bị phơi bày là Azier đang cải trang.",
+  "Người đàn ông sử dụng Aura từ tay để tấn công Azier."
+ ],
+ "quan_he": [
+  {
+   "a": "Azier",
+   "b": "Guard (disguised as Azier)",
+   "loai": "cap_tren",
+   "mo_ta": "Azier là người có quyền lực hơn, đang đối đầu với lính canh.",
+   "cach_goi": "gọi 'lính canh', lễ phép"
+  },
+  {
+   "a": "Guard (disguised as Azier)",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Lính canh cải trang đang đối đầu với Azier.",
+   "cach_goi": "gọi 'Azier', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người đàn ông bí ẩn",
+   "b": "Guard (disguised as Azier)",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ tấn công lính canh cải trang.",
+   "cach_goi": "gọi 'lính canh', thô lỗ"
+  },
+  {
+   "a": "Guard (disguised as Azier)",
+   "b": "Người đàn ông bí ẩn",
+   "loai": "nguoi_la",
+   "mo_ta": "Lính canh cải trang bị người lạ tấn công.",
+   "cach_goi": "gọi 'người đàn ông', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Người đàn ông bí ẩn",
+   "loai": "doi_thu",
+   "mo_ta": "Azier và người lạ đang đối đầu trong một trận chiến.",
+   "cach_goi": "gọi 'người đàn ông', lạnh lùng"
+  },
+  {
+   "a": "Người đàn ông bí ẩn",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Người lạ đang đối đầu với Azier.",
+   "cach_goi": "gọi 'Azier', thô lỗ"
+  },
+  {
+   "a": "Quái vật (Pascal)",
+   "b": "Azier",
+   "loai": "khac",
+   "mo_ta": "Quái vật quan sát trận chiến giữa Azier và người lạ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người đàn ông bí ẩn",
+   "b": "Quái vật (Pascal)",
+   "loai": "khac",
+   "mo_ta": "Người lạ quan sát quái vật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Lính canh bị phơi bày là Azier đang cải trang."
+ ],
+ "stats": {
+  "tokens": 933,
+  "seconds": 27.9
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "number": 9,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào sự kiện đấu giá Mistletoe đang gây xôn xao ở Constel. Frondier trở thành tâm điểm chú ý vì những phát ngôn kỳ lạ của cậu, và mối quan hệ phức tạp giữa các gia tộc. Cậu gặp gỡ Elodie trước khi đến buổi họp mặt của các trưởng tộc, và có một cuộc đối đầu ngắn với Aster cùng lời hứa bí ẩn từ Frondier. Cuối cùng, Frondier lên xe ngựa cùng anh trai Azier, người mà cậu lo sợ sẽ phát hiện ra thân phận thật sự của mình.",
+ "boi_canh": "Trong khuôn viên trường học Constel, trước buổi họp mặt các trưởng tộc.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Azier",
+  "Enfer",
+  "Aster Evans",
+  "Father",
+  "Azier de Roach",
+  "Enfer de Roach",
+  "Malia"
+ ],
+ "su_kien": [
+  "Đấu giá Mistletoe bị hủy bỏ.",
+  "Frondier gây xôn xao với lời nhận xét về hình dáng của Mistletoe.",
+  "Elodie đến gặp Frondier trước khi đi họp mặt.",
+  "Aster yêu cầu Elodie lấy được Mistletoe.",
+  "Frondier hứa sẽ giải quyết lo lắng cho Aster."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, cùng lớp nhưng khác nhóm.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, cùng lớp nhưng khác nhóm.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn học cùng lớp, có vẻ quan tâm đặc biệt.",
+   "cach_goi": "gọi tên Elodie, lịch sự"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn học cùng lớp, có vẻ quan tâm đặc biệt.",
+   "cach_goi": "gọi tên Aster, lịch sự"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người hầu như không quen biết nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người hầu như không quen biết nhau.",
+   "cach_goi": "gọi tên Frondier, lịch sự"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, có vẻ không thích Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, có vẻ không thích Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster.",
+  "Azier de Roach: Anh trai của Frondier."
+ ],
+ "stats": {
+  "tokens": 960,
+  "seconds": 28.8
+ }
+}

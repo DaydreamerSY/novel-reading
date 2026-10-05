@@ -1,0 +1,49 @@
+{
+ "number": 527,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong một trận chiến căng thẳng với Notker, Frondier nhận ra rằng đối thủ của mình đã giữ lại sức mạnh thực sự. Sau khi Aster kích động, Notker sử dụng kỹ năng thật của mình và nhận thấy cuộc chiến diễn ra cân bằng kỳ lạ ngay từ đầu. Cuối cùng, Aster tiết lộ rằng anh ta đang điều chỉnh theo phong cách chiến đấu của Notker và nhìn thấu những gì Notker đang che giấu.",
+ "boi_canh": "Một trận chiến giữa Frondier và Notker tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Notker"
+ ],
+ "su_kien": [
+  "Notker nhận thấy sự kỳ lạ trong trận chiến.",
+  "Trận đấu giữa Aster và Notker diễn ra cân bằng.",
+  "Notker sử dụng kỹ năng thật của mình.",
+  "Aster tiết lộ anh ta đang điều chỉnh theo phong cách chiến đấu của Notker.",
+  "Aster chỉ trích Notker vì thiếu sự tuyệt vọng."
+ ],
+ "quan_he": [
+  {
+   "a": "Notker",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, Notker nghi ngờ Frondier đang che giấu sức mạnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Notker",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, Aster đang phân tích và điều chỉnh phong cách chiến đấu của Notker.",
+   "cach_goi": "gọi tên Notker, không rõ thái độ"
+  },
+  {
+   "a": "Notker",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, Notker cảm thấy bị hạ nhục bởi Aster.",
+   "cach_goi": "gọi tên Aster, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster."
+ ],
+ "stats": {
+  "tokens": 514,
+  "seconds": 16.0
+ }
+}

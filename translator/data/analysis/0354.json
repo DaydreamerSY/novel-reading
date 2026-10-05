@@ -1,0 +1,71 @@
+{
+ "number": 354,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Cuộc chiến tại rào chắn tiếp tục diễn ra ác liệt khi mặt trời dần lặn xuống. Tình hình trở nên bế tắc, khiến quân đội nhân loại gặp bất lợi. Frondier xuất hiện với khả năng đặc biệt, hấp thụ quái vật đen và sử dụng Obsidian để tiêu diệt chúng, nhưng lại phải đối mặt với cảm giác 'tích lũy tội lỗi' do sức mạnh vượt quá giới hạn của bản thân. Anh cũng phát hiện ra sự xuất hiện của Cyclops, một dấu hiệu cho thấy những con quái vật ngoài rào chắn còn đáng sợ hơn.",
+ "boi_canh": "Trên chiến tuyến tại rào chắn, khi mặt trời dần lặn xuống.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Enfer",
+  "Sylvain"
+ ],
+ "su_kien": [
+  "Tình hình chiến đấu tại rào chắn bế tắc, gây bất lợi cho quân đội nhân loại.",
+  "Frondier xuất hiện và hấp thụ quái vật đen, sử dụng Obsidian để tiêu diệt chúng.",
+  "Quân lính phát hiện ra Frondier đang hấp thụ quái vật đen và biến chúng thành vũ khí.",
+  "Frondier cảm nhận được sự khó chịu về mặt tinh thần do sức mạnh vượt quá giới hạn.",
+  "Sự xuất hiện của Cyclops báo hiệu sự nguy hiểm từ những con quái vật ngoài rào chắn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier quan sát Enfer chiến đấu, không giao tiếp trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sylvain không biết Frondier là ai, chỉ quan sát anh chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quân lính",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Quân lính quan sát Frondier với sự ngạc nhiên và tò mò.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Enfer thoáng nhìn Frondier, sau đó tập trung vào chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Quân lính",
+   "loai": "thay_tro",
+   "mo_ta": "Sylvain ra lệnh và động viên quân lính.",
+   "cach_goi": "gọi 'các bạn', thân mật"
+  },
+  {
+   "a": "Quân lính",
+   "b": "Sylvain",
+   "loai": "dong_minh",
+   "mo_ta": "Quân lính tuân theo lệnh của Sylvain.",
+   "cach_goi": "gọi 'Sir', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Danh tính thật của thực thể đen bí ẩn, được quân lính phát hiện ra."
+ ],
+ "stats": {
+  "tokens": 842,
+  "seconds": 25.2
+ }
+}

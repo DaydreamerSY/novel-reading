@@ -1,0 +1,89 @@
+{
+ "number": 211,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bị dính phải tin đồn kỳ lạ về việc tán tỉnh nhiều người, bao gồm cả Elodie và Sybil, thậm chí còn có Aten. Robald ban đầu bị thuyết phục bởi những tin đồn này nhưng sau đó lại bị Gregory kéo lại. Khi Frondier từ chối đi theo họ, Robald tấn công anh ta bằng sức mạnh thể chất thô bạo. Giữa lúc căng thẳng leo thang, Serf Daniel sử dụng khả năng đặc biệt của mình để kiểm soát học sinh Constel và bao vây Frondier. Cuối cùng, Elodie xuất hiện và cứu Frondier khỏi tình huống nguy hiểm.",
+ "boi_canh": "Trong khuôn viên trường Constel, giữa một đám đông học sinh.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aten",
+  "Sybil",
+  "Gregory",
+  "Serf",
+  "Robald",
+  "Serf Daniel"
+ ],
+ "su_kien": [
+  "Frondier bị dính phải tin đồn về việc tán tỉnh nhiều người.",
+  "Robald tấn công Frondier bằng sức mạnh thể chất.",
+  "Gregory củng cố thêm độ tin cậy của những tin đồn.",
+  "Serf Daniel sử dụng khả năng kiểm soát học sinh Constel.",
+  "Elodie cứu Frondier khỏi nguy hiểm."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Robald",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, có sự thù địch.",
+   "cach_goi": "gọi tên Robald, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Robald",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Tấn công và chế giễu Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Cung cấp thông tin và củng cố tin đồn về Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "khac",
+   "mo_ta": "Phản đối và chỉ trích hành động của Gregory.",
+   "cach_goi": "gọi tên Gregory, thô lỗ"
+  },
+  {
+   "a": "Serf Daniel",
+   "b": "Robald",
+   "loai": "cap_tren",
+   "mo_ta": "Điều khiển và hướng dẫn hành động của Robald.",
+   "cach_goi": "gọi tên Robald, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Robald",
+   "b": "Serf Daniel",
+   "loai": "cap_tren",
+   "mo_ta": "Tuân theo mệnh lệnh của Serf Daniel.",
+   "cach_goi": "gọi tên Serf Daniel, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Cứu và bảo vệ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Được Elodie bảo vệ.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Serf Daniel: Người điều khiển học sinh Constel bằng thẻ bài, giọng nói vang lên trong bản tin của trường."
+ ],
+ "stats": {
+  "tokens": 981,
+  "seconds": 29.5
+ }
+}

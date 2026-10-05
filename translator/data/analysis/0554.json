@@ -1,0 +1,89 @@
+{
+ "number": 554,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Azier lên tiếng, Shepherd Andika thể hiện sự tức giận và tấn công. Azier đáp trả bằng cách sử dụng kỹ thuật thu hồi vũ khí từ xa và bắn trả lại các Shepherds. Sau đó, Frondier xuất hiện cùng với các giáo viên Constel khác để hỗ trợ Azier, bao vây các Shepherds. Cuộc chiến trở nên căng thẳng hơn khi Jane tung ra phép thuật mạnh mẽ.",
+ "boi_canh": "Một trận chiến giữa Azier và các Shepherd tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Enfer",
+  "Osprey",
+  "Jane",
+  "Pascal",
+  "Isamaya",
+  "Andika",
+  "Pascal Schlitz",
+  "Beso"
+ ],
+ "su_kien": [
+  "Shepherd Andika thể hiện sự tức giận và tấn công Azier.",
+  "Azier sử dụng kỹ thuật thu hồi vũ khí từ xa để bắn trả các Shepherds.",
+  "Frondier cùng với các giáo viên Constel khác xuất hiện hỗ trợ Azier.",
+  "Jane tung ra phép thuật mạnh mẽ, bao phủ khu vực xung quanh.",
+  "Andika tuyên bố rằng Manggot sẽ thiêu rụi người dân của Đế quốc."
+ ],
+ "quan_he": [
+  {
+   "a": "Andika",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Andika khiêu khích và tấn công Azier.",
+   "cach_goi": "gọi tên Azier, lạnh lùng"
+  },
+  {
+   "a": "Beso",
+   "b": "Andika",
+   "loai": "doi_thu",
+   "mo_ta": "Đồng minh của Andika, thể hiện sự tức giận đối với Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Andika",
+   "loai": "doi_thu",
+   "mo_ta": "Đáp trả khiêu khích của Andika.",
+   "cach_goi": "gọi tên Andika, lạnh lùng"
+  },
+  {
+   "a": "Jane",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên Constel, đưa ra lời khuyên và quan sát.",
+   "cach_goi": "gọi tên Azier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Được Jane nhắc đến, Frondier đã đưa ra nhận xét về Shepherds.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal Schlitz",
+   "b": "Isamaya",
+   "loai": "ban_be",
+   "mo_ta": "Đồng nghiệp, tranh luận về chiến lược.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Isamaya",
+   "b": "Pascal Schlitz",
+   "loai": "ban_be",
+   "mo_ta": "Đồng nghiệp, tranh luận về chiến lược.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Đề cập đến Frondier, thừa nhận sự đóng góp của anh ấy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 931,
+  "seconds": 29.0
+ }
+}

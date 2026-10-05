@@ -1,0 +1,96 @@
+{
+ "number": 195,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau vài ngày trôi qua, Frondier và Selena chuẩn bị rời khỏi Tyburn. Robert, một trong những kỵ sĩ hộ tống Philly, đến thăm họ. Cuộc trò chuyện hé lộ những lo ngại về sự an toàn của Robert và mối quan hệ giữa Philly và Robert. Khi Frondier trở về Constel, Grobel gây ra ồn ào để kêu gọi giúp đỡ cho em trai bị giam giữ, Lokbel. Cuối cùng, Frondier và Selena lên xe trở về dinh thự Roach.",
+ "boi_canh": "Trong phòng của Frondier ở Tyburn, vào cuối kỳ nghỉ.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Robert",
+  "Philly",
+  "Enfer",
+  "Ludwig",
+  "Grobel",
+  "Lokbel"
+ ],
+ "su_kien": [
+  "Robert đến thăm Frondier và Selena đang chuẩn bị rời đi.",
+  "Cuộc trò chuyện giữa Frondier, Selena và Robert về sự an toàn của Robert và mối quan hệ của Philly.",
+  "Grobel gây ra ồn ào khi được giải thoát để kêu gọi giúp đỡ cho em trai Lokbel.",
+  "Frondier và Selena lên xe trở về dinh thự Roach.",
+  "Frondier nhận lời chào tạm biệt từ các kỵ sĩ và Ludwig."
+ ],
+ "quan_he": [
+  {
+   "a": "Robert",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "kỵ sĩ hộ tống Philly đến thăm Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robert",
+   "loai": "nguoi_la",
+   "mo_ta": "kỵ sĩ hộ tống Philly đến thăm Frondier.",
+   "cach_goi": "gọi tên Robert, thân mật"
+  },
+  {
+   "a": "Robert",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Robert nhìn Selena khi họ lên xe.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "đồng hành cùng Frondier trong chuyến đi.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng hành cùng Frondier trong chuyến đi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đến thúc giục Frondier rời đi.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "đáp lại lời thúc giục của Ludwig.",
+   "cach_goi": "gọi tên Ludwig, thân mật"
+  },
+  {
+   "a": "Grobel",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "tạo ra ồn ào để kêu gọi giúp đỡ.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Grobel",
+   "loai": "nguoi_la",
+   "mo_ta": "nhìn Grobel khi anh ta gây ra ồn ào.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Lokbel: Em trai của Grobel, đang bị giam giữ."
+ ],
+ "stats": {
+  "tokens": 1024,
+  "seconds": 30.6
+ }
+}

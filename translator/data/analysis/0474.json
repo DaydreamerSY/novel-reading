@@ -1,0 +1,70 @@
+{
+ "number": 474,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tan học, Frondier đến văn phòng hiệu trưởng để xác minh một số điều liên quan đến sự biến mất của Osprey. Anh phát hiện ra văn phòng trống không và bắt đầu suy đoán về việc ai đang đưa ra quyết định tại Constel. Trong quá trình đó, anh chạm trán với giáo viên Jane, người có vẻ bối rối và né tránh câu hỏi về hiệu trưởng.",
+ "boi_canh": "Văn phòng hiệu trưởng của trường Constel, sau tan học.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Quinie",
+  "Osprey",
+  "Jane",
+  "Edwin",
+  "Kora",
+  "Armel",
+  "Armel de Viet"
+ ],
+ "su_kien": [
+  "Frondier đến văn phòng hiệu trưởng để tìm hiểu về sự biến mất của Osprey.",
+  "Văn phòng hiệu trưởng trống không, không có dấu hiệu của ai cả.",
+  "Frondier suy đoán về việc ai đang đưa ra quyết định tại Constel.",
+  "Anh chạm trán với giáo viên Jane khi đang ở văn phòng hiệu trưởng.",
+  "Jane có vẻ bối rối và né tránh câu hỏi liên quan đến hiệu trưởng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier đang điều tra sự biến mất của Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau bất ngờ; Frondier nghi ngờ Jane có liên quan.",
+   "cach_goi": "gọi tên Jane, không rõ"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên Jane có vẻ bối rối và né tránh câu hỏi của Frondier.",
+   "cach_goi": "gọi tên Frondier, cảnh báo"
+  },
+  {
+   "a": "Frondier",
+   "b": "Armel de Viet",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier liên hệ Armel với sự biến mất của Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "khac",
+   "mo_ta": "Cha của Quinie liên quan đến sự kiện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Osprey: Có thể đã bị xóa khỏi mọi hồ sơ và ký ức.",
+  "Armel de Viet: Tên đầy đủ của cha Quinie, có liên quan đến sức mạnh Lethe."
+ ],
+ "stats": {
+  "tokens": 746,
+  "seconds": 22.3
+ }
+}

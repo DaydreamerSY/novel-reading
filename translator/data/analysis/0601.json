@@ -1,0 +1,56 @@
+{
+ "number": 601,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Paul tỉnh dậy trong một căn phòng tối tăm sau khi bị Frondier bắt giữ, không nhớ gì về những gì đã xảy ra tiếp theo. Anh ta nhận thấy mình bị trói vào ghế Obsidian và suy đoán về lý do Frondier giữ anh ta sống. Sau đó, Frondier xuất hiện cùng với Jeremy bị thương nặng, và Paul hỏi về tình trạng của Jeremy.",
+ "boi_canh": "Một căn phòng tối tăm trong phòng thí nghiệm của Hitchcock.",
+ "nhan_vat": [
+  "Frondier",
+  "Paul",
+  "Jeremy"
+ ],
+ "su_kien": [
+  "Paul tỉnh dậy và phát hiện mình bị trói vào ghế Obsidian.",
+  "Paul không nhớ gì về những gì Frondier đã làm sau khi bắt giữ anh ta.",
+  "Frondier xuất hiện cùng với Jeremy bị thương nặng.",
+  "Jeremy vẫn còn sống, mặc dù bị thương rất nhiều.",
+  "Frondier kể lại chi tiết cách anh ta đối phó với Jeremy trong các thử nghiệm."
+ ],
+ "quan_he": [
+  {
+   "a": "Paul",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Paul nghi ngờ và căm ghét Frondier vì đã bắt giữ và tra tấn anh ta.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Paul",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đối xử với Paul một cách thờ ơ và có vẻ thích thú khi kể lại việc tra tấn anh ta.",
+   "cach_goi": "gọi tên Paul, lạnh lùng"
+  },
+  {
+   "a": "Paul",
+   "b": "Jeremy",
+   "loai": "ban_be",
+   "mo_ta": "Paul quan tâm đến tình trạng của Jeremy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jeremy",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier tra tấn Jeremy như một phần của các thí nghiệm.",
+   "cach_goi": "gọi tên Jeremy, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính nhân vật."
+ ],
+ "stats": {
+  "tokens": 597,
+  "seconds": 18.7
+ }
+}

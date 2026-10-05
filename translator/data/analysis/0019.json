@@ -1,0 +1,77 @@
+{
+ "number": 19,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, đến lượt Aster thử cắt đá nhưng không thành công. Sau đó, Sybil Forte bất ngờ cắt được đá, gây ấn tượng mạnh cho mọi người. Cô ấy quyết định đi dungeon và kêu gọi Aster đi cùng. Cuối cùng, Aster đề nghị Frondier tham gia nhóm của họ, khiến Frondier ngạc nhiên.",
+ "boi_canh": "Trong khu vực luyện tập của học viện, vào thời điểm các học viên đang thực hành cắt đá.",
+ "nhan_vat": [
+  "Aster",
+  "Sybil",
+  "Lunia",
+  "Alex",
+  "Aster Evans",
+  "Sybil Forte",
+  "Lunia Fricell",
+  "Frondier"
+ ],
+ "su_kien": [
+  "Aster không thể cắt được đá bằng sức mạnh của mình.",
+  "Sybil Forte bất ngờ cắt được đá, gây ngạc nhiên cho mọi người.",
+  "Alex nhận xét về sự may mắn và tiềm năng nguy hiểm của Sybil Forte.",
+  "Sybil quyết định đi dungeon và kêu gọi Aster đi cùng.",
+  "Aster đề nghị Frondier tham gia nhóm dungeon của họ."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Aster đề nghị Frondier tham gia nhóm dungeon của mình.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier phản hồi lời đề nghị của Aster.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Sybil mời Aster đi dungeon cùng nhau.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Aster đồng ý đi dungeon cùng Sybil.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Alex",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Alex quan sát và bình luận về hành động của Sybil.",
+   "cach_goi": "gọi tên Sybil, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Alex",
+   "loai": "dong_minh",
+   "mo_ta": "Sybil không nói chuyện với Alex.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)",
+  "Sybil Forte (tên đầy đủ của Sybil)",
+  "Lunia Fricell (tên đầy đủ của Lunia)"
+ ],
+ "stats": {
+  "tokens": 780,
+  "seconds": 23.4
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "number": 123,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bầy quái vật thay đổi hướng di chuyển và bắt đầu bỏ chạy, Aster nhanh chóng hành động, cưỡi một con ngựa trắng tên Cassian để đuổi theo chúng. Anh ta chém giết quái vật không ngừng nghỉ, nhưng số lượng quá lớn. Bất ngờ, một trận mưa tên từ trên trời rơi xuống, tiêu diệt hoàn toàn bầy quái vật mà không gây hại cho bất kỳ ai trong nhóm Frondier. Sau đó, Philly xuất hiện và hỗ trợ Frondier, dù anh ta đã mệt mỏi.",
+ "boi_canh": "Một khu vực chiến đấu gần một ngôi làng, vào buổi sáng.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Philly Terst",
+  "Aten Terst",
+  "Lunia",
+  "Cassian"
+ ],
+ "su_kien": [
+  "Aster cưỡi ngựa Cassian đuổi theo bầy quái vật.",
+  "Aster chém giết quái vật với tốc độ cao.",
+  "Một trận mưa tên từ trên trời rơi xuống, tiêu diệt hoàn toàn bầy quái vật.",
+  "Elodie và Lunia quan sát sự kiện kỳ lạ này.",
+  "Philly xuất hiện và hỗ trợ Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier quan sát hành động của Aster.",
+   "cach_goi": "gọi tên Aster, không rõ cảm xúc"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Aster hành động mà không giao tiếp với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Elodie và Lunia quan sát cùng nhau.",
+   "cach_goi": "gọi tên Lunia, thân mật"
+  },
+  {
+   "a": "Lunia",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Lunia phản ứng với hành động của Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu và người lính, Philly hỗ trợ và khiển trách Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Người lính và Hoàng hậu, Frondier nhận sự hỗ trợ của Philly.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Cassian: Tên con ngựa mà Aster cưỡi.",
+  "Philly Terst: Hoàng hậu của đế quốc."
+ ],
+ "stats": {
+  "tokens": 820,
+  "seconds": 25.7
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "number": 46,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, golem hoàn toàn phớt lờ mệnh lệnh của Edwin và tấn công không ngừng nghỉ. Frondier sử dụng vòng cổ Obsidian do Quinie trao tặng để thu thập Obsidian từ môi trường xung quanh và tạm thời sử dụng kiếm Gram. Anh ta đối mặt với một giọng nói bí ẩn bên trong golem, tiết lộ rằng nó là kẻ thao túng đằng sau sự tha hóa của Edwin. Cuối cùng, Frondier bắt đầu mô phỏng các kỹ thuật của Azier để đối phó với golem.",
+ "boi_canh": "Một trận chiến căng thẳng diễn ra ở một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Quinie",
+  "Ellen",
+  "Edwin",
+  "Slevb",
+  "Sigurd"
+ ],
+ "su_kien": [
+  "Golem phớt lờ mệnh lệnh của Edwin và tấn công.",
+  "Ellen ném kiếm vào golem, tiêu tốn toàn bộ thể lực và mana của cô.",
+  "Frondier sử dụng vòng cổ Obsidian để thu thập Obsidian.",
+  "Frondier tạm thời sử dụng kiếm Gram, dẫn đến kiệt sức về mana.",
+  "Một giọng nói bí ẩn xuất hiện trong golem, tiết lộ sự thật về kẻ thao túng."
+ ],
+ "quan_he": [
+  {
+   "a": "Edwin",
+   "b": "Golem",
+   "loai": "ke_thu",
+   "mo_ta": "Edwin không thể kiểm soát golem.",
+   "cach_goi": "gọi 'tôi', mệnh lệnh"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, hỗ trợ lẫn nhau trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Người trao vòng cổ Obsidian cho Frondier.",
+   "cach_goi": "gọi tên Quinie, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sigurd",
+   "loai": "nguoi_la",
+   "mo_ta": "Người sở hữu kiếm Gram, Frondier tạm thời sử dụng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Golem là bản sao của Azier, Frondier đang cố gắng bắt chước kỹ thuật của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Slevb",
+   "loai": "nguoi_la",
+   "mo_ta": "Người có liên quan đến kỹ thuật mà Frondier đã thấy trước đây.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Vòng cổ Obsidian: Được trao bởi Quinie, có khả năng hấp thụ chất lỏng và mở rộng không gian.",
+  "Kiếm Gram: Thuộc về Sigurd, Frondier tạm thời sử dụng."
+ ],
+ "stats": {
+  "tokens": 831,
+  "seconds": 24.9
+ }
+}

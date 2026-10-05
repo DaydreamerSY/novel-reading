@@ -1,0 +1,114 @@
+{
+ "number": 496,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier bị từ chối một kỹ thuật kiếm mới, anh ta bắt đầu nghi ngờ về những gì Dier đã nói. Anh ta phát hiện ra rằng Pielott gặp Aster Evans trong kỳ thi năng lực thay vì người khác. Sau đó, Frondier tìm đến phòng hiệu trưởng và vô tình chứng kiến Jane trở thành hiệu trưởng mới, khiến Osprey phải cúi chào xin lỗi. Cuối cùng, Elodie xuất hiện một cách bí ẩn, và Frondier nhận ra rằng anh ta đã bị lừa bởi phép thuật của Jane.",
+ "boi_canh": "Trong phòng hiệu trưởng, sau khi Osprey trở thành hiệu trưởng mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Pielott",
+  "Osprey",
+  "Dier",
+  "Jane",
+  "Hagley",
+  "Mei",
+  "Aster Evans",
+  "Student Frondier",
+  "F-Frondier"
+ ],
+ "su_kien": [
+  "Pielott bị từ chối một kỹ thuật kiếm.",
+  "Frondier nghi ngờ về lời nói của Dier liên quan đến kỳ thi năng lực.",
+  "Frondier phát hiện ra Pielott gặp Aster Evans trong kỳ thi năng lực.",
+  "Osprey cúi chào xin lỗi Frondier và Elodie.",
+  "Elodie xuất hiện một cách bí ẩn từ sau bức tường."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier chất vấn và hướng dẫn Pielott.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò, Pielott trả lời và bày tỏ lo lắng.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier suy nghĩ về lời nói của Dier.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Dier đã nói với Frondier trước đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "Quan hệ cấp trên - cấp dưới, Osprey chúc mừng Jane.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Quan hệ cấp dưới - cấp trên, Jane cúi chào Osprey.",
+   "cach_goi": "gọi 'Headmaster', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier chào hỏi Osprey.",
+   "cach_goi": "gọi 'Senior', lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Osprey xin lỗi Frondier.",
+   "cach_goi": "gọi tên Frondier, lịch sự"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier nhớ lại Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Elodie xuất hiện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Mei đi cùng Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster."
+ ],
+ "stats": {
+  "tokens": 1198,
+  "seconds": 35.9
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "number": 434,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra tại một buổi tiệc mừng chiến thắng ở Cung điện Hoàng gia. Frondier, với kế hoạch giữ kín danh tính, đã bị một loạt quý tộc tiếp cận và chào hỏi. Sự xuất hiện của Aten và Sale Terst làm dấy lên sự chú ý, và Aten đặc biệt quan tâm đến Frondier, khiến cậu lo lắng về việc thu hút quá nhiều sự chú ý.",
+ "boi_canh": "Một buổi tiệc mừng chiến thắng tại Cung điện Hoàng gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aten",
+  "Azier",
+  "Enfer",
+  "Malia",
+  "Frondier de Roach",
+  "Sale",
+  "Ameline",
+  "Aten Terst",
+  "Ameline von Ellis",
+  "Hughes von Ferry",
+  "Joshua"
+ ],
+ "su_kien": [
+  "Frondier đến buổi tiệc và cố gắng giữ kín danh tính.",
+  "Ameline von Ellis tiếp cận Frondier và giới thiệu bản thân.",
+  "Một loạt quý tộc khác (Hughes von Ferry, Joshua) tiếp cận Frondier.",
+  "Aten và Sale Terst xuất hiện, thu hút sự chú ý của mọi người.",
+  "Aten đặc biệt quan tâm đến Frondier và sau đó nhanh chóng rời mắt."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ameline",
+   "loai": "nguoi_la",
+   "mo_ta": "Giới thiệu bản thân và trao đổi lời chào xã giao ban đầu.",
+   "cach_goi": "gọi tên Ameline, lễ phép"
+  },
+  {
+   "a": "Ameline",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Giới thiệu bản thân và trao đổi lời chào xã giao ban đầu.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hughes von Ferry",
+   "loai": "nguoi_la",
+   "mo_ta": "Chào hỏi ngắn gọn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hughes von Ferry",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Chào hỏi ngắn gọn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Joshua",
+   "loai": "nguoi_la",
+   "mo_ta": "Chào hỏi ngắn gọn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Joshua",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Chào hỏi ngắn gọn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Sale",
+   "loai": "gia_dinh",
+   "mo_ta": "Chị em gái, có vẻ như Aten đang trêu chọc Sale.",
+   "cach_goi": "gọi tên Sale, thân mật"
+  },
+  {
+   "a": "Sale",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "Chị em gái, trả lời một cách lảng tránh.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Anh trai, quan sát tình hình của Frondier với vẻ mặt chấp nhận.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Mẹ, quan sát tình hình của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ)"
+ ],
+ "stats": {
+  "tokens": 1091,
+  "seconds": 32.6
+ }
+}

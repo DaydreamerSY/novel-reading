@@ -1,0 +1,71 @@
+{
+ "number": 233,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Quinie đang ở trong Menosorpo thì gặp một cô gái leo cây trinh sát. Cô gái này, tên là Kora, là một beastkin (người thú) có dòng máu bạch hổ, tức giận vì Frondier vô tình gọi cô là 'mèo'. Một màn thử phép thất bại của Kora khiến mọi chuyện trở nên hỗn loạn hơn.",
+ "boi_canh": "Trong Menosorpo, khi đang theo dõi một mục tiêu bí ẩn.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Quinie",
+  "Kora"
+ ],
+ "su_kien": [
+  "Một người trèo lên cây để quan sát.",
+  "Kora, một beastkin có dòng máu bạch hổ, xuất hiện và tấn công Frondier.",
+  "Kora cố gắng sử dụng phép thuật 'Flame Spell' nhưng thất bại.",
+  "Frondier giả vờ bị thương để làm dịu tình hình.",
+  "Quinie giới thiệu Kora cho Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Frondier tin tưởng và lắng nghe Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Quinie bảo vệ và hướng dẫn Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kora",
+   "loai": "nguoi_la",
+   "mo_ta": "Mới gặp mặt, Frondier vô tình chọc giận Kora.",
+   "cach_goi": "gọi tên Kora, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kora",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Tức giận và tấn công Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Kora",
+   "b": "Quinie",
+   "loai": "cap_tren",
+   "mo_ta": "Kora có vẻ không phục Quinie và muốn biết thông tin về Frondier.",
+   "cach_goi": "gọi tên Quinie, thô lỗ"
+  },
+  {
+   "a": "Quinie",
+   "b": "Kora",
+   "loai": "chu_to",
+   "mo_ta": "Quinie có vẻ là người lớn hơn và đang cố gắng kiểm soát Kora.",
+   "cach_goi": "gọi tên Kora, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Kora: Beastkin có dòng máu bạch hổ, ban đầu được cho là chỉ là một cô gái bình thường nhưng thực chất có sức mạnh tiềm ẩn."
+ ],
+ "stats": {
+  "tokens": 788,
+  "seconds": 23.7
+ }
+}

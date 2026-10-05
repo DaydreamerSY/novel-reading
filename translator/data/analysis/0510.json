@@ -1,0 +1,102 @@
+{
+ "number": 510,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier chủ động thuyết phục những người có thể giúp đỡ ông. Bất ngờ, gia đình Frondier (Enfer, Malia và Azier) cùng Hội trưởng Học sinh Ellen đều tin tưởng lời ông. Họ đã dự đoán trước sự nguy hiểm từ Manggot và nhận thấy Đế chế đang nắm giữ quyền lực lớn hơn. Frondier giao việc điều động học sinh Constel cho Ellen, nhưng bị Ellen phản bác vì tuổi tác tương đương.",
+ "boi_canh": "Trong một không gian kín đáo, thời điểm chưa rõ (có vẻ là trong lãnh địa của gia đình hoặc trường Constel).",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Malia",
+  "Azier",
+  "Ellen",
+  "Shroud Knights",
+  "Zodiacs"
+ ],
+ "su_kien": [
+  "Frondier chủ động thuyết phục những người có thể giúp đỡ.",
+  "Gia đình Frondier và Malia tin tưởng lời Frondier.",
+  "Ellen chính thức giữ chức Hội trưởng Học sinh Constel.",
+  "Frondier giao việc điều động học sinh Constel cho Ellen.",
+  "Ellen phản bác lại yêu cầu của Frondier về tuổi tác."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai, được tin tưởng và lắng nghe.",
+   "cach_goi": "gọi 'cha', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha, đưa ra nhận xét ngắn gọn và tin tưởng con trai.",
+   "cach_goi": "gọi 'con', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai, được tin tưởng và lắng nghe.",
+   "cach_goi": "gọi 'mẹ', lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ, tin tưởng và ủng hộ con trai.",
+   "cach_goi": "gọi 'con', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, có mặt nhưng không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, có mặt nhưng không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Đồng niên, có sự tôn trọng lẫn nhau.",
+   "cach_goi": "gọi 'Hội trưởng', lễ phép"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng niên, có sự tôn trọng lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Shroud Knights",
+   "loai": "khac",
+   "mo_ta": "Đối tượng được Frondier đề cập đến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Zodiacs",
+   "loai": "khac",
+   "mo_ta": "Đối tượng được Frondier đề cập đến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ellen: Từ 'interim President' chuyển thành Hội trưởng chính thức."
+ ],
+ "stats": {
+  "tokens": 1057,
+  "seconds": 31.0
+ }
+}

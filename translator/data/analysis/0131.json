@@ -1,0 +1,72 @@
+{
+ "number": 131,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, cha của Frondier, Enfer, tuyên bố rằng Frondier sẽ bị đuổi học nếu không lọt vào top 10 kỳ thi cuối cùng. Mẹ của Frondier, Malia, phản đối điều này và có một cuộc tranh cãi với Enfer. Sau đó, Frondier nhận được thông báo về kỹ năng 'Weaving' của mình đã được phân tích chi tiết hơn, hé lộ những chức năng mới và một trigger nguy hiểm liên quan đến Thanatos.",
+ "boi_canh": "Trong dinh thự gia đình, vào thời điểm chuẩn bị cho các kỳ thi cuối học kỳ.",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Malia",
+  "Frondier de Roach",
+  "Neil"
+ ],
+ "su_kien": [
+  "Enfer cảnh báo Frondier về việc bị đuổi học nếu không đạt top 10.",
+  "Malia phản đối quyết định của Enfer và có tranh cãi với ông.",
+  "Frondier nhận được thông báo phân tích kỹ năng 'Weaving'.",
+  "Kỹ năng 'Weaving' được tiết lộ có chức năng 'Restoration' bị khóa.",
+  "Trigger 'Thanatos's Descent' liên quan đến Thanatos được phát hiện trong kỹ năng 'Weaving'."
+ ],
+ "quan_he": [
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, Enfer cảnh báo Frondier về nguy cơ bị đuổi học.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai, Frondier không phản hồi lời cảnh báo của cha.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng, Malia phản đối quan điểm của Enfer.",
+   "cach_goi": "gọi tên Enfer, thân mật nhưng căng thẳng"
+  },
+  {
+   "a": "Enfer",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng, Enfer và Malia có cuộc tranh cãi gay gắt.",
+   "cach_goi": "gọi tên Malia, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và mẹ, Frondier không tham gia vào cuộc tranh cãi của cha mẹ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Neil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier nhận thông tin về kỹ năng từ Neil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của nhân vật chính."
+ ],
+ "stats": {
+  "tokens": 824,
+  "seconds": 25.4
+ }
+}

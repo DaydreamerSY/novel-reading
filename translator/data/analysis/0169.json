@@ -1,0 +1,73 @@
+{
+ "number": 169,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Aten giải thích về quy trình phép thuật cho Sybil và bày tỏ lo ngại về việc cô ấy có thể hoàn thành nhiệm vụ bảo vệ rào cản trong vòng 5 ngày. Frondier đã tin tưởng vào khả năng của Sybil hơn cả các pháp sư khác, điều này khiến Aten băn khoăn. Trong khi đó, Sanders đang đối mặt với tình hình nghiêm trọng và Ludwig đến thăm để trò chuyện.",
+ "boi_canh": "Trong phòng trọ của học viện, Aten đang giải thích về phép thuật cho Sybil.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Sybil",
+  "Ludwig",
+  "Sanders",
+  "Sale"
+ ],
+ "su_kien": [
+  "Aten giải thích quy trình phép thuật gồm bốn giai đoạn.",
+  "Sybil bày tỏ lo ngại về việc có thể làm được phép thuật.",
+  "Frondier khẳng định Sybil có khả năng tốt hơn các pháp sư khác.",
+  "Sanders xác nhận tình trạng rào cản như Frondier đã báo cáo.",
+  "Ludwig đến thăm Sanders và cùng ông uống rượu."
+ ],
+ "quan_he": [
+  {
+   "a": "Aten",
+   "b": "Sybil",
+   "loai": "thay_tro",
+   "mo_ta": "Aten là người hướng dẫn phép thuật cho Sybil.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten",
+   "loai": "thay_tro",
+   "mo_ta": "Sybil là học trò của Aten và đang được hướng dẫn phép thuật.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đã đưa ra nhận xét về Sybil mà Aten nghe được.",
+   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Aten và Sybil là bạn bè và đồng đội.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sanders",
+   "b": "Ludwig",
+   "loai": "dong_minh",
+   "mo_ta": "Sanders và Ludwig là đồng cấp và có vẻ như có mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Ludwig, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Sanders",
+   "loai": "dong_minh",
+   "mo_ta": "Ludwig và Sanders là đồng cấp và có vẻ như có mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Sanders, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier được cho là đã đưa ra những nhận xét về Sybil, khiến Aten băn khoăn về nguồn gốc thông tin của anh ấy."
+ ],
+ "stats": {
+  "tokens": 803,
+  "seconds": 24.8
+ }
+}

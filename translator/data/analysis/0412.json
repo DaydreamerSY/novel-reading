@@ -1,0 +1,80 @@
+{
+ "number": 412,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một cuộc họp quan trọng diễn ra với sự tham gia của nhiều thành viên từ Constel, Hoàng tộc và Pros. Frondier lặng lẽ quan sát, đồng thời thu thập và phân tích thông tin bằng hệ thống 'bản thiết kế 3D' độc đáo của mình. Anh nhận thấy có sự xuất hiện của thông tin sai lệch được cố tình đưa vào cuộc họp, nhằm gây khó khăn cho quá trình điều tra về các vụ tiêm mana. Eden Hamelot đề xuất chia thành nhiều đội nhỏ để điều tra các khu vực nghi ngờ, và Frondier phải giữ im lặng vì những lý do chính trị. Cuối cùng, anh và Azier được giao nhiệm vụ điều tra độc lập.",
+ "boi_canh": "Một cuộc họp quan trọng diễn ra tại một địa điểm không rõ, với sự tham gia của nhiều thành viên cấp cao.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst (Hoàng hậu)",
+  "Azier",
+  "Eden",
+  "Pros",
+  "Eden Hamelot"
+ ],
+ "su_kien": [
+  "Cuộc họp bắt đầu với sự tham gia của nhiều thành viên từ Constel, Hoàng tộc và Pros.",
+  "Frondier sử dụng hệ thống 'bản thiết kế 3D' để phân tích thông tin.",
+  "Eden Hamelot đề xuất chia thành các đội nhỏ để điều tra các khu vực nghi ngờ.",
+  "Frondier phải giữ im lặng trong cuộc họp vì những lý do chính trị.",
+  "Frondier và Azier được giao nhiệm vụ điều tra độc lập."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em trai, cùng tham gia điều tra.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, Frondier nghi ngờ Eden.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em trai, quan tâm lẫn nhau.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Eden",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người có vị thế cao hơn, Eden muốn biết ý kiến của Frondier.",
+   "cach_goi": "gọi tên Frondier, lịch sự"
+  },
+  {
+   "a": "Pros",
+   "b": "Eden",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Pros bày tỏ sự thất vọng về tiến trình cuộc họp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden",
+   "b": "Pros",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Eden đề xuất phương án điều tra.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst (Hoàng hậu)",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người có quyền lực cao nhất, Philly giám sát hoạt động chung.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot (tên đầy đủ của Eden)"
+ ],
+ "stats": {
+  "tokens": 929,
+  "seconds": 28.0
+ }
+}

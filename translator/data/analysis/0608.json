@@ -1,0 +1,69 @@
+{
+ "number": 608,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Arald thảo luận về tình hình tội phạm gia tăng của quỷ dữ trong Đế quốc, cùng với mối đe dọa từ quỷ dữ phương Tây. Arald tiết lộ rằng những hành động tội ác này có thể là do sự bất mãn của quỷ dữ đối với việc bị phát hiện và một số yếu tố khác liên quan đến Satan. Cuối cùng, Arald đề nghị giúp Frondier tìm ra những kẻ đứng đầu lũ quỷ và đưa ra một yêu cầu kỳ lạ: Frondier phải trở thành vua quỷ.",
+ "boi_canh": "Một buổi nói chuyện bí mật trong Đế quốc, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Arald",
+  "Paul"
+ ],
+ "su_kien": [
+  "Arald tiết lộ sự liên quan của lực lượng bóng tối Đế quốc trong việc tiêm mana.",
+  "Frondier chất vấn về các hành vi phạm tội của quỷ dữ.",
+  "Arald giải thích lý do tại sao quỷ dữ lại phạm tội khi biết mình có thể bị phát hiện.",
+  "Arald đề nghị tìm ra những kẻ đứng đầu lũ quỷ.",
+  "Arald yêu cầu Frondier trở thành vua quỷ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người dưới quyền của Arald, đặt câu hỏi và nghi ngờ về hành động của Arald.",
+   "cach_goi": "gọi tên Arald, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Arald là người có vị trí cao hơn, trả lời và giải thích cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier suy nghĩ về Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier suy nghĩ về Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Paul",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier suy nghĩ về Paul.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Paul",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier suy nghĩ về Paul.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 809,
+  "seconds": 24.9
+ }
+}

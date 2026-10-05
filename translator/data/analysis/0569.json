@@ -1,0 +1,102 @@
+{
+ "number": 569,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Prometheus rời đi và năng lượng ma thuật trong Manggot tan biến, Frondier đã thức dậy. Aten đang chữa lành cho anh ta. Các học viên Constel đều hướng sự chú ý về phía Frondier. Sau đó, họ nhận ra rằng có một vấn đề khác cần giải quyết tại rào chắn. Cuối cùng, Frondier và những người bạn của mình bị đám đông chào đón với sự phấn khích không thể tin được, mặc dù anh ta không chắc lý do tại sao.",
+ "boi_canh": "Trong khu vực Manggot sau trận chiến, thời điểm kết thúc chiến tranh.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten Terst",
+  "Sybil",
+  "Osprey",
+  "Robald Lieff",
+  "Prometheus",
+  "Robald"
+ ],
+ "su_kien": [
+  "Prometheus rời đi và năng lượng ma thuật trong Manggot tan biến.",
+  "Aten chữa lành cho Frondier.",
+  "Osprey báo cáo về tình hình sau trận chiến, có vẻ lo lắng.",
+  "Frondier quyết định giúp đỡ quân đội tại rào chắn.",
+  "Những người bạn của Frondier tạo ra một màn trình diễn phép thuật để tôn vinh anh ta."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Aten đang chữa lành cho Frondier; mối quan hệ cấp trên - cấp dưới.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè; Frondier đi theo sau Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier hỏi Osprey về tình hình; mối quan hệ cấp trên - cấp dưới.",
+   "cach_goi": "gọi tên Osprey, lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Osprey báo cáo cho Frondier; mối quan hệ cấp trên - cấp dưới.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè; Elodie đi cùng Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè; Elodie đi cùng Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè; Sybil đi cùng Frondier.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè; Sybil đi cùng Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robald Lieff",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè; Robald trêu chọc Frondier.",
+   "cach_goi": "gọi tên Robald, thân mật"
+  },
+  {
+   "a": "Robald Lieff",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè; Robald trêu chọc Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1106,
+  "seconds": 34.6
+ }
+}

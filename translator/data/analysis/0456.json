@@ -1,0 +1,92 @@
+{
+ "number": 456,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, bầu không khí căng thẳng khi các Zodiac cố gắng ngăn cản Frondier. Frondier vẫn giữ thái độ bình tĩnh trước sự vây ráp của ba Zodiac mạnh mẽ, khiến Daisy ngạc nhiên. Cuối cùng, Hoàng đế Bartello ra lệnh cho Frondier đi tiêu diệt quái vật, và Frondier chấp nhận nhiệm vụ với điều kiện được thả tự do sau khi hoàn thành.",
+ "boi_canh": "Trong phòng của Hoàng đế Bartello, một cuộc đối đầu căng thẳng diễn ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Bartello",
+  "Monty",
+  "Ludovic",
+  "Daisy"
+ ],
+ "su_kien": [
+  "Các Zodiac cố gắng ngăn cản Frondier.",
+  "Daisy bối rối trước thái độ bình tĩnh của Frondier.",
+  "Hoàng đế Bartello ra lệnh cho Frondier đi tiêu diệt quái vật.",
+  "Monty và Daisy buông lỏng sự kiềm chế với Frondier.",
+  "Ludovic cảnh báo về sức mạnh tăng lên của quái vật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Zodiacs",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, các Zodiac cố gắng ngăn cản Frondier.",
+   "cach_goi": "gọi chung, lạnh lùng"
+  },
+  {
+   "a": "Zodiacs",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, các Zodiac cố gắng ngăn cản Frondier.",
+   "cach_goi": "gọi chung, lạnh lùng"
+  },
+  {
+   "a": "Daisy",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Frondier với sự bối rối.",
+   "cach_goi": "gọi tên, ngạc nhiên"
+  },
+  {
+   "a": "Bartello",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng đế Bartello ra lệnh cho Frondier.",
+   "cach_goi": "gọi tên, ra lệnh"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Cảnh báo Frondier về nguy hiểm.",
+   "cach_goi": "gọi tên, cảnh báo"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Frondier với sự ấn tượng.",
+   "cach_goi": "gọi tên, ngưỡng mộ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Tuân theo lệnh của Hoàng đế.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludovic",
+   "loai": "dong_minh",
+   "mo_ta": "Không phản đối lời cảnh báo của Ludovic.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "nguoi_la",
+   "mo_ta": "Không phản ứng với sự ngưỡng mộ của Monty.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 948,
+  "seconds": 28.2
+ }
+}

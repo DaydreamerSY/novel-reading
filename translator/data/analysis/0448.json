@@ -1,0 +1,99 @@
+{
+ "number": 448,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe Lily nói, Frondier cố gắng tỏ ra bình tĩnh và quyết định sẽ chờ đợi. Anh lo lắng về sự an toàn của Bartello nhưng tin rằng anh là người duy nhất có thể tìm thấy con quái vật đang nhắm mục tiêu vào hoàng đế. Một thành viên Zodiac khác, Pascal Schlitz, đến báo cáo về việc con quái vật trong ngục tù đã bắt đầu biến đổi và bắt chước hình dạng người. Daisy Foster đề nghị đi kiểm tra, Monty Morgan cũng rời đi để làm nhiệm vụ riêng, và Ludovic đề xuất xoay vòng bảo vệ.",
+ "boi_canh": "Trong một căn phòng kín, nơi các thành viên Zodiac đang tập trung để chờ đợi một cuộc tấn công.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Enfer",
+  "Azier",
+  "Pascal",
+  "Bartello",
+  "Monty",
+  "Ludovic",
+  "Pros",
+  "Daisy",
+  "Pascal Schlitz"
+ ],
+ "su_kien": [
+  "Frondier bày tỏ sự lo lắng về con quái vật đang nhắm mục tiêu vào Bartello.",
+  "Pascal thông báo rằng con quái vật trong ngục tù đã bắt đầu biến đổi và bắt chước hình dạng người.",
+  "Daisy đề xuất đi kiểm tra con quái vật.",
+  "Monty Morgan rời đi để làm nhiệm vụ riêng.",
+  "Ludovic đề xuất xoay vòng bảo vệ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Frondier cố gắng tỏ ra bình tĩnh trước lời nói của Lily.",
+   "cach_goi": "gọi tên Lily, không rõ (có thể thân mật hoặc lễ phép)"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "người được Frondier bảo vệ, mối quan hệ cấp trên - thuộc hạ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "cha của Frondier, mối quan hệ gia đình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai của Frondier, mối quan hệ gia đình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal Schlitz",
+   "b": "Ludovic",
+   "loai": "dong_minh",
+   "mo_ta": "đồng đội, Pascal báo cáo với Ludovic.",
+   "cach_goi": "gọi tên Ludovic, không rõ (có thể lễ phép)"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Pascal Schlitz",
+   "loai": "dong_minh",
+   "mo_ta": "đồng đội, Ludovic ra lệnh cho Pascal.",
+   "cach_goi": "gọi tên Pascal, lạnh lùng"
+  },
+  {
+   "a": "Daisy",
+   "b": "Ludovic",
+   "loai": "dong_minh",
+   "mo_ta": "đồng đội, Daisy phản đối ý kiến của Ludovic.",
+   "cach_goi": "gọi tên Ludovic, thân mật (có thể hơi trịch thượng)"
+  },
+  {
+   "a": "Pascal Schlitz",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Pascal cúi chào Bartello.",
+   "cach_goi": "gọi 'His Majesty', lễ phép"
+  },
+  {
+   "a": "Monty",
+   "b": "Pascal Schlitz",
+   "loai": "dong_minh",
+   "mo_ta": "đồng đội, Monty rời đi theo lệnh của Pascal.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pascal Schlitz (tên đầy đủ của Pascal)"
+ ],
+ "stats": {
+  "tokens": 1061,
+  "seconds": 31.6
+ }
+}

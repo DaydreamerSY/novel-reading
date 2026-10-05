@@ -1,0 +1,74 @@
+{
+ "number": 565,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Quinie lên đường thực hiện nhiệm vụ, cuộc họp tại phòng họp Hoàng cung trở nên náo loạn với vô số báo cáo về tình hình rào cản đang gặp nhiều khó khăn. Philly tiếp cận Malia một cách thân thiện hơn, thể hiện sự gắn bó giữa hai người dù thường giấu kín mối quan hệ này. Malia lo lắng cho Frondier khi anh đối mặt với Belphegor và tiết lộ rằng anh đã biết trước mình sẽ phải đối mặt với ai. Cuối cùng, một báo cáo khẩn cấp về kho vũ khí Hoàng cung làm dấy lên sự lo ngại của cả Philly và Malia.",
+ "boi_canh": "Trong phòng họp Hoàng cung, sau khi Quinie rời đi.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Quinie",
+  "Enfer",
+  "Osprey",
+  "Malia",
+  "Bartello Tert"
+ ],
+ "su_kien": [
+  "Báo cáo tình hình rào cản hỗn loạn.",
+  "Philly và Malia thể hiện sự thân thiết ẩn sau vẻ ngoài trang trọng.",
+  "Malia tiết lộ lo lắng về Frondier đối mặt với Belphegor.",
+  "Một báo cáo khẩn cấp về kho vũ khí Hoàng cung được đưa ra.",
+  "Belphegor chuẩn bị bẫy Frondier bằng cách sử dụng ngọn lửa để đánh chặn và tấn công."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly Terst",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Hai người là bạn thân thiết lâu năm, thường xuyên chia sẻ những trải nghiệm với chồng.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Malia cảm thấy ngượng ngùng khi Philly thể hiện sự thân thiết trong môi trường Constel.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Bartello Tert",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Bartello quan sát tình hình chiến tranh và đưa ra quyết định.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Malia",
+   "loai": "ban_be",
+   "mo_ta": "Quan tâm đến tình trạng của Malia.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Philly Terst",
+   "loai": "ban_be",
+   "mo_ta": "Chia sẻ lo lắng về Frondier.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Cung cấp tầm nhìn cho Malia về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Belphegor: Quỷ dữ, đối thủ của Frondier."
+ ],
+ "stats": {
+  "tokens": 836,
+  "seconds": 26.2
+ }
+}

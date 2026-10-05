@@ -1,0 +1,64 @@
+{
+ "number": 155,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Aten gọi điện cho Sale để thông báo về kế hoạch đi Tyburn của Frondier trong kỳ nghỉ. Sale bày tỏ sự lo lắng và nghi ngờ về việc Frondier có động cơ gì khi quay lại một nơi nguy hiểm như vậy. Cuộc trò chuyện hé lộ những hiểu lầm giữa hai chị em, cũng như sự quan tâm ngấm ngầm của Aten dành cho Frondier.",
+ "boi_canh": "Cuộc gọi điện thoại giữa Aten và Sale trong một không gian bí mật.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Sale",
+  "Elysia",
+  "Sale"
+ ],
+ "su_kien": [
+  "Aten thông báo với Sale về việc Frondier sẽ đi Tyburn.",
+  "Sale bày tỏ sự nghi ngờ và lo lắng về kế hoạch của Frondier.",
+  "Hai chị em tranh cãi về động cơ của Aten khi chia sẻ thông tin này.",
+  "Aten cố gắng che giấu cảm xúc thật của mình về Frondier.",
+  "Sale đề nghị cử người bảo vệ đi cùng Aten, nhưng cũng cảnh báo sẽ trừng phạt nếu cô làm điều gì nguy hiểm."
+ ],
+ "quan_he": [
+  {
+   "a": "Aten",
+   "b": "Sale",
+   "loai": "ban_be",
+   "mo_ta": "Chị em gái, có chút hiểu lầm và tranh cãi.",
+   "cach_goi": "gọi tên 'chị', thân mật"
+  },
+  {
+   "a": "Sale",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Chị em gái, có chút hiểu lầm và tranh cãi.",
+   "cach_goi": "gọi tên 'em', thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và người được Aten quan tâm, nhưng chưa rõ mối quan hệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sale",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Có sự nghi ngờ và cạnh tranh ngấm ngầm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Mẹ của Aten, người mà Aten không muốn báo cáo kế hoạch cho.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 688,
+  "seconds": 22.4
+ }
+}

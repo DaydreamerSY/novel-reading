@@ -1,0 +1,88 @@
+{
+ "number": 371,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau trận chiến căng thẳng, Frondier và Selena trở về trong trạng thái kiệt sức, ngủ gục trên lưng ngựa. Quân Roach Knights chào đón họ một cách trang trọng, nhưng sự mệt mỏi của Frondier khiến mọi người không nhịn được cười. Cha của Frondier, Enfer, cũng đến đón và nở một nụ cười hiếm thấy khi nhìn con trai mình.",
+ "boi_canh": "Trên chiến trường sau trận đánh, vào cuối ngày.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Azier",
+  "Enfer",
+  "Malia",
+  "Sylvain",
+  "Cassian",
+  "Father",
+  "Roach Knights"
+ ],
+ "su_kien": [
+  "Quân Roach Knights chào đón Frondier và Selena trở về.",
+  "Frondier ngủ gục trên lưng Cassian.",
+  "Selena ngủ gục dựa vào Frondier.",
+  "Enfer đến đón con trai và nở nụ cười hiếm thấy.",
+  "Các hiệp sĩ không nhịn được cười khi nhìn thấy tình trạng của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người chỉ huy Roach Knights, ra lệnh cho các hiệp sĩ chào đón Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "dong_minh",
+   "mo_ta": "Người được Sylvain chào đón, đang ngủ gục.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cassian",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đang khiêng Frondier trên lưng, chịu đựng sự chế nhạo của các hiệp sĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cassian",
+   "loai": "nguoi_la",
+   "mo_ta": "Đang ngủ trên lưng Cassian.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier, đến đón con trai và mỉm cười.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai của Enfer, đang ngủ gục.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Roach Knights",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Các hiệp sĩ tuân lệnh Sylvain để chào đón Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Roach Knights",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Các hiệp sĩ chào đón Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 897,
+  "seconds": 26.7
+ }
+}

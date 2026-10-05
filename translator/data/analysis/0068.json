@@ -1,0 +1,101 @@
+{
+ "number": 68,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Serf bị cáo buộc là người giết người, Frondier phải đối mặt với nguy cơ bị coi là tội phạm. Elodie và Sybil lo lắng chờ đợi kết quả kiểm tra của Frondier tại bệnh viện Constel Central. Bác sĩ thông báo tình trạng của Frondier ổn định nhưng tiết lộ những bất thường trong phân bố mana của anh, khiến cả hai người phụ nữ băn khoăn.",
+ "boi_canh": "Bệnh viện Constel Central, thời điểm kết quả kiểm tra của Frondier được công bố.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Azier",
+  "Enfer",
+  "Malia",
+  "Serf",
+  "Doctor"
+ ],
+ "su_kien": [
+  "Sybil bị cáo buộc là người giết Serf.",
+  "Elodie và Sybil chờ đợi kết quả kiểm tra của Frondier.",
+  "Bác sĩ thông báo tình trạng của Frondier ổn định.",
+  "Bác sĩ tiết lộ về sự bất thường trong phân bố mana của Frondier.",
+  "Frondier bị phát hiện đã hoàn toàn cạn kiệt mana."
+ ],
+ "quan_he": [
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết, cùng lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết, cùng lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Lo lắng cho Frondier, nhưng không gặp mặt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Lo lắng cho Frondier, nhưng không gặp mặt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Doctor",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Bác sĩ đang điều trị cho Frondier, hỏi về mối quan hệ.",
+   "cach_goi": "gọi 'Doctor', lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Doctor",
+   "loai": "nguoi_la",
+   "mo_ta": "Bệnh nhân, hỏi về tình trạng của Frondier.",
+   "cach_goi": "gọi 'Doctor', lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Doctor",
+   "loai": "nguoi_la",
+   "mo_ta": "Bệnh nhân, quan tâm đến tình trạng của Frondier.",
+   "cach_goi": "gọi 'Doctor', lễ phép"
+  },
+  {
+   "a": "Doctor",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Bác sĩ đang điều trị cho Frondier, hỏi về mối quan hệ.",
+   "cach_goi": "gọi tên Elodie, lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Liên hệ với anh trai của Frondier để thông báo tình hình.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, đồng ý giúp đỡ nhưng không quan tâm.",
+   "cach_goi": "gọi tên Elodie, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1068,
+  "seconds": 32.0
+ }
+}

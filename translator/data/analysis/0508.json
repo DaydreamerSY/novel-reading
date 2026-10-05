@@ -1,0 +1,83 @@
+{
+ "number": 508,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Tại một cuộc họp bí mật của Manggot, Belphegor báo cáo tình hình và thảo luận về các động thái của Đế quốc. Sự biến mất gần đây của Hoàng đế gây ra sự lo ngại, và sự chú ý được chuyển sang Constel, đặc biệt là những học sinh tài năng như Aster Evans, Elodie de Ines Rishae và Frondier de Roach. Belphegor yêu cầu thông tin chi tiết về Frondier và một sát thủ tên Jei được cử đến để theo dõi cậu.",
+ "boi_canh": "Một căn phòng rộng lớn, nơi diễn ra cuộc họp của Manggot.",
+ "nhan_vat": [
+  "Belphegor",
+  "Hagley",
+  "Cohen",
+  "Jei",
+  "Aster Evans",
+  "Elodie de Ines Rishae",
+  "Frondier de Roach",
+  "Osprey"
+ ],
+ "su_kien": [
+  "Belphegor chủ trì cuộc họp của Manggot.",
+  "Báo cáo về tình hình các tín đồ và chiến binh của Manggot.",
+  "Hoàng đế không được nhìn thấy gần đây, gây ra sự lo ngại.",
+  "Aster Evans được xác định là có sức mạnh tương đương với các thành viên trong hội đồng.",
+  "Belphegor yêu cầu thông tin chi tiết về Frondier de Roach."
+ ],
+ "quan_he": [
+  {
+   "a": "Belphegor",
+   "b": "Hagley",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor là người điều hành, Hagley là người báo cáo.",
+   "cach_goi": "gọi 'Hagley', lạnh lùng"
+  },
+  {
+   "a": "Hagley",
+   "b": "Belphegor",
+   "loai": "thay_tro",
+   "mo_ta": "Hagley báo cáo cho Belphegor.",
+   "cach_goi": "gọi 'Belphegor', lễ phép"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Cohen",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor là người điều hành, Cohen là người báo cáo.",
+   "cach_goi": "gọi 'Cohen', lạnh lùng"
+  },
+  {
+   "a": "Cohen",
+   "b": "Belphegor",
+   "loai": "thay_tro",
+   "mo_ta": "Cohen báo cáo cho Belphegor.",
+   "cach_goi": "gọi 'Belphegor', lễ phép"
+  },
+  {
+   "a": "Hagley",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Hagley làm việc dưới quyền Belphegor.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Jei",
+   "loai": "nguoi_la",
+   "mo_ta": "Belphegor yêu cầu thông tin về Jei.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Jei",
+   "loai": "nguoi_la",
+   "mo_ta": "Hagley đã ngăn cấm Jei đến gặp Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của nhân vật chính)",
+  "Aster Evans (Tên đầy đủ của Aster)"
+ ],
+ "stats": {
+  "tokens": 891,
+  "seconds": 26.8
+ }
+}

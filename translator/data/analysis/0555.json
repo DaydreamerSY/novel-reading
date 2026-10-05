@@ -1,0 +1,79 @@
+{
+ "number": 555,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong phòng hội nghị Hoàng cung, các quan chức thảo luận về tình hình chiến tranh và báo cáo tiến triển của các thành viên Hoàng đạo. Nữ hoàng Philly thông báo về sự bắt đầu giao tranh giữa Constel và Manggot, đồng thời nhấn mạnh tầm quan trọng của vai trò Frondier trong việc kết thúc cuộc chiến. Trong khi đó, Frondier đã vượt qua ảnh hưởng của Deadly Sin của Belphegor và chuẩn bị đối mặt với hắn, sử dụng những vũ khí được bố trí sẵn.",
+ "boi_canh": "Phòng hội nghị Hoàng cung, thời điểm hiện tại trong cuộc chiến tranh.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Philly",
+  "Sybil",
+  "Quinie",
+  "Renzo",
+  "Malia",
+  "Mei",
+  "Medart",
+  "Quinie de Viet",
+  "Shadow",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Báo cáo về tình hình chiến tranh và sự tiến triển của các thành viên Hoàng đạo.",
+  "Thông báo về cuộc giao tranh giữa Constel và Manggot.",
+  "Đề cập đến vai trò quan trọng của Mei và Selena trong việc tấn công bất ngờ.",
+  "Frondier vượt qua ảnh hưởng của Deadly Sin của Belphegor.",
+  "Sự chuẩn bị của Frondier để đối mặt với Belphegor, sử dụng Excalibur và Mjölnir."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Malia",
+   "loai": "cap_tren",
+   "mo_ta": "Nữ hoàng hỏi về tình hình chiến tranh.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Báo cáo tình hình chiến tranh cho Nữ hoàng.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Quinie de Viet",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Được Nữ hoàng yêu cầu giúp đỡ để kết thúc chiến tranh.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Quinie de Viet",
+   "loai": "cap_tren",
+   "mo_ta": "Yêu cầu sự giúp đỡ của Quinie để kết thúc chiến tranh.",
+   "cach_goi": "gọi tên Quinie, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu với Belphegor sau khi vượt qua Deadly Sin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Phản ứng với việc Frondier vượt qua Deadly Sin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Quinie de Viet (tên đầy đủ của Quinie)"
+ ],
+ "stats": {
+  "tokens": 832,
+  "seconds": 26.0
+ }
+}

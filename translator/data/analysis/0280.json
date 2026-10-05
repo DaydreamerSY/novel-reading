@@ -1,0 +1,83 @@
+{
+ "number": 280,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chứng kiến Frondier làm việc như một cứu hộ bãi biển, nhóm người Elodie và Aten theo dõi anh ta. Sybil tiếp cận Frondier với vẻ ngoài quyến rũ, cố gắng tạo ấn tượng rằng họ là một cặp đôi. Tuy nhiên, Frondier đã phá hỏng kế hoạch của cô bằng cách thẳng thắn tuyên bố Sybil là bạn gái của mình, khiến mọi người bất ngờ.",
+ "boi_canh": "Bãi biển Cropolis, buổi chiều ngày nắng.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aten",
+  "Sybil",
+  "Quinie",
+  "Osprey",
+  "Jane",
+  "Malia",
+  "Sybil Forte"
+ ],
+ "su_kien": [
+  "Frondier làm việc như một cứu hộ bãi biển.",
+  "Sybil tiếp cận Frondier với vẻ ngoài quyến rũ.",
+  "Sybil cố gắng tạo ấn tượng rằng cô và Frondier là một cặp đôi.",
+  "Frondier thẳng thắn tuyên bố Sybil là bạn gái của mình.",
+  "Những người phụ nữ xung quanh rời đi sau khi nghe Frondier nói."
+ ],
+ "quan_he": [
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ của Frondier, theo dõi anh ta.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Tam công chúa Aten theo dõi Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ theo dõi Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil tiếp cận Frondier với vẻ ngoài quyến rũ.",
+   "cach_goi": "gọi tên Frondier, quyến rũ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier trả lời Sybil và gọi cô là bạn gái.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người bạn theo dõi Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Jane",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Sybil Forte (tên đầy đủ của Sybil)"
+ ],
+ "stats": {
+  "tokens": 852,
+  "seconds": 26.3
+ }
+}

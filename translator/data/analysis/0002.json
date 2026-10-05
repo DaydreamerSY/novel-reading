@@ -1,0 +1,58 @@
+{
+ "number": 2,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier bị các bạn cùng lớp và giáo viên chú ý vì đã ngủ gật trong giờ học. Anh phải làm vậy để đáp ứng yêu cầu của cha mình về việc đạt được vị trí top 10 tại Constel. Sau đó, anh bắt đầu cảm thấy buồn ngủ và sử dụng kỹ năng Weaving để ghi lại thông tin từ bảng đen. Cuối cùng, Frondier gặp Elodie de Inies Rishae trên hành lang và bị cô ấy chất vấn.",
+ "boi_canh": "Trong lớp học tại Constel vào một buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie de Inies Rishae",
+  "Frondier de Roach",
+  "Teacher (Giáo viên)"
+ ],
+ "su_kien": [
+  "Frondier ngủ gật trong lớp học, gây xôn xao.",
+  "Frondier nhớ lại việc bị trục xuất khỏi game Etius.",
+  "Anh sử dụng kỹ năng Weaving để ghi lại thông tin trên bảng đen.",
+  "Anh gặp Elodie de Inies Rishae trên hành lang.",
+  "Elodie chất vấn Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Teacher (Giáo viên)",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên quan sát Frondier ngủ gật, có vẻ ngạc nhiên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Teacher (Giáo viên)",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên có vẻ bối rối khi thấy Frondier ngủ gật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie de Inies Rishae",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người không quen biết nhau, Frondier nhận ra Elodie từ game Etius.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie de Inies Rishae",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Elodie chất vấn Frondier một cách giận dữ.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của nhân vật chính)",
+  "Elodie de Inies Rishae (Tên đầy dủ của Elodie sau khi tức tỉnh thần tính)"
+ ],
+ "stats": {
+  "tokens": 670,
+  "seconds": 21.1
+ }
+}

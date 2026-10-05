@@ -1,0 +1,74 @@
+{
+ "number": 463,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi các thành viên còn lại của Zodiac rời khỏi thư phòng của Vua Bartello, một lượng lớn quỷ dữ bất ngờ xuất hiện. Rune trong phòng Frondier đột ngột mở rộng, cho thấy mục tiêu thực sự là Frondier. Lily vội vàng xông ra cứu Frondier, nhưng bị cản trở bởi số lượng lớn quỷ dữ. Ludwig sử dụng phép thuật tạo ra một lối đi để Lily và Monty có thể tiếp cận Frondier, trong khi Daisy quyết định ở lại hỗ trợ. Cuối cùng, Lily tìm thấy Frondier, nhưng không phải là người mà cô mong đợi.",
+ "boi_canh": "Trong thư phòng của Vua Bartello, sau khi các thành viên còn lại của Zodiac rời đi.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Ludwig",
+  "Bartello",
+  "Monty",
+  "Ludovic",
+  "Daisy"
+ ],
+ "su_kien": [
+  "Rune trong phòng Frondier đột ngột mở rộng.",
+  "Lily xông ra cứu Frondier.",
+  "Ludwig tạo lối đi bằng phép thuật.",
+  "Daisy quyết định ở lại hỗ trợ.",
+  "Lily tìm thấy một người trông giống Frondier, nhưng không phải là anh ấy."
+ ],
+ "quan_he": [
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Lily muốn cứu Frondier, có vẻ như cô ấy đã quen thuộc với anh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier bị Lily cứu, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Hai người cùng hành động để cứu Frondier.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Monty",
+   "loai": "cap_tren",
+   "mo_ta": "Ludwig là người có cấp bậc cao hơn, giúp Monty và Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Daisy",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "Daisy lắng nghe lời khuyên của Ludwig.",
+   "cach_goi": "gọi tên Ludwig, lễ phép"
+  },
+  {
+   "a": "Lily",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "Lily thể hiện sự ngưỡng mộ đối với phép thuật của Ludwig.",
+   "cach_goi": "gọi tên Ludwig, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Người đàn ông mà Lily tìm thấy trông giống Frondier, nhưng thực chất là một quỷ dữ có hình dạng của Frondier."
+ ],
+ "stats": {
+  "tokens": 798,
+  "seconds": 24.0
+ }
+}

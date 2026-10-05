@@ -1,0 +1,86 @@
+{
+ "number": 426,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier khám phá quy trình tiêm Mana vào người thông qua các thí nghiệm của phòng thí nghiệm. Anh ta sử dụng Obsidian để loại bỏ Mana đã tiêm, giải cứu những người bị ảnh hưởng. Sau đó, anh đối mặt với nguyên mẫu (prototype), một đối tượng thử nghiệm tiên tiến hơn, và bất ngờ nhận được sự khuất phục từ nó, gây ra sự bối rối cho Angus và khiến Frondier phải đối diện với cảm xúc sâu thẳm của mình.",
+ "boi_canh": "Phòng thí nghiệm bí mật, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Ellen",
+  "Dier",
+  "Angus",
+  "Albaito"
+ ],
+ "su_kien": [
+  "Frondier phát hiện ra quy trình tiêm Mana vào người.",
+  "Frondier sử dụng Obsidian để loại bỏ Mana đã tiêm khỏi cơ thể những người bị ảnh hưởng.",
+  "Ellen và Dier đồng ý với hành động của Frondier.",
+  "Nguyên mẫu (prototype) xuất hiện, có vẻ ngoài đáng sợ do thí nghiệm.",
+  "Nguyên mẫu (prototype) bất ngờ quỳ trước mặt Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "dong_minh",
+   "mo_ta": "đồng minh, Frondier ra lệnh cho Ellen.",
+   "cach_goi": "gọi tên Ellen, không trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "dong_minh",
+   "mo_ta": "đồng minh, Frondier ra lệnh cho Dier.",
+   "cach_goi": "gọi tên Dier, không trang trọng"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "đồng minh, lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "đồng minh, thắc mắc về khả năng của Frondier.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  },
+  {
+   "a": "Angus",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, phẫn nộ trước hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Angus",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, không đồng tình với lý tưởng của Angus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, quan sát hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, quan sát hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Nguyên mẫu (prototype): đối tượng thử nghiệm đã bị tiêm Mana nhiều lần và có những biến đổi đáng kể."
+ ],
+ "stats": {
+  "tokens": 925,
+  "seconds": 27.7
+ }
+}

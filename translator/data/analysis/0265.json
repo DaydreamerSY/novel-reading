@@ -1,0 +1,64 @@
+{
+ "number": 265,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Osprey đối mặt nhau trên đường ray cáp treo, nơi cô gái định phá hoại tàu hỏa để trả thù Constel vì sức mạnh của học sinh ở đó. Osprey sử dụng những lời lẽ khéo léo để khiến cô gái phải suy nghĩ lại hành động của mình, đồng thời gieo rắc sự nghi ngờ trong Indus. Cuối cùng, cô gái bị tấn công bởi một phép thuật kỳ lạ, biến thành vô số nhện và tan biến. Thompson quan sát từ xa và phát hiện ra rằng Osprey biết về kế hoạch 'cách mạng' của Indus, cho thấy có kẻ phản bội trong tổ chức.",
+ "boi_canh": "Trên đường ray cáp treo giữa hai vách đá.",
+ "nhan_vat": [
+  "Frondier",
+  "Osprey",
+  "Cain",
+  "Thompson"
+ ],
+ "su_kien": [
+  "Cô gái định phá hoại tàu hỏa để trả thù Constel.",
+  "Osprey sử dụng lời nói để khiến cô gái phải suy nghĩ lại kế hoạch của mình.",
+  "Cô gái bị tấn công bởi phép thuật, biến thành vô số nhện.",
+  "Thompson quan sát sự kiện từ xa thông qua thiết bị hỗ trợ.",
+  "Cain và Thompson phát hiện ra rằng Osprey biết về kế hoạch 'cách mạng' của Indus."
+ ],
+ "quan_he": [
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Osprey quan sát và đánh giá Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Cô gái",
+   "loai": "doi_thu",
+   "mo_ta": "Osprey cố gắng thuyết phục cô gái từ bỏ kế hoạch phá hoại.",
+   "cach_goi": "gọi 'miss', lịch sự"
+  },
+  {
+   "a": "Cô gái",
+   "b": "Osprey",
+   "loai": "doi_thu",
+   "mo_ta": "Cô gái đối đầu với Osprey, cố gắng thực hiện kế hoạch của mình.",
+   "cach_goi": "gọi 'grandfather', thân mật"
+  },
+  {
+   "a": "Thompson",
+   "b": "Cain",
+   "loai": "ban_be",
+   "mo_ta": "Hai thành viên Indus trao đổi thông tin về sự kiện.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Cain",
+   "b": "Thompson",
+   "loai": "ban_be",
+   "mo_ta": "Hai thành viên Indus trao đổi thông tin về sự kiện.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thay đổi đáng kể nào trong danh tính nhân vật được tiết lộ trong chương này."
+ ],
+ "stats": {
+  "tokens": 737,
+  "seconds": 22.8
+ }
+}

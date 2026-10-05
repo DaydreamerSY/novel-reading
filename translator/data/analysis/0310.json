@@ -1,0 +1,67 @@
+{
+ "number": 310,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận được thông báo về các chức năng mới của Weaving, Frondier thử nghiệm 'Enhancement' bằng cách truyền khả năng 'Lightning God's Grant' vào một con dao. Ông nhận thấy việc này tốn nhiều Mana và không hiệu quả cho những vũ khí yếu. Sau đó, ông suy nghĩ về việc sử dụng 'Neil Jack's dagger' để thử nghiệm thêm và lo ngại rằng Workshop của mình có thể trở thành mục tiêu để sao chép.",
+ "boi_canh": "Trong phòng Frondier, sau khi nhận được thông báo từ đồng hồ thông minh.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Pros",
+  "Khryselakatos",
+  "Neil",
+  "Neil Jack"
+ ],
+ "su_kien": [
+  "Frondier nhận được thông báo về chức năng 'Enhancement' mới của Weaving.",
+  "Frondier thử nghiệm Enhancement bằng cách truyền khả năng 'Lightning God's Grant' vào một con dao.",
+  "Thử nghiệm thành công, nhưng tiêu tốn nhiều Mana.",
+  "Frondier cân nhắc sử dụng 'Neil Jack's dagger' để thử nghiệm thêm.",
+  "Frondier lo ngại Workshop có thể trở thành mục tiêu sao chép."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier; hiện đang đi chơi xa.",
+   "cach_goi": "gọi tên Azier, không thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pros",
+   "loai": "dong_minh",
+   "mo_ta": "Người hầu của gia đình Roach; luôn hoàn thành nhiệm vụ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Neil Jack",
+   "loai": "nguoi_la",
+   "mo_ta": "Một nhân vật có vũ khí mạnh mẽ, Frondier cân nhắc sử dụng để thử nghiệm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Maid",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Người hầu của gia đình Roach; cư xử ngày càng lịch sự với Frondier.",
+   "cach_goi": "gọi tên Frondier-nim, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Maid",
+   "loai": "dong_minh",
+   "mo_ta": "Người hầu của gia đình Roach; cư xử ngày càng lịch sự với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Khryselakatos: vũ khí ban đầu có tùy chọn 'Female Only' đã bị loại bỏ bằng Degradation.",
+  "Neil Jack’s dagger: vũ khí mạnh mẽ được cân nhắc để thử nghiệm Enhancement."
+ ],
+ "stats": {
+  "tokens": 769,
+  "seconds": 23.7
+ }
+}

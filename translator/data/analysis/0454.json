@@ -1,0 +1,63 @@
+{
+ "number": 454,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một con quái vật trong ngục giam cố gắng học kỹ thuật 'Falling edge' của Azier để trốn thoát. Nó trải qua quá trình tự nhận thức và đau khổ, cuối cùng tìm ra cách biến mất hoàn toàn. Azier và Mizonus chiến đấu, nhưng Mizonus đột nhiên sợ hãi và giữ kín điều gì đó, khiến trận chiến bị gián đoạn.",
+ "boi_canh": "Bên trong một ngục giam, nơi con quái vật đang cố gắng trốn thoát.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Mizonus"
+ ],
+ "su_kien": [
+  "Quái vật quan sát Azier chiến đấu và cố gắng học kỹ thuật 'Falling edge'.",
+  "Quái vật trải qua quá trình tự nhận thức, đặt câu hỏi về nguồn gốc sức mạnh của mình.",
+  "Quái vật tìm cách trốn thoát khỏi ngục giam bằng cách biến mất.",
+  "Azier và Mizonus chiến đấu trong khi quái vật trốn thoát.",
+  "Mizonus đột nhiên sợ hãi và giữ kín điều gì đó, khiến trận chiến bị gián đoạn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai quan sát hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mizonus",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai quan sát hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Mizonus",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "gọi tên Mizonus, không trang trọng"
+  },
+  {
+   "a": "Mizonus",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "gọi tên Azier, không trang trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính mới hoặc bí mật nào được tiết lộ trong chương này."
+ ],
+ "stats": {
+  "tokens": 685,
+  "seconds": 20.5
+ }
+}

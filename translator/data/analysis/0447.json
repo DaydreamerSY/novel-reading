@@ -1,0 +1,105 @@
+{
+ "number": 447,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tiết lộ với những người có mặt rằng quái vật Konjac mà anh ta đã đối mặt dường như vừa mới sinh ra, và nó học hỏi theo cách bắt chước mọi thứ. Anh ta nhận thấy quái vật tạo ra khuôn mặt sau khi Frondier chặn đòn tấn công của nó và tập trung vào nhà vua. Lily, một người phụ nữ bí ẩn, đặc biệt quan tâm đến những thông tin này và đặt câu hỏi liên tục cho Frondier. Cuối cùng, Frondier cảnh báo rằng quái vật có thể bắt chước ngoại hình của anh ta, và nếu điều đó xảy ra, họ nên tiêu diệt nó ngay lập tức.",
+ "boi_canh": "Trong một căn phòng kín đáo, những người có liên quan đến vấn đề quái vật Konjac đang thảo luận.",
+ "nhan_vat": [
+  "Frondier",
+  "Ludovic",
+  "Enfer",
+  "Azier",
+  "Daisy Foster",
+  "Ria Lis (Lily)",
+  "Selena",
+  "Lilith",
+  "Lis"
+ ],
+ "su_kien": [
+  "Frondier tiết lộ rằng quái vật Konjac dường như vừa mới sinh ra.",
+  "Daisy Foster đặt câu hỏi về khả năng có người khác có thể cảm nhận được quái vật.",
+  "Lily bày tỏ sự quan tâm đặc biệt đến những thông tin mà Frondier cung cấp.",
+  "Frondier suy luận rằng quái vật bắt chước mọi thứ ở con người.",
+  "Frondier cảnh báo rằng quái vật có thể bắt chước ngoại hình của anh ta."
+ ],
+ "quan_he": [
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Ludovic nghi ngờ và phản bác những lời của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludovic",
+   "loai": "doi_thu",
+   "mo_ta": "Ludovic nghi ngờ và phản bác những lời của Frondier.",
+   "cach_goi": "gọi tên Ludovic, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Daisy Foster",
+   "b": "Ludovic",
+   "loai": "dong_minh",
+   "mo_ta": "Daisy Foster tranh luận với Ludovic.",
+   "cach_goi": "gọi tên Ludovic, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Daisy Foster",
+   "loai": "dong_minh",
+   "mo_ta": "Daisy Foster tranh luận với Ludovic.",
+   "cach_goi": "gọi tên Daisy Foster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Enfer hiểu những gì Frondier đã làm ở Yeranhes.",
+   "cach_goi": "gọi tên Enfer, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Enfer hiểu những gì Frondier đã làm ở Yeranhes.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Azier hiểu những gì Frondier đã làm ở Yeranhes.",
+   "cach_goi": "gọi tên Azier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Azier hiểu những gì Frondier đã làm ở Yeranhes.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily (Ria Lis)",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Lily đặt câu hỏi liên tục cho Frondier với giọng điệu quyến rũ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily (Ria Lis)",
+   "loai": "nguoi_la",
+   "mo_ta": "Lily đặt câu hỏi liên tục cho Frondier với giọng điệu quyến rũ.",
+   "cach_goi": "gọi tên Lily, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ria Lis được gọi là 'Lily' bởi những người chơi và một số người khác.",
+  "Lily gợi nhớ đến quỷ Lilith."
+ ],
+ "stats": {
+  "tokens": 1239,
+  "seconds": 37.0
+ }
+}

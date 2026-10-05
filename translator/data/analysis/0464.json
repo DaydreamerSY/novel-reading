@@ -1,0 +1,105 @@
+{
+ "number": 464,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi rút lui khỏi chiến trường, Frondier đối mặt với sự nghi ngờ từ các thành viên của Zodiac và Ludovic tại phòng ngủ của Hoàng đế Bartello. Để chứng minh thân phận thật sự của mình, anh vô tình buông ra một biệt danh thân mật mà chỉ có người thân thiết mới biết (Fron). Philly xác nhận anh là Frondier thật và dẫn anh vào bên trong, khiến mọi người kinh ngạc.",
+ "boi_canh": "Phòng ngủ của Hoàng đế Bartello, tại cung điện, sau trận chiến với quỷ dữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Azier",
+  "Lily",
+  "Bartello Tert",
+  "Monty",
+  "Ludovic",
+  "Mizonas",
+  "Metamorph",
+  "Fron"
+ ],
+ "su_kien": [
+  "Frondier rút lui khỏi chiến trường.",
+  "Ludovic và các thành viên Zodiac nghi ngờ Frondier là giả mạo.",
+  "Frondier vô tình gọi mình bằng biệt danh 'Fron'.",
+  "Philly xác nhận Frondier là thật.",
+  "Hoàng đế Bartello đe dọa sẽ hành quyết Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Monty bày tỏ sự ngạc nhiên về tình trạng của Frondier sau trận chiến.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier trả lời sự ngạc nhiên của Monty.",
+   "cach_goi": "gọi tên Monty, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier và Lily trao đổi qua lại khi anh rút lui.",
+   "cach_goi": "gọi tên Lily, không rõ"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Lily bày tỏ sự ngạc nhiên khi thấy Frondier rút lui.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Đối với người cấp trên, Frondier tỏ ra tôn trọng.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người cấp trên, Philly tỏ ra vui vẻ và có chút trêu chọc.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Ludovic nghi ngờ Frondier là giả mạo và yêu cầu anh ta chứng minh.",
+   "cach_goi": "gọi tên Frondier, nghi ngờ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludovic",
+   "loai": "khac",
+   "mo_ta": "Frondier trả lời yêu cầu chứng minh của Ludovic.",
+   "cach_goi": "gọi tên Ludovic, không rõ"
+  },
+  {
+   "a": "Bartello Tert",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng đế Bartello cảnh cáo và kiểm tra sự trung thành của Frondier.",
+   "cach_goi": "gọi tên Frondier, nghiêm khắc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello Tert",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier trả lời lời cảnh cáo của Hoàng đế Bartello.",
+   "cach_goi": "gọi tên Bartello, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Fron: Biệt danh thân mật của Frondier, được Philly biết đến."
+ ],
+ "stats": {
+  "tokens": 1140,
+  "seconds": 34.0
+ }
+}

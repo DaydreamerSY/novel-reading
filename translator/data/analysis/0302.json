@@ -1,0 +1,73 @@
+{
+ "number": 302,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, cuộc truy đuổi giữa Hagley và Heldre diễn ra căng thẳng trong rừng. Heldre cố gắng trốn thoát vì thương tích ở tay, nhưng Hagley vẫn kiên trì bám theo. Đột ngột, Renzo xuất hiện và đâm một cây giáo vào ngực Heldre, khiến anh ta chết ngay tại chỗ. Sự kiện này khiến Hagley nghi ngờ về động cơ của Renzo và những bí mật mà anh ta đang che giấu.",
+ "boi_canh": "Trong rừng rậm, giữa cuộc chiến tại biệt thự.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Hagley",
+  "Heldre",
+  "Ares",
+  "Jei"
+ ],
+ "su_kien": [
+  "Hagley đuổi theo Heldre trong rừng.",
+  "Heldre tấn công Hagley bằng cách đá vào cây, khiến cây đổ xuống.",
+  "Renzo xuất hiện và đâm một cây giáo vào ngực Heldre.",
+  "Heldre chết vì bị thương nặng.",
+  "Renzo đề cập đến Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Hagley",
+   "b": "Heldre",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ đang truy đuổi lẫn nhau trong rừng.",
+   "cach_goi": "gọi tên Heldre, lạnh lùng"
+  },
+  {
+   "a": "Heldre",
+   "b": "Hagley",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ đang truy đuổi lẫn nhau trong rừng.",
+   "cach_goi": "gọi tên Hagley, thô lỗ"
+  },
+  {
+   "a": "Renzo",
+   "b": "Heldre",
+   "loai": "ke_thu",
+   "mo_ta": "tấn công và giết chết Heldre.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Heldre",
+   "b": "Renzo",
+   "loai": "nguoi_la",
+   "mo_ta": "bất ngờ bị tấn công bởi Renzo.",
+   "cach_goi": "gọi tên Renzo, kinh ngạc"
+  },
+  {
+   "a": "Renzo",
+   "b": "Hagley",
+   "loai": "nguoi_la",
+   "mo_ta": "thể hiện sự quan tâm đến Hagley.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Renzo",
+   "loai": "nguoi_la",
+   "mo_ta": "quan sát và phân tích hành động của Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Heldre là Zodiac"
+ ],
+ "stats": {
+  "tokens": 737,
+  "seconds": 22.7
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "number": 588,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Lily bày tỏ sự ngưỡng mộ đối với Frondier sau khi anh đưa ra một suy luận phức tạp về việc đi đến Cõi Ma Quỷ. Cuộc trò chuyện dẫn đến những suy đoán về phương pháp bí ẩn để các quỷ dữ vượt qua được ranh giới giữa hai thế giới và những lý do đằng sau hành động của Lily khi đề nghị trở thành hiệp sĩ của Frondier. Cuối cùng, Frondier tiết lộ rằng xác chết mà Belphegor chiếm giữ có nét giống với Lily, khiến cô suy tư về bản chất thật sự của mình.",
+ "boi_canh": "Một phòng làm việc, thời điểm không rõ.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Lily",
+  "Ria Lis",
+  "Mizonas",
+  "Lis",
+  "Belphegor",
+  "Satan"
+ ],
+ "su_kien": [
+  "Lily bày tỏ sự ngưỡng mộ đối với Frondier vì một suy luận phức tạp.",
+  "Frondier suy đoán về phương pháp bí ẩn để các quỷ dữ vượt qua được ranh giới giữa hai thế giới.",
+  "Cuộc tranh cãi nhỏ giữa Frondier và Lily về động cơ của việc Lily muốn trở thành hiệp sĩ của anh.",
+  "Lily tiết lộ rằng cô đã mong đợi Frondier có tình cảm với mình.",
+  "Frondier phát hiện ra xác chết mà Belphegor chiếm giữ có nét giống với Lily."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Trò chuyện, tranh luận nhẹ nhàng, Lily có vẻ thích Frondier.",
+   "cach_goi": "gọi tên 'Lily', thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Trò chuyện, Lily có vẻ thích Frondier.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mizonas",
+   "loai": "doi_thu",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Satan",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ke_thu",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Ria Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Belphegor: đã chiếm giữ một xác chết, nguồn gốc của xác chết là một ẩn số.",
+  "Lily: có thể là một quỷ dữ hoặc có liên quan đến các quỷ dữ."
+ ],
+ "stats": {
+  "tokens": 1053,
+  "seconds": 33.0
+ }
+}

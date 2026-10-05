@@ -1,0 +1,55 @@
+{
+ "number": 363,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Đội quân của Laurie bị bao vây bởi quái vật. Frondier bất ngờ xuất hiện và cứu họ bằng cách thả một tòa nhà lớn xuống, tiêu diệt lũ quái vật. Anh ta yêu cầu Laurie dẫn dắt những người còn sống vào bên trong tòa nhà đó, đồng thời ám chỉ rằng cô phải trả giá cho sự cứu rỗi này.",
+ "boi_canh": "Một chiến trường hỗn loạn giữa đội quân và lũ quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Laurie"
+ ],
+ "su_kien": [
+  "Đội quân bị bao vây bởi quái vật.",
+  "Frondier thả một tòa nhà lớn xuống, tiêu diệt lũ quái vật.",
+  "Laurie được Frondier yêu cầu dẫn dắt những người còn sống vào bên trong tòa nhà.",
+  "Những người lính hoảng loạn và cố gắng đưa thương binh vào bên trong tòa nhà.",
+  "Frondier tạo ra một rào cản điện bằng búa và giáo để bảo vệ đội quân thêm 3 phút."
+ ],
+ "quan_he": [
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Laurie có vẻ rất khó chịu và sợ hãi khi đối mặt với Frondier.",
+   "cach_goi": "gọi tên Frondier, không thân thiện"
+  },
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier ra lệnh cho Laurie và ám chỉ cô phải trả giá cho sự cứu rỗi của đội quân.",
+   "cach_goi": "gọi tên Laurie, trịch thượng"
+  },
+  {
+   "a": "Laurie",
+   "b": "Leader",
+   "loai": "gia_dinh",
+   "mo_ta": "Laurie tuân theo mệnh lệnh của Leader.",
+   "cach_goi": "gọi 'Leader', lễ phép"
+  },
+  {
+   "a": "Leader",
+   "b": "Laurie",
+   "loai": "gia_dinh",
+   "mo_ta": "Leader tin tưởng và tuân theo chỉ dẫn của Frondier.",
+   "cach_goi": "gọi tên Laurie, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Người đã từng giam giữ Laurie, tra tấn cô."
+ ],
+ "stats": {
+  "tokens": 605,
+  "seconds": 18.0
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "number": 455,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, cuộc đối đầu căng thẳng giữa Mizonus và Azier diễn ra khi Mizonus cố tình kéo dài thời gian và thể hiện sức mạnh Aura của mình. Azier nhận ra sự khác thường trong hành động của Mizonus và lo ngại về việc con quái vật bị giam giữ có thể đã trốn thoát, bất chấp những biện pháp an ninh nghiêm ngặt. Frondier quyết định rời đi để đối phó với tình hình, gây ra sự phản đối từ các Zodiacs, những người tin rằng anh đang bỏ rơi họ và đặt vua Bartello vào nguy hiểm.",
+ "boi_canh": "Trong một nhà tù ngầm, giữa cuộc đối đầu căng thẳng.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Bartello",
+  "Monty",
+  "Ludovic",
+  "Daisy",
+  "Mizonus"
+ ],
+ "su_kien": [
+  "Mizonus thể hiện Aura mạnh mẽ và cố tình kéo dài thời gian.",
+  "Azier nhận ra sự khác thường trong hành động của Mizonus và nghi ngờ về nguồn gốc sức mạnh của hắn.",
+  "Con quái vật bị giam giữ biến mất khỏi tầm nhìn, gây lo ngại về khả năng trốn thoát.",
+  "Frondier quyết định rời đi để đối phó với tình hình, bất chấp sự phản đối từ các Zodiacs.",
+  "Ludovic và Monty ngăn cản Frondier rời đi, lo sợ cho sự an toàn của vua Bartello."
+ ],
+ "quan_he": [
+  {
+   "a": "Mizonus",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Mizonus cố tình khiêu khích và thể hiện sức mạnh.",
+   "cach_goi": "gọi tên Azier, lạnh lùng"
+  },
+  {
+   "a": "Azier",
+   "b": "Mizonus",
+   "loai": "doi_thu",
+   "mo_ta": "Phân tích hành động của đối thủ và nhận ra sự bất thường.",
+   "cach_goi": "gọi tên Mizonus, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "thay_tro",
+   "mo_ta": "Quan hệ sư đồ, Frondier có những lo ngại mà Azier chưa nhận ra.",
+   "cach_goi": "gọi tên Azier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Quan hệ sư đồ, Azier có chút nghi ngờ về những nhận định của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Bartello",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Quan hệ chủ tớ, Frondier phải xin phép Bartello để rời đi.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Quan hệ chủ tớ, Frondier xin phép rời đi để đối phó với tình hình.",
+   "cach_goi": "gọi tên Bartello, lễ phép"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Cố gắng ngăn cản Frondier rời đi vì lo ngại an toàn của Bartello.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludovic",
+   "loai": "dong_minh",
+   "mo_ta": "Phản đối hành động của Ludovic và khẳng định quyết định của mình.",
+   "cach_goi": "gọi tên Ludovic, lạnh lùng"
+  },
+  {
+   "a": "Daisy",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Cùng các Zodiac khác ngăn cản Frondier rời đi.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Daisy",
+   "loai": "dong_minh",
+   "mo_ta": "Cùng các Zodiac khác ngăn cản Frondier rời đi.",
+   "cach_goi": "gọi tên Daisy, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Cùng các Zodiac khác ngăn cản Frondier rời đi.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "dong_minh",
+   "mo_ta": "Cùng các Zodiac khác ngăn cản Frondier rời đi.",
+   "cach_goi": "gọi tên Monty, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1357,
+  "seconds": 40.6
+ }
+}

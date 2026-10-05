@@ -1,0 +1,70 @@
+{
+ "number": 364,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi một trận chiến ác liệt, Frondier đã cứu những thành viên của 'Ambu' khỏi lũ quái vật. Để đổi lấy sự cứu giúp này, anh đề nghị họ giữ bí mật về sự tồn tại của anh và tổ chức Ambu, đồng thời giả vờ như không có chuyện gì xảy ra cả. Sau đó, Frondier đưa xưởng lên không để phá hủy mảnh vỡ tạo ra quái vật, cùng với Selena đi theo.",
+ "boi_canh": "Bên trong một xưởng làm việc, sau trận chiến ác liệt.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Penelope"
+ ],
+ "su_kien": [
+  "Frondier ngăn chặn lũ quái vật tấn công.",
+  "Frondier yêu cầu các thành viên Ambu giữ bí mật về sự tồn tại của họ và anh.",
+  "Frondier đưa xưởng lên không trung.",
+  "Selena xác nhận vẫn có thể dịch chuyển tức thời.",
+  "Frondier chuẩn bị phá hủy mảnh vỡ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Frondier và Selena đi cùng nhau, Frondier có vẻ lo lắng cho Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Selena luôn theo sát và hỗ trợ Frondier.",
+   "cach_goi": "gọi tên Frondier-nim, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ambu (leader)",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier cứu họ và đưa ra một yêu cầu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ambu (leader)",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Ambu bày tỏ lòng biết ơn với Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Penelope",
+   "loai": "khac",
+   "mo_ta": "Kiểm tra Fabric của Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Selena quan sát và hỏi Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Ambu: Một tổ chức bí mật. Họ đang che giấu thân phận của mình."
+ ],
+ "stats": {
+  "tokens": 757,
+  "seconds": 22.7
+ }
+}

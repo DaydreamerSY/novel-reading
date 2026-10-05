@@ -1,0 +1,69 @@
+{
+ "number": 598,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi được Paul dẫn đến một địa điểm bí mật trong công ty, Frondier cùng Jeremy xem xét những sản phẩm mới chưa được công bố. Anh cảm thấy lo lắng về việc bị dụ dỗ vào bẫy của Jeremy, nhưng cũng tò mò về những sản phẩm này. Sau đó, anh phát hiện ra một chiếc vòng tay có khả năng chống lại ảnh hưởng tâm trí và thử đeo nó, vô tình kích hoạt một thiết bị bảo mật nguy hiểm khiến Mana của anh bị hút cạn. Paul sau đó tỏ ra lạnh lùng và đe dọa Frondier.",
+ "boi_canh": "Bên trong một khu vực bí mật của công ty, vào một thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Paul",
+  "Jeremy"
+ ],
+ "su_kien": [
+  "Frondier được Paul và Jeremy dẫn đến xem các sản phẩm chưa công bố của công ty.",
+  "Frondier phát hiện ra một chiếc vòng tay có khả năng chống lại ảnh hưởng tâm trí.",
+  "Việc đeo vòng tay kích hoạt một thiết bị bảo mật, hút cạn Mana của Frondier.",
+  "Paul tỏ thái độ lạnh lùng và đe dọa Frondier.",
+  "Frondier nghi ngờ rằng thiết bị bảo mật chỉ nhắm vào con người."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Paul",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier được Paul dẫn đường và bị Paul ra lệnh.",
+   "cach_goi": "gọi tên Paul, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Paul",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Paul dẫn dắt và chỉ đạo Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jeremy",
+   "loai": "khac",
+   "mo_ta": "Hai người đi cùng nhau nhưng không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Jeremy, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jeremy",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Hai người đi cùng nhau nhưng không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Paul",
+   "b": "Jeremy",
+   "loai": "cap_tren",
+   "mo_ta": "Paul có vẻ là người có quyền lực hơn Jeremy.",
+   "cach_goi": "gọi tên Jeremy, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jeremy",
+   "b": "Paul",
+   "loai": "cap_tren",
+   "mo_ta": "Paul có vẻ là người có quyền lực hơn Jeremy.",
+   "cach_goi": "gọi tên Paul, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 790,
+  "seconds": 24.5
+ }
+}

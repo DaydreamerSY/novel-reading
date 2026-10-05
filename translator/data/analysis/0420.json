@@ -1,0 +1,71 @@
+{
+ "number": 420,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi mở cửa ra ngoài, nhóm Pros bị Frondier lừa vào một workshop bí mật được gắn liền với lối thoát ban đầu. Workshop này có khả năng thay đổi hình dạng và trọng lực, khiến họ rơi xuống và đảo ngược vị trí. Họ chia thành các đội nhỏ để tìm đường ra nhưng liên tục gặp phải bẫy nguy hiểm do Frondier thiết lập, trong đó Eden là người phát hiện ra một loại bẫy mới sử dụng chất lỏng đen bí ẩn. Tình hình trở nên căng thẳng khi một đồng đội của họ bị giết bởi một ngọn giáo bất ngờ.",
+ "boi_canh": "Bên trong workshop bí mật của Frondier, sau khi nhóm Pros bước qua cửa.",
+ "nhan_vat": [
+  "Frondier",
+  "Eden",
+  "Pros",
+  "Eden Hamelot"
+ ],
+ "su_kien": [
+  "Eden mở cửa bằng kiếm và dẫn đường.",
+  "Nhóm Pros bị cuốn vào bên ngoài workshop.",
+  "Workshop thay đổi hình dạng, khiến nhóm rơi tự do.",
+  "Các Pro chia thành các đội nhỏ để tìm lối thoát.",
+  "Một Pro bị giết bởi một bẫy bất ngờ."
+ ],
+ "quan_he": [
+  {
+   "a": "Eden",
+   "b": "Pros",
+   "loai": "dong_minh",
+   "mo_ta": "Dẫn đầu nhóm Pros, chỉ đạo và bảo vệ.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Pros",
+   "b": "Eden",
+   "loai": "dong_minh",
+   "mo_ta": "Làm theo chỉ dẫn của Eden và hỗ trợ lẫn nhau.",
+   "cach_goi": "gọi tên, tôn trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "doi_thu",
+   "mo_ta": "Người tạo ra bẫy và thử thách Eden.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pros",
+   "loai": "doi_thu",
+   "mo_ta": "Người tạo ra bẫy và thử thách nhóm Pros.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden Hamelot",
+   "b": "Pros",
+   "loai": "dong_minh",
+   "mo_ta": "Một trong số các Pro, làm việc cùng Eden.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Eden",
+   "b": "Eden Hamelot",
+   "loai": "gia_dinh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "gọi tên, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot: Tên đầy đủ của Eden."
+ ],
+ "stats": {
+  "tokens": 737,
+  "seconds": 22.2
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "number": 366,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier hấp thụ mảnh vỡ của Helheim, gây ra sự lo lắng cho Hela. Sau khi Frondier biến mất trong biển chất lỏng, Selena kêu cứu. Hela quan sát quá trình linh hồn xâm chiếm cơ thể Frondier và nhận thấy số lượng linh hồn lớn hơn dự kiến. Cuối cùng, Laurie đặt ra hai điều kiện để giúp đỡ Frondier sau khi anh ta dường như đã chết.",
+ "boi_canh": "Helheim, thời điểm Frondier hấp thụ mảnh vỡ của Helheim.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Laurie",
+  "Hela",
+  "Hel",
+  "Geoffrey"
+ ],
+ "su_kien": [
+  "Frondier hấp thụ mảnh vỡ của Helheim.",
+  "Selena kêu cứu khi Frondier bị nhấn chìm trong chất lỏng.",
+  "Linh hồn xâm chiếm cơ thể Frondier.",
+  "Hela quan sát quá trình này dưới hình dạng người phàm.",
+  "Laurie đặt ra hai điều kiện để giúp đỡ Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Hela",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Theo dõi hành động của Frondier với sự lo lắng và nghi ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hela",
+   "loai": "ke_thu",
+   "mo_ta": "Đối tượng của sự quan sát và lo lắng từ Hela.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Kêu cứu khi Frondier gặp nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Đối tượng được Selena cứu giúp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đề nghị giúp đỡ và đặt ra điều kiện.",
+   "cach_goi": "gọi tên Frondier, không rõ tone"
+  },
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "ban_be",
+   "mo_ta": "Đối tượng của đề nghị giúp đỡ từ Laurie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hela",
+   "b": "Laurie",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Laurie từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Laurie",
+   "b": "Hela",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối tượng được Hela quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hel là tên khác của Hera, nữ thần cai quản âm ti."
+ ],
+ "stats": {
+  "tokens": 873,
+  "seconds": 26.1
+ }
+}

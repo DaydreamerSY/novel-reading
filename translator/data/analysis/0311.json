@@ -1,0 +1,55 @@
+{
+ "number": 311,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier kiểm tra xưởng chế tác của mình và nhận ra nó lớn hơn nhiều so với tưởng tượng ban đầu, thậm chí vượt khỏi khuôn viên dinh thự. Sau đó, Selena bất ngờ xuất hiện và xin lỗi vì đã bỏ trốn và không hoàn thành nhiệm vụ bảo vệ Frondier. Cuối cùng, Frondier chất vấn Selena về cách cô ấy biết được vị trí của anh ta và nhận được một lời giải thích kỳ lạ liên quan đến 'bề mặt sau' của sự dịch chuyển tức thời.",
+ "boi_canh": "Trong không gian mở rộng của dinh thự Roach, vào lúc Frondier đang kiểm tra xưởng chế tác.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Azier",
+  "Hagley"
+ ],
+ "su_kien": [
+  "Frondier phát hiện ra kích thước thực tế của xưởng chế tác lớn hơn nhiều so với dự đoán.",
+  "Selena bất ngờ xuất hiện và xin lỗi vì đã bỏ trốn.",
+  "Frondier yêu cầu Selena nhìn thẳng vào mắt anh thay vì cúi đầu.",
+  "Selena giải thích cách cô ấy biết được vị trí của Frondier thông qua 'bề mặt sau' của sự dịch chuyển tức thời.",
+  "Frondier suy đoán rằng có thể còn một tầng dưới khác trong xưởng chế tác mà anh chưa khám phá."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Người bảo vệ của Frondier, có vẻ như đang che giấu điều gì đó.",
+   "cach_goi": "gọi tên Selena, không rõ cảm xúc"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người bảo vệ trung thành, nhưng có vẻ đang đấu tranh với lương tâm.",
+   "cach_goi": "gọi tên Frondier-nim, lễ phép và kính trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Người đang cố gắng tìm hiểu sự thật đằng sau hành động của Selena.",
+   "cach_goi": "gọi tên Selena, dò xét và nghi ngờ"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người bảo vệ trung thành, nhưng có vẻ đang đấu tranh với lương tâm.",
+   "cach_goi": "gọi tên Frondier-nim, lễ phép và kính trọng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 683,
+  "seconds": 21.2
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "number": 247,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Kora mất kiểm soát và gây náo loạn, học sinh nhận ra sự bất thường với áp lực ma thuật lớn. Selena ngăn cản mọi người rời đi để sơ tán qua lối chính nguy hiểm. Aten quan sát hành động kỳ lạ của Frondier và sau đó nhận ra một con quạ được Frondier huấn luyện đang cảnh báo về nguy hiểm. Cô quyết định lên sân thượng để quan sát tình hình, cuối cùng phát hiện ra một người đàn ông đối mặt với hổ trắng thay vì Frondier. Các giáo viên Malia và Jane cũng đến hiện trường, Malia nhận ra một mùi hương quen thuộc từ quá khứ.",
+ "boi_canh": "Trong khuôn viên trường học, khi Kora gây náo loạn.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aten",
+  "Jane",
+  "Malia",
+  "Kora"
+ ],
+ "su_kien": [
+  "Kora bắt đầu tấn công, gây ra áp lực ma thuật lớn.",
+  "Selena ngăn cản học sinh rời khỏi trường.",
+  "Aten nhận ra con quạ cảnh báo nguy hiểm là do Frondier huấn luyện.",
+  "Aten lên sân thượng để quan sát tình hình.",
+  "Malia nhận ra một mùi hương quen thuộc từ quá khứ."
+ ],
+ "quan_he": [
+  {
+   "a": "Selena",
+   "b": "Học sinh",
+   "loai": "dong_minh",
+   "mo_ta": "Selena ngăn cản học sinh rời khỏi trường để sơ tán.",
+   "cach_goi": "gọi 'Go back!', mệnh lệnh"
+  },
+  {
+   "a": "Học sinh",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Học sinh tuân theo chỉ dẫn của Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aten lo lắng về hành động kỳ lạ của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Con quạ",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten nhận ra con quạ là do Frondier huấn luyện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Jane",
+   "loai": "dong_minh",
+   "mo_ta": "Hai giáo viên gặp nhau trên đường đến hiện trường.",
+   "cach_goi": "gọi tên Jane, thân mật"
+  },
+  {
+   "a": "Jane",
+   "b": "Malia",
+   "loai": "dong_minh",
+   "mo_ta": "Hai giáo viên gặp nhau trên đường đến hiện trường.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Con quạ: Được Frondier huấn luyện."
+ ],
+ "stats": {
+  "tokens": 793,
+  "seconds": 25.0
+ }
+}

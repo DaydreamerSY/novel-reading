@@ -1,0 +1,69 @@
+{
+ "number": 406,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối mặt với Ellen, người dường như đã bị tha hóa và sử dụng sức mạnh Mana vượt trội để tấn công. Anh phải vật lộn để phòng thủ trước kỹ năng kiếm thuật của cô ấy, đồng thời suy đoán về động cơ thực sự của cô ấy và liệu cô ấy có còn là một 'anh hùng' hay không. Cuối cùng, Frondier buộc phải sử dụng các vũ khí thần thánh Ares và Khryselakatos để đối phó với sức mạnh ngày càng tăng của Ellen.",
+ "boi_canh": "Trong một tòa nhà, thời điểm hiện tại, khi Frondier và Ellen đang đối đầu nhau.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Ellen",
+  "Dier",
+  "Roxy",
+  "Ares",
+  "Khryselakatos",
+  "Ellen Evans"
+ ],
+ "su_kien": [
+  "Frondier nghi ngờ Ellen đã bị 'tha hóa' do sự thay đổi trong hành vi và sức mạnh Mana.",
+  "Ellen tấn công Frondier bằng kỹ thuật kiếm thuật đặc trưng của gia đình Evans, sử dụng Mana vượt trội.",
+  "Frondier phải phòng thủ trước các đòn tấn công liên tục của Ellen.",
+  "Frondier sử dụng Obsidian để tạo ra gai nhọn tấn công Ellen.",
+  "Frondier buộc phải sử dụng khiên Ares và cung Khryselakatos để đối phó với sức mạnh của Ellen."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Ellen là người mà Frondier từng tin tưởng là một anh hùng, nhưng hiện tại có dấu hiệu bị tha hóa.",
+   "cach_goi": "gọi 'Senior Ellen', lễ phép"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Ellen tấn công Frondier với sự quyết liệt, thể hiện sự thay đổi trong mối quan hệ của họ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Ellen đứng về phía Aster, nhưng có thể là kẻ thù của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "thay_tro",
+   "mo_ta": "Ellen có kỹ năng kiếm thuật sánh ngang với Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Roxy",
+   "loai": "nguoi_la",
+   "mo_ta": "Ellen yêu cầu Roxy rời đi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ellen Evans: Tên đầy đủ của Ellen."
+ ],
+ "stats": {
+  "tokens": 776,
+  "seconds": 23.1
+ }
+}

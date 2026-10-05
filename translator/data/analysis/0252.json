@@ -1,0 +1,88 @@
+{
+ "number": 252,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này kể về việc Frondier được giao nhiệm vụ giám sát học sinh mới là Kora, một bán nhân có dòng máu bạch hổ. Jane đã thông báo cho Frondier về nhiệm vụ này như một hình phạt cho việc phá hoại kiến trúc của trường. Sau đó, Aten và Frondier gặp gỡ Kora trong lớp học, nơi cô bé tỏ ra sợ hãi Frondier vì một sự kiện trước đây. Cuối cùng, Aten nhẹ nhàng an ủi Kora và hỏi Frondier về hành động của anh.",
+ "boi_canh": "Trong phòng họp tại Constel, trước khi Kora trở thành học sinh mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aten",
+  "Quinie",
+  "Enfer",
+  "Jane",
+  "Kora"
+ ],
+ "su_kien": [
+  "Jane giao nhiệm vụ giám sát Kora cho Frondier.",
+  "Frondier nghi ngờ Quinie đã thông báo về khả năng biến thành Bạch Hổ của Kora.",
+  "Jane nhắc đến việc một người đàn ông có khuôn mặt giống Enfer đã đối đầu với Kora khi cô ta biến hình.",
+  "Kora tỏ ra sợ hãi Frondier khi gặp anh trong lớp học.",
+  "Aten an ủi Kora và hỏi Frondier về hành động của anh."
+ ],
+ "quan_he": [
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Jane là người cấp trên, giao nhiệm vụ cho Frondier.",
+   "cach_goi": "gọi tên 'Frondier', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier trả lời Jane, thể hiện sự tôn trọng.",
+   "cach_goi": "gọi tên 'Jane', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn, nhưng không có đối thoại trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn, Aten tỏ ra lo lắng cho Kora.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Frondier trả lời Aten, đôi khi có chút trêu chọc.",
+   "cach_goi": "gọi tên 'Aten', thân mật"
+  },
+  {
+   "a": "Kora",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Kora tỏ ra thoải mái và tin tưởng Aten hơn.",
+   "cach_goi": "gọi tên 'Aten', lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Kora",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten an ủi và hỏi han Kora.",
+   "cach_goi": "gọi tên 'Kora', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kora",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người có vẻ đã từng gặp nhau, Kora sợ hãi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Người đàn ông đối đầu với Kora khi biến hình có khuôn mặt giống Enfer."
+ ],
+ "stats": {
+  "tokens": 985,
+  "seconds": 31.2
+ }
+}

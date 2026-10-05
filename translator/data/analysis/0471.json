@@ -1,0 +1,81 @@
+{
+ "number": 471,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tiếp tục huấn luyện Metamorph, đặt tên cho nó là Mei và dạy nó về Mana. Anh ta cố gắng tạo ra một tinh thể Mana bằng cách nén Mana của mình vào một quả cầu Obsidian, nhưng không thành công hoàn toàn. Tuy nhiên, nhờ sự giúp đỡ bất ngờ từ Mei, sử dụng kỹ thuật mà có vẻ như cô đã học được từ Zodiac Daisy, họ đã thu nhỏ Mana thành một tinh thể Dragon Heart.",
+ "boi_canh": "Trong một khu vực rộng lớn, nơi Frondier đang thực hiện một thí nghiệm phức tạp với Mana.",
+ "nhan_vat": [
+  "Frondier",
+  "Metamorph (Mei)",
+  "Bartello",
+  "Daisy",
+  "Lunia Fricell",
+  "Lunia"
+ ],
+ "su_kien": [
+  "Frondier đặt tên cho Metamorph là Mei.",
+  "Frondier cố gắng tạo ra một tinh thể Mana bằng cách nén Mana vào quả cầu Obsidian.",
+  "Mei học được kỹ thuật từ Zodiac Daisy và giúp Frondier thu nhỏ Mana.",
+  "Hai người cùng nhau thu nhỏ Mana thành một tinh thể Dragon Heart.",
+  "Tinh thể Dragon Heart hoàn chỉnh được bao bọc trong Obsidian."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Metamorph (Mei)",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học trò, Frondier đang hướng dẫn và dạy cho Mei về Mana.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Metamorph (Mei)",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò đang quan sát và học hỏi từ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Quan hệ cấp trên, Frondier lo lắng về tình trạng của Bartello.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Daisy",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Mei đã học một kỹ thuật từ Daisy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lunia Fricell",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier nghĩ về cách Lunia sẽ phản ứng với phương pháp của anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò đang quan sát và học hỏi từ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Daisy",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Mei đã học một kỹ thuật từ Daisy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Metamorph được đặt tên là Mei.",
+  "‘Calamity of Metamorph’ là biệt danh cũ của Metamorph."
+ ],
+ "stats": {
+  "tokens": 899,
+  "seconds": 26.9
+ }
+}

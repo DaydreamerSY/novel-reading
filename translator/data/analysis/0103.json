@@ -1,0 +1,66 @@
+{
+ "number": 103,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào buổi huấn luyện của Lunia và Aten, cùng với sự kiện Frondier phá kỷ lục Target Hitting khó nhất. Lunia bị xao nhãng bởi sự hiện diện của Aten và cảm thấy lo lắng về việc có thể làm phiền cô ấy. Aten lại bận tâm đến những suy nghĩ riêng về sức mạnh của mình và sự bất lực khi so sánh với Frondier. Cuối cùng, chứng kiến khả năng của Aten, Lunia tập trung vào huấn luyện của mình. Một thông báo bất ngờ công bố kỷ lục mới của Frondier, gây sốc cho tất cả mọi người, ngoại trừ Aten.",
+ "boi_canh": "Trong phòng huấn luyện, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Aten",
+  "Renzo",
+  "Ellen",
+  "Lunia"
+ ],
+ "su_kien": [
+  "Lunia lo lắng về việc có thể làm phiền Aten.",
+  "Aten tập trung vào huấn luyện 'phản ứng nhanh'.",
+  "Frondier phá kỷ lục Target Hitting khó nhất với thời gian 3.14 giây.",
+  "Thông báo về kỷ lục mới của Frondier gây sốc cho những người xung quanh.",
+  "Aster và Ellen chứng kiến thông báo này."
+ ],
+ "quan_he": [
+  {
+   "a": "Lunia",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Lunia bối rối và lo lắng khi ở gần Aten.",
+   "cach_goi": "gọi tên Aten, không rõ cảm xúc"
+  },
+  {
+   "a": "Aten",
+   "b": "Lunia",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten không chú ý đến Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Aten cảm thấy bất lực khi so sánh sức mạnh của mình với Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Aten coi Frondier là người cứu giúp của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Ellen",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em ruột thịt.",
+   "cach_goi": "gọi tên Ellen, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)"
+ ],
+ "stats": {
+  "tokens": 711,
+  "seconds": 22.1
+ }
+}

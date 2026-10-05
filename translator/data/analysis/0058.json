@@ -1,0 +1,57 @@
+{
+ "number": 58,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đang suy nghĩ về việc thử nghiệm rune cổ 'Menosorpo' và lo lắng về sự nguy hiểm tiềm ẩn của nó. Anh quyết định tìm một địa điểm thích hợp để thử nghiệm, cuối cùng chọn khu nhà thứ cấp nơi anh từng chơi với Elodie. Vikar, quản gia, giúp Frondier chuẩn bị xe để đến đó, đồng thời nhận xét rằng Frondier đã thay đổi nhiều.",
+ "boi_canh": "Trong phòng của Frondier, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Elodie de Inies Rishae",
+  "Vikar"
+ ],
+ "su_kien": [
+  "Frondier suy nghĩ về việc thử nghiệm rune 'Menosorpo'.",
+  "Anh quyết định cần một địa điểm biệt lập để thử nghiệm.",
+  "Anh gọi quản gia Vikar để nhờ giúp đỡ.",
+  "Vikar đề nghị khu nhà thứ cấp nơi Frondier từng chơi với Elodie.",
+  "Vikar nhận xét Frondier đã thay đổi nhiều."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Vikar",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là chủ nhân, Vikar là người hầu cấp cao, thể hiện sự tôn trọng.",
+   "cach_goi": "gọi 'Mr. Vikar', lễ phép"
+  },
+  {
+   "a": "Vikar",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Vikar là người hầu cấp cao, thể hiện sự tôn trọng.",
+   "cach_goi": "gọi tên Frondier, lịch sự"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie de Inies Rishae",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, mối quan hệ thân thiết.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vikar",
+   "b": "Elodie de Inies Rishae",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Inies Rishae (trước đây là Elodie de Rishae)"
+ ],
+ "stats": {
+  "tokens": 621,
+  "seconds": 18.6
+ }
+}

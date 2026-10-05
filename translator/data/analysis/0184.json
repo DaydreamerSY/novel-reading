@@ -1,0 +1,68 @@
+{
+ "number": 184,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier rời đi, Merlin có vẻ bối rối và xa lánh Nimue. Anh ta từ chối trả lời và bỏ đi, khiến Nimue lo lắng. Tiếp theo, Frondier gặp lại Merlin trong rừng, người đã hỏi anh về việc tại sao Vua Arthur không thể nhận thanh kiếm thứ hai. Cuối cùng, Merlin tiết lộ một câu nói bí ẩn mà Vua Arthur từng trao cho anh, được khắc bằng tiếng cổ.",
+ "boi_canh": "Trong khu rừng, vào thời điểm Frondier và những người khác đang đối mặt với những vấn đề về tương lai của Nimue và Merlin.",
+ "nhan_vat": [
+  "Frondier",
+  "Merlin",
+  "Nimue",
+  "Selena",
+  "Aster",
+  "Arthur",
+  "Albaito",
+  "Cassian"
+ ],
+ "su_kien": [
+  "Merlin bỏ đi sau khi Frondier rời khỏi khu vực.",
+  "Nimue bày tỏ lo lắng về việc Merlin có thể biến mất nếu không có Vua Arthur.",
+  "Merlin khắc một câu nói bí ẩn bằng tiếng cổ trên mặt đất.",
+  "Frondier gặp lại Merlin trong rừng.",
+  "Merlin hỏi Frondier về lý do Vua Arthur không nhận được thanh kiếm thứ hai."
+ ],
+ "quan_he": [
+  {
+   "a": "Nimue",
+   "b": "Merlin",
+   "loai": "thay_tro",
+   "mo_ta": "Nimue là người hướng dẫn của Merlin, lo lắng về sự xa lánh của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Merlin",
+   "b": "Nimue",
+   "loai": "thay_tro",
+   "mo_ta": "Merlin có vẻ xa lánh Nimue, không đáp lại lời gọi của cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Selena đi cùng nhau trong rừng.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Merlin",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Merlin hỏi Frondier về những sự kiện liên quan đến Vua Arthur.",
+   "cach_goi": "gọi 'Mr. Frondier', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Merlin",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier trả lời câu hỏi của Merlin và đưa ra lời khuyên.",
+   "cach_goi": "gọi tên Merlin, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster."
+ ],
+ "stats": {
+  "tokens": 738,
+  "seconds": 22.2
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "number": 142,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra trong bối cảnh kỳ thi thực hành tại Constel, nơi các học viên năm nhất phải trải qua thử thách mô phỏng cứu hộ. Frondier và những người khác chứng kiến sự xuất hiện của nhiều nhân vật quyền lực như Enfer, Ortel, Ludwig, và Revet. Sự kết hợp đội nhóm bất thường giữa Quinie, Aten và Aster khiến mọi người bàn tán xôn xao, đặc biệt là mối quan hệ kỳ lạ giữa Elodie và Aster. Frondier cảm thấy lo lắng vì phải đối mặt với một đội hình mạnh mẽ như vậy để đạt được mục tiêu của mình.",
+ "boi_canh": "Trong khuôn viên trường Constel, vào ngày thi thực hành năm nhất.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten Terst",
+  "Sybil",
+  "Quinie de Viet",
+  "Enfer",
+  "Lunia",
+  "Ludwig von Urfa",
+  "Robald",
+  "Revet",
+  "Pros",
+  "Theo de Blanc",
+  "Thor",
+  "Ortel",
+  "Lunia Fricell",
+  "Theo"
+ ],
+ "su_kien": [
+  "Kỳ thi thực hành năm nhất bắt đầu tại Constel.",
+  "Nhiều nhân vật quyền lực như Enfer, Ortel, Ludwig và Revet có mặt để quan sát.",
+  "Ludwig bày tỏ sự ngạc nhiên khi thấy Quinie tham gia vào đội cứu hộ.",
+  "Sự kết hợp đội nhóm của Elodie và Aster gây bất ngờ cho mọi người.",
+  "Frondier lo lắng về việc phải đối đầu với một đội hình mạnh mẽ như vậy."
+ ],
+ "quan_he": [
+  {
+   "a": "Enfer",
+   "b": "Ortel",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người là những nhân vật quyền lực và có mối quan hệ giao hảo.",
+   "cach_goi": "gọi nhau bằng danh xưng lịch sự, lễ phép"
+  },
+  {
+   "a": "Revet",
+   "b": "Ludwig",
+   "loai": "cap_tren",
+   "mo_ta": "Revet là con trai của một gia đình quyền lực và tỏ ra kính trọng Ludwig.",
+   "cach_goi": "gọi Ludwig bằng 'Lord Urfa', lễ phép"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Revet",
+   "loai": "cap_tren",
+   "mo_ta": "Ludwig là người có địa vị cao hơn và có vẻ quan tâm đến Revet.",
+   "cach_goi": "gọi tên Revet, thân mật"
+  },
+  {
+   "a": "Quinie de Viet",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người cùng tham gia đội cứu hộ và có vẻ đang thảo luận điều gì đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người cùng tham gia đội cứu hộ và có vẻ đang thảo luận điều gì đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Revet",
+   "b": "Ludwig von Urfa",
+   "loai": "cap_tren",
+   "mo_ta": "Revet cúi chào Ludwig, thể hiện sự tôn trọng.",
+   "cach_goi": "gọi Ludwig bằng 'Lord Urfa', lễ phép"
+  },
+  {
+   "a": "Ludwig von Urfa",
+   "b": "Revet",
+   "loai": "cap_tren",
+   "mo_ta": "Ludwig vỗ nhẹ vào vai Revet.",
+   "cach_goi": "gọi tên Revet, thân mật"
+  },
+  {
+   "a": "Quinie de Viet",
+   "b": "Revet",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ quen biết nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig von Urfa",
+   "b": "Quinie de Viet",
+   "loai": "nguoi_la",
+   "mo_ta": "Ludwig quan sát Quinie trên màn hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Revet",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Hai người là anh em ruột.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig von Urfa",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Ludwig nhìn Elodie trên màn hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie de Viet",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người cùng tham gia đội cứu hộ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người cùng tham gia đội cứu hộ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie de Viet",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người đang thảo luận.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1485,
+  "seconds": 46.4
+ }
+}

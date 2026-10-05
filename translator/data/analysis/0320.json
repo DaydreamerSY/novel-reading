@@ -1,0 +1,78 @@
+{
+ "number": 320,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier chứng kiến sự ra mắt của một golem tự động hoàn toàn mới do Binkis phát triển. Anh cũng khám phá ra rằng nó có khả năng di chuyển và tấn công nhiều mục tiêu cùng lúc. Sau đó, Binkis yêu cầu Frondier thử nghiệm kỹ thuật 'Falling Edge' trên golem này để kiểm tra khả năng phòng thủ của nó.",
+ "boi_canh": "Trong xưởng chế tạo golem, vào một buổi sáng.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Quinie",
+  "Renzo",
+  "Edwin",
+  "Binkis"
+ ],
+ "su_kien": [
+  "Binkis giới thiệu golem tự động mới có khả năng hoạt động độc lập.",
+  "Frondier nhận ra cách thức điều khiển nhiều golem cùng lúc của Binkis.",
+  "Binkis yêu cầu Frondier thử nghiệm kỹ thuật 'Falling Edge' trên golem.",
+  "Golem trang bị sẵn súng và vào tư thế chiến đấu mà không cần lệnh.",
+  "Kỹ thuật 'Falling Edge' của Frondier thành công, khiến người xem ngạc nhiên."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "thay_tro",
+   "mo_ta": "học trò hỏi thăm và tìm hiểu về golem mới.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "giáo viên hướng dẫn và kiểm tra năng lực của học trò.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binkis",
+   "b": "Edwin",
+   "loai": "cap_tren",
+   "mo_ta": "giáo viên chỉ trích Edwin.",
+   "cach_goi": "gọi tên Edwin, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ trong quá khứ, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binkis",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai của Frondier, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 810,
+  "seconds": 25.0
+ }
+}

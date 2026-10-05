@@ -1,0 +1,56 @@
+{
+ "number": 579,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Amelie hồi hộp chờ đợi sự trở lại của Frondier và tưởng tượng ra những trận chiến anh hùng của anh ta. Trong khi đó, Hoàng hậu Philly lo ngại về việc Frondier liên quan đến Lily và yêu cầu báo cáo về anh ta được gửi trực tiếp cho bà. Cuối cùng, Frondier suy nghĩ về động cơ của kẻ tấn công, nhận ra rằng họ biết rõ danh tính của anh ta và Amelie.",
+ "boi_canh": "Trong xe ngựa, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Amelie",
+  "Philly",
+  "Lily",
+  "Robert"
+ ],
+ "su_kien": [
+  "Amelie hồi hộp chờ đợi sự trở lại của Frondier.",
+  "Frondier trở về và bước vào xe ngựa.",
+  "Hoàng hậu Philly yêu cầu báo cáo về Frondier được gửi trực tiếp cho bà.",
+  "Những tiếng động lạ và sạt lở đất xảy ra bên ngoài xe ngựa.",
+  "Frondier suy nghĩ về động cơ của kẻ tấn công."
+ ],
+ "quan_he": [
+  {
+   "a": "Amelie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Amelie ngưỡng mộ và tò mò về Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Amelie",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier duy trì một khoảng cách lịch sự với Amelie.",
+   "cach_goi": "gọi tên Amelie, lịch sự"
+  },
+  {
+   "a": "Philly",
+   "b": "Robert",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu Philly là cấp trên của Robert.",
+   "cach_goi": "gọi tên Robert, trang trọng"
+  },
+  {
+   "a": "Robert",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Robert là một cận vệ của Philly.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 582,
+  "seconds": 18.3
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "number": 381,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Selena thử bộ váy mới theo gợi ý của Frondier, anh nhận ra mình đang bị ba người - Elodie, Sybil và Aten - theo dõi. Anh suy đoán họ lo lắng về hành động có thể xảy ra của anh sau khi hấp thụ mảnh Helheim. Sau đó, Selena mặc một chiếc váy trắng khiến Frondier bất ngờ, và anh phải cân nhắc lại cách cư xử với cô để trấn an những người xung quanh.",
+ "boi_canh": "Trong cửa hàng bách hóa Terst, vào một buổi chiều mua sắm.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil"
+ ],
+ "su_kien": [
+  "Selena thử bộ váy mới.",
+  "Frondier phát hiện Elodie, Sybil và Aten đang theo dõi họ.",
+  "Frondier suy nghĩ về những thay đổi trong khả năng của mình sau khi hấp thụ mảnh Helheim.",
+  "Selena mặc một chiếc váy trắng khiến Frondier ngạc nhiên.",
+  "Frondier quyết định cư xử ôn hòa hơn với Selena để trấn an người khác."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Mối quan hệ chủ - người bảo vệ, Frondier có vẻ thoải mái hơn với Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Selena tỏ ra e dè và tôn trọng Frondier.",
+   "cach_goi": "gọi tên Frondier-nim, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cũ, Frondier quan sát Elodie với sự lo ngại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, Frondier nhận thức được sự nguy hiểm của Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Frondier đánh giá Aten là người dễ bị ảnh hưởng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đi cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đi cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đi cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đi cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đi cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đi cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: biệt danh 'Sloth' (lười biếng)",
+  "Selena: trước đây là người cố gắng quyến rũ Frondier, hiện tại có mối quan hệ phức tạp hơn."
+ ],
+ "stats": {
+  "tokens": 1137,
+  "seconds": 34.1
+ }
+}

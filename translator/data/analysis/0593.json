@@ -1,0 +1,80 @@
+{
+ "number": 593,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Elodie sử dụng ma thuật không gian để bắt giữ một nhóm quỷ. Qua đối thoại với chúng, Frondier phát hiện ra những con quỷ này không đến từ Cõi Quỷ mà bị bỏ rơi từ phương Tây, cụ thể là Agoris, và đang tìm cách trả thù vì sự sụp đổ của Manggot và cái chết của Belphegor.",
+ "boi_canh": "Trong một khu vực bí mật, Frondier và Elodie đang đối mặt với những con quỷ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Osprey",
+  "Jane",
+  "Chandra"
+ ],
+ "su_kien": [
+  "Elodie sử dụng ma thuật không gian để giam giữ quỷ.",
+  "Frondier triệu hồi Chandra để hỗ trợ.",
+  "Một con quỷ bị dịch chuyển đến phía đối diện của quả cầu ma thuật.",
+  "Quỷ tiết lộ họ không đến từ Cõi Quỷ mà là người bị bỏ rơi từ Agoris.",
+  "Frondier nhận ra những con quỷ này đang tìm cách trả thù."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Frondier hỏi về ma thuật của Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Elodie trả lời câu hỏi của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, nhưng không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, nhưng không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Chandra",
+   "loai": "nguoi_la",
+   "mo_ta": "Triệu hồi, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "quỷ",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu, Frondier chất vấn quỷ.",
+   "cach_goi": "gọi 'thằng"
+  },
+  {
+   "a": "quỷ",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu, quỷ đáp trả Frondier.",
+   "cach_goi": "gọi 'Human', thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Belphegor: Một thế lực mạnh mẽ từng đe dọa Đế quốc, đã bị đánh bại và quay trở lại Cõi Quỷ.",
+  "Agoris: Nơi mà những con quỷ này đến từ đó."
+ ],
+ "stats": {
+  "tokens": 871,
+  "seconds": 26.2
+ }
+}

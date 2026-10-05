@@ -1,0 +1,65 @@
+{
+ "number": 246,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier xác nhận sự việc là do Indus gây ra chứ không phải Kora. Sau khi biết sự thật, Frondier hứa sẽ khống chế Kora mà không giết cô ta, điều Quinie mong muốn. Khi Frondier tiếp cận Kora, cô ta gầm gừ cảnh giác. Frondier biến đổi sau khi nuốt một vật thể phát sáng và tạo ra một thanh kiếm có vẻ ngoài đáng kinh ngạc, khiến Quinie liên tưởng đến một truyền thuyết.",
+ "boi_canh": "Một nơi không xác định, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Kora",
+  "Armel",
+  "Indus (đề cập)"
+ ],
+ "su_kien": [
+  "Frondier xác nhận rằng Indus là người gây ra sự cố, không phải Kora.",
+  "Frondier hứa sẽ khống chế Kora thay vì giết cô ta.",
+  "Kora gầm gừ khi Frondier tiếp cận.",
+  "Frondier nuốt một vật thể phát sáng và biến đổi.",
+  "Một thanh kiếm mới xuất hiện trong tay Frondier, khiến Quinie liên tưởng đến truyền thuyết."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Kora",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Kora cảnh giác với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Quinie quan sát và ngạc nhiên trước Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Armel",
+   "b": "Kora",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha con, Armel quan sát Kora.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Indus",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Indus là người gây ra sự cố.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Quinie quan sát và ngạc nhiên trước Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Indus (đề cập): Người gây ra sự cố, không rõ danh tính hoặc động cơ."
+ ],
+ "stats": {
+  "tokens": 702,
+  "seconds": 22.1
+ }
+}

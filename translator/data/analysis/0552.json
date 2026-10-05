@@ -1,0 +1,88 @@
+{
+ "number": 552,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, quân Roach Knights tấn công căn cứ của Manggot với sự tức giận tột độ. Frondier gửi một con ngựa đến đón Selena và Mei sau cuộc tấn công. Sau đó, Mei tiết lộ thân phận thật của mình cho Selena, người đã nghi ngờ cô đang cải trang. Cuối cùng, Selena nhận ra những lời nói trước đây của Frondier về việc cô không còn là tùy tùng của anh nữa.",
+ "boi_canh": "Trên chiến trường, giữa các thành viên của quân Roach Knights và Manggot.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Sylvain",
+  "Mei",
+  "Cassian",
+  "Adela"
+ ],
+ "su_kien": [
+  "Quân Roach Knights tấn công căn cứ của Manggot.",
+  "Mei và Selena thực hiện một cuộc tấn công bất ngờ.",
+  "Một con ngựa không người lái đến đón Selena và Mei.",
+  "Mei biến đổi thành hình dạng thật của mình.",
+  "Selena nhận ra sự giống nhau giữa Mei và Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Sylvain",
+   "b": "Quân Roach Knights",
+   "loai": "cap_tren",
+   "mo_ta": "Chỉ huy quân Roach Knights, ra lệnh tấn công.",
+   "cach_goi": "gọi 'các chiến binh', trịch thượng"
+  },
+  {
+   "a": "Quân Roach Knights",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Tuân lệnh chỉ huy Sylvain.",
+   "cach_goi": "gọi 'Ngài', lễ phép"
+  },
+  {
+   "a": "Mei",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu và Selena nghi ngờ Mei cải trang.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu và Selena nghi ngờ Mei cải trang.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Cassian",
+   "loai": "khac",
+   "mo_ta": "Ngựa của Selena, không giao tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cassian",
+   "b": "Selena",
+   "loai": "khac",
+   "mo_ta": "Ngựa của Selena, không giao tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu và Selena nghi ngờ Mei cải trang.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu và Selena nghi ngờ Mei cải trang.",
+   "cach_goi": "gọi tên, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Mei: Ban đầu cải trang thành Adela, một người chăn cừu của Manggot."
+ ],
+ "stats": {
+  "tokens": 901,
+  "seconds": 28.2
+ }
+}

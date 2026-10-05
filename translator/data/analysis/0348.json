@@ -1,0 +1,62 @@
+{
+ "number": 348,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Selena tìm đến Cassian tại chuồng ngựa Constel để nhờ giúp đỡ, nhưng Cassian tỏ ra nghi ngờ do mùi máu trên người cô. Cô cố gắng thuyết phục Cassian và lên lưng nó, che phủ bằng chiếc khăn đặc biệt mà Frondier giao cho. Đồng thời, Frondier đang theo dõi tình hình quân sự với Gregory và lo lắng về việc Selena có thể đến nơi kịp thời để mang Malia đến giúp đỡ. Tình hình trở nên cấp bách khi Frondier nhận ra cuộc tấn công của quái vật sẽ diễn ra nhanh hơn dự kiến.",
+ "boi_canh": "Chuồng ngựa Constel, vào một ngày không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Enfer",
+  "Malia",
+  "Sylvain",
+  "Gregory",
+  "Cassian",
+  "Penelope",
+  "Malia de Roach"
+ ],
+ "su_kien": [
+  "Selena tìm đến Cassian tại chuồng ngựa Constel.",
+  "Cassian tỏ ra nghi ngờ Selena vì mùi máu trên người cô.",
+  "Selena thuyết phục được Cassian và lên lưng nó, che phủ bằng chiếc khăn đặc biệt.",
+  "Frondier và Gregory theo dõi tình hình quân sự và lo lắng về thời gian đến của Selena.",
+  "Frondier nhận ra cuộc tấn công của quái vật sẽ diễn ra nhanh hơn dự kiến."
+ ],
+ "quan_he": [
+  {
+   "a": "Selena",
+   "b": "Cassian",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena cố gắng thuyết phục Cassian giúp đỡ.",
+   "cach_goi": "gọi tên Cassian, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cassian",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Cassian nghi ngờ Selena và không dễ dàng đồng ý.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier và Gregory cùng theo dõi tình hình quân sự.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Gregory báo cáo tình hình cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Malia de Roach (tên cũ của Malia)"
+ ],
+ "stats": {
+  "tokens": 670,
+  "seconds": 20.1
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "number": 262,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tiễn học sinh bằng xe buýt, Frondier và Kora chuẩn bị lên đường thực hiện một nhiệm vụ bí mật. Isamaya đưa họ đi bằng ô tô đến đường ray cáp treo trên không để đảm bảo an toàn cho học sinh. Trong suốt chuyến đi, Frondier giải thích về mối quan hệ phức tạp giữa Indus và Manggot, nhấn mạnh rằng cả hai đều có mục tiêu khác nhau nhưng đều đe dọa sự tồn tại của Đế chế.",
+ "boi_canh": "Trong một sân chơi, sau khi đưa học sinh đi thực tế ngoại khóa.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Kraken",
+  "Kora",
+  "Isamaya"
+ ],
+ "su_kien": [
+  "Tiễn học sinh bằng xe buýt.",
+  "Frondier và Kora lên xe ô tô cùng Isamaya.",
+  "Frondier giải thích về nhiệm vụ 'Operation Suppress Indus'.",
+  "Thảo luận về mối quan hệ giữa Indus và Manggot.",
+  "Hướng tới đường ray cáp treo trên không."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Kora",
+   "loai": "gia_dinh",
+   "mo_ta": "Người bảo hộ và người được bảo vệ, Frondier trấn an Kora.",
+   "cach_goi": "gọi tên Kora, thân mật"
+  },
+  {
+   "a": "Kora",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Người được bảo vệ, lắng nghe Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Isamaya",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò và giáo viên, Frondier chia sẻ thông tin bí mật với Isamaya.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Isamaya",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học trò, Isamaya đặt câu hỏi và lắng nghe Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "doi_thu",
+   "mo_ta": "Có sự thù hận giữa hai người, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kraken",
+   "loai": "doi_thu",
+   "mo_ta": "Có sự thù hận giữa hai người, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Nhiệm vụ 'Operation Suppress Indus' được tiết lộ.",
+  "Manggot được nhắc đến lần đầu tiên với Frondier và Isamaya."
+ ],
+ "stats": {
+  "tokens": 793,
+  "seconds": 24.3
+ }
+}

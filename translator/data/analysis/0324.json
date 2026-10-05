@@ -1,0 +1,143 @@
+{
+ "number": 324,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier suy ngẫm về những vị thần và sự xung đột của họ sau khi nghe Edwin nói. Anh cũng nhận ra rằng các vị thần có phần 'nhân bản' hơn anh nghĩ. Sau đó, anh nhận được tin nhắn từ Elodie với nội dung cảnh báo và động viên, khiến anh lo lắng về hành động của cô ấy. Cuối cùng, Frondier chuẩn bị lên đường đến Yeranhes để lấy Obsidian, không biết rằng những người xung quanh đang thúc đẩy bản thân để vượt qua anh.",
+ "boi_canh": "Trong phòng làm việc của Edwin, vào một buổi chiều yên tĩnh.",
+ "nhan_vat": [
+  "Frondier",
+  "Edwin",
+  "Thanatos",
+  "Hephaestus",
+  "Renzo",
+  "Ares",
+  "Hestia",
+  "Binkis",
+  "Enfer",
+  "Aster",
+  "Elodie",
+  "Lunia",
+  "Aten",
+  "Sybil",
+  "Robald"
+ ],
+ "su_kien": [
+  "Edwin nhận xét về một phát ngôn gây tranh cãi.",
+  "Frondier suy ngẫm về động cơ của các vị thần và sự xung đột giữa họ.",
+  "Edwin cảnh báo Frondier về nguy hiểm từ đền thờ và những người tin tưởng vào các vị thần.",
+  "Binkis bắt đầu thiết kế một tạo tác cho Frondier.",
+  "Frondier nhận được tin nhắn bí ẩn từ Elodie, thể hiện sự lo lắng của cô ấy."
+ ],
+ "quan_he": [
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Edwin là người thầy của Frondier, đưa ra lời khuyên và cảnh báo.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là học trò của Edwin, lắng nghe và suy ngẫm lời khuyên của thầy.",
+   "cach_goi": "gọi tên Edwin, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thanatos",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ cũ của Frondier, đã từng cố gắng ám sát anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hephaestus",
+   "loai": "khac",
+   "mo_ta": "Một vị thần mà Frondier đã tương tác, nhưng không có mối quan hệ rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "khac",
+   "mo_ta": "Một vị thần mà Frondier đã tương tác, nhưng không có mối quan hệ rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ares",
+   "loai": "khac",
+   "mo_ta": "Một vị thần mà Frondier đã tương tác, nhưng không có mối quan hệ rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hestia",
+   "loai": "khac",
+   "mo_ta": "Một vị thần đã giúp đỡ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp, đang làm việc thiết kế tạo tác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Người có quyền hạn, liên quan đến việc chuẩn bị Obsidian.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng lớp, cạnh tranh với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân, có vẻ đang lo lắng cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Aster, có lẽ cũng quan tâm đến sự phát triển của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Aster, có lẽ cũng quan tâm đến sự phát triển của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, không đi cùng Frondier đến Yeranhes.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robald",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Aster, có lẽ cũng quan tâm đến sự phát triển của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1521,
+  "seconds": 46.9
+ }
+}

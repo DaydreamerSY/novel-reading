@@ -1,0 +1,132 @@
+{
+ "number": 450,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi thử nghiệm khả năng chiến đấu của một quái vật có khả năng học hỏi, Pascal quyết định rút lui. Các thành viên Zodiac và Frondier được thông báo về tình hình này. Lily nhận xét rằng việc quái vật bị bắt giữ là điều bất ngờ đối với kẻ thù, cho thấy chúng có thể đang gặp khó khăn hoặc quái vật có một điểm yếu nào đó.",
+ "boi_canh": "Trong phòng ngủ của Hoàng đế, sau khi thử nghiệm với quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Lily",
+  "Pascal",
+  "Ludwig",
+  "Monty",
+  "Ludovic",
+  "Ria Lis",
+  "Daisy",
+  "Alberto Montes",
+  "Lis"
+ ],
+ "su_kien": [
+  "Pascal và Monty quan sát khả năng chiến đấu của quái vật có khả năng học hỏi.",
+  "Pascal ra lệnh rút lui do lo ngại về việc cung cấp thêm thông tin cho quái vật.",
+  "Daisy và Monty báo cáo tình hình cho các Zodiac và Frondier.",
+  "Lily nhận xét rằng việc quái vật bị bắt giữ là điều bất ngờ đối với kẻ thù.",
+  "Frondier nhận ra một điểm quan trọng về cách thức kẻ thù sử dụng quái vật."
+ ],
+ "quan_he": [
+  {
+   "a": "Pascal",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Pascal ra lệnh cho Monty, Monty tuân theo.",
+   "cach_goi": "gọi tên Monty, thân mật"
+  },
+  {
+   "a": "Monty",
+   "b": "Pascal",
+   "loai": "cap_tren",
+   "mo_ta": "Monty tuân theo lệnh của Pascal.",
+   "cach_goi": "gọi tên Pascal, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Daisy",
+   "b": "Pascal",
+   "loai": "dong_minh",
+   "mo_ta": "Daisy hỏi Pascal về kế hoạch của ông.",
+   "cach_goi": "gọi tên Pascal, lễ phép"
+  },
+  {
+   "a": "Pascal",
+   "b": "Daisy",
+   "loai": "dong_minh",
+   "mo_ta": "Pascal trả lời câu hỏi của Daisy.",
+   "cach_goi": "gọi tên Daisy, lễ phép"
+  },
+  {
+   "a": "Monty",
+   "b": "Pascal",
+   "loai": "cap_tren",
+   "mo_ta": "Monty nghi ngờ về những gì Pascal nói.",
+   "cach_goi": "gọi tên Pascal, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Daisy",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Daisy và Monty cùng nhau báo cáo tình hình.",
+   "cach_goi": "gọi tên Monty, thân mật"
+  },
+  {
+   "a": "Monty",
+   "b": "Daisy",
+   "loai": "ban_be",
+   "mo_ta": "Daisy và Monty cùng nhau báo cáo tình hình.",
+   "cach_goi": "gọi tên Daisy, thân mật"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Ludovic hỏi Frondier một câu hỏi.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludovic",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier trả lời câu hỏi của Ludovic.",
+   "cach_goi": "gọi tên Ludovic, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ria Lis",
+   "b": "Lily",
+   "loai": "gia_dinh",
+   "mo_ta": "Ria Lis và Lily là người quen thuộc.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Lily tỏ ra ngưỡng mộ khả năng của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier cảm thấy hơi khó chịu trước sự ngưỡng mộ của Lily.",
+   "cach_goi": "gọi tên Lily, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Lily cố gắng khiến Frondier lên tiếng.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Ludwig hỏi ý kiến của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1345,
+  "seconds": 40.1
+ }
+}

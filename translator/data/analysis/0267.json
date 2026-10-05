@@ -1,0 +1,82 @@
+{
+ "number": 267,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier chứng kiến Pascal đối mặt với Skyler, một thành viên cấp cao của Indus, trong một cuộc đụng độ đầy kịch tính. Skyler cố gắng dụ Kora gia nhập Indus bằng cách sử dụng những thủ đoạn bẩn thỉu, nhưng Pascal đã bảo vệ cô và thể hiện sức mạnh đáng kinh ngạc bằng cách tạo ra khiên phòng thủ từ năng lượng bản thân và kiếm thép từ hư không. Frondier quan sát trận chiến từ xa và lo lắng về sự vắng mặt của Cain, một thành viên nguy hiểm của Indus.",
+ "boi_canh": "Một khu vực không xác định, có lẽ là một chiến trường, nơi diễn ra cuộc đối đầu giữa Constel và Indus.",
+ "nhan_vat": [
+  "Pascal",
+  "Skyler",
+  "Kora",
+  "Frondier",
+  "Aster",
+  "Osprey",
+  "Thomson",
+  "Kraken",
+  "Cain",
+  "Isamaya"
+ ],
+ "su_kien": [
+  "Skyler đề nghị Kora gia nhập Indus.",
+  "Pascal bảo vệ Kora và sử dụng năng lượng bản thân tạo thành khiên phòng thủ.",
+  "Pascal tạo kiếm thép từ hư không.",
+  "Pascal và Skyler giao chiến bằng kiếm, năng lượng va chạm.",
+  "Frondier quan sát trận chiến và lo lắng về sự vắng mặt của Cain."
+ ],
+ "quan_he": [
+  {
+   "a": "Pascal",
+   "b": "Skyler",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, có sự tôn trọng lẫn nhau về sức mạnh.",
+   "cach_goi": "gọi 'đối thủ', lạnh lùng"
+  },
+  {
+   "a": "Skyler",
+   "b": "Pascal",
+   "loai": "cap_tren",
+   "mo_ta": "Cố gắng dụ dỗ và khiêu khích Pascal.",
+   "cach_goi": "gọi 'giáo viên', trịch thượng"
+  },
+  {
+   "a": "Pascal",
+   "b": "Kora",
+   "loai": "nguoi_la",
+   "mo_ta": "Pascal cố gắng tiếp cận Kora, có vẻ như có sự quan tâm.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Kora",
+   "b": "Pascal",
+   "loai": "nguoi_la",
+   "mo_ta": "Kora tỏ ra sốc và nghi ngờ khi Pascal đề nghị cô gia nhập Indus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Skyler",
+   "b": "Kora",
+   "loai": "doi_thu",
+   "mo_ta": "Cố gắng bắt cóc Kora.",
+   "cach_goi": "gọi 'nhóc', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "thay_tro",
+   "mo_ta": "Quan sát và đánh giá Pascal từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Skyler",
+   "loai": "doi_thu",
+   "mo_ta": "Nhận ra Skyler là một thành viên cấp cao của Indus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 872,
+  "seconds": 26.9
+ }
+}

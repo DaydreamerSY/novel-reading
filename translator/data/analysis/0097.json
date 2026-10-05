@@ -1,0 +1,82 @@
+{
+ "number": 97,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cuộc đối đầu giữa Philly và Renzo sau khi hắn bị bắt vì âm mưu bắt cóc Aten. Frondier tiết lộ rằng Aten đã bình phục hoàn toàn và quay trở lại Constel, nơi anh gặp lại Aster, Sybil và Elodie. Cuối cùng, Aten tiếp tục đi theo Frondier, dù cô ấy không giải thích được lý do tại sao.",
+ "boi_canh": "Trong phòng thẩm vấn của cung điện hoàng gia, vào lúc đêm.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Philly",
+  "Aten",
+  "Sybil",
+  "Renzo",
+  "Terst"
+ ],
+ "su_kien": [
+  "Renzo bị bắt vì âm mưu bắt cóc Aten.",
+  "Philly thẩm vấn Renzo một cách đe dọa.",
+  "Aten hoàn toàn bình phục và quay trở lại Constel.",
+  "Frondier giải thích với Aster, Sybil và Elodie về việc Aten đi theo anh.",
+  "Aten bày tỏ sự bối rối khi tiếp tục đi theo Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Renzo",
+   "loai": "ke_thu",
+   "mo_ta": "Hoàng hậu Philly đe dọa Renzo vì tội bắt cóc Aten.",
+   "cach_goi": "gọi tên Renzo, lạnh lùng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Philly",
+   "loai": "ke_thu",
+   "mo_ta": "Renzo chế nhạo Philly trong khi bị giam giữ.",
+   "cach_goi": "gọi tên Philly, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là người được Aten tin tưởng và bảo vệ.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Aten đi theo Frondier một cách bí ẩn.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và có vẻ như mối quan hệ của họ đang được cải thiện.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và Sybil lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và Elodie lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst: Tam công chúa của đế quốc, con gái của Philly."
+ ],
+ "stats": {
+  "tokens": 863,
+  "seconds": 27.0
+ }
+}

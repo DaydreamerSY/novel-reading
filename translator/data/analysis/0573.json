@@ -1,0 +1,56 @@
+{
+ "number": 573,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chiến tranh kết thúc một tuần, Frondier trăn trở về tương lai của Selena và liệu họ có nên tiếp tục mối quan hệ hay không. Anh ta tìm đến nơi họ thường gặp gỡ, nhưng Selena đã ở đó chờ đợi anh. Cô ấy đã tái kết nối bóng tối của mình với anh, khiến anh bối rối vì những kế hoạch trước đây của anh. Cuối cùng, Frondier thông báo cho cô về một nhiệm vụ nguy hiểm mà anh phải thực hiện và khẳng định rằng cô sẽ đi theo anh.",
+ "boi_canh": "Bên ngoài trang viên, sau khi chiến tranh kết thúc một tuần.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Osprey"
+ ],
+ "su_kien": [
+  "Một tuần đã trôi qua kể từ khi chiến tranh kết thúc.",
+  "Frondier suy nghĩ về tương lai của Selena và mối quan hệ của họ.",
+  "Selena tái kết nối bóng tối của mình với Frondier.",
+  "Frondier thông báo cho Selena về một nhiệm vụ nguy hiểm mà anh phải thực hiện.",
+  "Selena tuyên bố sẽ đi theo Frondier đến 'địa ngục'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Trưởng thành và bối rối về mối quan hệ của họ.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Trung thành và quyết tâm bảo vệ Frondier.",
+   "cach_goi": "gọi 'Frondier-nim', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Trưởng thành và bối rối về mối quan hệ của họ.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Trung thành và quyết tâm bảo vệ Frondier.",
+   "cach_goi": "gọi 'Frondier-nim', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Selena đã tái kết nối bóng tối của mình với Frondier."
+ ],
+ "stats": {
+  "tokens": 633,
+  "seconds": 19.9
+ }
+}

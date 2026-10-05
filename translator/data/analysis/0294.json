@@ -1,0 +1,60 @@
+{
+ "number": 294,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu bằng việc Frondier quan sát vũ khí của Renzo, một cây đại kiếm bị vỡ do Mjölnir. Renzo hiện đang cầm một giáo dài hơn cả chiều cao của mình. Sau đó, hai người trao đổi lời nói khi tàu hỏa trên không di chuyển, với những tiết lộ về sức mạnh và kỹ năng của đối phương. Cuối cùng, trận chiến giữa họ bắt đầu sau khi tàu hỏa biến mất khỏi tầm mắt, với Frondier sử dụng các kỹ thuật tấn công độc đáo và Renzo phản ứng bằng vũ khí đặc biệt.",
+ "boi_canh": "Trên một chuyến tàu hỏa trên không đang di chuyển.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Pascal",
+  "Cain",
+  "Thompson",
+  "Ares",
+  "Khryselakatos"
+ ],
+ "su_kien": [
+  "Renzo cầm giáo thay vì đại kiếm bị vỡ.",
+  "Frondier sử dụng Rune lớn để tấn công.",
+  "Renzo nhận xét về aura 'màu sắc' của Frondier.",
+  "Renzo tiết lộ cánh tay giả của mình và nguồn gốc của nó từ Thompson.",
+  "Renzo giải phóng sức mạnh của Ares và quyết tâm giết Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ đang đối đầu",
+   "cach_goi": "gọi tên Renzo, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ đang đối đầu",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "khac",
+   "mo_ta": "người khác, Frondier suy đoán về kỹ năng của Pascal",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Thompson",
+   "loai": "cap_tren",
+   "mo_ta": "Renzo nhận cánh tay giả từ Thompson",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Cánh tay giả của Renzo được làm bởi Thompson."
+ ],
+ "stats": {
+  "tokens": 539,
+  "seconds": 16.7
+ }
+}

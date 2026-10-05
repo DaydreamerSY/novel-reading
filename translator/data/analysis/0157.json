@@ -1,0 +1,55 @@
+{
+ "number": 157,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe Aster nói về việc Frondier né tránh mình, Elodie suy đoán anh đang trốn tránh cô và quyết định đối mặt với anh. Cô đã chiến đấu chống lại lũ quái vật theo yêu cầu của Frondier để hiểu rõ hơn về anh, nhưng càng hiểu thì càng bối rối. Cuối cùng, cô nhận ra rằng mình hoàn toàn không biết gì về Frondier và bày tỏ sự lo lắng cũng như tức giận khi anh quyết định đến Tyburn.",
+ "boi_canh": "Trên nóc một tòa nhà ở Constel, sau trận chiến với lũ quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Agni"
+ ],
+ "su_kien": [
+  "Aster nói Frondier né tránh Elodie.",
+  "Elodie chiến đấu chống lại lũ quái vật theo yêu cầu của Frondier.",
+  "Elodie nhận ra mình không biết gì về Frondier.",
+  "Elodie đối diện với Frondier trên nóc tòa nhà.",
+  "Elodie tức giận và tấn công Frondier bằng lửa."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng lớp, Aster quan sát và bình luận về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng lớp, Frondier trả lời Aster một cách bình thản.",
+   "cach_goi": "gọi tên Aster, không rõ cảm xúc"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Bạn thời thơ ấu, Elodie bày tỏ sự lo lắng và tức giận về quyết định của Frondier.",
+   "cach_goi": "gọi tên Frondier, lo lắng và tức giận"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Bạn thời thơ ấu, Frondier trả lời sự tức giận của Elodie một cách điềm tĩnh.",
+   "cach_goi": "gọi tên Elodie, bình thản"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 638,
+  "seconds": 20.2
+ }
+}

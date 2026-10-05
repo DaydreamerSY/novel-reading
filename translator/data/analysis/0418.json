@@ -1,0 +1,57 @@
+{
+ "number": 418,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier tấn công một nhóm Pro bằng những vũ khí bất ngờ và mạnh mẽ, bao gồm cả những chiếc gai đen biến đổi từ chất lỏng. Sau khi đánh bại một Pro, Frondier sử dụng phép thuật để tạo ra nhiều bản sao của thanh kiếm mà Pro đang cầm, cùng với việc triển khai các golem được tinh chỉnh bởi Binkis dựa trên kỹ năng chiến đấu của Azier. Cuối chương, Frondier tấn công Pro bị thương và chuẩn bị cho trận chiến tiếp theo.",
+ "boi_canh": "Trong một tòa nhà, khi Frondier đối đầu với một nhóm Pro.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Binkis",
+  "Pros"
+ ],
+ "su_kien": [
+  "Frondier giết chết một Pro bằng thanh kiếm đen bất ngờ xuất hiện.",
+  "Thanh gai đen tấn công các Pro khác.",
+  "Frondier tạo ra nhiều bản sao của thanh kiếm mà Pro đang cầm thông qua phép thuật 'Void weaving, simultaneous replication'.",
+  "Triển khai golem được tinh chỉnh bởi Binkis dựa trên kỹ năng chiến đấu của Azier.",
+  "Frondier tấn công một Pro bị thương."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pros",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier tấn công và chế nhạo Pros.",
+   "cach_goi": "gọi 'you fool', thô lỗ"
+  },
+  {
+   "a": "Pros",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Tấn công Frondier, tỏ ra khinh thường.",
+   "cach_goi": "gọi 'mere student', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Golems được mô phỏng theo kỹ năng của Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "thay_tro",
+   "mo_ta": "Golems được tinh chỉnh bởi Binkis.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Các golem được mô phỏng theo kỹ năng chiến đấu của Azier, được tinh chỉnh bởi Binkis."
+ ],
+ "stats": {
+  "tokens": 645,
+  "seconds": 19.3
+ }
+}

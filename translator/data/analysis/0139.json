@@ -1,0 +1,64 @@
+{
+ "number": 139,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một mảnh vải bị nguyền rủa được đem bán đấu giá với giá khởi điểm thấp. Sau đó, Frondier bất ngờ đặt mua nó khiến mọi người ngạc nhiên. Cuối cùng, Elodie được Revet trao quyền tham gia đấu giá cho miếng thép Viper Steel quý hiếm và bắt đầu cuộc chiến giá cả.",
+ "boi_canh": "Một buổi đấu giá xa hoa, nơi các quý tộc tụ tập để tranh giành những món đồ cổ vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Revet",
+  "Auctioneer (người điều hành) - không nói chuyện trực tiếp"
+ ],
+ "su_kien": [
+  "Mảnh vải bị nguyền rủa tự phục hồi hình dạng ban đầu.",
+  "Frondier đặt mua mảnh vải bị nguyền rủa với giá 100,000 Quir.",
+  "Elodie được Revet trao quyền tham gia đấu giá miếng thép Viper Steel.",
+  "Giá khởi điểm của thép Viper Steel là 5 triệu Quir.",
+  "Các quý tộc bắt đầu cuộc chiến giá cả để giành lấy thép Viper Steel."
+ ],
+ "quan_he": [
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ nhỏ, Elodie tỏ ra ngạc nhiên và tò mò về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Revet",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Elodie, Revet trao quyền đấu giá cho cô và đưa ra lời khuyên.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Revet",
+   "loai": "gia_dinh",
+   "mo_ta": "Em gái của Revet, Elodie tuân theo lời khuyên của anh trai.",
+   "cach_goi": "gọi tên Revet, thân mật"
+  },
+  {
+   "a": "Revet",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Revet quan sát Frondier với vẻ nghi hoặc và không chắc chắn về mục đích của cậu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Elodie quan sát Frondier với sự tò mò và có thể hiểu được những gì cậu đang nghĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính khác của nhân vật trong chương này."
+ ],
+ "stats": {
+  "tokens": 731,
+  "seconds": 22.6
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "number": 392,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Đội của Frondier đối mặt với thử thách thứ năm trong kỳ kiểm tra kỹ năng, nơi họ phải chạm vào Elodie de Inies Rishae để vượt qua. Họ thất bại hoàn toàn, nhưng Dier nhận được lời khuyên từ Elodie về cách cải thiện và hiểu rõ hơn về bản thân. Cuối cùng, Elodie tiết lộ rằng Dier có những nét tương đồng với Frondier, khiến anh bất ngờ.",
+ "boi_canh": "Trong phòng thi kỹ năng, tại vòng thứ năm.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie de Inies Rishae",
+  "Aster",
+  "Pielott von Ribanche",
+  "Dier"
+ ],
+ "su_kien": [
+  "Đội của Frondier bước vào vòng thứ năm của kỳ kiểm tra kỹ năng.",
+  "Họ thất bại trong việc chạm vào Elodie, bị đánh bại hoàn toàn.",
+  "Elodie đưa ra lời khuyên cho từng thành viên trong đội về cách cải thiện kỹ năng.",
+  "Dier nhận xét về sự khác biệt giữa bản thân và Frondier.",
+  "Elodie tiết lộ Dier có những nét tương đồng với Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là đồng đội, Dier nhận thấy sự khác biệt giữa mình và Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Elodie de Inies Rishae",
+   "loai": "cap_tren",
+   "mo_ta": "Dier là học viên, Elodie là người hướng dẫn và đánh giá.",
+   "cach_goi": "gọi 'Senior', lễ phép"
+  },
+  {
+   "a": "Elodie de Inies Rishae",
+   "b": "Dier",
+   "loai": "thay_tro",
+   "mo_ta": "Elodie là người có kinh nghiệm hơn, đưa ra lời khuyên cho Dier.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Pielott von Ribanche",
+   "b": "Elodie de Inies Rishae",
+   "loai": "cap_tren",
+   "mo_ta": "Pielott là học viên, Elodie là người hướng dẫn và đánh giá.",
+   "cach_goi": "gọi 'Senior', lễ phép"
+  },
+  {
+   "a": "Elodie de Inies Rishae",
+   "b": "Pielott von Ribanche",
+   "loai": "cap_tren",
+   "mo_ta": "Elodie đưa ra lời khuyên cho Pielott.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi thức tỉnh thần tính)"
+ ],
+ "stats": {
+  "tokens": 742,
+  "seconds": 22.2
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "number": 530,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, cuộc thảo luận về thiết bị an ninh cho học sinh Constel diễn ra giữa Edwin và Ellen, xoay quanh lo ngại về các cuộc tấn công bất ngờ của Manggot. Aster đưa ra phân tích về khả năng sử dụng dịch chuyển bóng tối của kẻ thù, làm giảm bớt sự lo lắng của mọi người. Cuộc trò chuyện sau đó chuyển sang những nghi ngờ của Edwin về Hephaestus và ảnh hưởng của hắn lên Edwin, khiến Aster bộc lộ nỗi sợ hãi sâu kín. Frondier quan sát Aster và nhận ra một điều quan trọng liên quan đến việc bố trí rào chắn.",
+ "boi_canh": "Phòng học, vài ngày trước.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Ellen",
+  "Edwin",
+  "Aster Evans",
+  "Ellen Evans"
+ ],
+ "su_kien": [
+  "Cuộc thảo luận về thiết bị an ninh cho học sinh Constel giữa Edwin và Ellen.",
+  "Aster phân tích khả năng sử dụng dịch chuyển bóng tối của Manggot.",
+  "Edwin bày tỏ sự nghi ngờ về Hephaestus.",
+  "Aster bộc lộ nỗi sợ hãi về việc bị kiểm soát.",
+  "Aster thể hiện kỹ thuật kiếm mới, đánh dấu một bước tiến trong luyện tập."
+ ],
+ "quan_he": [
+  {
+   "a": "Edwin",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, thảo luận về vấn đề an ninh.",
+   "cach_goi": "gọi tên Ellen, lễ phép"
+  },
+  {
+   "a": "Ellen",
+   "b": "Edwin",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, thảo luận về vấn đề an ninh.",
+   "cach_goi": "gọi tên Edwin, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, thảo luận về chiến thuật và Hephaestus.",
+   "cach_goi": "gọi tên Edwin, thân mật"
+  },
+  {
+   "a": "Edwin",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, thảo luận về chiến thuật và Hephaestus.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Ellen",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, thảo luận về chiến thuật và Hephaestus.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, thảo luận về chiến thuật và Hephaestus.",
+   "cach_goi": "gọi tên Ellen, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Aster từ xa, suy nghĩ về những lời Aster nói.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster.",
+  "Ellen Evans: Tên đầy đủ của Ellen."
+ ],
+ "stats": {
+  "tokens": 865,
+  "seconds": 26.8
+ }
+}

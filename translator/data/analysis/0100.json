@@ -1,0 +1,92 @@
+{
+ "number": 100,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tiếp tục theo dõi Frondier và Aten trong thói quen hàng ngày của họ. Họ được mời đến một cuộc gặp bí mật với Hoàng hậu Philly tại cửa hàng bách hóa Terst, nơi bà tiết lộ rằng Renzo không ngốc nghếch như mọi người nghĩ và đã lên kế hoạch bắt cóc Aten để tránh trở thành kẻ thù của đế quốc. Cuộc trò chuyện xoay quanh việc phân tích động cơ và thời điểm của vụ án, với Philly kết luận rằng Frondier đóng vai trò quan trọng trong việc đánh lạc hướng sự nghi ngờ khỏi Renzo.",
+ "boi_canh": "Trong một căn phòng bí mật tại cửa hàng bách hóa Terst, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Renzo"
+ ],
+ "su_kien": [
+  "Philly mời Frondier và Aten đến cửa hàng bách hóa Terst.",
+  "Họ gặp nhau trong một căn phòng bí mật được thiết kế giống như cung điện hoàng gia.",
+  "Philly tiết lộ rằng Renzo không ngốc nghếch và đã lên kế hoạch bắt cóc Aten.",
+  "Aten nhận ra vai trò của Frondier trong việc đánh lạc hướng sự nghi ngờ.",
+  "Frondier giải thích lý do tại sao anh ta là mục tiêu giả."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu yêu cầu sự giúp đỡ của Frondier.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier trả lời yêu cầu của Hoàng hậu.",
+   "cach_goi": "gọi tên Philly, không trang trọng"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con gái.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con gái.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Hai người thường xuyên đi cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người thường xuyên đi cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Philly",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Philly đang điều tra hành động của Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Renzo đã lợi dụng Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Renzo đã lợi dụng Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Renzo: Tên thật của kẻ bắt cóc là Renzo. Anh ta không ngốc nghếch như mọi người nghĩ."
+ ],
+ "stats": {
+  "tokens": 1005,
+  "seconds": 31.2
+ }
+}

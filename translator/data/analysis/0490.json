@@ -1,0 +1,75 @@
+{
+ "number": 490,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier thức dậy trong giấc mơ của Elodie và nhận ra mình đang trên đường tỉnh lại. Anh ta gặp Rudra, một trong Năm vị Thần, người bày tỏ sự bối rối về hành động xóa bỏ chấn thương của Elodie. Rudra nghi ngờ rằng Frondier đã thay đổi mục tiêu và đặt câu hỏi về lý do anh ta làm như vậy.",
+ "boi_canh": "Trong giấc mơ của Elodie, ngay trước khi Frondier tỉnh lại.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Osprey",
+  "Mei",
+  "Agni",
+  "Chandra",
+  "Rudra"
+ ],
+ "su_kien": [
+  "Frondier nhận ra mình đang trên đường tỉnh lại từ giấc mơ của Elodie.",
+  "Frondier gặp Rudra, một trong Năm vị Thần.",
+  "Rudra bày tỏ sự bối rối về việc Frondier xóa bỏ chấn thương của Elodie.",
+  "Rudra đặt câu hỏi về động cơ của Frondier.",
+  "Rudra khen ngợi trí tuệ và hành động táo bạo của Frondier trong quá khứ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie gọi Frondier bằng biệt danh thân mật.",
+   "cach_goi": "gọi tên 'Fron', thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Elodie là bạn thân của Frondier, nhưng không giao tiếp trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, mối quan hệ không rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, mối quan hệ không rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Rudra",
+   "loai": "cap_tren",
+   "mo_ta": "Một vị Thần, Rudra quan sát và đặt câu hỏi cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Rudra",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Một vị Thần, Rudra quan sát và đặt câu hỏi cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của Frondier)",
+  "Fron (Biệt danh của Frondier)"
+ ],
+ "stats": {
+  "tokens": 809,
+  "seconds": 24.2
+ }
+}

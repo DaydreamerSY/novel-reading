@@ -1,0 +1,79 @@
+{
+ "number": 229,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bị Quinie thẩm vấn về việc biết được điểm yếu của mình và phải trả một món nợ cũ liên quan đến sự kiện sinh viên biểu tình. Sau khi thỏa thuận xong, Frondier bị đưa đến nhà của Quinie để thực hiện một nhiệm vụ bí ẩn có liên quan đến một vụ án giả mạo tranh trước đó, nơi anh ta được giới thiệu là một chuyên gia thẩm định đồ vật.",
+ "boi_canh": "Trong phòng khách dinh thự của gia đình Viet.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Philly",
+  "Dushang",
+  "Người hầu (Viet family)"
+ ],
+ "su_kien": [
+  "Quinie thẩm vấn Frondier về nguồn gốc thông tin điểm yếu của anh.",
+  "Frondier phải trả món nợ cũ với Quinie bằng cách đi đến dinh thự của gia đình Viet.",
+  "Quinie giới thiệu Frondier là một chuyên gia thẩm định đồ vật.",
+  "Dushang, quản gia, có vẻ lo lắng về tốc độ thẩm định của Frondier.",
+  "Frondier bắt đầu thẩm định món trang sức đầu tiên."
+ ],
+ "quan_he": [
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Thẩm vấn và ép buộc, có vẻ như đang lợi dụng Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "doi_thu",
+   "mo_ta": "Cố gắng tìm hiểu thông tin và né tránh sự ép buộc.",
+   "cach_goi": "gọi tên Quinie, thận trọng"
+  },
+  {
+   "a": "Quinie",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dushang",
+   "b": "Quinie",
+   "loai": "gia_dinh",
+   "mo_ta": "Quản gia của gia đình Viet, có vẻ lo lắng cho Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Dushang",
+   "loai": "gia_dinh",
+   "mo_ta": "Quản gia của gia đình Viet, có vẻ lo lắng cho Quinie.",
+   "cach_goi": "gọi tên Dushang, thân mật"
+  },
+  {
+   "a": "Dushang",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dushang",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: được giới thiệu là một chuyên gia thẩm định đồ vật bởi Quinie."
+ ],
+ "stats": {
+  "tokens": 853,
+  "seconds": 25.6
+ }
+}

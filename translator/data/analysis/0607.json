@@ -1,0 +1,57 @@
+{
+ "number": 607,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier confronts Arald Lemer, Chairman of Hitchcock Corporation, suspecting him of cannibalism. After a tense exchange and a demonstration of Frondier's power, Arald admits to having eaten human flesh in the past but claims he has stopped. He then proposes an alliance with Frondier to hunt down other devils within the Empire.",
+ "boi_canh": "Trong phòng làm việc rộng rãi của một công ty lớn, nơi chủ tịch Arald Lemer đang ngồi ăn trưa.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Arald",
+  "Paul"
+ ],
+ "su_kien": [
+  "Frondier đối chất với Arald về khả năng ăn thịt người của ông.",
+  "Frondier tấn công Arald bằng Obsidian, khiến ông bị thương nhẹ.",
+  "Arald thừa nhận đã từng ăn thịt người nhưng khẳng định không còn làm nữa.",
+  "Arald đề nghị hợp tác với Frondier để săn lùng quỷ dữ.",
+  "Arald giải thích lý do tại sao việc ăn thịt người là nguy hiểm."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, nghi ngờ và đối nghịch.",
+   "cach_goi": "gọi 'Chairman', lạnh lùng"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, trả lời vòng vo và có vẻ không quan tâm.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "thay_tro",
+   "mo_ta": "Người mà Frondier đã giam giữ trong xưởng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Paul",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Paul đã kể về Arald cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Arald Lemer: Chủ tịch Hội đồng quản trị của Hitchcock Corporation."
+ ],
+ "stats": {
+  "tokens": 615,
+  "seconds": 19.0
+ }
+}

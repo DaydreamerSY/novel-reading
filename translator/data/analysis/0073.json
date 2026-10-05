@@ -1,0 +1,82 @@
+{
+ "number": 73,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này giới thiệu Aten Terst, công chúa thứ ba của Đế quốc, gia nhập lớp học của Frondier. Mẹ của Aten, Hoàng hậu Philly, đã sắp xếp việc này và yêu cầu Aten tìm hiểu về 'Dragon Heart' mà Frondier biết. Aten có kế hoạch tiếp cận Frondier nhưng lại băn khoăn không biết phải bắt đầu như thế nào, trong khi Frondier nhận ra sự chú ý của Aten và cảm thấy khó hiểu.",
+ "boi_canh": "Trong lớp học mới ở Constel, vào thời điểm Aten Terst gia nhập.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly",
+  "Aten",
+  "Jane",
+  "Frondier de Roach",
+  "Mother"
+ ],
+ "su_kien": [
+  "Aten Terst gia nhập lớp học của Frondier.",
+  "Hoàng hậu Philly yêu cầu Aten tìm hiểu về 'Dragon Heart' từ Frondier.",
+  "Aten cố gắng tiếp cận Frondier theo lời mẹ dặn.",
+  "Frondier nhận thấy Aten đang quan sát anh.",
+  "Aten băn khoăn không biết phải bắt đầu làm quen với Frondier như thế nào."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Hai người từng chơi game cùng nhau, Aten là đồng minh quan trọng của Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Giáo viên lớp học, cố gắng tạo không khí thoải mái cho học sinh.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh, có vẻ hơi châm biếm cách Jane hành động.",
+   "cach_goi": "gọi 'Teacher', thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Mới gặp mặt, Aten có vẻ quan tâm đặc biệt đến Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ tone"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Cảm thấy Aten đang quan sát mình, nhưng không rõ lý do.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Aten, có vẻ đang âm mưu điều gì đó.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Công chúa, nghi ngờ về động cơ của mẹ mình.",
+   "cach_goi": "gọi 'Mother', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)",
+  "Human Sloth Frondier (biệt danh của Frondier)"
+ ],
+ "stats": {
+  "tokens": 899,
+  "seconds": 26.9
+ }
+}

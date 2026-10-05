@@ -1,0 +1,90 @@
+{
+ "number": 94,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghi ngờ có gián điệp trong số các giáo viên, Frondier và Malia quyết định không báo cáo sự việc để tránh gây nguy hiểm lớn hơn. Nữ hoàng Philly Terst bất ngờ xuất hiện tại cuộc họp của các giáo viên, tạo ra một bầu không khí căng thẳng khi bà đề nghị gặp Renzo và bày tỏ mối quan tâm về động cơ bắt cóc con gái mình. Frondier đang lo lắng về kết quả bài kiểm tra thực hành và thứ hạng của mình.",
+ "boi_canh": "Trong phòng họp tại Constel, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly Terst",
+  "Aten",
+  "Renzo",
+  "Malia",
+  "Alex",
+  "Aster Evans",
+  "Huy"
+ ],
+ "su_kien": [
+  "Frondier nghi ngờ có gián điệp trong số các giáo viên.",
+  "Philly Terst bất ngờ xuất hiện tại cuộc họp của các giáo viên.",
+  "Philly đề nghị gặp Renzo.",
+  "Alex bày tỏ lo ngại về sự an toàn của Philly.",
+  "Aster Evans được nhắc đến vì đã tiêu diệt trùm và nhiều quái vật khác."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ con, Frondier lo lắng về suy nghĩ của mẹ.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ con, Malia quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Alex",
+   "loai": "nguoi_la",
+   "mo_ta": "Philly xuất hiện bất ngờ, Alex tỏ ra khó chịu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Alex",
+   "b": "Philly Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Alex bày tỏ sự ngạc nhiên và lo lắng khi thấy Philly.",
+   "cach_goi": "gọi tên Philly Terst, lễ phép"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Malia",
+   "loai": "dong_minh",
+   "mo_ta": "Nữ hoàng và người mẹ có vẻ quen biết nhau.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Philly Terst",
+   "loai": "dong_minh",
+   "mo_ta": "Malia tỏ ra bối rối khi gặp lại Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aten chăm sóc và quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier đang hồi phục sức khỏe bên cạnh Aten.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (đầy đủ tên của Aster)"
+ ],
+ "stats": {
+  "tokens": 954,
+  "seconds": 28.6
+ }
+}

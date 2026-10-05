@@ -1,0 +1,85 @@
+{
+ "number": 440,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier chất vấn Hoàng hậu Philly về việc bà ta biết đến sự liên quan của Đơn vị Bóng tối với một bí mật nào đó. Cuộc trò chuyện xoay quanh việc sử dụng Trái Tim Rồng và những khó khăn trong việc ngăn chặn mana của nó thoát ra ngoài. Philly tiết lộ rằng đã phát hiện dấu hiệu xâm nhập vào nơi cất giữ Trái Tim Rồng, cho thấy Đơn vị Bóng tối đang lên kế hoạch sử dụng nó để tạo ra các tiêm kích mana. Frondier cân nhắc việc nhờ đến sự giúp đỡ của Lunia Fricell để giải quyết vấn đề này.",
+ "boi_canh": "Bên trong cung điện hoàng gia, một cuộc họp bí mật diễn ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Philly Terst",
+  "Aten Terst",
+  "Renzo",
+  "Lunia",
+  "Robert",
+  "Lunia Fricell",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Frondier chất vấn Philly về việc bà ta biết đến Đơn vị Bóng tối.",
+  "Philly tiết lộ sự khó khăn trong việc sử dụng Trái Tim Rồng và ngăn chặn mana của nó.",
+  "Philly phát hiện dấu hiệu xâm nhập vào nơi cất giữ Trái Tim Rồng.",
+  "Đơn vị Bóng tối có kế hoạch tạo ra các tiêm kích mana từ Trái Tim Rồng.",
+  "Frondier cân nhắc việc nhờ đến sự giúp đỡ của Lunia Fricell."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier chất vấn và thăm dò ý đồ của Philly, giữ thái độ dè chừng.",
+   "cach_goi": "gọi 'Ms. Philly', lạnh lùng"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly trả lời câu hỏi của Frondier, đôi khi có vẻ mỉa mai.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Aten quan sát cuộc trò chuyện giữa Frondier và Philly.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Aten Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Philly tương tác với Aten một cách thân thiện.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robert",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier suy đoán Robert là người biết về Trái Tim Rồng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Lunia Fricell",
+   "loai": "nguoi_la",
+   "mo_ta": "Philly cân nhắc việc nhờ đến sự giúp đỡ của Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lunia Fricell",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier suy nghĩ về khả năng của Lunia trong việc sử dụng Trái Tim Rồng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Philly Terst (Hoàng hậu)",
+  "Aten Terst (Tam công chúa)"
+ ],
+ "stats": {
+  "tokens": 981,
+  "seconds": 29.4
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "number": 21,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Quinie gặp nhau trong một phòng học trống, nơi Frondier cảnh báo về quái vật từ bên ngoài thế giới con người sắp đến. Anh đề nghị tham gia cùng cô vào một nhiệm vụ để đổi lấy thông tin về điểm yếu của quái vật đó và những yêu cầu khác liên quan đến mana và một phụ kiện chứa nước bí mật.",
+ "boi_canh": "Một phòng học trống ở Etius, trong một cuộc gặp gỡ bí mật.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Aster"
+ ],
+ "su_kien": [
+  "Frondier cảnh báo về sự xuất hiện của quái vật từ bên ngoài thế giới con người.",
+  "Quinie đặt câu hỏi về độ tin cậy của thông tin này.",
+  "Frondier đề cập đến nhiệm vụ điều động của năm thứ ba và sự xuất hiện của quái vật ở đó.",
+  "Frondier yêu cầu Quinie cung cấp điểm yếu của quái vật.",
+  "Frondier đề nghị tham gia cùng cô vào một nhiệm vụ để đổi lấy thông tin và những yêu cầu khác."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier cảnh báo và đề nghị hợp tác với Quinie.",
+   "cach_goi": "gọi tên Quinie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Quinie nghi ngờ và đặt câu hỏi về thông tin của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Frondier đề cập đến Aster, thể hiện mối quan tâm chung.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Quinie tỏ ra nghi ngờ và có phần coi thường Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier thăm dò tâm lý và động cơ của Quinie.",
+   "cach_goi": "gọi tên Quinie, lạnh lùng"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Quinie phản ứng lại sự thăm dò của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 664,
+  "seconds": 19.9
+ }
+}

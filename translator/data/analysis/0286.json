@@ -1,0 +1,80 @@
+{
+ "number": 286,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận được cảnh báo từ Morion, lính canh dẫn đầu bởi Esther đã nhanh chóng hành động. Một kẻ đột nhập, có vẻ là bản sao của Esther, đã kích hoạt báo động và gây ra hỏa hoạn trong nhà xác. Kẻ này sử dụng phép thuật dịch chuyển tức thời để trốn thoát, và sau đó Esther nhận ra rằng hành động của hắn không đơn thuần là một cuộc tấn công mà còn là một sự khiêu khích có chủ ý từ một sinh vật bên ngoài.",
+ "boi_canh": "Trong nhà xác của ngục tối Morion, ngay sau khi báo động được kích hoạt.",
+ "nhan_vat": [
+  "Frondier",
+  "Esther",
+  "Morion",
+  "Renzo",
+  "lính canh (guards)",
+  "staff member"
+ ],
+ "su_kien": [
+  "Nhận được cảnh báo từ Morion về kẻ đột nhập.",
+  "Kẻ đột nhập gây hỏa hoạn trong nhà xác.",
+  "Cổng vào ngục tối bị phong tỏa.",
+  "Esther mở khóa cửa nhà xác bằng nhận diện vân tay.",
+  "Esther suy luận ra phương thức trốn thoát của kẻ đột nhập là phép thuật dịch chuyển tức thời."
+ ],
+ "quan_he": [
+  {
+   "a": "Morion",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Morion báo động cho Frondier về kẻ đột nhập.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Esther là chỉ huy, Frondier là người được nhắc đến trong câu chuyện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier là người kể chuyện, Renzo là nạn nhân của kẻ đột nhập.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "lính canh (guards)",
+   "loai": "cap_tren",
+   "mo_ta": "Esther là chỉ huy, lính canh thực hiện mệnh lệnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "lính canh (guards)",
+   "b": "Esther",
+   "loai": "cap_tren",
+   "mo_ta": "Lính canh báo cáo tình hình cho Esther.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "staff member",
+   "b": "Esther",
+   "loai": "dong_minh",
+   "mo_ta": "Staff member báo cáo về hình ảnh CCTV cho Esther.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "staff member",
+   "loai": "dong_minh",
+   "mo_ta": "Esther lắng nghe báo cáo của staff member.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Kẻ đột nhập có khả năng thay đổi khuôn mặt, có thể là một sinh vật bên ngoài."
+ ],
+ "stats": {
+  "tokens": 858,
+  "seconds": 26.5
+ }
+}

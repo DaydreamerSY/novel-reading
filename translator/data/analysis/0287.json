@@ -1,0 +1,72 @@
+{
+ "number": 287,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chapter này bắt đầu với một cuộc đối thoại căng thẳng giữa các lính canh và Esther về vụ trộm xác Renzo tại Morion, cho thấy kẻ trộm có liên hệ với thế giới bên ngoài. Sau đó, cảnh chuyển sang cuộc trò chuyện kỳ lạ giữa Kraken và Renzo, trong đó Renzo chế nhạo Kraken và tiết lộ rằng anh ta đã được hồi sinh bằng lõi của Kraken theo chỉ dẫn của Ares, đồng thời bày tỏ ý định giết Frondier.",
+ "boi_canh": "Trong nhà tù Morion, vào một ngày không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Kraken",
+  "Esther",
+  "Ares"
+ ],
+ "su_kien": [
+  "Các lính canh tranh luận về vụ trộm xác Renzo và nguồn gốc của kẻ trộm.",
+  "Esther nhận ra rằng kẻ trộm có liên hệ với thế giới bên ngoài.",
+  "Kraken và Renzo đối thoại, trong đó Renzo chế nhạo Kraken.",
+  "Renzo tiết lộ anh ta đã được hồi sinh bằng lõi của Kraken theo chỉ dẫn của Ares.",
+  "Renzo bày tỏ ý định giết Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "lính canh",
+   "b": "Esther",
+   "loai": "cap_tren",
+   "mo_ta": "Lính canh báo cáo với Esther về vụ trộm và xin ý kiến của cô.",
+   "cach_goi": "gọi tên Esther, lễ phép"
+  },
+  {
+   "a": "Esther",
+   "b": "lính canh",
+   "loai": "cap_tren",
+   "mo_ta": "Esther chỉ đạo và phân tích tình hình với các lính canh.",
+   "cach_goi": "gọi tên lính canh, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Instructor",
+   "b": "Esther",
+   "loai": "thay_tro",
+   "mo_ta": "Người hướng dẫn lắng nghe và học hỏi từ Esther.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kraken",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Kraken đối diện với Renzo trong một cuộc trò chuyện căng thẳng.",
+   "cach_goi": "gọi tên Renzo, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Kraken",
+   "loai": "doi_thu",
+   "mo_ta": "Renzo chế nhạo và khiêu khích Kraken.",
+   "cach_goi": "gọi tên Kraken, thân mật"
+  },
+  {
+   "a": "Renzo",
+   "b": "Ares",
+   "loai": "nguoi_la",
+   "mo_ta": "Renzo đề cập đến Ares như một người đã hướng dẫn anh ta.",
+   "cach_goi": "gọi tên Ares, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Ares: Được tiết lộ là có liên quan đến việc hồi sinh Renzo và cung cấp 'sức mạnh thích hợp' cho anh ta."
+ ],
+ "stats": {
+  "tokens": 804,
+  "seconds": 24.8
+ }
+}

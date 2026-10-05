@@ -1,0 +1,73 @@
+{
+ "number": 54,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hẹn gặp Sybil tại phòng khám, Frondier đến thư viện để tìm kiếm thông tin về 'Weaving'. Anh ta bị thất vọng vì không thể sử dụng 'Cung Artemis', và sau đó chạm mặt Ainen, người có vẻ không thích anh. Một cuộc đối thoại hài hước diễn ra xoay quanh một bài kiểm tra nhận thức chung cho nhà thám hiểm, đặc biệt là câu hỏi về 'Dragon Heart'. Frondier tiết lộ kiến thức bí mật của mình về Dragon Heart, khiến Ainen ngạc nhiên.",
+ "boi_canh": "Trong thư viện của Học Viện Constel, vào một buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Aster Evans",
+  "Ainen",
+  "Artemis"
+ ],
+ "su_kien": [
+  "Frondier rời phòng khám sau khi hẹn gặp Sybil.",
+  "Frondier đến thư viện để tìm kiếm thông tin về 'Weaving'.",
+  "Ainen tỏ ra khó chịu khi thấy Frondier.",
+  "Cuộc đối thoại hài hước giữa Frondier và Ainen về bài kiểm tra nhận thức chung.",
+  "Frondier tiết lộ kiến thức bí mật của mình về Dragon Heart."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người hẹn gặp nhau tại phòng khám.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ainen",
+   "loai": "nguoi_la",
+   "mo_ta": "Ainen có vẻ không thích Frondier.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Ainen",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Ainen tỏ ra khó chịu và có phần chế giễu Frondier.",
+   "cach_goi": "gọi tên, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier tưởng tượng mình là Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ainen",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Ainen hỏi Frondier về kiến thức Dragon Heart.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ainen",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier trả lời câu hỏi của Ainen về Dragon Heart.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier đang giả vờ là Aster Evans trong tưởng tượng."
+ ],
+ "stats": {
+  "tokens": 783,
+  "seconds": 23.5
+ }
+}

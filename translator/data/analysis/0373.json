@@ -1,0 +1,57 @@
+{
+ "number": 373,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Đến cuối kỳ nghỉ đông, lễ tốt nghiệp tại Constel được tổ chức. Frondier đến chúc mừng Quinie de Viet và trao lại Black Lotus cho cô như một vật hộ mệnh. Sau khi nghe lời đề nghị của Quinie về việc cùng nhau trở thành hiệp sĩ, Frondier từ chối vì còn phải cứu thế giới.",
+ "boi_canh": "Sân trường Constel trong buổi lễ tốt nghiệp cuối năm.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie de Viet",
+  "Anne",
+  "Quinie"
+ ],
+ "su_kien": [
+  "Lễ tốt nghiệp tại Constel diễn ra náo nhiệt.",
+  "Học sinh tặng quà cho các học viên sắp tốt nghiệp.",
+  "Frondier trao Black Lotus cho Quinie.",
+  "Quinie đề nghị Frondier cùng cô trở thành hiệp sĩ.",
+  "Frondier từ chối lời đề nghị của Quinie vì còn phải cứu thế giới."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie de Viet",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người trao đổi quà tặng và lời chúc mừng tốt nghiệp.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie de Viet",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người trao đổi quà tặng và lời chúc mừng tốt nghiệp.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Anne",
+   "b": "Quinie de Viet",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và cùng tham gia lễ tốt nghiệp.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie de Viet",
+   "b": "Anne",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và cùng tham gia lễ tốt nghiệp.",
+   "cach_goi": "gọi tên Anne, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Quinie de Viet (tên đầy đủ của Quinie)"
+ ],
+ "stats": {
+  "tokens": 586,
+  "seconds": 17.6
+ }
+}

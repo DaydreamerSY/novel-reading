@@ -1,0 +1,100 @@
+{
+ "number": 62,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier đưa ra đề nghị trao đổi con tin, Grobel tỏ ra ngạc nhiên và chấp nhận. Rokbel bị đưa đến chỗ Frondier, nhưng anh đã chặn một mũi tên bắn về phía cậu bé. Sau đó, cả hai cùng chạy vào ngôi nhà đang cháy. Serf Daniel sử dụng khả năng điều khiển tâm trí để khiến mọi người xung quanh mất kiểm soát, đồng thời tiết lộ thông tin về việc Gregory phát hiện ra Frondier có thể sử dụng Aura.",
+ "boi_canh": "Một cuộc họp căng thẳng bên ngoài một ngôi nhà đang bốc cháy.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Gregory",
+  "Serf",
+  "Grobel",
+  "Rokbel",
+  "Serf Daniel"
+ ],
+ "su_kien": [
+  "Frondier đề nghị trao đổi con tin.",
+  "Rokbel bị đưa đến chỗ Frondier.",
+  "Frondier chặn một mũi tên bắn về phía Rokbel.",
+  "Frondier và Rokbel chạy vào ngôi nhà đang cháy.",
+  "Serf Daniel sử dụng khả năng điều khiển tâm trí."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Rokbel",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier là người được giao nhiệm vụ bảo vệ con tin.",
+   "cach_goi": "gọi tên Rokbel, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Rokbel",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Rokbel sợ hãi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Grobel",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người đang trong tình thế đối đầu.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Grobel",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người đang trong tình thế đối đầu.",
+   "cach_goi": "gọi tên Grobel, thô lỗ"
+  },
+  {
+   "a": "Serf",
+   "b": "Grobel",
+   "loai": "cap_tren",
+   "mo_ta": "Serf là người có quyền lực hơn Grobel.",
+   "cach_goi": "gọi tên Grobel, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Grobel",
+   "b": "Serf",
+   "loai": "cap_tren",
+   "mo_ta": "Grobel tức giận với Serf.",
+   "cach_goi": "gọi tên Serf, thô lỗ"
+  },
+  {
+   "a": "Serf Daniel",
+   "b": "Rokbel",
+   "loai": "nguoi_la",
+   "mo_ta": "Serf Daniel là một thành viên của nhóm lính đánh thuê.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Rokbel",
+   "b": "Serf Daniel",
+   "loai": "nguoi_la",
+   "mo_ta": "Rokbel nhìn Serf Daniel với vẻ mặt bối rối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Serf",
+   "loai": "thay_tro",
+   "mo_ta": "Gregory báo cáo cho Serf.",
+   "cach_goi": "gọi tên Serf, lễ phép"
+  },
+  {
+   "a": "Serf",
+   "b": "Gregory",
+   "loai": "thay_tro",
+   "mo_ta": "Serf lắng nghe báo cáo của Gregory.",
+   "cach_goi": "gọi tên Gregory, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1033,
+  "seconds": 30.9
+ }
+}

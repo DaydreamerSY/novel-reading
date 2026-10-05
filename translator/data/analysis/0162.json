@@ -1,0 +1,92 @@
+{
+ "number": 162,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Selena cùng đến Tyburn trong điều kiện khắc nghiệt. Frondier chỉ trích trang phục hở hang của Selena và yêu cầu cô thay đổi. Sau đó, anh phát hiện ra rào cản phòng thủ đang rất yếu ớt. Cuối cùng, Aten, một công chúa, xuất hiện để kiểm tra tình hình, và Sybil bất ngờ cũng có mặt tại Tyburn.",
+ "boi_canh": "Bên ngoài rào chắn của Tyburn vào thời điểm Frondier và Selena đến thăm.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aster",
+  "Philly",
+  "Aten",
+  "Sybil",
+  "Enfer",
+  "Ludwig",
+  "Robert",
+  "Ainen",
+  "Arthur",
+  "Pros",
+  "Huy"
+ ],
+ "su_kien": [
+  "Frondier trèo qua rào chắn.",
+  "Selena phàn nàn về trang phục của mình và sự lạnh giá.",
+  "Frondier phát hiện ra tình trạng yếu kém của rào cản phòng thủ.",
+  "Aten đến Tyburn để kiểm tra.",
+  "Sybil bất ngờ xuất hiện tại Tyburn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier chỉ trích trang phục của Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Selena phàn nàn về sự lạnh giá và an toàn của mình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Frondier đề cập đến Aster trong suy nghĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Robert",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Một hiệp sĩ, Robert hỏi Frondier về lý do đến Tyburn.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robert",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier trả lời câu hỏi của Robert một cách hài hước.",
+   "cach_goi": "gọi tên Robert, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Robert",
+   "loai": "cap_tren",
+   "mo_ta": "Không tương tác trực tiếp, Aten quan sát Robert.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ bất ngờ, Sybil tỏ ra rất vui mừng khi gặp Aten.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ bất ngờ, Aten ngạc nhiên khi thấy Sybil ở Tyburn.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 947,
+  "seconds": 29.5
+ }
+}

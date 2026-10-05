@@ -1,0 +1,72 @@
+{
+ "number": 367,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đặt ra những điều kiện kỳ lạ cho Laurie liên quan đến việc giữ bí mật và sử dụng thôi miên. Anh ta cũng gợi ý một giả thuyết về việc liệu thôi miên có thất bại nếu mục tiêu không phải là chính anh ta hay không. Cuối cùng, Selena chứng kiến sự hy sinh của Frondier để bảo vệ cô ấy, trong khi đó, ở một thế giới khác, Hela gặp lại Frondier sau khi anh ta thực hiện thuật chiếu tâm.",
+ "boi_canh": "Trong phòng kín, buổi nói chuyện bí mật.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Laurie",
+  "Hela",
+  "Hel"
+ ],
+ "su_kien": [
+  "Frondier đặt ra hai điều kiện cho Laurie liên quan đến việc giữ bí mật và thôi miên.",
+  "Laurie trả lời rằng thôi miên của cô ấy không có tác dụng với Frondier lần này.",
+  "Frondier đưa ra giả thuyết về việc liệu thôi miên có thất bại nếu mục tiêu không phải là anh ta hay không.",
+  "Selena chứng kiến sự hy sinh của Frondier để bảo vệ cô ấy.",
+  "Hela gặp lại Frondier sau khi anh ta thực hiện thuật chiếu tâm."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học trò, Frondier đặt ra các điều kiện và Laurie trả lời.",
+   "cach_goi": "gọi tên Laurie, thân mật"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò đặt câu hỏi và phản hồi với người thầy.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Người bảo vệ và người được bảo vệ, Frondier hy sinh để cứu Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Người được cứu và người đã hy sinh, Selena bày tỏ lòng biết ơn.",
+   "cach_goi": "gọi 'Frondier-nim', kính trọng"
+  },
+  {
+   "a": "Hela",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Hai vị thần gặp nhau, Hela tỏ ra khó chịu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hela",
+   "loai": "khac",
+   "mo_ta": "Hai vị thần trò chuyện, Frondier tỏ ra thoải mái.",
+   "cach_goi": "gọi tên Hela, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Hel là một tên khác của Hera, nữ thần cai quản âm ti."
+ ],
+ "stats": {
+  "tokens": 813,
+  "seconds": 24.5
+ }
+}

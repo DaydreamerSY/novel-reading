@@ -1,0 +1,89 @@
+{
+ "number": 115,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Elodie đột ngột cảm thấy đau đầu và được đưa đến phòng y tế. Tuy nhiên, cô đã bí mật rời khỏi trường để phát hiện ra một mối đe dọa tiềm ẩn từ những con quái vật đang tiến đến Constel. Đồng thời, Elysia cố gắng thuyết phục Philly rằng Sale mới là kẻ chủ mưu đứng sau mọi chuyện.",
+ "boi_canh": "Giữa giờ học buổi sáng tại lớp học của trường Constel.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Philly",
+  "Elysia",
+  "Sale",
+  "Mom",
+  "Mother",
+  "Elodie de Inies Rishae"
+ ],
+ "su_kien": [
+  "Elodie đột ngột cảm thấy đau đầu giữa giờ học.",
+  "Elodie phát hiện ra sự hiện diện của quái vật từ xa thông qua khả năng nhận biết mana.",
+  "Elodie bí mật rời khỏi trường để đối phó với mối đe dọa.",
+  "Elysia cố gắng thuyết phục Philly rằng Sale là kẻ chủ mưu.",
+  "Philly cuối cùng cũng chấp nhận lời khai của Elysia, nhưng lại có một biểu hiện đáng lo ngại."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier đã cảnh báo Elodie về mối nguy hiểm.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân tin tưởng lời cảnh báo của Frondier.",
+   "cach_goi": "gọi tên Frondier, không chắc chắn"
+  },
+  {
+   "a": "Giáo viên",
+   "b": "Elodie",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên quan tâm đến tình trạng của Elodie.",
+   "cach_goi": "gọi tên Elodie, lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Giáo viên",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh trả lời giáo viên.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Elysia",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái cố gắng thuyết phục mẹ về sự thật.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ giữ im lặng và quan sát con gái.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ nghi ngờ con gái.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái cố gắng thuyết phục mẹ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi tức tỉnh thần tính)"
+ ],
+ "stats": {
+  "tokens": 929,
+  "seconds": 28.6
+ }
+}

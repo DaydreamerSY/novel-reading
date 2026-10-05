@@ -1,0 +1,61 @@
+{
+ "number": 126,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier chứng kiến buổi học đầu tiên của mình dưới sự hướng dẫn của Azier, người đã chọn Aster làm đối tượng thử thách. Aster liên tục bị hạ gục một cách dễ dàng, và cuối cùng Azier kêu gọi Frondier lên sàn đấu. Các học viên hoài nghi khả năng của Frondier so với Aster, nhưng Frondier cảm thấy chán nản trước tình huống này.",
+ "boi_canh": "Trong lớp học chiến đấu tại Constel, vào một buổi sáng.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier"
+ ],
+ "su_kien": [
+  "Azier bắt đầu buổi học bằng cách tuyên bố sẽ dạy 'bản chất cơ bản' của chiến đấu.",
+  "Azier chọn Aster để làm đối tượng thử thách và hạ gục anh ta một cách dễ dàng.",
+  "Aster liên tục bị hạ gục, nhưng vẫn kiên trì đứng lên và cố gắng tấn công.",
+  "Azier kêu gọi Frondier tham gia trận đấu demo.",
+  "Các học viên bày tỏ sự hoài nghi về khả năng của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn, nhưng Frondier cảm thấy Aster bị Azier hạ gục một cách dễ dàng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em ruột thịt, Frondier cảm thấy chán nản khi phải chứng kiến Azier thể hiện sức mạnh.",
+   "cach_goi": "gọi 'anh trai', thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Azier là thầy giáo của Frondier, thể hiện sự thờ ơ và có phần trịch thượng.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Azier",
+   "b": "Aster",
+   "loai": "thay_tro",
+   "mo_ta": "Azier là thầy giáo của Aster, hạ gục anh ta một cách dễ dàng để làm ví dụ.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Aster",
+   "b": "Azier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò của Azier, chịu sự kiểm nghiệm và thất bại dưới tay thầy giáo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 715,
+  "seconds": 22.1
+ }
+}

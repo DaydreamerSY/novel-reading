@@ -1,0 +1,74 @@
+{
+ "number": 333,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đối mặt với Renzo, một trong những người mạnh nhất thế giới, và nhận ra sự tôn trọng của đối thủ khi phải dùng hết sức lực. Sau đó, anh ta chủ động dụ dỗ Laurie vào một xưởng làm việc bí mật ở Yeranhes, nơi mà anh ta thể hiện bản chất thật của mình là con trai của Enfer và thành viên gia tộc Roach. Laurie bị mắc kẹt trong xưởng và đối mặt với vô số vũ khí bay lơ lửng.",
+ "boi_canh": "Một khu rừng bí mật ở phía bắc Yeranhes, nơi Frondier đã dựng lên một xưởng làm việc bất ngờ.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Enfer",
+  "Laurie",
+  "Kraken",
+  "Neil",
+  "Neil Jack"
+ ],
+ "su_kien": [
+  "Frondier đối mặt và chiến đấu với Renzo.",
+  "Frondier dụ dỗ Laurie vào một xưởng làm việc bí mật.",
+  "Laurie nhận ra cánh cửa mà cô bước vào thực chất là một bức tường.",
+  "Laurie sử dụng phép thuật tạo ánh sáng để nhìn rõ trong bóng tối.",
+  "Laurie bị bao vây bởi vô số vũ khí bay lơ lửng trong xưởng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Frondier, một trong những người mạnh nhất thế giới.",
+   "cach_goi": "gọi tên Renzo, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Frondier, một trong những người mạnh nhất thế giới.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier muốn thử nghiệm Laurie và tìm hiểu về bản chất thật của cô.",
+   "cach_goi": "gọi tên Laurie, trịch thượng"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Laurie sợ hãi và cố gắng trốn thoát khỏi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai của Enfer, thể hiện bản chất thật của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Laurie đang bị giam giữ và cố gắng tìm cách thoát khỏi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier là con trai của Enfer, thành viên gia tộc Roach."
+ ],
+ "stats": {
+  "tokens": 813,
+  "seconds": 25.3
+ }
+}

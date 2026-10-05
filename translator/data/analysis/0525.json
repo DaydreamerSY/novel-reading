@@ -1,0 +1,70 @@
+{
+ "number": 525,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Đại tá phó của Manggot tỏ ra bối rối khi cuộc tấn công được lên kế hoạch cho sau đó. Tình hình trở nên phức tạp hơn khi Notker muốn tấn công Aster giữa sự hỗn loạn, nhưng Aster đã ngăn chặn lũ quái vật một cách hiệu quả. Notker quyết định phải loại bỏ Aster để tạo cơ hội cho Manggot hành động, và cuối cùng bước ra khỏi rừng để đối đầu với Aster.",
+ "boi_canh": "Trên chiến tuyến, trong lúc trận chiến giữa quân đội nhân loại và lũ quái vật đang diễn ra.",
+ "nhan_vat": [
+  "Aster",
+  "Hagley",
+  "Notker",
+  "Hector",
+  "Berengar"
+ ],
+ "su_kien": [
+  "Đại tá phó của Manggot bày tỏ sự bối rối về thời điểm tấn công.",
+  "Notker quan sát Aster và nhận thấy kỹ năng chiến đấu của anh ta không đặc biệt xuất sắc.",
+  "Berengar báo cáo tình hình lũ quái vật tiến lên và cách chúng sử dụng xác chết làm đường đi.",
+  "Aster ngăn chặn lũ quái vật bằng những đòn tấn công chính xác, gây ra sự hỗn loạn trong đội hình của chúng.",
+  "Notker bước ra khỏi rừng để đối đầu với Aster."
+ ],
+ "quan_he": [
+  {
+   "a": "Đại tá phó của Manggot",
+   "b": "Notker",
+   "loai": "ke_thu",
+   "mo_ta": "Người chỉ huy cấp cao hơn bày tỏ sự lo lắng về kế hoạch của Notker.",
+   "cach_goi": "gọi tên Notker, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Notker",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Không thích Aster vì anh ta phá vỡ kế hoạch của Manggot.",
+   "cach_goi": "gọi tên Aster, lạnh lùng"
+  },
+  {
+   "a": "Notker",
+   "b": "Hector",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Hector, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Berengar",
+   "b": "Notker",
+   "loai": "cap_tren",
+   "mo_ta": "Người dưới trướng báo cáo tình hình chiến sự cho người chỉ huy.",
+   "cach_goi": "gọi tên Notker, thân mật"
+  },
+  {
+   "a": "Notker",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Người đối địch chuẩn bị tấn công.",
+   "cach_goi": "gọi tên Aster, thô lỗ"
+  },
+  {
+   "a": "Hector",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 771,
+  "seconds": 23.1
+ }
+}

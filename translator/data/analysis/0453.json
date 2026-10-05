@@ -1,0 +1,104 @@
+{
+ "number": 453,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi cảm nhận được sự thôi thúc của Mizonas, các Zodiac và Frondier biết rằng có chuyện gì đó xảy ra trong nhà tù ngầm nơi quái vật Konjac bị giam giữ. Frondier tiết lộ rằng anh đã yêu cầu Azier được đưa đến đó. Các thành viên Zodiac lo ngại về việc quái vật có thể sao chép kỹ thuật chiến đấu của Azier, nhưng Frondier tin rằng điều này có thể ngăn chặn khả năng sao chép của nó. Một con quạ do chính Frondier huấn luyện đã báo cáo rằng kẻ thù đối đầu với Azier là một ác quỷ tên Mizonas, thuộc hạ của Satan, và quá trình biến đổi của quái vật đã dừng lại.",
+ "boi_canh": "Trong phòng ngủ của Frondier, sau khi cảm nhận được sự thôi thúc từ nhà tù ngầm.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Renzo",
+  "Lily",
+  "Monty",
+  "Binkis",
+  "Gregory",
+  "Mizonas",
+  "Daisy"
+ ],
+ "su_kien": [
+  "Mizonas giải phóng hào quang, các Zodiac và Frondier cảm nhận được.",
+  "Frondier tiết lộ rằng anh đã yêu cầu Azier bị giam giữ trong nhà tù ngầm.",
+  "Các Zodiac lo ngại quái vật sẽ sao chép kỹ thuật chiến đấu của Azier.",
+  "Một con quạ báo cáo kẻ thù đối đầu với Azier là một ác quỷ tên Mizonas, thuộc hạ của Satan.",
+  "Quá trình biến đổi của quái vật đã dừng lại."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Monty quan sát và đặt câu hỏi cho Frondier.",
+   "cach_goi": "gọi tên Monty, thân mật"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Monty quan sát và đặt câu hỏi cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Daisy",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Daisy bày tỏ lo ngại về tình hình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Daisy",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier trả lời và trấn an Daisy.",
+   "cach_goi": "gọi tên Daisy, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, Frondier suy nghĩ về kỹ năng của Azier.",
+   "cach_goi": "gọi tên Azier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Frondier so sánh kỹ năng của Renzo với Azier.",
+   "cach_goi": "gọi tên Renzo, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò, Frondier nhớ lại thuật toán của Binkis.",
+   "cach_goi": "gọi tên Binkis, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "cap_tren",
+   "mo_ta": "Đ cấp trên, Frondier yêu cầu Gregory báo cáo tình hình.",
+   "cach_goi": "gọi tên Gregory, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Daisy",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Monty giải thích về kỹ thuật 'Falling edge'.",
+   "cach_goi": "gọi tên Daisy, thân mật"
+  },
+  {
+   "a": "Daisy",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Daisy hỏi về kỹ thuật 'Falling edge'.",
+   "cach_goi": "gọi tên Monty, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Con quạ do Frondier huấn luyện có thể nói chuyện."
+ ],
+ "stats": {
+  "tokens": 1198,
+  "seconds": 35.9
+ }
+}

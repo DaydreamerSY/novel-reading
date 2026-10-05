@@ -1,0 +1,90 @@
+{
+ "number": 20,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier, Aster, và Sybil gặp nhau tại quán cà phê trên khuôn viên trường, thảo luận về việc thành lập đội thám hiểm ngục tối. Frondier đề xuất mời Quinie de Viet tham gia để tạo dựng mối quan hệ, nhưng cả Aster và Sybil đều nghi ngờ về khả năng chấp nhận của cô. Cuối cùng, Frondier tiếp cận trực tiếp Quinie, đề nghị bán thông tin cho cô, khiến cô tỏ ra bất ngờ và dẫn đến một cuộc trò chuyện riêng tư.",
+ "boi_canh": "Một quán cà phê trên khuôn viên trường, vào buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Azier",
+  "Quinie",
+  "Enfer",
+  "Frondier de Roach",
+  "Aster Evans",
+  "Quinie de Viet"
+ ],
+ "su_kien": [
+  "Frondier, Aster và Sybil gặp nhau tại quán cà phê để thảo luận về đội thám hiểm ngục tối.",
+  "Frondier nhắc lại sự kiện anh ta gây ra tại hội đồng quý tộc.",
+  "Frondier đề xuất mời Quinie de Viet tham gia đội thám hiểm.",
+  "Frondier tiếp cận trực tiếp Quinie và đề nghị bán thông tin cho cô.",
+  "Quinie chấp nhận một cuộc trò chuyện riêng với Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Frondier thường xuyên trêu chọc Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Aster quan tâm đến hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Sybil tò mò về Frondier.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Sybil tò mò về Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ trước đây, Frondier chủ động tiếp cận.",
+   "cach_goi": "gọi tên Quinie, lễ phép"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ trước đây, Quinie tỏ ra cảnh giác.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "SagePhone: thiết bị tương tự điện thoại thông minh."
+ ],
+ "stats": {
+  "tokens": 977,
+  "seconds": 29.4
+ }
+}

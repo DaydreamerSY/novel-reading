@@ -1,0 +1,112 @@
+{
+ "number": 204,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Selena thảo luận về sự an toàn của Rokbel, người đang sống trong trại trẻ mồ côi. Họ phát hiện ra Gregory có thể liên quan đến những tin đồn lan truyền khắp Constel và Cung điện Hoàng gia. Một nhiệm vụ phụ mới xuất hiện, yêu cầu Frondier tìm ra kẻ đứng sau những tin đồn này. Trong khi đó, Nữ hoàng Philly bày tỏ sự hoài nghi về việc Pascal trở thành giáo viên chiến đấu cơ bản.",
+ "boi_canh": "Trong phòng làm việc của Frondier, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Philly",
+  "Pascal",
+  "Gregory",
+  "Robert",
+  "Grobel",
+  "Rokbel"
+ ],
+ "su_kien": [
+  "Frondier và Selena thảo luận về sự an toàn của Rokbel tại trại trẻ mồ côi.",
+  "Một nhiệm vụ phụ mới xuất hiện liên quan đến việc tìm ra kẻ lan truyền tin đồn.",
+  "Selena tiết lộ có nhiều tin đồn không rõ nguồn gốc đang lan truyền ở Constel.",
+  "Nữ hoàng Philly bày tỏ sự ngạc nhiên khi biết Pascal trở thành giáo viên chiến đấu cơ bản.",
+  "Frondier suy đoán Gregory có thể đứng sau việc lan truyền những tin đồn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người được Selena kính trọng và báo cáo tình hình.",
+   "cach_goi": "gọi tên Selena, lễ phép"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Selena báo cáo tình hình cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Không tương tác trực tiếp, Philly là Nữ hoàng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Pascal",
+   "loai": "cap_tren",
+   "mo_ta": "Không tương tác trực tiếp, Pascal là một hiệp sĩ dưới quyền Philly.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Robert",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Không tương tác trực tiếp, Robert là hiệp sĩ của Philly.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Robert",
+   "loai": "dong_minh",
+   "mo_ta": "Không tương tác trực tiếp, cả hai đều là hiệp sĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Rokbel",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Frondier quan tâm đến sự an toàn của Rokbel.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Grobel",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Frondier quan tâm đến sự an toàn của Grobel.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pascal: Hiện tại là giáo viên chiến đấu cơ bản ở Constel."
+ ],
+ "stats": {
+  "tokens": 1184,
+  "seconds": 35.4
+ }
+}

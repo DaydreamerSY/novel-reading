@@ -1,0 +1,89 @@
+{
+ "number": 305,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe tin Kraken giết ba lính canh, Esther bắt đầu hành động. Cô đối mặt với Kraken và sử dụng năng lượng thần thánh để áp chế nó. Sau đó, cô đến biệt thự của Heldre và phát hiện ra một cảnh tượng kinh hoàng: nhiều xác chết nằm la liệt. Cuối cùng, cô tìm thấy Frondier vẫn còn sống, cùng với Cain, Thompson và Skyler bị bất tỉnh, khiến Esther nghi ngờ khả năng đặc biệt của Frondier.",
+ "boi_canh": "Trong một nhà tù, sau khi Kraken bị lộ diện.",
+ "nhan_vat": [
+  "Frondier",
+  "Esther",
+  "Kraken",
+  "Heldre",
+  "Cain",
+  "Thompson",
+  "Skyler",
+  "Azier"
+ ],
+ "su_kien": [
+  "Esther đối mặt với Kraken sau khi nghe tin nó giết lính canh.",
+  "Kraken định tấn công Esther nhưng bị năng lượng thần thánh áp chế.",
+  "Esther đến biệt thự của Heldre và phát hiện ra nhiều xác chết.",
+  "Frondier được tìm thấy còn sống, cùng với Cain, Thompson và Skyler bị bất tỉnh.",
+  "Esther nghi ngờ khả năng đặc biệt của Frondier dựa trên các vết thương khác nhau trên thi thể."
+ ],
+ "quan_he": [
+  {
+   "a": "Esther",
+   "b": "Kraken",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp, Esther áp đảo Kraken bằng năng lượng thần thánh.",
+   "cach_goi": "gọi 'Prisoner', lạnh lùng"
+  },
+  {
+   "a": "Kraken",
+   "b": "Esther",
+   "loai": "ke_thu",
+   "mo_ta": "Sợ hãi và cố gắng trốn thoát khỏi Esther.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "nguoi_la",
+   "mo_ta": "Esther quan sát Frondier từ xa, nghi ngờ khả năng của cậu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Esther quan sát Frondier từ xa, nghi ngờ khả năng của cậu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cain",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Bị Frondier khống chế và bất tỉnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thompson",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Bị Frondier khống chế và bất tỉnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Skyler",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Bị Frondier khống chế và bất tỉnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "Heldre",
+   "loai": "nguoi_la",
+   "mo_ta": "Đến biệt thự của Heldre để điều tra.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Kraken: Được tiết lộ là một quái vật giả dạng con người."
+ ],
+ "stats": {
+  "tokens": 943,
+  "seconds": 29.0
+ }
+}

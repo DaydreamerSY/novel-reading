@@ -1,0 +1,76 @@
+{
+ "number": 494,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier suy tư về sự trở lại của Osprey và quyết định ít can thiệp vào thế giới này hơn. Anh nhận thấy Elodie đang gặp vấn đề do ảnh hưởng của ma thuật, và lo ngại về việc cô có quá nhiều vị thần bảo hộ. Trong khi đó, Pielott liên tục bị Frondier",
+ "boi_canh": "Tại Constel, trong một trận đấu giữa Frondier và Pielott.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Pielott",
+  "Osprey",
+  "Dier",
+  "Jane",
+  "Edwin",
+  "Rudra",
+  "Hypnos",
+  "Hephaestus",
+  "Mizonaus"
+ ],
+ "su_kien": [
+  "Frondier lo ngại về việc Elodie có quá nhiều vị thần bảo hộ.",
+  "Pielott liên tục bị Frondier"
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier lo lắng cho tình trạng của Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong một trận đấu thường xuyên, Frondier có vẻ đang cố gắng giúp đỡ Pielott.",
+   "cach_goi": "gọi tên Pielott, lạnh lùng"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong một trận đấu thường xuyên, Pielott đang cố gắng để chiến thắng Frondier.",
+   "cach_goi": "gọi 'senior', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Rudra",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đã từng có cuộc trò chuyện với Rudra.",
+   "cach_goi": "gọi tên Rudra, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đã từng quan sát Edwin bị ảnh hưởng bởi vị thần của anh ta.",
+   "cach_goi": "gọi tên Edwin, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người từng là đồng đội.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pielott có tài năng Aura bẩm sinh, ngang ngửa với hầu hết các yêu tinh.",
+  "Kỹ năng 'Iaijutsu' của Pielott được anh luyện tập khi còn trẻ vì nghĩ nó trông 'ngầu'."
+ ],
+ "stats": {
+  "tokens": 795,
+  "seconds": 24.2
+ }
+}

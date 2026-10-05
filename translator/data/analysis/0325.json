@@ -1,0 +1,41 @@
+{
+ "number": 325,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier chuẩn bị rời khỏi dinh thự, ghé thăm Selena để đảm bảo cô sẵn sàng cho chuyến đi đến biên giới. Cuộc trò chuyện xoay quanh trang phục của Selena và những thay đổi trong cách hành xử của cô kể từ khi Frondier chiếm hữu cơ thể người khác. Selena bỗng dưng trở nên ngại ngùng về trang phục của mình, và Frondier đề nghị sẽ mua quần áo mới cho cô sau chuyến đi.",
+ "boi_canh": "Trong phòng ngủ của dinh thự Roach, trước khi khởi hành đến biên giới.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena"
+ ],
+ "su_kien": [
+  "Frondier kiểm tra trang phục của Selena trước chuyến đi.",
+  "Selena bày tỏ sự ngại ngùng về trang phục của mình và giải thích lý do cô mặc như vậy.",
+  "Frondier nhắc lại những hành động thiếu suy xét của Selena trong quá khứ.",
+  "Selena bỗng nhiên trở nên lo lắng về việc trang phục có hiệu quả hay không.",
+  "Frondier đề nghị mua quần áo mới cho Selena sau chuyến đi."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Người điều khiển và người được điều khiển, Frondier đang cố gắng hướng dẫn Selena.",
+   "cach_goi": "gọi tên Selena, thân mật nhưng có phần nghiêm khắc"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người được bảo vệ và người bảo vệ, Selena đang cố gắng làm hài lòng Frondier.",
+   "cach_goi": "gọi 'Frondier-nim', lễ phép nhưng có chút e dè"
+  }
+ ],
+ "danh_tinh": [
+  "Manggot (được thay thế bằng 'there' để tránh sự chú ý)"
+ ],
+ "stats": {
+  "tokens": 490,
+  "seconds": 15.1
+ }
+}

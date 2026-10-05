@@ -1,0 +1,90 @@
+{
+ "number": 216,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đối mặt với Kraken, một linh hồn quái vật biển sâu. Sau khi Frondier vô tình làm đứt một chi của Kraken bằng phép thuật Void Weaving, Kraken cảnh báo sẽ giết Frondier vào một ngày nào đó. Hóa ra Kraken đang thu thập thông tin về Serf Daniel và có liên quan đến Indus. Cuối cùng, Pascal Schiltz xuất hiện và giam giữ Frondier trong một rào cản Qi, bắt đầu một buổi huấn luyện chiến đấu bất ngờ.",
+ "boi_canh": "Trong một khán phòng, tại thời điểm đối mặt với Kraken.",
+ "nhan_vat": [
+  "Frondier",
+  "Kraken",
+  "Gregory",
+  "Pascal",
+  "Enfer",
+  "Pascal Schiltz",
+  "Serf Daniel",
+  "Malia",
+  "Indus"
+ ],
+ "su_kien": [
+  "Frondier làm đứt một chi của Kraken bằng phép thuật Void Weaving.",
+  "Kraken cảnh báo sẽ giết Frondier vào một ngày nào đó.",
+  "Kraken tiết lộ đang thu thập thông tin về Serf Daniel.",
+  "Pascal Schiltz giam giữ Frondier trong một rào cản Qi.",
+  "Frondier thử nghiệm sức mạnh của rào chắn bằng cách ném dao."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Kraken",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp, mối quan hệ thù địch.",
+   "cach_goi": "gọi 'you', lạnh lùng"
+  },
+  {
+   "a": "Kraken",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đe dọa, mối quan hệ thù địch.",
+   "cach_goi": "gọi 'you', trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "nguoi_la",
+   "mo_ta": "Cứu Gregory khỏi Kraken, không có tương tác nhiều.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên chiến đấu, có vẻ như đang theo dõi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên, Frondier có chút lo lắng.",
+   "cach_goi": "gọi tên Pascal, gần gũi"
+  },
+  {
+   "a": "Kraken",
+   "b": "Gregory",
+   "loai": "nguoi_la",
+   "mo_ta": "Kraken đã bắt giữ Gregory.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer de Roach",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier, có ảnh hưởng lớn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serf Daniel",
+   "b": "Kraken",
+   "loai": "nguoi_la",
+   "mo_ta": "Kraken đang thu thập thông tin về Serf Daniel.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Enfer de Roach: Cha của Frondier, gia chủ nhà Roach."
+ ],
+ "stats": {
+  "tokens": 946,
+  "seconds": 28.3
+ }
+}

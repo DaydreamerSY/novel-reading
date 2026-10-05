@@ -1,0 +1,102 @@
+{
+ "number": 28,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi vượt qua nhiều thử thách, nhóm của Aster cuối cùng cũng đến được Sanctum, một nơi chứa đựng những bí mật cổ xưa. Tại đây, họ gặp một bức tượng khổng lồ với giọng nói uy nghiêm, người đã ban cho Aster cơ hội gặp gỡ một vị thần và trao cho anh sức mạnh mới. Tuy nhiên, sự kiện này lại khiến Frondier rơi vào tình trạng kiệt sức và phải đối mặt với những khó khăn mới khi Sybil vẫn còn bị ảnh hưởng bởi độc dược.",
+ "boi_canh": "Bên trong một hang động bí ẩn, tại Sanctum, sau khi nhóm vượt qua dungeon.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Quinie",
+  "Jane",
+  "Slevb",
+  "Baldur"
+ ],
+ "su_kien": [
+  "Nhóm tìm thấy một bức tượng khổng lồ tại Sanctum.",
+  "Bức tượng nói chuyện với Aster và ban cho anh cơ hội gặp gỡ Baldur.",
+  "Aster nhận được sức mạnh từ Baldur.",
+  "Baldur cảnh báo Frondier về mối nguy hiểm.",
+  "Frondier phải mang Sybil ra khỏi dungeon trong tình trạng kiệt sức."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Aster lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier quan sát và lo lắng cho Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Aster quan tâm đến tình trạng của Sybil.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Sybil bị độc và không thể giao tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Jane",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Aster quan sát Jane.",
+   "cach_goi": "gọi tên Jane, thân mật"
+  },
+  {
+   "a": "Jane",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Jane cảm thấy có điều gì đó bất thường.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Aster quan sát Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Quinie quan sát Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bức tượng (Baldur)",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Bức tượng nói chuyện với Aster, ban cho anh cơ hội và sức mạnh.",
+   "cach_goi": "gọi 'adventurer', trang trọng"
+  },
+  {
+   "a": "Baldur",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Cảnh báo Frondier về mối nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của Frondier)"
+ ],
+ "stats": {
+  "tokens": 1067,
+  "seconds": 32.0
+ }
+}

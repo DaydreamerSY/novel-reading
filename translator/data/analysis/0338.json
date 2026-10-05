@@ -1,0 +1,75 @@
+{
+ "number": 338,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier giao nhiệm vụ cho Selena đi đón mẹ là Malia từ dinh thự của gia đình Roach bằng một cổng không gian. Ông cũng yêu cầu Selena sử dụng một con ngựa đặc biệt do Penelope tạo ra và được dẫn dắt bởi Cassian để đảm bảo an toàn. Trong khi đó, Enfer và Sylvain đang thảo luận về việc phòng thủ trước sự tấn công của quái vật sắp tới và có những lo ngại về Frondier.",
+ "boi_canh": "Trong dinh thự, vào thời điểm chuẩn bị đối phó với sự xâm lược của quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Enfer",
+  "Sylvain",
+  "Cassian",
+  "Penelope",
+  "Malia",
+  "Azier"
+ ],
+ "su_kien": [
+  "Selena chấp nhận nhiệm vụ đi đón Malia.",
+  "Frondier mở cổng không gian và yêu cầu Selena mang Malia về.",
+  "Selena được yêu cầu sử dụng ngựa do Penelope tạo ra, dẫn dắt bởi Cassian.",
+  "Enfer và Sylvain thảo luận về việc phòng thủ trước quái vật.",
+  "Enfer bày tỏ lo ngại về Frondier và so sánh cậu với Azier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người ra lệnh, Selena là người thi hành nhiệm vụ.",
+   "cach_goi": "gọi tên Selena, lễ phép"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Selena là người nghe lệnh, Frondier là người ra lệnh.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Enfer là cấp trên, Sylvain là người báo cáo tình hình.",
+   "cach_goi": "gọi tên Sylvain, thân mật"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Sylvain là người báo cáo tình hình, Enfer là cấp trên.",
+   "cach_goi": "gọi tên Enfer, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, người được Selena đi đón.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, được so sánh với cậu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Cassian: Con ngựa đặc biệt do Penelope tạo ra, có liên quan đến những sự kiện trước đó tại Tyburn."
+ ],
+ "stats": {
+  "tokens": 799,
+  "seconds": 23.8
+ }
+}

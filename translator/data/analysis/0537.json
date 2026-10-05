@@ -1,0 +1,79 @@
+{
+ "number": 537,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier (Sybil) thể hiện một kỹ thuật kết hợp ma pháp và hào quang chưa từng có, khiến Cohen kinh ngạc. Các binh lính của Manggot tấn công Sybil nhưng bị tiêu diệt bởi ngọn lửa kỳ lạ từ thanh kiếm của cô. Cohen nhận ra sức mạnh vượt trội của Sybil và chuẩn bị đối đầu với cô, trong khi phân tích điểm yếu trong kỹ năng kiếm thuật của cô.",
+ "boi_canh": "Một chiến trường không xác định, nơi diễn ra một cuộc đối đầu giữa Frondier (Sybil) và Cohen cùng các binh lính Manggot.",
+ "nhan_vat": [
+  "Frondier (Sybil)",
+  "Cohen",
+  "Hector",
+  "Ludwig",
+  "Manggot soldiers"
+ ],
+ "su_kien": [
+  "Sybil thể hiện kỹ thuật kết hợp ma pháp và hào quang, tạo ra ngọn lửa bốc cháy trên thanh kiếm.",
+  "Các binh lính Manggot tấn công Sybil nhưng bị tiêu diệt bởi ngọn lửa từ thanh kiếm của cô.",
+  "Cohen nhận ra sức mạnh vượt trội của Sybil và cảm thấy kinh hãi.",
+  "Cohen cố gắng phân tích điểm yếu trong kỹ năng kiếm thuật của Sybil.",
+  "Sybil phản công bằng một đòn tấn công kết hợp hào quang và ma pháp, tạo ra sấm sét."
+ ],
+ "quan_he": [
+  {
+   "a": "Cohen",
+   "b": "Sybil",
+   "loai": "doi_thu",
+   "mo_ta": "Cohen phải giết Sybil theo lệnh, nhưng bị ấn tượng bởi sức mạnh của cô.",
+   "cach_goi": "gọi tên Sybil, lạnh lùng"
+  },
+  {
+   "a": "Sybil",
+   "b": "Cohen",
+   "loai": "doi_thu",
+   "mo_ta": "Sybil thách thức Cohen và chuẩn bị đối đầu với anh.",
+   "cach_goi": "gọi tên Cohen, lạnh lùng"
+  },
+  {
+   "a": "Manggot soldiers",
+   "b": "Cohen",
+   "loai": "cap_tren",
+   "mo_ta": "Các binh lính Manggot tuân lệnh Cohen, nhưng không hiểu rõ sức mạnh của Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cohen",
+   "b": "Manggot soldiers",
+   "loai": "cap_tren",
+   "mo_ta": "Cohen ra lệnh cho các binh lính Manggot tấn công Sybil.",
+   "cach_goi": "gọi 'Lord', lễ phép"
+  },
+  {
+   "a": "Manggot soldiers",
+   "b": "Sybil",
+   "loai": "doi_thu",
+   "mo_ta": "Các binh lính Manggot tấn công Sybil, nhưng bị tiêu diệt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Cohen",
+   "loai": "doi_thu",
+   "mo_ta": "Sybil thách thức Cohen bằng hành động và lời nói.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cohen",
+   "b": "Hector",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ được nhắc đến trong ngữ cảnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hector Von Urfa (tên thật của Hector)"
+ ],
+ "stats": {
+  "tokens": 883,
+  "seconds": 27.3
+ }
+}

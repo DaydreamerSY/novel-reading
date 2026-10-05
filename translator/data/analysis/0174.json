@@ -1,0 +1,72 @@
+{
+ "number": 174,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở ra ngày thứ năm được chờ đợi, ngày Sybil hoàn thành huấn luyện tiêm mana và có thể tạm thời sửa chữa rào cản. Người canh gác Hugo phát hiện một đàn quái vật lớn chưa từng thấy trước đây, kích động chuông báo động. Các hiệp sĩ đã sẵn sàng chiến đấu, Aten và Sybil quan sát tình hình. Sanders nhận ra điều bất thường: người đứng ở vị trí của Frondier không phải là Frondier thật mà là một người thay thế, khiến ông kinh hoàng.",
+ "boi_canh": "Buổi sáng ngày thứ năm tại Tyburn, chuẩn bị cho việc sửa chữa rào cản.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Sybil",
+  "Sanders",
+  "Hugo"
+ ],
+ "su_kien": [
+  "Hugo phát hiện đàn quái vật lớn và rung chuông báo động.",
+  "Các hiệp sĩ nhanh chóng triển khai để đối phó với cuộc tấn công.",
+  "Aten và Sybil đến quan sát tình hình.",
+  "Sanders nhận ra người thay thế Frondier.",
+  "Sanders nghi ngờ Frondier đã bỏ trốn."
+ ],
+ "quan_he": [
+  {
+   "a": "Hugo",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Người canh gác và người được canh gác, Hugo quan sát Frondier từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Chỉ huy và công chúa, Sanders ra lệnh cho Aten để đảm bảo an toàn.",
+   "cach_goi": "gọi 'Commander', lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Sanders",
+   "loai": "cap_tren",
+   "mo_ta": "Công chúa và chỉ huy, Aten tuân theo mệnh lệnh của Sanders.",
+   "cach_goi": "gọi 'Commander', lễ phép"
+  },
+  {
+   "a": "Sanders",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Sanders quan tâm đến sự an toàn của Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Sanders",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Sybil không phản hồi lời khuyên của Sanders.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Sanders quan sát Frondier, cảm thấy sự tin tưởng và sau đó nhận ra sự bất thường.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Người thay thế Frondier: Một người đóng vai Frondier để che giấu sự thật."
+ ],
+ "stats": {
+  "tokens": 796,
+  "seconds": 23.8
+ }
+}

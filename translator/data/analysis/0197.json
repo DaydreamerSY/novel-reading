@@ -1,0 +1,87 @@
+{
+ "number": 197,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Mở đầu học kỳ thứ hai của Constel, tin đồn xoay quanh các học sinh nổi tiếng lan truyền nhanh chóng, đặc biệt là về Aster Evans và Elodie. Frondier gặp lại Aster, người đã có những tiến bộ đáng kể trong kỹ năng sử dụng Aura. Một cô gái tên Selena xuất hiện bên cạnh Frondier, được giới thiệu là tùy tùng của anh, gây ra thêm nhiều đồn đoán. Cuối cùng, Selena được phân vào lớp 2, nơi tập trung các nhân vật quan trọng.",
+ "boi_canh": "Sân trường Constel, đầu học kỳ thứ hai.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Ellen",
+  "Jane",
+  "Eden",
+  "Frondier de Roach",
+  "Aster Evans",
+  "Eden Hamelot"
+ ],
+ "su_kien": [
+  "Học kỳ thứ hai của Constel bắt đầu.",
+  "Tin đồn về Aster Evans luyện tập với Eden Hamelot và Ellen lan truyền.",
+  "Tin đồn về Elodie kết hợp thành công ba nguyên tố xuất hiện.",
+  "Selena được giới thiệu là tùy tùng của Frondier.",
+  "Selena được phân vào lớp 2."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, có vẻ như Aster biết nhiều về những tin đồn xung quanh Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier tò mò về những tin đồn xung quanh Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier tò mò về sự xuất hiện của cô.",
+   "cach_goi": "gọi tên Selena, lịch sự"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Selena có vẻ bối rối về việc được phân vào lớp khác.",
+   "cach_goi": "gọi tên Frondier, lịch sự"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hiệu trưởng, quan sát Frondier với ánh mắt lạnh lùng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Hiệu trưởng, quan sát Selena với ánh mắt lạnh lùng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, Aten được biết đến là người có thể tự do chọn lớp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của Frondier)",
+  "Aster Evans (Tên đầy đủ của Aster)",
+  "Eden Hamelot (Tên đầy đủ của Eden)"
+ ],
+ "stats": {
+  "tokens": 931,
+  "seconds": 27.9
+ }
+}

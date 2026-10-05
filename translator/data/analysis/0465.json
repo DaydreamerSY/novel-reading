@@ -1,0 +1,69 @@
+{
+ "number": 465,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bí mật triệu tập Hoàng hậu Philly để báo cáo về tình hình nguy hiểm liên quan đến 'Trái Tim Rồng' và Đơn vị Bóng tối (Shadow Unit). Họ cùng nhau xuống hầm lâu đài, nơi Frondier tiết lộ rằng lũ quỷ xâm nhập vào lãnh thổ không phải do chúng chọn thời điểm mà là vì có ai đó đã mở cửa cho chúng - ám chỉ một thỏa thuận giữa Đơn vị Bóng tối và lũ quỷ.",
+ "boi_canh": "Trong hầm lâu đài, Frondier và Philly đang thảo luận về mối nguy hiểm tiềm ẩn.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Aten Terst",
+  "Azier",
+  "Enfer",
+  "Ludovic",
+  "Angus",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Frondier triệu tập Philly để báo cáo về 'Trái Tim Rồng' và Đơn vị Bóng tối.",
+  "Philly bảo vệ Frondier trước Ludovic.",
+  "Frondier và Philly xuống hầm lâu đài bằng một con đường bí mật.",
+  "Frondier ám chỉ rằng Đơn vị Bóng tối có thể đã thỏa thuận với lũ quỷ.",
+  "Philly nhận ra mối liên hệ giữa Đơn vị Bóng tối và việc lũ quỷ xâm nhập."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier báo cáo tình hình cho Hoàng hậu, thể hiện sự tôn trọng.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu bảo vệ và tin tưởng Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Philly",
+   "loai": "nguoi_la",
+   "mo_ta": "Ludovic lo lắng và bị Philly phớt lờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người thảo luận về tình hình nguy hiểm.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Hoàng hậu đặt câu hỏi và thảo luận với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Trái Tim Rồng (Dragon Heart): Một vật quan trọng, bí mật trong lâu đài.",
+  "Đơn vị Bóng tối (Shadow Unit): Một tổ chức có mục đích và động cơ riêng biệt."
+ ],
+ "stats": {
+  "tokens": 773,
+  "seconds": 23.1
+ }
+}

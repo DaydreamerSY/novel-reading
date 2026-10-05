@@ -1,0 +1,77 @@
+{
+ "number": 188,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhớ lại những sự kiện kỳ lạ liên quan đến Frondier, Sybil và Aten tiếp tục theo dõi tình hình tại rào chắn. Bất ngờ, một bóng người giống Frondier xuất hiện trên bầu trời, cưỡi Cassian và sử dụng Mjölnir để bay tới. Frondier sau đó tung Excalibur xuống đất, gây ra một vụ nổ hủy diệt.",
+ "boi_canh": "Bên trong rào chắn, giữa các chiến binh và tù nhân đang chờ đợi tin tức từ bên ngoài.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aten",
+  "Sybil",
+  "Ludwig",
+  "Cassian",
+  "Arthur",
+  "Penelope",
+  "Ludwig Urfa"
+ ],
+ "su_kien": [
+  "Sybil và Aten nhớ lại những sự kiện kỳ lạ liên quan đến Frondier.",
+  "Một bóng người giống Frondier xuất hiện trên bầu trời, cưỡi Cassian.",
+  "Frondier sử dụng Mjölnir để bay tới rào chắn.",
+  "Frondier tung Excalibur xuống đất.",
+  "Excalibur gây ra một vụ nổ hủy diệt."
+ ],
+ "quan_he": [
+  {
+   "a": "Sybil",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Hai người quan sát tình hình cùng nhau.",
+   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Hai người quan sát tình hình cùng nhau.",
+   "cach_goi": "gọi tên Sybil, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Quan sát Frondier từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Quan sát Frondier từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena đứng sau Frondier, không giao tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Ludwig quan sát Frondier từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mjölnir: Búa phép của Frondier.",
+  "Excalibur: Thanh kiếm huyền thoại, được Frondier sử dụng."
+ ],
+ "stats": {
+  "tokens": 774,
+  "seconds": 23.2
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "number": 102,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi kết thúc lớp học, Frondier gặp lại Aster và Ellen ở phòng tập luyện. Anh nhận thấy Aten Terst và Lunia Fricell đang tập luyện trong phòng tập công cộng và nghe được những lời bàn tán về họ. Sau đó, Frondier sử dụng khả năng 'Modification' mới của mình để loại bỏ giới hạn 'Chỉ dành cho nữ' trên cây cung Khryselakatos và vô tình phá vỡ kỷ lục bắn tên khó nhất của học viên Constel, thu hút sự chú ý từ bên ngoài.",
+ "boi_canh": "Phòng tập luyện của trường Constel sau giờ học.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Aten Terst",
+  "Ellen",
+  "Lunia Fricell",
+  "Artemis",
+  "Khryselakatos"
+ ],
+ "su_kien": [
+  "Frondier gặp lại Aster và Ellen ở phòng tập luyện.",
+  "Frondier nhìn thấy Aten Terst và Lunia Fricell đang tập luyện trong phòng tập công cộng.",
+  "Frondier sử dụng khả năng 'Modification' để loại bỏ giới hạn 'Chỉ dành cho nữ' trên Khryselakatos.",
+  "Frondier phá kỷ lục bắn tên khó nhất của học viên Constel.",
+  "Kỷ lục mới được thông báo công khai, thu hút sự chú ý từ bên ngoài."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier tò mò về những gì Aster biết.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster có vẻ lạc quan và tốt bụng.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Ellen chỉ vẫy tay chào.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Ellen",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh chị em ruột thịt.",
+   "cach_goi": "gọi tên Ellen, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Frondier quan sát Aten từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lunia Fricell",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Frondier quan sát Lunia từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Lunia Fricell",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster có vẻ quan tâm đến Lunia.",
+   "cach_goi": "gọi tên Lunia, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Khryselakatos: Cây cung được Hephaestus tạo ra và trao cho Artemis, ban đầu chỉ dành cho nữ.",
+  "Aten Terst: Tam công chúa (không được đề cập trực tiếp trong chương này)."
+ ],
+ "stats": {
+  "tokens": 926,
+  "seconds": 28.7
+ }
+}

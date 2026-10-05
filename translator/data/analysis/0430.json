@@ -1,0 +1,99 @@
+{
+ "number": 430,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau vài ngày, một nhóm người sói hai chân xuất hiện tại một tòa nhà bỏ hoang trên lục địa trung tâm. Họ bị phục kích và tiêu diệt bởi các Pros do Eden dẫn đầu. Sau đó, có những thảo luận về vai trò của Frondier trong chiến dịch và sự lo lắng của Eden khi nhắc đến tên cậu. Cuối cùng là bữa tối gia đình Roach để chúc mừng lần đầu tiên Frondier trở thành một Pro, nơi Selena cảm thấy ngượng ngùng vì bầu không khí im lặng.",
+ "boi_canh": "Một tòa nhà bỏ hoang trên lục địa trung tâm vào giữa trưa.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Azier",
+  "Malia",
+  "Eden",
+  "Pros"
+ ],
+ "su_kien": [
+  "Người sói hai chân xuất hiện tại một tòa nhà bỏ hoang.",
+  "Các Pros phục kích và tiêu diệt người sói.",
+  "Eden ca ngợi vai trò của Frondier trong chiến dịch.",
+  "Eden thể hiện sự lo lắng khi nhắc đến tên Frondier.",
+  "Gia đình Roach có bữa tối để chúc mừng Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Người bảo vệ của Frondier, có vẻ bối rối và lo lắng.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người bảo vệ của Frondier, có vẻ bối rối và lo lắng.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Eden",
+   "b": "Pros",
+   "loai": "cap_tren",
+   "mo_ta": "Eden là người lãnh đạo, Pros là đồng nghiệp.",
+   "cach_goi": "gọi 'Mr.', lễ phép"
+  },
+  {
+   "a": "Pros",
+   "b": "Eden",
+   "loai": "cap_tren",
+   "mo_ta": "Pros là đồng nghiệp, Eden là người lãnh đạo.",
+   "cach_goi": "gọi 'Mr.', lễ phép"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Em trai của Azier.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai của Malia.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Malia",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1021,
+  "seconds": 30.5
+ }
+}

@@ -1,0 +1,433 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Glossary Editor</title>
+<style>
+:root {
+  --bg: #f5f6f8; --panel: #ffffff; --text: #1c2230; --muted: #687187; --line: #e2e5eb; --line2: #eef0f4;
+  --accent: #2c66d6; --accent-soft: #e9f0fd; --warn: #a85400; --warn-soft: #fff0dc;
+  --ok: #1d7f47; --ok-soft: #e5f4eb; --hit: #fff5bf; --input: #ffffff; --bad: #c62f2f;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1216; --panel: #171b21; --text: #e5e8ee; --muted: #949db0; --line: #2a303a; --line2: #20252d;
+    --accent: #79a5ff; --accent-soft: #1b2741; --warn: #ffb35e; --warn-soft: #3a2914;
+    --ok: #62d394; --ok-soft: #15301f; --hit: #3a3413; --input: #11151a; --bad: #ff7a7a;
+  }
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+button, input, select { font: inherit; color: inherit; }
+input, select { background: var(--input); border: 1px solid var(--line); border-radius: 6px; padding: 5px 7px; min-width: 0; }
+input:focus, select:focus { outline: 2px solid var(--accent); outline-offset: -1px; border-color: transparent; }
+button { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 5px 10px; cursor: pointer; }
+button:hover { border-color: var(--accent); }
+button.primary { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+.muted { color: var(--muted); }
+
+header.top { position: sticky; top: 0; z-index: 10; background: var(--panel); border-bottom: 1px solid var(--line); }
+.bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; padding: 10px 16px; }
+.bar + .bar { border-top: 1px solid var(--line2); padding-top: 8px; }
+h1 { font-size: 16px; margin: 0 8px 0 0; }
+.tabs { display: flex; gap: 4px; }
+.tabs button { border-radius: 999px; }
+.tabs button.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); font-weight: 600; }
+.spacer { flex: 1; }
+#status { font-size: 13px; color: var(--muted); }
+#status.dirty { color: var(--warn); } #status.ok { color: var(--ok); } #status.err { color: var(--bad); }
+#q { width: 260px; max-width: 100%; }
+label.tg { display: inline-flex; align-items: center; gap: 5px; font-size: 13px; color: var(--muted); cursor: pointer; }
+#stats { font-size: 13px; color: var(--muted); }
+
+main { padding: 12px 16px 80px; max-width: 1500px; margin: 0 auto; }
+.intro { font-size: 13px; color: var(--muted); margin: 0 0 12px; }
+.addform { display: none; gap: 8px; flex-wrap: wrap; align-items: center; background: var(--panel); border: 1px solid var(--line);
+  border-radius: 10px; padding: 10px 12px; margin-bottom: 12px; }
+.addform.show { display: flex; }
+
+.group { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; margin-bottom: 12px; overflow: hidden; }
+.group.done { border-color: var(--ok); }
+.ghead { display: flex; align-items: center; gap: 8px; padding: 8px 12px; background: var(--line2); flex-wrap: wrap; }
+.ghead .caret { border: 0; background: none; padding: 0 4px; font-size: 13px; color: var(--muted); }
+.glabel { font-weight: 650; }
+.gmeta { font-size: 12px; color: var(--muted); }
+.badge { font-size: 11px; padding: 1px 8px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); }
+.badge.dup { background: var(--warn-soft); color: var(--warn); }
+.badge.junk { background: var(--line); color: var(--muted); }
+.ghead button { font-size: 12px; padding: 3px 9px; }
+.hint { margin: 0; padding: 8px 12px 0; font-size: 12.5px; color: var(--muted); }
+
+.row { display: grid; align-items: start; gap: 8px; padding: 7px 12px; border-top: 1px solid var(--line2);
+  grid-template-columns: 22px minmax(170px, 1.15fr) 112px minmax(140px, 1.2fr) 82px 92px minmax(150px, 1.5fr) 30px; }
+.row:first-child { border-top: 0; }
+.row.off > :not(.inc):not(.rev) { opacity: .45; }
+.row.ok { background: var(--ok-soft); }
+.row.hit .nm { background: var(--hit); border-radius: 4px; }
+.row .inc { margin-top: 7px; width: 16px; height: 16px; }
+.name { min-width: 0; }
+.nm { font-weight: 600; overflow-wrap: anywhere; display: inline; padding: 0 2px; }
+.meta, .mota { font-size: 12px; color: var(--muted); }
+.mota { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-style: italic; }
+.chip { display: inline-block; font-size: 11px; font-weight: 500; margin-left: 6px; padding: 0 6px; border-radius: 999px;
+  background: var(--line2); color: var(--muted); vertical-align: 1px; }
+.chip.warn { background: var(--warn-soft); color: var(--warn); }
+.chip.new { background: var(--accent-soft); color: var(--accent); }
+.rev { padding: 3px 0; width: 30px; color: var(--muted); }
+.row.ok .rev { color: var(--ok); border-color: var(--ok); font-weight: 700; }
+.empty { color: var(--muted); padding: 40px; text-align: center; }
+
+#rulesTab { display: grid; grid-template-columns: minmax(0, 1.6fr) minmax(280px, 1fr); gap: 16px; align-items: start; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px; }
+.card h2 { font-size: 14px; margin: 0 0 4px; }
+table { border-collapse: collapse; width: 100%; }
+th { text-align: left; font-size: 12px; color: var(--muted); font-weight: 600; padding: 6px 4px; }
+td { padding: 3px 4px; }
+td input { width: 100%; }
+tr.bad input { border-color: var(--warn); }
+tr.badrange input[data-f="range"] { border-color: var(--bad); }
+#pairs { list-style: none; margin: 8px 0 0; padding: 0; max-height: 70vh; overflow: auto; }
+#pairs li { padding: 7px 0; border-top: 1px solid var(--line2); }
+#pairs .pbtns { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 4px; }
+#pairs button { font-size: 12px; padding: 2px 8px; }
+#pairs .done { font-size: 12px; color: var(--ok); }
+
+@media (max-width: 900px) {
+  .row { grid-template-columns: 22px 1fr 1fr; }
+  .row .name { grid-column: 2 / 4; }
+  .row > :nth-child(n+3) { grid-column: auto; }
+  #rulesTab { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="bar">
+    <h1>Glossary</h1>
+    <div class="tabs">
+      <button id="tabTerms" class="on">Thuật ngữ</button>
+      <button id="tabRules">Xưng hô</button>
+    </div>
+    <span class="spacer"></span>
+    <span id="status">Đang tải…</span>
+    <button id="save" class="primary" title="Ctrl+S">Lưu</button>
+  </div>
+  <div class="bar" id="filters">
+    <input id="q" type="search" placeholder="Tìm tên, bản dịch, ghi chú…">
+    <select id="sec"><option value="">Tất cả loại</option></select>
+    <label class="tg"><input type="checkbox" id="fDup"> chỉ nhóm cần gộp</label>
+    <label class="tg"><input type="checkbox" id="fFlag"> chỉ mục ⚠ / mới</label>
+    <label class="tg"><input type="checkbox" id="fRev"> ẩn mục đã duyệt</label>
+    <label class="tg"><input type="checkbox" id="fOff"> ẩn mục không dùng</label>
+    <span class="spacer"></span>
+    <span id="stats"></span>
+    <button id="addBtn">+ Thêm mục</button>
+  </div>
+</header>
+
+<main>
+  <section id="termsTab">
+    <p class="intro">Ô tick bên trái = mục được ghi vào glossary.yaml. Nhóm <b>có thể trùng</b> gom các cách viết khác nhau của
+      cùng một thứ: giữ mục chính, sửa các mục còn lại cho thống nhất (vd <i>Empire → Đế quốc</i>, <i>Terst Empire → Đế quốc Terst</i>)
+      hoặc bỏ tick. Nút ✓ đánh dấu đã duyệt. Lưu bằng Ctrl+S.</p>
+    <div class="addform" id="addForm">
+      <input id="newName" placeholder="Tên gốc (tiếng Anh)">
+      <select id="newSec"></select>
+      <input id="newVi" placeholder="Bản dịch">
+      <button id="newOk" class="primary">Thêm</button>
+      <button id="newCancel">Huỷ</button>
+    </div>
+    <div id="list"></div>
+  </section>
+
+  <section id="rulesTab" hidden>
+    <div class="card">
+      <h2>Quy tắc xưng hô</h2>
+      <p class="intro">"Người nói" xưng mình là <b>tự xưng</b> và gọi "người nghe" là <b>gọi</b>. Đây là cách xưng hô <b>mặc định</b>:
+        model được đổi khi cảnh thật sự cần (riêng tư, gọi biệt danh, giận dữ, nơi trang trọng). Cặp nào quá thất thường thì
+        có thể không đặt quy tắc, để model tự chọn theo ghi chú nhân vật. Cột chương để trống = mọi chương;
+        quan hệ thay đổi thì thêm dòng mới cho cùng cặp với khoảng chương khác, vd <i>1-150</i> rồi <i>151-</i>.
+        Dòng chưa điền đủ được giữ lại nhưng chưa dùng khi dịch.</p>
+      <table>
+        <thead><tr><th>Người nói</th><th>Người nghe</th><th style="width:96px">Chương</th>
+          <th style="width:96px">Tự xưng</th><th style="width:96px">Gọi</th><th style="width:36px"></th></tr></thead>
+        <tbody id="rules"></tbody>
+      </table>
+      <p><button id="addRule">+ Thêm quy tắc</button></p>
+    </div>
+    <div class="card">
+      <h2>Cặp nhân vật hay đối thoại</h2>
+      <p class="intro">Từ <code>python novel.py terms</code>, nhiều cảnh chung nhất trước. Bấm để thêm quy tắc cho chiều đó.</p>
+      <ul id="pairs"></ul>
+    </div>
+  </section>
+  <datalist id="chars"></datalist>
+</main>
+
+<script>
+const S = { items: [], groups: [], rules: [], pairs: [], sections: [], reviewed: new Set(), collapsed: new Set(), dirty: false };
+const F = { q: "", sec: "", dup: false, flag: false, rev: false, off: false };
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fold = s => String(s ?? "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d");
+const secLabel = k => (S.sections.find(s => s[0] === k) || [k, k])[1];
+const flagged = it => (it.warn || "").startsWith("⚠") || it.new;
+const RANGE = /^\s*(\d*)\s*(-?)\s*(\d*)\s*$/;
+
+function setStatus(text, cls = "") { const el = $("status"); el.textContent = text; el.className = cls; }
+function dirty() { S.dirty = true; setStatus("Chưa lưu", "dirty"); }
+
+async function init() {
+  try {
+    const d = await (await fetch("/api/data")).json();
+    Object.assign(S, { items: d.items, groups: d.groups, rules: d.rules, pairs: d.pairs, sections: d.sections });
+    S.reviewed = new Set(d.reviewed || []);
+    const opts = S.sections.map(([k, l]) => `<option value="${k}">${esc(l)}</option>`).join("");
+    $("sec").insertAdjacentHTML("beforeend", opts);
+    $("newSec").innerHTML = opts;
+    setStatus(d.chapters ? `${S.items.length} mục từ ${d.chapters} chương` : `${S.items.length} mục`);
+    render(); renderRules(); stats();
+  } catch (err) {
+    setStatus("Không tải được dữ liệu: " + err.message, "err");
+  }
+}
+
+// ---------------------------------------------------------------- terms
+function matches(it) {
+  if (!F.q) return true;
+  const q = fold(F.q);
+  return [it.name, it.vi, it.ghichu, it.mota].some(v => fold(v).includes(q));
+}
+function passes(it) { return matches(it) && (!F.sec || it.section === F.sec) && (!F.flag || flagged(it)); }
+function shown(it) { return !(F.off && !it.included) && !(F.rev && S.reviewed.has(it.name)); }
+
+function rowHTML(i) {
+  const it = S.items[i];
+  const person = it.section === "nhan_vat";
+  const cls = ["row", it.included ? "" : "off", S.reviewed.has(it.name) ? "ok" : "", F.q && matches(it) ? "hit" : ""].join(" ");
+  const meta = [it.count ? `${it.count} lần` : "thêm tay", it.first ? `ch${it.first}–${it.last}` : "",
+                person && (it.he || it.she) ? `he ${it.he} · she ${it.she}` : ""].filter(Boolean).join(" · ");
+  const chips = [
+    (it.warn || "").startsWith("⚠") ? `<span class="chip warn" title="${esc(it.warn)}">⚠ giới tính</span>` : "",
+    it.new ? `<span class="chip new">mới</span>` : "",
+    it.suggest && it.suggest !== it.section && it.suggest !== "chua_phan_loai"
+      ? `<span class="chip" title="Model phân loại là">model: ${esc(secLabel(it.suggest))}</span>` : "",
+  ].join("");
+  const showMota = it.mota && it.mota !== it.ghichu && it.mota !== "kính ngữ" && it.mota !== "chức danh";
+  const mota = showMota ? `<div class="mota" title="Mô tả của model: ${esc(it.mota)}">${esc(it.mota)}</div>` : "";
+  const secOpts = S.sections.map(([k, l]) => `<option value="${k}"${k === it.section ? " selected" : ""}>${esc(l)}</option>`).join("");
+  const personCells = person
+    ? `<select data-f="gioitinh" title="Giới tính"><option value="">giới tính?</option>
+         <option value="nam"${it.gioitinh === "nam" ? " selected" : ""}>nam</option>
+         <option value="nữ"${it.gioitinh === "nữ" ? " selected" : ""}>nữ</option></select>
+       <input data-f="ngoi3" value="${esc(it.ngoi3)}" placeholder="ngôi 3" title="Cách gọi ở ngôi thứ 3: cậu ta, cô ấy, hắn…">`
+    : `<span></span><span></span>`;
+  return `<div class="${cls}" data-i="${i}">
+    <input type="checkbox" class="inc"${it.included ? " checked" : ""} title="Dùng mục này">
+    <div class="name"><span class="nm">${esc(it.name)}</span>${chips}<div class="meta">${esc(meta)}</div>${mota}</div>
+    <select data-f="section" title="Loại">${secOpts}</select>
+    <input data-f="vi" value="${esc(it.vi)}" placeholder="bản dịch">
+    ${personCells}
+    <input data-f="ghichu" value="${esc(it.ghichu)}" placeholder="ghi chú" title="${esc(it.ghichu)}">
+    <button class="rev" title="Đánh dấu đã duyệt">✓</button>
+  </div>`;
+}
+
+const BADGE = { title: ["kính ngữ & chức danh", "title"], dup: ["có thể trùng", "dup"], junk: ["bị loại", "junk"], manual: ["thêm tay", ""] };
+function groupHTML(g) {
+  const members = g.members.map(i => S.items[i]);
+  if (F.dup && !(g.kind === "dup" || g.kind === "title")) return "";
+  if (!members.some(passes)) return "";
+  // a group of variants is shown whole, so the other spellings stay visible while filtering
+  const rows = g.members.filter(i => shown(S.items[i]) && (g.kind === "dup" || passes(S.items[i])));
+  if (!rows.length) return "";
+  const total = members.reduce((s, it) => s + (it.count || 0), 0);
+  const done = members.every(it => S.reviewed.has(it.name));
+  const closed = S.collapsed.has(g.id);
+  const [badge, bcls] = BADGE[g.kind] || ["", ""];
+  const hint = g.kind === "title" && !closed
+    ? `<p class="hint">Gửi kèm khi dịch như hướng dẫn cách gọi. Tên đứng cạnh (<i>Senior Ellen</i>, <i>Frondier-nim</i>) vẫn dịch theo mục của tên đó.
+       Kính ngữ có thể ghi nhiều cách, vd <i>ngài / anh / chị (tùy quan hệ)</i>.</p>` : "";
+  return `<section class="group ${g.kind}${done ? " done" : ""}" data-g="${g.id}">
+    <div class="ghead">
+      <button class="caret" data-act="toggle" title="Thu gọn / mở">${closed ? "▸" : "▾"}</button>
+      <span class="glabel">${esc(g.label)}</span>
+      <span class="gmeta">${members.length} mục · ${total} lần</span>
+      ${badge ? `<span class="badge ${bcls}">${badge}</span>` : ""}
+      <span class="spacer"></span>
+      ${g.kind === "dup" ? `<button data-act="keep" title="Bỏ tick mọi mục trừ mục đầu (xuất hiện nhiều nhất)">Chỉ giữ mục đầu</button>` : ""}
+      <button data-act="review">${done ? "Bỏ duyệt" : "✓ Duyệt cả nhóm"}</button>
+    </div>${hint}
+    ${closed ? "" : `<div class="rows">${rows.map(rowHTML).join("")}</div>`}
+  </section>`;
+}
+
+function render() {
+  const html = S.groups.map(groupHTML).join("");
+  $("list").innerHTML = html || `<p class="empty">Không có mục nào khớp bộ lọc.</p>`;
+}
+function rerenderGroup(el) {
+  const g = S.groups.find(g => g.id === el.dataset.g);
+  const html = groupHTML(g);
+  if (html) el.outerHTML = html; else el.remove();
+}
+function stats() {
+  const used = S.items.filter(it => it.included).length;
+  const rev = S.items.filter(it => S.reviewed.has(it.name)).length;
+  $("stats").textContent = `Dùng ${used}/${S.items.length} · đã duyệt ${rev}/${S.items.length}`;
+  const chars = S.items.filter(it => it.included && it.section === "nhan_vat").sort((a, b) => b.count - a.count);
+  $("chars").innerHTML = chars.map(it => `<option value="${esc(it.name)}">`).join("");
+}
+
+$("list").addEventListener("input", e => {
+  const row = e.target.closest(".row"), f = e.target.dataset.f;
+  if (!row || !f || e.target.tagName === "SELECT") return;
+  S.items[row.dataset.i][f] = e.target.value;
+  dirty();
+});
+$("list").addEventListener("change", e => {
+  const row = e.target.closest(".row");
+  if (!row) return;
+  const i = +row.dataset.i, it = S.items[i];
+  if (e.target.classList.contains("inc")) {
+    it.included = e.target.checked;
+    row.classList.toggle("off", !it.included);
+  } else if (e.target.tagName === "SELECT") {
+    it[e.target.dataset.f] = e.target.value;
+    if (e.target.dataset.f === "section") row.outerHTML = rowHTML(i);  // shows/hides gender and ngôi 3
+  }
+  dirty(); stats();
+});
+$("list").addEventListener("click", e => {
+  const b = e.target.closest("button");
+  if (!b) return;
+  const el = b.closest(".group");
+  if (b.classList.contains("rev")) {
+    const it = S.items[b.closest(".row").dataset.i];
+    S.reviewed.has(it.name) ? S.reviewed.delete(it.name) : S.reviewed.add(it.name);
+    dirty(); stats(); rerenderGroup(el);
+    return;
+  }
+  const g = S.groups.find(g => g.id === el.dataset.g);
+  if (b.dataset.act === "toggle") {
+    S.collapsed.has(g.id) ? S.collapsed.delete(g.id) : S.collapsed.add(g.id);
+  } else if (b.dataset.act === "keep") {
+    g.members.forEach((i, k) => { S.items[i].included = k === 0; });
+    dirty(); stats();
+  } else if (b.dataset.act === "review") {
+    const names = g.members.map(i => S.items[i].name);
+    const all = names.every(n => S.reviewed.has(n));
+    names.forEach(n => all ? S.reviewed.delete(n) : S.reviewed.add(n));
+    dirty(); stats();
+  }
+  rerenderGroup(el);
+});
+
+let qTimer;
+$("q").addEventListener("input", e => { clearTimeout(qTimer); qTimer = setTimeout(() => { F.q = e.target.value.trim(); render(); }, 150); });
+$("sec").addEventListener("change", e => { F.sec = e.target.value; render(); });
+[["fDup", "dup"], ["fFlag", "flag"], ["fRev", "rev"], ["fOff", "off"]].forEach(([id, k]) =>
+  $(id).addEventListener("change", e => { F[k] = e.target.checked; render(); }));
+
+$("addBtn").addEventListener("click", () => { $("addForm").classList.add("show"); $("newName").focus(); });
+$("newCancel").addEventListener("click", () => $("addForm").classList.remove("show"));
+$("newOk").addEventListener("click", () => {
+  const name = $("newName").value.trim();
+  if (!name) return $("newName").focus();
+  if (S.items.some(it => it.name === name)) { setStatus(`"${name}" đã có trong danh sách`, "err"); return; }
+  const i = S.items.push({ name, section: $("newSec").value, vi: $("newVi").value.trim(), gioitinh: "", ngoi3: "", ghichu: "",
+    count: 0, first: 0, last: 0, he: 0, she: 0, mota: "", warn: "", suggest: "", included: true, new: true }) - 1;
+  let g = S.groups.find(g => g.kind === "manual");
+  if (!g) { g = { id: "manual", kind: "manual", label: "Mục thêm tay", members: [] }; S.groups.unshift(g); }
+  g.members.unshift(i);
+  $("newName").value = $("newVi").value = "";
+  $("addForm").classList.remove("show");
+  dirty(); stats(); render();
+});
+
+// ---------------------------------------------------------------- xưng hô
+function ruleOk(r) { return r.speaker && r.listener && r.self && r.addr; }
+function rangeOk(r) { const m = RANGE.exec(r.range || ""); return !r.range || (m && (m[1] || m[3])); }
+function renderRules() {
+  $("rules").innerHTML = S.rules.map((r, k) => `
+    <tr data-k="${k}" class="${ruleOk(r) ? "" : "bad"} ${rangeOk(r) ? "" : "badrange"}">
+      <td><input data-f="speaker" list="chars" value="${esc(r.speaker)}" placeholder="người nói"></td>
+      <td><input data-f="listener" list="chars" value="${esc(r.listener)}" placeholder="người nghe"></td>
+      <td><input data-f="range" value="${esc(r.range)}" placeholder="mọi chương"></td>
+      <td><input data-f="self" value="${esc(r.self)}" placeholder="vd: tôi"></td>
+      <td><input data-f="addr" value="${esc(r.addr)}" placeholder="vd: cậu"></td>
+      <td><button data-act="del" title="Xoá">✕</button></td>
+    </tr>`).join("") || `<tr><td colspan="6" class="muted">Chưa có quy tắc nào.</td></tr>`;
+  renderPairs();
+}
+function renderPairs() {
+  const has = (a, b) => S.rules.some(r => r.speaker === a && r.listener === b);
+  const btn = (a, b) => has(a, b) ? `<span class="done">✓ ${esc(a)} → ${esc(b)}</span>`
+    : `<button data-a="${esc(a)}" data-b="${esc(b)}">+ ${esc(a)} → ${esc(b)}</button>`;
+  $("pairs").innerHTML = S.pairs.map(p => `<li><b>${esc(p.a)}</b> ↔ <b>${esc(p.b)}</b>
+      <span class="muted">· ${p.count} cảnh · từ ch${p.first}</span>
+      <div class="pbtns">${btn(p.a, p.b)}${btn(p.b, p.a)}</div></li>`).join("")
+    || `<li class="muted">Chưa có gợi ý, hãy chạy python novel.py terms.</li>`;
+}
+function addRule(speaker = "", listener = "") {
+  S.rules.push({ speaker, listener, range: "", self: "", addr: "" });
+  dirty(); renderRules();
+  const row = $("rules").lastElementChild;
+  row.querySelector(speaker ? '[data-f="self"]' : '[data-f="speaker"]').focus();
+}
+$("rules").addEventListener("input", e => {
+  const tr = e.target.closest("tr"), f = e.target.dataset.f;
+  if (!tr || !f) return;
+  const r = S.rules[tr.dataset.k];
+  r[f] = e.target.value.trim();
+  tr.classList.toggle("bad", !ruleOk(r));
+  tr.classList.toggle("badrange", !rangeOk(r));
+  dirty();
+});
+$("rules").addEventListener("change", () => renderPairs());
+$("rules").addEventListener("click", e => {
+  if (e.target.dataset.act !== "del") return;
+  S.rules.splice(+e.target.closest("tr").dataset.k, 1);
+  dirty(); renderRules();
+});
+$("addRule").addEventListener("click", () => addRule());
+$("pairs").addEventListener("click", e => { const b = e.target.closest("button"); if (b) addRule(b.dataset.a, b.dataset.b); });
+
+// ---------------------------------------------------------------- tabs, save
+function showTab(rules) {
+  $("termsTab").hidden = rules; $("rulesTab").hidden = !rules; $("filters").hidden = rules;
+  $("tabTerms").classList.toggle("on", !rules); $("tabRules").classList.toggle("on", rules);
+}
+$("tabTerms").addEventListener("click", () => showTab(false));
+$("tabRules").addEventListener("click", () => showTab(true));
+
+async function save() {
+  setStatus("Đang lưu…");
+  const items = S.items.map(({ name, section, vi, gioitinh, ngoi3, ghichu, included, count }) =>
+    ({ name, section, vi, gioitinh, ngoi3, ghichu, included, count }));
+  try {
+    const res = await fetch("/api/save", { method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ items, rules: S.rules, reviewed: [...S.reviewed] }) });
+    const d = await res.json();
+    if (!d.ok) throw new Error(d.error || res.statusText);
+    S.dirty = false;
+    const t = new Date().toLocaleTimeString("vi-VN", { hour: "2-digit", minute: "2-digit" });
+    setStatus(`Đã lưu ${t} · ${d.entries} mục có bản dịch, ${d.rules} quy tắc xưng hô`
+      + (d.draft_rules ? ` · ${d.draft_rules} quy tắc chưa đủ (chưa dùng)` : ""), "ok");
+  } catch (err) {
+    setStatus("Lỗi khi lưu: " + err.message, "err");
+  }
+}
+$("save").addEventListener("click", save);
+document.addEventListener("keydown", e => {
+  if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "s") { e.preventDefault(); save(); }
+});
+window.addEventListener("beforeunload", e => { if (S.dirty) { e.preventDefault(); e.returnValue = ""; } });
+
+init();
+</script>
+</body>
+</html>

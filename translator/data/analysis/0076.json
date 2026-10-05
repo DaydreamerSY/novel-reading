@@ -1,0 +1,77 @@
+{
+ "number": 76,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier hồi tưởng lại mối quan hệ giữa Aten và Aster trong quá khứ khi chơi game Etius, nhận ra sự lạnh lùng của Aten có thể không phải là tính cách thật. Sau đó, Frondier đi mua đồ dùng học tập cùng Aten, nhưng họ nhanh chóng chia tay. Buổi chiều, Frondier luyện tập với Azier, người đã từ chối dạy anh ta kỹ thuật 'Falling Edge' và chỉ trích sự thiếu kinh nghiệm của anh. Cuối cùng, Azier thừa nhận rằng Frondier có tố chất chiến đấu vì anh là em trai của mình.",
+ "boi_canh": "Trong một buổi chiều tại lâu đài, sau khi đi mua sắm đồ dùng học tập.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Azier",
+  "Enfer",
+  "Aster Evans",
+  "Khryselakatos",
+  "Aten Terst"
+ ],
+ "su_kien": [
+  "Frondier hồi tưởng lại mối quan hệ giữa Aten và Aster.",
+  "Frondier và Aten đi mua sắm đồ dùng học tập.",
+  "Azier từ chối dạy Frondier kỹ thuật 'Falling Edge'.",
+  "Frondier luyện tập với Azier.",
+  "Azier thừa nhận Frondier có tố chất chiến đấu vì là em trai."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết nhau, Frondier có ấn tượng về Aten từ game Etius.",
+   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết nhau, Aten đi cùng Frondier sau khi mua sắm.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết nhau, Frondier có ấn tượng về Aster từ game Etius.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em trai, Azier là người thầy nghiêm khắc của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em trai, Frondier muốn học hỏi từ Azier.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Enfer",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, Azier có những suy nghĩ riêng về cha mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst (được tiết lộ là tam công chúa)",
+  "Aster Evans (tên đầy đủ của Aster)"
+ ],
+ "stats": {
+  "tokens": 873,
+  "seconds": 26.2
+ }
+}

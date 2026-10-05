@@ -1,0 +1,83 @@
+{
+ "number": 319,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Quinie đến gặp Giáo sư Binkis tại phòng thí nghiệm của bà ở Constel. Họ bất ngờ gặp Edwin von Behetorio, người đang làm trợ lý cho bà. Edwin tiết lộ đã mất khả năng sử dụng sức mạnh thần thánh sau khi Frondier khiến Hephaestus rút lui. Sau đó, họ tìm kiếm sự giúp đỡ từ Giáo sư Binkis để chế tạo một bảo vật mới và đối mặt với yêu cầu bất ngờ của bà.",
+ "boi_canh": "Phòng thí nghiệm của Giáo sư Binkis ở Constel vào mùa đông.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Ellen",
+  "Edwin",
+  "Binkis",
+  "Edwin von Behetorio",
+  "RainEday",
+  "Hephaestus"
+ ],
+ "su_kien": [
+  "Frondier và Quinie tìm Giáo sư Binkis tại phòng thí nghiệm của bà.",
+  "Họ gặp Edwin, người đang làm trợ lý cho Giáo sư Binkis.",
+  "Edwin tiết lộ đã mất khả năng sử dụng sức mạnh thần thánh.",
+  "Giáo sư Binkis đồng ý giúp đỡ chế tạo bảo vật mới với một điều kiện.",
+  "Frondier nhận ra điều kiện đó liên quan đến việc sử dụng người anh trai của Giáo sư Binkis làm mẫu."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, cùng nhau tìm kiếm sự giúp đỡ.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ bất ngờ, có chút nghi ngại lẫn tò mò.",
+   "cach_goi": "gọi tên nhau, lịch sự"
+  },
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ bất ngờ, Edwin có vẻ hơi bối rối.",
+   "cach_goi": "gọi tên nhau, lịch sự"
+  },
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò tìm đến người thầy để nhờ giúp đỡ.",
+   "cach_goi": "gọi 'Giáo sư', lễ phép"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo sư có vẻ thích thú với yêu cầu của Frondier.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "Lắng nghe Edwin, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Binkis",
+   "loai": "cap_tren",
+   "mo_ta": "Trợ lý làm việc dưới sự chỉ đạo của Giáo sư.",
+   "cach_goi": "gọi 'Giáo sư', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Edwin von Behetorio: Tên đầy đủ của Edwin.",
+  "Hephaestus: Sức mạnh thần thánh của Hephaestus đã bị rút lui khỏi Edwin."
+ ],
+ "stats": {
+  "tokens": 921,
+  "seconds": 28.5
+ }
+}

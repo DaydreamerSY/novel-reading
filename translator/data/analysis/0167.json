@@ -1,0 +1,72 @@
+{
+ "number": 167,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Cuộc xâm lược của quái vật tiếp tục diễn ra, gây ra thương vong lớn cho quân đội nhân loại. Sự xuất hiện của Frondier đã thay đổi cục diện chiến đấu, đặc biệt là trong không chiến. Sau 10 ngày có mặt tại Tyburn, các hiệp sĩ vẫn chưa hề thiệt mạng, khiến mọi người dần tin vào lời hứa ban đầu của anh. Tuy nhiên, Frondier lại cảnh báo tình hình phòng thủ đang xấu đi, với góc phải của bức tường thành sắp sụp đổ.",
+ "boi_canh": "Trên chiến trường Tyburn, trong một cuộc họp của các hiệp sĩ và lãnh đạo quân đội sau 10 ngày giao tranh.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Ludwig",
+  "Sanders",
+  "Hector"
+ ],
+ "su_kien": [
+  "Quái vật liên tục tấn công, gây thương vong cho quân đội nhân loại.",
+  "Sự xuất hiện của Frondier giúp thay đổi cục diện chiến đấu, đặc biệt là không chiến.",
+  "Các hiệp sĩ vẫn chưa có thiệt mạng sau 10 ngày giao tranh.",
+  "Hector suy nghĩ về sự ảnh hưởng tích cực của Frondier đối với tinh thần các hiệp sĩ.",
+  "Frondier cảnh báo góc phải của bức tường thành đang ở tình trạng nguy hiểm, có thể sụp đổ bất cứ lúc nào."
+ ],
+ "quan_he": [
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Sanders là chỉ huy, đưa ra mệnh lệnh cho Frondier trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, ra lệnh, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sanders",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier tuân theo mệnh lệnh của Sanders.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hector",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hector là bạn đồng hành của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "Ludwig và Aten có quan hệ lãnh đạo - thuộc hạ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Các hiệp sĩ",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Các hiệp sĩ ca ngợi Frondier vì đã giúp giảm thiểu thương vong.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Sanders hỏi ý kiến của Frondier về tình hình chiến sự.",
+   "cach_goi": "gọi tên Frondier, hỏi thăm, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Hector Von Urfa (tên thật của Hector)"
+ ],
+ "stats": {
+  "tokens": 825,
+  "seconds": 25.5
+ }
+}

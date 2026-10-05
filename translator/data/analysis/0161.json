@@ -1,0 +1,92 @@
+{
+ "number": 161,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị từ chối tình cảm một cách phũ phàng bởi Frondier, Selena cùng Hagley bàn luận về sự thất vọng của cô. Sau đó, Frondier và Selena đến doanh trại theo lệnh Ludwig, nơi họ gặp phải một binh lính không quen thuộc cố gắng ngăn cản Frondier. Cuối cùng, họ bước vào phòng chờ, nơi Frondier đối mặt với những lời chế giễu từ các hiệp sĩ khác và đưa ra một tuyên bố táo bạo về sự sống còn của mọi người tại Tyburn.",
+ "boi_canh": "Trong căn cứ bí mật Manggot, vào thời điểm Selena thất vọng vì bị Frondier từ chối tình cảm.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Hagley",
+  "Ludwig",
+  "Robert",
+  "Jei"
+ ],
+ "su_kien": [
+  "Selena bày tỏ sự thất vọng vì bị Frondier từ chối.",
+  "Một binh lính cố gắng ngăn cản Frondier và Selena đi vào doanh trại.",
+  "Selena sử dụng một cây kim để đe dọa binh lính đó.",
+  "Frondier và Selena bước vào phòng chờ của các hiệp sĩ.",
+  "Các hiệp sĩ chế giễu Frondier và đặt cược về thời điểm anh ta chết."
+ ],
+ "quan_he": [
+  {
+   "a": "Selena",
+   "b": "Hagley",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Selena chia sẻ sự thất vọng với Hagley.",
+   "cach_goi": "gọi tên Hagley, thân mật"
+  },
+  {
+   "a": "Hagley",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Hagley an ủi và động viên Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này, Selena thất vọng vì bị Frondier từ chối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này, Selena thất vọng vì bị Frondier từ chối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Binh lính",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Frondier phớt lờ binh lính.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binh lính",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Binh lính cố gắng ngăn cản Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binh lính",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Binh lính định chạm vào Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Binh lính",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Selena đe dọa Binh lính.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robert",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Frondier và Robert nhìn nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1055,
+  "seconds": 32.5
+ }
+}

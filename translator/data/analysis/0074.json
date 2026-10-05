@@ -1,0 +1,88 @@
+{
+ "number": 74,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với một cuộc trò chuyện giữa Quinie và Anne về việc công chúa thứ ba Aten Terst được chuyển đến trường Constel. Trong khi đó, Frondier đang ăn trưa cùng Aten, người bỗng dưng đi theo anh mọi lúc mọi nơi, gây ra sự chú ý của mọi người xung quanh. Sự xuất hiện của Sybil làm tình hình thêm phần rối ren khi cô cố gắng bắt chuyện với Aten, nhưng bị trả lời lạnh lùng. Cuối cùng, Aten tuyên bố sẽ đi cùng Frondier sau giờ học, khiến tất cả đều ngạc nhiên.",
+ "boi_canh": "Trong căng tin trường Constel vào giờ ăn trưa.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly Terst",
+  "Aten Terst",
+  "Sybil",
+  "Quinie de Viet",
+  "Anne"
+ ],
+ "su_kien": [
+  "Tin đồn về Aten Terst được chuyển đến trường lan truyền.",
+  "Aten đi theo Frondier mọi lúc, gây chú ý trong căng tin.",
+  "Sybil cố gắng bắt chuyện với Aten nhưng bị trả lời lạnh lùng.",
+  "Aten tuyên bố sẽ đi cùng Frondier sau giờ học.",
+  "Quinie và Anne thảo luận về việc tiếp cận Aten để tạo dựng mối quan hệ."
+ ],
+ "quan_he": [
+  {
+   "a": "Quinie de Viet",
+   "b": "Anne",
+   "loai": "ban_be",
+   "mo_ta": "Hai người bạn đang trò chuyện về Aten.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Anne",
+   "b": "Quinie de Viet",
+   "loai": "ban_be",
+   "mo_ta": "Hai người bạn đang trò chuyện về Aten.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "khac",
+   "mo_ta": "Aten đi theo Frondier mọi lúc, không rõ lý do.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Aten đi theo Frondier mọi lúc, không rõ lý do.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil cố gắng bắt chuyện với Aten, nhưng bị trả lời lạnh lùng.",
+   "cach_goi": "gọi 'Lady Aten Terst', lễ phép"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten trả lời Sybil một cách lạnh lùng và trang trọng.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil nhìn Frondier với vẻ ngạc nhiên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil nhìn Frondier với vẻ ngạc nhiên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst: Công chúa thứ ba của đế quốc, được chuyển đến trường Constel."
+ ],
+ "stats": {
+  "tokens": 969,
+  "seconds": 29.1
+ }
+}

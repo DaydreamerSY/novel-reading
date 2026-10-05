@@ -1,0 +1,50 @@
+{
+ "number": 200,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier (Azeir de Roach) đột nhập vào dinh thự của Vincent von Coleman, bắt giữ ông ta vì tội tiết lộ thông tin mật, âm mưu và nhận hối lộ. Sau khi dễ dàng hạ gục đội quân canh gác, Azeir đối mặt với Vincent bằng một câu hỏi đầy ẩn ý về sức mạnh và sự kiên trì, khiến Vincent cảm thấy bối rối và bất lực.",
+ "boi_canh": "Bên trong dinh thự của Vincent von Coleman vào ban đêm.",
+ "nhan_vat": [
+  "Frondier (Azeir de Roach)",
+  "Vincent von Coleman",
+  "Azier"
+ ],
+ "su_kien": [
+  "Azeir đột nhập dinh thự và bắt giữ Vincent.",
+  "Azeir dễ dàng hạ gục đội quân canh gác của Vincent.",
+  "Vincent phô trương món trượng bịt Kyriothites của mình.",
+  "Vincent tấn công Azeir bằng Kyriothites nhưng không thành công.",
+  "Azeir đe dọa Vincent bằng ngọn giáo trên cổ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier (Azeir de Roach)",
+   "b": "Vincent von Coleman",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp, Azeir bắt giữ Vincent.",
+   "cach_goi": "gọi tên Vincent, lạnh lùng"
+  },
+  {
+   "a": "Vincent von Coleman",
+   "b": "Frondier (Azeir de Roach)",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp, Vincent thách thức và chế nhạo Azeir.",
+   "cach_goi": "gọi tên Frondier, khinh bỉ"
+  },
+  {
+   "a": "Frondier (Azeir de Roach)",
+   "b": "Azier",
+   "loai": "khac",
+   "mo_ta": "Tự xưng, thể hiện sự tức giận và suy tư.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Vincent von Coleman: Chủ dinh thự, bị bắt giữ.",
+  "Kyriothites: Món trượng bịt mà Vincent phô trương, được cho là của các thiên thần."
+ ],
+ "stats": {
+  "tokens": 572,
+  "seconds": 17.2
+ }
+}

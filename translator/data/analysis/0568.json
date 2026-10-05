@@ -1,0 +1,83 @@
+{
+ "number": 568,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đánh bại một trong Sát Thủ của Bảy Tội Lỗi, Frondier suy ngẫm về sức mạnh tiềm tàng của Belphegor và tương lai đối đầu với Thượng Đế. Belphegor đột ngột qua đời, khiến Frondier bối rối. Trong khi đó, Osprey và Selena đến Manggot để kiểm soát năng lượng tâm linh đang tăng lên, gặp gỡ Prometheus, một nhân vật bí ẩn liên quan đến thần thoại cổ đại.",
+ "boi_canh": "Trong địa điểm không xác định, sau trận chiến với Belphegor.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aten Terst",
+  "Azier",
+  "Enfer",
+  "Osprey",
+  "Prometheus",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Frondier suy nghĩ về sức mạnh tiềm tàng của Belphegor.",
+  "Belphegor đột ngột chết.",
+  "Osprey và Selena đến Manggot để kiểm soát năng lượng tâm linh.",
+  "Prometheus xuất hiện, đối diện với Osprey.",
+  "Prometheus biến mất sau khi giải tán năng lượng tâm linh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tạm thời, Frondier nghi ngờ và suy đoán về sức mạnh của Belphegor.",
+   "cach_goi": "gọi tên Belphegor, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tạm thời, Belphegor mỉa mai và cảnh báo Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tạm thời, Frondier quan sát và suy đoán về hành động của Belphegor.",
+   "cach_goi": "gọi tên Belphegor, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Osprey yêu cầu sự giúp đỡ của Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Osprey",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Selena hỗ trợ Osprey trong việc kiểm soát năng lượng tâm linh.",
+   "cach_goi": "gọi tên Osprey, thân mật"
+  },
+  {
+   "a": "Prometheus",
+   "b": "Osprey",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối tượng bí ẩn, Prometheus tự giới thiệu và đặt câu hỏi cho Osprey.",
+   "cach_goi": "gọi tên Osprey, trang trọng"
+  },
+  {
+   "a": "Osprey",
+   "b": "Prometheus",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối tượng bí ẩn, Osprey chất vấn và bối rối trước lời nói của Prometheus.",
+   "cach_goi": "gọi tên Prometheus, trang trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Belphegor: Một Sát Thủ của Bảy Tội Lỗi.",
+  "Prometheus: Nhân vật liên quan đến thần thoại cổ đại, được tôn thờ vì đã bảo vệ và giúp đỡ con người."
+ ],
+ "stats": {
+  "tokens": 943,
+  "seconds": 29.9
+ }
+}

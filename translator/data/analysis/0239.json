@@ -1,0 +1,72 @@
+{
+ "number": 239,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Gregory thảo luận về một kế hoạch để đối phó với kẻ đeo mặt nạ đang cố gắng xóa ký ức của Quinie. Quinie, nghi ngờ rằng kẻ đeo mặt nạ có thể là học sinh tại Constel, đã bắt đầu đeo kính đặc biệt để theo dõi thời gian và phát hiện ra việc mất trí nhớ. Tuy nhiên, kế hoạch này dường như thất bại khi đồng hồ không hề nhảy số. Cuối cùng, Frondier gửi tin nhắn cho Quinie với những câu hỏi khó hiểu liên quan đến Kora, khiến cô hoang mang.",
+ "boi_canh": "Phòng học năm thứ ba sau một tiết học lý thuyết.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Kora",
+  "Gregory",
+  "Anne"
+ ],
+ "su_kien": [
+  "Quinie đeo kính mới và lo lắng về việc mất trí nhớ.",
+  "Đồng hồ không hề nhảy số, cho thấy kế hoạch của Quinie thất bại.",
+  "Frondier gửi tin nhắn cho Quinie với những câu hỏi khó hiểu liên quan đến Kora.",
+  "Gregory giải thích cách thức hoạt động của khả năng xóa ký ức của kẻ đeo mặt nạ.",
+  "Gregory và Frondier nhận ra rằng việc sử dụng kính của Quinie có thể khiến kẻ đeo mặt nạ trở nên tự tin hơn."
+ ],
+ "quan_he": [
+  {
+   "a": "Quinie",
+   "b": "Anne",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Anne hỏi về kính mới của Quinie.",
+   "cach_goi": "gọi tên Anne, thân mật"
+  },
+  {
+   "a": "Anne",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Anne khen ngợi vẻ ngoài của Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Gửi tin nhắn cho Quinie để thu thập thông tin.",
+   "cach_goi": "gọi tên Quinie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Trả lời tin nhắn của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Báo cáo cho Frondier về kế hoạch và phân tích tình hình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "cap_tren",
+   "mo_ta": "Lắng nghe báo cáo của Gregory và thảo luận về kế hoạch.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính nhân vật."
+ ],
+ "stats": {
+  "tokens": 826,
+  "seconds": 25.3
+ }
+}

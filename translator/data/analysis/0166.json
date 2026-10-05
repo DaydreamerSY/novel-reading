@@ -1,0 +1,107 @@
+{
+ "number": 166,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi lũ quái vật bị tiêu diệt, các hiệp sĩ còn lại kiểm kê số người chết. Frondier thăm gặp Grobel trong tù và phát hiện ra mối liên hệ giữa Grobel với Gregory, một điệp viên của Indus. Grobel lo lắng cho em trai Rokbel và nghi ngờ Gregory sẽ tìm đến Rokbel để đòi tiền mà Serf đã hứa. Cuối cùng, Frondier đề nghị giúp đỡ Grobel thoát khỏi Tyburn để đổi lấy sự giúp đỡ của Grobel.",
+ "boi_canh": "Một chiến trường sau trận đánh, giữa các tù nhân và quái vật bị tiêu diệt.",
+ "nhan_vat": [
+  "Frondier",
+  "Ludwig",
+  "Gregory",
+  "Serf",
+  "Grobel",
+  "Hector",
+  "Rokbel",
+  "Serf Daniel",
+  "Ludwig von Urfa",
+  "Hector Dutoit",
+  "Dutoit"
+ ],
+ "su_kien": [
+  "Kiểm kê số người chết sau trận đánh.",
+  "Frondier gặp Hector Dutoit, người đã đặt cược vào cái chết của Frondier.",
+  "Frondier thăm Grobel trong tù.",
+  "Grobel tiết lộ mối quan hệ với Gregory và lo lắng cho em trai Rokbel.",
+  "Frondier đề nghị giúp đỡ Grobel thoát khỏi Tyburn để đổi lấy sự giúp đỡ của Grobel."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "hỏi tên, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Serf",
+   "loai": "ke_thu",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Grobel",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ thù địch, Frondier thăm Grobel trong tù.",
+   "cach_goi": "xưng 'người', trung lập"
+  },
+  {
+   "a": "Grobel",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ thù địch, Grobel phản ứng tiêu cực khi gặp Frondier.",
+   "cach_goi": "xưng 'người', trung lập"
+  },
+  {
+   "a": "Hector Dutoit",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Giới thiệu bản thân và rời đi sau khi nói chuyện.",
+   "cach_goi": "tự giới thiệu tên, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Rokbel",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Grobel",
+   "loai": "ban_be",
+   "mo_ta": "Đã từng làm việc cùng nhau, Grobel biết Gregory.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serf Daniel",
+   "b": "Grobel",
+   "loai": "chu_to",
+   "mo_ta": "Grobel làm việc cho Serf.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serf Daniel",
+   "b": "Gregory",
+   "loai": "cap_tren",
+   "mo_ta": "Gregory làm việc cho Serf.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hector Dutoit là con trai của Ludwig von Urfa, và sẽ kế vị Tyburn.",
+  "Hector được gọi là 'White Lion' (Sư tử Trắng)."
+ ],
+ "stats": {
+  "tokens": 1123,
+  "seconds": 34.6
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "number": 571,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra tại một tòa nhà hình vòm trong Lãnh Địa Quỷ, nơi Belphegor bị luận tội sau khi thất bại trước Frondier. Các quỷ khác, bao gồm Lucifer và Mammon, thảo luận về số phận của anh ta và cuối cùng quyết định trục xuất anh ta đến Nastrond, thế giới của rồng Nidhogg. Một người đàn ông mới, Astaroth, được giới thiệu như là người kế nhiệm Belphegor trong vai trò 'Sloth'.",
+ "boi_canh": "Một tòa nhà hình vòm trong Lãnh Địa Quỷ, diễn ra một phiên luận tội.",
+ "nhan_vat": [
+  "Frondier",
+  "Astaroth",
+  "Hel",
+  "Beelzebub",
+  "Lucifer",
+  "Mammon",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Belphegor bị luận tội vì thất bại trước Frondier.",
+  "Lucifer bày tỏ sự bất mãn về việc Belphegor 'rơi' khỏi vị trí của mình.",
+  "Beelzebub tuyên bố Belphegor sẽ bị trục xuất đến Nastrond thay vì địa ngục.",
+  "Mammon giải thích rằng điều này là một phần của kế hoạch liên quan đến Đế Chế và những vùng đất bên ngoài biển.",
+  "Astaroth được giới thiệu như người kế nhiệm Belphegor trong vai trò 'Sloth'."
+ ],
+ "quan_he": [
+  {
+   "a": "Satan",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Satan là người có quyền lực hơn và đặt câu hỏi về sự thất bại của Belphegor.",
+   "cach_goi": "gọi tên Belphegor, lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor trả lời một cách thờ ơ và thiếu tôn trọng.",
+   "cach_goi": "gọi tên Satan, thô lỗ"
+  },
+  {
+   "a": "Lucifer",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Lucifer bày tỏ sự bất mãn với Belphegor.",
+   "cach_goi": "gọi tên Belphegor, lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Lucifer",
+   "loai": "doi_thu",
+   "mo_ta": "Belphegor đáp lại một cách bình thản.",
+   "cach_goi": "gọi tên Lucifer, lạnh lùng"
+  },
+  {
+   "a": "Beelzebub",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Beelzebub đưa ra quyết định trục xuất Belphegor.",
+   "cach_goi": "gọi tên Belphegor, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Beelzebub",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor nhận thức được quyết định của Beelzebub.",
+   "cach_goi": "gọi tên Beelzebub, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mammon",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Mammon giải thích lý do trục xuất Belphegor.",
+   "cach_goi": "gọi tên Belphegor, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Mammon",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor suy đoán về động cơ của Mammon.",
+   "cach_goi": "gọi tên Mammon, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lucifer",
+   "b": "Astaroth",
+   "loai": "khac",
+   "mo_ta": "Lucifer giới thiệu Astaroth.",
+   "cach_goi": "gọi tên Astaroth, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Astaroth",
+   "loai": "thay_tro",
+   "mo_ta": "Belphegor quan sát người kế nhiệm của mình.",
+   "cach_goi": "gọi tên Astaroth, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Belphegor: Đã từng là một trong Bảy Tội lỗi, hiện đã bị luận tội và trục xuất.",
+  "Astaroth: Người kế nhiệm Belphegor trong vai trò 'Sloth'."
+ ],
+ "stats": {
+  "tokens": 1195,
+  "seconds": 37.1
+ }
+}

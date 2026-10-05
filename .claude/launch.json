@@ -1,0 +1,27 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "glossary-editor",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "translator/novel.py",
+        "edit",
+        "--no-browser"
+      ],
+      "port": 8765
+    },
+    {
+      "name": "reader",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8080",
+        "--directory",
+        "web"
+      ],
+      "port": 8080
+    }
+  ]
+}

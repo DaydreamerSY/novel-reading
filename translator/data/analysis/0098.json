@@ -1,0 +1,73 @@
+{
+ "number": 98,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Aten bị tấn công, Frondier tiếp tục được Elysia theo dõi. Cô ấy tìm kiếm Frondier và sau đó đến lớp học của anh ta, nơi họ có một cuộc gặp gỡ bất ngờ. Elysia đưa Frondier đến cửa hàng bách hóa Terst và cho phép anh ta mua bất cứ thứ gì anh ta muốn để trả ơn vì đã cứu Aten. Tuy nhiên, hành động chọn lựa đồ vật của Frondier lại khiến Elysia ngạc nhiên.",
+ "boi_canh": "Trong khuôn viên trường Constel, một buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten Terst",
+  "Renzo",
+  "Elysia",
+  "Frondier de Roach",
+  "Nữ sinh viên (không rõ tên)"
+ ],
+ "su_kien": [
+  "Elysia tìm kiếm Frondier tại trường Constel.",
+  "Elysia hỏi một nữ sinh về Frondier de Roach.",
+  "Elysia đến lớp học của Frondier và Aten.",
+  "Elysia đưa Frondier đến cửa hàng bách hóa Terst để mua sắm.",
+  "Frondier chọn các sản phẩm cao cấp nhất trong mỗi cửa hàng."
+ ],
+ "quan_he": [
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Chị em ruột thịt. Aten đang tìm kiếm Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Chị gái của Aten. Elysia quan sát và tìm kiếm Aten.",
+   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Công chúa Elysia và học sinh Frondier. Elysia có vẻ quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "cap_tren",
+   "mo_ta": "Học sinh Frondier và công chúa Elysia. Frondier thể hiện sự tôn trọng.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Elysia",
+   "b": "Nữ sinh viên",
+   "loai": "nguoi_la",
+   "mo_ta": "Công chúa Elysia hỏi nữ sinh về Frondier.",
+   "cach_goi": "gọi tên Nữ sinh viên, trịch thượng"
+  },
+  {
+   "a": "Nữ sinh viên",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Nữ sinh viên trả lời câu hỏi của Elysia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của nhân vật chính."
+ ],
+ "stats": {
+  "tokens": 824,
+  "seconds": 26.6
+ }
+}

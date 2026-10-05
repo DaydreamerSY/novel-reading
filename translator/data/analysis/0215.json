@@ -1,0 +1,64 @@
+{
+ "number": 215,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tự thú với cảnh sát để tạo ra một sự xáo trộn lớn nhằm đạt được mục đích của mình. Anh ta tiết lộ việc đã lợi dụng các hiệp sĩ và gây ra những vụ án nhỏ để đổ tội cho Indus. Sau đó, một sinh vật kỳ lạ có tên Kraken xuất hiện, bắt giữ Gregory bằng xúc tu và tự xưng là 'người không liên quan đến Indus'.",
+ "boi_canh": "Trong phòng giam, Frondier đang đối mặt với Gregory.",
+ "nhan_vat": [
+  "Frondier",
+  "Kraken",
+  "Gregory",
+  "Serf"
+ ],
+ "su_kien": [
+  "Frondier tự thú với cảnh sát.",
+  "Frondier tiết lộ việc đã lợi dụng các hiệp sĩ để gây ra những vụ án nhỏ.",
+  "Kraken xuất hiện và bắt giữ Gregory bằng xúc tu.",
+  "Gregory bị kéo đi, cố gắng thoát khỏi xúc tu.",
+  "Kraken giới thiệu tên của mình là 'Kraken'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang đối thoại và thảo luận về kế hoạch của Frondier.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang đối thoại và thảo luận về kế hoạch của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Kraken",
+   "b": "Gregory",
+   "loai": "ke_thu",
+   "mo_ta": "Kraken tấn công và bắt giữ Gregory.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kraken",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối đầu trực tiếp, Frondier nghi ngờ danh tính của Kraken.",
+   "cach_goi": "gọi tên Kraken, lạnh lùng"
+  },
+  {
+   "a": "Kraken",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp, Kraken chế giễu và thách thức Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Kraken: Tự xưng là 'người không liên quan đến Indus', sau đó tiết lộ tên thật là Kraken."
+ ],
+ "stats": {
+  "tokens": 679,
+  "seconds": 20.3
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "number": 89,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhận được mana từ Aten để trốn thoát khỏi tình hình nguy hiểm. Anh ta cân nhắc việc bỏ rơi Aten nhưng cuối cùng quyết định cứu cô ấy. Sau khi hấp thụ một Dragon Heart giả, Frondier có được lượng mana lớn và đối đầu với Renzo, tung ra Mjölnir với kỹ thuật ném đã nâng cao.",
+ "boi_canh": "Trong một địa điểm không xác định, Aten và Renzo đang ở gần nhau.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Renzo"
+ ],
+ "su_kien": [
+  "Aten truyền mana cho Frondier để giúp anh trốn thoát.",
+  "Frondier cân nhắc việc bỏ rơi Aten và tính toán cơ hội sống sót của mình.",
+  "Frondier quyết định cứu Aten.",
+  "Frondier hấp thụ một Dragon Heart giả, tăng cường sức mạnh mana của mình.",
+  "Frondier tung Mjölnir vào Renzo."
+ ],
+ "quan_he": [
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten trao mana cho Frondier để giúp anh trốn thoát; mối quan hệ ban đầu xa cách.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier cân nhắc việc cứu Aten và bày tỏ sự hoài nghi về giá trị của việc đó.",
+   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Renzo",
+   "loai": "cap_tren",
+   "mo_ta": "Aten có vẻ đang muốn đến gần Renzo.",
+   "cach_goi": "gọi tên Renzo, thân mật"
+  },
+  {
+   "a": "Renzo",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Renzo đẩy Aten ra xa.",
+   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier tỏ ra không thích Renzo.",
+   "cach_goi": "gọi tên Renzo, thô lỗ"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Renzo chế nhạo và thách thức Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst (tam công chúa)"
+ ],
+ "stats": {
+  "tokens": 753,
+  "seconds": 22.5
+ }
+}

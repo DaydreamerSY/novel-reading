@@ -1,0 +1,66 @@
+{
+ "number": 476,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Jane trốn thoát qua cửa sổ, Frondier đuổi theo bằng phép thuật bay mới của mình. Trong quá trình đó, họ trao đổi những lời lẽ đầy nghi ngờ và đùa cợt. Cuối cùng, Jane tiết lộ rằng Osprey đã để lại một lá thư cho cô trong phòng, khiến cả hai phải đối mặt với sự thật về việc có thể đang bị thao túng.",
+ "boi_canh": "Trong khuôn viên trường học, vào thời điểm Frondier và Jane đang đuổi nhau sau khi Jane trốn thoát.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Osprey",
+  "Jane",
+  "Mei"
+ ],
+ "su_kien": [
+  "Jane trốn thoát qua cửa sổ.",
+  "Frondier sử dụng phép thuật bay để đuổi theo Jane.",
+  "Jane tiết lộ rằng cô ấy không biết Frondier có thể bay.",
+  "Jane sử dụng phép thuật dịch chuyển tức thời bằng một ngón tay.",
+  "Jane thừa nhận đã đọc một lá thư từ Osprey trong phòng của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, đang đuổi nhau trong tình trạng nghi ngờ lẫn nhau.",
+   "cach_goi": "gọi tên Jane, thân mật"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, đang đuổi nhau trong tình trạng nghi ngờ lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Frondier đang điều tra sự biến mất của Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Osprey",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Jane nhận được một lá thư từ Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Frondier đã từng bắt Mei.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Osprey: Tên của một người mất tích, có vẻ như đã để lại thư cho Jane.",
+  "Jane: Có thể không phải là Jane thật sự mà là một hình dạng khác đang giả mạo."
+ ],
+ "stats": {
+  "tokens": 724,
+  "seconds": 21.8
+ }
+}

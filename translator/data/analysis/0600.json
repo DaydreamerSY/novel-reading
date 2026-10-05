@@ -1,0 +1,85 @@
+{
+ "number": 600,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đối đầu với Jeremy và Paul, Frondier sử dụng 'súng phun gió' do Elodie tạo ra. Anh ta sau đó triệu hồi một golem Obsidian dựa trên hình mẫu Azier để đối phó với Jeremy. Trong lúc đuổi theo Paul, Frondier tạm thời tạo ra đôi cánh Obsidian để tăng tốc độ, cuối cùng tóm được Paul và khiến anh ta bất tỉnh.",
+ "boi_canh": "Bên trong một tòa nhà của công ty Hitchcock, vào thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Lily",
+  "Osprey",
+  "Jane",
+  "Eden",
+  "Binkis",
+  "Paul",
+  "Jeremy"
+ ],
+ "su_kien": [
+  "Paul và Jeremy triển khai aura và cầm vũ khí.",
+  "Frondier tạo ra 'súng phun gió' dựa trên thiết kế của Elodie.",
+  "Frondier triệu hồi một golem Obsidian mô phỏng Azier.",
+  "Frondier tạm thời tạo ra đôi cánh Obsidian để đuổi theo Paul.",
+  "Paul bị Frondier tóm được và bất tỉnh."
+ ],
+ "quan_he": [
+  {
+   "a": "Paul",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Paul cố gắng trốn thoát khỏi Frondier.",
+   "cach_goi": "gọi tên 'Frondier', không có cảm xúc đặc biệt"
+  },
+  {
+   "a": "Frondier",
+   "b": "Paul",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier đuổi theo Paul để lấy thông tin.",
+   "cach_goi": "gọi tên 'Paul', không có cảm xúc đặc biệt"
+  },
+  {
+   "a": "Jeremy",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Jeremy tức giận với Frondier.",
+   "cach_goi": "gọi tên 'Frondier', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jeremy",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier đối phó với Jeremy.",
+   "cach_goi": "gọi tên 'Jeremy', không có cảm xúc đặc biệt"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân, Elodie tạo ra 'súng phun gió' mà Frondier sử dụng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, golem Obsidian được tạo ra dựa trên hình mẫu của Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Người tạo ra golem, Binkis quan tâm đến công nghệ của Hitchcock.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Súng phun gió: Tên gọi do Frondier đặt cho một thiết bị có khả năng bắn khí nén.",
+  "Golem Obsidian: Một tạo vật mô phỏng Azier, được tạo ra bởi Binkis."
+ ],
+ "stats": {
+  "tokens": 910,
+  "seconds": 28.8
+ }
+}

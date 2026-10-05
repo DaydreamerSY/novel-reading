@@ -1,0 +1,78 @@
+{
+ "number": 64,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi gặp gỡ, Sybil vội vàng cảnh báo Elodie về sự nguy hiểm của Frondier. Sau khi nghe lời giải thích của Sybil, Elodie nhận ra rằng Frondier có thể đang bị Indus nhắm mục tiêu và họ quyết định tìm kiếm anh ta tại túp lều cũ ở trang viên Roach. Trong quá trình bay đến đó bằng phép thuật của Elodie, Sybil tỏ ra phấn khích nhưng cũng cảm thấy khá nặng nề. Cuối cùng, Frondier tiết lộ rằng một đứa trẻ bị bắt cóc để dụ dỗ anh ra ngoài và bị bắn tên, đồng thời cho biết Serf đang cố gắng gài bẫy anh ta là kẻ giết người.",
+ "boi_canh": "Tại túp lều cũ ở trang viên Roach, vào lúc nguy hiểm ập đến.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Serf"
+ ],
+ "su_kien": [
+  "Sybil cảnh báo Frondier đang gặp nguy hiểm.",
+  "Elodie và Sybil tìm kiếm Frondier tại túp lều cũ ở trang viên Roach.",
+  "Elodie sử dụng phép thuật bay để đưa Sybil đến đó.",
+  "Frondier tiết lộ về đứa trẻ bị bắt cóc làm mồi nhử.",
+  "Elodie đề nghị bắn tên vào kẻ thù."
+ ],
+ "quan_he": [
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người hầu như không quen biết nhau.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người hầu như không quen biết nhau.",
+   "cach_goi": "gọi tên Sybil, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Sybil lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier biết Sybil lo lắng cho anh.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Fron, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier biết Elodie quan tâm đến anh.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Serf",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Serf đang cố gắng gài bẫy Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Fron: Tên thân mật của Frondier được Elodie gọi."
+ ],
+ "stats": {
+  "tokens": 897,
+  "seconds": 26.9
+ }
+}

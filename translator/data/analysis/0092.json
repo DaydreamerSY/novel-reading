@@ -1,0 +1,95 @@
+{
+ "number": 92,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier bị bất tỉnh, Aten và những người khác phát hiện ra tình trạng cơ thể anh vô cùng nghiêm trọng do lượng mana quá lớn gây ra. Họ tìm kiếm giải pháp cứu chữa nhưng gặp nhiều khó khăn. Cuối cùng, Aten quyết định sử dụng phép thuật của mình để thử sức với một phương pháp 'khôi phục' hoàn toàn mới, dù biết rằng nó có thể là điều không thể.",
+ "boi_canh": "Trong phòng y tế, sau khi Frondier bị bất tỉnh.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Philly",
+  "Renzo",
+  "Mother",
+  "Healer",
+  "Knight"
+ ],
+ "su_kien": [
+  "Frondier bất tỉnh.",
+  "Các bác sĩ xác định cơ thể Frondier bị tổn thương nghiêm trọng do lượng mana quá lớn.",
+  "Aten nhớ lại lời nói của Renzo về việc Frondier bị 'tẩm độc' bằng mana.",
+  "Bác sĩ từ chối khả năng chữa trị bằng phép thuật thông thường.",
+  "Aten quyết định thử sức với phương pháp 'khôi phục' mana vào cơ thể Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aten quan tâm và lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Frondier là người được Aten quan tâm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Aten hỏi ý kiến mẹ về cách cứu Frondier.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "Philly lo lắng cho Aten và Frondier.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Healer",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten chất vấn bác sĩ về tình trạng của Frondier.",
+   "cach_goi": "gọi 'Bác sĩ', lễ phép"
+  },
+  {
+   "a": "Healer",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Bác sĩ báo cáo tình trạng của Frondier cho Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Knight",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Người lính cố gắng an ủi Aten sau khi Frondier bị thương.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Knight",
+   "loai": "dong_minh",
+   "mo_ta": "Aten tát người lính vì lời an ủi sáo rỗng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Renzo đã từng nói về tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của nhân vật chính)"
+ ],
+ "stats": {
+  "tokens": 1001,
+  "seconds": 30.0
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "number": 278,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Cain rơi xuống từ trên cao, Frondier đã cứu cô bằng dây thừng. Anh ta thẩm vấn cô về khả năng sử dụng cổng không gian và yêu cầu cô trốn thoát bằng một trong số đó. Cain rời đi sau một cuộc đối đầu ngắn, và Malia, người đang theo dõi mọi chuyện, bày tỏ sự tự hào nhưng cũng lo lắng.",
+ "boi_canh": "Trên vách đá trống trải, vào thời điểm kết thúc trận chiến.",
+ "nhan_vat": [
+  "Frondier",
+  "Cain",
+  "Malia",
+  "Pascal",
+  "Skyler",
+  "Thompson",
+  "Isamaya",
+  "Heldre",
+  "Kraken",
+  "Azier",
+  "Chancellor Osprey"
+ ],
+ "su_kien": [
+  "Cain rơi xuống từ trên cao.",
+  "Frondier cứu Cain bằng dây thừng.",
+  "Frondier thẩm vấn Cain về khả năng sử dụng cổng không gian.",
+  "Cain trốn thoát qua một cổng không gian.",
+  "Pascal và Thompson bị bắt giữ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "doi_thu",
+   "mo_ta": "cứu mạng Cain nhưng thẩm vấn cô một cách lạnh lùng.",
+   "cach_goi": "gọi tên Cain, lạnh lùng"
+  },
+  {
+   "a": "Cain",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "cáu kỉnh với Frondier vì đã cứu cô.",
+   "cach_goi": "gọi 'What are you doing!?', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "cap_tren",
+   "mo_ta": "Malia theo dõi hành động của Frondier qua chia sẻ giác quan.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ của Frondier, theo dõi và tự hào về anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "bị Frondier bắt giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thompson",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "bị Frondier bắt giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Isamaya",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "giữ Pascal và Thompson bị bắt giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Skyler",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "đã bị bắt giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 867,
+  "seconds": 26.7
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "number": 506,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp Renzo trong một vùng đất cằn cỗi, và họ đối mặt nhau với sự căng thẳng cao độ. Renzo tiết lộ rằng anh ta ủng hộ Manggot vì mục tiêu của Manggot phù hợp với mong muốn giết Frondier của thần Ares mà anh ta giao kèo. Cuộc chiến giữa hai người bắt đầu, nhưng Renzo liên tục khiêu khích và thách thức Frondier sử dụng sức mạnh thực sự của mình.",
+ "boi_canh": "Một vùng đất cằn cỗi, nơi Frondier và Renzo đối mặt nhau.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Renzo",
+  "Edwin",
+  "Cain",
+  "Aster Evans",
+  "Ares",
+  "Manggot",
+  "Baldur"
+ ],
+ "su_kien": [
+  "Renzo tiết lộ anh ta ủng hộ Manggot vì mục tiêu giết Frondier của thần Ares.",
+  "Renzo gọi và giao tiếp với thần Ares, điều này gây sốc cho Frondier.",
+  "Frondier nhận thấy sự hiện diện mờ nhạt của Ares xung quanh Renzo.",
+  "Cuộc chiến giữa Frondier và Renzo bắt đầu với những lời khiêu khích và thách thức.",
+  "Frondier triệu hồi búa Obsidian, nhưng lại là một chiếc búa gỗ để trêu chọc Renzo."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh, có mối quan hệ phức tạp với những lần cứu mạng lẫn nhau trong quá khứ.",
+   "cach_goi": "gọi tên 'Renzo', thô lỗ"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh, khiêu khích và thách thức Frondier.",
+   "cach_goi": "gọi tên 'Frondier', trịch thượng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Ares",
+   "loai": "khac",
+   "mo_ta": "Renzo giao kèo với Ares và có thể nhìn thấy, giao tiếp với thần.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ares",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ tiềm năng, Frondier lo ngại về sự ảnh hưởng của Ares lên Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, người duy nhất Frondier biết có thể giao tiếp với thần.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster Evans",
+   "loai": "thay_tro",
+   "mo_ta": "Người có sức mạnh thần thánh, sử dụng sanctuary để gặp gỡ thần Baldur.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster."
+ ],
+ "stats": {
+  "tokens": 857,
+  "seconds": 25.6
+ }
+}

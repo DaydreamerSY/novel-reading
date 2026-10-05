@@ -1,0 +1,75 @@
+{
+ "number": 173,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp gỡ Cassian, con ngựa thông minh của Sybil, và sử dụng kỹ năng 'phân tích' để tìm hiểu về nó. Anh cũng trao đổi với Sanders về sự gia tăng đáng ngờ trong các cuộc tấn công của quái vật và những lo ngại về việc đối phương phát hiện ra điểm yếu của rào cản. Cuối cùng, Frondier nhận ra sự cần thiết phải trang bị thêm quần áo ấm vì thời tiết lạnh giá ở Tyburn.",
+ "boi_canh": "Trong một khu vực trống trải gần nơi đóng quân, vào lúc chiều tà.",
+ "nhan_vat": [
+  "Frondier",
+  "Sybil",
+  "Aten Terst",
+  "Sanders",
+  "Cassian",
+  "Khryselakatos",
+  "Penelope"
+ ],
+ "su_kien": [
+  "Frondier gặp Cassian và cố gắng tiếp cận con ngựa một cách thận trọng.",
+  "Frondier sử dụng kỹ năng 'phân tích' để tìm hiểu thông tin về Cassian.",
+  "Các cuộc tấn công của quái vật gia tăng đột ngột, khiến Sanders lo ngại.",
+  "Frondier nhận ra rằng đối phương có thể đã phát hiện ra điểm yếu của rào cản.",
+  "Sanders nhận xét về trang phục dày hơn của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Cassian",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier quan sát và tương tác với Cassian một cách thận trọng.",
+   "cach_goi": "gọi tên Cassian, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cassian",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Cassian phản ứng với Frondier, cho thấy sự hiểu biết.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Sanders quan tâm đến tình hình và bày tỏ lo ngại với Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sanders",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier trả lời những lo ngại của Sanders và giải thích tình hình.",
+   "cach_goi": "gọi tên Sanders, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Cassian: Con ngựa thông minh, thuộc sở hữu của Sybil.",
+  "Penelope's Cloth: Một loại vải ấm áp."
+ ],
+ "stats": {
+  "tokens": 833,
+  "seconds": 25.0
+ }
+}

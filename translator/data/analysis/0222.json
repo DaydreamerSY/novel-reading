@@ -1,0 +1,76 @@
+{
+ "number": 222,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Kraken bị bắn trúng chân trong một con đường cống bởi một mũi tên do Frondier sử dụng. Kraken, dù bị thương, vẫn sống sót nhờ có ba lõi năng lượng và bày tỏ ý định lợi dụng sự hiểu lầm của Frondier để đạt được mục đích. Sau đó, các giáo viên đã chống lại mệnh lệnh tấn công Frondier, và Sybil cùng những học sinh khác đến an ủi Frondier.",
+ "boi_canh": "Trong một con đường cống tối tăm và ẩm ướt.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aten Terst",
+  "Sybil",
+  "Osprey",
+  "Pascal",
+  "Kraken",
+  "Gregory",
+  "Serf"
+ ],
+ "su_kien": [
+  "Kraken đi qua một con đường cống.",
+  "Kraken bị bắn trúng chân bởi một mũi tên.",
+  "Kraken thể hiện sự sống sót nhờ có ba lõi năng lượng.",
+  "Các giáo viên chống lại mệnh lệnh tấn công Frondier.",
+  "Sybil, Elodie, Aten và các học sinh khác đến an ủi Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Kraken",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Kraken coi Frondier là một quân cờ và có ý định lợi dụng sự hiểu lầm của cậu.",
+   "cach_goi": "gọi tên 'Frondier', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kraken",
+   "loai": "doi_thu",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Kraken có kế hoạch lợi dụng Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Gregory",
+   "loai": "thay_tro",
+   "mo_ta": "Pascal bắt giữ Gregory, người đã được giao nhiệm vụ hủy bỏ các mệnh lệnh.",
+   "cach_goi": "gọi tên 'Gregory', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đến an ủi Frondier sau sự cố.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đến an ủi Frondier sau sự cố.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đến an ủi Frondier sau sự cố.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Kraken được tiết lộ là có ba lõi năng lượng, mà hắn gọi là 'hearts'."
+ ],
+ "stats": {
+  "tokens": 819,
+  "seconds": 24.5
+ }
+}

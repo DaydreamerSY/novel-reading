@@ -1,0 +1,66 @@
+{
+ "number": 171,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu bằng một cuộc tấn công bất ngờ của lũ quái vật bị tiêu diệt bởi kỹ thuật bắn tên lửa đặc biệt có tên 'Pháo Hoa' của Frondier. Sau đó, Selena, người được giao nhiệm vụ giám sát Frondier, đã cân nhắc việc ám sát ông vì nghi ngờ về năng lực thực sự của ông. Cuối cùng, Frondier yêu cầu Selena quan sát khu rừng thiêng và phát hiện ra một sự hiện diện bí ẩn bên trong.",
+ "boi_canh": "Trên tường thành Tyburn, sau khi lũ quái vật bị tiêu diệt bởi 'Pháo Hoa'.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Hagley",
+  "Mop",
+  "Greg"
+ ],
+ "su_kien": [
+  "Lũ quái vật bị tiêu diệt bởi kỹ thuật 'Pháo Hoa' của Frondier.",
+  "Selena cân nhắc ám sát Frondier.",
+  "Frondier yêu cầu Selena quan sát khu rừng thiêng.",
+  "Selena phát hiện ra một sự hiện diện bí ẩn trong khu rừng thiêng.",
+  "Frondier tiết lộ về sự tồn tại của 'tướng quân' quái vật trong khu rừng thiêng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người giám sát và đưa ra yêu cầu cho Selena.",
+   "cach_goi": "gọi tên Selena, không rõ (có vẻ tôn trọng)"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Selena là người được giao nhiệm vụ giám sát và báo cáo về Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ (có vẻ dè chừng)"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hagley",
+   "loai": "cap_tren",
+   "mo_ta": "Selena báo cáo với Hagley về nhiệm vụ của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Mop",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Greg",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Kỹ thuật bắn tên lửa của Frondier được gọi là 'Pháo Hoa' (Fireworks).",
+  "Khu rừng thiêng được gọi là 'Sacred Forest'."
+ ],
+ "stats": {
+  "tokens": 742,
+  "seconds": 22.3
+ }
+}

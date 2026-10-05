@@ -1,0 +1,70 @@
+{
+ "number": 225,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Ba ngày sau, trên đường đến trường Constel, Frondier gặp một con quạ. Con quạ tiết lộ rằng có ai đó đã lợi dụng sự kiện trước đây để lan truyền tin đồn sai lệch và cho Frondier biết về một học sinh giả mạo Indus đã rò rỉ thông tin của nó cho Kraken. Để điều tra, con quạ đề nghị được cưỡi trên vai Frondier và giả vờ là thú cưng của cậu.",
+ "boi_canh": "Trên đường đến trường Constel ba ngày sau.",
+ "nhan_vat": [
+  "Frondier",
+  "Kraken",
+  "Frondier de Roach"
+ ],
+ "su_kien": [
+  "Frondier gặp một con quạ trên đường đến trường.",
+  "Con quạ tiết lộ rằng có người đã lan truyền tin đồn sai lệch.",
+  "Con quạ cho biết một học sinh giả mạo Indus đã rò rỉ thông tin của nó cho Kraken.",
+  "Con quạ đề nghị cưỡi trên vai Frondier để điều tra.",
+  "Frondier đồng ý với đề nghị của con quạ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Kraken",
+   "loai": "ke_thu",
+   "mo_ta": "Địch thủ, mối quan hệ thù địch.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "con quạ",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, mối quan hệ mới bắt đầu.",
+   "cach_goi": "gọi 'you', thân mật"
+  },
+  {
+   "a": "con quạ",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, mối quan hệ mới bắt đầu.",
+   "cach_goi": "gọi 'you', thân mật"
+  },
+  {
+   "a": "Indus (giả)",
+   "b": "Kraken",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, mối quan hệ cạnh tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Indus (giả)",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, mối quan hệ thù địch.",
+   "cach_goi": "gọi 'you', lạnh lùng"
+  },
+  {
+   "a": "Indus (giả)",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, mối quan hệ thù địch.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Indus (giả): Một học sinh giả mạo Indus đã rò rỉ thông tin cho Kraken và lan truyền tin đồn sai lệch."
+ ],
+ "stats": {
+  "tokens": 763,
+  "seconds": 22.8
+ }
+}

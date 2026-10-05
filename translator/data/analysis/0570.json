@@ -1,0 +1,78 @@
+{
+ "number": 570,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chiến thắng cuộc chiến với Manggot, Frondier chứng kiến hình ảnh của mình được phát trên toàn thành phố thông qua một màn hình hologram lớn. Anh nhận ra đây là một phần trong kế hoạch của Quinie nhằm mục đích tuyên truyền và gây suy sụp tinh thần cho kẻ thù. Trong khi đó, tại cung điện Hoàng gia, cuộc đối thoại căng thẳng giữa Vua Bartello và Notker, đại diện của Manggot, diễn ra với những lời buộc tội về sự bỏ rơi và đau khổ trong quá khứ. Cuối cùng, Frondier nhận ra rằng đây không phải là một trò chơi mà là một thực tại khắc nghiệt, và anh vẫn còn nhiều điều cần khám phá để tìm cách trở về thế giới của mình.",
+ "boi_canh": "Trong cung điện Hoàng gia, sau khi chiến tranh kết thúc.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Quinie",
+  "Bartello",
+  "Notker",
+  "Edesion"
+ ],
+ "su_kien": [
+  "Hình ảnh Frondier được phát trên hologram lớn.",
+  "Cuộc trò chuyện giữa Frondier và Quinie qua Sagephone.",
+  "Belphegor xuất hiện trên màn hình hologram với vẻ tức giận.",
+  "Vua Bartello đối chất với Notker về tội lỗi của Manggot trong quá khứ.",
+  "Frondier nhận ra rằng đây không phải là một trò chơi mà là thực tế."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "khac",
+   "mo_ta": "Hình ảnh của Aster xuất hiện trên hologram, không tương tác với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Trò chuyện qua Sagephone, mối quan hệ bạn bè thân thiết.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier không tương tác trực tiếp với Vua Bartello.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Notker",
+   "loai": "doi_thu",
+   "mo_ta": "Không tương tác trực tiếp, đại diện cho kẻ thù đã bị đánh bại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bartello",
+   "b": "Notker",
+   "loai": "doi_thu",
+   "mo_ta": "Đối chất trực tiếp, mối quan hệ đối địch và căng thẳng.",
+   "cach_goi": "gọi 'Shepherd of Manggot', lạnh lùng"
+  },
+  {
+   "a": "Notker",
+   "b": "Bartello",
+   "loai": "doi_thu",
+   "mo_ta": "Đối chất trực tiếp, mối quan hệ đối địch và căng thẳng.",
+   "cach_goi": "gọi 'Emperor', thô lỗ"
+  },
+  {
+   "a": "Bartello",
+   "b": "Edesion",
+   "loai": "cap_tren",
+   "mo_ta": "Đề cập đến người tiền nhiệm, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 895,
+  "seconds": 28.1
+ }
+}

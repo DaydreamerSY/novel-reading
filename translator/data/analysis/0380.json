@@ -1,0 +1,74 @@
+{
+ "number": 380,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Selena đang trên đường đến cửa hàng bách hóa Terst. Selena giải thích chi tiết về thiết bị cá nhân của mình, đặc biệt là cách cô sử dụng kim tiêm như một vũ khí. Sau đó, họ bắt đầu chọn quần áo mới cho Selena, với sự quan tâm đặc biệt từ Frondier đến tính thực tế và khả năng che giấu các vật phẩm. Trong khi đó, Sybil và Aten bí mật theo dõi họ từ xa, nhận thấy sự thay đổi trong cách Frondier nhìn Selena.",
+ "boi_canh": "Trên đường đi đến cửa hàng bách hóa Terst.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aten",
+  "Sybil",
+  "Enfer",
+  "Hagley"
+ ],
+ "su_kien": [
+  "Selena giải thích về vũ khí của mình là kim tiêm.",
+  "Frondier và Selena thảo luận về việc lựa chọn quần áo phù hợp với nhu cầu che giấu kim tiêm.",
+  "Sybil và Aten bí mật theo dõi Frondier và Selena.",
+  "Aten nhận thấy sự thay đổi trong cách Frondier nhìn Selena.",
+  "Selena nhớ lại lời dặn dò của Hagley về việc giả vờ yêu Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier quan tâm đến việc lựa chọn quần áo cho Selena và có vẻ như đang dần phát triển tình cảm với cô.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena tỏ ra ngạc nhiên trước sự quan tâm của Frondier và đang thực hiện một nhiệm vụ bí mật.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Sybil muốn đến gần hơn để nghe lén cuộc trò chuyện của Frondier và Selena.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Elodie lo ngại về việc bị phát hiện khi theo dõi Frondier và Selena.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Aten quan sát cuộc trò chuyện của Sybil và nhận thấy sự thay đổi trong cách Frondier nhìn Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Sybil và Aten cùng quan sát Frondier và Selena từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Selena đang thực hiện nhiệm vụ bí mật theo lệnh của Hagley, giả vờ yêu Frondier để đánh lạc hướng sự nghi ngờ của anh."
+ ],
+ "stats": {
+  "tokens": 874,
+  "seconds": 26.2
+ }
+}

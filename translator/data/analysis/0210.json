@@ -1,0 +1,75 @@
+{
+ "number": 210,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhớ lại cái chết của Serf Daniel và những gì đã xảy ra khi anh ấy bị bất tỉnh. Khi đến trường, anh ta bị một đám đông sinh viên truy đuổi vì những tin đồn vô lý về việc anh ta hẹn hò với Elodie và Sybil, thậm chí còn 'nô dịch' Aten. Robald Lieff, một học sinh gây rối lớn, đã tham gia vào sự hỗn loạn này, khiến Frondier phải thú nhận một cách mỉa mai để làm dịu tình hình.",
+ "boi_canh": "Sáng sớm tại trường Constel, khi tin đồn lan truyền nhanh chóng.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten Terst",
+  "Sybil",
+  "Serf Daniel",
+  "Robald Lieff",
+  "Aster Evans"
+ ],
+ "su_kien": [
+  "Frondier hồi tưởng lại cái chết của Serf Daniel.",
+  "Một đám đông sinh viên truy đuổi Frondier tại trường Constel.",
+  "Tin đồn lan truyền về việc Frondier hẹn hò với Elodie và Sybil, và 'nô dịch' Aten.",
+  "Robald Lieff tham gia vào sự hỗn loạn, tố cáo Frondier.",
+  "Frondier phải thú nhận một cách mỉa mai để làm dịu tình hình."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Serf Daniel",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier hồi tưởng về cái chết của Serf, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ xuất hiện trong hồi tưởng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, nhưng không có tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ xuất hiện trong tin đồn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robald Lieff",
+   "loai": "doi_thu",
+   "mo_ta": "Robald truy đuổi và tố cáo Frondier vì những tin đồn.",
+   "cach_goi": "gọi tên Robald, thô lỗ"
+  },
+  {
+   "a": "Robald Lieff",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Robald truy đuổi và tố cáo Frondier vì những tin đồn.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)"
+ ],
+ "stats": {
+  "tokens": 847,
+  "seconds": 25.4
+ }
+}

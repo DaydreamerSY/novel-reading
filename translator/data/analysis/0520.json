@@ -1,0 +1,64 @@
+{
+ "number": 520,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Đội Kỵ Sĩ Áo Choàng dưới sự dẫn dắt của Sanders đang trên đường đến rào chắn phía nam theo chỉ thị của Frondier. Sanders lo lắng về tình trạng suy giảm tinh thần của đội kỵ sĩ, những người đã đánh mất niềm tin vào bản thân và nhiệm vụ bảo vệ đế chế. Anh gặp Elodie de Inies Rishae lần đầu tiên, một cô gái trẻ tuổi với vẻ ngoài điềm tĩnh đáng ngạc nhiên. Cuộc trò chuyện giữa họ hé lộ sự thất vọng của Elodie về đội kỵ sĩ và gợi ý rằng Frondier đã từng có ảnh hưởng lớn đến tinh thần chiến đấu của các kỵ sĩ tại Tyburn.",
+ "boi_canh": "Rào chắn phía nam, thời điểm trước một trận chiến với quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie de Inies Rishae",
+  "Ludwig",
+  "Sanders"
+ ],
+ "su_kien": [
+  "Sanders dẫn dắt Kỵ Sĩ Áo Choàng đến rào chắn phía nam.",
+  "Sanders suy tư về sự suy giảm tinh thần của đội kỵ sĩ.",
+  "Elodie de Inies Rishae lần đầu gặp Sanders.",
+  "Elodie nhận xét về sự thiếu kinh nghiệm thực tế của các kỵ sĩ.",
+  "Elodie hỏi về cách Frondier từng nâng cao tinh thần chiến đấu cho các kỵ sĩ tại Tyburn."
+ ],
+ "quan_he": [
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng đội, Sanders lo lắng về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Elodie de Inies Rishae",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mới được giao nhiệm vụ cùng Sanders.",
+   "cach_goi": "gọi tên Elodie, lạnh lùng"
+  },
+  {
+   "a": "Elodie de Inies Rishae",
+   "b": "Sanders",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mới được giao nhiệm vụ cùng Sanders.",
+   "cach_goi": "gọi tên Sanders, không rõ cảm xúc"
+  },
+  {
+   "a": "Sanders",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sanders từng chia sẻ với Ludwig về sự suy giảm của đội kỵ sĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie de Inies Rishae",
+   "b": "Các Kỵ Sĩ Áo Choàng",
+   "loai": "dong_minh",
+   "mo_ta": "Quan sát và đánh giá tinh thần của các kỵ sĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Inies Rishae (trước đây chỉ là Elodie)"
+ ],
+ "stats": {
+  "tokens": 769,
+  "seconds": 23.1
+ }
+}

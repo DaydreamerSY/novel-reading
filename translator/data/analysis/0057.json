@@ -1,0 +1,74 @@
+{
+ "number": 57,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi quan sát Frondier vẽ một vòng ma thuật phức tạp, cha của Sybil, Daud, nhận xét về cách tiếp cận độc đáo của cậu. Sau đó, một người đàn ông lạ mặt tên Serf đến và mời Sybil gia nhập Indus, một tổ chức đấu tranh cho quyền lợi của dân thường. Sybil từ chối lời đề nghị này sau khi nghi ngờ động cơ thực sự của Indus, đặc biệt là khi họ nhắc đến việc nhắm mục tiêu Frondier.",
+ "boi_canh": "Trong phòng khách dinh thự của gia đình Daud, vào một buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Sybil Forte",
+  "Edwin von Behetorio",
+  "Serf",
+  "Daud",
+  "Frondier de Roach"
+ ],
+ "su_kien": [
+  "Daud quan sát vòng ma thuật do Frondier vẽ.",
+  "Sybil đặt câu hỏi về cách tiếp cận của Frondier.",
+  "Serf mời Sybil gia nhập Indus.",
+  "Sybil từ chối lời đề nghị của Serf.",
+  "Serf tiết lộ rằng mục tiêu tiếp theo của Indus là Frondier de Roach."
+ ],
+ "quan_he": [
+  {
+   "a": "Daud",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "cha của Sybil quan sát và bình luận về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Daud",
+   "loai": "gia_dinh",
+   "mo_ta": "con gái của Daud đặt câu hỏi và tương tác với ông.",
+   "cach_goi": "gọi tên Daud, thân mật"
+  },
+  {
+   "a": "Daud",
+   "b": "Sybil Forte",
+   "loai": "gia_dinh",
+   "mo_ta": "cha của Sybil tương tác với con gái mình.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil nhìn Frondier, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serf",
+   "b": "Sybil Forte",
+   "loai": "nguoi_la",
+   "mo_ta": "Serf mời Sybil gia nhập Indus.",
+   "cach_goi": "gọi tên Sybil, lịch sự"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Serf",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil trả lời Serf và từ chối đề nghị của anh ta.",
+   "cach_goi": "gọi tên Serf, lịch sự"
+  }
+ ],
+ "danh_tinh": [
+  "Indus: Tổ chức đấu tranh cho quyền lợi của dân thường, có thể có động cơ ngầm.",
+  "October: Tổ chức liên quan đến Edwin von Behetorio và sự kiện golem."
+ ],
+ "stats": {
+  "tokens": 820,
+  "seconds": 24.6
+ }
+}

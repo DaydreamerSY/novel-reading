@@ -1,0 +1,69 @@
+{
+ "number": 36,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier xác định dấu chân là của gấu đỏ, gây ấn tượng với mọi người. Một cuộc tranh luận nhỏ nảy sinh về khả năng của Frondier và nguồn gốc sức mạnh của cậu. Cuối cùng, nhóm đi tìm gấu đỏ, và Quinie quyết định để Frondier quan sát trận chiến thay vì tham gia trực tiếp, trong khi Edwin thầm ngưỡng mộ vẻ ngoài và tài năng của Frondier.",
+ "boi_canh": "Trong rừng sâu, vào một buổi sáng khi cả nhóm đang theo dấu vết gấu đỏ.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Quinie",
+  "Edwin"
+ ],
+ "su_kien": [
+  "Frondier xác định dấu chân là của gấu đỏ, gây ấn tượng với mọi người.",
+  "Có một cuộc tranh luận ngắn về nguồn gốc sức mạnh của Frondier.",
+  "Nhóm tìm thấy và tiếp cận con gấu đỏ.",
+  "Quinie yêu cầu Frondier lùi lại để cô ấy chiến đấu với gấu.",
+  "Edwin thầm ngưỡng mộ vẻ ngoài và tài năng của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng lớp, Frondier tò mò về cách Quinie đánh giá tình hình.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng lớp, Quinie hướng dẫn và chỉ trích nhẹ nhàng Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng lớp, Edwin ngưỡng mộ và tò mò về Frondier.",
+   "cach_goi": "gọi tên Frondier, lịch sự"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng lớp, Frondier trả lời câu hỏi của Edwin một cách thân thiện.",
+   "cach_goi": "gọi tên Edwin, lịch sự"
+  },
+  {
+   "a": "Quinie",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 763,
+  "seconds": 22.8
+ }
+}

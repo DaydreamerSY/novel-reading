@@ -1,0 +1,67 @@
+{
+ "number": 576,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier, sau khi bị một hiệp sĩ tấn công bất ngờ, đã đáp trả bằng vũ lực. Sự việc được can thiệp bởi Lily, người đã sắp xếp cho Frondier ở lại trong phủ của mình với tư cách là một hiệp sĩ trong vòng một tháng. Frondier nhận ra rằng Lily có lẽ không phải là con người bình thường và nghi ngờ về danh tính thật sự của cô.",
+ "boi_canh": "Trong khuôn viên dinh thự, vào thời điểm Frondier được sắp xếp ở lại với tư cách là một hiệp sĩ.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Lily",
+  "Frondier de Roach",
+  "Ria Lis",
+  "Lilith",
+  "Lis"
+ ],
+ "su_kien": [
+  "Một hiệp sĩ tấn công Frondier từ phía sau.",
+  "Frondier đáp trả bằng vũ lực, đánh bại hiệp sĩ.",
+  "Lily can thiệp và ra lệnh cho các hiệp sĩ quỳ xuống.",
+  "Lily sắp xếp cho Frondier ở lại dinh thự với tư cách là một hiệp sĩ trong vòng một tháng.",
+  "Frondier suy đoán về danh tính thật sự của Lily."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "khac",
+   "mo_ta": "Frondier cảm thấy mình giống Selena khi quỳ trước Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là hiệp sĩ mới của Lily, đang tuân theo mệnh lệnh của cô.",
+   "cach_goi": "gọi tên 'Lily', thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Lily là người ra lệnh cho Frondier, quan sát và kiểm tra anh.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ria Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier suy đoán Ria Lis có thể là tên giả của Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Lilith",
+   "loai": "khac",
+   "mo_ta": "Frondier liên tưởng đến Lilith khi suy đoán về danh tính của Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ria Lis có thể là tên giả của Lily."
+ ],
+ "stats": {
+  "tokens": 710,
+  "seconds": 22.2
+ }
+}

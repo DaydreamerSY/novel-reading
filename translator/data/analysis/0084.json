@@ -1,0 +1,61 @@
+{
+ "number": 84,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Aten bắt đầu kỳ thi thực hành, trong đó Frondier có kế hoạch sử dụng Weaving để đạt được lợi thế. Tuy nhiên, sự hiện diện của Aten đã thay đổi kế hoạch của anh ta. Họ cùng nhau tìm kiếm địa điểm cắm trại và thu thập các loại thảo dược, trong khi Frondier phải đối mặt với sự mệt mỏi liên tục do thói quen cũ. Cuối chương, Aten bày tỏ sự ngạc nhiên về những tin đồn xung quanh Frondier và anh giải thích lý do cần thiết phải chọn một địa điểm cắm trại an toàn để bảo vệ vật liệu săn được.",
+ "boi_canh": "Trong khu rừng của Constel, vào thời điểm bắt đầu kỳ thi thực hành.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Alex"
+ ],
+ "su_kien": [
+  "Frondier cân nhắc việc sử dụng Weaving để đạt được lợi thế trong kỳ thi thực hành.",
+  "Frondier và Aten cùng nhau tìm kiếm địa điểm cắm trại.",
+  "Frondier thu thập thảo dược và giải thích công dụng của chúng cho Aten.",
+  "Aten bày tỏ sự ngạc nhiên về những tin đồn xung quanh Frondier.",
+  "Frondier giải thích lý do cần thiết phải chọn một địa điểm cắm trại an toàn để bảo vệ vật liệu săn được."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội trong kỳ thi thực hành, có sự tin tưởng lẫn nhau.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội trong kỳ thi thực hành, có sự tò mò về Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Alex",
+   "loai": "cap_tren",
+   "mo_ta": "giáo viên, Frondier đã nghe Alex giải thích về kỳ thi thực hành.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội trong kỳ thi thực hành, Aten tò mò về kiến thức của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội trong kỳ thi thực hành, Frondier có vẻ hơi khó xử trước sự ngưỡng mộ của Aten.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 756,
+  "seconds": 22.7
+ }
+}

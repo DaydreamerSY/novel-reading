@@ -1,0 +1,73 @@
+{
+ "number": 34,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đang thử nghiệm một vòng tròn ma thuật kỳ lạ mà anh ta nhận được sau khi vượt qua một ngục tối. Elodie và Ortel tình cờ thấy Frondier bên ngoài trang viên Roach, điều này rất bất thường vì trước đây anh ta luôn ở trong phòng. Cuộc gặp gỡ dẫn đến một cuộc trò chuyện ngắn, nơi Frondier bị ép phải giải thích hành động của mình bằng cách nói dối về việc nhìn thấy một hồn ma tên là Slevb.",
+ "boi_canh": "Bên ngoài trang viên Roach vào một buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aster Evans",
+  "Slevb",
+  "Ortel"
+ ],
+ "su_kien": [
+  "Frondier thử nghiệm một vòng tròn ma thuật trong khu đất trống của trang viên.",
+  "Elodie và Ortel phát hiện Frondier đang ở bên ngoài.",
+  "Frondier sử dụng một lượng lớn mana, nhưng không có gì xảy ra khi anh ta kích hoạt vòng tròn ma thuật.",
+  "Frondier nói dối với Elodie và Ortel rằng anh ta đã nhìn thấy một hồn ma tên là Slevb.",
+  "Elodie đề cập đến nhiệm vụ chung giữa các học sinh."
+ ],
+ "quan_he": [
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, tò mò và dò xét.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, né tránh câu hỏi.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Ortel",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Cha của Elodie, ngạc nhiên và có vẻ ấn tượng.",
+   "cach_goi": "gọi 'Lord Risha', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ortel",
+   "loai": "cap_tren",
+   "mo_ta": "Cha của Elodie, không nói chuyện trực tiếp.",
+   "cach_goi": "gọi 'Lord Risha', lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Ortel",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái của Ortel, quan tâm và dò xét.",
+   "cach_goi": "gọi tên cha, thân mật"
+  },
+  {
+   "a": "Ortel",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Elodie, quan tâm và dò xét.",
+   "cach_goi": "gọi tên con gái, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier (đang đóng vai Aster Evans)"
+ ],
+ "stats": {
+  "tokens": 794,
+  "seconds": 23.7
+ }
+}

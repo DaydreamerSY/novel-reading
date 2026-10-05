@@ -1,0 +1,65 @@
+{
+ "number": 243,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi gần như bị tấn công bất ngờ bởi Armel, Frondier nhận ra mình đang bị hiểu lầm về khả năng phòng thủ của bản thân trước sức mạnh thần thánh. Anh ta bắt đầu nghi ngờ liệu mình có đang dần đồng hóa với Frondier thật không. Cuộc đối đầu giữa Frondier và Armel diễn ra căng thẳng, với những đòn tấn công bất ngờ và kỹ thuật độc đáo từ cả hai phía. Cuối cùng, Frondier sử dụng một kỹ thuật mới để đánh bật vũ khí của Armel.",
+ "boi_canh": "Trong phòng luyện tập bí mật, vào thời điểm đối đầu giữa Frondier và Armel.",
+ "nhan_vat": [
+  "Frondier",
+  "Armel",
+  "Quinie",
+  "Enfer",
+  "Azier"
+ ],
+ "su_kien": [
+  "Armel gần như bị Frondier tấn công bằng kiếm.",
+  "Armel nhận ra Frondier không phải là người thật.",
+  "Frondier nghi ngờ về việc bản thân đang đồng hóa với Frondier thật.",
+  "Armel sử dụng kỹ thuật đặc biệt để tăng kích thước cơ thể.",
+  "Frondier áp dụng một kỹ thuật mới để đánh bật vũ khí của Armel."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Armel",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, sự nghi ngờ và đối nghịch.",
+   "cach_goi": "gọi 'Mr. Armel', lễ phép"
+  },
+  {
+   "a": "Armel",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, sự tức giận và nghi ngờ.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Frondier chỉ quan sát kỹ thuật của Armel liên quan đến Quinie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Armel",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Không tương tác trực tiếp, Armel có nét giống với cha mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "ban_be",
+   "mo_ta": "Không tương tác trực tiếp, Frondier nhớ lại việc luyện tập với Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier (có thể đang giả mạo danh tính)"
+ ],
+ "stats": {
+  "tokens": 727,
+  "seconds": 23.5
+ }
+}

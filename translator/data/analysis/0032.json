@@ -1,0 +1,73 @@
+{
+ "number": 32,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhận được một gói quà bí ẩn chứa thư và trang sức có ma lực. Trong khi đó, tại Tyburn, lãnh địa của gia tộc Urfa, một con quái vật ngoài vùng đã tấn công khiến nhiều người thương vong. Quinie de Viet, với thông tin từ Frondier, đã giúp giảm thiểu thiệt hại nhưng vẫn cảm thấy day dứt vì những người chết.",
+ "boi_canh": "Tại Tyburn, lãnh địa của gia tộc Urfa, trong bối cảnh một vụ tấn công quái vật vừa xảy ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Enfer",
+  "Ludwig",
+  "Quinie de Viet",
+  "Ludwig Urfa"
+ ],
+ "su_kien": [
+  "Frondier nhận được gói quà bí ẩn với thư và trang sức.",
+  "Một con quái vật ngoài vùng tấn công Tyburn, gây ra thương vong.",
+  "Quinie sử dụng thông tin từ Frondier để giúp giảm thiểu thiệt hại.",
+  "Ludwig Urfa đến hiện trường vụ việc.",
+  "Ludwig và Quinie gặp nhau tại hiện trường."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier gửi thông tin cho Quinie, không giao tiếp trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Quinie",
+   "loai": "cap_tren",
+   "mo_ta": "Lãnh chúa Urfa và lãnh chúa Viet, mối quan hệ cấp trên - thuộc hạ.",
+   "cach_goi": "gọi tên Quinie, lễ phép"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Quinie de Viet",
+   "loai": "cap_tren",
+   "mo_ta": "Lãnh chúa Urfa và lãnh chúa Viet, mối quan hệ cấp trên - thuộc hạ.",
+   "cach_goi": "gọi tên Quinie, lễ phép"
+  },
+  {
+   "a": "Quinie de Viet",
+   "b": "Ludwig",
+   "loai": "cap_tren",
+   "mo_ta": "Lãnh chúa Viet và lãnh chúa Urfa, mối quan hệ cấp trên - thuộc hạ.",
+   "cach_goi": "gọi tên Ludwig, lễ phép"
+  },
+  {
+   "a": "Quinie de Viet",
+   "b": "Ludwig Urfa",
+   "loai": "cap_tren",
+   "mo_ta": "Lãnh chúa Viet và lãnh chúa Urfa, mối quan hệ cấp trên - thuộc hạ.",
+   "cach_goi": "gọi tên Ludwig, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Tên đầy đủ của Quinie là Quinie de Viet."
+ ],
+ "stats": {
+  "tokens": 694,
+  "seconds": 20.9
+ }
+}

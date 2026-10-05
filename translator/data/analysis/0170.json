@@ -1,0 +1,82 @@
+{
+ "number": 170,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tiết lộ những suy tư của Sanders và Ludwig về sự suy tàn của Hội Shroud Order và tình hình hiện tại của gia đình Roach. Họ thảo luận về Frondier de Roach, người mà họ mới biết là con trai thứ hai của Enfer de Roach, và đánh giá tiềm năng của cậu trong việc gia nhập hội của họ. Cuối cùng, một cuộc xâm lược của quái vật diễn ra, và Sanders quan sát Frondier sử dụng một cây cung và kỹ năng 'Fireworks' lần đầu tiên.",
+ "boi_canh": "Bối cảnh: Một địa điểm không rõ (có lẽ là phòng làm việc hoặc thư phòng) trong khu vực trung tâm, vào thời điểm các thành viên đang thảo luận về tình hình chính trị và quân sự.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Enfer",
+  "Ludwig",
+  "Bartello",
+  "Sanders",
+  "Frondier de Roach",
+  "Enfer de Roach"
+ ],
+ "su_kien": [
+  "Thảo luận về sự suy tàn của Hội Shroud Order.",
+  "Tiết lộ Frondier là con trai thứ hai của Enfer de Roach.",
+  "Sanders và Ludwig đánh giá tiềm năng của Frondier.",
+  "Cuộc xâm lược của quái vật bắt đầu.",
+  "Frondier sử dụng kỹ năng 'Fireworks' lần đầu tiên."
+ ],
+ "quan_he": [
+  {
+   "a": "Ludwig",
+   "b": "Sanders",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là đồng nghiệp và có vẻ như là bạn bè thân thiết.",
+   "cach_goi": "gọi tên Sanders, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là đồng nghiệp và có vẻ như là bạn bè thân thiết.",
+   "cach_goi": "gọi tên Ludwig, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sanders quan sát và đánh giá Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier có vẻ như đang cố gắng kiểm soát cách Selena hành xử.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena là người bảo vệ của Frondier, nhưng đang che giấu sự thật.",
+   "cach_goi": "gọi 'Lord Frondier', lễ phép (nhưng là dối trá)"
+  },
+  {
+   "a": "Sanders",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Sanders quan sát hành động của Selena.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena đang cố gắng che giấu sự thật về mối quan hệ của họ.",
+   "cach_goi": "gọi tên Frondier, thân mật (nhưng là dối trá)"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Con trai thứ hai của Enfer de Roach, trước đây không được biết đến là con trai của ông ta."
+ ],
+ "stats": {
+  "tokens": 949,
+  "seconds": 29.3
+ }
+}

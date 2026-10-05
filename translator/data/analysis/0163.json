@@ -1,0 +1,69 @@
+{
+ "number": 163,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đưa Selena đến biệt thự, Frondier và Robert trở lại phòng chờ. Đội quân tập hợp đầy đủ, chỉ huy Sanders của Kỵ binh Màn sương xuất hiện để nhận nhiệm vụ tại Tyburn. Công chúa Aten bất ngờ đến kiểm tra quân đội và cơ sở vật chất, khiến mọi người ngạc nhiên. Trong khi đó, Ludwig đang đối mặt với Sybil tại biệt thự, và tình hình tường thành Tyburn trở nên nghiêm trọng hơn do sự tấn công của quái vật.",
+ "boi_canh": "Phòng chờ tại Tyburn, đêm khuya.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aten Terst",
+  "Sybil",
+  "Osprey",
+  "Ludwig",
+  "Sanders",
+  "Robert",
+  "Chancellor Osprey"
+ ],
+ "su_kien": [
+  "Frondier và Robert đưa Selena đến biệt thự.",
+  "Chỉ huy Sanders của Kỵ binh Màn sương đến Tyburn nhận nhiệm vụ.",
+  "Công chúa Aten bất ngờ kiểm tra quân đội và cơ sở vật chất.",
+  "Ludwig đối mặt với Sybil tại biệt thự.",
+  "Tình trạng tường thành Tyburn trở nên nghiêm trọng hơn do quái vật tấn công."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Robert",
+   "loai": "gia_dinh",
+   "mo_ta": "đồng hành cùng nhau đưa Selena đi.",
+   "cach_goi": "gọi tên Robert, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "chỉ huy và cảnh báo Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Sanders",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "công chúa Aten đến kiểm tra.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "trao đổi với nhau tại biệt thự.",
+   "cach_goi": "gọi tên Sybil, lạnh lùng"
+  },
+  {
+   "a": "Aten",
+   "b": "Ludwig",
+   "loai": "cap_tren",
+   "mo_ta": "công chúa Aten đến biệt thự.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst: Tam công chúa"
+ ],
+ "stats": {
+  "tokens": 698,
+  "seconds": 21.6
+ }
+}

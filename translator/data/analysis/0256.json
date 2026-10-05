@@ -1,0 +1,98 @@
+{
+ "number": 256,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cuộc tranh luận giữa Lunia và Aster về việc nghỉ ngơi sau kỳ nghỉ hè tại Constel. Trong khi đó, Elodie bí mật sử dụng phép thuật để kiểm tra tình trạng thể chất của Aster, thực ra là để theo dõi Frondier. Cuối cùng, Robald đề cập đến tên Frondier, dẫn đến sự quan tâm và lo lắng từ những người xung quanh về tình trạng của anh.",
+ "boi_canh": "Một khu vực nghỉ ngơi tại trường Constel trong kỳ nghỉ hè.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Lunia",
+  "Robald",
+  "Frondier de Roach",
+  "Robald Lieff"
+ ],
+ "su_kien": [
+  "Lunia và Aster tranh cãi về việc nghỉ ngơi.",
+  "Elodie sử dụng phép thuật để kiểm tra tình trạng thể chất của Aster.",
+  "Robald đề cập đến tên Frondier trong cuộc trò chuyện.",
+  "Những người xung quanh bày tỏ sự lo lắng về tình trạng của Frondier.",
+  "Selena xác nhận rằng Frondier không bị thương."
+ ],
+ "quan_he": [
+  {
+   "a": "Lunia",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Tranh luận về việc nghỉ ngơi, Lunia lo lắng cho Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Tranh luận về việc nghỉ ngơi, Aster không muốn nghỉ ngơi.",
+   "cach_goi": "gọi tên Lunia, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Theo dõi Aster và bí mật kiểm tra tình trạng thể chất của anh.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bị Elodie kiểm tra tình trạng thể chất và phản ứng.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Robald",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Robald đề cập đến tên Frondier, khiến Elodie ngạc nhiên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Robald",
+   "loai": "nguoi_la",
+   "mo_ta": "Nghe Robald đề cập đến tên Frondier và tỏ ra bất ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đang làm người bảo vệ của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Hỏi Selena về tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Elodie",
+   "loai": "dong_minh",
+   "mo_ta": "Trả lời Elodie về tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của nhân vật chính)",
+  "Robald Lieff (tên đầy đủ)"
+ ],
+ "stats": {
+  "tokens": 1016,
+  "seconds": 32.2
+ }
+}

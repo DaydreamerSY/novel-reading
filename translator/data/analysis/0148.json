@@ -1,0 +1,89 @@
+{
+ "number": 148,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Malia và Enfer theo dõi màn hình ghi lại quá trình thương lượng giữa Frondier và Binkis trong một kỳ thi. Họ chứng kiến cách Frondier sử dụng kỹ năng 'Pháo Hoa' và những phản ứng của anh ta khiến Enfer thất vọng. Đồng thời, Aster và Azier đối đầu trong một trận đấu tập, với sự xuất hiện bất ngờ của Theo và việc sử dụng kỹ thuật petrification độc đáo của cậu ấy đã thay đổi cục diện trận chiến.",
+ "boi_canh": "Phòng quan sát, trong khuôn viên trường Constel, lúc diễn ra kỳ thi.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Azier",
+  "Enfer",
+  "Ellen",
+  "Malia",
+  "Binkis",
+  "Theo",
+  "Maria"
+ ],
+ "su_kien": [
+  "Malia và Enfer theo dõi màn hình ghi lại quá trình thương lượng giữa Frondier và Binkis.",
+  "Enfer bày tỏ sự thất vọng với Frondier.",
+  "Aster và Azier đối đầu trong trận đấu tập, Theo bị bắt làm con tin.",
+  "Theo sử dụng kỹ thuật petrification để biến cổ của mình thành đá.",
+  "Aster kích hoạt trạng thái năng lượng thần thánh."
+ ],
+ "quan_he": [
+  {
+   "a": "Malia",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng, Malia lo lắng về cách Enfer nhìn nhận Frondier.",
+   "cach_goi": "gọi 'chồng', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Chồng vợ, giữ thái độ lạnh lùng và nghiêm khắc.",
+   "cach_goi": "gọi 'vợ', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và cha, Frondier không trực tiếp đối thoại với cha mình.",
+   "cach_goi": "gọi 'cha', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, Enfer bày tỏ sự thất vọng với Frondier.",
+   "cach_goi": "gọi tên 'Frondier', lạnh lùng"
+  },
+  {
+   "a": "Aster",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận đấu tập, Aster và Azier đối đầu.",
+   "cach_goi": "gọi tên 'Azier', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận đấu tập, Aster và Azier đối đầu.",
+   "cach_goi": "gọi tên 'Aster', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Theo",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Theo và Aster đang tham gia trận đấu tập.",
+   "cach_goi": "gọi tên 'Aster', thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Theo",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Theo và Aster đang tham gia trận đấu tập.",
+   "cach_goi": "gọi tên 'Theo', thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 961,
+  "seconds": 31.0
+ }
+}

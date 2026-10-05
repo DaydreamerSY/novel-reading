@@ -1,0 +1,106 @@
+{
+ "number": 316,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier khám phá ra những bức tượng anh hùng Etius trong xưởng của mình và nhận ra Weaving thực chất là một kho lưu trữ kiến thức lịch sử bị lãng quên. Anh cũng suy đoán về mối liên hệ giữa các anh hùng và những người khổng lồ (giants) trong truyền thuyết. Sau khi Indus sụp đổ, cuộc sống của Frondier trở nên yên bình hơn, nhưng Aster bắt đầu nghi ngờ anh, cùng với Aten và Sybil, thúc đẩy họ nỗ lực luyện tập để không bị bỏ lại phía sau. Cuối cùng, Frondier đến gặp cha mình, Enfer de Roach, và xin được đi đến khu vực biên giới.",
+ "boi_canh": "Trong xưởng của Frondier, vào thời điểm mùa đông đang đến gần.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Aten Terst",
+  "Sybil",
+  "Azier",
+  "Enfer",
+  "Heldre",
+  "Merlin",
+  "Arthur",
+  "Sigurd",
+  "Enfer de Roach",
+  "Bellerophon",
+  "Roland"
+ ],
+ "su_kien": [
+  "Frondier nhận ra những bức tượng trong xưởng là anh hùng Etius.",
+  "Anh suy luận Weaving thực chất là một kho lưu trữ kiến thức lịch sử.",
+  "Aster bắt đầu nghi ngờ Frondier liên quan đến sự sụp đổ của Indus.",
+  "Các nhân vật khác như Aten và Sybil cũng nỗ lực luyện tập để không bị bỏ lại phía sau.",
+  "Frondier xin cha mình, Enfer de Roach, được đi đến khu vực biên giới."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster nghi ngờ Frondier.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster nghi ngờ Frondier.",
+   "cach_goi": "gọi tên Frondier, thận trọng"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aten nỗ lực để không bị bỏ lại phía sau.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aten nỗ lực để không bị bỏ lại phía sau.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sybil nỗ lực để không bị bỏ lại phía sau.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sybil nỗ lực để không bị bỏ lại phía sau.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em, cùng luyện tập.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em, cùng luyện tập.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer de Roach",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và cha, mối quan hệ căng thẳng.",
+   "cach_goi": "gọi 'cha', lễ phép"
+  },
+  {
+   "a": "Enfer de Roach",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, mối quan hệ căng thẳng.",
+   "cach_goi": "gọi tên Frondier, nghiêm khắc"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1163,
+  "seconds": 35.9
+ }
+}

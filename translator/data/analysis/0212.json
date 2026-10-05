@@ -1,0 +1,88 @@
+{
+ "number": 212,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đáp trên mái một tòa nhà, Frondier nhận ra nhiều học sinh bị kiểm soát bởi Serf Daniel thông qua phát sóng. Elodie tiết lộ cô cũng liên quan đến tin đồn đang lan truyền về mối quan hệ tình cảm giữa hai người. Cuối cùng, Frondier quyết định tìm Serf để chấm dứt sự việc và được Aten tạo điều kiện bằng một đường trượt băng xuống dưới.",
+ "boi_canh": "Trên mái một tòa nhà trong khuôn viên học viện, vào thời điểm có nhiều học sinh bị kiểm soát tâm trí.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aten",
+  "Gregory",
+  "Serf",
+  "Khryselakatos",
+  "Serf Daniel"
+ ],
+ "su_kien": [
+  "Frondier và Elodie đáp trên mái nhà.",
+  "Phát hiện nhiều học sinh bị kiểm soát tâm trí.",
+  "Elodie tiết lộ cô liên quan đến tin đồn hẹn hò với Frondier.",
+  "Aten tạo ra đường trượt băng để Frondier xuống đất.",
+  "Frondier bắt đầu hành trình tìm Serf Daniel."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, tin tưởng và hỗ trợ lẫn nhau.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, tin tưởng và hỗ trợ lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Aten giúp đỡ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Aten giúp đỡ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Serf Daniel",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Frondier nghi ngờ Serf Daniel đứng sau vụ kiểm soát tâm trí.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serf Daniel",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Frondier nghi ngờ Serf Daniel đứng sau vụ kiểm soát tâm trí.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Serf Daniel",
+   "loai": "khac",
+   "mo_ta": "Liên quan đến tin đồn về Frondier, có thể là đồng phạm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serf Daniel",
+   "b": "Elodie",
+   "loai": "khac",
+   "mo_ta": "Liên quan đến tin đồn về Frondier, có thể là đồng phạm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Serf Daniel: Có vẻ như Serf đã bị tái hiện hoặc kiểm soát bởi một người khác."
+ ],
+ "stats": {
+  "tokens": 944,
+  "seconds": 28.2
+ }
+}

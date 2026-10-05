@@ -1,0 +1,97 @@
+{
+ "number": 575,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đến dinh thự của Ria Lis để làm kỵ sĩ theo lời hứa với Lily. Anh gặp phải sự đón tiếp lạnh nhạt và nghi ngờ từ các kỵ sĩ khác, những người tỏ ra không tin anh là Frondier de Roach thật. Bằng cách sử dụng Obsidian của mình một cách khéo léo, Frondier đã chứng minh sức mạnh vượt trội của mình mà không cần phải chiến đấu trực tiếp.",
+ "boi_canh": "Trước dinh thự của Ria Lis, vào buổi sáng.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Lily",
+  "Enfer",
+  "Frondier de Roach",
+  "Aster Evans",
+  "Ria Lis",
+  "Lis"
+ ],
+ "su_kien": [
+  "Người đưa xe hành động bất thường, chúc Frondier may mắn.",
+  "Cổng dinh thự mở tự động mà không có chuông báo.",
+  "Frondier cảm nhận được sự cảnh giác từ những người bên trong dinh thự.",
+  "Các kỵ sĩ của Ria Lis nghi ngờ danh tính của Frondier.",
+  "Frondier sử dụng Obsidian để ngăn các kỵ sĩ rút kiếm."
+ ],
+ "quan_he": [
+  {
+   "a": "Người đưa xe",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "người làm công, hành động bất thường để chúc may mắn.",
+   "cach_goi": "gọi 'Frondier-nim', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Người đưa xe",
+   "loai": "nguoi_la",
+   "mo_ta": "người lái xe được thuê bởi cha Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "đã hứa làm kỵ sĩ cho Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ria Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "đến làm kỵ sĩ cho Ria Lis.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kỵ sĩ 1",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "nghi ngờ danh tính của Frondier.",
+   "cach_goi": "gọi 'Who are you?', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kỵ sĩ 1",
+   "loai": "doi_thu",
+   "mo_ta": "xác nhận danh tính và tuyên bố làm kỵ sĩ.",
+   "cach_goi": "gọi 'You', lạnh lùng"
+  },
+  {
+   "a": "Kỵ sĩ 2",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "nhận ra Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kỵ sĩ 3",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đòi chứng minh năng lực của Frondier.",
+   "cach_goi": "gọi 'You', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kỵ sĩ 3",
+   "loai": "doi_thu",
+   "mo_ta": "không muốn chứng minh năng lực.",
+   "cach_goi": "gọi 'You', lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: tên đầy đủ của Frondier.",
+  "Aster Evans: tên đầy đủ của Aster."
+ ],
+ "stats": {
+  "tokens": 1008,
+  "seconds": 31.6
+ }
+}

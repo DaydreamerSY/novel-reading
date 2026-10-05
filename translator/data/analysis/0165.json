@@ -1,0 +1,66 @@
+{
+ "number": 165,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với cảnh Sanders chứng kiến Frondier bắn hạ một con quái vật lớn bằng một mũi tên đặc biệt có tên là 'Fireworks'. Selena, người đi cùng, ngạc nhiên vì Frondier không hề phù hợp với những gì cô nghe được về cậu. Trong khi đó, Frondier đang tìm cách nâng cấp kỹ năng của mình và vô tình phát hiện ra Grobel, kẻ liên quan đến một sự cố trước đây, đang chiến đấu giữa đám tù nhân. Cuối cùng, Frondier cứu Grobel khỏi một con troll bằng 'Fireworks' và hai người nhìn thẳng vào nhau.",
+ "boi_canh": "Trên tường thành, trong trận chiến với quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Sanders",
+  "Serf",
+  "Grobel"
+ ],
+ "su_kien": [
+  "Sanders chứng kiến Frondier bắn hạ một con quái vật lớn bằng 'Fireworks'.",
+  "Selena bất ngờ trước năng lực của Frondier.",
+  "Frondier phát hiện ra Grobel đang chiến đấu giữa đám tù nhân.",
+  "Frondier sử dụng 'Fireworks' để tiêu diệt một con troll.",
+  "Ánh mắt của Frondier và Grobel chạm nhau."
+ ],
+ "quan_he": [
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Sanders quan sát Frondier chiến đấu.",
+   "cach_goi": "gọi tên Frondier, không có cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Frondier đi cùng Selena và quan sát cô.",
+   "cach_goi": "gọi tên Selena, không có cảm xúc"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Selena quan sát và suy nghĩ về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, ngạc nhiên"
+  },
+  {
+   "a": "Frondier",
+   "b": "Grobel",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier nhận ra Grobel và cứu anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Grobel",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Grobel nhận ra Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Indus: Tổ chức đấu tranh chống lại sự phân biệt đối xử.",
+  "Grobel: Kẻ chịu trách nhiệm chính trong vụ việc tại túp lều."
+ ],
+ "stats": {
+  "tokens": 738,
+  "seconds": 22.8
+ }
+}

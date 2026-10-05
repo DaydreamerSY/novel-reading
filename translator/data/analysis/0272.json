@@ -1,0 +1,64 @@
+{
+ "number": 272,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier tiết lộ với giáo viên Isamaya về mối đe dọa từ Indus và kế hoạch sử dụng anh ta làm vật tế. Anh ấy đề xuất một chiến lược mạo hiểm để dụ kẻ thù ra khỏi Cropolis bằng cách tự phơi bày bản thân, nhằm bảo vệ người dân vô tội. Isamaya ban đầu phản đối nhưng cuối cùng chấp nhận sau khi cân nhắc kỹ lưỡng và nhận thức được tính logic của Frondier. Cuối chương, Frondier kiểm tra Cain bằng một trò lừa bịp đơn giản, hé lộ sự thật về bản chất thực sự của cô.",
+ "boi_canh": "Trong xe hơi, vài giờ trước.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Quinie",
+  "Osprey",
+  "Kraken",
+  "Heldre",
+  "Cain",
+  "Thompson",
+  "Isamaya",
+  "Skyler"
+ ],
+ "su_kien": [
+  "Frondier tiết lộ với Isamaya về mối đe dọa từ Indus và kế hoạch sử dụng anh ta làm vật tế.",
+  "Isamaya bày tỏ sự hoài nghi và ngạc nhiên trước lời khai của Frondier.",
+  "Frondier đề xuất một chiến lược để dụ kẻ thù ra bằng cách tự phơi bày bản thân.",
+  "Isamaya cân nhắc đề xuất của Frondier và cuối cùng chấp nhận.",
+  "Frondier kiểm tra Cain bằng một dummy làm từ nhện, hé lộ sự thật về bản chất thực sự của cô."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Isamaya",
+   "loai": "thay_tro",
+   "mo_ta": "học trò và giáo viên, Frondier chia sẻ thông tin quan trọng với Isamaya.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Isamaya",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "giáo viên và học trò, Isamaya lo lắng cho sự an toàn của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật nhưng nghiêm túc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier kiểm tra Cain bằng một trò lừa bịp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cain",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Cain phản ứng với hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Kraken: Lãnh đạo Indus có mối thù với Frondier và muốn sử dụng anh ta làm vật tế.",
+  "Dummy Cain: Một bản sao làm từ nhện được Frondier dùng để kiểm tra Cain."
+ ],
+ "stats": {
+  "tokens": 764,
+  "seconds": 23.7
+ }
+}

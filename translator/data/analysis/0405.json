@@ -1,0 +1,85 @@
+{
+ "number": 405,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chờ đợi, ngày của nhiệm vụ chung đã đến. Frondier, một học sinh năm thứ hai, phải hướng dẫn các học viên mới trong đội của mình. Một cuộc tranh cãi nổ ra khi Roxy Taylor công khai nghi ngờ Frondier sử dụng Mana Injection. Ellen Evans, Chủ tịch Hội Sinh viên, tham gia nhóm và khẳng định sự tin tưởng của mình vào Frondier. Cuối cùng, họ phát hiện ra một con quái vật ẩn mình và đối mặt với một tình huống nguy hiểm khi nhận thấy các đội khác cũng đang chuẩn bị tấn công.",
+ "boi_canh": "Trên sân trường Constel, trong ngày nhiệm vụ chung.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Quinie",
+  "Pielott",
+  "Osprey",
+  "Ellen",
+  "Dier",
+  "Edwin",
+  "Roxy",
+  "Jacob",
+  "Ellen Evans"
+ ],
+ "su_kien": [
+  "Ngày của nhiệm vụ chung đến.",
+  "Roxy Taylor công khai nghi ngờ Frondier sử dụng Mana Injection.",
+  "Ellen Evans tham gia đội và khẳng định sự tin tưởng vào Frondier.",
+  "Frondier phát hiện ra một con quái vật ẩn mình.",
+  "Các đội khác bắt đầu chuẩn bị tấn công."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Roxy",
+   "loai": "doi_thu",
+   "mo_ta": "Roxy nghi ngờ Frondier sử dụng Mana Injection và công khai chỉ trích anh.",
+   "cach_goi": "gọi tên Roxy, thân mật"
+  },
+  {
+   "a": "Roxy",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Roxy công khai chỉ trích Frondier vì nghi ngờ anh sử dụng Mana Injection.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là học sinh năm thứ hai, Ellen là người lớn tuổi hơn và có địa vị cao hơn.",
+   "cach_goi": "gọi 'Senior Ellen', lễ phép"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Ellen là người lớn tuổi hơn và có địa vị cao hơn, quan sát Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Roxy",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Roxy ngưỡng mộ Ellen, Chủ tịch Hội Sinh viên.",
+   "cach_goi": "gọi 'Student Council President', lễ phép"
+  },
+  {
+   "a": "Ellen",
+   "b": "Roxy",
+   "loai": "cap_tren",
+   "mo_ta": "Ellen là người có địa vị cao hơn và động viên Roxy.",
+   "cach_goi": "gọi tên Roxy, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người từng chiến đấu cùng nhau, Dier có quan điểm khác về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ellen Evans là tên đầy đủ của Ellen."
+ ],
+ "stats": {
+  "tokens": 901,
+  "seconds": 27.3
+ }
+}

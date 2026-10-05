@@ -1,0 +1,73 @@
+{
+ "number": 59,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe được thông tin đáng ngại từ Serf, Sybil đã đến dinh thự Roach để cảnh báo Frondier. Tuy nhiên, cô bị chặn lại ở cổng và quyết định tìm Elodie. Trong khi đó, Serf nhận được báo cáo về việc Frondier rời khỏi dinh thự một mình và lên kế hoạch thực hiện âm mưu của Indus.",
+ "boi_canh": "Trước cổng dinh thự Roach vào buổi chiều tà.",
+ "nhan_vat": [
+  "Sybil",
+  "Người gác cổng",
+  "Serf",
+  "Gregory",
+  "Frondier",
+  "Elodie"
+ ],
+ "su_kien": [
+  "Sybil đến dinh thự Roach để cảnh báo Frondier.",
+  "Cô bị người gác cổng từ chối vào.",
+  "Serf nhận được thông tin về việc Frondier rời khỏi dinh thự.",
+  "Gregory, dưới hình dạng một con quạ, báo cáo cho Serf.",
+  "Serf quyết định đẩy nhanh kế hoạch ám sát Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Sybil",
+   "b": "Người gác cổng",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil cố gắng thuyết phục người gác cổng để được gặp Frondier.",
+   "cach_goi": "gọi 'người gác cổng', lễ phép"
+  },
+  {
+   "a": "Người gác cổng",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Người gác cổng lịch sự nhưng từ chối yêu cầu của Sybil.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  },
+  {
+   "a": "Serf",
+   "b": "Gregory",
+   "loai": "thay_tro",
+   "mo_ta": "Serf nhận báo cáo từ Gregory (dưới hình dạng quạ).",
+   "cach_goi": "gọi tên Gregory, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Serf",
+   "loai": "thay_tro",
+   "mo_ta": "Gregory báo cáo tình hình cho Serf.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Sybil muốn cảnh báo Frondier về mối nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Sybil cân nhắc việc tìm Elodie để biết thêm thông tin về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Gregory (thành viên của Indus, sử dụng hình dạng quạ để báo cáo)"
+ ],
+ "stats": {
+  "tokens": 758,
+  "seconds": 22.8
+ }
+}

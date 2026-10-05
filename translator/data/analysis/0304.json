@@ -1,0 +1,98 @@
+{
+ "number": 304,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Renzo rời đi, Frondier và những người còn lại bất tỉnh trong trang viên. Tình hình trở nên khó khăn vì không có mana để sử dụng phép thuật, khiến Frondier kiệt sức và ngủ gục trên ghế. Trong lúc đó, Kraken trốn thoát vào rừng và bị Esther, lính canh của Morion, chặn đứng.",
+ "boi_canh": "Trang viên Heldre, sau một trận chiến căng thẳng.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Elysia",
+  "Kraken",
+  "Heldre",
+  "Cain",
+  "Esther",
+  "Thompson",
+  "Serf",
+  "Skyler"
+ ],
+ "su_kien": [
+  "Frondier không còn mana để sử dụng phép thuật.",
+  "Frondier và những người khác bất tỉnh trên ghế.",
+  "Kraken trốn thoát vào rừng.",
+  "Esther chặn được Kraken trong rừng.",
+  "Esther tiết lộ rằng Kraken là kẻ bắt cóc xác Renzo."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier đã báo cáo Renzo xâm nhập Constel.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "khac",
+   "mo_ta": "Có liên quan đến kế hoạch của Elysia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "cap_tren",
+   "mo_ta": "Heldre là một lãnh đạo của Indus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, hiện đang bất tỉnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Skyler",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, hiện đang bất tỉnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thompson",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, hiện đang bất tỉnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kraken",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, Kraken biết Frondier đang bị Manggot canh giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "Kraken",
+   "loai": "ke_thu",
+   "mo_ta": "Lính canh Morion, truy bắt Kraken vì tội bắt cóc xác Renzo.",
+   "cach_goi": "gọi 'culprit', lạnh lùng"
+  },
+  {
+   "a": "Kraken",
+   "b": "Esther",
+   "loai": "ke_thu",
+   "mo_ta": "Đối tượng bị truy bắt bởi Esther.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Kraken: biến đổi thành hình dạng người để trốn thoát, có thể thay đổi khuôn mặt."
+ ],
+ "stats": {
+  "tokens": 952,
+  "seconds": 29.4
+ }
+}

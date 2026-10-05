@@ -1,0 +1,87 @@
+{
+ "number": 67,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier cố gắng thực hiện một kế hoạch liều lĩnh để đối phó với Serf, người chỉ đưa ra những mệnh lệnh đơn giản. Anh ta sử dụng Weaving để triệu hồi Khryselakatos và Iokeira, khiến Sybil hoảng hốt. Cuối cùng, Sybil bắn tên vào Frondier, nhưng nhờ sức mạnh của Artemis mà tên đã trượt và bắn trúng Serf, giải thoát cho Sybil khỏi sự giằng xé nội tâm.",
+ "boi_canh": "Một khu vực không xác định, trong một tình huống nguy hiểm.",
+ "nhan_vat": [
+  "Frondier",
+  "Sybil",
+  "Serf",
+  "Khryselakatos",
+  "Artemis",
+  "Iokeira"
+ ],
+ "su_kien": [
+  "Frondier triệu hồi Khryselakatos và Iokeira bằng Weaving.",
+  "Sybil bắn tên vào Frondier theo lệnh của Serf.",
+  "Tên trượt và bắn trúng Serf nhờ sức mạnh của Artemis.",
+  "Serf bị thương bởi mũi tên.",
+  "Sybil ôm Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Serf",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier cố gắng khiêu khích để làm suy yếu Serf.",
+   "cach_goi": "gọi tên Serf, lạnh lùng"
+  },
+  {
+   "a": "Serf",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Serf ra lệnh cho Frondier tự sát và tỏ ra không quan tâm đến những lời đe dọa của anh.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier cố gắng thuyết phục Sybil và làm rõ những gì đang xảy ra.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil ban đầu bị sốc và bối rối bởi hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, ngạc nhiên"
+  },
+  {
+   "a": "Serf",
+   "b": "Sybil",
+   "loai": "cap_tren",
+   "mo_ta": "Serf ra lệnh cho Sybil bắn tên vào Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Serf",
+   "loai": "cap_tren",
+   "mo_ta": "Sybil tuân theo mệnh lệnh của Serf, nhưng có vẻ do dự.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Khryselakatos",
+   "loai": "khac",
+   "mo_ta": "Triệu hồi và sử dụng Khryselakatos như một công cụ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Iokeira",
+   "loai": "khac",
+   "mo_ta": "Triệu hồi và sử dụng Iokeira như một công cụ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Khryselakatos, Iokeira: Được Frondier tạo ra để phục vụ mục đích của anh ta."
+ ],
+ "stats": {
+  "tokens": 971,
+  "seconds": 29.0
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "number": 539,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Một trận động đất lớn rung chuyển thành trì Manggot sau khi Frondier tấn công bằng hào quang kiếm. Belphegor và Hagley nghi ngờ đây là một bẫy dụ dỗ, có thể do Osprey tạo ra rune từ xa. Belphegor quyết định rời đi để đối phó với tình hình, trong khi Hagley ở lại kiểm tra bên trong Manggot. Một lính gác tại nhà tù của Manggot lo lắng về Selena, người đang tuyệt thực và im lặng.",
+ "boi_canh": "Bên trong thành trì Manggot, sau một trận động đất lớn.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Osprey",
+  "Hagley",
+  "Belphegor",
+  "Jei",
+  "lính gác"
+ ],
+ "su_kien": [
+  "Một trận động đất lớn rung chuyển thành trì Manggot.",
+  "Belphegor và Hagley nghi ngờ có rune được tạo ra.",
+  "Belphegor cho rằng đây là một bẫy dụ dỗ.",
+  "Belphegor rời đi để đối phó với tình hình.",
+  "Hagley ở lại kiểm tra bên trong Manggot."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, được nghi ngờ là kẻ tạo ra rune.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Hagley",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor là cấp trên của Hagley, đưa ra chỉ thị và tranh luận.",
+   "cach_goi": "gọi tên Hagley, thân mật"
+  },
+  {
+   "a": "Hagley",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Hagley tuân theo chỉ thị của Belphegor nhưng cũng đưa ra ý kiến phản biện.",
+   "cach_goi": "gọi tên Belphegor, lễ phép"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Osprey",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, được nghi ngờ là kẻ tạo ra rune.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Osprey",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, được nghi ngờ là kẻ tạo ra rune.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "lính gác",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Lính gác quan sát và lo lắng cho tình trạng của Selena.",
+   "cach_goi": "gọi tên Jei (tên của Selena), thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "lính gác",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Jei là tên của Selena."
+ ],
+ "stats": {
+  "tokens": 937,
+  "seconds": 29.1
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "number": 356,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với việc Frondier bối rối khi Selena xuất hiện nhanh chóng hơn dự kiến. Cô ấy sử dụng kỹ thuật dịch chuyển tức thời để đến được đó, nhưng có vẻ rất mệt mỏi. Sau đó, họ đối mặt với quái vật và Selena dễ dàng tiêu diệt chúng. Frondier nhận ra sự thật về tình trạng của Selena và những khó khăn cô phải trải qua. Cuối cùng, Malia xuất hiện và Frondier quyết định thay đổi kế hoạch đột kích căn cứ Helheim, khiến mọi người ngạc nhiên.",
+ "boi_canh": "Một chiến trường đầy nguy hiểm, vào thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Sybil",
+  "Edwin",
+  "Malia",
+  "Laurie",
+  "Binkis",
+  "Cassian",
+  "Penelope",
+  "Mother"
+ ],
+ "su_kien": [
+  "Frondier bối rối khi Selena xuất hiện.",
+  "Selena sử dụng kỹ thuật dịch chuyển tức thời để đến nơi.",
+  "Selena dễ dàng tiêu diệt quái vật tấn công.",
+  "Malia xuất hiện và hỏi chuyện.",
+  "Frondier thay đổi kế hoạch đột kích căn cứ Helheim."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier quan sát và lo lắng cho tình trạng của Selena.",
+   "cach_goi": "gọi tên Selena, không rõ cảm xúc"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Selena báo cáo tình hình và tỏ ra mệt mỏi.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Frondier báo cáo tình hình và yêu cầu Malia giúp đỡ.",
+   "cach_goi": "gọi 'Mother', thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Malia quan tâm đến sức khỏe của Frondier và phản đối kế hoạch nguy hiểm.",
+   "cach_goi": "gọi tên Frondier, lo lắng"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Selena quan sát và lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Cassian",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Cassian hỗ trợ Selena, nhưng không giao tiếp trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Black Lotus: Một hiện vật quan trọng được Sybil gửi đến cho Frondier."
+ ],
+ "stats": {
+  "tokens": 821,
+  "seconds": 24.6
+ }
+}

@@ -1,0 +1,32 @@
+# Cấu hình dịch truyện. Sửa xong chạy lại lệnh là có hiệu lực.
+
+book:
+  title: "Thiên Tài Sao Chép Vũ Khí Học Viện"
+  author: "서쪽"
+  protagonist: Frondier     # truyện kể ngôi thứ nhất: "I" là nhân vật này
+
+source:
+  base_url: https://novellunar.com
+  slug: the-academys-weapon-replicator
+  delay_seconds: 2          # nghỉ giữa 2 lần tải trang, đừng để quá thấp
+
+llm:
+  url: http://localhost:11434
+  model: gemma3:12b         # model mặc định; ghi đè tạm thời bằng --model
+  temperature: 0.3
+  top_p: 0.9
+  repeat_penalty: 1.0       # > 1 dễ khiến model đổi cách dịch các tên riêng lặp lại
+  num_ctx: 8192             # độ dài ngữ cảnh (token) mỗi lần gọi
+  timeout_seconds: 900
+  workers: 1                # số chương dịch song song; > 1 chỉ có lợi khi Ollama chạy với OLLAMA_NUM_PARALLEL >= workers
+
+terms:
+  # Chức danh riêng của truyện, ngoài danh sách có sẵn (Lord, Miss, Senior, Professor, -nim...).
+  # "Zodiac Monty" sẽ được tách thành "Zodiac" + "Monty".
+  extra_titles: [Zodiac]
+
+translate:
+  chunk_chars: 3500        # số ký tự tiếng Anh mỗi lần gọi model
+  chunk_paragraphs: 60      # tối đa số đoạn mỗi lần gọi
+  context_paragraphs: 3     # số đoạn vừa dịch gửi kèm làm ngữ cảnh cho lần gọi sau
+  max_retries: 2            # số lần thử lại một đoạn đơn lẻ bị lỗi

@@ -1,0 +1,67 @@
+{
+ "number": 603,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đề xuất một giả thuyết về sự xuất hiện của Satan và những con quỷ khác, khiến Paul lo lắng vì những con quỷ ẩn mình trong Đế quốc có thể bị lộ. Frondier cảnh báo về các cuộc tấn công tiềm tàng từ phương Tây và nhấn mạnh rằng nếu không có sự giúp đỡ của anh ta, những con quỷ sẽ phải đối mặt với nguy cơ bị giao nộp để đổi lấy hòa bình. Cuối cùng, Frondier tiết lộ việc đã đánh bại Beelzebub để thuyết phục Paul tin tưởng mình.",
+ "boi_canh": "Trong phòng làm việc của Paul, vào một thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Lily",
+  "Bartello",
+  "Paul",
+  "Beelzebub",
+  "R"
+ ],
+ "su_kien": [
+  "Frondier đề xuất giả thuyết về sự xuất hiện của Satan và những con quỷ khác.",
+  "Paul lo lắng vì những con quỷ ẩn mình có thể bị lộ.",
+  "Frondier cảnh báo về các cuộc tấn công tiềm tàng từ phương Tây.",
+  "Frondier tiết lộ việc đã đánh bại Beelzebub.",
+  "Paul dường như chấp nhận sự giúp đỡ của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Paul",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier cố gắng thuyết phục Paul tin tưởng mình để đạt được thông tin.",
+   "cach_goi": "gọi tên Paul, lạnh lùng"
+  },
+  {
+   "a": "Paul",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Paul nghi ngờ và dè chừng Frondier nhưng dần chấp nhận sự giúp đỡ của anh.",
+   "cach_goi": "gọi tên Frondier, thận trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người cùng chặn đứng một cuộc tấn công trước đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "khac",
+   "mo_ta": "Lily là một con quỷ ẩn mình, được Frondier nhắc đến như một ví dụ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đề cập đến Bartello như một người có thể giao nộp quỷ để đổi lấy hòa bình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Bartello Tert (quốc vương)"
+ ],
+ "stats": {
+  "tokens": 743,
+  "seconds": 23.0
+ }
+}

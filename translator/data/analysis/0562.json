@@ -1,0 +1,99 @@
+{
+ "number": 562,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và những người khác đối mặt với một vấn đề liên quan đến nguồn năng lượng mới được tạo ra để chữa trị chứng suy yếu của Vua Bartello. Họ phát hiện ra rằng tinh thể mana do Frondier và Mei sáng tạo không ổn định như Dragon Heart thật. Aten bày tỏ sự lo lắng về việc Frondier có thể gặp nguy hiểm khi sử dụng nó, và Frondier quyết định nuốt chửng tinh thể đó, bất chấp những rủi ro tiềm ẩn.",
+ "boi_canh": "Trong phòng làm việc bí mật tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aten",
+  "Renzo",
+  "Osprey",
+  "Mei",
+  "Bartello",
+  "Frondier de Roach",
+  "Aten Terst",
+  "Penelope",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Frondier và những người khác thảo luận về tinh thể mana mới.",
+  "Osprey trao cho Frondier một tinh thể mana được giấu kín.",
+  "Belphegor nhận ra tinh thể đó không phải là Dragon Heart thật mà là sản phẩm của Frondier và Mei.",
+  "Aten bày tỏ sự lo lắng khi Frondier định nuốt chửng tinh thể mana.",
+  "Frondier nuốt chửng tinh thể mana, bất chấp những rủi ro tiềm ẩn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, mối quan hệ thân mật.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được Frondier bảo vệ và tin tưởng, mối quan hệ phức tạp.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong quá khứ, có liên quan đến việc Frondier bảo vệ Aten.",
+   "cach_goi": "gọi tên Renzo, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Người cố vấn và hỗ trợ Frondier, mối quan hệ tôn trọng.",
+   "cach_goi": "gọi tên Osprey, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Đồng tác giả tinh thể mana, mối quan hệ tin tưởng và hợp tác.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Vua đang bị suy yếu, Frondier đang cố gắng chữa trị cho ông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người hướng dẫn và đưa ra lời khuyên cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Người mà Frondier bảo vệ và quan tâm sâu sắc.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ tiềm ẩn, theo dõi hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Tinh thể mana được tạo ra bởi Frondier và Mei ban đầu được gọi là 'Dragon Heart' giả nhưng sau đó được đặt tên là 'Frondier Heart', tuy nhiên Frondier từ chối cái tên này vì cho rằng nó quá sến súa."
+ ],
+ "stats": {
+  "tokens": 981,
+  "seconds": 30.8
+ }
+}

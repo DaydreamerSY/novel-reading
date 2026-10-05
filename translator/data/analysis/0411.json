@@ -1,0 +1,103 @@
+{
+ "number": 411,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier, Azier và Philly cùng lính canh Hoàng gia tiến vào trụ sở của Phenomenon. Philly xuất hiện khiến mọi người quỳ lạy, nhưng bà đã ra lệnh cấm quỳ trước mặt mình trong một tuần. Frondier gặp lại Eden Hamelot, người mà anh từng ngăn chặn Renzo. Cuộc họp bắt đầu với việc phân tích các báo cáo về việc tiêm Mana, và Frondier đặt rất nhiều câu hỏi về bản đồ khiến Eden cảm thấy kỳ lạ.",
+ "boi_canh": "Trong trụ sở Phenomenon, một buổi họp quan trọng diễn ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Renzo",
+  "Eden",
+  "Eden Hamelot",
+  "Frondier de Roach"
+ ],
+ "su_kien": [
+  "Frondier, Azier và Philly đến trụ sở Phenomenon.",
+  "Mọi người quỳ lạy khi thấy Philly.",
+  "Philly ra lệnh cấm quỳ trước mặt bà trong một tuần.",
+  "Frondier gặp lại Eden Hamelot.",
+  "Cuộc họp bắt đầu với việc phân tích các báo cáo về Mana injection."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu ra lệnh cho Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ tone"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đáp lại mệnh lệnh của Hoàng hậu.",
+   "cach_goi": "gọi tên Philly, không rõ tone"
+  },
+  {
+   "a": "Azier",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier đi cùng Philly.",
+   "cach_goi": "gọi tên Philly, không rõ tone"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em đi cùng nhau.",
+   "cach_goi": "gọi tên Azier, không rõ tone"
+  },
+  {
+   "a": "Eden",
+   "b": "Philly",
+   "loai": "nguoi_la",
+   "mo_ta": "Đại diện của Phenomenon tiếp đón Hoàng hậu.",
+   "cach_goi": "gọi tên Philly, không rõ tone"
+  },
+  {
+   "a": "Philly",
+   "b": "Eden",
+   "loai": "nguoi_la",
+   "mo_ta": "Hoàng hậu tiếp chuyện với đại diện của Phenomenon.",
+   "cach_goi": "gọi tên Eden, không rõ tone"
+  },
+  {
+   "a": "Eden",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người từng gặp nhau và có mối quan hệ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ quen biết nhau.",
+   "cach_goi": "gọi tên Eden, không rõ tone"
+  },
+  {
+   "a": "Azier",
+   "b": "Eden",
+   "loai": "ban_be",
+   "mo_ta": "Hai người đi cùng nhau.",
+   "cach_goi": "gọi tên Eden, không rõ tone"
+  },
+  {
+   "a": "Eden",
+   "b": "Azier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người đi cùng nhau.",
+   "cach_goi": "gọi tên Azier, không rõ tone"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)",
+  "Eden Hamelot (tên đầy đủ của Eden)"
+ ],
+ "stats": {
+  "tokens": 1059,
+  "seconds": 31.5
+ }
+}

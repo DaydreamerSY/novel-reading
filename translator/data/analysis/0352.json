@@ -1,0 +1,64 @@
+{
+ "number": 352,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier quan sát cách Khryselakatos bắn tên trúng điểm yếu của quái vật bóng tối và ghi nhớ vị trí đó. Sau khi sử dụng hết Mana, anh ngã xuống nhưng vẫn giữ được ý thức. Thông tin về điểm yếu của quái vật được truyền đi, giúp quân đội dễ dàng tiêu diệt chúng hơn. Cuối cùng, Frondier vô tình thu thập được chất đen từ quái vật và phát hiện ra nó chứa Mana, cho thấy một khả năng mới.",
+ "boi_canh": "Trên chiến trường, giữa trận chiến với lũ quái vật bóng tối.",
+ "nhan_vat": [
+  "Frondier",
+  "Khryselakatos",
+  "Penelope",
+  "Soldier (unnamed)"
+ ],
+ "su_kien": [
+  "Khryselakatos bắn tên trúng điểm yếu của quái vật bóng tối.",
+  "Frondier quan sát và ghi nhớ vị trí điểm yếu của quái vật.",
+  "Frondier sử dụng hết Mana và ngã xuống.",
+  "Thông tin về điểm yếu của quái vật được truyền đi cho quân đội.",
+  "Frondier thu thập chất đen từ quái vật và phát hiện ra nó chứa Mana."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Khryselakatos",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier quan sát Khryselakatos để học hỏi kỹ năng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Khryselakatos",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Khryselakatos không biết Frondier đang quan sát mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Soldier (unnamed)",
+   "loai": "dong_minh",
+   "mo_ta": "Người lính quan tâm đến tình trạng của Frondier sau khi anh ngã xuống.",
+   "cach_goi": "gọi 'anh', thân mật"
+  },
+  {
+   "a": "Soldier (unnamed)",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Người lính quan tâm đến tình trạng của Frondier sau khi anh ngã xuống.",
+   "cach_goi": "gọi 'anh', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Obsidian: Chất đen được Frondier thu thập, ban đầu là một phần của Khryselakatos và sau đó từ quái vật bóng tối. Nó chứa Mana."
+ ],
+ "stats": {
+  "tokens": 750,
+  "seconds": 22.5
+ }
+}

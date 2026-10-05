@@ -1,0 +1,91 @@
+{
+ "number": 422,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier thẩm vấn Eden Hamelot, sử dụng các công cụ tra tấn để ép anh ta thừa nhận và che đậy hành động của mình. Sau đó, Frondier thả Eden ra với những hướng dẫn nghiêm khắc về việc phủ nhận trách nhiệm của anh ta trong cái chết của những người khác. Trong khi đó, tại phòng thí nghiệm nghiên cứu bí mật của Constel, Angus Mason đang lo lắng vì sự vắng mặt của Eden và sau đó chào đón Ellen và Dier Eiger đến để tham gia vào một dự án nghiên cứu nguy hiểm liên quan đến việc tiêm mana.",
+ "boi_canh": "Phòng giam ngầm, đêm khuya.",
+ "nhan_vat": [
+  "Frondier",
+  "Eden",
+  "Ellen",
+  "Dier",
+  "Angus",
+  "Eden Hamelot",
+  "Dier Eiger",
+  "Angus Mason"
+ ],
+ "su_kien": [
+  "Frondier sử dụng các công cụ tra tấn và thẩm vấn Eden.",
+  "Eden thừa nhận tội lỗi của mình và sụp đổ tinh thần.",
+  "Frondier thả Eden ra và đưa ra những hướng dẫn nghiêm khắc.",
+  "Angus Mason lo lắng vì sự vắng mặt của Eden tại phòng thí nghiệm nghiên cứu.",
+  "Ellen và Dier Eiger đến phòng thí nghiệm nghiên cứu."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier thẩm vấn và tra tấn Eden để đạt được thông tin.",
+   "cach_goi": "gọi tên Eden, lạnh lùng"
+  },
+  {
+   "a": "Eden",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Eden là đối tượng thẩm vấn của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Angus Mason",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Angus là người quản lý nghiên cứu và Ellen là một học viên Constel.",
+   "cach_goi": "gọi tên Ellen, thân mật"
+  },
+  {
+   "a": "Ellen",
+   "b": "Angus Mason",
+   "loai": "cap_tren",
+   "mo_ta": "Ellen là học viên Constel và báo cáo với Angus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier Eiger",
+   "b": "Angus Mason",
+   "loai": "nguoi_la",
+   "mo_ta": "Dier là người mới đến phòng thí nghiệm nghiên cứu và được Angus tiếp đón.",
+   "cach_goi": "gọi tên Angus, lễ phép"
+  },
+  {
+   "a": "Angus Mason",
+   "b": "Dier Eiger",
+   "loai": "nguoi_la",
+   "mo_ta": "Angus tiếp đón Dier đến phòng thí nghiệm nghiên cứu.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier là kẻ thù của Eden và đang lợi dụng anh ta.",
+   "cach_goi": "gọi tên Eden, lạnh lùng"
+  },
+  {
+   "a": "Eden",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Eden là nạn nhân của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot (tên đầy đủ của Eden)",
+  "Dier Eiger (tên đầy đủ của Dier)",
+  "Angus Mason (tên đầy đủ của Angus)"
+ ],
+ "stats": {
+  "tokens": 983,
+  "seconds": 29.4
+ }
+}

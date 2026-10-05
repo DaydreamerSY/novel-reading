@@ -1,0 +1,83 @@
+{
+ "number": 1,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier, một người chơi game nghiện 'Etius', trải nghiệm thất bại liên tiếp trong trò chơi và nhận ra nó không thể vượt qua được. Sau đó, anh tỉnh dậy và phát hiện mình đang ở trong cơ thể của Frondier De Roach, một học sinh quý tộc tại Học Viện Constel, với một kỹ năng độc đáo vô dụng là 'Weaving'. Anh phải đối mặt với áp lực từ cha mình, Lord Enfer, để đạt được thứ hạng cao trong trường hoặc bị truất ngôi.",
+ "boi_canh": "Một cảnh chiến đấu trong game Etius, sau đó chuyển sang phòng học và cuối cùng là phòng của Frondier tại một trang viên lớn.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Enfer",
+  "Odin",
+  "Father",
+  "Student Frondier",
+  "Baldur",
+  "Maid"
+ ],
+ "su_kien": [
+  "Một người đàn ông (có lẽ là nhân vật trong game) sử dụng thanh kiếm để phản chiếu ánh sáng mặt trời và triệu hồi sức mạnh.",
+  "Frondier trải nghiệm thất bại trong trò chơi 'Etius' và nhận ra mình không thể vượt qua được nó.",
+  "Frondier tỉnh dậy trong cơ thể của Frondier De Roach, một học sinh tại Học Viện Constel.",
+  "Anh phát hiện ra mình có kỹ năng độc đáo 'Weaving', cho phép anh tạo ra những vật thể ảo.",
+  "Lord Enfer gửi thư yêu cầu Frondier phải đạt được thứ hạng cao trong trường hoặc bị truất ngôi."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, một nhân vật quan trọng trong gia đình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier, một tướng quân mạnh mẽ và nghiêm khắc.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Odin",
+   "loai": "khac",
+   "mo_ta": "Một vị thần, được nhắc đến trong bối cảnh game và liên quan đến sức mạnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Father",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier, một tướng quân mạnh mẽ và nghiêm khắc.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Student Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Một học sinh khác tại Học Viện Constel, có vẻ như đang chế nhạo Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Maid",
+   "loai": "nguoi_la",
+   "mo_ta": "Một hầu gái phục vụ gia đình De Roach, mang thư từ.",
+   "cach_goi": "gọi 'Master', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier, ra lệnh cho anh ta.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier De Roach (tên mới)",
+  "Human Sloth (biệt danh)"
+ ],
+ "stats": {
+  "tokens": 964,
+  "seconds": 30.4
+ }
+}

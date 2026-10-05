@@ -1,0 +1,62 @@
+{
+ "number": 415,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi phân tích dữ liệu báo cáo về các điểm xuất hiện của 'giọt đen', Frondier nhận ra rằng thông tin sai lệch được cung cấp có chủ đích khớp với các điểm báo cáo thực tế. Điều này cho thấy kẻ thù đang cố tình dẫn dụ các đội điều tra đến một địa điểm cụ thể, nơi mà nếu họ đi theo thông tin thật sẽ không bao giờ tìm thấy. Frondier cũng nhận ra rằng việc này liên quan đến thời gian ủ bệnh của Mana và dự đoán rằng hoạt động của kẻ thù sẽ diễn ra trong ngày hôm nay.",
+ "boi_canh": "Trong phòng họp, các chuyên gia đang thảo luận về thông tin báo cáo về 'giọt đen'.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Eden"
+ ],
+ "su_kien": [
+  "Phân tích dữ liệu cho thấy thông tin sai lệch khớp với các điểm báo cáo thực tế.",
+  "Frondier nhận ra kẻ thù đang cố tình dẫn dụ đội điều tra.",
+  "Philly phát hiện sự trùng lặp giữa thông tin sai lệch và thông tin thực tế.",
+  "Azier giải thích ý nghĩa của việc này: kẻ thù muốn dẫn dụ đội điều tra đi lạc.",
+  "Frondier nhận ra rằng việc này liên quan đến thời gian ủ bệnh của Mana."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người báo cáo và giải thích cho cấp trên.",
+   "cach_goi": "gọi tên Philly, không rõ tone"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly là cấp trên của Frondier và đặt câu hỏi cho anh.",
+   "cach_goi": "gọi tên Frondier, không rõ tone"
+  },
+  {
+   "a": "Eden",
+   "b": "Philly",
+   "loai": "dong_minh",
+   "mo_ta": "Eden là đồng nghiệp của Philly.",
+   "cach_goi": "gọi tên Philly, không rõ tone"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier và Azier cùng làm việc và thảo luận.",
+   "cach_goi": "gọi tên Azier, không rõ tone"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Azier và Frondier cùng làm việc và thảo luận.",
+   "cach_goi": "gọi tên Frondier, không rõ tone"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 725,
+  "seconds": 21.7
+ }
+}

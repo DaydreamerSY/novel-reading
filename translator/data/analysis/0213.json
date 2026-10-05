@@ -1,0 +1,72 @@
+{
+ "number": 213,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier chứng kiến một đám đông sinh viên bất thường tiến vào trường, trong đó có Robald đang hành động mất kiểm soát và có vẻ bị ảnh hưởng bởi ai đó. Aster can thiệp để ngăn chặn Robald tấn công Frondier, dẫn đến một trận chiến giữa họ. Trong khi đó, Frondier và Aten chạy trốn vào phòng phát thanh và phải đối mặt với những sinh viên tấn công, đồng thời Aten đưa ra những nhận xét kỳ lạ về mối quan hệ của họ.",
+ "boi_canh": "Trong khuôn trường học, lúc diễn ra sự kiện bất thường với đám sinh viên.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Aten",
+  "Serf",
+  "Robald"
+ ],
+ "su_kien": [
+  "Một đám đông lớn sinh viên tiến vào trường, có vẻ bất thường.",
+  "Aster ngăn chặn Robald định tấn công Frondier.",
+  "Aster và Robald giao chiến với nhau.",
+  "Frondier và Aten trốn vào phòng phát thanh để tránh bị tấn công.",
+  "Aten đưa ra những nhận xét kỳ lạ về việc bị Frondier bắt cóc làm nô lệ."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Robald",
+   "loai": "doi_thu",
+   "mo_ta": "Aster ngăn chặn Robald đang mất kiểm soát.",
+   "cach_goi": "gọi tên Robald, không thân thiết"
+  },
+  {
+   "a": "Robald",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Robald tấn công Aster sau khi bị ngăn cản.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Hai người chạy trốn cùng nhau và trò chuyện.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aten đưa ra những nhận xét kỳ lạ về mối quan hệ của họ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robald",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier muốn trả thù Robald.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Robald",
+   "loai": "doi_thu",
+   "mo_ta": "Aster ngăn chặn và đối đầu với Robald.",
+   "cach_goi": "gọi tên Robald, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst (tam công chúa)"
+ ],
+ "stats": {
+  "tokens": 753,
+  "seconds": 22.6
+ }
+}

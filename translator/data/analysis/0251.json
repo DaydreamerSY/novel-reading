@@ -1,0 +1,121 @@
+{
+ "number": 251,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Kraken và những người khác thảo luận về thẻ bài do Serf tạo ra và những lo ngại về sự phát triển của Frondier. Họ nghi ngờ có gián điệp trong Indus và khám phá ra mối liên hệ giữa Manggot và Frondier. Sau đó, câu chuyện chuyển sang cuộc sống thường nhật của Frondier tại trường Constel, nơi Kora trở thành học sinh mới và thể hiện thái độ kỳ lạ đối với Frondier.",
+ "boi_canh": "Một căn phòng kín đáo, buổi họp bí mật giữa các lãnh đạo.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Quinie",
+  "Enfer",
+  "Jane",
+  "Kraken",
+  "Kora",
+  "Serf",
+  "Armel",
+  "Kian",
+  "Thomson"
+ ],
+ "su_kien": [
+  "Kraken thảo luận về thẻ bài của Serf và thời gian cần thiết để tạo ra chúng.",
+  "Những người có mặt bày tỏ lo ngại về sự phát triển sức mạnh của Frondier.",
+  "Nghi ngờ về việc có gián điệp trong Indus.",
+  "Khám phá ra mối liên hệ giữa Manggot và Frondier.",
+  "Kora trở thành học sinh mới tại Constel và thể hiện thái độ đặc biệt với Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Kraken",
+   "b": "Serf",
+   "loai": "ke_thu",
+   "mo_ta": "Kraken đã giết Serf và đang thảo luận về di sản của anh ta.",
+   "cach_goi": "gọi tên Serf, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serf",
+   "b": "Kraken",
+   "loai": "ke_thu",
+   "mo_ta": "Đã qua đời, nhưng di sản của anh ta vẫn được thảo luận.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kraken",
+   "b": "Kian",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh trong một mục tiêu chung.",
+   "cach_goi": "gọi tên Kian, lễ phép"
+  },
+  {
+   "a": "Kian",
+   "b": "Kraken",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh trong một mục tiêu chung.",
+   "cach_goi": "gọi tên Kraken, lễ phép"
+  },
+  {
+   "a": "Kraken",
+   "b": "Thomson",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh trong một mục tiêu chung.",
+   "cach_goi": "gọi tên Thomson, lễ phép"
+  },
+  {
+   "a": "Thomson",
+   "b": "Kraken",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh trong một mục tiêu chung.",
+   "cach_goi": "gọi tên Kraken, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Aten nhìn Frondier với ánh mắt nghi ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Aten nhìn Frondier với ánh mắt nghi ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kora",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Kora thể hiện sự sợ hãi và tôn trọng đối với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kora",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Kora thể hiện sự sợ hãi và tôn trọng đối với Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, Jane có vẻ mệt mỏi và nhìn Frondier với sự khó chịu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, Frondier nghi ngờ Jane đang khó chịu vì anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Serf: Đã qua đời, người tạo ra thẻ bài.",
+  "Manggot: Tổ chức có liên hệ với Frondier và giới quý tộc cao cấp."
+ ],
+ "stats": {
+  "tokens": 1321,
+  "seconds": 41.7
+ }
+}

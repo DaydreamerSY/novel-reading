@@ -1,0 +1,62 @@
+{
+ "number": 340,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Từ trên rào chắn, Sylvain quan sát lũ quái vật. Ông ta nhận thấy sự xuất hiện của những con quái vật màu đen kỳ lạ, có khả năng lây lan 'bệnh' màu đen cho các quái vật khác. Sylvain lo ngại về điều này và báo cáo tình hình với cấp trên, Frondier, vì ông cảm thấy trận chiến sắp tới vượt quá tầm kiểm soát của mình.",
+ "boi_canh": "Trên rào chắn, quan sát lũ quái vật.",
+ "nhan_vat": [
+  "Sylvain",
+  "Frondier",
+  "Enfer",
+  "Knight (Không rõ tên)"
+ ],
+ "su_kien": [
+  "Sylvain phát hiện những con quái vật màu đen kỳ lạ.",
+  "Những con quái vật màu đen lây lan 'bệnh' màu đen cho các quái vật khác.",
+  "Báo cáo tình hình với Frondier.",
+  "Đánh giá sự chuẩn bị của quân đội phòng thủ.",
+  "Sylvain nhận thấy có một lượng lớn quái vật ẩn sau hàng ngũ trước mặt."
+ ],
+ "quan_he": [
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Sylvain báo cáo tình hình cho cấp trên là Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ thái độ"
+  },
+  {
+   "a": "Knight (Không rõ tên)",
+   "b": "Sylvain",
+   "loai": "dong_minh",
+   "mo_ta": "Một người lính báo cáo tình hình cho Sylvain.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Knight (Không rõ tên)",
+   "loai": "dong_minh",
+   "mo_ta": "Sylvain trả lời và chỉ đạo người lính.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Sylvain",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 649,
+  "seconds": 19.4
+ }
+}

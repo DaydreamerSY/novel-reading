@@ -1,0 +1,92 @@
+{
+ "number": 398,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với những lời xì xào về hành động kỳ lạ của Frondier khi nhờ Pielott làm việc vặt. Tin đồn lan nhanh, khiến danh tiếng của Frondier xấu đi. Aten lên tiếng cảnh báo, nhưng Frondier phủ nhận và trấn an mọi người. Trong khi đó, Dier gặp một người đàn ông đeo mặt nạ với lời đề nghị đáng ngờ.",
+ "boi_canh": "Trong lớp học của trường Constel, vào thời điểm giữa các tiết học.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Quinie",
+  "Pielott",
+  "Dier",
+  "Jane",
+  "Dier Eiger"
+ ],
+ "su_kien": [
+  "Frondier nhờ Pielott làm việc vặt, gây xôn xào trong lớp.",
+  "Aten cảnh báo Frondier về hành động của anh ta.",
+  "Tin đồn lan truyền về việc Frondier lợi dụng Pielott.",
+  "Jane đưa ra lời cảnh báo về những đề nghị kỳ lạ từ bên ngoài trường.",
+  "Dier gặp một người đàn ông đeo mặt nạ với lời đề nghị đáng ngờ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier lợi dụng Pielott để đạt được mục đích.",
+   "cach_goi": "gọi tên Pielott, không thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Pielott tuân lệnh Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Aten là người lớn tuổi hơn và có vẻ quan tâm đến hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier cố gắng trấn an Aten.",
+   "cach_goi": "gọi tên Aten, không thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Elodie là bạn của Frondier và quan sát tình hình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Frondier trả lời Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Jane là giáo viên và quan sát hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Dier",
+   "b": "Người đàn ông đeo mặt nạ",
+   "loai": "nguoi_la",
+   "mo_ta": "Dier gặp một người lạ với lời đề nghị đáng ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Người đàn ông đeo mặt nạ: Có thể là một thành viên của tổ chức bí mật đang tuyển mộ học sinh Constel."
+ ],
+ "stats": {
+  "tokens": 974,
+  "seconds": 29.2
+ }
+}

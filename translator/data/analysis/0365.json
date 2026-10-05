@@ -1,0 +1,71 @@
+{
+ "number": 365,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier tấn công một băng nguyên bằng thanh kiếm Excalibur, gây ra những vết nứt nhưng không thể phá hủy nó hoàn toàn. Anh ta sử dụng Obsidian từ Black Lotus để mở rộng các vết nứt, nhưng vô tình giải phóng năng lượng Helheim. Sau đó, Hela, nữ thần cai quản âm ti, xuất hiện và đánh giá thấp sức mạnh của con người. Frondier cuối cùng đã hấp thụ tất cả các mảnh vỡ Helheim vào cơ thể mình.",
+ "boi_canh": "Một trận chiến đang diễn ra trước một băng nguyên.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Hela",
+  "Hel"
+ ],
+ "su_kien": [
+  "Frondier tấn công băng nguyên bằng Excalibur nhưng không thể phá hủy nó ngay lập tức.",
+  "Selena liên tục di chuyển và bắn tên để bảo vệ Frondier khỏi quái vật.",
+  "Frondier sử dụng Obsidian từ Black Lotus để mở rộng vết nứt trên băng nguyên.",
+  "Hela xuất hiện sau khi băng nguyên vỡ tan, đánh giá sức mạnh của con người.",
+  "Frondier hấp thụ tất cả các mảnh vỡ Helheim vào cơ thể mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier tin tưởng và dựa vào sự bảo vệ của Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Selena lo lắng cho sự an toàn của Frondier và thường xuyên nhắc nhở anh.",
+   "cach_goi": "gọi tên Frondier-nim, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hela",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Hela xuất hiện và đánh giá thấp Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hela",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Hela đánh giá thấp Frondier và sức mạnh của con người.",
+   "cach_goi": "gọi 'child', khinh thường"
+  },
+  {
+   "a": "Selena",
+   "b": "Hela",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Selena cảm thấy tức giận vì sự khinh thường của Hela đối với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hela",
+   "b": "Selena",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Hela đánh giá sức mạnh của Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hel: Tên khác của Hera, nữ thần cai quản âm ti."
+ ],
+ "stats": {
+  "tokens": 814,
+  "seconds": 24.3
+ }
+}

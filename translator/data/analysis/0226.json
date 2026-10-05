@@ -1,0 +1,82 @@
+{
+ "number": 226,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier mang một con quạ vào lớp học và gây ấn tượng với Aten bằng khả năng điều khiển nó chỉ bằng cử chỉ và ánh mắt. Sau đó, Frondier tìm kiếm người lan truyền tin đồn về mình. Đồng thời, tại phòng họp của Constel, các giáo viên đang phải đối mặt với sự tức giận và thất vọng sau vụ việc liên quan đến Frondier và chiếc 'business card' bí ẩn.",
+ "boi_canh": "Trong lớp học, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Osprey",
+  "Jane",
+  "Malia",
+  "Kraken",
+  "Binkis",
+  "Gregory"
+ ],
+ "su_kien": [
+  "Frondier mang một con quạ vào lớp học.",
+  "Aten thể hiện sự ngưỡng mộ đối với khả năng điều khiển động vật của Frondier.",
+  "Con quạ bay đi sau khi kết thúc giờ học.",
+  "Frondier bắt đầu tìm kiếm người lan truyền tin đồn.",
+  "Các giáo viên Constel họp khẩn cấp để thảo luận về vụ việc liên quan đến 'business card'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aten ngưỡng mộ Frondier.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aten ngưỡng mộ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "nguoi_la",
+   "mo_ta": "Gregory là một con quạ, thu thập thông tin cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binkis",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên và hiệu trưởng, Binkis bày tỏ sự thất vọng với Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Binkis",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên và hiệu trưởng, Binkis bày tỏ sự thất vọng với Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên và hiệu trưởng, Jane tham gia cuộc họp với Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Mẹ của Frondier và vợ của Enfer, Malia tham gia cuộc họp với Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Gregory (xuất hiện dưới hình dạng một con quạ)"
+ ],
+ "stats": {
+  "tokens": 860,
+  "seconds": 25.8
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "number": 374,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong kỳ nghỉ xuân ngắn ngủi giữa khi tốt nghiệp và mùa xuân đến, Theo de Blanc, cựu chủ tịch hội học sinh Constel, đang vật lộn với việc tìm người kế nhiệm. Anh ta tranh luận với Byzant về trách nhiệm của mình và cuối cùng cân nhắc Ellen Evans làm ứng cử viên tiềm năng. Bất ngờ, Ellen xuất hiện và đề nghị đảm nhận chức vụ chủ tịch hội học sinh.",
+ "boi_canh": "Phòng hội học sinh Constel trong kỳ nghỉ xuân.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Ellen",
+  "Theo",
+  "Ellen Evans",
+  "Byzant",
+  "Theo de Blanc"
+ ],
+ "su_kien": [
+  "Theo đang tìm kiếm người kế nhiệm cho vị trí chủ tịch hội học sinh.",
+  "Theo và Byzant tranh luận về trách nhiệm của cựu chủ tịch hội học sinh.",
+  "Theo cân nhắc Ellen Evans làm ứng cử viên tiềm năng.",
+  "Ellen Evans bất ngờ xuất hiện tại phòng hội học sinh.",
+  "Ellen đề nghị đảm nhận chức vụ chủ tịch hội học sinh."
+ ],
+ "quan_he": [
+  {
+   "a": "Theo",
+   "b": "Byzant",
+   "loai": "ban_be",
+   "mo_ta": "Đồng năm nhất, tranh luận về trách nhiệm và tương lai của hội học sinh.",
+   "cach_goi": "gọi tên Byzant, thân mật"
+  },
+  {
+   "a": "Byzant",
+   "b": "Theo",
+   "loai": "ban_be",
+   "mo_ta": "Đồng năm nhất, tranh luận về trách nhiệm và tương lai của hội học sinh.",
+   "cach_goi": "gọi tên Theo, thân mật"
+  },
+  {
+   "a": "Theo",
+   "b": "Ellen Evans",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ lần đầu tiên, Theo ngạc nhiên trước sự xuất hiện của cô.",
+   "cach_goi": "gọi tên Ellen Evans, lễ phép"
+  },
+  {
+   "a": "Ellen Evans",
+   "b": "Theo",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ lần đầu tiên, đề nghị đảm nhận vị trí chủ tịch hội học sinh.",
+   "cach_goi": "gọi tên Theo, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Ellen Evans là tên đầy đủ của Ellen."
+ ],
+ "stats": {
+  "tokens": 628,
+  "seconds": 18.8
+ }
+}

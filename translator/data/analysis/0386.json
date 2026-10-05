@@ -1,0 +1,116 @@
+{
+ "number": 386,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi vượt qua vòng loại đầu tiên, Frondier và những người khác đến phòng chờ đợi để bước vào vòng hai. Họ gặp Piellot và một nhóm học viên khác. Khi họ chuẩn bị tiến vào vòng hai, họ phát hiện ra người giám khảo là một học sinh cao niên có vẻ ngoài mệt mỏi tên là Frondier, người đã thay đổi quy tắc thi để trêu chọc thí sinh.",
+ "boi_canh": "Phòng chờ đợi trước vòng loại thứ hai của một kỳ thi.",
+ "nhan_vat": [
+  "Frondier",
+  "Pielott",
+  "Dier",
+  "Piellot",
+  "Combat Student",
+  "Magic Male Student",
+  "Magic Female Student"
+ ],
+ "su_kien": [
+  "Nhóm gặp Piellot và những học viên khác trong phòng chờ.",
+  "Cánh cửa vòng hai mở ra sau khi một báo động vang lên.",
+  "Người giám khảo, Frondier, tiết lộ quy tắc mới: chạm vào chìa khóa để vượt qua.",
+  "Frondier thừa nhận rằng các thí sinh trước đó không thể vượt qua và thay đổi quy tắc ban đầu.",
+  "Pielott đề xuất hạ gục người giám khảo Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Dier",
+   "b": "Piellot",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu trong phòng chờ.",
+   "cach_goi": "gọi tên Piellot, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Piellot",
+   "b": "Dier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu trong phòng chờ.",
+   "cach_goi": "gọi tên Dier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Combat Student",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người cùng nhau chờ đợi để vào vòng hai.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Magic Male Student",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người cùng nhau chờ đợi để vào vòng hai.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Magic Female Student",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người cùng nhau chờ đợi để vào vòng hai.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hỏi về lý do Piellot không đi tiếp.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "nguoi_la",
+   "mo_ta": "Trả lời câu hỏi của Frondier.",
+   "cach_goi": "gọi tên Dier, lạnh lùng"
+  },
+  {
+   "a": "Magic Male Student",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Bày tỏ sự khó chịu với cách làm của Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ thái độ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Magic Male Student",
+   "loai": "nguoi_la",
+   "mo_ta": "Trả lời lại Magic Male Student.",
+   "cach_goi": "gọi tên Magic Male Student, lạnh lùng"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đề xuất hạ gục người giám khảo.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người cùng nhau chờ đợi để vào vòng hai.",
+   "cach_goi": "gọi tên Pielott, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Magic Female Student",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đọc to tên của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier (giám khảo vòng hai, có vẻ ngoài mệt mỏi)"
+ ],
+ "stats": {
+  "tokens": 1245,
+  "seconds": 37.3
+ }
+}

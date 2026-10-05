@@ -1,0 +1,74 @@
+{
+ "number": 337,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier thẩm vấn Laurie, một thành viên của Dịch vụ Bí mật Đế quốc, để tìm hiểu về một cổng không gian bí mật vượt qua rào cản Yeranhes. Ông phát hiện ra rằng Dịch vụ Bí mật đã bí mật thiết lập cổng này trong quá khứ. Gregory, dưới hình dạng một con quạ, phàn nàn về việc Frondier lợi dụng ông và cảnh báo về mối đe dọa từ những sinh vật đen đang trào ra từ Fragment of Helheim. Cuối cùng, Frondier triệu hồi Selena để bắt đầu lên kế hoạch phá hủy Fragment of Helheim.",
+ "boi_canh": "Trong phòng thẩm vấn tại một địa điểm không xác định, vào ban đêm.",
+ "nhan_vat": [
+  "Frondier",
+  "Laurie",
+  "Philly",
+  "Enfer",
+  "Kraken",
+  "Gregory",
+  "Selena"
+ ],
+ "su_kien": [
+  "Frondier thẩm vấn Laurie về cổng không gian vượt qua rào cản Yeranhes.",
+  "Laurie tiết lộ Dịch vụ Bí mật đã bí mật thiết lập cổng không gian.",
+  "Gregory (dưới hình dạng quạ) phàn nàn và cảnh báo về mối đe dọa từ Fragment of Helheim.",
+  "Frondier triệu hồi Selena.",
+  "Frondier quyết định lên kế hoạch phá hủy Fragment of Helheim."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "nguoi_la",
+   "mo_ta": "Thẩm vấn và nghi ngờ lẫn nhau.",
+   "cach_goi": "gọi tên Laurie, lạnh lùng"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Lo lắng và dè chừng.",
+   "cach_goi": "gọi tên Frondier, sợ hãi"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Không tương tác trực tiếp, Philly không tiết lộ thông tin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "thay_tro",
+   "mo_ta": "Người chủ và người giúp việc, có chút trêu chọc.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người giúp việc phàn nàn và cảnh báo.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Người chủ và người hầu, Selena tuân lệnh.",
+   "cach_goi": "gọi tên Selena, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Gregory hiện đang bị giam giữ trong tù."
+ ],
+ "stats": {
+  "tokens": 808,
+  "seconds": 24.1
+ }
+}

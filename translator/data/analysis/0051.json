@@ -1,0 +1,69 @@
+{
+ "number": 51,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier vạch trần một thương nhân bán vũ khí giả mạo, khiến người này phải thú nhận tội lỗi. Sau đó, anh đề nghị giới thiệu Ellen cho một thợ rèn đáng tin cậy, nhưng Ellen tỏ ra ngập ngừng khi giải thích mối quan hệ của mình với người thợ rèn đó. Cuối cùng, Frondier đưa ra những nhận xét kỳ lạ về Ellen và cách cô ấy hành xử.",
+ "boi_canh": "Trong một cửa hàng vũ khí ở Rubanu, Constel.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Ellen",
+  "Merchant"
+ ],
+ "su_kien": [
+  "Frondier phát hiện ra thanh kiếm được bán là giả mạo.",
+  "Thương nhân tức giận và phủ nhận lời nói của Frondier.",
+  "Frondier phá vỡ thanh kiếm bằng tay trần, chứng minh sự thật.",
+  "Thương nhân thú nhận tội lỗi và những hành vi phạm pháp trước đó.",
+  "Frondier đề nghị giới thiệu Ellen cho một thợ rèn đáng tin cậy."
+ ],
+ "quan_he": [
+  {
+   "a": "Merchant",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Thương nhân tức giận vì bị Frondier vạch trần.",
+   "cach_goi": "gọi 'brat' trẻ tuổi, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Merchant",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier vạch trần hành vi lừa đảo của thương nhân.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Ellen tin tưởng Frondier và tìm kiếm sự giúp đỡ của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Frondier quan tâm đến Ellen và đề nghị giúp đỡ cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Merchant",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Thương nhân lo lắng về việc Ellen đang tìm kiếm điều gì.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Aster",
+   "loai": "gia_dinh",
+   "mo_ta": "Ellen nghĩ về tình hình của Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 735,
+  "seconds": 22.1
+ }
+}

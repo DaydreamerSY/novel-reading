@@ -1,0 +1,95 @@
+{
+ "number": 152,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi kết thúc các kỳ thi thực hành cuối học kỳ, Frondier bất ngờ đạt vị trí số một nhờ thành tích vượt trội và vai trò 'lười biếng' của mình. Điều này dường như đã giải quyết được một điều kiện mà Enfer đã đề cập trước đó. Sau đó, anh có bữa tối mừng chiến thắng với gia đình, nơi cha anh, Enfer, thể hiện sự quan tâm bất thường và thậm chí gợi ý cho Frondier về việc chuyển trường.",
+ "boi_canh": "Trong khuôn viên trường Constel, sau khi kết thúc các kỳ thi cuối học kỳ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Enfer",
+  "Malia",
+  "Thor",
+  "Marlia"
+ ],
+ "su_kien": [
+  "Kết thúc các kỳ thi thực hành cuối học kỳ và công bố kết quả.",
+  "Frondier đạt vị trí số một trong bảng xếp hạng chung cuộc.",
+  "Elodie tặng Frondier một lon đồ uống nóng.",
+  "Gia đình Frondier (Enfer, Malia, Azier) tổ chức bữa tối mừng chiến thắng.",
+  "Enfer đề nghị Frondier cân nhắc chuyển trường."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan tâm và động viên Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan tâm và động viên Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, có sự xa cách và những hiểu lầm.",
+   "cach_goi": "gọi 'cha', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, có sự xa cách và những hiểu lầm.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Malia",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng, quan tâm đến nhau nhưng có những khác biệt.",
+   "cach_goi": "gọi 'chồng', thân mật"
+  },
+  {
+   "a": "Enfer",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng, quan tâm đến nhau nhưng có những khác biệt.",
+   "cach_goi": "gọi 'vợ', thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, ăn uống cạnh Frondier trong bữa tối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marlia",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ của Enfer, quan sát và can thiệp vào cuộc trò chuyện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marlia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ của Enfer, quan sát và can thiệp vào cuộc trò chuyện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Wild Amuse: Tên một nhà hàng nổi tiếng thuộc lãnh địa của gia đình Roach (Yeranhes)."
+ ],
+ "stats": {
+  "tokens": 1044,
+  "seconds": 32.6
+ }
+}

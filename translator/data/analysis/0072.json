@@ -1,0 +1,131 @@
+{
+ "number": 72,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhận được một WizardGram từ Elodie, một thiết bị ghi hình và chiếu lại cảnh chiến đấu. Anh cũng biết về việc Aten Terst, công chúa út của Đế quốc Terst, gia nhập lớp học của mình. Frondier đang chuẩn bị cho các kỳ thi giữa kỳ tại Constel và lo lắng về phần thực hành hơn là phần lý thuyết, đồng thời suy nghĩ về cách học Falling Edge từ Azier.",
+ "boi_canh": "Trong lớp học của Constel, trước khi bắt đầu buổi học.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Philly Terst",
+  "Aten",
+  "Sybil",
+  "Azier",
+  "Enfer",
+  "Jane",
+  "Aten Terst",
+  "Philly Terst"
+ ],
+ "su_kien": [
+  "Frondier nhận được WizardGram từ Elodie.",
+  "Elodie giải thích cách sử dụng WizardGram.",
+  "Sybil hỏi về 'review' (ôn tập).",
+  "Jane thông báo có học sinh mới chuyển đến là Aten Terst.",
+  "Aten Terst giới thiệu bản thân."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết, Elodie trao WizardGram cho Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết, Elodie trao WizardGram cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng lớp, Frondier quan sát Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng lớp, Sybil hỏi Frondier về 'review'.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng lớp, Elodie giải thích về 'review' cho Sybil.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng lớp, Sybil lắng nghe Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "dong_minh",
+   "mo_ta": "Anh trai, Frondier đang học cận chiến từ Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Anh trai, Azier là người hướng dẫn cận chiến cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Cha, Frondier phải đạt thành tích tốt để hoàn thành nhiệm vụ của Enfer.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Cha, giao nhiệm vụ cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên, Frondier quan sát Jane.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên, thông báo về học sinh mới.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Aten Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Giáo viên giới thiệu Aten cho cả lớp.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Jane",
+   "loai": "nguoi_la",
+   "mo_ta": "Học sinh mới, Aten cúi chào Jane.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1330,
+  "seconds": 39.9
+ }
+}

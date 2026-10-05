@@ -1,0 +1,84 @@
+{
+ "number": 303,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi thanh toán những người ở lâu đài, Yeolgot chuẩn bị rút lui. Frondier bị trói vào ghế, quan sát tình hình. Renzo xuất hiện và phá hủy mọi thứ trong cơn giận dữ trước khi hoãn lại trận đấu với Frondier, ám chỉ một mối nguy hiểm mà Heldre đã gây ra. Cuối cùng, Renzo rời đi, để lại Frondier bị trói.",
+ "boi_canh": "Trong lâu đài, sau khi Yeolgot thanh toán những người ở đó.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Renzo",
+  "Kraken",
+  "Heldre",
+  "Cain",
+  "Thompson",
+  "Skyler",
+  "Jei"
+ ],
+ "su_kien": [
+  "Yeolgot thanh toán những người ở lâu đài.",
+  "Renzo phá hủy mọi thứ trong lâu đài sau khi hoãn trận đấu với Frondier.",
+  "Frondier tiết lộ rằng mana của anh ta đã bị rút cạn.",
+  "Renzo ám chỉ Heldre đã gây ra việc mất mana của Frondier.",
+  "Renzo rời đi, hứa hẹn sẽ giết Frondier trong tương lai."
+ ],
+ "quan_he": [
+  {
+   "a": "Jei",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "tướng lĩnh của Yeolgot, báo cáo với Selena.",
+   "cach_goi": "gọi 'Lord Jei', lễ phép"
+  },
+  {
+   "a": "Selena",
+   "b": "Jei",
+   "loai": "cap_tren",
+   "mo_ta": "tướng lĩnh của Yeolgot, ra lệnh cho Jei.",
+   "cach_goi": "gọi tên Jei, thân mật"
+  },
+  {
+   "a": "Yeolgot member",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "các thành viên Yeolgot, báo cáo với Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena nhìn Frondier, suy nghĩ của cô ấy bị Frondier nhận ra.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier nói chuyện với Selena khi cô ấy đang suy nghĩ.",
+   "cach_goi": "gọi tên Selena, lạnh lùng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ của Frondier, có vẻ như từng là bạn bè.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ của Renzo, khiêu khích Renzo.",
+   "cach_goi": "gọi tên Renzo, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Kraken: bị tố đã tấn công đồng đội để trốn thoát.",
+  "Heldre: được nhắc đến như người gây ra việc Frondier mất mana."
+ ],
+ "stats": {
+  "tokens": 901,
+  "seconds": 27.7
+ }
+}

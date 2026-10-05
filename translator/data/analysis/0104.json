@@ -1,0 +1,87 @@
+{
+ "number": 104,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi thành tích của Frondier được cập nhật, các giảng viên đã tập trung để xem xét lại kết quả khó tin này. Họ nghi ngờ Frondier có thể đã gian lận hoặc sử dụng kỹ thuật đặc biệt nào đó. Cuộc tranh luận dẫn đến việc đặt câu hỏi trực tiếp cho Frondier về cách anh đạt được thành tích đột phá, và Frondier tiết lộ rằng anh biết kẻ phản bội.",
+ "boi_canh": "Trong phòng huấn luyện cá nhân, các giảng viên đang thảo luận về thành tích của Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Renzo",
+  "Jane",
+  "Malia",
+  "Alex",
+  "Malia de Roach"
+ ],
+ "su_kien": [
+  "Thành tích của Frondier được công bố và gây tranh cãi.",
+  "Các giảng viên tiến hành tái kiểm tra thành tích của Frondier.",
+  "Jane thử nghiệm lại với kết quả 34.6 giây.",
+  "Malia de Roach đề xuất khả năng Frondier có kỹ năng lập trình.",
+  "Frondier tiết lộ anh biết danh tính kẻ phản bội."
+ ],
+ "quan_he": [
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giảng viên và học sinh, Jane đang thẩm vấn Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia de Roach",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, Malia đang quan sát và bảo vệ con trai.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Alex",
+   "b": "Jane",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp giảng viên, Alex đang đặt câu hỏi cho Jane.",
+   "cach_goi": "gọi tên Jane, lễ phép"
+  },
+  {
+   "a": "Jane",
+   "b": "Alex",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp giảng viên, Jane trả lời câu hỏi của Alex.",
+   "cach_goi": "gọi tên Alex, lễ phép"
+  },
+  {
+   "a": "Malia de Roach",
+   "b": "Alex",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp giảng viên, Malia trả lời câu hỏi của Alex.",
+   "cach_goi": "gọi tên Alex, lễ phép"
+  },
+  {
+   "a": "Alex",
+   "b": "Malia de Roach",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp giảng viên, Alex trả lời câu hỏi của Malia.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giảng viên, Frondier trả lời câu hỏi của Jane.",
+   "cach_goi": "gọi tên Jane, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia de Roach",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và mẹ, Frondier trả lời câu hỏi của Malia.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 945,
+  "seconds": 29.2
+ }
+}

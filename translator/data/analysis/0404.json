@@ -1,0 +1,75 @@
+{
+ "number": 404,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tìm đến Dier để học hỏi kỹ năng che giấu Mana, nhưng Dier lại tỏ ra nghi ngờ và muốn được Frondier huấn luyện. Để thuyết phục Dier, Frondier đề nghị giới thiệu anh với Aster và hứa sẽ giúp Pielott tiến bộ. Cuối cùng, Dier từ chối lời đề nghị của Frondier và bày tỏ mong muốn đi theo con đường của người đàn ông lười biếng này.",
+ "boi_canh": "Một buổi chiều tại Constel, trong một cuộc gặp gỡ bất ngờ giữa Frondier và Dier.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Azier",
+  "Enfer",
+  "Pielott",
+  "Dier",
+  "Dier Eiger"
+ ],
+ "su_kien": [
+  "Frondier tìm đến Dier để học hỏi.",
+  "Dier nghi ngờ động cơ của Frondier.",
+  "Frondier đề nghị giúp Pielott tiến bộ và giới thiệu Dier với Aster.",
+  "Dier từ chối lời đề nghị của Frondier.",
+  "Dier bày tỏ mong muốn đi theo con đường của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "nguoi_la",
+   "mo_ta": "Mới gặp nhau, Dier nghi ngờ động cơ của Frondier.",
+   "cach_goi": "gọi tên Dier, lạnh lùng"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Nghi ngờ và dè chừng đối với Frondier.",
+   "cach_goi": "gọi tên Frondier, thận trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Huấn luyện viên và học trò.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò và người huấn luyện.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Dier quan sát Pielott.",
+   "cach_goi": "gọi tên Pielott, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Pielott quan sát Dier.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Dier Eiger: Tên đầy đủ của một nhân vật."
+ ],
+ "stats": {
+  "tokens": 783,
+  "seconds": 23.4
+ }
+}

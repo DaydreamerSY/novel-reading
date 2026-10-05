@@ -1,0 +1,82 @@
+{
+ "number": 403,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Tin đồn về Frondier lan rộng khắp trường Constel, khiến mọi người tò mò về sức mạnh thực sự của cậu. Để giải quyết vấn đề này, Frondier quyết định tham gia một nhiệm vụ chung mà không sử dụng Mana, một hành động đầy thách thức và có thể gây ấn tượng với học sinh. Cậu cũng đang tìm cách che giấu Mana của mình tốt hơn để tránh những hiểu lầm.",
+ "boi_canh": "Trong lớp học ở trường Constel, Frondier và Elodie đang thảo luận về tin đồn xung quanh cậu.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aten",
+  "Azier",
+  "Quinie",
+  "Pielott",
+  "Edwin"
+ ],
+ "su_kien": [
+  "Tin đồn về Frondier lan rộng trong trường.",
+  "Frondier được phân công tham gia một nhiệm vụ chung giữa các cấp lớp.",
+  "Frondier quyết định hoàn thành nhiệm vụ mà không sử dụng Mana.",
+  "Elodie bày tỏ sự ngạc nhiên và thách thức đối với quyết định của Frondier.",
+  "Frondier tìm cách che giấu Mana của mình tốt hơn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, luôn hỗ trợ và động viên Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, luôn hỗ trợ và động viên Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, có liên quan đến việc báo cáo về tin đồn lên cung điện Hoàng gia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Đã từng làm việc cùng nhau trong nhiệm vụ chung năm ngoái.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Người mà Frondier thường xuyên triệu hồi và giao việc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Đã từng làm việc cùng nhau trong nhiệm vụ chung năm ngoái.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst (tam công chúa)",
+  "Helheim Mana (Mana mà Frondier nhận được)"
+ ],
+ "stats": {
+  "tokens": 878,
+  "seconds": 26.2
+ }
+}

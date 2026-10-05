@@ -1,0 +1,95 @@
+{
+ "number": 183,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier kể lại câu chuyện về nguồn gốc của khu rừng giấc mơ do Merlin tạo ra để bảo vệ hồ nước và chọn người kế vị cho King Arthur. Anh phơi bày những lời dối trá của Nimue, tiết lộ rằng cô ấy đã lợi dụng Merlin bằng cách điều khiển quái vật tấn công Tyburn để che giấu sự thật về Excalibur và ngăn chặn sự tiến bộ của con người. Cuối cùng, Frondier rời khỏi khu rừng với Selena, để lại Merlin và Nimue đối mặt với những sự thật phũ phàng.",
+ "boi_canh": "Trong khu rừng giấc mơ do Merlin tạo ra, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Merlin",
+  "Cassian",
+  "Selena",
+  "Nimue",
+  "Arthur",
+  "Lady of the Lake"
+ ],
+ "su_kien": [
+  "Frondier kể câu chuyện về nguồn gốc của khu rừng giấc mơ cho Selena.",
+  "Frondier phơi bày sự thật về Nimue và hành động điều khiển quái vật tấn công Tyburn.",
+  "Nimue lộ rõ vẻ phòng thủ sau khi nghe Frondier nói.",
+  "Frondier chứng minh việc mình đã có Excalibur, dù chỉ là ảo ảnh.",
+  "Frondier và Selena rời khỏi khu rừng trên lưng Cassian."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Merlin",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier kể chuyện cho Merlin, người không phản ứng.",
+   "cach_goi": "gọi tên 'Merlin', lạnh lùng"
+  },
+  {
+   "a": "Merlin",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Merlin lắng nghe Frondier kể chuyện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Frondier kể chuyện cho Selena, người lắng nghe.",
+   "cach_goi": "gọi tên 'Selena', thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Selena lắng nghe Frondier kể chuyện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Nimue",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier đối chất với Nimue, tố cáo dối trá của cô.",
+   "cach_goi": "gọi tên 'Nimue', thô lỗ"
+  },
+  {
+   "a": "Nimue",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Nimue phòng thủ sau khi bị Frondier đối chất.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cassian",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier cưỡi Cassian rời khỏi khu rừng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Cassian",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena cưỡi Cassian rời khỏi khu rừng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nimue",
+   "b": "Merlin",
+   "loai": "khac",
+   "mo_ta": "Mối quan hệ phức tạp, Nimue lợi dụng Merlin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Excalibur: Hiện tại chỉ là ảo ảnh do Merlin tạo ra, nhưng Nimue đang nắm giữ thanh Excalibur thật sự."
+ ],
+ "stats": {
+  "tokens": 1034,
+  "seconds": 30.9
+ }
+}

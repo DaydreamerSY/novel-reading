@@ -1,0 +1,88 @@
+{
+ "number": 435,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Sale và Aten xuất hiện, đại sảnh lại vang lên tiếng trò chuyện. Hai công chúa chào hỏi các quý tộc và những tài năng trẻ đầy hứa hẹn, thể hiện phép tắc của một thành viên hoàng gia. Khi Frondier cúi chào Aten, hai người có một cuộc đối thoại ngắn ngủi, không được trang trọng như vẻ ngoài của họ. Tiếp theo đó, Hoàng hậu Philly và Quốc vương Bartello xuất hiện, gây sốc cho Aten khi chứng kiến tình trạng sức khỏe yếu kém của cha mình.",
+ "boi_canh": "Trong đại sảnh của đế quốc, tại một buổi tiệc.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Aten Terst",
+  "Azier",
+  "Enfer",
+  "Bartello Terst",
+  "Sale"
+ ],
+ "su_kien": [
+  "Aten chào Frondier bằng tước hiệu 'Your Highness'.",
+  "Frondier và Aten có một cuộc trò chuyện ngắn, không trang trọng.",
+  "Hoàng hậu Philly và Quốc vương Bartello xuất hiện.",
+  "Aten sốc trước tình trạng sức khỏe yếu kém của Quốc vương Bartello.",
+  "Quốc vương Bartello ra lệnh cho Frondier bước tới trung tâm."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier cúi chào Aten, thể hiện sự tôn trọng.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Aten đáp lại lời chào của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "ban_be",
+   "mo_ta": "Frondier quan sát biểu cảm của Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Bartello Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Philly hỗ trợ Bartello di chuyển và ngồi.",
+   "cach_goi": "hỗ trợ, ân cần"
+  },
+  {
+   "a": "Bartello Terst",
+   "b": "Philly Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Bartello im lặng, để Philly lên tiếng thay.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bartello Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Bartello ra lệnh cho Frondier bước tới.",
+   "cach_goi": "ra lệnh, trịch thượng"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Enfer là cha của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Azier là anh trai của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của nhân vật chính)"
+ ],
+ "stats": {
+  "tokens": 938,
+  "seconds": 28.0
+ }
+}

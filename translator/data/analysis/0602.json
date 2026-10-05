@@ -1,0 +1,58 @@
+{
+ "number": 602,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi khiến Jeremy đầu hàng bằng một kỹ thuật đặc biệt, Frondier đối chất với Paul trong phòng thí nghiệm. Anh ta giải thích mục đích của mình là tìm ra sự khác biệt giữa người và quỷ, nhưng bị cản trở bởi Jeremy và Paul. Cuộc trò chuyện xoay quanh việc phân loại quỷ dựa trên hành vi tội ác của chúng và những động cơ ẩn sau đó, dẫn đến một cuộc đối đầu căng thẳng về mặt cảm xúc.",
+ "boi_canh": "Trong phòng thí nghiệm sau chiến tranh.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Paul",
+  "Jeremy"
+ ],
+ "su_kien": [
+  "Frondier sử dụng kỹ thuật khiến Jeremy bỏ vũ khí và đầu hàng.",
+  "Frondier đối chất với Paul trong phòng thí nghiệm.",
+  "Frondier giải thích mục đích tìm kiếm sự khác biệt giữa người và quỷ.",
+  "Paul bày tỏ sự tức giận và nghi ngờ về động cơ của Frondier.",
+  "Frondier tiết lộ thông tin về khả năng Satan đã cài đặt những con quỷ vào Đế quốc."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Paul",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier giải thích mục đích của mình, Paul nghi ngờ và phản bác.",
+   "cach_goi": "gọi 'Mr. Paul', lễ phép"
+  },
+  {
+   "a": "Paul",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Phản đối và nghi ngờ Frondier, thể hiện sự tức giận.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jeremy",
+   "loai": "ke_thu",
+   "mo_ta": "Đã từng đối đầu, Frondier đã khiến Jeremy đầu hàng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Frondier đã nhận thông tin từ Lily và đang áp dụng cách suy nghĩ của cô ấy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Belphegor: Một quỷ đã bị giết.",
+  "Satan: Đề cập đến khả năng Satan đã cài đặt những con quỷ vào Đế quốc."
+ ],
+ "stats": {
+  "tokens": 643,
+  "seconds": 20.2
+ }
+}

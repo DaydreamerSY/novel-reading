@@ -1,0 +1,56 @@
+{
+ "number": 31,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tỉnh lại, Elodie bàng hoàng tìm thấy Frondier trong phòng tập luyện với vẻ ngoài kiệt sức. Cuộc trò chuyện giữa họ xoay quanh việc Frondier thay đổi và những lo lắng của Elodie về cậu. Cả hai đều cảm nhận được sự cô đơn và hiểu lầm từ người khác, dẫn đến một cuộc đối thoại sâu sắc hơn về bản thân và hy vọng vào sự thay đổi.",
+ "boi_canh": "Phòng tập luyện, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Elodie de Inies Rishae"
+ ],
+ "su_kien": [
+  "Elodie tìm thấy Frondier trong phòng tập luyện với vẻ ngoài mệt mỏi.",
+  "Frondier phủ nhận việc mình đang lo lắng và nói về việc luyện tập.",
+  "Elodie hỏi Frondier về việc tham gia câu lạc bộ.",
+  "Frondier nói rằng Elodie giống cậu ấy, cảm thấy cô đơn và bị cô lập.",
+  "Frondier động viên Elodie hãy làm những gì mình muốn."
+ ],
+ "quan_he": [
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, lo lắng cho sự thay đổi của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan sát và thấu hiểu sự cô đơn của Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie de Inies Rishae",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, lo lắng cho sự thay đổi của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie de Inies Rishae",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan sát và thấu hiểu sự cô đơn của Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Inies Rishae (Tên đầy đủ của Elodie sau khi tỉnh lại)"
+ ],
+ "stats": {
+  "tokens": 641,
+  "seconds": 19.3
+ }
+}

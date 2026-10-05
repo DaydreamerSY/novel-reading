@@ -1,0 +1,68 @@
+{
+ "number": 605,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi rời khỏi phòng thí nghiệm, Frondier dẫn Paul bị trói đi về văn phòng chính của Hitchcock. Sự xuất hiện của anh gây ra sự hỗn loạn trong công ty. Để tìm đường đến văn phòng Chủ tịch, Frondier đã lợi dụng tình hình và tạo ra một màn kịch bắt cóc để dụ dỗ nhân viên tập trung tại đó. Anh cũng phớt lờ những lời cảnh báo từ Paul về quy mô của công ty và sự xuất hiện của 'pro'.",
+ "boi_canh": "Trong văn phòng chính của Công ty Hitchcock, giữa đám đông nhân viên đang hỗn loạn.",
+ "nhan_vat": [
+  "Frondier",
+  "Paul",
+  "Hitchcock (Công ty)"
+ ],
+ "su_kien": [
+  "Frondier rời khỏi phòng thí nghiệm với Paul bị trói bằng Obsidian.",
+  "Nhân viên công ty Hitchcock chứng kiến cảnh tượng này và gây ra sự hỗn loạn.",
+  "Một nhân viên tấn công Frondier nhưng dừng lại vì sợ hãi.",
+  "Paul giả vờ đau đớn để đánh lừa nhân viên.",
+  "Frondier lợi dụng tình hình để tìm đường đến văn phòng Chủ tịch."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Paul",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người có quyền lực hơn, trói và lợi dụng Paul để đạt được mục đích.",
+   "cach_goi": "gọi tên Paul, thân mật"
+  },
+  {
+   "a": "Paul",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Paul cố gắng cảnh báo và phản đối hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Nhân viên Hitchcock",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier gây ra sự hỗn loạn và đối đầu với nhân viên công ty.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nhân viên Hitchcock",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Nhân viên công ty phản đối và cố gắng ngăn cản hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Paul",
+   "b": "Nhân viên Hitchcock",
+   "loai": "nguoi_la",
+   "mo_ta": "Paul bị trói và không thể giao tiếp với nhân viên công ty.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nhân viên Hitchcock",
+   "b": "Paul",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhân viên công ty nhìn thấy Paul bị trói và không thể giao tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 781,
+  "seconds": 24.1
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "number": 328,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tắm rửa, Frondier nhận ra mình bị lạc trong rừng gần khu vực trú đóng của kỵ sĩ Roach. Anh phát hiện ra những con goblin được trang bị Obsidian kỳ lạ đang phục kích anh và tấn công theo mệnh lệnh của ai đó. Frondier nghi ngờ có một thế lực bí ẩn đứng sau sự việc này, thao túng goblin và quan sát anh.",
+ "boi_canh": "Ban đêm, gần khu vực trú đóng của kỵ sĩ Roach.",
+ "nhan_vat": [
+  "Frondier",
+  "Sylvain",
+  "Enfer",
+  "Elysia",
+  "Roach Knights",
+  "Goblins"
+ ],
+ "su_kien": [
+  "Frondier nhận xét về kỹ năng của kỵ sĩ Roach.",
+  "Frondier suy nghĩ về việc vượt qua rào cản mà không để Enfer phát hiện.",
+  "Frondier bị lạc trong rừng khi trở về chỗ ở.",
+  "Frondier đối mặt với một nhóm goblin được trang bị Obsidian.",
+  "Goblin tấn công Frondier bất chấp bị thương."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier nghe lời Sylvain nhưng không hiểu ý nghĩa của những gì Sylvain nói.",
+   "cach_goi": "gọi tên Sylvain, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Frondier đang cố gắng che giấu hành động của mình khỏi cha.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Roach Knights",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier quan sát và đánh giá kỹ năng của Roach Knights.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Goblins",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đang chiến đấu với goblin, nghi ngờ chúng bị thao túng.",
+   "cach_goi": "gọi 'các ngươi', lạnh lùng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 595,
+  "seconds": 18.5
+ }
+}

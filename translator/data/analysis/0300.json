@@ -1,0 +1,73 @@
+{
+ "number": 300,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi báo cáo với Hagley, Selena thông báo rằng Frondier sẽ không còn dạy ngôn ngữ cổ nữa. Hagley lo ngại về điều này và nghi ngờ Frondier đang lợi dụng tình cảm của Selena để đạt được mục đích. Ông yêu cầu Selena giả vờ phải lòng Frondier để đổi lấy những kiến thức tiếp theo về ngôn ngữ cổ, đồng thời bày tỏ ý định thu hút Frondier vào tổ chức Manggot. Cuối cùng, Hagley quyết định sẽ trực tiếp tham gia bảo vệ Frondier và giao cho Selena vai trò Shadow của Yeolgot.",
+ "boi_canh": "Trong phòng làm việc của Hagley, vài giờ sau khi Selena báo cáo với ông.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Hagley",
+  "Jei",
+  "Shadow",
+  "Indus"
+ ],
+ "su_kien": [
+  "Selena báo cáo với Hagley về việc Frondier ngừng dạy ngôn ngữ cổ.",
+  "Hagley nghi ngờ Frondier đang lợi dụng tình cảm của Selena.",
+  "Hagley yêu cầu Selena giả vờ phải lòng Frondier.",
+  "Hagley bày tỏ ý định thu hút Frondier vào tổ chức Manggot.",
+  "Hagley quyết định trực tiếp tham gia bảo vệ Frondier và giao cho Selena vai trò Shadow của Yeolgot."
+ ],
+ "quan_he": [
+  {
+   "a": "Selena",
+   "b": "Hagley",
+   "loai": "cap_tren",
+   "mo_ta": "Selena báo cáo và tuân theo chỉ dẫn của Hagley, thể hiện sự tôn trọng.",
+   "cach_goi": "gọi 'Lord Hagley', lễ phép"
+  },
+  {
+   "a": "Hagley",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Hagley ra lệnh và đánh giá Selena, thể hiện quyền lực.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena báo cáo về hành động của Frondier cho Hagley.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Hagley quan sát và đánh giá Frondier thông qua báo cáo của Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jei",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Hai người thảo luận về tình hình của Frondier.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Hagley",
+   "b": "Jei",
+   "loai": "cap_tren",
+   "mo_ta": "Hagley ra lệnh và đánh giá Selena.",
+   "cach_goi": "gọi tên Jei, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Jei: Tên thật của Selena khi còn sống trong tổ chức Manggot."
+ ],
+ "stats": {
+  "tokens": 830,
+  "seconds": 25.8
+ }
+}

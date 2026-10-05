@@ -1,0 +1,72 @@
+{
+ "number": 7,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier, realizing Aster isn’t following the optimized route to complete Etius, decides to subtly guide him. He misses the event where Aster would have met Librarian Ainen and gained valuable information, so Frondier takes his place. During this encounter, Ainen tests Frondier's knowledge about Mistilteinn, a divine object, setting up an opportunity for Frondier to share information with Aster later.",
+ "boi_canh": "Trong thư viện của trường Constel vào một ngày diễn ra sự kiện đặc biệt.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Jane",
+  "Aster Evans",
+  "Ainen"
+ ],
+ "su_kien": [
+  "Aster bỏ lỡ sự kiện gặp gỡ Thư viện trưởng Ainen.",
+  "Frondier đến thư viện để thay thế Aster và thu thập thông tin.",
+  "Ainen chủ động tiếp cận Frondier và bắt đầu một cuộc trò chuyện.",
+  "Ainen đưa cho Frondier một tờ báo có đề cập đến việc tìm thấy 'Mistilteinn'.",
+  "Frondier khẳng định lại quan điểm của mình rằng 'Mistilteinn' trong báo không phải là thật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Người bạn đồng hành, Frondier đang cố gắng hướng dẫn Aster đi đúng đường.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Người mà Frondier đang cố gắng giúp đỡ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ainen",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier phải tạo ấn tượng tốt với Ainen.",
+   "cach_goi": "gọi tên Ainen, lễ phép"
+  },
+  {
+   "a": "Ainen",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Ainen đang thử thách kiến thức của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier nhắc đến Jane trong cuộc trò chuyện với Ainen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ainen",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh.",
+   "cach_goi": "gọi tên Jane, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Mistilteinn: Một nhánh cây được cho là có liên quan đến thần Baldr, hiện đang gây tranh cãi về hình dáng thật sự của nó."
+ ],
+ "stats": {
+  "tokens": 795,
+  "seconds": 23.8
+ }
+}

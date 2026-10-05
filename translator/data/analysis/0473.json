@@ -1,0 +1,92 @@
+{
+ "number": 473,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp lại Elodie và Aster nhưng cả hai đều trông rất tệ. Sybil cho rằng họ bị ảnh hưởng bởi sự cạnh tranh với Frondier. Sau đó, Lunia tiết lộ tin đồn về việc Lily và Monty muốn tuyển mộ Frondier. Cuối cùng, Frondier nhận ra điều gì đó đáng lo ngại: có lẽ một trong 12 Zodiac đã biến mất mà không ai hay biết.",
+ "boi_canh": "Trong lớp học tại Constel, vài ngày sau sự kiện liên quan đến Satan.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Philly",
+  "Sybil",
+  "Lily",
+  "Monty",
+  "Lunia",
+  "Mei",
+  "Osprey",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Elodie và Aster xuất hiện với vẻ ngoài ốm yếu.",
+  "Sybil đổ lỗi cho Frondier về tình trạng của Elodie và Aster.",
+  "Lunia tiết lộ tin đồn Lily và Monty muốn tuyển mộ Frondier.",
+  "Học sinh phản ứng thái quá khi biết Frondier đã gặp gỡ các Zodiac.",
+  "Frondier nhận ra sự biến mất bất thường của Osprey, một trong 12 Zodiac."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan tâm lẫn nhau.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan tâm lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, có sự cạnh tranh nhẹ.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, có sự cạnh tranh nhẹ.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, quan sát Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, quan sát Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, cùng chung tình trạng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, cùng chung tình trạng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Osprey: Có thể đã biến mất hoặc bị thay thế mà không ai hay biết."
+ ],
+ "stats": {
+  "tokens": 923,
+  "seconds": 27.7
+ }
+}

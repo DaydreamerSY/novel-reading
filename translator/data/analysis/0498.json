@@ -1,0 +1,104 @@
+{
+ "number": 498,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi thảo luận về việc ở của Mei, Frondier và Elodie rời khỏi văn phòng hiệu trưởng. Sau đó, Frondier vô tình bị đưa trở lại văn phòng hiệu trưởng thông qua ma thuật không gian của Osprey, nơi họ tiếp tục cuộc trò chuyện bí mật. Osprey tiết lộ rằng một vị thần đang truy lùng ông ta vì ông ta gần đạt đến cấp bậc Archmage và có ý định giết tất cả nhân loại. Ông ta đã đi đến thế giới bên ngoài để tìm hiểu về ý định này.",
+ "boi_canh": "Trong văn phòng hiệu trưởng, sau khi thảo luận về việc ở của Mei.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Osprey",
+  "Jane",
+  "Mei",
+  "Revet",
+  "Hel"
+ ],
+ "su_kien": [
+  "Frondier và Elodie rời văn phòng hiệu trưởng sau cuộc thảo luận về Mei.",
+  "Frondier vô tình bị đưa trở lại văn phòng hiệu trưởng bằng ma thuật không gian của Osprey.",
+  "Osprey tiết lộ rằng một vị thần đang truy lùng ông ta.",
+  "Osprey đã đi đến thế giới bên ngoài để tìm hiểu về ý định giết người của vị thần đó.",
+  "Osprey tiết lộ rằng ý định này nhắm vào tất cả nhân loại."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên 'Fron', thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên 'Fron', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Hiệu trưởng, mối quan hệ cấp trên - học sinh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hiệu trưởng, mối quan hệ cấp trên - học sinh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Elodie chăm sóc Mei.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Elodie chăm sóc Mei.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, gặp mặt thoáng qua.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, gặp mặt thoáng qua.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Revet",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em gái, mối quan hệ gia đình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Revet",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em gái, mối quan hệ gia đình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mei (dạng nữ của Metamorp)",
+  "Fron (tên thân mật của Frondier)",
+  "Hel (tên khác của Hera)"
+ ],
+ "stats": {
+  "tokens": 1119,
+  "seconds": 33.4
+ }
+}

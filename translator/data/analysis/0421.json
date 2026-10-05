@@ -1,0 +1,58 @@
+{
+ "number": 421,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tiếp tục tinh chỉnh các bẫy trong xưởng của mình, quan sát những người chơi chuyên nghiệp (pros) bị chúng kích hoạt và chết dần chết mòn. Sau khi loại bỏ tất cả đối thủ, anh ta gặp Eden Hamelot, một pro hàng đầu sống sót duy nhất. Một trận chiến ngắn diễn ra, nhưng xưởng của Frondier đã chứng minh được sức mạnh áp đảo. Để buộc Eden phải khai báo vị trí của phòng thí nghiệm nghiên cứu tiêm mana bí mật, Frondier bắt đầu tra tấn anh ta bằng cách sử dụng thông tin cá nhân về gia đình Eden.",
+ "boi_canh": "Bên trong xưởng của Frondier, nơi các bẫy và vũ khí được bố trí phức tạp.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Ellen",
+  "Eden",
+  "Eden Hamelot"
+ ],
+ "su_kien": [
+  "Frondier quan sát các pros bị bẫy và chết trong xưởng.",
+  "Eden Hamelot sống sót sau khi vượt qua các bẫy của Frondier.",
+  "Eden tấn công Frondier với sự tức giận tột độ.",
+  "Vũ khí trong xưởng tự động di chuyển để chống lại Eden.",
+  "Frondier bắt đầu tra tấn Eden bằng cách sử dụng thông tin cá nhân về gia đình anh ta."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Eden Hamelot",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier thao túng và tra tấn Eden để lấy thông tin.",
+   "cach_goi": "gọi tên 'Eden', lạnh lùng"
+  },
+  {
+   "a": "Eden Hamelot",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Eden tức giận và cố gắng tấn công Frondier.",
+   "cach_goi": "gọi tên 'Frondier', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "nguoi_la",
+   "mo_ta": "Người bị tra tấn, Frondier khai thác thông tin cá nhân của Eden.",
+   "cach_goi": "gọi tên 'Eden-ssi', lạnh lùng"
+  },
+  {
+   "a": "Eden",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người bị tra tấn, Eden cố gắng phản kháng sự tra tấn của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot: Tên đầy đủ của Eden."
+ ],
+ "stats": {
+  "tokens": 698,
+  "seconds": 21.0
+ }
+}

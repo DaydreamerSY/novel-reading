@@ -1,0 +1,78 @@
+{
+ "number": 41,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier hẹn gặp Gary để quyết đấu tại một khu vực vắng vẻ. Gary đã cố tình tụ tập một nhóm học sinh chung quanh để làm chứng. Trận đấu diễn ra ngắn gọn, Frondier thể hiện kỹ năng vượt trội hơn hẳn. Tuy nhiên, khi trận đấu gần kết thúc, các thành viên của 'Tháng Mười' sử dụng phép thuật tấn công Frondier, khiến anh bị thương và ngã xuống. Cuối cùng, Gary đã chiếm được lợi thế và định đoạt chiến thắng bằng cách sử dụng golem để khống chế Gary và những người chứng kiến.",
+ "boi_canh": "Một khu vực vắng vẻ trong khuôn viên trường, vào một buổi chiều.",
+ "nhan_vat": [
+  "Edwin",
+  "Binkis",
+  "Gary",
+  "Frondier"
+ ],
+ "su_kien": [
+  "Edwin đến địa điểm hẹn với golem bên cạnh.",
+  "Gary tụ tập một nhóm học sinh chung quanh để làm chứng cho trận đấu.",
+  "Trận đấu giữa Edwin và Gary diễn ra nhanh chóng, Edwin chiếm ưu thế.",
+  "Các thành viên của 'Tháng Mười' sử dụng phép thuật tấn công Edwin.",
+  "Golem của Edwin khống chế Gary và những người chứng kiến."
+ ],
+ "quan_he": [
+  {
+   "a": "Edwin",
+   "b": "Gary",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh, có sự khinh thường.",
+   "cach_goi": "gọi tên Gary, thô lỗ"
+  },
+  {
+   "a": "Gary",
+   "b": "Edwin",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh, có sự tức giận và muốn chứng tỏ bản thân.",
+   "cach_goi": "gọi tên Edwin, thô lỗ"
+  },
+  {
+   "a": "Gary",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Gary đã đánh bại Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gary",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier đang suy nghĩ về tình hình hiện tại.",
+   "cach_goi": "gọi tên Gary, lạnh lùng"
+  },
+  {
+   "a": "Gary",
+   "b": "Các học sinh 'Tháng Mười'",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Gary đã tụ tập họ để làm chứng cho trận đấu.",
+   "cach_goi": "gọi chung là 'các bạn', thân mật"
+  },
+  {
+   "a": "Các học sinh 'Tháng Mười'",
+   "b": "Gary",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, họ làm theo chỉ dẫn của Gary.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Golem",
+   "loai": "thay_tro",
+   "mo_ta": "Người chủ và người hầu, Frondier điều khiển golem.",
+   "cach_goi": "ra lệnh, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Nhóm học sinh được Gary gọi là 'Tháng Mười' (October)."
+ ],
+ "stats": {
+  "tokens": 871,
+  "seconds": 26.2
+ }
+}

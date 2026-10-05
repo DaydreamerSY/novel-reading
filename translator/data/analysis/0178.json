@@ -1,0 +1,72 @@
+{
+ "number": 178,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chứng kiến một hiện tượng kỳ lạ, Selena hoảng loạn nghĩ rằng mình đang mơ và lo sợ những điều tồi tệ có thể xảy ra khi tỉnh giấc. Frondier đã nhẹ nhàng khiển trách cô bằng cách véo trán. Cuối cùng, anh giải thích rằng họ không hề ngủ mà đang ở trong một thực tại do Merlin tạo ra từ giấc mơ của ông.",
+ "boi_canh": "Trong một khu rừng tươi tốt, dưới ánh nắng ấm áp, nơi mọi thứ đều hoàn hảo và kỳ lạ.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Merlin",
+  "Cassian",
+  "Arthur"
+ ],
+ "su_kien": [
+  "Selena chứng kiến Frondier tạo ra một cây búa từ hư không.",
+  "Selena hoảng loạn nghĩ rằng mình đang mơ và lo sợ những điều tồi tệ có thể xảy ra khi tỉnh giấc.",
+  "Frondier khiển trách Selena bằng cách véo trán cô.",
+  "Frondier giải thích rằng họ đang ở trong một thực tại do Merlin tạo ra từ giấc mơ của ông.",
+  "Selena khóc nức nở và bày tỏ sự sợ hãi."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành, Frondier có vẻ hơi khó chịu với sự hoảng loạn của Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành, Selena sợ hãi và tìm kiếm sự trấn an từ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cassian",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu, Frondier ra lệnh cho Cassian cưỡi ngựa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cassian",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu, Cassian tuân theo lệnh của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Merlin",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhân vật trong truyền thuyết, Selena từng đọc về Merlin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Merlin",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier nhắc đến Merlin đã chết.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Merlin: Được tiết lộ là một người đã chết và hiện đang tạo ra thực tại từ giấc mơ của mình."
+ ],
+ "stats": {
+  "tokens": 796,
+  "seconds": 23.9
+ }
+}

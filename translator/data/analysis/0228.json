@@ -1,0 +1,70 @@
+{
+ "number": 228,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi phá tường để trêu chọc Quinie, Frondier bị Jane chặn lại và phải rời đi vội vã. Sau đó, anh gặp Quinie trong phòng huấn luyện để thông báo về mối đe dọa từ một học viên Indus đang nhắm vào cô. Cuộc trò chuyện giữa hai người trở nên căng thẳng khi Quinie nghi ngờ Frondier.",
+ "boi_canh": "Hành lang trường Constel sau giờ học.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Jane",
+  "Malia",
+  "Gregory"
+ ],
+ "su_kien": [
+  "Frondier phá tường và gây ra sự chú ý của học sinh.",
+  "Jane chặn Frondier lại để nói chuyện riêng.",
+  "Frondier gặp Quinie trong phòng huấn luyện.",
+  "Quinie nghi ngờ Frondier về thông tin anh cung cấp.",
+  "Quinie rút dao đe dọa Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ gặp nhau để bàn về vấn đề nguy hiểm.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ gặp nhau để bàn về vấn đề nguy hiểm.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng cấp, Jane có vẻ có quyền lực hơn Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng cấp, Jane có vẻ có quyền lực hơn Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 718,
+  "seconds": 21.5
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "number": 259,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu bằng sự phấn khích trước chuyến đi thực tế sắp tới của học sinh Constel. Tuy nhiên, một cuộc họp bí mật của các thành viên hội đồng đã được tổ chức để thảo luận về mối đe dọa từ Indus. Frondier de Roach bất ngờ được mời tham gia và đưa ra những dự đoán đáng lo ngại về kế hoạch của Indus, bao gồm việc sử dụng name card nhắm vào dân thường ở Cropolis và tấn công Headmaster Osprey.",
+ "boi_canh": "Trong phòng họp của Constel, chuẩn bị cho chuyến đi thực tế.",
+ "nhan_vat": [
+  "Frondier",
+  "Osprey",
+  "Jane",
+  "Malia",
+  "Pascal",
+  "Kraken",
+  "Armel",
+  "Isamaya"
+ ],
+ "su_kien": [
+  "Cuộc họp bí mật của hội đồng Constel bắt đầu.",
+  "Bản đồ từ Constel đến Cropolis được hiển thị trên bàn.",
+  "Frondier de Roach tham gia cuộc họp và được giới thiệu bởi Osprey.",
+  "Frondier dự đoán Indus sẽ tấn công dân thường ở Cropolis bằng name card.",
+  "Frondier cảnh báo về việc Indus nhắm mục tiêu Headmaster Osprey."
+ ],
+ "quan_he": [
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Osprey là người hướng dẫn và cấp trên của Frondier trong cuộc họp.",
+   "cach_goi": "gọi tên Frondier, trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier cúi chào Osprey khi được giới thiệu.",
+   "cach_goi": "gọi tên Osprey, lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Malia là mẹ của Frondier và lo lắng cho sự an toàn của con trai.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Frondier trả lời mẹ mình.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Jane",
+   "b": "Osprey",
+   "loai": "dong_minh",
+   "mo_ta": "Jane đặt câu hỏi cho Headmaster về kế hoạch của Indus.",
+   "cach_goi": "gọi 'Headmaster', lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Jane",
+   "loai": "dong_minh",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Osprey",
+   "loai": "dong_minh",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Isamaya",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Isamaya đặt câu hỏi cho Frondier về dự đoán của anh.",
+   "cach_goi": "gọi tên Frondier, trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Isamaya",
+   "loai": "dong_minh",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của Frondier."
+ ],
+ "stats": {
+  "tokens": 1077,
+  "seconds": 34.2
+ }
+}

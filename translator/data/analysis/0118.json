@@ -1,0 +1,91 @@
+{
+ "number": 118,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi một cuộc tấn công quái vật bất ngờ xảy ra ở Constel, nhiều người đã nhanh chóng hành động để bảo vệ thành phố. Frondier đưa ra cảnh báo về cuộc tấn công, và mặc dù không phải ai cũng tin anh ta, nhưng những người tin tưởng đã giúp cứu sống vô số người. Quinie nhận ra giá trị của việc có một mạng lưới hỗ trợ đáng tin cậy và sự quan trọng của Frondier trong việc tập hợp họ lại với nhau. Cuối cùng, Frondier sử dụng các kỹ năng của mình để truy đuổi một chimera trốn thoát, chuẩn bị cho một trận chiến.",
+ "boi_canh": "Trong thành phố Constel, giữa lúc cuộc tấn công quái vật đang diễn ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Philly",
+  "Aten",
+  "Sybil",
+  "Quinie",
+  "Ellen",
+  "Chimera"
+ ],
+ "su_kien": [
+  "Một cuộc tấn công quái vật bất ngờ xảy ra ở Constel.",
+  "Aster, Ellen và Sybil tham gia vào việc tiêu diệt quái vật.",
+  "Aten sử dụng các đòn tấn công băng để đối phó với quái vật.",
+  "Quinie sử dụng mạng lưới của mình để tạo thành một rào cản.",
+  "Frondier sử dụng kỹ năng Void Weaving và Imperial Armory Item để truy đuổi chimera."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier có vẻ không được Elodie tin tưởng hoàn toàn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Aster hành động theo cảnh báo của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Ellen hành động theo cảnh báo của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Frondier sử dụng vũ khí do Philly hướng dẫn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Aten hành động theo cảnh báo của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Sybil hành động theo cảnh báo của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "Quinie tin tưởng Frondier và đánh giá cao sự đóng góp của anh ta.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Quinie đánh giá cao sự đóng góp của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Philly Terst (Hoàng hậu)",
+  "Aten Terst (Tam công chúa)"
+ ],
+ "stats": {
+  "tokens": 1038,
+  "seconds": 32.0
+ }
+}

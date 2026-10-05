@@ -1,0 +1,105 @@
+{
+ "number": 266,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cuộc thảo luận căng thẳng giữa Thompson, Cain và những người khác về khả năng có gián điệp trong Indus. Họ nghi ngờ lẫn nhau, bao gồm cả bản thân. Trong khi đó, Isamaya đến để bắt giữ Thompson, dẫn đến một trận chiến tiềm tàng. Ở một địa điểm khác, Pascal và Kora chờ đợi Frondier và chứng kiến sự xuất hiện bất ngờ của Skyler, một thực thể kỳ lạ được tạo thành từ đá.",
+ "boi_canh": "Trên đỉnh vách đá nhìn xuống đường sắt trên không, trong một cuộc họp bí mật.",
+ "nhan_vat": [
+  "Frondier",
+  "Osprey",
+  "Pascal",
+  "Kraken",
+  "Kora",
+  "Heldre",
+  "Cain",
+  "Thompson",
+  "Isamaya",
+  "Skyler"
+ ],
+ "su_kien": [
+  "Cuộc thảo luận về khả năng có gián điệp trong Indus.",
+  "Isamaya đến để bắt giữ Thompson.",
+  "Thompson và Isamaya đối đầu, chuẩn bị chiến đấu.",
+  "Pascal và Kora chờ đợi Frondier tại chân vách đá.",
+  "Sự xuất hiện của Skyler, một thực thể được tạo thành từ đá."
+ ],
+ "quan_he": [
+  {
+   "a": "Thompson",
+   "b": "Cain",
+   "loai": "doi_thu",
+   "mo_ta": "Nghi ngờ lẫn nhau về khả năng là gián điệp.",
+   "cach_goi": "gọi tên Cain, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cain",
+   "b": "Thompson",
+   "loai": "doi_thu",
+   "mo_ta": "Nghi ngờ lẫn nhau về khả năng là gián điệp.",
+   "cach_goi": "gọi tên Thompson, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thompson",
+   "b": "Kraken",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, thảo luận về vấn đề gián điệp.",
+   "cach_goi": "gọi tên Kraken, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kraken",
+   "b": "Thompson",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, thảo luận về vấn đề gián điệp.",
+   "cach_goi": "gọi tên Thompson, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thompson",
+   "b": "Skyler",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối đầu trực diện, chuẩn bị chiến đấu.",
+   "cach_goi": "gọi tên Skyler, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Skyler",
+   "b": "Thompson",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối đầu trực diện, chuẩn bị chiến đấu.",
+   "cach_goi": "gọi tên Thompson, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Kora",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội chờ đợi Frondier.",
+   "cach_goi": "gọi tên Kora, thân mật"
+  },
+  {
+   "a": "Kora",
+   "b": "Pascal",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội chờ đợi Frondier.",
+   "cach_goi": "gọi tên Pascal, thân mật"
+  },
+  {
+   "a": "Isamaya",
+   "b": "Thompson",
+   "loai": "cap_tren",
+   "mo_ta": "Sếp trực tiếp đến bắt giữ cấp dưới.",
+   "cach_goi": "gọi tên Thompson, lễ phép"
+  },
+  {
+   "a": "Thompson",
+   "b": "Isamaya",
+   "loai": "cap_tren",
+   "mo_ta": "Cấp dưới đối phó với sếp trực tiếp.",
+   "cach_goi": "gọi tên Isamaya, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Isamaya được tiết lộ là giáo viên của Constel."
+ ],
+ "stats": {
+  "tokens": 1080,
+  "seconds": 33.2
+ }
+}

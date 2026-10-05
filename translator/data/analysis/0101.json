@@ -1,0 +1,83 @@
+{
+ "number": 101,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier bị Philly thẩm vấn về vụ bắt cóc Aten và những nghi ngờ xung quanh anh ta. Thông tin tiết lộ rằng kẻ phạm tội đã lợi dụng mối quan hệ giữa Aten và Frondier để che giấu hành động của mình, và một trong hai chị gái của Aten là đồng phạm. Cuối cùng, Philly khuyên Frondier tự tìm ra sự thật và hé lộ về tương lai của Aten và Aster khiến Frondier lo lắng.",
+ "boi_canh": "Trên mái nhà hoàng cung, vào buổi tối.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly Terst (Hoàng hậu)",
+  "Aten Terst (Tam công chúa)",
+  "Renzo",
+  "Elysia",
+  "Lunia",
+  "Sale"
+ ],
+ "su_kien": [
+  "Frondier bị nghi ngờ là đồng phạm trong vụ bắt cóc Aten.",
+  "Philly tiết lộ kẻ phạm tội đã lợi dụng mối quan hệ giữa Aten và Frondier.",
+  "Một trong hai chị gái của Aten được xác định là đồng phạm.",
+  "Philly khuyên Frondier tự mình tìm ra sự thật.",
+  "Philly hé lộ về tương lai của Aten và Aster khiến Frondier lo lắng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ là bạn bè, mối quan hệ được Aten nhắc đến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly Terst (Hoàng hậu)",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier bị thẩm vấn bởi Philly, mối quan hệ có phần căng thẳng.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly Terst (Hoàng hậu)",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly thẩm vấn và khuyên bảo Frondier.",
+   "cach_goi": "gọi tên Frondier, nghiêm túc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst (Tam công chúa)",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người có vẻ như đang đối diện nhau, Aten chờ Frondier phủ nhận điều gì đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst (Tam công chúa)",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten chờ Frondier phủ nhận điều gì đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst (Hoàng hậu)",
+   "b": "Aten Terst (Tam công chúa)",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con gái, mối quan hệ có vẻ phức tạp.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten Terst (Tam công chúa)",
+   "b": "Philly Terst (Hoàng hậu)",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con gái, mối quan hệ có vẻ phức tạp.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Philly Terst: Hoàng hậu của đế quốc.",
+  "Aten Terst: Tam công chúa."
+ ],
+ "stats": {
+  "tokens": 945,
+  "seconds": 29.4
+ }
+}

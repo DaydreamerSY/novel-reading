@@ -1,0 +1,98 @@
+{
+ "number": 505,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận được tin nhắn về Renzo, Frondier đến vùng đất cằn cỗi 'Red Land' để tìm anh ta. Anh ta gặp lại Renzo, người đang làm lính đánh thuê và có vẻ rất vui mừng khi đối đầu với Frondier. Cuộc trò chuyện của họ tiết lộ rằng Renzo đã trốn thoát khỏi Obsidian Prison và đang tránh sự theo dõi của Esther, người quản ngục. Cuối cùng, Frondier thông báo cho Renzo về việc Manggot sắp đến, khiến Renzo rất phấn khích vì cơ hội được chiến đấu và giết Frondier.",
+ "boi_canh": "Frondier đứng trên một vách đá trong vùng đất cằn cỗi 'Red Land', vào lúc anh ta đang tìm kiếm Renzo.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Lily",
+  "Hagley",
+  "Kraken",
+  "Heldre",
+  "Esther",
+  "Ares",
+  "Manggot"
+ ],
+ "su_kien": [
+  "Frondier nhận được tin nhắn về Renzo.",
+  "Frondier đến 'Red Land' để tìm Renzo.",
+  "Renzo xuất hiện và tấn công Frondier.",
+  "Frondier thông báo cho Renzo về việc Manggot sắp đến.",
+  "Renzo rút kiếm từ tay giả và chuẩn bị chiến đấu với Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ lâu năm, có sự ganh đua và muốn chiến đấu với nhau.",
+   "cach_goi": "gọi tên Renzo, không thân mật"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ lâu năm, có sự ganh đua và muốn chiến đấu với nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật nhưng đầy đe dọa"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Lily cung cấp thông tin cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hagley",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ được nhắc đến trong bối cảnh thông tin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kraken",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ được nhắc đến trong bối cảnh thông tin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ được nhắc đến trong bối cảnh thông tin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "cap_tren",
+   "mo_ta": "Esther là người có quyền lực và sự tin tưởng của Frondier còn hạn chế.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Esther",
+   "loai": "ke_thu",
+   "mo_ta": "Renzo đang trốn tránh Esther.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Manggot",
+   "loai": "doi_thu",
+   "mo_ta": "Manggot là một mối đe dọa lớn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Renzo: Trốn thoát khỏi Obsidian Prison, được cho là đã chết nhưng thực tế vẫn còn sống.",
+  "Kraken: Đã giúp Renzo trốn thoát khỏi Obsidian Prison và tạo tin đồn về cái chết của anh ta."
+ ],
+ "stats": {
+  "tokens": 1102,
+  "seconds": 33.0
+ }
+}

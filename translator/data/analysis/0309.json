@@ -1,0 +1,132 @@
+{
+ "number": 309,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hoàn thành nhiệm vụ bắt giữ Indus, Frondier trở về Constel và báo cáo tình hình cho Jane và các giáo viên khác. Trong quá trình đó, anh phát hiện ra một cuộc họp bí mật đang diễn ra liên quan đến việc giải cứu anh. Anh cũng tìm thấy vũ khí của Renzo đã bị giấu thông tin chi tiết, và nhận được phần thưởng đặc biệt là 'Transcendental grade' sau khi hoàn thành nhiệm vụ chính.",
+ "boi_canh": "Trong phòng họp tại Constel, đang diễn ra một cuộc họp bí mật về việc giải cứu Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Elysia",
+  "Enfer",
+  "Osprey",
+  "Jane",
+  "Malia",
+  "Kraken",
+  "Heldre",
+  "Cain",
+  "Esther",
+  "Thompson",
+  "Frondier de Roach",
+  "Skyler",
+  "Ares"
+ ],
+ "su_kien": [
+  "Các thành viên của Morion bắt giữ Cain, Thompson và Skyler.",
+  "Frondier nhận thấy sự tiện dụng của các thiết bị giam giữ đặc biệt cho quái vật.",
+  "Frondier nhớ lại những trải nghiệm khác nhau trên đường trở về Constel.",
+  "Các giáo viên tại Constel đang lên kế hoạch giải cứu Frondier.",
+  "Frondier tìm thấy vũ khí của Renzo đã bị che giấu thông tin chi tiết."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Địch thủ, Frondier đã bị Renzo bắt cóc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier, mối quan hệ bình thường.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, Frondier báo cáo tình hình cho Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên, Frondier báo cáo tình hình cho Jane.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ kế của Frondier, mối quan hệ thân thiết.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kraken",
+   "loai": "doi_thu",
+   "mo_ta": "Thành viên Indus, đã bị bắt giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "doi_thu",
+   "mo_ta": "Thành viên Indus, đã bị bắt giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "doi_thu",
+   "mo_ta": "Thành viên Indus, đã bị bắt giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thompson",
+   "loai": "doi_thu",
+   "mo_ta": "Thành viên Indus, đã bị bắt giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Skyler",
+   "loai": "doi_thu",
+   "mo_ta": "Thành viên Indus, đã bị bắt giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, Frondier biết Esther đang giám sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ares",
+   "loai": "khac",
+   "mo_ta": "Một vị thần đã che giấu thông tin về vũ khí của Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Tên đầy đủ của Frondier là Frondier de Roach.",
+  "Renzo sử dụng 'Enkephalos' và 'Rinotoros', hai vũ khí có thông tin chi tiết bị che giấu."
+ ],
+ "stats": {
+  "tokens": 1363,
+  "seconds": 42.2
+ }
+}

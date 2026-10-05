@@ -1,0 +1,72 @@
+{
+ "number": 387,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào vòng kiểm tra thứ hai tại trường Constel. Jane đưa ra chỉ thị để các học viên cảm nhận sự khác biệt về sức mạnh. Frondier được phân công làm giám khảo cho vòng kiểm tra thứ ba, và những thay đổi bất ngờ trong quy tắc kiểm tra khiến Aten nghi ngờ một âm mưu nào đó. Cuối cùng, Pielott, một học viên tài năng, đối mặt với Frondier trong một trận đấu đầy kịch tính, nhưng lại bị Frondier áp đảo nhờ khả năng đọc vị và kỹ năng chiến đấu vượt trội.",
+ "boi_canh": "Khu vực kiểm tra thứ ba tại trường Constel, trong quá trình kiểm tra học viên mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten Terst",
+  "Azier",
+  "Renzo",
+  "Pielott",
+  "Ellen",
+  "Dier",
+  "Jane",
+  "Robald",
+  "Alberto Montes"
+ ],
+ "su_kien": [
+  "Jane đưa ra chỉ thị để học viên cảm nhận sự khác biệt về sức mạnh.",
+  "Frondier được phân công làm giám khảo cho vòng kiểm tra thứ ba.",
+  "Quy tắc kiểm tra bị thay đổi đột ngột, khiến Aten nghi ngờ.",
+  "Pielott đối mặt với Frondier trong một trận đấu.",
+  "Frondier áp đảo Pielott nhờ khả năng đọc vị và kỹ năng chiến đấu."
+ ],
+ "quan_he": [
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Jane là người đưa ra chỉ thị cho Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Ellen là chủ tịch hội học sinh và liên hệ với Frondier qua loa.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten quan sát Frondier từ xa và có những nghi ngờ về hành động của anh.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Pielott thách đấu với Frondier trong trận kiểm tra.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Dier cố gắng can ngăn Pielott.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Alberto Montes: Người tài trợ cho chương này thông qua Ko-fi."
+ ],
+ "stats": {
+  "tokens": 798,
+  "seconds": 23.9
+ }
+}

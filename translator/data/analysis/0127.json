@@ -1,0 +1,83 @@
+{
+ "number": 127,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tham gia buổi sparring với Azier, nơi anh bị áp đảo hoàn toàn do thiếu kinh nghiệm chiến đấu thực tế. Sau đó, Aster nhận xét về trận đấu và giải thích tầm quan trọng của việc nắm vững các kỹ năng cơ bản trong chiến đấu, đặc biệt là khả năng dự đoán đối thủ dựa trên những thay đổi nhỏ nhất. Cuối cùng, Azier nhấn mạnh sự khác biệt giữa chiến đấu với quái vật thông thường và những kẻ thù nguy hiểm bên ngoài.",
+ "boi_canh": "Sân tập luyện của trường Constel, trong một buổi sparring.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Quinie"
+ ],
+ "su_kien": [
+  "Frondier và Azier tham gia vào một trận đấu tập.",
+  "Frondier bị đánh bại bởi Azier do thiếu kinh nghiệm chiến đấu.",
+  "Aster phân tích trận đấu và chỉ ra tầm quan trọng của việc dự đoán đối thủ.",
+  "Azier giải thích về các kỹ năng cơ bản trong chiến đấu, đặc biệt là khả năng đọc vị đối phương.",
+  "Azier nhắc lại sự kiện bi thảm ở Tyburn để nhấn mạnh nguy hiểm khi đối mặt với quái vật bên ngoài."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Aster quan sát và nhận xét về Frondier.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Aster quan sát và nhận xét về Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "đệ tử và sư phụ, Frondier bị Azier đánh bại trong sparring.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "sư phụ và đệ tử, Azier chỉ trích và huấn luyện Frondier.",
+   "cach_goi": "gọi tên Frondier, nghiêm khắc"
+  },
+  {
+   "a": "Aster",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "đệ tử và sư phụ, Aster lắng nghe hướng dẫn của Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Aster",
+   "loai": "thay_tro",
+   "mo_ta": "sư phụ và đệ tử, Azier chỉ trích và huấn luyện Aster.",
+   "cach_goi": "gọi tên Aster, nghiêm khắc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "đã từng kể chuyện cho Quinie, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "đệ tử và sư phụ, Aster lắng nghe hướng dẫn của Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 800,
+  "seconds": 24.7
+ }
+}

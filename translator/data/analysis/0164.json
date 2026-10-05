@@ -1,0 +1,101 @@
+{
+ "number": 164,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier và Selena thảo luận về việc quái vật cũng có người chỉ huy, họ gặp Aten và Sybil với những biểu cảm vô cùng lạnh lùng. Frondier cố gắng xoa dịu tình huống bằng cách giới thiệu một lính canh đi cùng. Sau đó, Ludwig nhận ra mối liên hệ giữa Aten và Frondier. Cuối cùng, chiến tranh nổ ra, và Frondier sử dụng kỹ năng Void Weaving để tiêu diệt quái vật bay.",
+ "boi_canh": "Trong sảnh đường của một trang viên, vào thời điểm chuẩn bị cho cuộc chiến với quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aten Terst",
+  "Sybil",
+  "Ludwig",
+  "Sanders"
+ ],
+ "su_kien": [
+  "Frondier và Selena thảo luận về người chỉ huy quái vật.",
+  "Gặp Aten và Sybil với biểu cảm vô cảm.",
+  "Frondier giới thiệu lính canh Tyburn để che giấu sự thật.",
+  "Ludwig nhận ra mối liên hệ giữa Aten và Frondier.",
+  "Chiến tranh nổ ra, Frondier sử dụng Void Weaving tiêu diệt quái vật bay."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, thảo luận về chiến lược.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, thảo luận về chiến lược.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người có vị thế cao hơn, quan sát và suy đoán về Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "cap_tren",
+   "mo_ta": "Người có vị thế cao hơn, quan sát và suy đoán về Frondier.",
+   "cach_goi": "gọi tên Ludwig, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ lần đầu, Frondier cảm thấy khó xử vì thân phận của Aten.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ lần đầu, biểu cảm vô cảm.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ lần đầu, Frondier cảm thấy khó xử.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ lần đầu, biểu cảm vô cảm.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người có vị thế cao hơn, chỉ huy chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sanders",
+   "loai": "cap_tren",
+   "mo_ta": "Người có vị thế cao hơn, chỉ huy chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst (tam công chúa)"
+ ],
+ "stats": {
+  "tokens": 1109,
+  "seconds": 34.3
+ }
+}

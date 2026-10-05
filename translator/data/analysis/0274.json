@@ -1,0 +1,85 @@
+{
+ "number": 274,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chapter này mở đầu bằng sự xuất hiện của Heldre với vẻ mặt tức giận, hắn ngay lập tức nhắm vào Frondier nhưng bị Osprey cản đường. Sau đó, Frondier giữ Cain làm con tin và sử dụng Excalibur để đe dọa Heldre. Cuối cùng, Frondier thể hiện sức mạnh vượt trội bằng cách tăng cường mana cho Excalibur, khiến Heldre phải suy tính kỹ lưỡng trước khi hành động.",
+ "boi_canh": "Một trận chiến đang diễn ra trên không trung giữa các nhân vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Osprey",
+  "Heldre",
+  "Cain",
+  "Thompson",
+  "Skyler"
+ ],
+ "su_kien": [
+  "Heldre xuất hiện với vẻ mặt tức giận và tấn công.",
+  "Frondier giữ Cain làm con tin.",
+  "Excalibur được sử dụng để đe dọa Heldre.",
+  "Mana của Frondier tăng cường sức mạnh cho Excalibur.",
+  "Heldre phân tích tình hình chiến đấu và tìm cách đối phó."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, đang đối đầu trong chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, đang đối đầu trong chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Heldre",
+   "b": "Osprey",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Heldre coi Osprey là một thách thức.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Heldre",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Osprey đánh giá cao khả năng của Heldre.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, Frondier đang đe dọa Heldre.",
+   "cach_goi": "gọi 'Heldre', lạnh lùng"
+  },
+  {
+   "a": "Heldre",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, Heldre đang phản ứng lại sự đe dọa của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "nguoi_la",
+   "mo_ta": "Giữ Cain làm con tin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Heldre",
+   "b": "Cain",
+   "loai": "gia_dinh",
+   "mo_ta": "Ông nội, lo lắng cho sự an toàn của Cain.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 883,
+  "seconds": 27.2
+ }
+}

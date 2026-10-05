@@ -1,0 +1,85 @@
+{
+ "number": 240,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier giao nhiệm vụ cho Gregory và sử dụng một con quạ để thu thập thông tin. Aten vô tình nghe lén cuộc trò chuyện của họ và bày tỏ sự ngạc nhiên trước khả năng đặc biệt của Frondier. Sau đó, Frondier nhận được báo cáo từ con quạ về việc tìm ra người đang hỏi Quinie về Kora, cho thấy một âm mưu tiềm ẩn liên quan đến Kora.",
+ "boi_canh": "Phòng học, vào một ngày nọ.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aten Terst",
+  "Quinie",
+  "Kora",
+  "Gregory"
+ ],
+ "su_kien": [
+  "Frondier giao nhiệm vụ cho Gregory.",
+  "Aten bày tỏ sự ngạc nhiên trước khả năng của Frondier khi con quạ nói chuyện.",
+  "Frondier giải thích một cách vòng vo về khả năng đặc biệt của mình.",
+  "Aten sử dụng phép thuật cách âm 'Whisper of the Wind'.",
+  "Con quạ báo cáo đã tìm thấy người hỏi Quinie về Kora."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là người hướng dẫn, Gregory là người thực thi nhiệm vụ.",
+   "cach_goi": "gọi tên Gregory, lễ phép"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Gregory là người thực thi nhiệm vụ, Frondier là người hướng dẫn.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aten là bạn của Frondier, tò mò về những hành động của anh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "ban_be",
+   "mo_ta": "Frondier là bạn của Aten, cố gắng giải thích những hành động của mình.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Con quạ",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten quan sát con quạ với sự tò mò.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Con quạ",
+   "b": "Aten Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Con quạ báo cáo cho Frondier, Aten vô tình nghe lén.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Con quạ",
+   "loai": "chu_to",
+   "mo_ta": "Frondier là chủ, con quạ là công cụ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Con quạ",
+   "b": "Frondier",
+   "loai": "chu_to",
+   "mo_ta": "Con quạ báo cáo cho Frondier, tuân theo lệnh của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 935,
+  "seconds": 28.9
+ }
+}

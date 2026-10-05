@@ -1,0 +1,71 @@
+{
+ "number": 397,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier thách đấu Pielott trong một trận đấu tập với những điều kiện hấp dẫn: nếu Pielott thắng, anh ta sẽ được tha thứ cho sự cố Black Lotus và có thể gặp gỡ bạn bè của Frondier. Nếu thua, Pielott phải làm việc vặt cho Frondier trong một học kỳ. Trận đấu diễn ra đầy kịch tính với những mánh khóe và lời thách thức, hé lộ tài năng tiềm ẩn nhưng cũng là điểm yếu cố hữu của Pielott.",
+ "boi_canh": "Trong phòng tập riêng tư.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Pielott",
+  "Robald"
+ ],
+ "su_kien": [
+  "Frondier thách đấu Pielott với những điều kiện hấp dẫn.",
+  "Trận đấu tập diễn ra với các quy tắc đặc biệt: giới hạn thời gian, phạm vi tấn công và vũ khí được phép sử dụng.",
+  "Pielott bị sốc trước danh sách những người Frondier có thể giới thiệu cho anh ta.",
+  "Frondier sử dụng kỹ thuật 'Falling Edge' để làm mất kiếm của Pielott.",
+  "Frondier nhận xét về tính cách và điểm yếu của Pielott, so sánh anh ta với Aster."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Thách đấu và trêu chọc đối thủ để kiểm tra năng lực.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh, khao khát chiến thắng và muốn chứng tỏ bản thân.",
+   "cach_goi": "gọi tên Frondier, tôn trọng pha lẫn bực bội"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, có vẻ như Frondier rất tôn trọng Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier so sánh Pielott với Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier có thể giới thiệu Pielott cho Aten.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robald",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier có thể giới thiệu Pielott cho Robald.",
+   "cach_goi": "gọi tên Robald, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 825,
+  "seconds": 24.7
+ }
+}

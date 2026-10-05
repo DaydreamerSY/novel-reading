@@ -1,0 +1,84 @@
+{
+ "number": 217,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong một cuộc chiến căng thẳng với Pascal, Frondier sử dụng kỹ năng Weaving để đọc được suy nghĩ của Pascal và phát hiện ra anh ta đang bị điều khiển. Đồng thời, bên ngoài trường học, Quinie phải đối mặt với nỗi sợ hãi tột độ về xác chết khi chứng kiến khuôn mặt vô hồn của những sinh viên bất tỉnh, và quyết định bước ra khỏi vùng an toàn để đối diện với nỗi sợ đó.",
+ "boi_canh": "Trong lớp học, giữa một cuộc chiến căng thẳng.",
+ "nhan_vat": [
+  "Frondier",
+  "Pascal",
+  "Kraken",
+  "Gregory",
+  "Anne",
+  "Quinie",
+  "Neil Jack",
+  "Neil",
+  "Pascal Schilitz"
+ ],
+ "su_kien": [
+  "Frondier và Pascal giao chiến, sử dụng kiếm và aura.",
+  "Frondier dùng Falling Edge để đẩy lùi Pascal.",
+  "Pascal đọc được suy nghĩ của Frondier thông qua Weaving.",
+  "Pascal tiết lộ đã nhận 'business card' nhưng quên mất người gửi.",
+  "Quinie đối mặt với nỗi sợ xác chết khi nhìn thấy khuôn mặt vô hồn của sinh viên bất tỉnh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ đang giao chiến, có sự nghi ngờ và đấu trí.",
+   "cach_goi": "gọi tên Pascal, lạnh lùng"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ đang giao chiến, có sự nghi ngờ và đấu trí.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Neil Jack",
+   "loai": "nguoi_la",
+   "mo_ta": "sử dụng kiếm của Neil Jack.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Kraken",
+   "loai": "ke_thu",
+   "mo_ta": "đối đầu gián tiếp, có thể là đồng minh của kẻ thù.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Anne",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, Quinie đang đối diện với nỗi sợ hãi và nhìn thấy Anne trong tình trạng bất tỉnh.",
+   "cach_goi": "gọi tên Anne, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "cap_tren",
+   "mo_ta": "người có quyền lực hơn, liên quan đến 'business card'.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Gregory",
+   "loai": "cap_tren",
+   "mo_ta": "người có quyền lực hơn, liên quan đến 'business card'.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pascal Schilitz (tên đầy đủ của Pascal)",
+  "Quinie de Viet (tên đầy đủ của Quinie)"
+ ],
+ "stats": {
+  "tokens": 868,
+  "seconds": 26.0
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "number": 478,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tìm cách tránh bị phát hiện trong phòng hiệu trưởng khi Elodie đến thăm. Cuộc gặp gỡ giữa Jane và Elodie diễn ra đầy ngờ vực, với Elodie nghi ngờ sự có mặt của Frondier. Sau đó, Elodie tiết lộ cô đã thành công trong việc kết hợp bốn nguyên tố ma thuật, một điều đáng kinh ngạc khiến cả Jane đều bất ngờ. Cô lo lắng về những hậu quả nếu thành công.",
+ "boi_canh": "Trong phòng hiệu trưởng, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Osprey",
+  "Jane"
+ ],
+ "su_kien": [
+  "Jane sử dụng phép thuật che giấu Frondier.",
+  "Elodie nghi ngờ sự có mặt của Frondier trong phòng hiệu trưởng.",
+  "Elodie tuyên bố đã thành công trong việc kết hợp bốn nguyên tố ma thuật.",
+  "Jane tỏ ra ngạc nhiên và không tin vào lời Elodie.",
+  "Elodie lo lắng về hậu quả sau khi thành công trong việc kết hợp bốn nguyên tố."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier bị che giấu bởi phép thuật của Jane, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "Elodie đến tìm Jane để xin lời khuyên, thái độ tôn trọng.",
+   "cach_goi": "gọi 'Headmaster', lễ phép"
+  },
+  {
+   "a": "Jane",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "Jane là hiệu trưởng, đối xử tôn trọng và quan tâm đến Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn thân, nhưng Frondier đang bị che giấu và không thể tương tác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Jane không biết Frondier đang ở đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 676,
+  "seconds": 20.3
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "number": 442,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe toàn bộ câu chuyện, Frondier rời khỏi phòng vẽ. Aten gọi cậu đến để Philly có điều cần nói riêng với cậu. Như mong đợi, đó là về Bartello. Khi Frondier quay lại sảnh, không khí náo nhiệt hơn hẳn với những cặp đôi đang nhảy múa. Cậu tìm kiếm Azier và Enfer, rồi phát hiện ra một điều bất ngờ: Enfer đang khiêu vũ cùng Malia ngay giữa sảnh. Sau cuộc trò chuyện ngắn với Azier, cậu biết được thông tin về cuộc nói chuyện riêng giữa Bartello và Philly liên quan đến Frondier. Cuối cùng, Frondier kích hoạt giác quan thứ sáu để tìm kiếm dấu hiệu của kẻ trà trộn.",
+ "boi_canh": "Trong một buổi tiệc tại cung điện hoàng gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Philly",
+  "Enfer",
+  "Malia",
+  "Laurie",
+  "Bartello",
+  "Angus",
+  "Father",
+  "Shadow",
+  "Joseph von Wexler"
+ ],
+ "su_kien": [
+  "Frondier rời khỏi phòng vẽ sau khi nghe câu chuyện.",
+  "Enfer đang khiêu vũ với Malia, một điều bất thường.",
+  "Bartello và Philly có cuộc trò chuyện riêng mà Azier không nghe được.",
+  "Azier tiết lộ rằng Frondier khá chậm hiểu.",
+  "Frondier kích hoạt giác quan thứ sáu để tìm kiếm kẻ trà trộn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, thông báo tin tức",
+   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, thông báo tin tức",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "người có địa vị cao hơn, đối tượng cần làm hài lòng",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "người có địa vị cao hơn, đối tượng cần làm hài lòng",
+   "cach_goi": "gọi tên Frondier, trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "cha con, quan hệ phức tạp",
+   "cach_goi": "gọi tên Enfer, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "cha con, quan hệ phức tạp",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "vợ chồng, tình cảm sâu sắc",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "vợ chồng, tình cảm sâu sắc",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "ban_be",
+   "mo_ta": "anh em, có sự hiểu biết lẫn nhau",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "anh em, có sự hiểu biết lẫn nhau",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "người có địa vị cao hơn, không giao tiếp trực tiếp",
+   "cach_goi": "gọi 'His Majesty', lễ phép"
+  },
+  {
+   "a": "Bartello",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "người có địa vị cao hơn, không giao tiếp trực tiếp",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Joseph von Wexler",
+   "loai": "ke_thu",
+   "mo_ta": "đối tượng cần tìm ra danh tính thật",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Joseph von Wexler: kẻ đứng sau kế hoạch Mana Injection, chưa rõ thân phận thực sự."
+ ],
+ "stats": {
+  "tokens": 1345,
+  "seconds": 40.1
+ }
+}

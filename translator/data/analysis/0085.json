@@ -1,0 +1,86 @@
+{
+ "number": 85,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu bằng việc Frondier và Aten đang tìm kiếm quái vật trong rừng. Một kẻ trộm cố gắng lẻn đến để đánh cắp đồ của Frondier nhưng bị Frondier vô tình hạ gục bằng một nhánh cây rơi. Eden Hamelot, người mạnh nhất thế giới, xuất hiện và bắt chuyện với Ellen, bày tỏ sự quan tâm đến Aster và Frondier. Cuối cùng, Hoàng hậu Philly rời đi vì một linh cảm xấu.",
+ "boi_canh": "Trong rừng, trong quá trình diễn ra bài kiểm tra thực tế.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly Terst (Hoàng hậu)",
+  "Aten Terst (Tam công chúa)",
+  "Elysia",
+  "Ellen",
+  "Lunia",
+  "Eden Hamelot (Eden)",
+  "Sale",
+  "Mom",
+  "Frondier de Roach"
+ ],
+ "su_kien": [
+  "Một kẻ trộm lẻn đến để đánh cắp đồ của Frondier.",
+  "Frondier vô tình hạ gục kẻ trộm bằng một nhánh cây rơi.",
+  "Eden Hamelot xuất hiện và bắt chuyện với Ellen.",
+  "Ellen và Eden thảo luận về Aster và Frondier.",
+  "Hoàng hậu Philly rời đi vì một linh cảm xấu."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội trong bài kiểm tra thực tế.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Kẻ trộm",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "cố gắng đánh cắp đồ của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kẻ trộm",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "cố gắng đánh cắp đồ của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Eden Hamelot",
+   "loai": "nguoi_la",
+   "mo_ta": "lần đầu gặp mặt.",
+   "cach_goi": "gọi tên Eden, lễ phép"
+  },
+  {
+   "a": "Eden Hamelot",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "lần đầu gặp mặt.",
+   "cach_goi": "gọi tên Ellen, lễ phép"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ và con gái.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Sale",
+   "loai": "dong_minh",
+   "mo_ta": "mẹ và người hầu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot (Eden)",
+  "Frondier de Roach (Frondier)"
+ ],
+ "stats": {
+  "tokens": 864,
+  "seconds": 26.1
+ }
+}

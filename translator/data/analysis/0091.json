@@ -1,0 +1,102 @@
+{
+ "number": 91,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Renzo tiếp tục chiến đấu. Frondier sử dụng Mjölnir để tấn công, nhưng Renzo liên tục né tránh. Cuối cùng, Frondier tung ra một đòn tấn công bất ngờ bằng cách đánh vào Gram, cắt đứt cánh tay phải của Renzo. Sau đó, Ellen Evans và Eden xuất hiện để hỗ trợ Frondier, dẫn đến sự bao vây của các Hiệp sĩ Hoàng gia Terst và khiến Renzo bị áp đảo. Cuối chương, Frondier ngã xuống vì kiệt sức sau khi sử dụng quá nhiều mana.",
+ "boi_canh": "Trong một trận chiến căng thẳng giữa Frondier và Renzo.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Renzo",
+  "Ellen",
+  "Eden",
+  "Ellen Evans"
+ ],
+ "su_kien": [
+  "Frondier tấn công Renzo bằng Mjölnir.",
+  "Renzo né tránh các đòn tấn công của Frondier.",
+  "Frondier cắt đứt cánh tay phải của Renzo bằng Gram.",
+  "Ellen Evans can thiệp vào trận chiến.",
+  "Eden và Hiệp sĩ Hoàng gia Terst xuất hiện để hỗ trợ Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Renzo, thù địch"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, khinh bỉ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "quan sát trận chiến từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "quan sát trận chiến từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen Evans",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "can thiệp để bảo vệ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Ellen Evans",
+   "loai": "doi_thu",
+   "mo_ta": "đối mặt với Ellen trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "đứng về phía Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Eden",
+   "loai": "doi_thu",
+   "mo_ta": "đối mặt với Eden trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "quan sát Frondier từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "được Ellen bảo vệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ellen Evans là chị của Aster (chưa xuất hiện trong chương này)."
+ ],
+ "stats": {
+  "tokens": 1031,
+  "seconds": 30.9
+ }
+}

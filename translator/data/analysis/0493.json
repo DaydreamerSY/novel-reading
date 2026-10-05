@@ -1,0 +1,79 @@
+{
+ "number": 493,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận được yêu cầu từ người hâm mộ, Frondier đồng ý đưa Mei đến Constel để làm quen với thế giới bên ngoài xưởng của anh ấy. Để tránh sự nghi ngờ, họ quyết định nói dối rằng Mei là người thân của Frondier và Elodie. Trong quá trình chuẩn bị cho chuyến đi này, Elodie bày tỏ lo ngại về việc dạy dỗ Mei và những vấn đề có thể phát sinh, nhưng cuối cùng cô chấp nhận giúp đỡ. Cuối cùng, sau khi chia tay Elodie và Mei, Frondier rời khỏi cabin, suy nghĩ về những lời nói của Elodie và sự thật đằng sau mối quan hệ giữa họ.",
+ "boi_canh": "Trong cabin vào ban đêm.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Mei",
+  "Osprey"
+ ],
+ "su_kien": [
+  "Frondier đồng ý đưa Mei đến Constel.",
+  "Họ quyết định nói dối rằng Mei là người thân của Frondier và Elodie.",
+  "Elodie bày tỏ lo ngại về việc dạy dỗ Mei.",
+  "Frondier rời khỏi cabin sau khi chia tay Elodie và Mei.",
+  "Elodie suy nghĩ về mối quan hệ giữa cô và Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người ra quyết định, Elodie phản đối nhưng cuối cùng chấp nhận.",
+   "cach_goi": "gọi tên Elodie, không thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Elodie phản đối quyết định của Frondier nhưng cuối cùng chấp nhận.",
+   "cach_goi": "gọi tên Frondier, không thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là người hướng dẫn và bảo vệ Mei.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Mei tôn trọng và tin tưởng Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Elodie lo lắng về việc dạy dỗ Mei.",
+   "cach_goi": "gọi tên Mei, không thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Mei tôn trọng và tin tưởng Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mei: Dạng nữ của Metamorp, được Frondier đặt tên.",
+  "Elodie và Frondier: Mei có ngoại hình giống cả hai người."
+ ],
+ "stats": {
+  "tokens": 895,
+  "seconds": 26.9
+ }
+}

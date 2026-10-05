@@ -1,0 +1,70 @@
+{
+ "number": 402,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với cuộc trò chuyện giữa Hoàng hậu Philly và một người đàn ông bí ẩn trong văn phòng riêng của bà ấy. Người đàn ông đó là Azier de Roach, người đã đến để bàn về tin đồn xoay quanh Frondier tại Constel. Cuộc trò chuyện sau đó chuyển sang vấn đề sức khỏe của Vua Bartello Terst và sự thiếu thân thiết giữa ông với công chúa Aten. Cuối cùng, Philly thông báo về một vụ việc nghiêm trọng liên quan đến 'Sự cố Tiêm Mana' và sự hợp tác cần thiết giữa Hoàng cung, Pros và Constel.",
+ "boi_canh": "Trong văn phòng riêng của Hoàng hậu Philly tại Cung điện Hoàng gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Azier",
+  "Enfer",
+  "Bartello",
+  "Pros",
+  "Azier de Roach",
+  "Bartello Terst"
+ ],
+ "su_kien": [
+  "Cuộc trò chuyện giữa Philly và Azier về tin đồn xung quanh Frondier.",
+  "Philly đề cập đến tình trạng sức khỏe của Vua Bartello.",
+  "Thảo luận về mối quan hệ xa cách giữa Vua Bartello và công chúa Aten.",
+  "Thông báo về 'Sự cố Tiêm Mana' và sự cần thiết hợp tác.",
+  "Azier được xác nhận là làm việc với tư cách là một 'Pro'."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu Philly giao tiếp với Azier, người đang phục vụ cho Hoàng gia.",
+   "cach_goi": "gọi tên Azier, không trang trọng"
+  },
+  {
+   "a": "Azier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Azier trả lời Hoàng hậu Philly.",
+   "cach_goi": "gọi tên Philly, không trang trọng"
+  },
+  {
+   "a": "Philly",
+   "b": "Bartello",
+   "loai": "gia_dinh",
+   "mo_ta": "Hoàng hậu Philly nói về chồng mình, Vua Bartello.",
+   "cach_goi": "gọi 'my husband', không trang trọng"
+  },
+  {
+   "a": "Azier",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Azier đề cập đến Aten, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Philly đề cập đến Aten, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Azier de Roach: Trước đây được biết đến với tên Azier.",
+  "Bartello Terst: Hiện tại là Vua Bartello."
+ ],
+ "stats": {
+  "tokens": 778,
+  "seconds": 23.2
+ }
+}

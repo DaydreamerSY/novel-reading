@@ -1,0 +1,128 @@
+{
+ "number": 261,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, những người có mặt tại một cuộc họp (Ainen, Malia, Jane, Pascal, Heldre và Chancellor Osprey) bắt đầu nghi ngờ về hành động của Frondier trong quá khứ, đặc biệt là liên quan đến việc truy tìm Indus. Họ nhớ lại các sự kiện như 'Vụ việc Mistletoe Giả', chuyến đi cabin của Frondier và cái chết của Serf Daniel. Cuối cùng, Chancellor Osprey chất vấn Frondier về những gì anh ta đang che giấu, và Frondier tiết lộ rằng anh ta đã lên kế hoạch từ lâu để bắt giữ Indus.",
+ "boi_canh": "Một phòng họp tại Constel, vào một thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aten Terst",
+  "Osprey",
+  "Jane",
+  "Malia",
+  "Pascal",
+  "Heldre",
+  "Serf",
+  "Grobel",
+  "Ainen",
+  "Serf Daniel",
+  "Student Frondier",
+  "Chancellor Osprey"
+ ],
+ "su_kien": [
+  "Librarian Ainen nhớ lại sự thay đổi của Frondier bắt đầu từ 'Vụ việc Mistletoe Giả'.",
+  "Malia nghi ngờ về chuyến đi cabin của Frondier và liên hệ nó với Serf Daniel.",
+  "Jane suy đoán Frondier có thể đã đến Tyburn để gặp Grobel.",
+  "Chancellor Osprey chất vấn Frondier về những gì anh ta đang che giấu.",
+  "Frondier tiết lộ rằng anh ta đã lên kế hoạch từ lâu để bắt giữ Indus."
+ ],
+ "quan_he": [
+  {
+   "a": "Ainen",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên quan sát và suy đoán về hành động của học sinh.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ainen",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh trả lời câu hỏi và tiết lộ thông tin cho giáo viên.",
+   "cach_goi": "gọi tên Ainen, không rõ cảm xúc"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier nghi ngờ về hành động của con trai.",
+   "cach_goi": "gọi tên Frondier, lo lắng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai trả lời câu hỏi của mẹ.",
+   "cach_goi": "gọi tên Malia, không rõ cảm xúc"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè suy đoán về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, tò mò"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "ban_be",
+   "mo_ta": "Học sinh trả lời câu hỏi của bạn bè.",
+   "cach_goi": "gọi tên Jane, không rõ cảm xúc"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp bày tỏ sự ngạc nhiên về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, ngưỡng mộ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "dong_minh",
+   "mo_ta": "Học sinh trả lời câu hỏi của đồng nghiệp.",
+   "cach_goi": "gọi tên Pascal, không rõ cảm xúc"
+  },
+  {
+   "a": "Heldre",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ có thể phản ứng với hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serf Daniel",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Nạn nhân của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Grobel",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mà Frondier đã phỏng vấn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Chancellor Osprey",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hiệu trưởng chất vấn học sinh.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Chancellor Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Học sinh trả lời câu hỏi của hiệu trưởng.",
+   "cach_goi": "gọi tên Chancellor Osprey, không rõ cảm xúc"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1399,
+  "seconds": 43.0
+ }
+}

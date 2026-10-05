@@ -1,0 +1,62 @@
+{
+ "number": 358,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận lệnh của Lord Enfer, các Hiệp sĩ Roach, bao gồm cả Chỉ huy Sylvain, đồng loạt thổi kèn báo động. Họ tạo thành một đội hình vây quanh Frondier và xông pha qua hàng rào, tận dụng khoảng trống do Cyclops tạo ra. Frondier yêu cầu Sylvain chém đứt chân trái của Cyclops để giúp anh ta tiêu diệt nó. Tuy nhiên, Sylvain đã gặp khó khăn khi cố gắng thực hiện điều này, khiến Frondier phải nhảy lên hỗ trợ.",
+ "boi_canh": "Một trận chiến diễn ra ngay sau hàng rào, nơi các hiệp sĩ đang truy đuổi Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Sylvain",
+  "Cassian"
+ ],
+ "su_kien": [
+  "Các Hiệp sĩ Roach thổi kèn báo động và xông pha qua hàng rào.",
+  "Frondier yêu cầu Sylvain chém đứt chân trái của Cyclops.",
+  "Sylvain cố gắng chém đứt chân Cyclops nhưng không thành công.",
+  "Frondier nhảy lên để hỗ trợ Sylvain.",
+  "Các hiệp sĩ dàn trải để đánh lạc hướng Cyclops."
+ ],
+ "quan_he": [
+  {
+   "a": "Enfer",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Lord Enfer ra lệnh cho Chỉ huy Sylvain và các hiệp sĩ.",
+   "cach_goi": "gọi 'Chỉ huy', lễ phép"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Chỉ huy Sylvain bảo vệ và hỗ trợ Frondier trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier yêu cầu Sylvain thực hiện một nhiệm vụ cụ thể.",
+   "cach_goi": "gọi 'Chỉ huy', lễ phép"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Sylvain tuân theo lệnh của Lord Enfer.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cassian",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Cassian đã xông qua hàng rào trước đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 688,
+  "seconds": 20.6
+ }
+}

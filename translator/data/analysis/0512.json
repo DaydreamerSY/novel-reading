@@ -1,0 +1,123 @@
+{
+ "number": 512,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong lớp học, Elodie gây sốc khi tuyên bố rằng cô không sợ các vị thần và coi họ là bạn bè. Aten khẳng định sẽ tin tưởng Frondier và hành động theo đó. Robald Lieff kêu gọi mọi người hành động để đối phó với mối đe dọa từ Manggot. Aster Evans bày tỏ sự miễn cưỡng trong việc lãnh đạo, còn Frondier cố gắng thuyết phục anh ấy. Sybil quan sát tình hình và bắt đầu suy ngẫm về tài năng của mình cũng như những tác động của nó.",
+ "boi_canh": "Trong lớp học, giữa các học viên.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten Terst",
+  "Sybil",
+  "Ellen",
+  "Edwin",
+  "Lunia",
+  "Robald Lieff"
+ ],
+ "su_kien": [
+  "Elodie tuyên bố không sợ các vị thần.",
+  "Aten khẳng định sẽ tin tưởng Frondier.",
+  "Robald Lieff kêu gọi mọi người hành động.",
+  "Aster Evans từ chối lãnh đạo.",
+  "Sybil suy ngẫm về tài năng và trách nhiệm của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân, Elodie có vẻ thích trêu chọc và gây bất ngờ cho Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân, Frondier có vẻ quen với những trò đùa của Elodie.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Elodie",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, Lunia tỏ ra ngạc nhiên trước lời nói của Elodie.",
+   "cach_goi": "gọi tên Elodie, lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Lunia",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, Elodie không thích bị gọi bằng biệt danh 'Inies'.",
+   "cach_goi": "gọi tên Lunia, thân mật"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Tam công chúa Aten tin tưởng và hành động theo quyết định của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten Terst",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, Sybil lắng nghe những gì Aten nói.",
+   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Robald Lieff",
+   "b": "Aster Evans",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, Robald Lieff có vẻ là người có khả năng truyền cảm hứng cho những người xung quanh.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster Evans",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster từ chối lời đề nghị của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster Evans",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier cố gắng thuyết phục Aster lãnh đạo.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aster Evans",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, Sybil quan sát Aster và Frondier.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, Sybil quan sát Aster và Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Lunia",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, Edwin và Lunia thảo luận về vấn đề an ninh.",
+   "cach_goi": "gọi tên Lunia, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Edwin",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, Edwin và Lunia thảo luận về vấn đề an ninh.",
+   "cach_goi": "gọi tên Edwin, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1364,
+  "seconds": 40.8
+ }
+}

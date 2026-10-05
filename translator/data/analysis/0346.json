@@ -1,0 +1,54 @@
+{
+ "number": 346,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận được thông tin về một đội quân quái vật khổng lồ đang tập hợp, Frondier đề xuất một kế hoạch để loại bỏ kẻ chủ mưu đằng sau chúng. Sylvain ban đầu lo lắng nhưng dần hiểu ra ý nghĩa của lời đề nghị đó và những hạn chế của mình. Cuối cùng, Sylvain từ chối trực tiếp giúp đỡ Frondier vì ông không thể chấp nhận việc liều lĩnh mạng sống của một người trẻ tuổi như vậy.",
+ "boi_canh": "Một khu vực hoang vắng, đêm tối.",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Sylvain"
+ ],
+ "su_kien": [
+  "Frondier thông báo về sự tập hợp của quái vật và đề xuất loại bỏ kẻ chủ mưu.",
+  "Sylvain bày tỏ lo ngại về tình hình và hỏi Frondier có giải pháp gì không.",
+  "Sylvain nhận ra ý nghĩa của việc tìm kiếm và tiêu diệt kẻ chủ mưu.",
+  "Frondier từ chối để Sylvain và Kỵ Binh Roach đi trực tiếp đến điểm tập hợp.",
+  "Sylvain từ chối giúp Frondier xâm nhập vào khu vực được bảo vệ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người báo cáo tình hình cho Sylvain và đưa ra đề xuất chiến lược.",
+   "cach_goi": "gọi tên Sylvain, lễ phép"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Sylvain là người ra quyết định và đánh giá đề xuất của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật nhưng có phần dò xét"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Frondier lo lắng về phản ứng của Sylvain đối với thông tin mà anh ta đã biết về cha mình, Enfer.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Sylvain là người có kinh nghiệm hơn và đang cố gắng bảo vệ Frondier.",
+   "cach_goi": "gọi tên Frondier, nghiêm túc"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 644,
+  "seconds": 19.4
+ }
+}

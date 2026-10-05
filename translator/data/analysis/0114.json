@@ -1,0 +1,71 @@
+{
+ "number": 114,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Philly tìm thấy nơi ở bí mật của Elysia trong một khu rừng rậm. Họ đối mặt với nhau, và cuộc trò chuyện giữa họ dần hé lộ sự căng thẳng tiềm ẩn và một cuộc đấu trí ngầm để thuyết phục Philly về những động cơ thực sự của cả hai người. Frondier nghi ngờ Elysia đang che giấu điều gì đó quan trọng trong tòa tháp.",
+ "boi_canh": "Trong khu rừng rậm, tại nơi ở bí mật của Elysia.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Elysia",
+  "Enfer"
+ ],
+ "su_kien": [
+  "Frondier và Philly tìm thấy tòa tháp bí mật của Elysia.",
+  "Elysia xuất hiện và chào đón họ một cách vui vẻ.",
+  "Philly tỏ ra nghi ngờ đối với Elysia và Frondier.",
+  "Một cuộc trò chuyện diễn ra, hé lộ sự căng thẳng giữa Elysia và Philly.",
+  "Frondier bắt đầu khám phá tòa tháp, nghi ngờ Elysia đang che giấu điều gì đó."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, Frondier nghi ngờ và theo dõi hành động của Philly.",
+   "cach_goi": "gọi tên Philly, không rõ cảm xúc"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, Philly nghi ngờ và dò xét Frondier.",
+   "cach_goi": "gọi tên Frondier, thận trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người có vẻ đang cạnh tranh để giành được sự tin tưởng của Philly.",
+   "cach_goi": "gọi tên Elysia, thách thức"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người có vẻ đang cạnh tranh để giành được sự tin tưởng của Philly.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Elysia",
+   "loai": "cap_tren",
+   "mo_ta": "Mối quan hệ mẹ con, Philly tỏ ra nghi ngờ và dò xét Elysia.",
+   "cach_goi": "gọi tên Elysia, nghi ngờ"
+  },
+  {
+   "a": "Elysia",
+   "b": "Philly Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ mẹ con, Elysia cố gắng tỏ ra vui vẻ và vô tư.",
+   "cach_goi": "gọi tên Philly, thân thiện"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính mới hoặc bí mật nào được tiết lộ trong chương này."
+ ],
+ "stats": {
+  "tokens": 817,
+  "seconds": 25.2
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "number": 377,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào sự chú ý đặc biệt mà các học viên năm thứ hai tại Constel dành cho Frondier. Họ quan sát thấy anh luôn đạt điểm tuyệt đối trong các bài kiểm tra lý thuyết và thường xuyên tham gia vào các sự kiện khác nhau, khiến họ tò mò về khả năng của anh. Các giáo viên cũng tận dụng Frondier để giúp học sinh hiểu bài, và Elodie nhận thấy sự thay đổi đáng kể về thể chất và mana của anh.",
+ "boi_canh": "Trong lớp học năm thứ hai tại Constel.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Jane",
+  "Lunia",
+  "Kora",
+  "Robald",
+  "Aten Terst",
+  "Elodie de Inies Rishae",
+  "Student Frondier"
+ ],
+ "su_kien": [
+  "Học viên năm thứ hai quan tâm đặc biệt đến Frondier.",
+  "Frondier luôn đạt điểm tuyệt đối trong các bài kiểm tra lý thuyết.",
+  "Giáo viên thường xuyên gọi Frondier trả lời câu hỏi trong lớp.",
+  "Elodie nhận thấy sự thay đổi về thể chất và mana của Frondier.",
+  "Jane thông báo cho một số học sinh đến văn phòng sau giờ học."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên Aten thường xuyên gọi Frondier trả lời câu hỏi, coi anh như một nguồn tham khảo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên Aten thường xuyên gọi Frondier trả lời câu hỏi, coi anh như một nguồn tham khảo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, Elodie quan sát Frondier với sự tò mò.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, Elodie quan sát Frondier với sự tò mò.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lunia",
+   "loai": "dong_minh",
+   "mo_ta": "Cùng lớp, Lunia quan sát Frondier cùng với Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Cùng lớp, Lunia quan sát Frondier cùng với Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên Jane quan sát Frondier và Kora, gọi một số học sinh đến văn phòng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên Jane quan sát Frondier và Kora, gọi một số học sinh đến văn phòng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robald",
+   "loai": "dong_minh",
+   "mo_ta": "Cùng lớp, Robald được gọi đến văn phòng cùng các học sinh khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Robald",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Cùng lớp, Robald được gọi đến văn phòng cùng các học sinh khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi tức tỉnh thần tính)"
+ ],
+ "stats": {
+  "tokens": 1159,
+  "seconds": 34.7
+ }
+}

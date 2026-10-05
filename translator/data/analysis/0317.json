@@ -1,0 +1,72 @@
+{
+ "number": 317,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier bày tỏ mong muốn được đi đến Yeranhes, cha của anh, Enfer đã từ chối vì lo ngại về sức mạnh còn yếu đuối của anh. Tuy nhiên, sau khi cân nhắc và nhận thấy sự trưởng thành của Frondier, Enfer cuối cùng cũng chấp thuận, nhưng với điều kiện không được phép chiến đấu tại rào cản. Mục đích thực sự của Frondier là để tìm kiếm mảnh vỡ Helheim, một manh mối quan trọng mà Warden Esther đã cung cấp.",
+ "boi_canh": "Trong phòng làm việc của Enfer, vào thời điểm quyết định về chuyến đi của Frondier đến Yeranhes.",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Esther",
+  "Warden Esther",
+  "Azier"
+ ],
+ "su_kien": [
+  "Frondier bày tỏ mong muốn được đi đến Yeranhes.",
+  "Enfer ban đầu từ chối vì lo ngại về sức mạnh của Frondier.",
+  "Frondier đưa ra những lý do để thuyết phục cha mình.",
+  "Enfer chấp thuận chuyến đi, nhưng với điều kiện không được phép chiến đấu tại rào cản.",
+  "Frondier cúi chào và mỉm cười sau khi nhận được sự cho phép."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai bày tỏ mong muốn được đi, cha lo lắng và từ chối ban đầu.",
+   "cach_goi": "gọi 'cha', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha bày tỏ sự lo lắng và đưa ra điều kiện cho con trai.",
+   "cach_goi": "gọi tên Frondier, nghiêm nghị"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai cố gắng thuyết phục cha mình.",
+   "cach_goi": "gọi 'cha', thân mật"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nghi ngờ về động cơ thực sự của con trai.",
+   "cach_goi": "gọi tên Frondier, dò xét"
+  },
+  {
+   "a": "Frondier",
+   "b": "Warden Esther",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhận manh mối từ Warden Esther về mảnh vỡ Helheim.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "So sánh Frondier với Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Warden Esther: Người cung cấp manh mối về mảnh vỡ Helheim."
+ ],
+ "stats": {
+  "tokens": 803,
+  "seconds": 24.8
+ }
+}

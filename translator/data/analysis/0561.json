@@ -1,0 +1,111 @@
+{
+ "number": 561,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier nói ra lời nào đó khiến mọi người im lặng, cơ thể anh gần như kiệt sức vì mất mana và bị thương nặng. Aten sử dụng phép thuật chữa lành kết hợp nguyên tắc 'Reversion' để giúp đỡ Frondier, nhưng cách thức này có vẻ khác lạ so với lần trước. Aster tập hợp mọi người đến, và cuộc chiến chống lại đội quân xác sống bắt đầu với sự dẫn dắt của Aster. Cuối cùng, Frondier nhận ra Belphegor đang cố gắng dụ dỗ Osprey và cảnh báo anh về sức mạnh 'Sloth' cũng như nhiệm vụ ngăn chặn việc triệu hồi thần của Manggot.",
+ "boi_canh": "Một trận chiến đang diễn ra tại một khu vực bị tàn phá bởi phép thuật, nơi đội quân xác sống tiếp cận.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Osprey",
+  "Mei",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Frondier bị thương nặng và gần như kiệt sức.",
+  "Aten sử dụng phép thuật chữa lành kết hợp 'Reversion' để giúp Frondier.",
+  "Aster tập hợp mọi người đến chiến trường.",
+  "Aster chỉ huy cuộc tấn công vào đội quân xác sống.",
+  "Frondier cảnh báo Osprey về Belphegor và nhiệm vụ ngăn chặn việc triệu hồi thần của Manggot."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, đang hỗ trợ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, chiến đấu bên cạnh Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster là người chỉ huy và hỗ trợ Frondier.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Aster là người chỉ huy và báo cáo với Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aten giúp đỡ Frondier bằng phép thuật.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aten giúp đỡ Frondier bằng phép thuật.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, chiến đấu bên cạnh Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người chỉ huy và ra lệnh cho Osprey.",
+   "cach_goi": "gọi tên Osprey, lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Osprey là người báo cáo với Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, chiến đấu bên cạnh Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ke_thu",
+   "mo_ta": "Địch, đang cố gắng dụ dỗ Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mei (dạng nữ của Metamorp)"
+ ],
+ "stats": {
+  "tokens": 1207,
+  "seconds": 37.8
+ }
+}

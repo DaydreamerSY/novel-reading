@@ -1,0 +1,66 @@
+{
+ "number": 331,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Laurie mời Frondier đến nhà cô để trò chuyện riêng tư. Trong khi Frondier thẩm vấn Laurie về thói quen hàng ngày của cô, Laurie bắt đầu nghi ngờ động cơ thực sự của anh và cảm thấy sợ hãi một cách kỳ lạ. Cô bỏ trốn khỏi nhà bằng cách phá cửa sổ, nhưng Frondier đã chờ sẵn ở nơi cô chạy đến, tiết lộ rằng Laurie là một gián điệp.",
+ "boi_canh": "Trong phòng khách nhà Laurie vào buổi tối.",
+ "nhan_vat": [
+  "Frondier",
+  "Laurie",
+  "Father",
+  "Enfer",
+  "Azier"
+ ],
+ "su_kien": [
+  "Laurie mời Frondier đến nhà cô để trò chuyện riêng tư.",
+  "Laurie cảm thấy sợ hãi một cách kỳ lạ khi nhìn vào Frondier.",
+  "Laurie bỏ trốn khỏi nhà bằng cách phá cửa sổ.",
+  "Frondier đã chờ sẵn Laurie ở nơi cô chạy đến.",
+  "Laurie gỡ mặt nạ ra, để lộ diện mạo thật sự của mình là một gián điệp."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "nguoi_la",
+   "mo_ta": "Người thẩm vấn và đối tượng bị thẩm vấn, Laurie nghi ngờ động cơ của Frondier.",
+   "cach_goi": "gọi tên Laurie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối tượng bị thẩm vấn và người thẩm vấn, Laurie cảm thấy sợ hãi.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Laurie",
+   "b": "Father",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, Laurie dự định báo cáo với Father.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Laurie",
+   "b": "Enfer",
+   "loai": "nguoi_la",
+   "mo_ta": "Laurie cảm thấy sợ hãi trước Enfer.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Laurie",
+   "b": "Azier",
+   "loai": "nguoi_la",
+   "mo_ta": "Laurie cảm thấy sợ hãi trước Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Laurie: Ban đầu được cho là Laurie, sau đó tiết lộ là một gián điệp có diện mạo giả.",
+  "Laurie: Sử dụng mặt nạ và tóc giả để che giấu thân phận thật."
+ ],
+ "stats": {
+  "tokens": 722,
+  "seconds": 22.3
+ }
+}

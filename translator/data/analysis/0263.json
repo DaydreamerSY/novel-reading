@@ -1,0 +1,111 @@
+{
+ "number": 263,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào việc chuẩn bị cho chuyến đi thực nghiệm của trường Constel, trong đó Frondier được sắp xếp một nhiệm vụ riêng biệt. Mẹ của Frondier, Malia, sử dụng khả năng 'Sense Sharing' để theo dõi tình hình nhưng không thể liên lạc trực tiếp với con trai mình. Nhiều học sinh khác nhau tìm đến Malia hỏi về Frondier, khiến cô nhận ra sự nổi tiếng của con trai vượt xa những gì cô biết. Cuối cùng, chuyến tàu lên đường, và Malia phát hiện ra vị trí bất thường của Dean Osprey thông qua 'Sense Sharing', cho thấy một tình huống khó lường đang chờ đợi.",
+ "boi_canh": "Ga tàu, trước khi chuyến đi thực nghiệm bắt đầu.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Osprey",
+  "Jane",
+  "Malia",
+  "Lunia",
+  "Robald"
+ ],
+ "su_kien": [
+  "Malia sử dụng 'Sense Sharing' để theo dõi tình hình chuyến đi.",
+  "Aten tỏ ra thất vọng khi lên tàu.",
+  "Sybil hỏi về vị trí của lớp 5 và muốn đổi chỗ.",
+  "Elodie đỏ mặt sau khi Malia nhắc đến Frondier.",
+  "Malia phát hiện Osprey đang lơ lửng trên không trung, cao hơn đường ray."
+ ],
+ "quan_he": [
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ và con trai, Malia lo lắng cho Frondier nhưng không thể liên lạc trực tiếp.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "con trai và mẹ, Frondier có một nhiệm vụ riêng biệt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Jane",
+   "loai": "dong_minh",
+   "mo_ta": "đồng nghiệp, Malia theo dõi Jane thông qua 'Sense Sharing'.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Malia",
+   "loai": "cap_tren",
+   "mo_ta": "tam công chúa và người phụ trách chuyến đi.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Malia",
+   "loai": "dong_minh",
+   "mo_ta": "học sinh và giáo viên.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, Aster có vẻ quan tâm đến Frondier và Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Malia",
+   "loai": "dong_minh",
+   "mo_ta": "học sinh và giáo viên, Elodie có vẻ bối rối về sự quan tâm của Malia.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "người phụ trách chuyến đi và Dean, Malia theo dõi Osprey thông qua 'Sense Sharing'.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Robald",
+   "b": "Malia",
+   "loai": "dong_minh",
+   "mo_ta": "học sinh và giáo viên, Robald tò mò về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Malia",
+   "loai": "dong_minh",
+   "mo_ta": "học sinh và giáo viên, Lunia tò mò về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Malia",
+   "loai": "dong_minh",
+   "mo_ta": "học sinh và giáo viên, Selena tò mò về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1214,
+  "seconds": 37.3
+ }
+}

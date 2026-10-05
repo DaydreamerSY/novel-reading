@@ -1,0 +1,49 @@
+{
+ "number": 79,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hoàn thành kỳ thi viết giữa kỳ bằng cách gian lận, Frondier bị Hoàng hậu Philly bắt cóc và đưa đi. Philly thẩm vấn Frondier về việc anh ta biết về Dragon Heart, một vật phẩm bí mật. Cuối cùng, Frondier đề nghị được xem kho vũ khí hoàng gia để tiếp tục kế hoạch của mình, khiến Philly tỏ ra bực bội.",
+ "boi_canh": "Trong xe hơi trên đường đến cung điện hoàng gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Aten"
+ ],
+ "su_kien": [
+  "Frondier hoàn thành kỳ thi viết và rời khỏi phòng.",
+  "Philly mời Frondier lên xe hơi sang trọng.",
+  "Philly thẩm vấn Frondier về Dragon Heart.",
+  "Frondier đề nghị được xem kho vũ khí hoàng gia.",
+  "Philly tỏ ra bực bội trước yêu cầu của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người được Hoàng hậu mời đi và bị thẩm vấn.",
+   "cach_goi": "gọi tên Philly, lạnh lùng"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu thẩm vấn và ra lệnh cho Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Terst Imperial Ritual Dagger: Dao nghi lễ hoàng gia Terst, không gây chết người."
+ ],
+ "stats": {
+  "tokens": 511,
+  "seconds": 15.3
+ }
+}

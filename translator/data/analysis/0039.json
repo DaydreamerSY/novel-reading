@@ -1,0 +1,71 @@
+{
+ "number": 39,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tìm cách thuyết phục Azier dạy anh ta chiến đấu, vì anh cần cải thiện kỹ năng để vào top 10 và tránh bị loại. Sau khi bị từ chối thẳng thừng, Frondier đề nghị một trận giao đấu: nếu anh ta đánh trúng được Azier dù chỉ một lần, Azier sẽ đồng ý dạy. Trong trận đấu thử nghiệm ngắn ngủi, Frondier sử dụng những chiêu trò lừa gạt và một con dao ảo ảnh để bất ngờ tấn công Azier.",
+ "boi_canh": "Trong phòng của Azier, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Enfer",
+  "Father"
+ ],
+ "su_kien": [
+  "Frondier tìm đến Azier để học chiến đấu.",
+  "Azier từ chối dạy Frondier một cách lạnh lùng.",
+  "Frondier đề nghị giao đấu để thuyết phục Azier.",
+  "Trận đấu thử nghiệm diễn ra, Frondier sử dụng dao ảo ảnh tấn công Azier.",
+  "Frondier bất ngờ đánh trúng đầu Azier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em, Frondier tìm kiếm sự giúp đỡ từ Azier nhưng bị từ chối.",
+   "cach_goi": "gọi tên 'anh trai', không thân thiết"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em, Azier tỏ ra khó chịu và không muốn giúp đỡ Frondier.",
+   "cach_goi": "gọi tên 'em trai', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Father",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier nhận được cảnh báo từ cha, nhưng không rõ nội dung.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Father",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Maid (around them)",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng người hầu chứng kiến cuộc đối thoại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Maid (around them)",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng người hầu chứng kiến cuộc đối thoại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier không phải là Frondier thật sự (ẩn danh)"
+ ],
+ "stats": {
+  "tokens": 790,
+  "seconds": 23.6
+ }
+}

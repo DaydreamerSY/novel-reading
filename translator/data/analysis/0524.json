@@ -1,0 +1,88 @@
+{
+ "number": 524,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Khi lũ quái vật đồng loạt tấn công, những người trên các rào chắn đều chuẩn bị tinh thần cho cái chết. Renzo xuất hiện và tiêu diệt chúng, khiến mọi người lấy lại tinh thần. Tuy nhiên, chỉ một phần nhỏ của Đế quốc được hưởng lợi từ sự can thiệp này. Tại rào chắn phía nam, các Hiệp sĩ Áo Choàng rơi vào trạng thái tuyệt vọng, Elodie sử dụng một phép thuật mới để vực dậy tinh thần họ bằng những lời đe dọa khắc nghiệt. Trong khi đó, ở Tyburn, Hector và Aster đang chiến đấu với lũ quái vật.",
+ "boi_canh": "Trên các rào chắn của Đế quốc trong thời điểm chiến tranh với quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Quinie",
+  "Renzo",
+  "Malia",
+  "Lunia",
+  "Ludwig",
+  "Monty",
+  "Sanders",
+  "Notker",
+  "Hector"
+ ],
+ "su_kien": [
+  "Lũ quái vật đồng loạt tấn công các rào chắn.",
+  "Renzo xuất hiện và tiêu diệt lũ quái vật, giúp mọi người lấy lại tinh thần.",
+  "Elodie vực dậy tinh thần các Hiệp sĩ Áo Choàng bằng những lời đe dọa.",
+  "Hector và Aster chiến đấu ở Tyburn.",
+  "Elodie sử dụng phép thuật 'Storm Arrow'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "khac",
+   "mo_ta": "Elodie biết về hành động của Frondier và quyết định làm theo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sanders",
+   "loai": "ban_be",
+   "mo_ta": "Elodie và Sanders cùng chiến đấu trên rào chắn.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Sanders",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Elodie và Sanders cùng chiến đấu trên rào chắn.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Hector",
+   "b": "Aster",
+   "loai": "thay_tro",
+   "mo_ta": "Hector là người chỉ huy và Aster là học sinh của ông.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Hector",
+   "loai": "thay_tro",
+   "mo_ta": "Aster là học sinh và Hector là người chỉ huy của ông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Notker",
+   "b": "Aster",
+   "loai": "ke_thu",
+   "mo_ta": "Notker nhắm bắn Aster từ trong rừng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Notker",
+   "loai": "ke_thu",
+   "mo_ta": "Notker nhắm bắn Aster từ trong rừng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hector Von Urfa được gọi là Hector"
+ ],
+ "stats": {
+  "tokens": 892,
+  "seconds": 26.9
+ }
+}

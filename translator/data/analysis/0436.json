@@ -1,0 +1,82 @@
+{
+ "number": 436,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier xuất hiện trước mặt Vua Bartello theo lệnh của ngài. Một cuộc đối thoại kỳ lạ diễn ra, với những ám chỉ về quá khứ và một 'dreadful aura' mà Frondier không hề biết đến. Sau đó, Eden Hamelot được giới thiệu, nhận được sự khen ngợi lớn từ Nữ Hoàng Philly. Sự kiện này khiến Frondier suy đoán về khả năng anh liên quan đến Belphegor, chúa tể của sự lười biếng.",
+ "boi_canh": "Cung điện hoàng gia, buổi lễ công nhận thành tựu chung.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Enfer",
+  "Eden",
+  "Bartello",
+  "Frondier de Roach",
+  "Eden Hamelot"
+ ],
+ "su_kien": [
+  "Frondier xuất hiện trước mặt Vua Bartello theo lệnh của ngài.",
+  "Vua Bartello gọi Frondier là 'devil's child', gây bất ngờ cho mọi người.",
+  "Frondier phản bác lại, nói rằng gia đình anh cũng có mặt.",
+  "Bartello ám chỉ Frondier không biết mình là ai.",
+  "Eden Hamelot được giới thiệu và nhận được sự khen ngợi lớn từ Nữ Hoàng Philly."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier phải đối diện với Vua Bartello theo lệnh, có vẻ bối rối và không hiểu những lời ngài nói.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Bartello",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Vua Bartello có vẻ như đang nhắc đến một quá khứ bí ẩn liên quan đến Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Lo lắng về phản ứng của cha mình khi Vua Bartello nhắc đến quá khứ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Quan sát Frondier với vẻ quan tâm và tò mò.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Eden",
+   "loai": "ban_be",
+   "mo_ta": "Nữ Hoàng Philly khen ngợi Eden một cách công khai.",
+   "cach_goi": "gọi tên Eden, thân mật"
+  },
+  {
+   "a": "Eden",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Cảm thấy ngượng ngùng khi được Nữ Hoàng Philly khen ngợi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bartello",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Bartello và Enfer có vẻ như đang có một mối quan hệ phức tạp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)",
+  "Eden Hamelot (tên đầy đủ của Eden)"
+ ],
+ "stats": {
+  "tokens": 927,
+  "seconds": 27.7
+ }
+}

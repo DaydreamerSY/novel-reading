@@ -1,0 +1,50 @@
+{
+ "number": 483,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tỉnh dậy trong giấc mơ của Elodie, một thế giới kỳ lạ với những hiện tượng phi thực tế như mặt trời và mặt trăng cùng xuất hiện. Anh phát hiện ra mình bị biến thành một đứa trẻ và mất đi khả năng Weaving đặc trưng. Sau đó, anh gặp lại Elodie phiên bản nhỏ tuổi, người coi anh là một phần của giấc mơ mà cô tạo ra, một Frondier yếu ớt và lười biếng như cách cô nhìn nhận anh.",
+ "boi_canh": "Trong một khu rừng kỳ lạ trong giấc mơ của Elodie.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Osprey"
+ ],
+ "su_kien": [
+  "Mặt trời và mặt trăng xuất hiện đồng thời trên bầu trời.",
+  "Frondier phát hiện ra mình bị biến thành một đứa trẻ.",
+  "Khả năng Weaving của Frondier biến mất.",
+  "Frondier gặp Elodie phiên bản nhỏ tuổi.",
+  "Elodie kéo Frondier đi về phía cabin."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie coi Frondier là một phần của giấc mơ và tạo ra một phiên bản yếu ớt của anh.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie coi Frondier là một phần của giấc mơ và tạo ra một phiên bản yếu ớt của anh.",
+   "cach_goi": "gọi tên Fron, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "khac",
+   "mo_ta": "Có liên quan đến việc Frondier bị ảnh hưởng bởi phép thuật của Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Hiện tại là một đứa trẻ, có lẽ khoảng 6-8 tuổi.",
+  "Fron: Tên thân mật mà Elodie gọi Frondier."
+ ],
+ "stats": {
+  "tokens": 582,
+  "seconds": 17.4
+ }
+}

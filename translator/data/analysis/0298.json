@@ -1,0 +1,88 @@
+{
+ "number": 298,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi vượt qua cổng không gian, Frondier bị trói vào ghế bởi Cain. Anh ta bị thẩm vấn bởi Thompson, Kraken và Skyler, những người đều tỏ ra thù địch. Frondier sử dụng lời nói để khơi gợi sự nghi ngờ giữa các thành viên của Indus, đặc biệt là Thompson, và cuối cùng tung hỏa mù bằng cách ám chỉ có kẻ phản bội trong nhóm.",
+ "boi_canh": "Một căn phòng xa hoa bên trong một dinh thự bí ẩn, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Kraken",
+  "Heldre",
+  "Cain",
+  "Thompson",
+  "Skyler"
+ ],
+ "su_kien": [
+  "Frondier bị trói vào ghế ngay sau khi đi qua cổng không gian.",
+  "Thompson, Kraken và Skyler thẩm vấn Frondier.",
+  "Frondier cố tình kích động Thompson bằng cách nhắc đến Renzo.",
+  "Heldre tấn công Frondier nhưng dừng lại khi Cain can thiệp.",
+  "Frondier ám chỉ có kẻ phản bội trong Indus."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "ke_thu",
+   "mo_ta": "Cain trói Frondier, có vẻ là người chỉ huy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thompson",
+   "loai": "doi_thu",
+   "mo_ta": "Thompson thù địch với Frondier vì những gì anh ta đã làm.",
+   "cach_goi": "gọi tên Thompson, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kraken",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier quan sát Kraken, nhận thấy sự bất mãn của anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Skyler",
+   "loai": "nguoi_la",
+   "mo_ta": "Skyler quan sát Frondier và can thiệp vào cuộc tranh cãi của Thompson.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "doi_thu",
+   "mo_ta": "Heldre tấn công Frondier và bị Cain ngăn lại.",
+   "cach_goi": "gọi tên Heldre, trịch thượng"
+  },
+  {
+   "a": "Thompson",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Thompson thẩm vấn và đe dọa Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Cain",
+   "b": "Heldre",
+   "loai": "cap_tren",
+   "mo_ta": "Cain ngăn Heldre tấn công Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Skyler",
+   "b": "Thompson",
+   "loai": "ban_be",
+   "mo_ta": "Skyler ngăn Thompson tiếp tục thẩm vấn Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Skyler đang mặc áo giáp tấm (plate mail)."
+ ],
+ "stats": {
+  "tokens": 912,
+  "seconds": 28.3
+ }
+}

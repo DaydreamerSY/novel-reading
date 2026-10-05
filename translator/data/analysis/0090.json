@@ -1,0 +1,72 @@
+{
+ "number": 90,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Renzo cố gắng đoạt lấy Mjölnir nhưng thất bại. Sau khi Frondier điều khiển thành công búa Thor, Renzo kinh ngạc và nhận ra rằng Frondier có thể đã được Mjölnir thừa nhận. Frondier biết rằng Renzo đang nghĩ gì và không giải thích sự thật về nguồn gốc của búa.",
+ "boi_canh": "Một trận chiến diễn ra trong một khu vực không xác định, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Ares",
+  "Thor",
+  "RainEday"
+ ],
+ "su_kien": [
+  "Renzo cố gắng đoạt lấy Mjölnir nhưng bị đẩy lùi.",
+  "Renzo sử dụng sức mạnh thần thánh của Ares để chống lại Mjölnir.",
+  "Mjölnir trở về tay Frondier sau khi Renzo thất bại.",
+  "Frondier điều khiển Mjölnir bay lượn trước mặt Renzo.",
+  "Renzo tiến gần đến Frondier, né tránh các đòn tấn công của Mjölnir."
+ ],
+ "quan_he": [
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang cố gắng đoạt lấy Mjölnir từ tay Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang cố gắng đoạt lấy Mjölnir từ tay Frondier.",
+   "cach_goi": "gọi tên Renzo, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Ares",
+   "loai": "khac",
+   "mo_ta": "Sức mạnh của Renzo liên quan đến Ares.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thor",
+   "loai": "khac",
+   "mo_ta": "Mjölnir là vũ khí của Thor.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Mjölnir",
+   "loai": "khac",
+   "mo_ta": "Renzo cố gắng đoạt lấy Mjölnir.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mjölnir",
+   "loai": "khac",
+   "mo_ta": "Frondier điều khiển Mjölnir.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mjölnir: vũ khí giả làm từ Weaving, nằm trong phạm vi của Menosorpo’s Eye."
+ ],
+ "stats": {
+  "tokens": 774,
+  "seconds": 23.2
+ }
+}

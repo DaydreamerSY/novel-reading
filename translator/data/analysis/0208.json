@@ -1,0 +1,86 @@
+{
+ "number": 208,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chiếc xe bị lật khi Frondier đang lái. Anh ta và Azier thoát ra bằng cách sử dụng Rune và Void Weaving. Sau đó, Frondier phải vật lộn để khống chế tài xế đột ngột tấn công anh ta, phát hiện ra rằng tài xế này thực chất là Serf Daniel, người mà anh đã từng gặp trong một cabin.",
+ "boi_canh": "Bên trong xe đang di chuyển, một tình huống nguy hiểm bất ngờ xảy ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Serf",
+  "Serf Daniel"
+ ],
+ "su_kien": [
+  "Chiếc xe bị lật do bánh sau nâng lên.",
+  "Azier và Philly thoát ra khỏi xe đang bay trên không trung.",
+  "Frondier sử dụng Rune để điều khiển chiếc xe rơi xuống cây.",
+  "Frondier vật lộn với tài xế tấn công anh ta.",
+  "Phát hiện tài xế là Serf Daniel thông qua một tấm danh thiếp."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, trao đổi thông tin và hỗ trợ lẫn nhau trong tình huống nguy hiểm.",
+   "cach_goi": "gọi tên Azier, không thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, trao đổi thông tin và hỗ trợ lẫn nhau trong tình huống nguy hiểm.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Người dưới quyền, Frondier không trực tiếp giao tiếp với Philly.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người dưới quyền, Philly không trực tiếp giao tiếp với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Serf Daniel",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Serf Daniel tấn công Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serf Daniel",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Serf Daniel tấn công Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Serf Daniel",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Azier khống chế Serf Daniel.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serf Daniel",
+   "b": "Azier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Azier khống chế Serf Daniel.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Tài xế thực chất là Serf Daniel, người mà Frondier đã từng gặp trước đó."
+ ],
+ "stats": {
+  "tokens": 912,
+  "seconds": 27.3
+ }
+}

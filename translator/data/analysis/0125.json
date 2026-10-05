@@ -1,0 +1,75 @@
+{
+ "number": 125,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hoàn thành nhiệm vụ chính 'Cuộc đột kích', Frondier nhận được phần thưởng cao cấp là kỹ năng 'Phân tích'. Trong lúc phân tích kỹ năng 'Dệt vải', anh phát hiện ra tin đồn về việc mình đã sử dụng pháo hoa để tiêu diệt quái vật. Cuối cùng, Azier de Roach, anh trai của Frondier, trở thành giáo viên tạm thời cho lớp Kỹ năng Chiến đấu Cơ bản.",
+ "boi_canh": "Trong phòng của Frondier sau khi hoàn thành nhiệm vụ chính.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Aten Terst",
+  "Azier",
+  "Elysia",
+  "Alex",
+  "Khryselakatos",
+  "Azier de Roach"
+ ],
+ "su_kien": [
+  "Hoàn thành nhiệm vụ chính 'Cuộc đột kích'.",
+  "Frondier nhận được kỹ năng 'Phân tích' làm phần thưởng.",
+  "Frondier bắt đầu phân tích kỹ năng 'Dệt vải'.",
+  "Tin đồn lan truyền rằng Frondier đã sử dụng pháo hoa để tiêu diệt quái vật.",
+  "Azier de Roach trở thành giáo viên tạm thời cho lớp Kỹ năng Chiến đấu Cơ bản."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "thay_tro",
+   "mo_ta": "Người kể chuyện và nhân vật được điều khiển trong game.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng học, Aten nghi ngờ Frondier liên quan đến cuộc đột kích.",
+   "cach_goi": "gọi tên Aten, không rõ"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng học, Aten nghi ngờ Frondier liên quan đến cuộc đột kích.",
+   "cach_goi": "gọi tên Frondier, thận trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, mối quan hệ chưa được làm rõ.",
+   "cach_goi": "gọi tên Azier, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier de Roach",
+   "loai": "cap_tren",
+   "mo_ta": "Anh trai của Frondier, trở thành giáo viên của anh.",
+   "cach_goi": "gọi tên Azier, không rõ"
+  },
+  {
+   "a": "Azier de Roach",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Anh trai của Frondier, trở thành giáo viên của anh.",
+   "cach_goi": "gọi tên Frondier, trang trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Alex: Bị đuổi khỏi Constel Academy."
+ ],
+ "stats": {
+  "tokens": 822,
+  "seconds": 25.6
+ }
+}

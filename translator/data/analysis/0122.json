@@ -1,0 +1,82 @@
+{
+ "number": 122,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhận được thông tin từ Malia về tình hình lũ quái vật đang chạy trốn và nguy cơ chúng tấn công ngôi làng. Anh ta cảm thấy bất lực vì khoảng cách quá xa để có thể can thiệp, nhưng quyết tâm tìm ra giải pháp. Nhờ sự giúp đỡ của Philly và Malia chia sẻ giác quan, Frondier đã nhìn thấy được lũ quái vật và sử dụng vũ khí thần thánh để bắn chúng từ một khoảng cách rất xa.",
+ "boi_canh": "Một nơi nào đó, trong tình huống khẩn cấp khi Frondier phải tìm cách ngăn chặn lũ quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly Terst",
+  "Elysia",
+  "Malia",
+  "Khryselakatos",
+  "Mom",
+  "Artemis"
+ ],
+ "su_kien": [
+  "Malia thông báo về tình hình lũ quái vật và nguy cơ tấn công ngôi làng.",
+  "Frondier cảm thấy bất lực vì khoảng cách quá xa để có thể can thiệp.",
+  "Philly xuất hiện và nhận xét về thói quen hành động đơn độc của Frondier.",
+  "Malia chia sẻ giác quan cho Frondier để anh ta nhìn thấy lũ quái vật.",
+  "Frondier sử dụng vũ khí thần thánh để bắn lũ quái vật từ xa."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai, Frondier nhận thông tin và hướng dẫn từ mẹ.",
+   "cach_goi": "gọi 'Mom', thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ, Malia thông báo tình hình và hỗ trợ con trai.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Philly, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhận xét về thói quen của Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Frondier nhìn thấy Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Khryselakatos",
+   "loai": "ke_thu",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier triệu hồi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Artemis",
+   "loai": "thay_tro",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier sử dụng vũ khí của Artemis.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Philly Terst: Hoàng hậu của đế quốc"
+ ],
+ "stats": {
+  "tokens": 902,
+  "seconds": 27.9
+ }
+}

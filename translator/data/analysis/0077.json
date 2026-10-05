@@ -1,0 +1,74 @@
+{
+ "number": 77,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi học xong, Frondier tìm đến giáo viên Binkis để xin dữ liệu về Golem. Anh nhận được WizardGram từ Binkis và phát hiện ra nó thuộc công ty Hitchcock danh tiếng. Sau đó, Aten bất ngờ bày tỏ tình cảm với Frondier khiến anh bối rối và vội vàng rời đi. Cuối cùng, Frondier quyết định giúp Aten ôn tập vì lo lắng về kết quả học tập của cô.",
+ "boi_canh": "Sau giờ học ở trường.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Aten Terst",
+  "Azier",
+  "Edwin",
+  "Binkis"
+ ],
+ "su_kien": [
+  "Frondier tìm giáo viên Binkis để xin dữ liệu về Golem.",
+  "Binkis cho Frondier WizardGram và giải thích về công ty Hitchcock.",
+  "Aten bất ngờ bày tỏ tình cảm với Frondier.",
+  "Frondier kéo Aten rời đi vì bối rối.",
+  "Frondier quyết định giúp Aten ôn tập."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "thay_tro",
+   "mo_ta": "học trò và giáo viên, Frondier xin dữ liệu từ Binkis.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "giáo viên và học trò, Binkis hướng dẫn và trêu chọc Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "mối quan hệ kỳ lạ, Aten luôn đi theo Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "mối quan hệ kỳ lạ, Aten bày tỏ tình cảm với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Binkis",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "quan sát và trêu chọc Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "cố gắng tránh né Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "WizardGram: thiết bị mới lạ, Frondier chưa từng thấy trong game.",
+  "Hitchcock: công ty sản xuất đồ phép thuật chất lượng cao."
+ ],
+ "stats": {
+  "tokens": 790,
+  "seconds": 23.6
+ }
+}

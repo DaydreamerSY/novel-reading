@@ -1,0 +1,75 @@
+{
+ "number": 388,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Pielott nổi nóng và tấn công Frondier một cách bốc đồng trong một bài kiểm tra. Frondier cảnh báo Pielott về hậu quả của việc bị loại và nhấn mạnh tầm quan trọng của tinh thần đồng đội. Sau đó, Dier tiết lộ sự quan sát tinh tế của mình về các đòn tấn công vô hình đi kèm với chất lỏng đen bí ẩn mà Frondier sử dụng, giúp nhóm của Pielott có thể lên kế hoạch đối phó.",
+ "boi_canh": "Trong một phòng thi bài kiểm tra tại trường Constel.",
+ "nhan_vat": [
+  "Frondier",
+  "Pielott",
+  "Dier"
+ ],
+ "su_kien": [
+  "Pielott tấn công Frondier một cách bốc đồng.",
+  "Frondier cảnh báo Pielott về việc bị loại và hậu quả cho cả đội.",
+  "Dier chỉ ra sự tồn tại của các đòn tấn công vô hình đi kèm với chất lỏng đen.",
+  "Pielott chấp nhận kế hoạch của Dier.",
+  "Một học viên nữ nhắc nhở rằng đây là giai đoạn 2, khiến mọi người lo lắng về độ khó của các giai đoạn tiếp theo."
+ ],
+ "quan_he": [
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Tấn công và bị cảnh báo bởi đối thủ.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Cảnh báo và ngăn chặn đối thủ.",
+   "cach_goi": "gọi tên Pielott, lạnh lùng"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, có chút khó chịu với Dier.",
+   "cach_goi": "gọi tên Dier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, trêu chọc và hỗ trợ.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Dier quan sát Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Các thành viên khác trong đội",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, im lặng và không thoải mái.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Các thành viên khác trong đội",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, chia sẻ thông tin và lên kế hoạch.",
+   "cach_goi": "gọi tên các thành viên, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 841,
+  "seconds": 25.0
+ }
+}

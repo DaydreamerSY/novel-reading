@@ -1,0 +1,91 @@
+{
+ "number": 293,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra vào ngày cuối cùng của chuyến đi học. Aten phản đối việc Frondier và Jane lên tàu trở về Constel với lý do nghi ngờ hành động của họ. Sau khi tạm biệt Aten, Jane nhận xét Frondier được nhiều người yêu mến. Cuối cùng, Renzo xuất hiện trên đường ray để thách đấu với Frondier, khiến Jane cố gắng ngăn cản nhưng không thành công.",
+ "boi_canh": "Nền tảng tàu hỏa, ngày cuối cùng của chuyến đi học.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Renzo",
+  "Osprey",
+  "Jane",
+  "Kraken",
+  "Heldre",
+  "Cain",
+  "Bartello",
+  "Bartello Terst"
+ ],
+ "su_kien": [
+  "Aten phản đối việc Frondier và Jane lên tàu trở về.",
+  "Frondier giải thích lý do mua vé một chiều để tránh nghi ngờ.",
+  "Jane nhận xét Frondier được nhiều người yêu mến.",
+  "Renzo xuất hiện trên đường ray, thách đấu với Frondier.",
+  "Frondier nhảy ra khỏi tàu để đối đầu Renzo."
+ ],
+ "quan_he": [
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Nghi ngờ hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, nghi ngờ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Giải thích lý do đi tàu một chiều.",
+   "cach_goi": "gọi tên Aten, lịch sự"
+  },
+  {
+   "a": "Jane",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Đứng cạnh Aten trong lúc Aten nghi ngờ Frondier.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Jane",
+   "loai": "ban_be",
+   "mo_ta": "Đứng cạnh Aten trong lúc Aten nghi ngờ Frondier.",
+   "cach_goi": "gọi tên Jane, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "ban_be",
+   "mo_ta": "Đồng hành cùng Jane trên tàu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Nhận xét về Frondier và cố gắng ngăn cản anh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Thách đấu Frondier trên đường ray.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu Renzo trên đường ray.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Bartello Terst: Quốc vương (hoàng gia)"
+ ],
+ "stats": {
+  "tokens": 908,
+  "seconds": 28.0
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "number": 149,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, sự hiện diện của Azier với cây thương đã gây ra những rung động đáng kể. Aster và các thành viên khác nhận thấy tình hình đang bất lợi cho họ. Bất ngờ, Jane sử dụng phép thuật một cách ấn tượng, sau đó Elodie đáp trả nhưng bị chặn lại dễ dàng. Cuối cùng, sự xuất hiện của Frondier, mang theo một người trên lưng, đã làm thay đổi cục diện trận chiến và thu hút sự chú ý của tất cả mọi người.",
+ "boi_canh": "Một khu vực bụi bặm, trong tình huống đối đầu căng thẳng giữa các học viên và giáo viên.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Azier",
+  "Jane",
+  "Theo"
+ ],
+ "su_kien": [
+  "Azier cầm cây thương gây rung động không khí.",
+  "Jane sử dụng phép thuật bằng một ngón tay trỏ.",
+  "Elodie tấn công Jane bằng băng nhưng bị chặn lại.",
+  "Sự xuất hiện bất ngờ của Frondier, mang theo một người trên lưng.",
+  "Tất cả mọi người cùng hướng về phía Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Cạnh tranh về kỹ năng và chiến thuật.",
+   "cach_goi": "gọi tên Azier, không rõ cảm xúc"
+  },
+  {
+   "a": "Azier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Cạnh tranh về kỹ năng và chiến thuật.",
+   "cach_goi": "gọi tên Aster, không rõ cảm xúc"
+  },
+  {
+   "a": "Theo",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội hỗ trợ lẫn nhau.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Theo",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội hỗ trợ lẫn nhau.",
+   "cach_goi": "gọi tên Theo, thân mật"
+  },
+  {
+   "a": "Jane",
+   "b": "Elodie",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến phép thuật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Jane",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến phép thuật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Theo",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong một mục tiêu chung.",
+   "cach_goi": "gọi tên Theo, không rõ cảm xúc"
+  },
+  {
+   "a": "Theo",
+   "b": "Aster",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong một mục tiêu chung.",
+   "cach_goi": "gọi tên Aster, không rõ cảm xúc"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Xem Frondier là đối thủ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Xem Frondier là đối thủ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Xem Frondier là đối thủ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Theo",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Xem Frondier là đối thủ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1125,
+  "seconds": 35.0
+ }
+}

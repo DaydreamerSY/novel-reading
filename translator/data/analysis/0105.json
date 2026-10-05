@@ -1,0 +1,74 @@
+{
+ "number": 105,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier tiết lộ về kẻ phản bội trong Constel, Malia và Jane vô cùng sốc. Frondier đề nghị vạch trần kẻ phản bội và yêu cầu họ giữ bí mật. Sau khi Frondier rời đi, Malia nghi ngờ rằng việc Frondier cập nhật hồ sơ là một phần của kế hoạch lớn hơn để truyền đạt thông tin cho họ.",
+ "boi_canh": "Trong phòng kín tại Constel, sau sự kiện Renzo đột nhập.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Renzo",
+  "Jane",
+  "Malia",
+  "Eden",
+  "Malia de Roach"
+ ],
+ "su_kien": [
+  "Frondier tiết lộ về sự tồn tại của kẻ phản bội trong Constel.",
+  "Jane chuẩn bị sử dụng mana khi Frondier nói.",
+  "Malia hỏi Frondier trực tiếp liệu điều đó có đúng không.",
+  "Frondier đề nghị vạch trần kẻ phản bội và yêu cầu Malia và Jane giữ bí mật.",
+  "Malia nghi ngờ việc Frondier cập nhật hồ sơ là một phần của kế hoạch."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "dong_minh",
+   "mo_ta": "đồng minh, Frondier giao nhiệm vụ cho Jane.",
+   "cach_goi": "gọi tên Jane, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "đồng minh, Jane đặt câu hỏi cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "cap_tren",
+   "mo_ta": "học trò và giáo viên, Frondier báo cáo cho Malia.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "giáo viên và học trò, Malia nghi ngờ về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Jane",
+   "loai": "ban_be",
+   "mo_ta": "đồng nghiệp, Malia và Jane thảo luận về Frondier.",
+   "cach_goi": "gọi tên Jane, thân mật"
+  },
+  {
+   "a": "Jane",
+   "b": "Malia",
+   "loai": "ban_be",
+   "mo_ta": "đồng nghiệp, Jane đặt câu hỏi cho Malia.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Malia de Roach (được Frondier gọi là mẹ của anh ấy)"
+ ],
+ "stats": {
+  "tokens": 783,
+  "seconds": 24.1
+ }
+}

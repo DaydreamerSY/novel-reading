@@ -1,0 +1,85 @@
+{
+ "number": 611,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi xác nhận Olivier đã chết, Frondier suy ngẫm về sức mạnh 'của quỷ' mà anh vừa sử dụng và những hệ quả có thể xảy ra. Trong khi đó, Hoàng hậu Philly tận hưởng sự thư thái hiếm hoi sau khi Vua Bartello hồi phục. Cô đang tìm cách giải quyết vấn đề kế vị ngai vàng, nhưng một người hầu bí mật đã báo cáo cho cô về hành động đáng ngờ của Frondier.",
+ "boi_canh": "Trong cung điện hoàng gia, vào thời điểm hậu chiến và kế vị ngai vàng là những vấn đề cần giải quyết.",
+ "nhan_vat": [
+  "Frondier",
+  "Olivier",
+  "Philly",
+  "Bartello",
+  "Sale",
+  "Aten",
+  "Laurie",
+  "Shadow",
+  "Lilith",
+  "Ameline"
+ ],
+ "su_kien": [
+  "Frondier vô tình giết Olivier.",
+  "Frondier suy ngẫm về sức mạnh 'của quỷ'.",
+  "Vua Bartello hồi phục và giúp Hoàng hậu Philly giảm bớt gánh nặng.",
+  "Hoàng hậu Philly đang tìm cách giải quyết vấn đề kế vị ngai vàng.",
+  "Một người hầu bí mật báo cáo cho Philly về hành động đáng ngờ của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Olivier",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier muốn kiểm soát Olivier, nhưng vô tình giết anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier có kiến thức về sức mạnh của Laurie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Bartello",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng, Bartello hồi phục sức khỏe.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Sale",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ con, Sale có thể sẽ trì hoãn việc lên ngôi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ con, Philly đang cân nhắc việc tổ chức họp mặt gia đình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người hầu",
+   "b": "Philly",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu báo cáo cho Philly về hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Shadow",
+   "loai": "cap_tren",
+   "mo_ta": "Philly đánh giá cao kỹ năng của Shadow Unit.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Olivier: ban đầu được cho là có thể kiểm soát, sau đó bị giết.",
+  "Shadow Unit: đơn vị đặc biệt, đang trong tình trạng hỗn loạn do mất lãnh đạo."
+ ],
+ "stats": {
+  "tokens": 886,
+  "seconds": 27.5
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "number": 489,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp lại Elodie trong một giấc mơ mà cô ấy tạo ra để vượt qua chấn thương. Elodie nghi ngờ Frondier là ảo ảnh của mình, nhưng cuối cùng chấp nhận sự giúp đỡ của anh ta để thức tỉnh. Cô giải thích lý do sử dụng phép 'Eternal Slumber' để tránh bị xóa khỏi thế giới và cách sự hiện diện của Frondier giúp cô ổn định lại.",
+ "boi_canh": "Trong một căn phòng bí ẩn, nơi Elodie đang ngủ và tạo ra giấc mơ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Osprey"
+ ],
+ "su_kien": [
+  "Frondier gặp lại Elodie trong một giấc mơ.",
+  "Elodie nghi ngờ Frondier là ảo ảnh của mình.",
+  "Elodie giải thích lý do sử dụng phép 'Eternal Slumber'.",
+  "Một cánh cửa xuất hiện, dẫn đến sự thức tỉnh.",
+  "Frondier và Elodie chuẩn bị rời khỏi giấc mơ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier cố gắng giúp đỡ và an ủi Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie đang đấu tranh với sự thật và nghi ngờ về sự tồn tại của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật nhưng có chút nghi ngờ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "khac",
+   "mo_ta": "Đề cập đến Osprey trong lời giải thích của Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Osprey",
+   "loai": "khac",
+   "mo_ta": "Đề cập đến Osprey trong lời giải thích của Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie sử dụng phép 'Eternal Slumber' để tránh bị xóa khỏi thế giới, biến cô thành một học sinh năm thứ hai tại Etius trước khi trở về hình dạng hiện tại."
+ ],
+ "stats": {
+  "tokens": 635,
+  "seconds": 19.0
+ }
+}

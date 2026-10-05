@@ -1,0 +1,58 @@
+{
+ "number": 400,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier tiếp tục đẩy Pielott đến giới hạn thể chất thông qua một buổi tập luyện khắc nghiệt. Sau khi Pielott gần như kiệt sức, Frondier chỉ ra những thói quen xấu trong cách anh ta đối phó với khó khăn và thiếu sót trong việc sử dụng năng lượng Aura. Cuối chương, Pielott bày tỏ lo ngại về những tin đồn thất thiệt đang lan truyền xung quanh Frondier, liên quan đến việc sử dụng chất cấm, và Frondier quyết định sẽ chứng minh sự thật tại Constel.",
+ "boi_canh": "Một khu vực tập luyện, thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Pielott",
+  "Gregory",
+  "Jacob"
+ ],
+ "su_kien": [
+  "Frondier thúc ép Pielott tập luyện đến kiệt sức.",
+  "Pielott bị Frondier tấn công bằng Weaving, khiến anh ta lăn đi để giảm thiểu thiệt hại.",
+  "Frondier chỉ trích thói quen dựa vào Aura của Pielott khi đối mặt với khó khăn.",
+  "Pielott bày tỏ lo ngại về những tin đồn thất thiệt liên quan đến Frondier.",
+  "Frondier quyết định sẽ chứng minh sự thật tại Constel."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Huấn luyện viên nghiêm khắc và thẳng thắn, thúc đẩy Pielott vượt qua giới hạn.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò nỗ lực nhưng đôi khi gặp khó khăn trong việc tuân theo hướng dẫn.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Crow",
+   "loai": "khac",
+   "mo_ta": "Frondier giao tiếp với chim, có vẻ như đang thuần hóa chúng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người có cấp bậc cao hơn, sử dụng ngôn ngữ tôn trọng.",
+   "cach_goi": "gọi 'Senior Frondier', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier được biết đến với biệt danh 'Senior Sloth'."
+ ],
+ "stats": {
+  "tokens": 680,
+  "seconds": 20.4
+ }
+}

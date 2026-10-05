@@ -1,0 +1,71 @@
+{
+ "number": 349,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi từ chối vượt qua rào cản, Frondier trăn trở về khả năng đưa ra những quyết định khó khăn như hy sinh một số người để cứu nhiều người. Anh hồi tưởng lại các trận chiến trước đó và nhận ra mình luôn né tránh việc phải đối mặt với những lựa chọn tàn nhẫn. Cuối cùng, anh cười phá lên vì sự ngây thơ của bản thân trong quá khứ. Sau đó, Frondier bí mật thay đổi kế hoạch với Sylvain, tạo ra một ảo ảnh để che giấu vai trò thật sự của mình.",
+ "boi_canh": "Trong phòng làm việc, khi mặt trời lặn.",
+ "nhan_vat": [
+  "Frondier",
+  "Laurie",
+  "Sylvain",
+  "Gregory"
+ ],
+ "su_kien": [
+  "Frondier từ chối vượt qua rào cản.",
+  "Frondier trăn trở về việc đưa ra những quyết định hy sinh.",
+  "Frondier cười phá lên vì sự ngây thơ trong quá khứ của mình.",
+  "Frondier thay đổi kế hoạch với Sylvain bằng cách tạo ra ảo ảnh.",
+  "Quân đội quái vật bắt đầu tiến đến rào cản."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "nguoi_la",
+   "mo_ta": "Gregory quan sát Frondier với vẻ mặt vô cảm.",
+   "cach_goi": "gọi tên Gregory, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Gregory đưa ra nhận xét về Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier và Sylvain đang phối hợp một kế hoạch bí mật.",
+   "cach_goi": "gọi tên Sylvain, thân mật"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Sylvain và Frondier đang phối hợp một kế hoạch bí mật.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Các binh lính",
+   "b": "Sylvain",
+   "loai": "dong_minh",
+   "mo_ta": "Các binh lính quan sát Sylvain và Frondier.",
+   "cach_goi": "gọi tên Sylvain, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier nhớ lại biểu cảm của Laurie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Sử dụng mặt nạ và mũ trùm để che giấu danh tính trong trận chiến."
+ ],
+ "stats": {
+  "tokens": 793,
+  "seconds": 23.7
+ }
+}

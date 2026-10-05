@@ -1,0 +1,98 @@
+{
+ "number": 417,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Eden khẳng định rằng Azier không thể rời khỏi nơi ẩn náu cho đến khi họ biết rõ hơn về sức mạnh của kẻ thù, Frondier được phép đi điều tra Constel. Anh ta lên đường với sự nghi ngờ từ những người xung quanh và tin chắc rằng cơ sở nghiên cứu tiêm mana đang ẩn giấu trong Constel. Khi đến đó, anh ta bị một nhóm người phục kích trong một tòa nhà trống, và đối đầu với họ sau khi đã biết trước về sự phục kích này.",
+ "boi_canh": "Trong một căn cứ bí mật, vào thời điểm Frondier được phép điều tra Constel.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Eden",
+  "Ellen",
+  "Aster"
+ ],
+ "su_kien": [
+  "Eden ngăn cản Azier rời khỏi nơi ẩn náu.",
+  "Frondier được phép đi điều tra Constel.",
+  "Frondier tin rằng cơ sở nghiên cứu tiêm mana đang ẩn giấu trong Constel.",
+  "Frondier bị phục kích bởi một nhóm người trong một tòa nhà ở Constel.",
+  "Frondier đối đầu với những kẻ phục kích, thể hiện sức mạnh của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Eden",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Eden ra lệnh cho Azier, tạo áp lực.",
+   "cach_goi": "gọi tên Azier, lạnh lùng"
+  },
+  {
+   "a": "Azier",
+   "b": "Eden",
+   "loai": "cap_tren",
+   "mo_ta": "Azier tuân theo mệnh lệnh của Eden.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em trai, Frondier trấn an Azier.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Eden",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Eden giao nhiệm vụ cho Frondier và theo dõi anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier nghi ngờ Eden có động cơ khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden",
+   "b": "Ellen",
+   "loai": "khac",
+   "mo_ta": "Eden quan tâm đến Ellen, liên quan đến việc tiêm mana.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier nghi ngờ Ellen bị lợi dụng trong việc nghiên cứu tiêm mana.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Frondier biết Aster là anh trai của Ellen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người phục kích",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Những kẻ phục kích muốn giết Frondier để che giấu bí mật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden (giả trang)",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Eden giả trang khiêu khích và dụ dỗ Frondier vào bẫy.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 894,
+  "seconds": 26.7
+ }
+}

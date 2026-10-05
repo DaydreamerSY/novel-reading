@@ -1,0 +1,105 @@
+{
+ "number": 65,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và nhóm của anh giải cứu một đứa trẻ bị bắt cóc, người này là em trai của Grobel. Trong lúc đó, Serf Daniel xuất hiện, tuyên bố sẽ giết tất cả để che đậy tội lỗi của mình. Frondier bất ngờ bị Rokbel đâm trúng và ngất đi, đồng thời trải nghiệm những ký ức sâu kín và phức tạp của Frondier liên quan đến Elodie và một phép thuật cổ xưa.",
+ "boi_canh": "Trong khu rừng, vào lúc nguy hiểm khi đối mặt với Serf Daniel.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Ludwig",
+  "Serf",
+  "Grobel",
+  "Rokbel",
+  "Daud",
+  "Serf Daniel",
+  "Ludwig Urfa"
+ ],
+ "su_kien": [
+  "Frondier giải cứu một đứa trẻ bị bắt cóc.",
+  "Đứa trẻ nhận ra Frondier và những người xung quanh.",
+  "Serf Daniel xuất hiện, tuyên bố sẽ giết mọi người.",
+  "Frondier bất ngờ bị Rokbel đâm trúng và ngất đi.",
+  "Frondier trải nghiệm ký ức của chính mình liên quan đến Elodie và một phép thuật cổ xưa."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, tin tưởng lẫn nhau.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, tin tưởng lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, mối quan hệ chưa rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, mối quan hệ chưa rõ ràng.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, hỗ trợ lẫn nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, hỗ trợ lẫn nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serf Daniel",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Kẻ thù, muốn hãm hại.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Serf Daniel",
+   "loai": "doi_thu",
+   "mo_ta": "Kẻ thù, đối đầu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Rokbel",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Mối quan hệ bí ẩn, Rokbel đâm Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Rokbel",
+   "loai": "khac",
+   "mo_ta": "Mối quan hệ bí ẩn, Rokbel đâm Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của nhân vật chính)"
+ ],
+ "stats": {
+  "tokens": 921,
+  "seconds": 27.6
+ }
+}

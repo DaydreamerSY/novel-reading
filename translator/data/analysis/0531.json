@@ -1,0 +1,65 @@
+{
+ "number": 531,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đối mặt với một bầy Minotaur hung hăng sau khi chúng chuyển sự chú ý từ rào cản. Anh ta sử dụng kỹ thuật 'One Flash' cải tiến dựa trên kỹ thuật 'One Strike' của Ellen, kết hợp cả tấn công và đánh lừa để hạ gục kẻ thù. Trong khi đó, Notker quan sát trận chiến từ xa, nhận ra sự khác biệt về sức mạnh giữa anh ta và Frondier, và cuối cùng quyết định tận dụng cơ hội để tấn công rào cản.",
+ "boi_canh": "Một khu vực hoang dã, trong một trận chiến giữa Frondier và bầy Minotaur.",
+ "nhan_vat": [
+  "Aster",
+  "Ellen",
+  "Notker",
+  "Berengar",
+  "Minotaur"
+ ],
+ "su_kien": [
+  "Minotaur tấn công Aster sau khi chúng bỏ qua rào cản.",
+  "Aster sử dụng kỹ thuật 'One Flash' cải tiến từ 'One Strike' của Ellen để hạ gục Minotaur.",
+  "Aster đánh lừa Minotaur bằng cách giả vờ có thêm kỹ thuật.",
+  "Notker quan sát trận chiến và nhận ra sự thua kém của mình so với Aster.",
+  "Berengar thúc giục Notker tấn công rào cản để tận dụng cơ hội."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Minotaur",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trong trận chiến, Aster tấn công Minotaur.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Ellen",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier sử dụng kỹ thuật dựa trên 'One Strike' của Ellen.",
+   "cach_goi": "gọi tên Ellen, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Notker",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Quan sát Aster chiến đấu, nhận ra sự thua kém.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Berengar",
+   "b": "Notker",
+   "loai": "cap_tren",
+   "mo_ta": "Berengar thúc giục Notker tấn công rào cản.",
+   "cach_goi": "gọi tên Notker, trịch thượng"
+  },
+  {
+   "a": "Notker",
+   "b": "Berengar",
+   "loai": "cap_tren",
+   "mo_ta": "Lắng nghe và tuân theo mệnh lệnh của Berengar.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Kỹ thuật 'One Flash' là sự cải tiến của Aster dựa trên kỹ thuật 'One Strike' của Ellen."
+ ],
+ "stats": {
+  "tokens": 738,
+  "seconds": 22.9
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "number": 308,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Esther tiếp tục thảo luận về vụ án mạng tại dinh thự của Heldre. Esther nghi ngờ Frondier là kẻ chủ mưu, nhưng Frondier khẳng định mình vô tội và muốn cô giữ bí mật. Cuối cùng, Frondier lợi dụng sự nghi ngờ của Esther để tạo ra một kịch bản giúp che giấu sự thật về việc Morion đã bắt giữ Indus.",
+ "boi_canh": "Trong dinh thự của Heldre, sau khi Frondier bị trói vào ghế.",
+ "nhan_vat": [
+  "Frondier",
+  "Esther",
+  "Renzo",
+  "Heldre"
+ ],
+ "su_kien": [
+  "Esther nghi ngờ Frondier là kẻ giết người."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người mới gặp nhau, Esther nghi ngờ Frondier.",
+   "cach_goi": "gọi tên Esther, không rõ cảm xúc"
+  },
+  {
+   "a": "Esther",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Esther đang thẩm vấn Frondier về vụ án mạng.",
+   "cach_goi": "gọi tên Frondier, thận trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier bị Renzo bắt giữ, nhưng không có đối thoại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "ke_thu",
+   "mo_ta": "Heldre đã qua đời, Frondier không thể giao tiếp với ông ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Esther đang cố gắng tìm hiểu sự thật từ Frondier.",
+   "cach_goi": "gọi tên Frondier, nghi ngờ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đang cố gắng thuyết phục Esther giữ bí mật.",
+   "cach_goi": "gọi tên Esther, không rõ cảm xúc"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 554,
+  "seconds": 17.0
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "number": 47,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đánh bại một golem mạnh mẽ bằng Obsidian, Frondier nhận ra mình đã sử dụng quá nhiều mana và bị kiệt sức. Anh ta phát hiện ra rằng chiếc vòng cổ 'Black Lotus' do Quinie tặng có khả năng phục hồi ma thuật, cho phép anh ta lưu trữ Obsidian sau mỗi lần sử dụng. Trong lúc suy yếu, Frondier thoáng thấy một cảnh về Hephaestus trao cung tên cho một người phụ nữ bí ẩn và bị trêu chọc bởi những lời nói của vị thần rèn sắt. Sau đó, anh tỉnh dậy trong phòng y tế dưới sự chăm sóc của mẹ mình, Malia, và được thông báo về hành động của Edwin.",
+ "boi_canh": "Trong một trận chiến sau khi đánh bại golem, Frondier nằm bất tỉnh trong phòng y tế tại Constel.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Ellen",
+  "Edwin",
+  "Malia",
+  "Artemis",
+  "Hephaestus"
+ ],
+ "su_kien": [
+  "Frondier đánh bại golem bằng Obsidian.",
+  "Chiếc vòng cổ 'Black Lotus' phục hồi ma thuật.",
+  "Frondier thoáng thấy cảnh Hephaestus trao cung tên cho một người phụ nữ.",
+  "Hephaestus trêu chọc Frondier về việc xâm phạm vào quá khứ của thần.",
+  "Frondier tỉnh dậy trong phòng y tế và được Malia chăm sóc."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier biết ơn món quà của Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Quinie quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier và Ellen có vẻ quan tâm đến nhau.",
+   "cach_goi": "gọi tên Ellen, lễ phép"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Ellen quan tâm đến tình trạng của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Edwin đã bị bắt và sẽ bị trừng phạt.",
+   "cach_goi": "gọi tên Edwin, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng.",
+   "cach_goi": "gọi tên Edwin, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ con, Frondier chưa từng nói chuyện với mẹ mình.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ con, Malia quan tâm đến sức khỏe của con trai.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hephaestus",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Hephaestus trêu chọc và phán xét Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hephaestus",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Hephaestus trêu chọc và phán xét Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Black Lotus (tên chiếc vòng cổ do Quinie tặng)"
+ ],
+ "stats": {
+  "tokens": 1159,
+  "seconds": 34.9
+ }
+}

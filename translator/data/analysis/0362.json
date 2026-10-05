@@ -1,0 +1,71 @@
+{
+ "number": 362,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Đội đặc vụ bí mật nhận nhiệm vụ đánh giá và phá hủy một sông băng nguy hiểm ở vùng tây bắc lục địa theo lệnh của Đế quốc. Họ biết rõ đây là một nhiệm vụ tự sát, nhưng chấp nhận vì lợi ích của Đế quốc. Trong quá trình tiến đến sông băng, họ gặp phải đàn quái vật thờ phụng một mảnh vỡ. Laurie sử dụng khả năng thôi miên để vô hiệu hóa một số quái vật, nhưng lại bất ngờ thất bại khi thử thôi miên Frondier, khiến cô kinh hoàng. Cuối cùng, đội đặc vụ bị phục kích bởi những con quái vật nhanh nhẹn hơn và phải đối mặt với nguy cơ tử vong.",
+ "boi_canh": "Vùng ngoại ô của một đàn quái vật, tây bắc lục địa, trong một nhiệm vụ bí mật.",
+ "nhan_vat": [
+  "Frondier",
+  "Laurie",
+  "Mop",
+  "Leader"
+ ],
+ "su_kien": [
+  "Đội đặc vụ nhận lệnh đánh giá và phá hủy sông băng.",
+  "Laurie thất bại khi thôi miên Frondier, gây ra sự lo lắng cho cô.",
+  "Đội đặc vụ chia thành ba nhóm để tiến đến sông băng.",
+  "Hai cánh của đội bị phục kích bởi quái vật.",
+  "Laurie sử dụng khả năng thôi miên để vô hiệu hóa một số quái vật tấn công."
+ ],
+ "quan_he": [
+  {
+   "a": "Laurie",
+   "b": "Leader",
+   "loai": "cap_tren",
+   "mo_ta": "Đội đặc vụ chịu sự chỉ huy của Leader, Laurie tuân theo mệnh lệnh.",
+   "cach_goi": "gọi 'Leader', lễ phép"
+  },
+  {
+   "a": "Leader",
+   "b": "Laurie",
+   "loai": "cap_tren",
+   "mo_ta": "Leader quan tâm đến Laurie và khả năng của cô.",
+   "cach_goi": "gọi tên Laurie, thân mật"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Laurie cố gắng thôi miên Frondier nhưng thất bại, gây ra sự bối rối và lo lắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "nguoi_la",
+   "mo_ta": "Laurie cố gắng thôi miên Frondier nhưng thất bại, gây ra sự bối rối và lo lắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Leader",
+   "b": "Mop",
+   "loai": "dong_minh",
+   "mo_ta": "Leader và Mop là thành viên cùng đội đặc vụ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Laurie",
+   "b": "Mop",
+   "loai": "dong_minh",
+   "mo_ta": "Laurie và Mop là thành viên cùng đội đặc vụ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính khác."
+ ],
+ "stats": {
+  "tokens": 812,
+  "seconds": 24.3
+ }
+}

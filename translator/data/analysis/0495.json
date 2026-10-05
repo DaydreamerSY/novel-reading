@@ -1,0 +1,69 @@
+{
+ "number": 495,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier quan sát Pielott thực hiện một kỹ thuật sử dụng việc rút kiếm độc đáo, ban đầu được thúc đẩy bởi mong muốn vẻ ngoài 'ngầu'. Sau khi phân tích kỹ lưỡng, Frondier nhận ra tiềm năng của kỹ thuật này và đề nghị cùng Pielott phát triển nó hơn nữa, bất chấp những lời phản đối trước đó. Cuối cùng, Pielott tiết lộ rằng người khác đã ngăn cản anh ta theo đuổi kỹ thuật này.",
+ "boi_canh": "Một khu vực luyện tập không xác định, trong một buổi kiểm tra năng lực.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Pielott",
+  "Dier"
+ ],
+ "su_kien": [
+  "Pielott biểu diễn kỹ thuật rút kiếm độc đáo.",
+  "Frondier phân tích và nhận ra tiềm năng của kỹ thuật đó.",
+  "Frondier đề nghị cùng Pielott phát triển kỹ thuật này.",
+  "Pielott tiết lộ rằng người khác đã ngăn cản anh ta theo đuổi kỹ thuật này.",
+  "Frondier cười lớn sau khi nghe lời giải thích của Pielott."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là người cố vấn và người hướng dẫn của Pielott, đưa ra lời khuyên và động viên.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Pielott tôn trọng và lắng nghe lời khuyên của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và đồng đội.",
+   "cach_goi": "gọi tên Dier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và đồng đội.",
+   "cach_goi": "gọi tên Dier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè thân thiết.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè thân thiết.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 767,
+  "seconds": 23.0
+ }
+}

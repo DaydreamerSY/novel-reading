@@ -1,0 +1,63 @@
+{
+ "number": 189,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi sử dụng Excalibur, Frondier gây ra một vụ nổ lớn phá hủy khu vực xung quanh. Anh ta rơi tự do từ trên cao và được Ludwig cứu bằng phép thuật. Sau đó, Frondier sửa chữa rào cản bị hư hại bằng phép 'Phục Hồi' nhưng lại kiệt sức hoàn toàn và ngất xỉu.",
+ "boi_canh": "Một trận bão tố dữ dội đang diễn ra bên ngoài rào chắn.",
+ "nhan_vat": [
+  "Frondier",
+  "Ludwig",
+  "Penelope"
+ ],
+ "su_kien": [
+  "Excalibur gây ra một vụ nổ lớn tạo thành hố sâu trên mặt đất.",
+  "Rào chắn bị hư hại do sức mạnh của Excalibur.",
+  "Frondier rơi tự do và được Ludwig cứu bằng phép thuật.",
+  "Frondier sử dụng phép 'Phục Hồi' để sửa chữa rào chắn.",
+  "Frondier kiệt sức và ngất xỉu sau khi sử dụng phép thuật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Ludwig cứu Frondier khỏi rơi.",
+   "cach_goi": "gọi tên Ludwig, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Ludwig cứu Frondier khỏi rơi.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Ludwig là người lớn tuổi hơn và có vẻ như có địa vị cao hơn.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Frondier cảm ơn Ludwig vì đã cứu anh.",
+   "cach_goi": "gọi tên Ludwig, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Excalibur: thanh kiếm gây ra vụ nổ lớn và hấp thụ mana của Frondier."
+ ],
+ "stats": {
+  "tokens": 680,
+  "seconds": 20.2
+ }
+}

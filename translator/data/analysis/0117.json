@@ -1,0 +1,70 @@
+{
+ "number": 117,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Cuộc xâm lược quy mô lớn vào Constel đã bắt đầu, khác xa so với kế hoạch ban đầu của Elysia. Nhờ phản ứng nhanh chóng của Elodie mà Constel đã chuẩn bị trước khi quái vật đến. Kaferi, một học viên năm nhất, may mắn sống sót sau cuộc tấn công ban đầu và gặp Aster đang chiến đấu dữ dội với lũ quái vật ba mắt. Sau đó, Aster tiết lộ anh ta đang đi nhờn việc của mình.",
+ "boi_canh": "Trong khuôn viên trường Constel, vào thời điểm bắt đầu một cuộc xâm lược của quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Elysia",
+  "Kaferi"
+ ],
+ "su_kien": [
+  "Cuộc xâm lược quy mô lớn vào Constel bắt đầu.",
+  "Kaferi may mắn sống sót sau cuộc tấn công ban đầu của quái vật.",
+  "Aster xuất hiện và tiêu diệt lũ quái vật ba mắt.",
+  "Aster thể hiện sức mạnh vượt trội với kỹ năng chiến đấu tàn bạo.",
+  "Aster tiết lộ anh ta đang đi nhờn việc của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "cap_tren",
+   "mo_ta": "Không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kaferi",
+   "loai": "dong_minh",
+   "mo_ta": "Không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Kaferi",
+   "loai": "ban_be",
+   "mo_ta": "Cứu giúp và trò chuyện với học viên năm nhất.",
+   "cach_goi": "gọi tên Kaferi, thân mật"
+  },
+  {
+   "a": "Kaferi",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Học viên năm nhất cảm kích sự cứu giúp của Aster.",
+   "cach_goi": "gọi tên Aster, ngưỡng mộ"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 730,
+  "seconds": 22.4
+ }
+}

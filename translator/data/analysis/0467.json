@@ -1,0 +1,87 @@
+{
+ "number": 467,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Philly phát hiện ra Dragon Heart bị suy yếu sau khi Mizonas sử dụng nó để triệu hồi quỷ dữ. Bất ngờ, Satan xuất hiện, giải cứu những con quỷ còn sót lại và đề nghị một trao đổi: trả lại một sinh vật mà Frondier giam giữ để đổi lấy sự an toàn cho nhân loại.",
+ "boi_canh": "Trong phòng điều khiển Dragon Heart, sau khi Mizonas triệu hồi quỷ dữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Azier",
+  "Mizonas",
+  "Shadow",
+  "Satan"
+ ],
+ "su_kien": [
+  "Dragon Heart bị suy yếu sau khi Mizonas sử dụng nó.",
+  "Satan xuất hiện và giải cứu những con quỷ còn sót lại.",
+  "Satan đề nghị trao đổi: trả lại sinh vật giam giữ để đổi lấy sự an toàn cho nhân loại.",
+  "Mizonas bị Satan bắt giữ và ném qua cổng không gian.",
+  "Satan tiết lộ rằng việc triệu hồi quỷ dữ là do lỗi của hắn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em, thảo luận về tình hình và kế hoạch hành động.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em, thảo luận về tình hình và kế hoạch hành động.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Satan",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, nghi ngờ và dò xét lẫn nhau.",
+   "cach_goi": "gọi tên Satan, lạnh lùng"
+  },
+  {
+   "a": "Satan",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, nghi ngờ và dò xét lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Philly",
+   "b": "Satan",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Satan, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Philly",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Philly, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Mizonas",
+   "loai": "ke_thu",
+   "mo_ta": "Bắt giữ và ném Mizonas qua cổng không gian.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mizonas",
+   "b": "Satan",
+   "loai": "ke_thu",
+   "mo_ta": "Bị Satan bắt giữ và ném qua cổng không gian.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Satan: Demon of Wrath, có cánh chim đen như quạ, khác biệt so với các demon khác."
+ ],
+ "stats": {
+  "tokens": 918,
+  "seconds": 27.4
+ }
+}

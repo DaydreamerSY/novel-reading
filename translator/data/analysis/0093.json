@@ -1,0 +1,78 @@
+{
+ "number": 93,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào sự kiện Renzo tấn công Aten và những diễn biến xung quanh nó. Aten nhìn thấy một viễn cảnh bí ẩn và sử dụng mana để cứu Frondier, khiến Philly lo lắng về tương lai. Trong khi đó, tại trường Constel, các giáo viên đang thảo luận về vụ việc và nghi ngờ có kẻ phản bội.",
+ "boi_canh": "Trong phòng họp trung tâm của trường Constel, sau cuộc tấn công của Renzo.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Quinie",
+  "Renzo",
+  "Osprey",
+  "Ellen",
+  "Jane",
+  "Malia",
+  "Binkis",
+  "Alex"
+ ],
+ "su_kien": [
+  "Aten sử dụng mana để cứu Frondier, nhìn thấy một viễn cảnh bí ẩn.",
+  "Philly lo lắng về tương lai và khả năng Aten sẽ trách móc mình vì không báo trước.",
+  "Renzo tấn công Aten, dẫn đến cuộc họp khẩn cấp tại trường Constel.",
+  "Các giáo viên thảo luận về vụ việc và nghi ngờ có kẻ phản bội.",
+  "Malia nghi ngờ Frondier có liên quan đến vụ việc."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "thay_tro",
+   "mo_ta": "Aten cứu Frondier, có vẻ như Aten quan tâm đến Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ con, Philly lo lắng cho Aten.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten nhìn Frondier, có vẻ như Aten quan tâm đến Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Alex",
+   "b": "Jane",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp, Alex và Jane có quan điểm khác nhau nhưng đồng tình về vấn đề Renzo.",
+   "cach_goi": "gọi tên Jane, không rõ tone"
+  },
+  {
+   "a": "Malia",
+   "b": "Alex",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp, Malia và Alex cùng thảo luận về vụ việc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Malia nghi ngờ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của nhân vật chính)"
+ ],
+ "stats": {
+  "tokens": 798,
+  "seconds": 24.0
+ }
+}

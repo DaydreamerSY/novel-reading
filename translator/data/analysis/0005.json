@@ -1,0 +1,71 @@
+{
+ "number": 5,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này giới thiệu Elodie de Inies Rishaé, một học viên có năm năng lực thần thánh tại Constel. Trong quá trình đo lường sức mạnh của cô ấy, Alles nhận thấy sự khác thường và lo lắng về những gì sẽ xảy ra tiếp theo. Cuộc trò chuyện giữa họ bị gián đoạn bởi một sự kiện bất ngờ liên quan đến Frondier, người đã phá vỡ lời hứa với Elodie. Cuối cùng, họ thảo luận về khả năng tạo ra một bức tường vô hình bằng aura, gợi ý một bí mật tiềm ẩn của Frondier.",
+ "boi_canh": "Phòng Đo Lường Năng Lực Thần Thánh tại Constel.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Alles"
+ ],
+ "su_kien": [
+  "Đo lường năng lực thần thánh của Elodie cho thấy sự khác thường.",
+  "Alles nghi ngờ Elodie là 'Inies'.",
+  "Một quả bóng chày đột ngột bay vào làm gián đoạn cuộc trò chuyện.",
+  "Elodie và Frondier đã từng quen biết nhau từ nhỏ, một bí mật mà không ai ở Constel biết.",
+  "Cuộc thảo luận về khả năng tạo ra bức tường vô hình bằng aura."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người từng là bạn từ nhỏ nhưng hiện tại Frondier đã phá vỡ lời hứa và tránh mặt Elodie.",
+   "cach_goi": "gọi tên Elodie, không thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người từng là bạn từ nhỏ nhưng hiện tại Frondier đã phá vỡ lời hứa và tránh mặt Elodie.",
+   "cach_goi": "gọi tên Frondier, không thân mật"
+  },
+  {
+   "a": "Alles",
+   "b": "Elodie",
+   "loai": "thay_tro",
+   "mo_ta": "Alles là giáo viên của Elodie, quan sát và đánh giá năng lực của cô.",
+   "cach_goi": "gọi tên Elodie, lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Alles",
+   "loai": "thay_tro",
+   "mo_ta": "Elodie là học sinh của Alles, đặt câu hỏi và thảo luận với ông.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Hai người là anh em trai.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Azier",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Inies Rishaé (biệt danh 'Inies', do nhận được tình yêu của năm vị thần)"
+ ],
+ "stats": {
+  "tokens": 836,
+  "seconds": 25.2
+ }
+}

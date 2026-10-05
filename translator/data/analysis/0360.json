@@ -1,0 +1,56 @@
+{
+ "number": 360,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi vượt qua bức tường ma quỷ, Frondier và Selena tiếp tục hành trình đến mảnh vỡ Helheim. Selena bày tỏ lo ngại về sự can thiệp của các vị thần và những động thái bí ẩn của kẻ thù. Frondier cũng suy đoán về kế hoạch của đối phương và mối nguy hiểm tiềm tàng cho cả hai. Cuối cùng, Selena nhắc lại lời hứa của Frondier về việc giúp cô tìm lại gia đình và dòng dõi, khẳng định sự tin tưởng của mình vào anh.",
+ "boi_canh": "Trên một con đường mòn nhỏ ở vùng biên giới Yeranhes, khi đang tiến gần đến mảnh vỡ Helheim.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Selena de Barnier"
+ ],
+ "su_kien": [
+  "Frondier vượt qua bức tường ma quỷ.",
+  "Selena bày tỏ lo ngại về sự can thiệp của các vị thần và động thái của kẻ thù.",
+  "Frondier suy đoán về kế hoạch của đối phương.",
+  "Selena nhắc lại lời hứa của Frondier về việc giúp cô tìm lại gia đình.",
+  "Frondier cân nhắc thời điểm tiết lộ sự thật về cái chết của cha Selena."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Cả hai đang hợp tác để đạt được mục tiêu chung, mối quan hệ còn nhiều điều cần phải làm rõ.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Cả hai đang hợp tác để đạt được mục tiêu chung, mối quan hệ còn nhiều điều cần phải làm rõ.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Cả hai đang hợp tác để đạt được mục tiêu chung, mối quan hệ còn nhiều điều cần phải làm rõ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Cả hai đang hợp tác để đạt được mục tiêu chung, mối quan hệ còn nhiều điều cần phải làm rõ.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Selena de Barnier (tên đầy đủ của Selena)"
+ ],
+ "stats": {
+  "tokens": 694,
+  "seconds": 20.8
+ }
+}

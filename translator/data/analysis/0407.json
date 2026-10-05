@@ -1,0 +1,62 @@
+{
+ "number": 407,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Ellen đối đầu trong một tình huống căng thẳng. Ellen cố tình khiến Frondier bắn vào mình để bảo vệ những học viên khác, nhưng Frondier từ chối vì lý do riêng. Cuộc đối thoại giữa họ gợi lại ký ức về một sự kiện trước đây, làm dấy lên nghi ngờ và sự bất đồng trong cả hai người. Cuối cùng, Frondier cảnh báo Ellen rằng nếu cô vượt quá giới hạn, anh sẽ không ngần ngại hành động.",
+ "boi_canh": "Một trận chiến căng thẳng giữa Frondier và Ellen tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Ellen",
+  "Edwin",
+  "Robald",
+  "Aster Evans",
+  "Ellen Evans"
+ ],
+ "su_kien": [
+  "Ellen cố tình khiến Frondier bắn vào mình.",
+  "Frondier nhắc lại sự kiện liên quan đến Edwin và Ellen trong quá khứ.",
+  "Frondier bày tỏ sự nghi ngờ về động cơ của Ellen.",
+  "Frondier thể hiện ý định giết Ellen nếu cô vượt qua giới hạn.",
+  "Frondier cảnh báo Ellen bằng cách yêu cầu cô di chuyển."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, có sự nghi ngờ và cảnh báo lẫn nhau.",
+   "cach_goi": "gọi 'Senior', lễ phép"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, có sự khiêu khích và thăm dò lẫn nhau.",
+   "cach_goi": "gọi 'Frondier', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier nhận thấy vai trò của mình đối với Aster tương tự như Robald trước đây.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Aster",
+   "loai": "gia_dinh",
+   "mo_ta": "Chị em ruột thịt, Ellen hiểu Aster hơn Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster.",
+  "Ellen Evans: Tên đầy đủ của Ellen."
+ ],
+ "stats": {
+  "tokens": 659,
+  "seconds": 19.7
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "number": 544,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Selena phát hiện ra sự thật đau lòng về quá khứ của mình thông qua lời khai của Hagley: cô bị trục xuất khỏi gia tộc Vanier và được Hagley mang đến Manggot để nuôi dưỡng. Cô phải đối mặt với sự giằng xé giữa niềm tin vào Frondier và những gì Hagley nói, cuối cùng rơi vào trạng thái hoang mang và nghi ngờ. Cuối chương, Selena đột ngột biến mất sau khi bị tấn công bởi một vật thể bí ẩn từ bóng của Hagley.",
+ "boi_canh": "Trong phòng luyện tập ở Manggot, thời điểm chiến tranh đang diễn ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Hagley"
+ ],
+ "su_kien": [
+  "Hagley tiết lộ Selena bị trục xuất khỏi gia tộc Vanier.",
+  "Selena biết được tên thật của mình là 'Selena de Vanier'.",
+  "Selena nghi ngờ Frondier đã nói dối cô về quá khứ.",
+  "Selena giằng xé giữa niềm tin vào Hagley và Frondier.",
+  "Selena đột ngột biến mất sau khi bị tấn công bởi một vật thể bí ẩn."
+ ],
+ "quan_he": [
+  {
+   "a": "Hagley",
+   "b": "Selena",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy dạy nghề sát thủ của Selena, tiết lộ sự thật về quá khứ của cô.",
+   "cach_goi": "gọi tên Selena, lạnh lùng"
+  },
+  {
+   "a": "Selena",
+   "b": "Hagley",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò của Hagley, đang cố gắng hiểu sự thật về quá khứ của mình.",
+   "cach_goi": "gọi tên Hagley, nghi ngờ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Người đã tiết lộ tên thật của Selena, gây ra sự hoang mang cho cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mà Selena có tình cảm, nhưng đang nghi ngờ sự thật lời nói của anh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Hagley",
+   "b": "Selena",
+   "loai": "chu_to",
+   "mo_ta": "Người kiểm soát tình hình và cố gắng thuyết phục Selena.",
+   "cach_goi": "gọi tên Selena, trịch thượng"
+  },
+  {
+   "a": "Selena",
+   "b": "Hagley",
+   "loai": "chu_to",
+   "mo_ta": "Người đang nghi ngờ Hagley và cố gắng tìm kiếm sự thật.",
+   "cach_goi": "gọi tên Hagley, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Tên thật của Selena là 'Selena de Vanier'."
+ ],
+ "stats": {
+  "tokens": 810,
+  "seconds": 25.3
+ }
+}

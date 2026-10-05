@@ -1,0 +1,110 @@
+{
+ "number": 503,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tin tưởng lời của Frondier, Nữ hoàng Philly quyết định hành động để đối phó với mối đe dọa từ Manggot. Tuy nhiên, việc thuyết phục các lãnh chúa và đặc biệt là các Zodiac là một thách thức lớn. Frondier bắt đầu tiếp cận các Zodiac, bắt đầu với Ludwig, nhưng lại vô tình vướng vào một cuộc gặp gỡ bất ngờ với Lily và Monty, những người cũng đang tò mò về khả năng đặc biệt của anh.",
+ "boi_canh": "Phòng tiếp khách trong cung điện hoàng gia, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Philly",
+  "Aten",
+  "Lily",
+  "Osprey",
+  "Laurie",
+  "Ludwig",
+  "Bartello",
+  "Monty",
+  "Sanders",
+  "Armel",
+  "Frondier de Roach",
+  "Ludwig von Urfa"
+ ],
+ "su_kien": [
+  "Philly quyết định tin lời Frondier và hành động.",
+  "Frondier nhận ra việc thuyết phục các lãnh chúa là một thách thức lớn.",
+  "Frondier đề xuất thuyết phục ba trong số mười hai Zodiacs.",
+  "Frondier đến gặp Ludwig và bất ngờ gặp Lily và Monty.",
+  "Lily và Monty tò mò về khả năng đặc biệt của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Nữ hoàng Philly tin tưởng và giao nhiệm vụ cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier báo cáo tình hình và đề xuất kế hoạch cho Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Aten là người mà Philly tin tưởng, và thông qua Aten, Philly tin Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đến gặp Ludwig để thuyết phục anh ta.",
+   "cach_goi": "gọi tên Ludwig, không rõ"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Ludwig trêu chọc và phê bình cách hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Lily tò mò và vây quanh Frondier với những câu hỏi.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Monty cũng tò mò về khả năng của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Hai người cùng tò mò về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Hai người cùng tò mò về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Hai người cùng tò mò về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của nhân vật chính)",
+  "Ludwig von Urfa (tên đầy đủ Ludwig)"
+ ],
+ "stats": {
+  "tokens": 1150,
+  "seconds": 34.4
+ }
+}

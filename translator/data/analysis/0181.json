@@ -1,0 +1,84 @@
+{
+ "number": 181,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và nhóm của anh ta đến một hồ nước để tìm kiếm thanh Excalibur huyền thoại. Sau khi Nimue giải thích về những nguy hiểm liên quan đến việc rút thanh kiếm, Frondier đã thử nhưng không thành công, bị cạn kiệt mana. Thay vì cố gắng lại, anh ta sử dụng Menosorpo và Penelope's cloth để tạo ra một thanh kiếm giả, khiến Nimue kinh ngạc.",
+ "boi_canh": "Dưới đáy hồ nước, trong một bối cảnh huyền bí.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aster",
+  "Merlin",
+  "Nimue",
+  "Aster Evans",
+  "Artemis",
+  "Penelope",
+  "Lady of the Lake"
+ ],
+ "su_kien": [
+  "Nimue giải thích về những nguy hiểm khi rút thanh Excalibur.",
+  "Frondier cố gắng rút kiếm nhưng thất bại, bị cạn kiệt mana.",
+  "Selena nghi ngờ khả năng rút kiếm dưới nước.",
+  "Frondier sử dụng Menosorpo và Penelope's cloth để tạo ra một thanh kiếm giả.",
+  "Nimue kinh ngạc trước sự xuất hiện của thanh kiếm giả."
+ ],
+ "quan_he": [
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Selena lo lắng cho sự an toàn của Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier thông báo tình hình cho Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Nimue",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy, Nimue quan sát và đánh giá hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Nimue",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò, Frondier lắng nghe lời khuyên của Nimue.",
+   "cach_goi": "gọi tên Nimue, tôn trọng"
+  },
+  {
+   "a": "Merlin",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Merlin quan sát tình hình chung.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Merlin",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Merlin quan sát tình hình chung.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nimue",
+   "b": "Merlin",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, Nimue và Merlin có vẻ như là cấp trên của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster.",
+  "Menosorpo: Một loại phép thuật được Frondier sử dụng để tạo kiếm giả."
+ ],
+ "stats": {
+  "tokens": 894,
+  "seconds": 27.0
+ }
+}

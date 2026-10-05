@@ -1,0 +1,78 @@
+{
+ "number": 237,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp một người đàn ông đeo mặt nạ, kẻ này tuyên bố đã xóa ký ức của Frondier và ám chỉ những sự kiện kinh hoàng liên quan đến Kora trong quá khứ. Frondier phủ nhận nhưng ký ức về vụ việc đó lại rất mơ hồ. Người đàn ông sau đó biến mất, để lại nhiều nghi ngờ và dự định xấu xa đối với gia đình Viet.",
+ "boi_canh": "Phòng của Frondier, hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Kora",
+  "Người đàn ông đeo mặt nạ"
+ ],
+ "su_kien": [
+  "Người đàn ông đeo mặt nạ chất vấn Frondier về ký ức bị xóa.",
+  "Frondier phủ nhận những lời của người đàn ông, khẳng định mình không có vấn đề gì với trí nhớ.",
+  "Người đàn ông ám chỉ Frondier đã từng chứng kiến Kora tàn sát và phát triển chứng sợ xác.",
+  "Kora ngửi thấy mùi lạ gần phòng Frondier.",
+  "Người đàn ông biến mất sau khi nghe tiếng bước chân chạy đến."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "gia_dinh",
+   "mo_ta": "Quan hệ thân thiết, nhưng hiện tại có sự nghi ngờ và xa lánh.",
+   "cach_goi": "gọi tên Quinie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Quan hệ thân thiết, nhưng hiện tại có sự nghi ngờ và xa lánh.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Người đàn ông đeo mặt nạ",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, người có ý đồ xấu và đang thao túng Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người đàn ông đeo mặt nạ",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, người có ý đồ xấu và đang thao túng Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kora",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, nhưng hiện tại có sự nghi ngờ và xa lánh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kora",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, nhưng hiện tại có sự nghi ngờ và xa lánh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Người đàn ông đeo mặt nạ",
+   "b": "Kora",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, có thể là mối đe dọa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Người đàn ông đeo mặt nạ: Có khả năng liên quan đến việc xóa ký ức của Frondier và viết bảng tin phép thuật Constel."
+ ],
+ "stats": {
+  "tokens": 894,
+  "seconds": 27.5
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "number": 107,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Robald cố gắng trốn khỏi trường học và bị Aster ngăn cản. Frondier vô tình can thiệp và làm thay đổi diễn biến sự kiện dự kiến. Sau đó, Frondier gặp gỡ và trao đổi với Robald trong bệnh xá, tạo ra một mối quan hệ mới đầy hứa hẹn. Cuối cùng, Frondier rời đi để thực hiện mục đích bí mật tại Constel.",
+ "boi_canh": "Bệnh xá của trường học, sau khi Robald bị bắt gặp trốn thoát.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly",
+  "Aten",
+  "Malia",
+  "Alex",
+  "Robald",
+  "Frondier de Roach",
+  "Robald Lieff"
+ ],
+ "su_kien": [
+  "Robald cố gắng trốn khỏi trường học.",
+  "Aster ngăn cản Robald trốn thoát.",
+  "Frondier vô tình đánh trúng Robald, khiến kế hoạch thay đổi.",
+  "Frondier và Robald gặp gỡ và bắt tay tại bệnh xá.",
+  "Alex phạt Robald vì hành vi trốn học và đe dọa liên hệ với phụ huynh."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Robald",
+   "loai": "doi_thu",
+   "mo_ta": "Cạnh tranh và có phần đối đầu.",
+   "cach_goi": "gọi tên Robald, không thân thiết"
+  },
+  {
+   "a": "Robald",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè nhưng có sự ganh đua.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết rõ ràng, có sự tương tác bất ngờ.",
+   "cach_goi": "gọi tên Aster, không thân thiết"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết rõ ràng, có sự tương tác bất ngờ.",
+   "cach_goi": "gọi tên Frondier, không thân thiết"
+  },
+  {
+   "a": "Aten",
+   "b": "Robald",
+   "loai": "dong_minh",
+   "mo_ta": "Cùng đẳng cấp xã hội, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Robald",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Cùng đẳng cấp xã hội, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết rõ ràng, có sự tương tác bất ngờ.",
+   "cach_goi": "gọi tên Aten, không thân thiết"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết rõ ràng, có sự tương tác bất ngờ.",
+   "cach_goi": "gọi tên Frondier, không thân thiết"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, mối quan hệ mẹ con.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, mối quan hệ mẹ con.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Alex",
+   "b": "Robald",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên và học sinh, Alex có vẻ không thích Robald.",
+   "cach_goi": "gọi tên Robald, lạnh lùng"
+  },
+  {
+   "a": "Robald",
+   "b": "Alex",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên và học sinh, Robald sợ Alex.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của Frondier)",
+  "Robald Lieff (Tên đầy đủ của Robald)"
+ ],
+ "stats": {
+  "tokens": 1244,
+  "seconds": 38.4
+ }
+}

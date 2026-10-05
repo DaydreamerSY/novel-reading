@@ -1,0 +1,84 @@
+{
+ "number": 327,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier chấp nhận làm bất kỳ việc gì được giao để học hỏi kỹ năng chiến đấu từ các kỵ sĩ. Anh bị bắt vào một buổi tập luyện khắc nghiệt với nhiều vũ khí khác nhau và những lời khuyên nghiêm ngặt. Thông qua quá trình đó, anh nhận ra sức mạnh thực sự của Azier và cố gắng đặt câu hỏi cho đối thủ như cách mà Azier đã từng làm. Cuối cùng, buổi tập kết thúc khi Sylvain nhận thấy Frondier đang quá mệt mỏi.",
+ "boi_canh": "Sân tập luyện của các kỵ sĩ, vào một buổi sáng.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Enfer",
+  "Sylvain",
+  "Albaito"
+ ],
+ "su_kien": [
+  "Frondier bắt đầu tập luyện với các kỵ sĩ Roach.",
+  "Sylvain đề nghị dạy Frondier.",
+  "Frondier trải qua một buổi đấu tập khắc nghiệt với nhiều vũ khí khác nhau.",
+  "Các kỵ sĩ thảo luận về khả năng của Frondier và mối quan hệ của anh với Azier.",
+  "Buổi đấu tập kết thúc khi Sylvain nhận thấy Frondier đang quá mệt mỏi."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai, Frondier được giao việc vặt bởi cha.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "ban_be",
+   "mo_ta": "Em trai, Frondier nhận ra sức mạnh của Azier thông qua quá trình luyện tập.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Kỵ sĩ chỉ huy, Sylvain đưa ra lời khuyên và điều khiển buổi tập luyện.",
+   "cach_goi": "gọi 'Lord', lễ phép"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Kỵ sĩ chỉ huy, Sylvain đưa ra lời khuyên và điều khiển buổi tập luyện.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Các kỵ sĩ Roach khác",
+   "loai": "dong_minh",
+   "mo_ta": "Đối thủ trong buổi đấu tập, Frondier học hỏi từ họ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Các kỵ sĩ Roach khác",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đối thủ trong buổi đấu tập, Frondier học hỏi từ họ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Các kỵ sĩ Roach khác",
+   "b": "Albaito",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Các kỵ sĩ Roach khác",
+   "b": "Enfer",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 940,
+  "seconds": 28.9
+ }
+}

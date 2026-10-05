@@ -1,0 +1,71 @@
+{
+ "number": 542,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hứng chịu một đòn tấn công mạnh mẽ từ Belphegor, Frondier đã nhanh chóng phản ứng và sử dụng Obsidian để phòng thủ. Belphegor tiếp tục tấn công bằng hỏa cầu và sét đánh, nhưng Frondier đã tìm ra cách vô hiệu hóa chúng nhờ Mjölnir. Cuối cùng, Frondier áp sát Belphegol trong một cuộc chiến cận chiến, sử dụng kiếm Excalibur và thanh đoản của Neil Jack để đối phó với các đòn tấn công của đối thủ.",
+ "boi_canh": "Trong Cung điện Hoàng gia, diễn ra một trận chiến căng thẳng giữa Frondier và Belphegor.",
+ "nhan_vat": [
+  "Frondier",
+  "Belphegor",
+  "Azier",
+  "Neil",
+  "Neil Jack",
+  "Mjölnir"
+ ],
+ "su_kien": [
+  "Belphegor tấn công Frondier bằng hỏa cầu.",
+  "Belphegor sử dụng sét đánh để tấn công Frondier.",
+  "Frondier vô hiệu hóa các đòn tấn công của Belphegor nhờ Mjölnir.",
+  "Frondier áp sát Belphegol và bắt đầu chiến đấu cận chiến.",
+  "Excalibur và đoản kiếm của Neil Jack được sử dụng trong trận chiến."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Frondier phòng thủ và phản công",
+   "cach_goi": "gọi 'fake', trịch thượng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Belphegor tấn công và quan sát Frondier",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mjölnir",
+   "loai": "khac",
+   "mo_ta": "vật phẩm hỗ trợ, Frondier sử dụng để vô hiệu hóa đòn tấn công",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "thay_tro",
+   "mo_ta": "người thầy, Frondier áp dụng kỹ thuật của Azier trong chiến đấu",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Neil Jack",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, sử dụng vũ khí của Neil Jack",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Belphegor tấn công và quan sát Frondier",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 672,
+  "seconds": 20.8
+ }
+}

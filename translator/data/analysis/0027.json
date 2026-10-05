@@ -1,0 +1,57 @@
+{
+ "number": 27,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đối mặt với một hồn ma tên Slevb trong một ngục tối cấp thấp. Anh ta sử dụng kỹ thuật dệt để tạo ra vũ khí tạm thời, nhưng gặp khó khăn do thiếu sức mạnh thể chất và mana. Sau khi bị tấn công liên tục, Frondier dụ dỗ Slevb vào một cái bẫy bằng cách giả vờ buông vũ khí, sau đó tấn công quyết định bằng Gram. Cuối cùng, Slevb ngã xuống và tiết lộ rằng thanh kiếm của Frondier đã từng cắt cô ta.",
+ "boi_canh": "Trong một ngục tối cấp thấp, nơi Frondier đang chiến đấu với một hồn ma tên Slevb.",
+ "nhan_vat": [
+  "Frondier",
+  "Slevb",
+  "Quinie",
+  "Obsidian"
+ ],
+ "su_kien": [
+  "Frondier tạo ra vũ khí dệt để đối phó với Slevb.",
+  "Anh ta bị tấn công liên tục và phải tập trung vào phòng thủ.",
+  "Frondier dụ Slevb bằng cách giả vờ buông vũ khí.",
+  "Anh ta sử dụng Gram để tấn công quyết định.",
+  "Slevb tiết lộ rằng thanh kiếm của Frondier đã từng cắt cô ta."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Slevb",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, Frondier cố gắng đánh bại Slevb.",
+   "cach_goi": "gọi 'Slevb', lạnh lùng"
+  },
+  {
+   "a": "Slevb",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, Slevb tấn công Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier đã yêu cầu một hiện vật từ Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Obsidian",
+   "loai": "khac",
+   "mo_ta": "Một hiện vật mà Frondier muốn có.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Slevb: Hồn ma, hình dạng ban đầu là phụ nữ gầy gò gần như không đủ vải che thân."
+ ],
+ "stats": {
+  "tokens": 661,
+  "seconds": 19.9
+ }
+}

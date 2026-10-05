@@ -1,0 +1,91 @@
+{
+ "number": 75,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận được lời cảnh báo từ Baldur về Frondier, Aster suy ngẫm về những điều đó. Anh ấy gặp Lunia và họ thảo luận về danh tiếng của Frondier. Cuối cùng, Aster nhìn thấy Frondier đi cùng Aten Terst, khiến anh ta băn khoăn về mối quan hệ giữa họ.",
+ "boi_canh": "Aster đang suy nghĩ tại một nơi nào đó trong khuôn viên trường Constel.",
+ "nhan_vat": [
+  "Aster",
+  "Aten Terst",
+  "Sybil Forte",
+  "Lunia Fricell",
+  "Frondier de Roach",
+  "Baldur",
+  "Frondier"
+ ],
+ "su_kien": [
+  "Aster suy ngẫm về lời cảnh báo của Baldur liên quan đến Frondier.",
+  "Aster và Lunia ăn kem và thảo luận về danh tiếng của Frondier.",
+  "Aster nhìn thấy Aten Terst đi cùng Frondier.",
+  "Lunia bày tỏ sự thất vọng vì không được tham gia dungeon.",
+  "Frondier vẫy tay chào Aster."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster đánh giá cao Frondier hơn những gì danh tiếng của anh ta nói.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier vẫy tay chào Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Lunia",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thuở nhỏ, Lunia thường xuyên trò chuyện với Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thuở nhỏ, Lunia thường xuyên trò chuyện với Aster.",
+   "cach_goi": "gọi tên Lunia, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Aten là Tam công chúa, Frondier có vẻ tôn trọng Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Aten là Tam công chúa, có vẻ không thích Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thuở nhỏ, Lunia thường xuyên trò chuyện với Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thuở nhỏ, Lunia thường xuyên trò chuyện với Aster.",
+   "cach_goi": "gọi tên Lunia, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)",
+  "Aten Terst (tên đầy đủ của Aten)",
+  "Sybil Forte (tên đầy đủ của Sybil)",
+  "Lunia Fricell (tên đầy đủ của Lunia)"
+ ],
+ "stats": {
+  "tokens": 965,
+  "seconds": 28.9
+ }
+}

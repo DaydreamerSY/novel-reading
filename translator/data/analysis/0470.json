@@ -1,0 +1,47 @@
+{
+ "number": 470,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier thử nghiệm tạo ra Dragon Heart bằng Mana của mình nhưng thất bại. Anh suy luận về cấu trúc phức tạp của Dragon Heart và nhận ra rằng việc đơn thuần truyền Mana vào nó là không đủ. Sau đó, anh cùng Metamorph rời khỏi xưởng để thử nghiệm, và cuộc trò chuyện giữa họ hé lộ những ký ức đau buồn của Metamorph về quá khứ bị giam cầm trong phòng thí nghiệm và mong muốn tìm kiếm bản thân.",
+ "boi_canh": "Trong xưởng chế tạo của Frondier, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Metamorph"
+ ],
+ "su_kien": [
+  "Frondier thử nghiệm tạo Dragon Heart bằng Mana nhưng thất bại.",
+  "Frondier suy luận về cấu trúc của Dragon Heart và cách thức tạo ra nó.",
+  "Frondier rời khỏi xưởng cùng Metamorph để thử nghiệm.",
+  "Metamorph biến đổi thành hình dạng giống Frondier.",
+  "Metamorph bày tỏ những ký ức đau buồn về quá khứ bị giam cầm."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Metamorph",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là người hướng dẫn và thử nghiệm cùng Metamorph. Mối quan hệ đang phát triển.",
+   "cach_goi": "gọi tên Metamorph, thân mật"
+  },
+  {
+   "a": "Metamorph",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Metamorph quan sát và học hỏi từ Frondier. Có sự tin tưởng lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 539,
+  "seconds": 16.2
+ }
+}

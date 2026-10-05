@@ -1,0 +1,99 @@
+{
+ "number": 409,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhiệm vụ chung bị hủy bỏ do tình hình bất ngờ leo thang, Frondier đột ngột biến mất. Anh ta bị một học sinh tố giác và tấn công, nhưng sau đó được Aster can thiệp. Sự việc này dẫn đến sự xuất hiện của Hoàng hậu Philly và Azier, những người tiết lộ rằng Frondier sẽ tham gia vào một đội điều tra về các vụ tiêm Mana, đồng thời ám chỉ những bí mật sâu xa hơn.",
+ "boi_canh": "Trên sân trường Constel, sau khi nhiệm vụ chung bị hủy bỏ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Philly",
+  "Aten",
+  "Azier",
+  "Ellen",
+  "Eden",
+  "Pros",
+  "Eden Hamelot",
+  "I-I'm"
+ ],
+ "su_kien": [
+  "Nhiệm vụ chung bị hủy bỏ do tình hình leo thang.",
+  "Một học sinh tố giác và tấn công Frondier.",
+  "Aster can thiệp để ngăn chặn hành động của Frondier.",
+  "Hoàng hậu Philly và Azier xuất hiện, thông báo về đội điều tra các vụ tiêm Mana.",
+  "Frondier được chọn tham gia vào đội điều tra."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster can thiệp để ngăn chặn Frondier.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Quan hệ cấp trên - cấp dưới, Hoàng hậu Philly xuất hiện và thông báo về đội điều tra.",
+   "cach_goi": "gọi 'Hoàng hậu', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Quan hệ cấp trên - cấp dưới, Hoàng hậu Philly xuất hiện và thông báo về đội điều tra.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp, Aten quan sát sự việc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, có vẻ như mối quan hệ phức tạp và sâu sắc.",
+   "cach_goi": "gọi tên Azier, lễ phép"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, có vẻ như mối quan hệ phức tạp và sâu sắc.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Học sinh tố giác",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, học sinh cố gắng khiêu khích và tấn công Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Học sinh tố giác",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier trả đũa học sinh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Học sinh tố giác: Được thuê làm người kích động (agitator)."
+ ],
+ "stats": {
+  "tokens": 1054,
+  "seconds": 31.5
+ }
+}

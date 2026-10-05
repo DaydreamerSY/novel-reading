@@ -1,0 +1,84 @@
+{
+ "number": 109,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier sử dụng thông tin sai lệch để thao túng Alex, khiến anh ta nghi ngờ Lady Elysia và bản thân mình. Frondier khai thác sự lo lắng của Elysia về việc Alex biết quá nhiều về kế hoạch của cô ấy, đồng thời tung ra một thuyết âm mưu phức tạp về việc Alex bị thay thế. Cuối cùng, Alex vô tình tiết lộ kế hoạch 'Raid' của Elysia, và Malia phơi bày khả năng 'Sensory Sharing' của mình, khiến Alex nhận ra Frondier đã lợi dụng anh ta.",
+ "boi_canh": "Trong lớp học, sau khi cuộc đối đầu với Alex kết thúc.",
+ "nhan_vat": [
+  "Frondier",
+  "Alex",
+  "Elysia",
+  "Renzo",
+  "Jane",
+  "Malia",
+  "Eden Hamelot",
+  "Aten Terst",
+  "Roderick Terst"
+ ],
+ "su_kien": [
+  "Alex nghi ngờ Frondier đã can thiệp vào kế hoạch của Renzo.",
+  "Frondier tung ra thuyết âm mưu về việc Alex bị thay thế.",
+  "Alex vô tình tiết lộ kế hoạch 'Raid' của Elysia.",
+  "Malia sử dụng khả năng 'Sensory Sharing' để phơi bày sự thao túng của Frondier.",
+  "Alex nhận ra mình đã bị Frondier lợi dụng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Alex",
+   "loai": "doi_thu",
+   "mo_ta": "Thao túng và khai thác điểm yếu của Alex để đạt được mục đích.",
+   "cach_goi": "gọi tên Alex, lạnh lùng"
+  },
+  {
+   "a": "Alex",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Bị Frondier thao túng và tức giận.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu gián tiếp thông qua Alex.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Alex",
+   "b": "Elysia",
+   "loai": "cap_tren",
+   "mo_ta": "Alex phục tùng Elysia, nhưng bị nghi ngờ bởi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, hỗ trợ và bảo vệ con trai.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Frondier, quan sát tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Alex",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Malia phơi bày sự thật về Alex.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Alex có thể đã bị thay thế bằng một người khác.",
+  "Eden Hamelot là Eden."
+ ],
+ "stats": {
+  "tokens": 907,
+  "seconds": 28.1
+ }
+}

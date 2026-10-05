@@ -1,0 +1,87 @@
+{
+ "number": 502,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này xoay quanh cuộc tranh luận căng thẳng giữa Frondier và Hoàng hậu Philly về việc đối phó với mối đe dọa Manggot. Frondier đề nghị một thỏa thuận mạo hiểm, đòi hỏi sự huy động toàn bộ lực lượng của đế quốc để đổi lấy Dragon Heart, khiến Philly nghi ngờ động cơ thực sự của anh ta. Cuộc đối thoại trở nên căng thẳng hơn khi Aten tham gia, đưa ra một quan điểm đơn giản và lý tưởng về việc bảo vệ người dân.",
+ "boi_canh": "Trong phòng tiếp khách của Cung điện Hoàng gia, vào thời điểm nguy hiểm cận kề.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Bartello",
+  "Sale",
+  "Pros",
+  "Mom",
+  "Elysia"
+ ],
+ "su_kien": [
+  "Frondier đề nghị một thỏa thuận mạo hiểm liên quan đến Dragon Heart và lực lượng quân sự.",
+  "Hoàng hậu Philly nghi ngờ động cơ của Frondier và đặt câu hỏi về tính khả thi của đề xuất.",
+  "Aten tham gia cuộc trò chuyện, đưa ra một quan điểm đơn giản về việc bảo vệ người dân.",
+  "Philly sử dụng phép thuật để đe dọa Frondier.",
+  "Cuộc tranh luận làm nổi bật sự khác biệt trong cách tiếp cận chính trị và niềm tin giữa các nhân vật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đề nghị thỏa thuận với người có địa vị cao hơn, nhưng bị nghi ngờ.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu đặt câu hỏi về động cơ của Frondier và tỏ ra nghi ngờ.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái quan tâm đến mẹ nhưng không hiểu hết những phức tạp của chính trị.",
+   "cach_goi": "gọi tên Mom, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ lo lắng cho con gái và cố gắng giải thích những vấn đề phức tạp.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "thay_tro",
+   "mo_ta": "Không tương tác trực tiếp, nhưng có sự hiểu lầm về quan điểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Không tương tác trực tiếp, nhưng có sự hiểu lầm về quan điểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Bartello",
+   "loai": "gia_dinh",
+   "mo_ta": "Lo lắng cho chồng và những rủi ro liên quan đến sức khỏe của ông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Frondier có liên quan đến tình trạng của Bartello.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 868,
+  "seconds": 26.2
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "number": 509,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Selena được triệu tập đến phòng họp và trả lời các câu hỏi của Belphegor về Frondier và khả năng giải mã ngôn ngữ cổ xưa của anh ta. Cô ấy miêu tả Frondier là một người lười biếng, vô dụng và không xứng đáng với sự tôn trọng. Mặc dù những câu trả lời của cô ấy dường như hoàn hảo và phù hợp với mong muốn của Manggot, nhưng Belphegor vẫn cảm thấy nghi ngờ về động cơ thực sự của Selena và ra lệnh giam giữ cô.",
+ "boi_canh": "Phòng họp tại Constel, một cuộc thẩm vấn bí mật.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Hagley",
+  "Jei",
+  "Albaito",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Selena được triệu tập đến phòng họp.",
+  "Selena trả lời các câu hỏi của Belphegor về Frondier, miêu tả anh ta là vô dụng và không xứng đáng.",
+  "Selena đề cập đến sự trì trệ trong việc giải mã ngôn ngữ cổ xưa.",
+  "Belphegor bày tỏ sự nghi ngờ về Selena.",
+  "Belphegor ra lệnh giam giữ Selena."
+ ],
+ "quan_he": [
+  {
+   "a": "Belphegor",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor là người thẩm vấn và ra lệnh, Selena là người bị thẩm vấn.",
+   "cach_goi": "gọi tên Selena, trịch thượng"
+  },
+  {
+   "a": "Selena",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Selena trả lời các câu hỏi của Belphegor một cách lạnh lùng và tuân theo mệnh lệnh.",
+   "cach_goi": "gọi tên Belphegor, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Hagley đứng sau Belphegor và quan sát cuộc thẩm vấn.",
+   "cach_goi": "gọi tên Belphegor, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Hagley",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor ra lệnh cho Hagley giam giữ Selena.",
+   "cach_goi": "gọi tên Hagley, trịch thượng"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Selena đánh giá thấp và miệt thị Frondier.",
+   "cach_goi": "gọi tên Frondier, khinh bỉ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "doi_thu",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Selena được biết đến là một sát thủ của 'Mười Sát Thủ' dưới sự chỉ huy của Hagley."
+ ],
+ "stats": {
+  "tokens": 827,
+  "seconds": 24.8
+ }
+}

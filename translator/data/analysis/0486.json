@@ -1,0 +1,49 @@
+{
+ "number": 486,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bị kéo vào một cabin và chứng kiến Elodie chiến đấu với một con quái vật khổng lồ. Sau khi Elodie ngất đi, Frondier mất kiểm soát và sử dụng Obsidian để tấn công quái vật, nhưng sau đó lại trở về trạng thái bình thường. Anh nhận ra con quái vật là hiện thân của chấn thương tâm lý của Elodie.",
+ "boi_canh": "Bên trong một cabin, vào thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Fron"
+ ],
+ "su_kien": [
+  "Frondier bị kéo vào cabin và cửa đóng sầm.",
+  "Elodie chiến đấu với một con quái vật khổng lồ.",
+  "Elodie ngất xỉu sau khi bị tấn công bởi tia năng lượng của quái vật.",
+  "Frondier sử dụng Obsidian để tấn công quái vật.",
+  "Con quái vật và tất cả các vũ khí của Frondier biến mất."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, Frondier quan sát và lo lắng cho Elodie.",
+   "cach_goi": "gọi tên Elodie, không rõ cảm xúc"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, Elodie lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Fron",
+   "loai": "khac",
+   "mo_ta": "Tên thân mật của Frondier, được Elodie gọi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có"
+ ],
+ "stats": {
+  "tokens": 507,
+  "seconds": 15.3
+ }
+}

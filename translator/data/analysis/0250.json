@@ -1,0 +1,154 @@
+{
+ "number": 250,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, nhóm Indus họp tại một quán trọ bí mật ở thủ đô Silvester để thảo luận về tình hình sau khi Armel bị tấn công. Họ tranh cãi về việc liệu có nên che giấu sự thật hay không và lo ngại về những hành động của Serf. Kraken kiểm tra thẻ kinh doanh mà họ lấy được từ Gregory, phát hiện ra nó chỉ hiệu quả với những người bình thường. Cuối cùng, cuộc họp kết thúc bằng một đề xuất táo bạo: sử dụng thẻ kinh doanh để điều khiển Hoàng đế Bartello Terst, mặc dù bị bác bỏ vì tính khả thi thấp.",
+ "boi_canh": "Một quán trọ bí mật ở thủ đô Silvester, trong một buổi họp của nhóm Indus.",
+ "nhan_vat": [
+  "Frondier",
+  "Kraken",
+  "Cain",
+  "Bartello",
+  "Gregory",
+  "Thompson",
+  "Serf",
+  "Armel",
+  "Skyler",
+  "Bartello Terst",
+  "Kian",
+  "Thomson"
+ ],
+ "su_kien": [
+  "Nhóm Indus họp tại một quán trọ bí mật.",
+  "Kraken phàn nàn về địa điểm họp đông đúc.",
+  "Serf bị tấn công.",
+  "Kraken kiểm tra thẻ kinh doanh của Gregory và phát hiện ra nó chỉ hiệu quả với người bình thường.",
+  "Đề xuất sử dụng thẻ kinh doanh để điều khiển Hoàng đế Bartello Terst được đưa ra."
+ ],
+ "quan_he": [
+  {
+   "a": "Kraken",
+   "b": "Thompson",
+   "loai": "ban_be",
+   "mo_ta": "Tranh luận về địa điểm họp.",
+   "cach_goi": "gọi tên Thompson, thân mật"
+  },
+  {
+   "a": "Thompson",
+   "b": "Kraken",
+   "loai": "ban_be",
+   "mo_ta": "Tranh luận về địa điểm họp.",
+   "cach_goi": "gọi tên Kraken, thân mật"
+  },
+  {
+   "a": "Kian",
+   "b": "Kraken",
+   "loai": "ban_be",
+   "mo_ta": "Động viên Kraken về địa điểm họp.",
+   "cach_goi": "gọi tên Kraken, thân mật"
+  },
+  {
+   "a": "Kraken",
+   "b": "Kian",
+   "loai": "ban_be",
+   "mo_ta": "Động viên Kraken về địa điểm họp.",
+   "cach_goi": "gọi tên Kian, thân mật"
+  },
+  {
+   "a": "Skyler",
+   "b": "Kraken",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus, Skyler chỉ trích sự thiếu hiểu biết của Kraken.",
+   "cach_goi": "gọi tên Kraken, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kraken",
+   "b": "Skyler",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus, Kraken hỏi về sự vắng mặt của người lãnh đạo.",
+   "cach_goi": "gọi tên Skyler, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thompson",
+   "b": "Skyler",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus.",
+   "cach_goi": "gọi tên Skyler, thân mật"
+  },
+  {
+   "a": "Skyler",
+   "b": "Thompson",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus.",
+   "cach_goi": "gọi tên Thompson, thân mật"
+  },
+  {
+   "a": "Skyler",
+   "b": "Armel",
+   "loai": "doi_thu",
+   "mo_ta": "Bình luận tiêu cực về Armel sau khi ông ta bị tấn công.",
+   "cach_goi": "gọi tên Armel, thô lỗ"
+  },
+  {
+   "a": "Kraken",
+   "b": "Skyler",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus.",
+   "cach_goi": "gọi tên Skyler, thân mật"
+  },
+  {
+   "a": "Thompson",
+   "b": "Kian",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội trong Indus.",
+   "cach_goi": "gọi tên Kian, thân mật"
+  },
+  {
+   "a": "Kian",
+   "b": "Thompson",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội trong Indus.",
+   "cach_goi": "gọi tên Thompson, thân mật"
+  },
+  {
+   "a": "Skyler",
+   "b": "Kraken",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus.",
+   "cach_goi": "gọi tên Kraken, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thompson",
+   "b": "Bartello Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Đề xuất sử dụng thẻ kinh doanh để điều khiển Hoàng đế.",
+   "cach_goi": "gọi 'Hoàng đế', trịch thượng"
+  },
+  {
+   "a": "Kraken",
+   "b": "Thompson",
+   "loai": "dong_minh",
+   "mo_ta": "Phản đối đề xuất của Thompson.",
+   "cach_goi": "gọi tên Thompson, lạnh lùng"
+  },
+  {
+   "a": "Cain",
+   "b": "Kraken",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus.",
+   "cach_goi": "gọi tên Kraken, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cain",
+   "b": "Thompson",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong Indus.",
+   "cach_goi": "gọi tên Thompson, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1581,
+  "seconds": 50.1
+ }
+}

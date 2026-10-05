@@ -1,0 +1,72 @@
+{
+ "number": 466,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Philly khám phá ra rằng Đơn vị Bóng tối đã giao kèo với một quỷ để có được kiến thức về tiêm năng lượng mana, nhưng họ hiểu lầm bản chất của quỷ. Quỷ không giữ lời hứa, mà lợi dụng những điều kiện trong hợp đồng để đạt mục đích riêng. Kết quả là, thí nghiệm ban đầu nhằm loại bỏ tác dụng phụ của việc tiêm năng lượng mana đã biến thành một con quái vật có khả năng bắt chước hoàn hảo - Calamity of Metamorph. Họ phát hiện ra dấu hiệu của quỷ tại phòng chứa Dragon Heart và nhận được nhiệm vụ mới từ Philly: tiêu diệt những kẻ chủ mưu và cộng tác viên của dự án tiêm năng lượng mana, nhưng phần thưởng bị tạm giữ do quái vật đã giết họ.",
+ "boi_canh": "Trong một căn phòng dưới lòng đất, nơi chứa Dragon Heart, sau khi phát hiện ra dấu hiệu của sự xâm nhập.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Metamorph",
+  "Shadow",
+  "Demon"
+ ],
+ "su_kien": [
+  "Đơn vị Bóng tối đã giao kèo với một quỷ để có được kiến thức về tiêm năng lượng mana.",
+  "Quỷ đã biến thí nghiệm ban đầu thành Calamity of Metamorph.",
+  "Phòng chứa Dragon Heart bị đột nhập và có dấu hiệu của quỷ.",
+  "Frondier và Philly phát hiện ra máu của những người trong Đơn vị Bóng tối.",
+  "Họ nhận được nhiệm vụ mới từ Philly: tiêu diệt những kẻ chủ mưu và cộng tác viên."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier báo cáo tình hình cho Philly và tuân theo mệnh lệnh của cô.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Philly giao nhiệm vụ và đưa ra chỉ đạo cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Metamorph",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier đề cập đến Calamity of Metamorph, một con quái vật nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Metamorph",
+   "loai": "ke_thu",
+   "mo_ta": "Metamorph là đối tượng mà Philly muốn tiêu diệt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Demon",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier phân tích hành động của quỷ và nhận xét về bản chất của chúng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Demon",
+   "loai": "ke_thu",
+   "mo_ta": "Philly giao nhiệm vụ tiêu diệt những người liên quan đến quỷ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Calamity of Metamorph: Ban đầu là thí nghiệm nhằm loại bỏ tác dụng phụ của việc tiêm năng lượng mana, sau đó bị quỷ biến thành một con quái vật bắt chước hoàn hảo."
+ ],
+ "stats": {
+  "tokens": 910,
+  "seconds": 27.1
+ }
+}

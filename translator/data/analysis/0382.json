@@ -1,0 +1,101 @@
+{
+ "number": 382,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong quán cà phê tại cửa hàng bách hóa, Sybil tỏ ra khó chịu khi chứng kiến Frondier và Selena có vẻ như đang hẹn hò. Cuộc trò chuyện bị gián đoạn bởi Jacob tự xưng là 'Manggot third finger' đe dọa đánh bom cửa hàng. Bất ngờ, Jacob bị hạ gục mà không ai biết rõ ai đã làm, và mọi thứ trở lại bình thường.",
+ "boi_canh": "Trong quán cà phê tại một cửa hàng bách hóa.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aten",
+  "Sybil",
+  "Jacob"
+ ],
+ "su_kien": [
+  "Sybil tỏ ra khó chịu khi thấy Frondier và Selena có vẻ đang hẹn hò.",
+  "Jacob tự xưng là 'Manggot third finger' đe dọa đánh bom cửa hàng.",
+  "Jacob bị hạ gục mà không ai biết rõ ai đã làm.",
+  "Mọi người bắt đầu quỳ xuống theo lệnh của Jacob (trước khi anh ta bị hạ gục).",
+  "Frondier là người duy nhất ngồi và tỏ ra thờ ơ."
+ ],
+ "quan_he": [
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Sybil có vẻ ghen tị với Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Elodie quan tâm đến cảm xúc của Sybil.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Elodie và Aten chia sẻ suy nghĩ về Frondier.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Aten quan sát và đặt câu hỏi về cảm xúc của Sybil.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Sybil có cảm tình với Frondier nhưng ghen tị khi thấy anh ta với Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người đang trò chuyện thân thiết, tạo cảm giác như một cuộc hẹn hò.",
+   "cach_goi": "gọi tên Selena, lịch sự"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người đang trò chuyện thân thiết, tạo cảm giác như một cuộc hẹn hò.",
+   "cach_goi": "gọi tên Frondier, lịch sự"
+  },
+  {
+   "a": "Jacob",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Jacob đe dọa Elodie và những người khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jacob",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Jacob đe dọa Aten và những người khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jacob",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Jacob đe dọa Sybil và những người khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Jacob tự xưng là 'Manggot third finger'."
+ ],
+ "stats": {
+  "tokens": 1096,
+  "seconds": 32.7
+ }
+}

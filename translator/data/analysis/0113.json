@@ -1,0 +1,82 @@
+{
+ "number": 113,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier chuẩn bị ra ngoài thì bị Malia bắt gặp và đối chất về việc anh ta không đi đến Constel như thường lệ. Cuộc trò chuyện hé lộ sự lo lắng của Malia về cuộc tấn công của quái vật sắp tới, cũng như sự thay đổi trong Frondier. Sau đó, Malia sử dụng kỹ năng gia truyền để chia sẻ thị giác với Frondier và đưa anh ta đi cùng Philly bằng xe hơi để điều tra về kẻ gây ra vụ việc liên quan đến Elysia.",
+ "boi_canh": "Sáng sớm, bầu trời nhiều mây xám xịt.",
+ "nhan_vat": [
+  "Frondier",
+  "Malia",
+  "Philly",
+  "Elysia",
+  "Enfer",
+  "Malia",
+  "Mom"
+ ],
+ "su_kien": [
+  "Frondier bị Malia bắt gặp khi đang rời khỏi nhà.",
+  "Malia sử dụng kỹ năng gia truyền để chia sẻ thị giác với Frondier.",
+  "Philly xuất hiện và đưa Frondier đi bằng xe hơi.",
+  "Philly bày tỏ sự khó tin rằng một trong các con gái của mình có thể là thủ phạm.",
+  "Frondier hỏi Philly liệu bà có thể đối xử với con gái như kẻ thù hay không."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ và con trai, có sự đối đầu nhẹ nhàng.",
+   "cach_goi": "gọi tên 'Mom', thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ và con trai, lo lắng cho sự an toàn của con.",
+   "cach_goi": "gọi tên Frondier, quan tâm"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "dong_minh",
+   "mo_ta": "người cùng chung mục tiêu, mối quan hệ còn xa lạ.",
+   "cach_goi": "gọi tên Philly, không rõ cảm xúc"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "người cùng chung mục tiêu, có sự nghi ngờ lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Malia",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "đồng minh, có sự tôn trọng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ và con trai, có sự tin tưởng lẫn nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Malia",
+   "loai": "cap_tren",
+   "mo_ta": "đồng minh, có sự tôn trọng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Malia: trước đây từng sử dụng tên 'Malia Avril'.",
+  "Avril family: có kỹ năng gia truyền chia sẻ giác quan."
+ ],
+ "stats": {
+  "tokens": 887,
+  "seconds": 27.6
+ }
+}

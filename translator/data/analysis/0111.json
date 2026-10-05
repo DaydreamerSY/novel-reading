@@ -1,0 +1,86 @@
+{
+ "number": 111,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Maria tiết lộ thông tin gây sốc về âm mưu của Công chúa Elysia, cuộc tấn công quái vật nhắm vào Aten và Roderick. Các giáo sư thảo luận về cách đối phó với tình hình, cuối cùng quyết định chờ đợi và phản ứng lại kế hoạch của kẻ thù để giảm thiểu thiệt hại. Frondier suy nghĩ về vai trò của mình trong việc ngăn chặn Elysia và nhận ra rằng anh ta cần phải loại bỏ cô ta. Anh cũng có một cuộc hẹn quan trọng để tìm kiếm đồng minh.",
+ "boi_canh": "Trong phòng họp tại học viện Constel, các giáo viên đang thảo luận về tình hình nguy hiểm.",
+ "nhan_vat": [
+  "Aster",
+  "Aten Terst",
+  "Azier",
+  "Elysia",
+  "Enfer",
+  "Osprey",
+  "Jane",
+  "Malia de Roach",
+  "Roderick",
+  "Maria",
+  "Binkis",
+  "Chancellor Osprey"
+ ],
+ "su_kien": [
+  "Maria tiết lộ thông tin về âm mưu của Elysia.",
+  "Các giáo sư thảo luận về việc đối phó với rune 'Rafflesia'.",
+  "Quyết định chờ đợi và phản ứng lại kế hoạch của kẻ thù được đưa ra.",
+  "Malia đồng ý chuyển thông điệp đến gia đình Roach.",
+  "Chancellor Osprey khẳng định rằng mọi hoạt động ở Constel sẽ tiếp tục như thường lệ."
+ ],
+ "quan_he": [
+  {
+   "a": "Maria",
+   "b": "Các giáo sư",
+   "loai": "dong_minh",
+   "mo_ta": "Maria cung cấp thông tin cho các giáo sư.",
+   "cach_goi": "gọi tên, không rõ thái độ"
+  },
+  {
+   "a": "Binkis",
+   "b": "Các giáo sư",
+   "loai": "thay_tro",
+   "mo_ta": "Binkis đưa ra lời khuyên và phân tích tình hình.",
+   "cach_goi": "gọi tên, không rõ thái độ"
+  },
+  {
+   "a": "Malia de Roach",
+   "b": "Các giáo sư",
+   "loai": "dong_minh",
+   "mo_ta": "Malia đồng ý chuyển thông tin cho gia đình.",
+   "cach_goi": "gọi tên, không rõ thái độ"
+  },
+  {
+   "a": "Jane",
+   "b": "Các giáo sư",
+   "loai": "dong_minh",
+   "mo_ta": "Jane đặt câu hỏi về việc có nên thông báo cho học sinh hay không.",
+   "cach_goi": "gọi tên, không rõ thái độ"
+  },
+  {
+   "a": "Chancellor Osprey",
+   "b": "Các giáo sư",
+   "loai": "cap_tren",
+   "mo_ta": "Chancellor Osprey đưa ra quyết định cuối cùng.",
+   "cach_goi": "gọi 'Chancellor', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Frondier suy nghĩ về những hạn chế của Aster trong việc ngăn chặn Elysia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier nhận ra cần phải loại bỏ Elysia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst: Tam công chúa"
+ ],
+ "stats": {
+  "tokens": 917,
+  "seconds": 28.9
+ }
+}

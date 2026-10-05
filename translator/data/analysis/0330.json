@@ -1,0 +1,57 @@
+{
+ "number": 330,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi kết thúc buổi huấn luyện, Frondier gặp Laurie, một người hầu trong doanh trại. Anh ta tỏ ra thân thiện và gần gũi với cô ấy, khiến Laurie bối rối. Cuối cùng, Frondier tiết lộ rằng anh đang thu thập thông tin về sự nguy hiểm của cha mình và cần sự giúp đỡ của Laurie vì vị trí công việc của cô cho phép cô nghe được nhiều chuyện.",
+ "boi_canh": "Trong doanh trại quân đội vào một buổi tối mùa đông.",
+ "nhan_vat": [
+  "Frondier",
+  "Laurie",
+  "Father",
+  "Mother"
+ ],
+ "su_kien": [
+  "Frondier gặp Laurie, người đang làm việc trong doanh trại.",
+  "Frondier giới thiệu bản thân và trò chuyện với Laurie.",
+  "Frondier tiết lộ anh là con thứ của Lord Roach.",
+  "Frondier cảnh báo Laurie về một mối nguy hiểm liên quan đến cha anh.",
+  "Frondier đề nghị Laurie đi 'hẹn hò' để tiếp tục thu thập thông tin."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "nguoi_la",
+   "mo_ta": "Ban đầu không quen biết nhau, Frondier tỏ ra thân thiện và có vẻ như đang cố tình tiếp cận Laurie.",
+   "cach_goi": "gọi tên Laurie, thân mật"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Ban đầu Laurie bối rối và dè dặt trước sự thân thiện của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "cap_tren",
+   "mo_ta": "Khi Laurie lỡ lời phản ứng lại, Frondier ra lệnh cho cô im lặng.",
+   "cach_goi": "gọi tên Laurie, trịch thượng"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Laurie cảm thấy bối rối và không chắc chắn về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Lord Frondier: Con thứ của Lord Roach, được cho là 'Young Lord' bởi Laurie (nhưng thực tế là anh trai của Young Lord)."
+ ],
+ "stats": {
+  "tokens": 647,
+  "seconds": 20.0
+ }
+}

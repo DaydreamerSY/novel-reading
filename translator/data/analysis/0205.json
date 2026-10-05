@@ -1,0 +1,89 @@
+{
+ "number": 205,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Hoàng hậu Philly lo ngại về sự an toàn của Robert khi anh ta còn ở trong cung, nghi ngờ Pascal đứng sau những hành động đó. Cô nhờ Azier điều tra vụ việc liên quan đến các hiệp sĩ bị dính líu vào các tội phạm khác nhau nhằm gây rối loạn. Cuối cùng, Frondier yêu cầu được gặp Philly.",
+ "boi_canh": "Trong văn phòng của Hoàng hậu Philly, thời điểm hiện tại đang diễn ra một cuộc điều tra về những vụ việc liên quan đến hiệp sĩ.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Malia",
+  "Pascal",
+  "Robert",
+  "Vincent",
+  "Azier de Roach"
+ ],
+ "su_kien": [
+  "Hoàng hậu Philly lo ngại về sự an toàn của Robert.",
+  "Azier báo cáo về việc Vincent Von Coleman đã nhận hối lộ và thông tin từ các hiệp sĩ.",
+  "Các hiệp sĩ bị dính líu vào nhiều loại tội phạm khác nhau, gây rối loạn trong cung.",
+  "Azier đề xuất rằng mục tiêu của kẻ chủ mưu là gây ra sự hỗn loạn để che đậy hành động thực tế của họ.",
+  "Frondier yêu cầu được gặp Hoàng hậu Philly."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Robert",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu tin tưởng Robert nhất.",
+   "cach_goi": "gọi tên Robert, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Pascal",
+   "loai": "doi_thu",
+   "mo_ta": "Hoàng hậu nghi ngờ Pascal có liên quan đến vụ việc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Knight (Unnamed)",
+   "loai": "dong_minh",
+   "mo_ta": "Hoàng hậu giao tiếp với một hiệp sĩ trong cung.",
+   "cach_goi": "gọi 'Sir', lễ phép"
+  },
+  {
+   "a": "Knight (Unnamed)",
+   "b": "Philly",
+   "loai": "dong_minh",
+   "mo_ta": "Hiệp sĩ báo cáo với Hoàng hậu.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Azier de Roach",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu giao việc điều tra cho Azier.",
+   "cach_goi": "gọi tên Azier, trang trọng"
+  },
+  {
+   "a": "Azier de Roach",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Azier báo cáo với Hoàng hậu.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em ruột thịt.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Azier de Roach",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em ruột thịt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Azier de Roach: Tên đầy đủ của Azier, cũng là một hiệp sĩ."
+ ],
+ "stats": {
+  "tokens": 916,
+  "seconds": 27.5
+ }
+}

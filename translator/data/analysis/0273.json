@@ -1,0 +1,56 @@
+{
+ "number": 273,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bị một người nào đó tấn công từ trên vách đá và phát hiện ra Cain đang lơ lửng trên không trung. Anh ta sử dụng Mjölnir để bay lên cao cùng với Cain, sau đó thử nghiệm khả năng điều khiển ma thuật bằng chính cơ thể mình. Frondier tiết lộ mục đích của việc bắt cóc Cain là để dụ Heldre ra và cuối cùng triệu hồi Excalibur, báo hiệu sự xuất hiện sắp tới của ai đó.",
+ "boi_canh": "Trên vách đá, vào một thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Cain",
+  "Heldre"
+ ],
+ "su_kien": [
+  "Một bóng người tấn công Frondier từ trên vách đá.",
+  "Cain bắt được Frondier khi anh ta rơi.",
+  "Frondier sử dụng Mjölnir để bay lên cùng Cain.",
+  "Frondier thử nghiệm khả năng điều khiển ma thuật bằng cơ thể mình.",
+  "Frondier triệu hồi Excalibur và báo hiệu sự xuất hiện của Heldre."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang bị bắt giữ và lợi dụng để dụ người khác ra.",
+   "cach_goi": "gọi tên Cain, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cain",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang bị bắt giữ và lợi dụng để dụ người khác ra.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "cap_tren",
+   "mo_ta": "Mục tiêu chính của hành động, không xuất hiện trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cain",
+   "b": "Heldre",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ không được làm rõ, có thể là cháu gái của Heldre.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Cain: Có vẻ như đang sử dụng một hình dạng hoặc thân phận giả."
+ ],
+ "stats": {
+  "tokens": 621,
+  "seconds": 19.2
+ }
+}

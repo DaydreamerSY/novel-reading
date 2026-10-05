@@ -1,0 +1,82 @@
+{
+ "number": 180,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp gỡ Lady of the Lake, được biết đến bởi các game thủ Etius với cái tên 'The Witch of the Lake'. Nimue tiết lộ về thanh kiếm dưới đáy hồ và cho phép Frondier lấy nó. Sau khi Frondier nhảy xuống hồ bằng một chiếc khăn của Penelope để chống lại cái lạnh khắc nghiệt, Nimue bày tỏ sự lo ngại rằng anh ta có thể chết, nhưng Merlin trấn an rằng Frondier sẽ không bị ảnh hưởng bởi cái lạnh.",
+ "boi_canh": "Trong khu vực quanh Hồ, thời điểm chưa xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Merlin",
+  "Cassian",
+  "Nimue",
+  "Arthur",
+  "Penelope",
+  "Lady of the Lake"
+ ],
+ "su_kien": [
+  "Frondier gặp Nimue, người được các game thủ gọi là 'The Witch of the Lake'.",
+  "Nimue tiết lộ rằng thanh kiếm nằm dưới đáy hồ.",
+  "Frondier sử dụng khăn của Penelope để chống lại cái lạnh.",
+  "Selena lo lắng khi Frondier nhảy xuống hồ.",
+  "Nimue bày tỏ sự nghi ngờ về khả năng sống sót của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Nimue",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier gặp gỡ và trò chuyện với Nimue.",
+   "cach_goi": "gọi tên Nimue, không rõ thái độ"
+  },
+  {
+   "a": "Nimue",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Nimue trò chuyện với Frondier và hướng dẫn anh ta.",
+   "cach_goi": "gọi tên Frondier, không rõ thái độ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Merlin",
+   "loai": "khac",
+   "mo_ta": "Frondier nhìn Merlin, Merlin quan sát Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Selena là người hộ tống của Frondier và bày tỏ sự lo lắng.",
+   "cach_goi": "gọi tên Frondier, lo lắng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cassian",
+   "loai": "ban_be",
+   "mo_ta": "Frondier lấy đồ của Cassian.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nimue",
+   "b": "Merlin",
+   "loai": "thay_tro",
+   "mo_ta": "Nimue kiểm tra phản ứng của Merlin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nimue",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Nimue quan sát Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Lady of the Lake được các game thủ Etius gọi là 'The Witch of the Lake'."
+ ],
+ "stats": {
+  "tokens": 862,
+  "seconds": 26.0
+ }
+}

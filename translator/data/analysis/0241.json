@@ -1,0 +1,74 @@
+{
+ "number": 241,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bắt đầu nghi ngờ về sự trung thực của Quinie sau khi nghe thấy một câu hỏi táo bạo của người đàn ông bí ẩn. Người đàn ông này đang chờ đợi Kora và có vẻ như biết nhiều hơn những gì anh ta thể hiện. Cuộc đối đầu giữa Frondier và Armel diễn ra, với những lời nói thách thức và một trận bẫy ma thuật bất ngờ được kích hoạt, khiến Armel bị giam cầm.",
+ "boi_canh": "Phía trước trường Constel, sau giờ học.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Kora",
+  "Armel",
+  "Armel de Viet",
+  "Crow"
+ ],
+ "su_kien": [
+  "Người đàn ông hỏi Quinie về sự vắng mặt của Kora.",
+  "Frondier quan sát Armel và nhận ra anh ta đang chờ đợi Kora.",
+  "Frondier nghe thấy cuộc trò chuyện giữa Armel và một con quạ.",
+  "Armel bị mắc kẹt trong một trận bẫy ma thuật với những ngọn giáo.",
+  "Frondier bắt đầu nghi ngờ về danh tính thực sự của Armel."
+ ],
+ "quan_he": [
+  {
+   "a": "Người đàn ông",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "Hỏi về sự vắng mặt của Kora, tạo ra sự nghi ngờ.",
+   "cach_goi": "gọi tên Quinie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Người đàn ông",
+   "loai": "nguoi_la",
+   "mo_ta": "Trả lời một cách thách thức.",
+   "cach_goi": "gọi tên Người đàn ông, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Quan sát và suy đoán về hành động của Quinie.",
+   "cach_goi": "gọi tên Quinie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Armel",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu và thách thức danh tính của Armel.",
+   "cach_goi": "gọi tên Armel, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Armel",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cố gắng tỏ ra ngây thơ nhưng bị Frondier nghi ngờ.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Armel",
+   "b": "Crow",
+   "loai": "khac",
+   "mo_ta": "Nói chuyện với một con quạ, có vẻ như là một người bạn đồng hành.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Armel de Viet (tên đầy đủ của Armel)",
+  "Senior Armel Colt (biệt danh mà Frondier nhắc đến)"
+ ],
+ "stats": {
+  "tokens": 811,
+  "seconds": 26.0
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "number": 38,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau một nhiệm vụ chung, Frondier gặp Ellen Evans, chị gái của Aster, nhưng cô ta phớt lờ anh. Anh nhận được một nhiệm vụ mới báo hiệu cuộc xâm lược sắp tới của quái vật vào Constel và nguy cơ mất các nhân vật quan trọng. Đồng thời, Edwin đột nhập vào phòng thí nghiệm của Giáo sư Binkis để đánh cắp một Metal Golem.",
+ "boi_canh": "Trên đường đến phòng huấn luyện sau giờ học.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster Evans",
+  "Ellen Evans",
+  "Edwin",
+  "Binkis",
+  "Professor Binkis"
+ ],
+ "su_kien": [
+  "Frondier gặp Ellen Evans và bị cô ta phớt lờ.",
+  "Frondier nhận được nhiệm vụ cảnh báo về cuộc xâm lược quái vật vào Constel.",
+  "Nhiệm vụ đề cập đến khả năng mất các nhân vật quan trọng.",
+  "Edwin đột nhập phòng thí nghiệm của Giáo sư Binkis.",
+  "Edwin đánh cắp quyền sở hữu Metal Golem."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster Evans",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier nhận ra Aster khi thấy Ellen, cảm thấy hơi ngốc nghếch.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen Evans",
+   "loai": "nguoi_la",
+   "mo_ta": "Ellen phớt lờ Frondier, khiến anh cảm thấy bị bỏ qua.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Professor Binkis",
+   "loai": "thay_tro",
+   "mo_ta": "Edwin là trợ lý của Giáo sư Binkis, nhưng đang bí mật đột nhập phòng thí nghiệm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Metal Golem",
+   "loai": "chu_to",
+   "mo_ta": "Edwin đánh cắp quyền sở hữu Metal Golem và điều khiển nó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster.",
+  "Ellen Evans: Tên đầy đủ của Ellen."
+ ],
+ "stats": {
+  "tokens": 628,
+  "seconds": 18.8
+ }
+}

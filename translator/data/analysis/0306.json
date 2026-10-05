@@ -1,0 +1,74 @@
+{
+ "number": 306,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier nghe lén cuộc trò chuyện của cha mẹ mình, Enfer và Malia, về việc anh trai Azier thừa kế khả năng huyết mạch của gia tộc Roach, còn bản thân anh không có. Cuộc trò chuyện hé lộ một khả năng tiềm ẩn khác của Frondier liên quan đến khả năng 'Chia sẻ Giác Quan' của Malia và mối liên hệ với nữ thần Hera. Những ký ức về quá khứ của Frondier bắt đầu hiện lên, cho thấy sự tuyệt vọng và hối lỗi của cậu bé trong quá trình tìm kiếm sức mạnh.",
+ "boi_canh": "Trong phòng khách, bên ngoài cửa phòng ngủ, vào một thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Enfer",
+  "Malia",
+  "Artemis",
+  "Hera",
+  "Mom"
+ ],
+ "su_kien": [
+  "Cuộc trò chuyện về khả năng huyết mạch của Azier và sự thiếu hụt của Frondier.",
+  "Frondier nghe lén cuộc trò chuyện của cha mẹ.",
+  "Sự hé lộ về khả năng 'Sensory Sharing' tiềm ẩn của Frondier, liên quan đến Malia và nữ thần Hera.",
+  "Những ký ức về quá khứ của Frondier bắt đầu hiện lên trong giấc mơ.",
+  "Frondier trải qua những cảm xúc tiêu cực như tuyệt vọng, hối lỗi và sợ hãi."
+ ],
+ "quan_he": [
+  {
+   "a": "Enfer",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "cha và mẹ, trao đổi về Frondier với sự lo lắng.",
+   "cach_goi": "gọi 'mẹ', lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ và cha, trao đổi về Frondier với sự lo lắng.",
+   "cach_goi": "gọi 'cha', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "con trai, nghe lén cha đang nói về mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "con trai, nghe lén mẹ đang nói về mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "cha, không biết Frondier đang nghe lén.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ, không biết Frondier đang nghe lén.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Khả năng huyết mạch 'Sensory Sharing' của Malia có thể là khả năng tiềm ẩn của Frondier."
+ ],
+ "stats": {
+  "tokens": 843,
+  "seconds": 25.9
+ }
+}

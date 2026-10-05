@@ -1,0 +1,109 @@
+{
+ "number": 559,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận được chỉ thị từ Cassian, Selena và Aster đã gặp nhau. Để đến được nơi Frondier đang gặp nguy hiểm, họ sử dụng Shadow Transfer với sự giúp đỡ của Mei. Sau đó, Sybil, Elodie và Aten gia nhập nhóm. Cuối cùng, Osprey xuất hiện, tiết lộ rằng việc giải phóng anh ta và khả năng dịch chuyển tức thời của anh ta là một kế hoạch được Frondier vạch ra từ trước.",
+ "boi_canh": "Tại Tyburn, khi các nhân vật chuẩn bị di chuyển đến Manggot.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Osprey",
+  "Hagley",
+  "Mei",
+  "Merlin",
+  "Cassian",
+  "Cohen",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Selena và Aster gặp nhau theo chỉ thị của Frondier.",
+  "Aster, Selena và Mei sử dụng Shadow Transfer để di chuyển nhanh chóng.",
+  "Sybil, Elodie và Aten gia nhập nhóm.",
+  "Osprey xuất hiện, tiết lộ kế hoạch được Frondier vạch ra trước.",
+  "Osprey giải thích về khả năng dịch chuyển tức thời của mình thông qua các cổng không gian."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, cùng nhau giúp Frondier.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, cùng nhau giúp Frondier.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Aster quan sát Mei, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "hợp tác sử dụng Shadow Transfer.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "hợp tác sử dụng Shadow Transfer.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Aster chào Sybil khi gặp lại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aster",
+   "loai": "dong_minh",
+   "mo_ta": "Sybil chào Aster khi gặp lại.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Osprey",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Osprey giải thích kế hoạch của Frondier cho Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Osprey",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena bày tỏ sự ngạc nhiên về khả năng của Osprey.",
+   "cach_goi": "gọi tên Osprey, lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Osprey trấn an Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)",
+  "Aten Terst (tên đầy đủ của Aten, tam công chúa)"
+ ],
+ "stats": {
+  "tokens": 1084,
+  "seconds": 34.0
+ }
+}

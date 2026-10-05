@@ -1,0 +1,71 @@
+{
+ "number": 70,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trúng một giải thưởng nhỏ từ một câu đố, Ainen bị một người đàn ông bí ẩn dẫn đến một nơi không xác định trong trung tâm thương mại. Cô phát hiện ra rằng mình đang được Hoàng hậu Philly Terst triệu tập. Hoàng hậu tiết lộ rằng câu đố mà Ainen đã trả lời đúng liên quan đến một câu hỏi chuyên môn về 'trái tim rồng' và muốn biết thêm thông tin từ cô.",
+ "boi_canh": "Trong trung tâm thương mại, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Ainen",
+  "Philly Terst"
+ ],
+ "su_kien": [
+  "Ainen trúng giải thưởng từ một câu đố.",
+  "Một người đàn ông bí ẩn tiếp cận Ainen và dẫn cô đi.",
+  "Ainen phát hiện ra mình đang được Hoàng hậu Philly Terst triệu tập.",
+  "Hoàng hậu tiết lộ rằng câu đố liên quan đến 'trái tim rồng'.",
+  "Hoàng hậu hỏi Ainen về kiến thức của cô về 'trái tim rồng'."
+ ],
+ "quan_he": [
+  {
+   "a": "Ainen",
+   "b": "Người đàn ông bí ẩn",
+   "loai": "nguoi_la",
+   "mo_ta": "Người đàn ông dẫn Ainen đi theo lệnh của Hoàng hậu, không giải thích.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người đàn ông bí ẩn",
+   "b": "Ainen",
+   "loai": "nguoi_la",
+   "mo_ta": "Dẫn Ainen đi theo lệnh, không giải thích.",
+   "cach_goi": "gọi 'Ms. Ainen', lễ phép"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Ainen",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu triệu tập Ainen và hỏi cô về kiến thức của cô.",
+   "cach_goi": "gọi tên 'Ms. Ainen', thân mật"
+  },
+  {
+   "a": "Ainen",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Ainen được Hoàng hậu triệu tập và tỏ ra bối rối.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Ainen",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu tiếp đón Ainen một cách thoải mái và hỏi cô về câu đố.",
+   "cach_goi": "gọi tên 'Ms. Ainen', thân mật"
+  },
+  {
+   "a": "Ainen",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Ainen được Hoàng hậu tiếp đón và tỏ ra bối rối.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Philly Terst là Hoàng hậu của đế quốc."
+ ],
+ "stats": {
+  "tokens": 782,
+  "seconds": 23.5
+ }
+}

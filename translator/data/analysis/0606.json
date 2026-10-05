@@ -1,0 +1,79 @@
+{
+ "number": 606,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đến địa điểm, Frondier đối mặt với một nhóm quỷ với lời lẽ đe dọa và sự hung hăng. Anh ta nhận ra họ đang bảo vệ một chủ tịch có hành vi ăn thịt người đáng ghê tởm. Một cuộc chiến ngắn diễn ra, trong đó Frondier sử dụng Obsidian để tấn công, khiến các quỷ phải lùi lại. Cuối cùng, một giọng nói từ bên trong phòng can thiệp, và Frondier được phép vào gặp chủ tịch của Hitchcock.",
+ "boi_canh": "Bên trong một hành lang của công ty Hitchcock, tại thời điểm diễn ra một cuộc đối đầu giữa Frondier và các quỷ.",
+ "nhan_vat": [
+  "Frondier",
+  "Pielott",
+  "Paul",
+  "Jeremy",
+  "Hitchcock (chủ tịch)"
+ ],
+ "su_kien": [
+  "Frondier đối mặt với các quỷ có vũ trang.",
+  "Các quỷ tuyên bố mục đích giết Frondier.",
+  "Frondier sử dụng Obsidian để tấn công, khiến các quỷ phải lùi lại.",
+  "Paul cố gắng can thiệp nhưng bị chặn lại.",
+  "Một giọng nói từ bên trong phòng ra lệnh cho phép Frondier vào."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "khac",
+   "mo_ta": "Frondier suy nghĩ về khả năng né tránh Obsidian của Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Paul",
+   "loai": "cap_tren",
+   "mo_ta": "Paul bảo vệ chủ tịch Hitchcock, Frondier nhận ra sự thật này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jeremy",
+   "loai": "khac",
+   "mo_ta": "Frondier suy nghĩ về việc Jeremy có thể né tránh Obsidian hay không.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quỷ (chung)",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Các quỷ tấn công Frondier với sự hung hăng và lời lẽ khiêu khích.",
+   "cach_goi": "thô lỗ, đe dọa"
+  },
+  {
+   "a": "Paul",
+   "b": "Quỷ (chung)",
+   "loai": "gia_dinh",
+   "mo_ta": "Paul cố gắng bảo vệ các quỷ khác.",
+   "cach_goi": "thân mật, lo lắng"
+  },
+  {
+   "a": "Hitchcock (chủ tịch)",
+   "b": "Quỷ (chung)",
+   "loai": "cap_tren",
+   "mo_ta": "Chủ tịch Hitchcock ra lệnh cho các quỷ.",
+   "cach_goi": "thân mật, ra lệnh"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hitchcock (chủ tịch)",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier có mối quan hệ quen thuộc với chủ tịch Hitchcock.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hitchcock là tên của một người đàn ông, đồng thời cũng là tên công ty mà Frondier đang ở."
+ ],
+ "stats": {
+  "tokens": 890,
+  "seconds": 27.5
+ }
+}

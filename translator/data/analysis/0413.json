@@ -1,0 +1,54 @@
+{
+ "number": 413,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau một tuần điều tra không có kết quả đáng kể, cuộc họp của liên minh trở nên trì trệ. Frondier lặng lẽ đọc tài liệu trong suốt các cuộc họp, khiến mọi người tò mò. Cuối cùng, anh ta đứng dậy và tuyên bố không cần đọc thêm tài liệu nào nữa, gây chú ý cho tất cả những người có mặt. Anh ta sau đó trình bày một 'bản đồ 3D' kỳ lạ từ chiếc vòng tay của mình, làm kinh ngạc mọi người.",
+ "boi_canh": "Trong phòng họp, sau một tuần điều tra bế tắc.",
+ "nhan_vat": [
+  "Frondier",
+  "Eden",
+  "Pros"
+ ],
+ "su_kien": [
+  "Liên minh điều tra trong một tuần mà không có kết quả đáng kể.",
+  "Frondier lặng lẽ đọc tài liệu tại các cuộc họp.",
+  "Frondier tuyên bố không cần đọc thêm tài liệu.",
+  "Eden chế nhạo Frondier về hành vi của anh ta.",
+  "Frondier trình bày một 'bản đồ 3D' từ chiếc vòng tay của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Eden",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Eden là người có vị trí cao hơn, cố gắng phá vỡ sự im lặng của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier và Eden có vẻ như đang cạnh tranh về quyền kiểm soát cuộc điều tra.",
+   "cach_goi": "gọi tên Eden, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pros",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Các Pros quan sát Frondier với sự tò mò và tôn trọng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pros",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier gây ấn tượng với các Pros bằng sự hiện diện của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 608,
+  "seconds": 19.1
+ }
+}

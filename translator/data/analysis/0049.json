@@ -1,0 +1,90 @@
+{
+ "number": 49,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị nghi ngờ ăn cắp golem, Edwin rơi vào tình trạng khó xử. Giáo viên Binkis đứng ra bảo vệ Edwin bằng cách khẳng định cô đã tặng golem đó cho cậu. Cuộc tranh luận xoay quanh việc ai có thể vượt qua hệ thống an ninh phức tạp của golem, cuối cùng dẫn đến sự xuất hiện của Osprey và lời khai của Frondier và Ellen liên quan đến vụ phá hủy golem.",
+ "boi_canh": "Trong phòng học, mọi người đang tranh cãi về việc Edwin ăn cắp golem.",
+ "nhan_vat": [
+  "Frondier",
+  "Osprey",
+  "Ellen",
+  "Edwin",
+  "Malia",
+  "Binkis",
+  "Alex",
+  "Enfer",
+  "Aster"
+ ],
+ "su_kien": [
+  "Binkis khẳng định đã tặng golem cho Edwin.",
+  "Alex nghi ngờ Edwin ăn cắp golem và phản bác lại lời giải thích của Binkis.",
+  "Osprey lên tiếng về sự kiện phá hủy golem.",
+  "Frondier xin lỗi vì đã làm vỡ golem.",
+  "Ellen nói rằng cô ngủ quên nên không biết gì về vụ việc."
+ ],
+ "quan_he": [
+  {
+   "a": "Alex",
+   "b": "Binkis",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên Alex nghi ngờ và phản bác lại lời giải thích của giáo viên Binkis.",
+   "cach_goi": "gọi tên Binkis, lạnh lùng"
+  },
+  {
+   "a": "Binkis",
+   "b": "Alex",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên Binkis bảo vệ Edwin và phản bác lại sự nghi ngờ của giáo viên Alex.",
+   "cach_goi": "gọi tên Alex, trịch thượng"
+  },
+  {
+   "a": "Binkis",
+   "b": "Edwin",
+   "loai": "chu_to",
+   "mo_ta": "Giáo viên Binkis bảo vệ học sinh Edwin.",
+   "cach_goi": "gọi tên Edwin, thân mật"
+  },
+  {
+   "a": "Edwin",
+   "b": "Binkis",
+   "loai": "chu_to",
+   "mo_ta": "Edwin cảm thấy tội lỗi vì đã lừa dối và ăn cắp golem của Binkis.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Binkis",
+   "loai": "cap_tren",
+   "mo_ta": "Osprey có vẻ đồng ý với Binkis nhưng cũng thờ ơ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Edwin",
+   "loai": "gia_dinh",
+   "mo_ta": "Malia an ủi và động viên Edwin.",
+   "cach_goi": "gọi tên Edwin, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier xin lỗi Edwin về việc làm vỡ golem.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Ellen xin lỗi Edwin về việc ngủ quên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của Frondier."
+ ],
+ "stats": {
+  "tokens": 943,
+  "seconds": 28.2
+ }
+}

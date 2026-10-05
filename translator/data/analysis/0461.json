@@ -1,0 +1,66 @@
+{
+ "number": 461,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier mở mắt, một trận động đất nhỏ làm rung chuyển Cung điện Hoàng gia, kèm theo mùi hôi thối và sự thôi thúc tàn bạo của quỷ dữ. Quỷ dữ trồi lên từ lòng đất, tấn công Cung điện. Frondier đã kích hoạt Menosorpo để đưa Metamorph vào bên trong, sau đó làm sụp đổ nó xuống đất, nghiền nát nhiều quỷ dữ. Cuối cùng, Frondier sử dụng sức mạnh của mình để tiêu diệt lũ quỷ và thực hiện mệnh lệnh của nhà vua.",
+ "boi_canh": "Bên trong Cung điện Hoàng gia, một trận chiến đang diễn ra giữa Frondier và đội quân quỷ dữ trồi lên từ lòng đất.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Eden",
+  "Bartello Tert",
+  "Metamorph"
+ ],
+ "su_kien": [
+  "Động đất nhỏ làm rung chuyển Cung điện Hoàng gia.",
+  "Quỷ dữ trồi lên từ lòng đất, tấn công Cung điện.",
+  "Frondier kích hoạt Menosorpo để đưa Metamorph vào bên trong.",
+  "Menosorpo sụp đổ xuống đất, nghiền nát nhiều quỷ dữ.",
+  "Frondier sử dụng sức mạnh của mình để tiêu diệt lũ quỷ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier báo cáo tình hình cho Philly, người có vẻ là một cấp trên.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly tin tưởng và động viên Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Metamorph",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier và Metamorph có vẻ như đang cùng nhau làm việc nhưng Frondier không rõ lý do tại sao họ lại ở bên nhau.",
+   "cach_goi": "gọi tên Metamorph, thân mật"
+  },
+  {
+   "a": "Metamorph",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Metamorph tuân theo Frondier một cách máy móc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello Tert",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier thực hiện mệnh lệnh của Bartello.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Philly Terst (hoàng hậu của đế quốc)",
+  "Bartello Tert (quốc vương)"
+ ],
+ "stats": {
+  "tokens": 777,
+  "seconds": 23.2
+ }
+}

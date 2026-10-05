@@ -1,0 +1,82 @@
+{
+ "number": 206,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Pascal nhận được thông tin sai lệch về một hiệp sĩ và tức giận. Sau khi trao đổi với chim sẻ làm người liên lạc của Indus, anh ta yêu cầu thông tin chính xác hơn. Pascal cũng nhận được danh thiếp từ Indus và chuẩn bị gặp Empress Philly Terst, nhưng Selena tỏ ra lo lắng trước sự hiện diện của những người có quyền lực và rút lui. Cuối cùng, Frondier lên xe với Philly và Azier, nơi anh ta phải đối mặt với sự nghi ngờ và một lời cảnh báo từ Azier.",
+ "boi_canh": "Trong phòng làm việc của Pascal, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Pascal",
+  "Frondier",
+  "Selena",
+  "Philly Terst",
+  "Aten",
+  "Azier",
+  "Chim sẻ (đại diện cho Indus)"
+ ],
+ "su_kien": [
+  "Pascal tức giận vì thông tin anh ta nhận được là sai.",
+  "Pascal yêu cầu chim sẻ cung cấp thông tin chính xác hơn.",
+  "Pascal nhận được danh thiếp từ Indus.",
+  "Selena tỏ ra lo lắng và rút lui khi Frondier đề nghị cô ấy quay lại.",
+  "Frondier lên xe với Philly và Azier, đối mặt với sự nghi ngờ của Azier."
+ ],
+ "quan_he": [
+  {
+   "a": "Pascal",
+   "b": "Chim sẻ",
+   "loai": "nguoi_la",
+   "mo_ta": "Pascal sử dụng chim sẻ làm nguồn thông tin, có vẻ như tin tưởng nhưng cũng cảnh báo.",
+   "cach_goi": "gọi 'Mr. Pascal', lễ phép"
+  },
+  {
+   "a": "Chim sẻ",
+   "b": "Pascal",
+   "loai": "nguoi_la",
+   "mo_ta": "Cung cấp thông tin cho Pascal, đại diện cho Indus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier ra lệnh cho Selena và quan sát sự lo lắng của cô ấy.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Selena trung thành với Frondier, nhưng có vẻ như đang học thuộc lòng.",
+   "cach_goi": "gọi 'Lord Frondier', lễ phép"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Philly có vẻ quen thuộc với Frondier và bảo vệ anh ta.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Azier nghi ngờ Frondier và có vẻ như đang theo dõi anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Bảo vệ Frondier khỏi sự nghi ngờ của Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Indus: Tổ chức cung cấp thông tin cho Pascal.",
+  "Selena: Có vẻ như đang được huấn luyện theo một khuôn mẫu cứng nhắc."
+ ],
+ "stats": {
+  "tokens": 922,
+  "seconds": 27.6
+ }
+}

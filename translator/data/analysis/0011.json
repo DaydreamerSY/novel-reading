@@ -1,0 +1,113 @@
+{
+ "number": 11,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong một buổi giao dịch về thanh kiếm Mistilteinn, sự căng thẳng gia tăng khi mọi người tranh cãi về tính xác thực của nó. Cha của Frondier và Azier, Enfer, tuyên bố sẽ chứng minh tính thật của thanh kiếm sau này và sẵn sàng nhượng lại nó. Tuy nhiên, Frondier đã phá vỡ sự im lặng bằng cách đề xuất kiểm tra trực tiếp, khiến mọi người kinh ngạc và đặt câu hỏi về động cơ của anh.",
+ "boi_canh": "Một buổi giao dịch bí mật tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Quinie",
+  "Enfer",
+  "Ludwig",
+  "Father",
+  "Ortel",
+  "Sigurd",
+  "Frondeir",
+  "Quinnie"
+ ],
+ "su_kien": [
+  "Tranh cãi về tính xác thực của Mistilteinn.",
+  "Enfer tuyên bố sẽ chứng minh tính thật của thanh kiếm sau này.",
+  "Frondier đề xuất kiểm tra trực tiếp bằng cách phá vỡ container bảo vệ Mistilteinn.",
+  "Ludwig bày tỏ sự khó chịu và nghi ngờ đối với Frondier.",
+  "Container chứa Mistilteinn bị Frondier phá vỡ."
+ ],
+ "quan_he": [
+  {
+   "a": "Ortel",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha con, Ortel quan sát biểu cảm của Azier.",
+   "cach_goi": "gọi tên Azier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai, Azier nhận sự kỳ vọng từ cha.",
+   "cach_goi": "gọi tên Enfer, lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha con, Enfer tuyên bố Mistilteinn thuộc về Azier.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Miller",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "Người trung gian, Miller can thiệp để giải quyết vấn đề.",
+   "cach_goi": "gọi tên Quinie, lễ phép"
+  },
+  {
+   "a": "Quinie",
+   "b": "Ludwig",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Quinie quan sát tình hình.",
+   "cach_goi": "gọi tên Ludwig, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Ludwig tỏ ra khó chịu với Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, Azier lo lắng cho hành động của em trai.",
+   "cach_goi": "gọi tên Frondier, cảnh báo"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha con, Enfer cảnh báo Frondier.",
+   "cach_goi": "gọi tên Frondier, nghiêm khắc"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Ludwig chế nhạo Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Frondier trả lời Ludwig.",
+   "cach_goi": "gọi tên Ludwig, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai, Frondier đề xuất kiểm tra thanh kiếm.",
+   "cach_goi": "gọi tên Enfer, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondeir (tên gọi khác của Frondier)"
+ ],
+ "stats": {
+  "tokens": 1203,
+  "seconds": 36.1
+ }
+}

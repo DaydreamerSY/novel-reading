@@ -1,0 +1,90 @@
+{
+ "number": 13,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, mọi người chứng kiến sự xuất hiện của Gram, thanh kiếm thần thoại của gia tộc Enfer. Frondier phá vỡ chiếc quan tài chứa nó một cách bí ẩn, gây ra nhiều nghi ngờ và lo lắng. Aster và Thane thảo luận về sự kiện này, trong khi Quinie suy đoán về sức mạnh tiềm ẩn của Frondier. Cuối cùng, Frondier bắt đầu chế tạo một vật thể mới từ kim loại đặc biệt, đặt tên là 'Obsidian'.",
+ "boi_canh": "Trong phòng trưng bày, nơi diễn ra buổi lễ trao kiếm.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Quinie",
+  "Enfer",
+  "Ellen",
+  "Aster Evans",
+  "Sigurd",
+  "Thane"
+ ],
+ "su_kien": [
+  "Sự xuất hiện của Gram, thanh kiếm thần thoại.",
+  "Frondier phá vỡ chiếc quan tài chứa Gram.",
+  "Quinie nghi ngờ Frondier có sức mạnh đặc biệt.",
+  "Aster và Thane thảo luận về sự kiện và tin tức liên quan đến Mistilteinn.",
+  "Frondier bắt đầu chế tạo 'Obsidian', một vật thể mới từ kim loại đặc biệt."
+ ],
+ "quan_he": [
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Cha của Frondier, quan sát hành động của con trai.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai của Enfer, hành động phá vỡ quan tài.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Thane",
+   "loai": "ban_be",
+   "mo_ta": "Hai người bạn, thảo luận về sự kiện.",
+   "cach_goi": "gọi tên Thane, thân mật"
+  },
+  {
+   "a": "Thane",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Hai người bạn, thảo luận về sự kiện.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Frondier với sự nghi ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Bị Quinie quan sát, không nhận ra.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Cảm thấy lo lắng về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thane",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Nói về Frondier với sự ngạc nhiên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mistilteinn (ban đầu được cho là thanh kiếm thật, sau đó hóa ra là giả)",
+  "Obsidian (tên mới của vật thể mà Frondier chế tạo)"
+ ],
+ "stats": {
+  "tokens": 940,
+  "seconds": 28.1
+ }
+}

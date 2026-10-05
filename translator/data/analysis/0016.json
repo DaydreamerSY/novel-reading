@@ -1,0 +1,80 @@
+{
+ "number": 16,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Quinie tình cờ gặp nhau tại Bảo tàng Remuze. Frondier khẳng định bức tranh mà Quinie đang chiêm ngưỡng là giả mạo, dẫn đến một cuộc đối đầu và một kèo cá cược táo bạo giữa hai người: nếu Frondier thắng, Quinie sẽ gửi tiền cho gia đình Roach; nếu Quinie thắng, Frondier phải làm điều ngược lại. Điều đáng ngạc nhiên là Frondier yêu cầu nhận bức tranh thay vì tiền mặt.",
+ "boi_canh": "Tại Bảo tàng Remuze, vào một buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Anne",
+  "Frontier",
+  "Quinnie"
+ ],
+ "su_kien": [
+  "Frondier và Quinie tình cờ gặp nhau tại Bảo tàng Remuze.",
+  "Frondier khẳng định bức tranh mà Quinie đang xem là giả mạo.",
+  "Quinie đề nghị một kèo cá cược liên quan đến bức tranh.",
+  "Frondier chấp nhận kèo cá cược và yêu cầu nhận bức tranh thay vì tiền mặt.",
+  "Anne bày tỏ sự ngạc nhiên trước yêu cầu của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Quinie",
+   "b": "Anne",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Quinie có vẻ hơi khó chịu với sự nhiệt tình của Anne.",
+   "cach_goi": "gọi tên Anne, thân mật"
+  },
+  {
+   "a": "Anne",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Anne có vẻ hơi mệt mỏi và bối rối.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Quinie có vẻ rất bất ngờ và tò mò về sự xuất hiện của Frondier.",
+   "cach_goi": "gọi tên Frondier, lịch sự nhưng tò mò"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier có vẻ không nhận ra hoặc phớt lờ sự hiện diện của Quinie.",
+   "cach_goi": "gọi tên Quinie, lạnh lùng"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, Quinie muốn làm rõ quan điểm của Frondier.",
+   "cach_goi": "gọi tên Frondier, lịch sự nhưng có chút trách cứ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, Frondier trả lời ngắn gọn và có vẻ không quan tâm.",
+   "cach_goi": "gọi tên Quinie, lạnh lùng"
+  },
+  {
+   "a": "Anne",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Anne có vẻ ngạc nhiên và lo lắng về hành động của Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier (nhân vật chính)",
+  "Frontier (tên trùng lặp)"
+ ],
+ "stats": {
+  "tokens": 917,
+  "seconds": 27.5
+ }
+}

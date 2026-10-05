@@ -1,0 +1,74 @@
+{
+ "number": 242,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đối mặt với Armel de Viet, người tự xưng là cựu trưởng tộc Viet và tiết lộ những kế hoạch tàn nhẫn của Indus để thao túng các gia tộc khác. Armel dự định giết Quinie để tái khẳng định vị thế lãnh đạo của mình và trừng phạt Kora. Frondier phát hiện ra Armel đã quan sát quá trình xóa ký ức của Quinie, nhưng sau đó nhận ra có điều gì đó bất thường: người trước mặt không phải là Frondier thật mà là một kẻ giả mạo.",
+ "boi_canh": "Một nơi bí mật, thời điểm chưa xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Kora",
+  "Gregory",
+  "Serf",
+  "Armel",
+  "Armel de Viet"
+ ],
+ "su_kien": [
+  "Armel tiết lộ anh ta là cựu trưởng tộc Viet, Armel de Viet.",
+  "Armel phác thảo kế hoạch giết Quinie và trừng phạt Kora để tái khẳng định vị thế của mình.",
+  "Frondier phát hiện ra Armel đã quan sát quá trình xóa ký ức của Quinie.",
+  "Frondier nhận ra người trước mặt không phải là anh ta mà là một kẻ giả mạo.",
+  "Kẻ giả mạo tấn công Armel bằng thanh kiếm."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Armel",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, nghi ngờ và đối nghịch.",
+   "cach_goi": "gọi 'Mr. Armel', lễ phép"
+  },
+  {
+   "a": "Armel",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, nghi ngờ và đối nghịch.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, mối quan hệ chưa rõ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Armel",
+   "b": "Kora",
+   "loai": "ke_thu",
+   "mo_ta": "Mối quan hệ thù địch, Armel có kế hoạch trừng phạt Kora.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Armel",
+   "b": "Gregory",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, liên quan đến quá khứ của Indus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Armel",
+   "b": "Serf",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, liên quan đến quá khứ của Indus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Armel de Viet (tên đầy đủ của Armel)"
+ ],
+ "stats": {
+  "tokens": 821,
+  "seconds": 26.3
+ }
+}

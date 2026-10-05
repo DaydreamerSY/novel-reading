@@ -1,0 +1,102 @@
+{
+ "number": 279,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi căng thẳng trên tàu giảm bớt, Elodie nhận thấy có điều gì đó bất thường liên quan đến Frondier. Cô và Aster đều nghi ngờ anh ta đã gặp rắc rối ở Constel và đang thực hiện công việc tình nguyện như hình phạt. Aten chất vấn Jane về Frondier, nhưng bị né tránh. Cuối cùng, Sybil xuất hiện và chỉ đường đi tìm Frondier, khiến Elodie và Aten quyết định làm theo.",
+ "boi_canh": "Trên tàu đến Cropolis, sau khi một sự kiện căng thẳng được giải quyết.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Jane",
+  "Lunia"
+ ],
+ "su_kien": [
+  "Không khí trên tàu dịu đi sau khi một sự kiện căng thẳng được giải quyết.",
+  "Elodie và Aster cùng nghi ngờ Frondier liên quan đến một sự cố ở Constel.",
+  "Aten chất vấn Jane về nơi ở của Frondier.",
+  "Sybil chỉ đường đi tìm Frondier dựa trên 'cảm giác'.",
+  "Elodie và Aten quyết định làm theo Sybil."
+ ],
+ "quan_he": [
+  {
+   "a": "Elodie",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân, cùng suy đoán về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân, cùng suy đoán về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "Tam công chúa chất vấn giáo viên về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên né tránh câu hỏi của Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Jane",
+   "loai": "dong_minh",
+   "mo_ta": "Học sinh hỏi giáo viên về Frondier.",
+   "cach_goi": "gọi tên Jane, thân mật"
+  },
+  {
+   "a": "Jane",
+   "b": "Elodie",
+   "loai": "dong_minh",
+   "mo_ta": "Giáo viên cố gắng chuyển hướng sự chú ý của Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Elodie biết rõ sự thích của Sybil với Frondier.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sybil hào hứng khi được nhắc đến Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Jane",
+   "loai": "khac",
+   "mo_ta": "Aten nghi ngờ Jane đang che giấu điều gì đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Aten",
+   "loai": "khac",
+   "mo_ta": "Jane cảm thấy áp lực từ Aten và cố gắng né tránh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Công việc tình nguyện của Frondier có thể là hình phạt cho một hành động xấu ở Constel."
+ ],
+ "stats": {
+  "tokens": 1052,
+  "seconds": 32.5
+ }
+}

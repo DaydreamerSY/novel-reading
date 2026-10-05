@@ -1,0 +1,80 @@
+{
+ "number": 24,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Jane kiểm tra lối đi mà Frondier và Sybil đã vượt qua, nhóm nhận ra giao tiếp với họ là không thể. Aster muốn dùng sức mạnh của mình để phá vỡ rào cản, nhưng Jane ngăn lại vì sợ gây sụp đổ dungeon. Sau đó, Frondier cố tình tách Sybil khỏi nhóm để kiểm soát những ảnh hưởng từ khả năng thao túng số phận của cô ấy và bảo vệ Aster.",
+ "boi_canh": "Bên trong một ngục tối cấp thấp, thời điểm hiện tại là khi nhóm đang chia cắt.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Quinie",
+  "Jane"
+ ],
+ "su_kien": [
+  "Jane kiểm tra lối đi của Frondier và Sybil, xác nhận không thể vượt qua.",
+  "Aster muốn dùng sức mạnh Baldur để phá vỡ rào cản.",
+  "Jane ngăn Aster vì lo sợ sụp đổ dungeon.",
+  "Frondier cố tình kích hoạt bẫy để tách Sybil khỏi nhóm.",
+  "Frondier và Sybil đối mặt với một bẫy tên, Frondier giả vờ bị trúng đạn."
+ ],
+ "quan_he": [
+  {
+   "a": "Jane",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội lo lắng về tình hình của Frondier và Sybil.",
+   "cach_goi": "gọi tên Quinie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "Học sinh kính trọng lời khuyên của người lớn hơn.",
+   "cach_goi": "gọi tên Jane, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cạnh tranh ngầm, Frondier muốn bảo vệ Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Mối quan hệ phức tạp, Frondier đang cố gắng kiểm soát Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Mục đích của Frondier là thao túng số phận Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil có cảm xúc tiêu cực đối với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Aster",
+   "loai": "thay_tro",
+   "mo_ta": "Người lớn hơn tin tưởng khả năng của học sinh.",
+   "cach_goi": "gọi tên Aster, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Nhân vật chính, có kiến thức về bẫy và tính cách lười biếng.",
+  "Sybil: Có khả năng thao túng số phận, quan tâm đến Aster."
+ ],
+ "stats": {
+  "tokens": 872,
+  "seconds": 26.2
+ }
+}

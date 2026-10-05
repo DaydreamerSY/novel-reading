@@ -1,0 +1,57 @@
+{
+ "number": 485,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Elodie đang trò chuyện trong một thế giới vĩnh cửu ban ngày. Frondier ngạc nhiên vì Elodie lại là một người kể chuyện thú vị, khác với vẻ ngoài của cô ấy. Khi Elodie bày tỏ mong muốn tạo ra một thế giới nơi tài năng không quan trọng, Frondier cảm nhận được một xung lực kỳ lạ trong cơ thể mình và nhận ra tình cảm sâu sắc ẩn giấu đằng sau lời nói đó. Một con quái vật khổng lồ đột ngột xuất hiện, và Elodie quyết định tự mình đối phó với nó để bảo vệ Frondier.",
+ "boi_canh": "Một thế giới vĩnh cửu ban ngày, nơi Frondier và Elodie đang trò chuyện.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Merlin",
+  "Arthur"
+ ],
+ "su_kien": [
+  "Frondier bất ngờ vì Elodie là một người kể chuyện thú vị.",
+  "Elodie bày tỏ mong muốn tạo ra một thế giới không còn quan trọng tài năng.",
+  "Frondier cảm nhận được một xung lực kỳ lạ trong cơ thể khi nghe lời nói của Elodie.",
+  "Một con quái vật khổng lồ đột ngột xuất hiện.",
+  "Elodie quyết định tự mình đối phó với con quái vật để bảo vệ Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier đang dần nhận ra tình cảm sâu sắc của mình dành cho Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie quan tâm và lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Fron, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Merlin",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arthur",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Fron: Tên thân mật của Frondier được Elodie gọi."
+ ],
+ "stats": {
+  "tokens": 672,
+  "seconds": 20.0
+ }
+}

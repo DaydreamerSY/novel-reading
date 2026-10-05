@@ -1,0 +1,102 @@
+{
+ "number": 128,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau sự cố trước đó, tin đồn về việc Azier trở thành giáo viên lan truyền khắp Constel. Frondier bị đánh bại trong trận đấu tập cũng nhanh chóng chìm xuống. Aster cảm thấy bất an vì những lời chế giễu và tìm cách để cải thiện bản thân. Anh quyết định xin Ellen dạy kiếm nhưng lại phát hiện ra cô ấy đang gặp một thợ rèn, Neil Jack, do chính Frondier giới thiệu.",
+ "boi_canh": "Trong khuôn viên Constel sau buổi học.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Ellen",
+  "Lunia",
+  "Neil",
+  "Neil Jack"
+ ],
+ "su_kien": [
+  "Tin đồn về Azier trở thành giáo viên lan truyền.",
+  "Aster bị chế giễu vì thất bại trước Azier.",
+  "Lunia an ủi Aster và nhắc đến Frondier.",
+  "Aster quyết định xin Ellen dạy kiếm.",
+  "Ellen đang gặp Neil Jack, một thợ rèn được giới thiệu bởi Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Lunia",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Lunia quan tâm và an ủi Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster lắng nghe lời an ủi của Lunia.",
+   "cach_goi": "gọi tên Lunia, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, Frondier là người có cấp bậc cao hơn Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, Frondier là người có cấp bậc cao hơn Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Aster",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp, Ellen là chị gái của Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Ellen",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp, Ellen là chị gái của Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Neil Jack",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Thợ rèn và khách hàng, Neil đang giới thiệu sản phẩm của mình cho Ellen.",
+   "cach_goi": "gọi tên Ellen, lễ phép"
+  },
+  {
+   "a": "Ellen",
+   "b": "Neil Jack",
+   "loai": "nguoi_la",
+   "mo_ta": "Thợ rèn và khách hàng, Neil đang giới thiệu sản phẩm của mình cho Ellen.",
+   "cach_goi": "gọi tên Neil Jack, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Neil Jack",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ, Frondier đã giới thiệu Neil cho Ellen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Neil Jack",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ, Frondier đã giới thiệu Neil cho Ellen.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Neil Jack: Thợ rèn được Frondier giới thiệu cho Ellen."
+ ],
+ "stats": {
+  "tokens": 1060,
+  "seconds": 32.7
+ }
+}

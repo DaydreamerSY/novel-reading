@@ -1,0 +1,87 @@
+{
+ "number": 182,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối mặt với Merlin khi Merlin tấn công anh bằng các nhánh cây phép thuật. Frondier vạch trần sự thật rằng Merlin hiện tại chỉ là một ảo ảnh được tạo ra từ giấc mơ của Merlin quá khứ để bảo vệ thanh kiếm Excalibur cho King Arthur đã qua đời. Nimue và Selena vô cùng sốc trước những lời tiết lộ này, còn Merlin thì phải đối mặt với sự thật phũ phàng về bản thân mình.",
+ "boi_canh": "Tại hồ nước, trong một khoảnh khắc căng thẳng giữa các nhân vật huyền bí.",
+ "nhan_vat": [
+  "Frondier",
+  "Merlin",
+  "Nimue",
+  "Arthur",
+  "Lady of the Lake",
+  "Selena"
+ ],
+ "su_kien": [
+  "Merlin tấn công Frondier bằng các nhánh cây phép thuật.",
+  "Frondier vạch trần bản chất ảo ảnh của Merlin.",
+  "Nimue và Selena sốc trước sự thật về Merlin.",
+  "Merlin nhận ra mình chỉ là một phần của giấc mơ.",
+  "Bàn tay của Frondier đi xuyên qua tay của Merlin, chứng minh anh ta là ảo ảnh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Merlin",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier vạch trần sự thật về Merlin.",
+   "cach_goi": "gọi 'Lord Merlin', lễ phép"
+  },
+  {
+   "a": "Merlin",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Tấn công và sau đó bị vạch trần.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nimue",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Cố gắng ngăn cản Merlin và sau đó bị sốc bởi những lời nói của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Nimue",
+   "loai": "thay_tro",
+   "mo_ta": "Cảnh báo Nimue về Merlin.",
+   "cach_goi": "gọi tên Nimue, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Quan sát sự kiện và bày tỏ sự ngạc nhiên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Merlin",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không hiểu câu trả lời của Merlin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nimue",
+   "b": "Merlin",
+   "loai": "cap_tren",
+   "mo_ta": "Cố gắng bảo vệ Merlin và phủ nhận những lời nói của Frondier.",
+   "cach_goi": "gọi 'Lord Merlin', lễ phép"
+  },
+  {
+   "a": "Merlin",
+   "b": "Nimue",
+   "loai": "cap_tren",
+   "mo_ta": "Không nghe theo lời khuyên của Nimue.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Merlin hiện tại là một ảo ảnh được tạo ra từ giấc mơ của Merlin quá khứ, để bảo vệ thanh kiếm Excalibur cho King Arthur đã qua đời."
+ ],
+ "stats": {
+  "tokens": 952,
+  "seconds": 28.3
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "number": 201,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier chứng kiến sự xuất hiện của giáo viên mới môn Kỹ Năng Chiến Đấu Cơ Bản tại Constel - Pascal Schilitz. Pascal gây ấn tượng bằng khả năng sử dụng aura và tuyên bố mình là một hiệp sĩ từ cung điện hoàng gia. Tuy nhiên, khi Pascal yêu cầu Frondier thể hiện aura của mình, mọi thứ trở nên kỳ lạ khi những lời nói dối trước đó bị phơi bày và Pascal có vẻ như biết nhiều hơn những gì anh ta tiết lộ.",
+ "boi_canh": "Trong khán phòng của Constel, bắt đầu học kỳ mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Pascal",
+  "Alex",
+  "Frondier de Roach",
+  "Aster Evans",
+  "Pascal Schilitz"
+ ],
+ "su_kien": [
+  "Pascal Schilitz trở thành giáo viên môn Kỹ Năng Chiến Đấu Cơ Bản tại Constel.",
+  "Pascal phô diễn khả năng sử dụng aura hình kiếm.",
+  "Pascal tuyên bố mình là hiệp sĩ từ cung điện hoàng gia.",
+  "Pascal yêu cầu Frondier thể hiện aura của mình.",
+  "Những lời nói dối trước đó về việc Frondier không thể sử dụng aura bị phơi bày."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh. Frondier bối rối trước yêu cầu của Pascal.",
+   "cach_goi": "gọi tên Pascal, không rõ (có vẻ trịch thượng)"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh. Pascal có vẻ như đang cố tình làm khó Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật (có vẻ mỉa mai)"
+  },
+  {
+   "a": "Pascal",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Pascal có vẻ như đang cố tình làm khó Aster.",
+   "cach_goi": "gọi tên Aster, thân mật (có vẻ mỉa mai)"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn, nhưng Aster không phản hồi khi Pascal gọi tên Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn, Frondier tìm kiếm sự giúp đỡ từ Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pascal Schilitz: Hiệp sĩ từ cung điện hoàng gia (tên đầy đủ)"
+ ],
+ "stats": {
+  "tokens": 760,
+  "seconds": 22.9
+ }
+}

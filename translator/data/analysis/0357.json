@@ -1,0 +1,79 @@
+{
+ "number": 357,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nuốt Trái Tim Rồng để hồi phục, Frondier và Selena chuẩn bị đối mặt với một trận chiến lớn. Họ trao đổi những lời lẽ sáo rỗng nhưng đầy cảm xúc trước khi lên lưng Cassian vượt qua bức tường quái vật. Trong lúc đó, cha của Frondier, Enfer, lo lắng cho sự an toàn của con trai mình nhưng vẫn phải giữ vị trí để bảo vệ tuyến sau. Cuối cùng, Enfer ra lệnh mở đường cho Frondier tiến về phía trước.",
+ "boi_canh": "Trên chiến trường hỗn loạn, giữa một trận chiến ác liệt.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Azier",
+  "Enfer",
+  "Sylvain",
+  "Cassian",
+  "Penelope"
+ ],
+ "su_kien": [
+  "Frondier nuốt Trái Tim Rồng.",
+  "Penelope cloth của Frondier phát sáng.",
+  "Selena bày tỏ lòng trung thành với Frondier.",
+  "Frondier và Selena lên lưng Cassian vượt qua bức tường quái vật.",
+  "Enfer ra lệnh mở đường cho Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_yeu",
+   "mo_ta": "tình cảm sâu đậm, Frondier có vẻ hơi ngại ngùng.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "thể hiện sự trung thành tuyệt đối và một chút buồn bã.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cassian",
+   "loai": "thay_tro",
+   "mo_ta": "chủ và vật cưỡi, Frondier tin tưởng vào khả năng của Cassian.",
+   "cach_goi": "gọi tên Cassian, thân mật"
+  },
+  {
+   "a": "Cassian",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "vật cưỡi thông minh, hiểu ý chủ nhân.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "cha và con, Enfer lo lắng cho sự an toàn của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "con và cha, Frondier không biết Enfer đang lo lắng cho mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "người có trách nhiệm bảo vệ Frondier, đã che giấu hành động của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 854,
+  "seconds": 25.5
+ }
+}

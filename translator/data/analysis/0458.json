@@ -1,0 +1,86 @@
+{
+ "number": 458,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier rời khỏi phòng, Lily bày tỏ tình cảm với anh và tuyên bố sẽ có được anh. Monty muốn nhận nuôi Frondier vì thấy anh tiềm năng, trong khi Ludovic muốn anh làm việc dưới quyền mình. Daisy và Ludovic phân tích kỹ thuật rune mà Frondier đã sử dụng, còn Medart chỉ ra một cột mana ẩn mà Frondier để lại. Các Zodiacs bắt đầu suy đoán về ý nghĩa của những hành động này.",
+ "boi_canh": "Trong phòng họp của các Zodiac, sau khi Frondier rời đi.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Enfer",
+  "Monty",
+  "Ludovic",
+  "Daisy",
+  "Medart"
+ ],
+ "su_kien": [
+  "Lily bày tỏ tình cảm với Frondier.",
+  "Monty tuyên bố muốn nhận nuôi Frondier.",
+  "Ludovic đề nghị Frondier làm việc dưới quyền mình.",
+  "Daisy và Ludovic phân tích kỹ thuật rune của Frondier.",
+  "Medart chỉ ra cột mana ẩn mà Frondier để lại."
+ ],
+ "quan_he": [
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Lily bày tỏ tình cảm và muốn có được Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier không phản hồi lại tình cảm của Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Monty tranh luận với Lily về việc nhận nuôi Frondier.",
+   "cach_goi": "gọi tên Lily, lịch sự"
+  },
+  {
+   "a": "Lily",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Lily phản đối ý định nhận nuôi Frondier của Monty.",
+   "cach_goi": "gọi tên Monty, lịch sự"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Daisy",
+   "loai": "ban_be",
+   "mo_ta": "Ludovic và Daisy thảo luận về kỹ thuật rune của Frondier.",
+   "cach_goi": "gọi tên Daisy, thân mật"
+  },
+  {
+   "a": "Daisy",
+   "b": "Ludovic",
+   "loai": "ban_be",
+   "mo_ta": "Ludovic và Daisy thảo luận về kỹ thuật rune của Frondier.",
+   "cach_goi": "gọi tên Ludovic, thân mật"
+  },
+  {
+   "a": "Medart",
+   "b": "Lily",
+   "loai": "cap_tren",
+   "mo_ta": "Medart đưa ra lời khuyên cho Lily.",
+   "cach_goi": "gọi tên Lily, lịch sự"
+  },
+  {
+   "a": "Monty",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Monty nhìn Lily với vẻ lo lắng.",
+   "cach_goi": "gọi tên Lily, lịch sự"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 872,
+  "seconds": 25.9
+ }
+}

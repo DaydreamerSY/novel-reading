@@ -1,0 +1,62 @@
+{
+ "number": 355,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Sylvain phát hiện ra Cyclops sắp phá hủy rào chắn bằng những tảng đá khổng lồ. Frondier đã sử dụng phép thuật để phá vỡ các tảng đá, nhưng sau đó bị kiệt sức nghiêm trọng. Selena bất ngờ xuất hiện và cứu Frondier khỏi tình trạng nguy hiểm.",
+ "boi_canh": "Trên chiến trường hỗn loạn, giữa trận chiến với Cyclops.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Enfer",
+  "Sylvain"
+ ],
+ "su_kien": [
+  "Cyclops định phá hủy rào chắn bằng tảng đá khổng lồ.",
+  "Frondier sử dụng phép thuật để phá vỡ tảng đá, nhưng bị kiệt sức.",
+  "Sylvain bảo vệ các binh lính khỏi mảnh vỡ của tảng đá.",
+  "Selena bất ngờ xuất hiện và cứu Frondier.",
+  "Frondier trải qua tình trạng kiệt sức nghiêm trọng."
+ ],
+ "quan_he": [
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Sylvain là chỉ huy, quan tâm đến sự an toàn của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier báo cáo tình hình và yêu cầu sự hỗ trợ của Sylvain.",
+   "cach_goi": "gọi tên Sylvain, lễ phép"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Sylvain nhìn thấy Selena, ngạc nhiên vì sự xuất hiện của cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Selena quan tâm và bảo vệ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Frondier nhìn thấy Selena, ngạc nhiên vì sự xuất hiện của cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 660,
+  "seconds": 19.8
+ }
+}

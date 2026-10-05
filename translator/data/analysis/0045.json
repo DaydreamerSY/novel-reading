@@ -1,0 +1,66 @@
+{
+ "number": 45,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Ellen quan sát trận chiến giữa Frondier và golem, đồng thời suy ngẫm về hành động giúp đỡ bất ngờ của Frondier. Cô nhận ra rằng Frondier đang trì hoãn thời gian để cô hồi phục và tìm cơ hội trốn thoát. Edwin xuất hiện và tỏ ra tức giận với Ellen, tiết lộ những lời thú tội đáng lo ngại về việc đã giết người. Cuối cùng, Frondier nhận ra 'sự tha hóa' của Edwin liên quan đến một thế lực thần thánh bí ẩn.",
+ "boi_canh": "Một chiến trường, nơi diễn ra trận chiến giữa Frondier và golem.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Ellen",
+  "Edwin",
+  "Edwin von Behetorio"
+ ],
+ "su_kien": [
+  "Ellen kiểm tra vết thương trên bụng.",
+  "Frondier giúp đỡ một người lạ (có lẽ là Ellen) mà không rõ lý do.",
+  "Edwin xuất hiện và la hét với Ellen, tiết lộ những lời thú tội đáng lo ngại.",
+  "Golem bắt đầu mô phỏng kỹ thuật của Azier.",
+  "Frondier nhận ra 'sự tha hóa' của Edwin liên quan đến một thế lực thần thánh bí ẩn."
+ ],
+ "quan_he": [
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Ellen quan sát và suy nghĩ về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier chiến đấu, Ellen quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Ellen",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em ruột thịt.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Edwin",
+   "b": "Ellen",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ đối địch.",
+   "cach_goi": "không nói chuyện trực tiếp, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trên chiến trường.",
+   "cach_goi": "không nói chuyện trực tiếp, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Edwin von Behetorio (tên đầy đủ của Edwin)"
+ ],
+ "stats": {
+  "tokens": 701,
+  "seconds": 21.1
+ }
+}

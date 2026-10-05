@@ -1,0 +1,82 @@
+{
+ "number": 177,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp Merlin trong một khu rừng kỳ lạ và cố gắng tránh chiến đấu để đến được hồ nước. Sau khi Merlin đe dọa giết Frondier vì biết về hồ, Frondier sử dụng Dragonheart với Penelope's fabric làm vật tế thay thế, khiến Merlin nhận ra mối đe dọa từ Frondier. Cuối cùng, Frondier giải trừ Mjölnir và cân nhắc việc sử dụng lại Dragonheart vào ngày hôm sau.",
+ "boi_canh": "Trong một khu rừng kỳ lạ, Frondier đối mặt với Merlin.",
+ "nhan_vat": [
+  "Frondier",
+  "Merlin",
+  "Selena",
+  "Renzo",
+  "Cassian",
+  "Arthur",
+  "Penelope"
+ ],
+ "su_kien": [
+  "Frondier gặp Merlin và cố gắng giao tiếp.",
+  "Merlin chặn đường Frondier bằng cành cây.",
+  "Frondier tuyên bố không đến gây hại cho Merlin.",
+  "Merlin đe dọa giết Frondier vì biết về hồ nước.",
+  "Frondier sử dụng Dragonheart với Penelope's fabric làm vật tế."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Merlin",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, có sự căng thẳng và đe dọa.",
+   "cach_goi": "gọi tên Merlin, lạnh lùng"
+  },
+  {
+   "a": "Merlin",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, có sự căng thẳng và đe dọa.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đứng cạnh nhau, quan sát tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đứng cạnh nhau, quan sát tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cassian",
+   "loai": "gia_dinh",
+   "mo_ta": "Quan tâm đến tình trạng của Cassian.",
+   "cach_goi": "gọi tên Cassian, thân mật"
+  },
+  {
+   "a": "Cassian",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Không phản ứng với lời nói của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Sử dụng Penelope's fabric làm vật tế.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Dragonheart: Được Frondier dệt và sử dụng, có vẻ như là một bản sao của Dragonheart thật.",
+  "Penelope's fabric: Một loại vải đặc biệt có khả năng tự phục hồi."
+ ],
+ "stats": {
+  "tokens": 863,
+  "seconds": 25.7
+ }
+}

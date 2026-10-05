@@ -1,0 +1,69 @@
+{
+ "number": 580,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier chất vấn Amelie về lý do cô ấy tiếp cận anh trong một buổi tiệc hoàng gia. Cuộc trò chuyện dẫn đến việc Amelie tiết lộ rằng chú của cô, Joseph von Wexler, đã giới thiệu Frondier cho cô như một 'viên ngọc ẩn' và đề xuất một giải pháp thay đổi nền tảng nhân loại liên quan đến Mana. Frondier nhận ra mối nguy hiểm tiềm ẩn khi Amelie vô tình tiết lộ thông tin bí mật về Shadow Agency, khiến anh quyết định rút lui để bảo vệ cả Amelie và Đế quốc.",
+ "boi_canh": "Một buổi tiệc hoàng gia, thời điểm không rõ.",
+ "nhan_vat": [
+  "Frondier",
+  "Amelie",
+  "Philly",
+  "Lily",
+  "Eden",
+  "Mei",
+  "Metamorph",
+  "Joseph von Wexler",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Frondier chất vấn Amelie về lý do cô ấy tiếp cận anh tại buổi tiệc hoàng gia.",
+  "Amelie tiết lộ rằng chú của cô, Joseph von Wexler, đã giới thiệu Frondier cho cô.",
+  "Amelie vô tình tiết lộ thông tin bí mật về Shadow Agency và 'Mana Injection' từ lời giới thiệu của chú mình.",
+  "Frondier nhận ra sự nguy hiểm tiềm ẩn khi Amelie tiết lộ thông tin này.",
+  "Frondier quyết định rút lui để bảo vệ Amelie và Đế quốc."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Amelie",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier chất vấn Amelie về quá khứ; mối quan hệ ban đầu còn xa lạ.",
+   "cach_goi": "gọi tên Amelie, không rõ (có vẻ tôn trọng)"
+  },
+  {
+   "a": "Amelie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Amelie trả lời câu hỏi của Frondier; có vẻ bối rối và vui mừng.",
+   "cach_goi": "gọi tên Frondier, thân mật (có vẻ hơi ngượng ngùng)"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Mối quan hệ cấp trên - cấp dưới, Frondier đã làm việc cùng Philly về Shadow Agency.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Amelie",
+   "b": "Joseph von Wexler",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ chú - cháu, Amelie tin tưởng và kính trọng Joseph.",
+   "cach_goi": "gọi 'chú', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "thay_tro",
+   "mo_ta": "Lily giao nhiệm vụ cho Frondier, có vẻ như cô ấy đang thử nghiệm anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Joseph von Wexler: Chú của Amelie, liên quan đến Shadow Agency và 'Mana Injection'."
+ ],
+ "stats": {
+  "tokens": 824,
+  "seconds": 25.9
+ }
+}

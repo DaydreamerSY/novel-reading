@@ -1,0 +1,145 @@
+{
+ "number": 560,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đối mặt với Belphegor và đội quân xác sống do hắn tạo ra. Frondier vạch trần những giả định sai lầm của Belphegor về sức mạnh và vị trí của mình, sử dụng một rune ẩn và xưởng chế tác được dịch chuyển đến chiến trường. Sau khi bị đánh bại bởi đòn tấn công của Belphegor, Frondier nhận thấy sự xuất hiện của Elodie và các đồng đội khác từ Constel, những người đã đến để hỗ trợ anh.",
+ "boi_canh": "Một trận chiến giữa Frondier và Belphegor trên một chiến trường đầy xác sống.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Osprey",
+  "Mei",
+  "Nether",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Belphegor điều khiển đội quân xác sống tấn công.",
+  "Frondier vạch trần những giả định sai lầm của Belphegor về sức mạnh và vị trí của mình.",
+  "Frondier kích hoạt rune 'Menosorpo' ẩn và dịch chuyển xưởng chế tác đến chiến trường.",
+  "Belphegor tấn công Frondier, khiến anh bị thương nặng.",
+  "Elodie và các đồng đội khác từ Constel đến hỗ trợ Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier vạch trần kế hoạch của Belphegor.",
+   "cach_goi": "gọi 'Belphegor', lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Belphegor chế nhạo và tấn công Frondier.",
+   "cach_goi": "gọi tên Frondier, khinh bỉ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Elodie lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Aster lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Sybil lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Selena lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Mei.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Mei lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Aten lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Osprey ngạc nhiên trước sức mạnh của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1571,
+  "seconds": 49.3
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "number": 482,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier phát hiện Elodie đang ngủ sâu và không thể đánh thức được. Anh sử dụng kỹ năng 'Phân tích' để tìm hiểu nguyên nhân, phát hiện ra cô đang tự gây ra trạng thái 'Ngủ Vĩnh Hằng'. Để giải cứu Elodie, Frondier nhờ Mei sử dụng sức mạnh 'Ý thức Thứ Sáu' của mình và sau đó quyết định cùng nhau bước vào giấc mơ của Elodie.",
+ "boi_canh": "Trong tầng hầm bí mật dưới cabin, khi Frondier đang cố gắng tìm hiểu nguyên nhân khiến Elodie hôn mê.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie de Inies Rishae",
+  "Osprey",
+  "Mei",
+  "Alex"
+ ],
+ "su_kien": [
+  "Frondier phát hiện Elodie đang ngủ sâu và không thể đánh thức.",
+  "Kỹ năng 'Phân tích' cho biết Elodie đang ở trạng thái 'Ngủ Vĩnh Hằng'.",
+  "Mei sử dụng sức mạnh 'Ý thức Thứ Sáu' để nhìn thấy Elodie.",
+  "Mei xác nhận Elodie đã tự gây ra phép thuật này.",
+  "Frondier và Mei quyết định cùng nhau bước vào giấc mơ của Elodie."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie de Inies Rishae",
+   "loai": "gia_dinh",
+   "mo_ta": "Người thân thiết lo lắng cho tình trạng của Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie de Inies Rishae",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Đang hôn mê, cần sự giúp đỡ từ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè tin tưởng lẫn nhau để giải quyết vấn đề.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Người bạn đồng hành, hỗ trợ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Alex",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "ke_thu",
+   "mo_ta": "Không tương tác trực tiếp trong chương này, nhưng có liên quan đến tình trạng của Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Inies Rishae: Tên đầy đủ của Elodie sau khi thức tỉnh thần tính."
+ ],
+ "stats": {
+  "tokens": 802,
+  "seconds": 23.9
+ }
+}

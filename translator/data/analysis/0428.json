@@ -1,0 +1,78 @@
+{
+ "number": 428,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối mặt với Angus, người đang cố gắng biện minh cho những hành động của mình bằng cách nói về việc hy sinh vì một giấc mơ lớn lao. Sau khi vạch trần sự thật rằng Angus chỉ đang lợi dụng nó để kiếm tiền từ vũ khí, Frondier đã lấy đi tất cả nghiên cứu của Angus và bắt giữ hắn. Dier nhận được thuốc giải độc sau khi bị tước đoạt Mana, và Ellen đặt câu hỏi về nguồn gốc lần đầu tiên Dier có được việc tiêm Mana.",
+ "boi_canh": "Trong phòng giam Obsidian, nơi Angus bị giam cầm.",
+ "nhan_vat": [
+  "Frondier",
+  "Ellen",
+  "Dier",
+  "Angus"
+ ],
+ "su_kien": [
+  "Angus biện minh cho hành động của mình bằng cách nói về hy sinh vì một giấc mơ lớn lao.",
+  "Frondier vạch trần sự thật rằng Angus chỉ đang lợi dụng nó để kiếm tiền từ vũ khí.",
+  "Frondier lấy đi tất cả nghiên cứu của Angus và bắt giữ hắn.",
+  "Dier nhận được thuốc giải độc sau khi bị tước đoạt Mana.",
+  "Ellen đặt câu hỏi về nguồn gốc lần đầu tiên Dier có được việc tiêm Mana."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Angus",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier vạch trần âm mưu của Angus.",
+   "cach_goi": "gọi tên Angus, lạnh lùng"
+  },
+  {
+   "a": "Angus",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cố gắng biện minh và sau đó tức giận khi bị vạch trần.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Quan sát Frondier và lo lắng cho tình trạng của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Frondier trao thuốc giải độc cho Ellen.",
+   "cach_goi": "gọi tên Ellen, không rõ"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Nhận thuốc giải độc từ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Hỏi về nguồn gốc việc tiêm Mana của Dier.",
+   "cach_goi": "gọi tên Dier, lễ phép"
+  },
+  {
+   "a": "Dier",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Trả lời câu hỏi của Ellen về việc tiêm Mana.",
+   "cach_goi": "gọi tên Ellen, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính."
+ ],
+ "stats": {
+  "tokens": 858,
+  "seconds": 25.7
+ }
+}

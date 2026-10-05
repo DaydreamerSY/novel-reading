@@ -1,0 +1,101 @@
+{
+ "number": 375,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi một năm mới bắt đầu, những người rời đi và những người đến. Chương này tập trung vào việc Ludwig chấp nhận lời mời gia nhập Zodiac của Đế quốc, bỏ lại Hector với trách nhiệm trông coi nhà cửa. Đồng thời, các học sinh năm nhất tại Constel bàn tán về sự xuất hiện của Aster Evans và những tin đồn xung quanh Frondier, người từng được gọi là 'Human Sloth'.",
+ "boi_canh": "Một nơi nào đó trong Đế quốc, vào đầu năm mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Enfer",
+  "Osprey",
+  "Ellen",
+  "Heldre",
+  "Ludwig",
+  "Aster Evans",
+  "Hector",
+  "Fron",
+  "Ellen Evans",
+  "Enfer de Roach",
+  "Hector Dutoit",
+  "Dutoit"
+ ],
+ "su_kien": [
+  "Heldre qua đời, tạo ra một vị trí trống trong Zodiac.",
+  "Đế quốc liên tục mời Enfer gia nhập Zodiac nhưng bị từ chối.",
+  "Ludwig chấp nhận lời mời gia nhập Zodiac và rời khỏi lãnh địa của mình.",
+  "Hector được giao nhiệm vụ trông coi nhà cửa thay cho Ludwig.",
+  "Học sinh năm nhất tại Constel bàn tán về sự xuất hiện của Aster Evans và tin đồn xung quanh Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Enfer",
+   "b": "Đế quốc",
+   "loai": "cap_tren",
+   "mo_ta": "Đế quốc liên tục mời Enfer gia nhập Zodiac, nhưng bị từ chối.",
+   "cach_goi": "gọi 'Zodiac', trịch thượng"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Hector",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, Ludwig giao nhiệm vụ trông nhà cho Hector.",
+   "cach_goi": "gọi tên Hector, lạnh lùng"
+  },
+  {
+   "a": "Hector",
+   "b": "Ludwig",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và cha, Hector phàn nàn về việc Ludwig rời đi.",
+   "cach_goi": "gọi tên Ludwig, thô lỗ"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Hector",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, Ludwig nhắc nhở Hector về quá khứ.",
+   "cach_goi": "gọi tên Hector, lạnh lùng"
+  },
+  {
+   "a": "Học sinh năm nhất",
+   "b": "Aster Evans",
+   "loai": "ban_be",
+   "mo_ta": "Các học sinh năm nhất bày tỏ sự ngưỡng mộ dành cho Aster.",
+   "cach_goi": "gọi tên Aster, ngưỡng mộ"
+  },
+  {
+   "a": "Học sinh năm nhất",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Các học sinh năm nhất bày tỏ sự ngưỡng mộ dành cho Elodie.",
+   "cach_goi": "gọi tên Elodie, ngưỡng mộ"
+  },
+  {
+   "a": "Học sinh năm nhất",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Các học sinh năm nhất bày tỏ sự ngưỡng mộ dành cho Aten.",
+   "cach_goi": "gọi tên Aten, ngưỡng mộ"
+  },
+  {
+   "a": "Học sinh năm nhất",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Các học sinh năm nhất bàn tán về danh tiếng cũ của Frondier.",
+   "cach_goi": "gọi tên Frondier, bàn tán"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)",
+  "Ellen Evans (tên đầy đủ của Ellen)",
+  "Enfer de Roach (gia chủ nhà Roach, cha của Frondier và Azir)",
+  "Hector Dutoit (con trai Ludwig, tên thật là Hector Von Urfa)",
+  "Fron (tên thân mật của Frondier)"
+ ],
+ "stats": {
+  "tokens": 1079,
+  "seconds": 32.3
+ }
+}

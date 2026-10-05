@@ -1,0 +1,89 @@
+{
+ "number": 439,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Aten hỏi lại, Frondier mỉm cười mơ hồ và tiết lộ đã gặp gỡ những người thuộc Đơn vị Bóng Tối (Shadow Unit). Anh nhớ đến Laurie, người từng thâm nhập vào doanh trại Yeranhes trước khi anh giải cứu họ. Philly nghi ngờ thông tin của Eden Hamelot và cho rằng nó có thể đã bị thay đổi. Frondier tiết lộ Angus đã cung cấp thông tin này cho anh ta, khiến Aten kinh ngạc. Cuối cùng, Philly giao cho Frondier một nhiệm vụ mới: tiêu diệt những kẻ chủ mưu đứng sau Dự án Tiêm Mana (Mana Injection), đồng thời cảnh báo về sự nguy hiểm của Đơn vị Bóng Tối.",
+ "boi_canh": "Trong phòng khách của Hoàng cung, buổi tiếp kiến bí mật diễn ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Laurie",
+  "Eden",
+  "Angus",
+  "Eden Hamelot",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Frondier tiết lộ đã gặp gỡ những người thuộc Đơn vị Bóng Tối.",
+  "Philly nghi ngờ thông tin của Eden Hamelot và cho rằng nó có thể đã bị thay đổi.",
+  "Frondier tiết lộ Angus cung cấp thông tin cho anh ta.",
+  "Philly giao nhiệm vụ mới cho Frondier: tiêu diệt những kẻ chủ mưu Dự án Tiêm Mana.",
+  "Một nhiệm vụ phụ (sub-quest) mới được tạo ra: 'Diệt trừ'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "đồng minh tiềm năng, Aten có vẻ ngạc nhiên và lo lắng trước hành động của Frondier.",
+   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu, người giao nhiệm vụ và đánh giá cao sự thẳng thắn của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "người nhận nhiệm vụ, Frondier thẳng thắn và trung thực.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "công chúa, có vẻ lo lắng và bất ngờ trước hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Angus",
+   "loai": "nguoi_la",
+   "mo_ta": "người cung cấp thông tin, đã bị Frondier buộc phải khai.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh tiềm năng, người có thể cung cấp thông tin quan trọng về Đơn vị Bóng Tối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden Hamelot",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "người cung cấp thông tin, bị Philly nghi ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "người cung cấp thông tin, Frondier đã cung cấp thông tin cho Eden.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot là tên đầy đủ của Eden."
+ ],
+ "stats": {
+  "tokens": 1050,
+  "seconds": 31.3
+ }
+}

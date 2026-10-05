@@ -1,0 +1,73 @@
+{
+ "number": 87,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier gặp gỡ và đối đầu với Renzo, kẻ bắt cóc công chúa Aten. Renzo tiết lộ động cơ của hắn là vì sự 'vui vẻ', không quan tâm đến hậu quả. Aten sử dụng phép thuật để trói buộc Renzo nhưng hắn dễ dàng thoát ra. Frondier cố gắng câu giờ để tạo điều kiện cho Aten trốn thoát và kích hoạt một vật phẩm mạnh mẽ, Khryselakatos.",
+ "boi_canh": "Một cánh đồng trống trải, trong bối cảnh một bài kiểm tra thực tế.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Renzo",
+  "Khryselakatos",
+  "Artemis"
+ ],
+ "su_kien": [
+  "Frondier bị Renzo bắt gặp và đối chất.",
+  "Renzo tiết lộ mục đích bắt cóc công chúa Aten là vì sự 'vui vẻ'.",
+  "Aten sử dụng phép thuật đóng băng Renzo, nhưng hắn dễ dàng phá vỡ.",
+  "Frondier cố gắng bảo vệ Aten và câu giờ.",
+  "Frondier kích hoạt Khryselakatos bằng cách sử dụng Menosorpo."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier cố gắng câu giờ để Aten trốn thoát.",
+   "cach_goi": "gọi tên Renzo, lạnh lùng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Xem thường và coi thường Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Aten tin tưởng và bảo vệ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Frondier bảo vệ và tạo điều kiện cho Aten trốn thoát.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Renzo",
+   "b": "Aten",
+   "loai": "ke_thu",
+   "mo_ta": "Mục tiêu bắt cóc của Renzo.",
+   "cach_goi": "gọi tên Aten, lạnh lùng"
+  },
+  {
+   "a": "Aten",
+   "b": "Renzo",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp với Renzo.",
+   "cach_goi": "gọi tên Renzo, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Khryselakatos: Cung chỉ có thể sử dụng bởi nữ giới, Frondier phải dùng sức mạnh của Menosorpo để kích hoạt tạm thời."
+ ],
+ "stats": {
+  "tokens": 811,
+  "seconds": 24.5
+ }
+}

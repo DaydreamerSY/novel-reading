@@ -1,0 +1,59 @@
+{
+ "number": 147,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier sử dụng chiến thuật đánh lạc hướng bằng cách giả vờ bắn tên lửa dẫn đường, khiến Binkis sợ hãi. Sau đó, anh ta tố cáo kỳ thi thực hành là một sự lừa dối có chủ ý để làm suy yếu sinh viên. Cuối cùng, Frondier buộc Binkis phải tiết lộ vị trí của các giáo viên khác bằng cách đe dọa giết người, sau đó thừa nhận mình chỉ đang giả vờ và thu thập thông tin.",
+ "boi_canh": "Kỳ thi thực hành tại trường học, một tình huống căng thẳng giữa Frondier và Binkis.",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Jane",
+  "Binkis",
+  "Khryselakatos"
+ ],
+ "su_kien": [
+  "Frondier giả vờ bắn tên lửa dẫn đường để đánh lạc hướng Binkis.",
+  "Frondier tố cáo kỳ thi thực hành là một sự lừa dối có chủ ý.",
+  "Binkis tiết lộ vị trí của các giáo viên khác dưới áp lực của Frondier.",
+  "Frondier thừa nhận mình chỉ đang giả vờ và thu thập thông tin.",
+  "Frondier vô hiệu hóa báo động đầu tiên và có được thông tin giá trị."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong kỳ thi thực hành, Frondier sử dụng chiến thuật và lời nói để áp đảo Binkis.",
+   "cach_goi": "gọi 'you', lạnh lùng"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Binkis bị áp lực bởi Frondier và buộc phải tiết lộ thông tin.",
+   "cach_goi": "gọi tên Frondier, sợ hãi"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier muốn chứng tỏ bản thân với Enfer, nhưng không thể hiện điều đó trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Frondier suy nghĩ về cách Jane sẽ phản ứng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Khryselakatos: Cung tên có khả năng đặc biệt.",
+  "Iokeira: Tên mũi tên đi kèm với cung Khryselakatos."
+ ],
+ "stats": {
+  "tokens": 704,
+  "seconds": 22.5
+ }
+}

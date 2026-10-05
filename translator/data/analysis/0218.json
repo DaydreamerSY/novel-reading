@@ -1,0 +1,75 @@
+{
+ "number": 218,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Anne tìm kiếm Frondier trong lớp học và có những hành động kỳ lạ, khiến Quinie lo lắng về tình trạng của Frondier. Sau đó, Quinie phát hiện ra một đám đông sinh viên đang tiến về phía nhà hát nơi Frondier có thể đang ở, được bảo vệ bởi các rào cản phép thuật. Cuối cùng, để thu hút sự chú ý của đám đông và ngăn chặn họ, Quinie sử dụng một kỹ năng đặc biệt, vô tình khiến mọi người nhận ra cô là Frondier.",
+ "boi_canh": "Trong lớp học tại trường Constel, giữa lúc hỗn loạn.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten Terst",
+  "Sybil",
+  "Quinie",
+  "Anne",
+  "Sybil Forte"
+ ],
+ "su_kien": [
+  "Anne tìm kiếm Frondier trong lớp học với ánh mắt vô hồn.",
+  "Quinie rời khỏi lớp học để tìm hiểu tình hình bên ngoài.",
+  "Quinie phát hiện ra một đám đông sinh viên đang tiến về phía nhà hát.",
+  "Các rào cản phép thuật được dựng lên bảo vệ nhà hát.",
+  "Quinie sử dụng kỹ năng đặc biệt và vô tình bị nhận diện là Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Quinie",
+   "b": "Anne",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân, Quinie lo lắng cho tình trạng của Anne.",
+   "cach_goi": "gọi tên Anne, không rõ cảm xúc"
+  },
+  {
+   "a": "Anne",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Không tương tác trực tiếp, Anne tìm kiếm Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Sybil quan tâm đến sức khỏe của Quinie.",
+   "cach_goi": "gọi tên Quinie, thân thiện"
+  },
+  {
+   "a": "Quinie",
+   "b": "Sybil Forte",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Quinie trả lời ngắn gọn.",
+   "cach_goi": "gọi tên Sybil, thân thiện"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aten Terst",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, đang cố gắng bảo vệ nhà hát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Elodie",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, đang cố gắng bảo vệ nhà hát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Quinie bị nhầm là Frondier do kỹ năng đặc biệt của cô."
+ ],
+ "stats": {
+  "tokens": 801,
+  "seconds": 24.1
+ }
+}

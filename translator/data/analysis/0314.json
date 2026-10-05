@@ -1,0 +1,92 @@
+{
+ "number": 314,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nghe lén cuộc trò chuyện giữa Bartello và những người khác về tình hình chính trị và sức khỏe suy yếu của hoàng đế. Anh ta thảo luận với Cain về các vấn đề xã hội, cách thức hệ thống đẳng cấp đang dần sụp đổ và vai trò của Aster trong tương lai. Sau đó, Frondier tiết lộ bí mật về Runes cổng không gian trên lòng bàn tay của những người lãnh đạo Indus và tạo ra một cổng không gian cho riêng mình, đồng thời xây dựng một xưởng kết hợp với ma thuật bay trên bầu trời.",
+ "boi_canh": "Trong một cuộc trò chuyện lén trộm tại cung điện hoàng gia.",
+ "nhan_vat": [
+  "Bartello",
+  "Cain",
+  "Frondier",
+  "Aster",
+  "Eden",
+  "Heldre",
+  "Sale",
+  "Binkis",
+  "Aster Evans",
+  "Eden Hamelot"
+ ],
+ "su_kien": [
+  "Bartello tiết lộ tình trạng sức khỏe suy yếu của mình.",
+  "Frondier và Cain thảo luận về hệ thống đẳng cấp và vai trò của Aster.",
+  "Cain tiết lộ Runes cổng không gian trên lòng bàn tay của các lãnh đạo Indus.",
+  "Frondier tạo ra một cổng không gian dựa trên thông tin từ Cain.",
+  "Frondier xây dựng một xưởng kết hợp với ma thuật bay trên bầu trời."
+ ],
+ "quan_he": [
+  {
+   "a": "Bartello",
+   "b": "Cain",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng đế Bartello nói chuyện với Cain, thể hiện sự quan tâm đến tình hình chính trị.",
+   "cach_goi": "gọi 'Cain', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cain",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Cain lắng nghe và trả lời Bartello, thể hiện sự tôn trọng.",
+   "cach_goi": "gọi 'Bartello', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Cain trò chuyện, có vẻ như họ đã quen biết nhau.",
+   "cach_goi": "gọi 'Cain', thân mật"
+  },
+  {
+   "a": "Cain",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Cain trả lời Frondier, đôi khi nghi ngờ những gì anh ta nói.",
+   "cach_goi": "gọi 'Frondier', thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đề cập đến Aster như một nhân vật quan trọng trong tương lai.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đề cập đến Eden như một nhân vật quan trọng trong tương lai.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Heldre",
+   "b": "Cain",
+   "loai": "gia_dinh",
+   "mo_ta": "Heldre là người thân của Cain, có ý định lật đổ chế độ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sale",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Sale được nhắc đến như người kế vị hoàng đế.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (Aster)",
+  "Eden Hamelot (Eden)"
+ ],
+ "stats": {
+  "tokens": 997,
+  "seconds": 30.8
+ }
+}

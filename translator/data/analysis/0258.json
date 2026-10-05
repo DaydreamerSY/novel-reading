@@ -1,0 +1,91 @@
+{
+ "number": 258,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Ngày đi thực nghiệm, Frondier tiễn Aten lên xe buýt và trao đổi với Kora. Trên xe buýt khác, Lunia khoe tin tức về chuyến đi thực nghiệm của học sinh Constel trên Wizard View, trong đó có nhiều thông tin về Aster và cả Frondier khiến Lunia ghen tị. Aster cũng nhận thấy sự nổi tiếng bất thường của Frondier và Elodie cũng cảm thấy điều này kỳ lạ.",
+ "boi_canh": "Sân trường Constel vào ngày đi thực nghiệm.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Jane",
+  "Lunia",
+  "Kora",
+  "Pros",
+  "Student Frondier"
+ ],
+ "su_kien": [
+  "Học sinh Constel lên xe buýt theo thứ tự lớp.",
+  "Aten tạm biệt Frondier trước khi lên xe.",
+  "Tin tức về chuyến đi thực nghiệm của Constel xuất hiện trên Wizard View.",
+  "Aster và Lunia xem tin tức về Aster và Frondier.",
+  "Elodie và Aster nhận thấy sự nổi tiếng bất thường của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Kora",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, đứng cạnh nhau.",
+   "cach_goi": "gọi tên Kora, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên tiễn học sinh lên xe.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhìn lại Frondier với vẻ lo lắng.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên nhắc nhở học sinh.",
+   "cach_goi": "gọi tên Student Frondier, thân mật"
+  },
+  {
+   "a": "Lunia",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè cùng lớp, hào hứng khoe tin tức.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè cùng lớp, xem tin tức chung.",
+   "cach_goi": "gọi tên Lunia, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè cùng lớp, trao đổi về Frondier.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè cùng lớp, trao đổi về Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Student Frondier: học sinh Frondier"
+ ],
+ "stats": {
+  "tokens": 882,
+  "seconds": 28.0
+ }
+}

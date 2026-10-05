@@ -1,0 +1,77 @@
+{
+ "number": 130,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Vài ngày sau, Chancellor Osprey xuất hiện bất ngờ tại Constel để gặp gỡ Enfer, anh trai của Frondier. Cuộc trò chuyện giữa hai người xoay quanh việc Enfer có gia nhập Zodiac hay không, những ký ức về quá khứ khi họ cùng nhau chiến đấu chống lại quái vật và sự phát triển vượt trội của Azier. Cuối cùng, Enfer tiết lộ một phần lý do đến thăm là vì Frondier xếp hạng thứ 16 trong kỳ thi giữa kỳ.",
+ "boi_canh": "Buổi sáng tại Constel sau vài ngày.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Enfer",
+  "Osprey",
+  "Malia",
+  "Ludwig",
+  "Aster Evans",
+  "Ludwig von Urfa",
+  "Chancellor Osprey"
+ ],
+ "su_kien": [
+  "Chancellor Osprey xuất hiện tại cổng trường Constel, chờ đợi ai đó.",
+  "Enfer đến gặp gỡ Osprey trong phòng hiệu trưởng.",
+  "Osprey đề nghị Enfer gia nhập Zodiac.",
+  "Hai người hồi tưởng về quá khứ khi cùng nhau chiến đấu chống lại quái vật.",
+  "Enfer tiết lộ lý do đến thăm liên quan đến Frondier và thành tích của cậu trong kỳ thi giữa kỳ."
+ ],
+ "quan_he": [
+  {
+   "a": "Osprey",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Quan hệ đồng nghiệp cũ, Osprey là cấp trên của Enfer.",
+   "cach_goi": "gọi tên Enfer, không trang trọng"
+  },
+  {
+   "a": "Enfer",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Quan hệ đồng nghiệp cũ, Enfer từng là cấp dưới của Osprey.",
+   "cach_goi": "gọi tên Osprey, không trang trọng"
+  },
+  {
+   "a": "Osprey",
+   "b": "Malia",
+   "loai": "dong_minh",
+   "mo_ta": "Quan hệ đồng minh cũ, hai người từng cùng chiến đấu.",
+   "cach_goi": "gọi tên Malia, không trang trọng"
+  },
+  {
+   "a": "Malia",
+   "b": "Osprey",
+   "loai": "dong_minh",
+   "mo_ta": "Quan hệ đồng minh cũ, hai người từng cùng chiến đấu.",
+   "cach_goi": "gọi tên Osprey, không trang trọng"
+  },
+  {
+   "a": "Enfer",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng.",
+   "cach_goi": "gọi tên Enfer, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster."
+ ],
+ "stats": {
+  "tokens": 797,
+  "seconds": 24.7
+ }
+}

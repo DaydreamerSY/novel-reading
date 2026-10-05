@@ -1,0 +1,87 @@
+{
+ "number": 71,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier trải qua một giấc mơ kỳ lạ liên quan đến ký ức về kiến thức cổ xưa và người bí ẩn đã truyền đạt nó cho anh ta. Sau khi tỉnh dậy, anh ta phát hiện ra Sybil đã chăm sóc anh ta suốt đêm. Các sự kiện sau đó tiết lộ cái chết của Serf do mũi tên phép thuật của Sybil, việc Grobel bị bắt giữ và những tin tức đáng lo ngại từ Philly Terst thông qua tin nhắn.",
+ "boi_canh": "Trong phòng bệnh viện, một ngày nọ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Philly",
+  "Sybil",
+  "Enfer",
+  "Ludwig",
+  "Serf",
+  "Grobel",
+  "Ainen",
+  "Rokbel",
+  "Philly Terst",
+  "Ludwig Urfa",
+  "Frondeir"
+ ],
+ "su_kien": [
+  "Frondier có một giấc mơ kỳ lạ về kiến thức cổ xưa.",
+  "Sybil chăm sóc Frondier trong bệnh viện.",
+  "Serf bị giết bởi mũi tên phép thuật của Sybil.",
+  "Grobel bị bắt giữ và sẽ được sử dụng làm lính phòng thủ Tyburn.",
+  "Philly Terst gửi tin nhắn cho Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier và Sybil đang ở gần nhau trong bệnh viện. Frondier có vẻ bối rối bởi sự quan tâm của Sybil.",
+   "cach_goi": "gọi tên Sybil, không thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil chăm sóc Frondier và có vẻ quan tâm đến anh ta.",
+   "cach_goi": "gọi tên Frondier, không thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người trao đổi thông tin về tình trạng của Frondier.",
+   "cach_goi": "gọi tên Elodie, không thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Elodie thông báo cho Frondier về tình trạng của anh ta và tin nhắn từ Philly Terst.",
+   "cach_goi": "gọi tên Frondier, không thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil phản ứng với lời nói của Frondier và có vẻ bực bội.",
+   "cach_goi": "gọi tên Frondier, không thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier trêu chọc Sybil và có vẻ thích thú với sự bối rối của cô.",
+   "cach_goi": "gọi tên Sybil, không thân mật"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Gửi tin nhắn cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Tyburn được dịch thành 'Tavern' trong bản gốc, cần kiểm tra lại tên chính xác."
+ ],
+ "stats": {
+  "tokens": 951,
+  "seconds": 28.5
+ }
+}

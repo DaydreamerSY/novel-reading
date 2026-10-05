@@ -1,0 +1,72 @@
+{
+ "number": 535,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Cohen và quân Manggot bao vây Sybil, thể hiện sự nghi ngờ và thù địch đối với cô. Một cuộc chiến nổ ra, trong đó Sybil thể hiện khả năng đặc biệt khiến vũ khí của kẻ thù đau đớn khi chạm vào. Frondier đang kiểm tra cấu trúc rào cản, Sybil đề nghị được triển khai đến đó, nhưng Frondier tỏ ra do dự và lo lắng cho sự an toàn của cô.",
+ "boi_canh": "Một chiến trường căng thẳng giữa quân Manggot và Sybil.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Sybil",
+  "Cohen"
+ ],
+ "su_kien": [
+  "Cohen và quân Manggot bao vây Sybil.",
+  "Quân Manggot tấn công Sybil, nhưng bị cô chặn lại bằng thanh kiếm.",
+  "Những người lính Manggot cảm thấy đau đớn khi chạm vào thanh kiếm của Sybil.",
+  "Cohen sử dụng aura để tăng cường sức mạnh cho thanh kiếm của mình.",
+  "Sybil đề nghị được triển khai đến rào cản, nhưng Frondier tỏ ra do dự."
+ ],
+ "quan_he": [
+  {
+   "a": "Cohen",
+   "b": "Sybil",
+   "loai": "doi_thu",
+   "mo_ta": "Cohen căm ghét và muốn giết Sybil.",
+   "cach_goi": "gọi 'bitch', thô lỗ"
+  },
+  {
+   "a": "Sybil",
+   "b": "Cohen",
+   "loai": "doi_thu",
+   "mo_ta": "Sybil đối đầu với Cohen trong chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Frondier là bạn của Sybil và có vẻ lo lắng cho cô.",
+   "cach_goi": "gọi tên Sybil, không rõ tone"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Sybil đề nghị Frondier triển khai cô đến rào cản.",
+   "cach_goi": "gọi tên Frondier, không rõ tone"
+  },
+  {
+   "a": "Cohen",
+   "b": "quân Manggot",
+   "loai": "cap_tren",
+   "mo_ta": "Cohen là chỉ huy của quân Manggot.",
+   "cach_goi": "gọi 'những người lính', trịch thượng"
+  },
+  {
+   "a": "quân Manggot",
+   "b": "Cohen",
+   "loai": "cap_tren",
+   "mo_ta": "Quân Manggot tuân theo mệnh lệnh của Cohen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Sybil được đồn đại là 'người con gái được số phận yêu thương'."
+ ],
+ "stats": {
+  "tokens": 776,
+  "seconds": 23.9
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "number": 268,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cuộc đối đầu giữa Thompson và Isamaya, với những màn đấu trí thông qua vũ khí độc đáo của họ. Họ tạm dừng trận chiến khi tàu hỏa đi qua, và Thompson cố gắng thăm dò ý định của đối phương liên quan đến một Rune lớn đang ẩn giấu. Cuối cùng, Thompson cảm nhận được sự hiện diện của Rune khổng lồ và bày tỏ sự nghi ngờ về kế hoạch của Isamaya.",
+ "boi_canh": "Một khu vực đường sắt vắng vẻ, giữa trận chiến.",
+ "nhan_vat": [
+  "Frondier",
+  "Osprey",
+  "Thompson",
+  "Isamaya",
+  "Mop"
+ ],
+ "su_kien": [
+  "Thompson và Isamaya giao chiến với những vũ khí độc đáo.",
+  "Isamaya sử dụng 'pointer' (bút chỉ) như một loại vũ khí, thay đổi độ dài để đánh lừa Thompson.",
+  "Một chuyến tàu hỏa đi qua, làm gián đoạn trận chiến.",
+  "Thompson cố gắng thăm dò ý định của Isamaya liên quan đến Rune lớn.",
+  "Thompson cảm nhận được sự hiện diện của Rune khổng lồ và bày tỏ sự nghi ngờ."
+ ],
+ "quan_he": [
+  {
+   "a": "Thompson",
+   "b": "Isamaya",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang giao chiến với nhau.",
+   "cach_goi": "gọi tên Isamaya, lạnh lùng"
+  },
+  {
+   "a": "Isamaya",
+   "b": "Thompson",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang giao chiến với nhau.",
+   "cach_goi": "gọi tên Thompson, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Isamaya",
+   "loai": "thay_tro",
+   "mo_ta": "Người hướng dẫn, Isamaya suy nghĩ về những dự đoán của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thompson",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đối tượng mà Thompson đang tìm kiếm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Isamaya",
+   "b": "Osprey",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pointer của Isamaya: Ban đầu được cho là bút chỉ trong lớp học, nhưng thực chất là một loại vũ khí có thể thay đổi độ dài."
+ ],
+ "stats": {
+  "tokens": 694,
+  "seconds": 21.4
+ }
+}

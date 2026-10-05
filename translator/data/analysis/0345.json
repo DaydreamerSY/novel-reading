@@ -1,0 +1,64 @@
+{
+ "number": 345,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp Sylvain tại khu vực giặt đồ và tiết lộ thông tin quan trọng về lý do những quái vật bay không tham gia trận chiến. Anh giải thích rằng chúng đang thử nghiệm sức mạnh của rào cản và quân đội, tiết kiệm lực lượng cho các trận đánh quyết định. Frondier cũng sử dụng một con quạ được huấn luyện để thu thập thông tin từ căn cứ địch, hé lộ số lượng quái vật còn lại lớn hơn nhiều so với những gì đã tham gia chiến đấu và sự gia tăng nhanh chóng của quái vật đen, khiến Sylvain vô cùng lo lắng.",
+ "boi_canh": "Khu vực giặt đồ, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Sylvain",
+  "Gregory"
+ ],
+ "su_kien": [
+  "Frondier và Sylvain gặp nhau tại khu vực giặt đồ.",
+  "Frondier tiết lộ việc sử dụng quạ để thu thập thông tin.",
+  "Quạ chào Sylvain bằng tiếng người.",
+  "Frondier giải thích lý do quái vật bay không tham gia trận chiến là đang 'thử nghiệm'.",
+  "Thông tin từ quạ cho thấy số lượng quái vật còn lại tại căn cứ địch lớn hơn nhiều so với những gì đã tham gia chiến đấu."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người báo cáo cho Sylvain về tình hình chiến sự.",
+   "cach_goi": "gọi tên Sylvain, lễ phép"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Sylvain là người cấp trên của Frondier, lắng nghe báo cáo.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "quạ",
+   "loai": "nguoi_la",
+   "mo_ta": "Quạ là công cụ thu thập thông tin của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "quạ",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Quạ báo cáo lại cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "quạ",
+   "loai": "nguoi_la",
+   "mo_ta": "Sylvain chứng kiến quạ nói chuyện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Con quạ được Frondier huấn luyện để thu thập thông tin và giao tiếp bằng tiếng người."
+ ],
+ "stats": {
+  "tokens": 729,
+  "seconds": 21.7
+ }
+}

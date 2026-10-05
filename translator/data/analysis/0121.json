@@ -1,0 +1,76 @@
+{
+ "number": 121,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi giết con gái mình là Elysia, Philly bàng hoàng và đau khổ. Frondier bình tĩnh đề nghị đưa Elysia đến bệnh viện để giải độc, khiến Philly khó hiểu. Cô nhận ra rằng Elysia không chết ngay mà chỉ bị liệt vì độc dược trễ. Sau đó, Malia thông báo qua chia sẻ giác quan rằng lũ quái vật đã được giải thoát và đang chạy về phía một ngôi làng, đẩy Frondier vào tình thế nguy cấp.",
+ "boi_canh": "Trong phòng, sau khi Elysia bị thương.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Philly",
+  "Aten",
+  "Elysia",
+  "Malia",
+  "Slevb",
+  "Mother"
+ ],
+ "su_kien": [
+  "Philly giết Elysia bằng một cây đao độc.",
+  "Frondier đề nghị đưa Elysia đến bệnh viện để giải độc.",
+  "Philly nhận ra Elysia chỉ bị liệt do độc dược trễ.",
+  "Malia thông báo lũ quái vật đang chạy về phía một ngôi làng.",
+  "Philly bối rối và không hiểu những gì Frondier nói."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Philly tức giận với sự bình tĩnh của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier phớt lờ sự tức giận của Philly.",
+   "cach_goi": "gọi tên Philly, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ con Philly ôm nhau sau khi Elysia bị thương.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Mẹ của Frondier gọi điện cho anh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai trả lời điện thoại của mẹ.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Slevb đã cung cấp độc dược cho Philly.",
+  "Philly đã giết Elysia, con gái mình."
+ ],
+ "stats": {
+  "tokens": 790,
+  "seconds": 24.5
+ }
+}

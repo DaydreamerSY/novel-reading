@@ -1,0 +1,76 @@
+{
+ "number": 550,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Selena lau đi nước mắt, cô tiếp cận Hagley bị liệt và sử dụng một kỹ thuật cấm của Manggot để liên kết với bóng tối của anh ta. Cô tiết lộ rằng mình đã phải trả giá đắt để làm chủ kỹ thuật này và giờ đây có thể can thiệp vào các bóng tối khác. Selena rời đi sau khi bày tỏ sự thất vọng về Hagley, và ngay lập tức một trận chiến lớn nổ ra tại rào cản phía bắc. Frondier thông báo rằng rào cản sẽ sụp đổ theo kế hoạch, và mọi người phải chuẩn bị cho khả năng đó.",
+ "boi_canh": "Trong phòng họp của Manggot, thời điểm trước khi rào cản phía bắc sụp đổ.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Enfer",
+  "Osprey",
+  "Hagley",
+  "Malia",
+  "Mei",
+  "Cassian",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Selena tiếp cận Hagley bị liệt.",
+  "Selena sử dụng kỹ thuật Transfer cấm để kết nối với bóng tối của Hagley.",
+  "Selena tiết lộ về những khó khăn trong quá trình làm chủ kỹ thuật Transfer.",
+  "Một trận chiến lớn nổ ra tại rào cản phía bắc.",
+  "Frondier thông báo về sự sụp đổ sắp tới của rào cản."
+ ],
+ "quan_he": [
+  {
+   "a": "Selena",
+   "b": "Hagley",
+   "loai": "doi_thu",
+   "mo_ta": "Selena sử dụng Hagley để thực hiện Transfer.",
+   "cach_goi": "gọi tên Hagley, lạnh lùng"
+  },
+  {
+   "a": "Hagley",
+   "b": "Selena",
+   "loai": "doi_thu",
+   "mo_ta": "Hagley bị Selena thao túng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Enfer báo cáo tình hình chiến sự cho Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier thông báo kế hoạch cho Enfer.",
+   "cach_goi": "gọi tên Enfer, không rõ"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Osprey đưa Frondier đến một căn phòng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Mei rời đi mà không dùng Restoration.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Selena đã từng sử dụng Transfer với Malia và Cassian, gây ra ảnh hưởng lớn đến sức khỏe của cô."
+ ],
+ "stats": {
+  "tokens": 822,
+  "seconds": 25.8
+ }
+}

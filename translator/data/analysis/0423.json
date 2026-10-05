@@ -1,0 +1,70 @@
+{
+ "number": 423,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Dier bị bắt giữ và đưa đến một phòng thí nghiệm nghiên cứu về tiêm mana. Angus nghi ngờ Dier không hiểu tình hình nghiêm trọng, nhưng Dier tỏ ra hào hứng với việc được tiêm mana để trở nên mạnh mẽ hơn. Ellen cảm thấy bất thường trước thái độ của Dier và lo lắng về tình hình hiện tại, đặc biệt là khi cô nhận được một thông báo bí ẩn từ Frondier. Cuối cùng, Dier sử dụng kỹ năng của mình để thoát khỏi sự giam giữ và tiêm chất độc vào Angus, đồng thời đòi hỏi vị trí của thuốc giải độc.",
+ "boi_canh": "Phòng thí nghiệm nghiên cứu tiêm mana tại Constel, một ngày không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Ellen",
+  "Dier",
+  "Angus",
+  "Eden"
+ ],
+ "su_kien": [
+  "Angus nghi ngờ Dier không hiểu tình hình nguy hiểm.",
+  "Dier bày tỏ sự hào hứng với việc được tiêm mana để tăng cường sức mạnh.",
+  "Ellen cảm thấy lo lắng và bất thường trước thái độ của Dier.",
+  "Dier phá vỡ xiềng xích và tấn công Angus bằng một ống tiêm.",
+  "Dier đòi hỏi vị trí của thuốc giải độc."
+ ],
+ "quan_he": [
+  {
+   "a": "Angus",
+   "b": "Dier",
+   "loai": "doi_thu",
+   "mo_ta": "Angus nghi ngờ và sau đó tức giận với Dier.",
+   "cach_goi": "gọi tên Dier, không thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Angus",
+   "loai": "doi_thu",
+   "mo_ta": "Dier chế nhạo và tấn công Angus.",
+   "cach_goi": "gọi tên Angus, trịch thượng"
+  },
+  {
+   "a": "Ellen",
+   "b": "Dier",
+   "loai": "cap_tren",
+   "mo_ta": "Ellen là người có vị trí cao hơn Dier và cảm thấy bất thường về hành động của anh ta.",
+   "cach_goi": "gọi tên Dier, không thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Dier đặt câu hỏi cho Ellen về vị trí của cô trong hội đồng học sinh.",
+   "cach_goi": "gọi tên Ellen, không thân mật"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Ellen nhận được thông báo từ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Angus",
+   "b": "Dier",
+   "loai": "doi_thu",
+   "mo_ta": "Angus tức giận Dier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 773,
+  "seconds": 23.1
+ }
+}

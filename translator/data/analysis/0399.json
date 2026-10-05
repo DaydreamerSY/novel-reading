@@ -1,0 +1,59 @@
+{
+ "number": 399,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe lời của người đàn ông bí ẩn, Dier rơi vào suy tư về sự khác biệt giữa tầm nhìn tuyệt vời và thể chất bình thường của mình. Anh ta từ chối một lời đề nghị giúp đỡ vì sợ rằng nó sẽ làm anh yếu đi. Sau đó, người đàn ông ám chỉ Frondier de Roach đã nhận được sự giúp đỡ bí ẩn để đạt được sức mạnh phi thường, khiến Dier lo lắng về những hậu quả có thể xảy ra nếu tin đồn lan rộng trong Constel.",
+ "boi_canh": "Bên trong khuôn viên trường Constel, vào một thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Pielott",
+  "Dier",
+  "Frondier de Roach",
+  "Dier Eiger"
+ ],
+ "su_kien": [
+  "Dier suy tư về sự bất công giữa tầm nhìn và thể chất của mình.",
+  "Người đàn ông bí ẩn đề nghị giúp đỡ Dier, nhưng anh ta từ chối.",
+  "Người đàn ông ám chỉ Frondier de Roach đã nhận được sự giúp đỡ để đạt được sức mạnh.",
+  "Dier lo lắng về những hậu quả có thể xảy ra nếu tin đồn lan rộng.",
+  "Frondier đang huấn luyện Pielott một cách nghiêm khắc."
+ ],
+ "quan_he": [
+  {
+   "a": "Dier",
+   "b": "Người đàn ông bí ẩn",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người không quen biết, người đàn ông ám chỉ về Frondier.",
+   "cach_goi": "gọi 'người đàn ông', lạnh lùng"
+  },
+  {
+   "a": "Người đàn ông bí ẩn",
+   "b": "Dier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người không quen biết, người đàn ông ám chỉ về Frondier.",
+   "cach_goi": "gọi 'anh', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Huấn luyện viên và học trò, Frondier đang thúc đẩy Pielott.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Học trò đang cố gắng luyện tập dưới sự hướng dẫn của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của nhân vật chính.",
+  "Dier Eiger: Tên đầy đủ của Dier."
+ ],
+ "stats": {
+  "tokens": 695,
+  "seconds": 20.8
+ }
+}

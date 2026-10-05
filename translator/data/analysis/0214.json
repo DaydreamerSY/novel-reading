@@ -1,0 +1,74 @@
+{
+ "number": 214,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Aten đến phòng phát sóng để điều tra sau khi nhận được cảnh báo về một cái bẫy có thể. Họ phát hiện ra những sinh viên bị bất tỉnh và một thông điệp từ Serf Daniel yêu cầu họ đến nhà hát. Đồng thời, xe của người lái xe riêng của Hoàng hậu Philly gặp tai nạn do ảnh hưởng của 'thẻ kinh doanh' của Serf. Frondier liên lạc với Azier để báo cáo tình hình hỗn loạn và cuối cùng phát hiện ra Gregory đang ngồi ở giữa nhà hát, bị thương nặng và thú nhận đã thay thế Serf Daniel.",
+ "boi_canh": "Phía trước phòng phát sóng, Constel.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Azier",
+  "Gregory",
+  "Serf",
+  "Serf Daniel"
+ ],
+ "su_kien": [
+  "Frondier và Aten đến phòng phát sóng.",
+  "Tìm thấy những sinh viên bị bất tỉnh trong phòng phát sóng.",
+  "Philly gặp tai nạn xe do 'thẻ kinh doanh' của Serf.",
+  "Frondier liên lạc với Azier để báo cáo tình hình hỗn loạn ở Constel.",
+  "Gregory thú nhận đã thay thế Serf Daniel và yêu cầu Frondier bắt giữ ông ta."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, hỗ trợ lẫn nhau trong điều tra.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, hỗ trợ lẫn nhau trong điều tra.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng minh, Frondier báo cáo tình hình cho người anh trai cấp trên.",
+   "cach_goi": "gọi tên Azier, lễ phép"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng minh, Azier trả lời cuộc gọi của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Kẻ thù, Gregory đầu hàng Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "doi_thu",
+   "mo_ta": "Kẻ thù, Frondier đối mặt Gregory.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Serf Daniel đã chết, nhưng 'thẻ kinh doanh' của ông ta vẫn còn hiệu lực và chứa giọng nói của ông ta."
+ ],
+ "stats": {
+  "tokens": 819,
+  "seconds": 24.6
+ }
+}

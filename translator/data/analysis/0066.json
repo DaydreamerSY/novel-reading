@@ -1,0 +1,86 @@
+{
+ "number": 66,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tỉnh dậy với vết thương nghiêm trọng, Frondier nhận thấy Elodie đang kiềm chế Rokbel bằng phép thuật gió và Sybil đang chống lại mệnh lệnh của Serf. Anh cố gắng đứng dậy dù rất đau đớn, khiến Elodie lo lắng. Sau đó, anh kích hoạt một rune lớn 'Menosorpo' mà trước đây đã thử nghiệm, gây bất ngờ cho Serf và những người khác trong rừng Indus.",
+ "boi_canh": "Trong một khu vực không xác định, có lẽ là một căn cứ của Constel, vào thời điểm Frondier tỉnh dậy sau khi bị thương.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Serf",
+  "Rokbel"
+ ],
+ "su_kien": [
+  "Frondier tỉnh dậy với vết thương bên hông.",
+  "Elodie sử dụng phép thuật gió để kiềm chế Rokbel.",
+  "Sybil chống lại mệnh lệnh của Serf.",
+  "Frondier cố gắng đứng dậy dù rất đau đớn.",
+  "Frondier kích hoạt rune 'Menosorpo'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier cố gắng liên lạc với Sybil đang bị kiểm soát.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Sybil đang bị kiểm soát và cố gắng phản kháng.",
+   "cach_goi": "gọi tên Frondier, thân mật nhưng lo lắng"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật nhưng lo lắng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier nhìn vào mắt Elodie và hồi tưởng về quá khứ.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Serf",
+   "b": "Sybil",
+   "loai": "ke_thu",
+   "mo_ta": "Serf đang ra lệnh cho Sybil, khiến cô phải chống lại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Serf",
+   "loai": "ke_thu",
+   "mo_ta": "Sybil đang cố gắng chống lại mệnh lệnh của Serf.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Rokbel",
+   "loai": "nguoi_la",
+   "mo_ta": "Elodie đang kiềm chế Rokbel bằng phép thuật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Rokbel",
+   "b": "Serf",
+   "loai": "nguoi_la",
+   "mo_ta": "Rokbel đang bị Serf điều khiển.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Menosorpo: Một rune mà Frondier đã thử nghiệm trước đây và kích hoạt lại trong chương này."
+ ],
+ "stats": {
+  "tokens": 947,
+  "seconds": 28.4
+ }
+}

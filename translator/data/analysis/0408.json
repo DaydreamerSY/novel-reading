@@ -1,0 +1,77 @@
+{
+ "number": 408,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối mặt với Ellen, người đang bị ảnh hưởng bởi một loại Mana. Sau khi phân tích được thông tin về Ellen, anh phát hiện ra cô đang bị Eden Hamelot đe dọa và buộc phải tiêm Mana. Frondier quyết định tự mình giải cứu Ellen và tìm kiếm thuốc giải độc, bất chấp những nguy hiểm tiềm ẩn.",
+ "boi_canh": "Một khu vực không xác định trong khuôn viên trường Constel, vào thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aster",
+  "Renzo",
+  "Ellen",
+  "Eden",
+  "Aster Evans",
+  "Roxy",
+  "Eden Hamelot"
+ ],
+ "su_kien": [
+  "Ellen bị phân tích thông tin bởi Frondier.",
+  "Frondier phát hiện Ellen đang bị ảnh hưởng Mana và bị Eden Hamelot đe dọa.",
+  "Frondier sử dụng Dragon Heart để tăng cường khả năng 'Analyze'.",
+  "Thông tin về kẻ tiêm Mana cho Ellen là Eden Hamelot được tiết lộ.",
+  "Frondier tuyên bố sẽ tự mình giải cứu Ellen và tìm thuốc giải độc."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier đang phân tích và tìm hiểu về Ellen.",
+   "cach_goi": "gọi tên Ellen, lạnh lùng"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Ellen đang cố gắng che giấu thông tin và giữ Frondier bận rộn.",
+   "cach_goi": "gọi tên Frondier, thận trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden Hamelot",
+   "loai": "ke_thu",
+   "mo_ta": "Đối tượng bị Frondier nghi ngờ và đang tìm cách đối phó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Eden Hamelot",
+   "loai": "cap_tren",
+   "mo_ta": "Ellen đang bị Eden Hamelot đe dọa và điều khiển.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Roxy",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhắc đến Roxy trong suy nghĩ, liên quan đến quá khứ và sự tin tưởng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster Evans",
+   "loai": "nguoi_la",
+   "mo_ta": "Liên quan đến thông tin về Ellen là chị gái của Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot: Pro, số một.",
+  "Ellen: Có thể đang bị Eden Hamelot đe dọa và điều khiển."
+ ],
+ "stats": {
+  "tokens": 819,
+  "seconds": 24.5
+ }
+}

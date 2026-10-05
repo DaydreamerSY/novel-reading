@@ -1,0 +1,80 @@
+{
+ "number": 292,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với sự xuất hiện của Zodiac Heldre bị thương đến căn nhà của Kraken. Sau đó, cuộc trò chuyện giữa các thành viên tiết lộ kế hoạch cách mạng đang gặp khó khăn và sự chia rẽ trong nhóm. Renzo bày tỏ mong muốn được giết Frondier, còn Cain cân nhắc vai trò của Frondier trong tình hình hiện tại. Cuối cùng, họ quyết định tiếp tục cách mạng bằng việc ám sát Hoàng Đế để cứu Indus.",
+ "boi_canh": "Bên trong căn nhà của Kraken, vào một buổi tối sau trận chiến.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Elysia",
+  "Kraken",
+  "Heldre",
+  "Cain",
+  "Thompson",
+  "Skyler"
+ ],
+ "su_kien": [
+  "Zodiac Heldre đến căn nhà của Kraken với nhiều vết băng.",
+  "Renzo tiết lộ rằng Frondier là người gây ra những vết thương của Heldre.",
+  "Cain đề xuất tiếp tục cách mạng bất chấp thất bại và tổn thất.",
+  "Renzo bày tỏ mong muốn được giết Frondier.",
+  "Các thành viên thảo luận về việc có nên thay đổi kế hoạch để nhắm mục tiêu vào Frondier hay không."
+ ],
+ "quan_he": [
+  {
+   "a": "Heldre",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Heldre và Renzo là đối thủ, Heldre tỏ ra khinh thường Renzo.",
+   "cach_goi": "gọi 'old man', thân mật"
+  },
+  {
+   "a": "Renzo",
+   "b": "Heldre",
+   "loai": "doi_thu",
+   "mo_ta": "Renzo và Heldre là đối thủ, Renzo tỏ ra tôn trọng Heldre.",
+   "cach_goi": "gọi 'Senior', lễ phép"
+  },
+  {
+   "a": "Heldre",
+   "b": "Cain",
+   "loai": "gia_dinh",
+   "mo_ta": "Heldre và Cain có quan hệ gia đình, Heldre cảm thấy hối lỗi vì đã bỏ rơi Cain.",
+   "cach_goi": "gọi 'my granddaughter', thân mật"
+  },
+  {
+   "a": "Cain",
+   "b": "Heldre",
+   "loai": "gia_dinh",
+   "mo_ta": "Heldre và Cain có quan hệ gia đình, Cain không bày tỏ cảm xúc rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Kraken",
+   "loai": "nguoi_la",
+   "mo_ta": "Renzo và Kraken không có quan hệ rõ ràng, Renzo đang bị Kraken nắm giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thompson",
+   "b": "Cain",
+   "loai": "dong_minh",
+   "mo_ta": "Thompson và Cain là đồng minh, Thompson không đồng tình với ý kiến của Cain.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Skyler",
+   "b": "Cain",
+   "loai": "dong_minh",
+   "mo_ta": "Skyler và Cain là đồng minh, Skyler đặt câu hỏi về vai trò của họ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 885,
+  "seconds": 27.3
+ }
+}

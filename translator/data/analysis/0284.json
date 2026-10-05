@@ -1,0 +1,66 @@
+{
+ "number": 284,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với việc chuẩn bị hỏa thiêu xác của Renzo tại Morion. Một người phụ nữ bí ẩn đến thăm và bày tỏ lòng biết ơn đối với Renzo vì đã cứu mạng bà ta trong quá khứ. Sau đó, người phụ nữ tiết lộ thân phận thực sự là Kraken, tấn công và sử dụng một kỹ thuật cấm để hồi sinh Renzo, đồng thời kích hoạt báo động tại Morion.",
+ "boi_canh": "Morion, nơi chuẩn bị hỏa thiêu xác tù nhân.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Kraken",
+  "Nhân viên lễ tân",
+  "Giáo viên (Instructors)",
+  "Người phụ nữ bí ẩn"
+ ],
+ "su_kien": [
+  "Chuẩn bị hỏa thiêu xác Renzo.",
+  "Một người phụ nữ đến thăm để bày tỏ lòng biết ơn đối với Renzo.",
+  "Người phụ nữ tiết lộ rằng Renzo đã cứu mạng bà ta trong quá khứ.",
+  "Kraken biến đổi thành hình dạng của mình, giống như khuôn mặt được nhìn thấy tại Constel.",
+  "Kraken sử dụng một kỹ thuật cấm để hồi sinh Renzo."
+ ],
+ "quan_he": [
+  {
+   "a": "Nhân viên lễ tân",
+   "b": "Người phụ nữ bí ẩn",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhân viên lễ tân tiếp đón người phụ nữ đến thăm, không biết thân phận thật của bà ta.",
+   "cach_goi": "gọi 'Madam', lễ phép"
+  },
+  {
+   "a": "Người phụ nữ bí ẩn",
+   "b": "Nhân viên lễ tân",
+   "loai": "nguoi_la",
+   "mo_ta": "Người phụ nữ đến thăm, hỏi về việc hỏa thiêu Renzo.",
+   "cach_goi": "gọi 'Excuse me', lễ phép"
+  },
+  {
+   "a": "Giáo viên (Instructors)",
+   "b": "Người phụ nữ bí ẩn",
+   "loai": "nguoi_la",
+   "mo_ta": "Giáo viên dẫn người phụ nữ đến nhà xác.",
+   "cach_goi": "gọi 'Madam', lễ phép"
+  },
+  {
+   "a": "Người phụ nữ bí ẩn",
+   "b": "Giáo viên (Instructors)",
+   "loai": "nguoi_la",
+   "mo_ta": "Người phụ nữ chấp nhận sự bảo vệ của các giáo viên.",
+   "cach_goi": "gọi 'Thank you', lễ phép"
+  },
+  {
+   "a": "Kraken",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Kraken hồi sinh Renzo bằng một kỹ thuật cấm.",
+   "cach_goi": "gọi 'Lord Renzo', trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Người phụ nữ bí ẩn là Kraken, có thể biến đổi hình dạng."
+ ],
+ "stats": {
+  "tokens": 749,
+  "seconds": 23.1
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "number": 449,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và các thành viên của Zodiac phải đối mặt với một mối đe dọa mới: một con quái vật có khả năng bắt chước hoàn hảo mọi thứ, thậm chí cả người khác. Con quái vật này đã sao chép một lính gác trong nhà tù, khiến việc phân biệt thật giả trở nên vô cùng khó khăn. Sự kiện này làm Frondier lo lắng hơn về vai trò của mình và đặt ra nghi ngờ về mục đích thực sự của con quái vật.",
+ "boi_canh": "Trong nhà tù, khi các thành viên Zodiac chứng kiến con quái vật bắt chước lính gác.",
+ "nhan_vat": [
+  "Frondier",
+  "Pascal",
+  "Monty",
+  "Ludovic",
+  "Daisy",
+  "Pascal Schlitz"
+ ],
+ "su_kien": [
+  "Con quái vật bắt chước hoàn hảo một lính gác trong nhà tù.",
+  "Các thành viên Zodiac gặp khó khăn trong việc phân biệt giữa lính gác thật và lính gác giả.",
+  "Con quái vật thay đổi hình dạng cực nhanh, từ lính gác sang Pascal Schlitz.",
+  "Pascal phát hiện ra con quái vật đã sao chép cả thanh kiếm và quần áo của mình.",
+  "Các thành viên Zodiac lo ngại về khả năng con quái vật có thể bắt chước các phép thuật và ngôn ngữ."
+ ],
+ "quan_he": [
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Ludovic lo lắng về việc Frondier có thể rời đi hay không.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludovic",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier trả lời sự lo lắng của Ludovic.",
+   "cach_goi": "gọi tên Ludovic, thân mật"
+  },
+  {
+   "a": "Pascal",
+   "b": "Daisy",
+   "loai": "ban_be",
+   "mo_ta": "Pascal hỏi ý kiến của Daisy về việc phân biệt lính gác thật và giả.",
+   "cach_goi": "gọi tên Daisy, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Daisy",
+   "b": "Pascal",
+   "loai": "ban_be",
+   "mo_ta": "Daisy trả lời câu hỏi của Pascal.",
+   "cach_goi": "gọi tên Pascal, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Pascal",
+   "loai": "ban_be",
+   "mo_ta": "Monty đưa ra nhận xét về khả năng bắt chước của quái vật.",
+   "cach_goi": "gọi tên Pascal, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Pascal lắng nghe nhận xét của Monty.",
+   "cach_goi": "gọi tên Monty, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Pascal quan sát và suy đoán về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier suy nghĩ về những lời của Pascal.",
+   "cach_goi": "gọi tên Pascal, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pascal Schlitz (tên đầy đủ của Pascal)"
+ ],
+ "stats": {
+  "tokens": 971,
+  "seconds": 29.0
+ }
+}

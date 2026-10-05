@@ -1,0 +1,75 @@
+{
+ "number": 479,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier chứng kiến Elodie phát hiện ra sự thật về Jane và mối liên hệ của bà với hiệu trưởng. Sau đó, Elodie sử dụng phép thuật để che giấu bản thân và phát hiện ra rào cản phép thuật đang ẩn giấu Frondier. Cuối cùng, Elodie rời đi mà không tiết lộ 'lời hứa' đã nhắc đến, và Aten không hề biết Elodie vắng mặt, báo hiệu một sự kiện bất ngờ đã bắt đầu.",
+ "boi_canh": "Trong phòng học, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster Evans",
+  "Aten Terst",
+  "Osprey",
+  "Jane",
+  "Aster",
+  "Headmaster"
+ ],
+ "su_kien": [
+  "Elodie nghi ngờ Jane là hiệu trưởng.",
+  "Elodie sử dụng phép thuật để che giấu bản thân và phát hiện ra rào cản phép thuật của Frondier.",
+  "Elodie rời đi mà không tiết lộ 'lời hứa'.",
+  "Jane giải trừ phép thuật che giấu sau khi Elodie rời đi.",
+  "Aten không hề biết Elodie vắng mặt."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier quan sát và suy đoán về hành động của Elodie.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie có thể nhận ra những điều mà người khác không thể.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Jane",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Giáo viên và học sinh, Jane cố gắng che giấu sự thật.",
+   "cach_goi": "gọi tên Elodie, lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên, Elodie nghi ngờ về danh tính thật của Jane.",
+   "cach_goi": "gọi 'Teacher Jane', lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Bạn học cùng lớp, Aten không hề biết Elodie vắng mặt.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Bạn học cùng lớp, Frondier hỏi về sự vắng mặt của Elodie.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Jane là Hiệu trưởng (Headmaster)"
+ ],
+ "stats": {
+  "tokens": 824,
+  "seconds": 24.6
+ }
+}

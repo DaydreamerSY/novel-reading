@@ -1,0 +1,100 @@
+{
+ "number": 283,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, các lính gác tranh cãi về việc Renzo còn sống hay đã chết sau khi bị giam trong phòng biệt lập. Chỉ huy Esther xác nhận cái chết của Renzo bằng cách kiểm tra y học tỉ mỉ và ra lệnh xử lý thi thể. Sau đó, cô xem xét hồ sơ của Renzo và bắt đầu nghi ngờ về nguyên nhân thực sự dẫn đến cái chết của ông ta, đồng thời quyết định sẽ điều tra Eden Hamelot tại Constel. Cuối cùng, Esther đối mặt với bản sao của mình trong gương để xác nhận danh tính.",
+ "boi_canh": "Trong phòng biệt lập ở Morion, sau khi Renzo qua đời.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Eden",
+  "Esther",
+  "Eden Hamelot"
+ ],
+ "su_kien": [
+  "Các lính gác tranh cãi về việc Renzo còn sống hay đã chết.",
+  "Chỉ huy Esther xác nhận cái chết của Renzo bằng kiểm tra y học.",
+  "Esther ra lệnh xử lý thi thể Renzo và dọn dẹp phòng biệt lập.",
+  "Esther xem xét hồ sơ của Renzo và nghi ngờ về nguyên nhân thực sự dẫn đến cái chết của ông ta.",
+  "Esther quyết định điều tra Eden Hamelot tại Constel."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier là người quan sát, không tương tác trực tiếp với Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Renzo là người bị giam giữ, không tương tác trực tiếp với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Eden từng là đối thủ của Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "Renzo",
+   "loai": "cap_tren",
+   "mo_ta": "Esther là chỉ huy, Renzo là tù nhân.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden Hamelot",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Eden Hamelot từng là đối thủ của Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "lính gác",
+   "loai": "cap_tren",
+   "mo_ta": "Esther là chỉ huy, lính gác là cấp dưới.",
+   "cach_goi": "gọi 'các bạn', trịch thượng"
+  },
+  {
+   "a": "lính gác",
+   "b": "Esther",
+   "loai": "cap_tren",
+   "mo_ta": "Lính gác là cấp dưới, Esther là chỉ huy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "Eden Hamelot",
+   "loai": "nguoi_la",
+   "mo_ta": "Esther đang điều tra Eden, mối quan hệ chưa rõ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "bản sao Esther",
+   "loai": "khac",
+   "mo_ta": "Esther và bản sao của cô tương tác để xác nhận danh tính.",
+   "cach_goi": "gọi 'người', lạnh lùng"
+  },
+  {
+   "a": "bản sao Esther",
+   "b": "Esther",
+   "loai": "khac",
+   "mo_ta": "Bản sao của Esther tương tác với Esther để xác nhận danh tính.",
+   "cach_goi": "gọi 'người', lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot: Tên đầy đủ của Eden."
+ ],
+ "stats": {
+  "tokens": 1104,
+  "seconds": 33.9
+ }
+}

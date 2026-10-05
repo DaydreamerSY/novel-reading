@@ -1,0 +1,90 @@
+{
+ "number": 323,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier hoàn thành bản thiết kế ba chiều cho một công cụ. Binkis đánh giá cao tài năng của anh và đặt câu hỏi về khả năng đa dạng của anh. Edwin tiến hành đăng ký vân tay của Frondier trên vòng cổ mới và thảo luận về các khái niệm cơ bản của việc nhận dạng vân tay bằng ma thuật. Sybil suy ngẫm về những lời nói của Frondier về các vị thần.",
+ "boi_canh": "Trong xưởng, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Sybil",
+  "Ellen",
+  "Edwin",
+  "Binkis",
+  "Daud",
+  "Ellen Evans"
+ ],
+ "su_kien": [
+  "Frondier hoàn thành bản thiết kế ba chiều.",
+  "Binkis đánh giá cao tài năng của Frondier và đặt câu hỏi về khả năng của anh.",
+  "Edwin đăng ký vân tay của Frondier trên vòng cổ mới.",
+  "Edwin giải thích nguyên lý hoạt động của việc nhận dạng vân tay bằng ma thuật.",
+  "Sybil suy ngẫm về những lời nói của Frondier về các vị thần."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người được giao nhiệm vụ thiết kế, Binkis là người đánh giá công việc của anh.",
+   "cach_goi": "gọi tên Binkis, không rõ ràng"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Binkis là người đánh giá công việc của Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ ràng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "thay_tro",
+   "mo_ta": "Edwin là người hướng dẫn và đang thực hiện một quy trình trên Frondier.",
+   "cach_goi": "gọi tên Edwin, lễ phép"
+  },
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Edwin là người hướng dẫn và đang thực hiện một quy trình trên Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người ở gần nhau, Sybil lắng nghe cuộc trò chuyện của Frondier và Edwin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người ở gần nhau, Sybil lắng nghe cuộc trò chuyện của Frondier và Edwin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Binkis",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người đang làm việc cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Daud",
+   "b": "Binkis",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người đang làm việc cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ellen Evans (tên đầy đủ của Ellen)"
+ ],
+ "stats": {
+  "tokens": 959,
+  "seconds": 29.5
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "number": 595,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi một cuộc tấn công của quỷ dữ vào lâu đài, Frondier nhận được lời mời đến thăm công ty Hitchcock từ Jeremy. Anh đồng ý và đi cùng Elodie. Sau đó, Lily phàn nàn vì phải gánh chịu hậu quả sau hành động của anh. Cuối cùng, Frondier đến công ty Hitchcock để tìm hiểu lý do thực sự đằng sau lời mời này.",
+ "boi_canh": "Lâu đài, ngày hiện tại, sau cuộc tấn công của quỷ dữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Lily",
+  "Jeremy",
+  "Ria Lis",
+  "Lis"
+ ],
+ "su_kien": [
+  "Frondier nhận được lời mời đến thăm công ty Hitchcock từ Jeremy.",
+  "Lily phàn nàn vì phải gánh chịu hậu quả sau hành động của Frondier.",
+  "Frondier đồng ý đến thăm công ty Hitchcock.",
+  "Jeremy tiết lộ có một lý do 'không danh dự' cho lời mời của anh.",
+  "Hitchcock nghi ngờ thiết bị trên người Frondier liên quan đến sản phẩm bí mật của họ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan tâm lẫn nhau.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan tâm lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, nhưng Frondier thường trốn tránh trách nhiệm.",
+   "cach_goi": "gọi tên Lily, không thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Lily phàn nàn về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jeremy",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Jeremy mời Frondier đến công ty.",
+   "cach_goi": "gọi tên Jeremy, không thân mật"
+  },
+  {
+   "a": "Jeremy",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Jeremy mời Frondier đến công ty.",
+   "cach_goi": "gọi tên Frondier, không thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ria Lis",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đổ lỗi cho Ria Lis để trốn tránh trách nhiệm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ria Lis",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đổ lỗi cho Ria Lis để trốn tránh trách nhiệm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Thiết bị trên người Frondier có vẻ tương tự sản phẩm của công ty Hitchcock."
+ ],
+ "stats": {
+  "tokens": 933,
+  "seconds": 27.9
+ }
+}

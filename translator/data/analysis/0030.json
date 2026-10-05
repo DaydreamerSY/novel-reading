@@ -1,0 +1,65 @@
+{
+ "number": 30,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Elodie trò chuyện về việc tham gia câu lạc bộ tại trường Constel. Aster cố gắng tìm hiểu sở thích của Elodie nhưng bị cô né tránh. Elodie bày tỏ sự cô đơn khi không có bạn bè cùng tham gia các hoạt động ngoại khóa và quan tâm đến tin đồn về sự thay đổi của Frondier, khiến cô quyết định đi xác minh.",
+ "boi_canh": "Hành lang trường Constel trong thời gian tuyển sinh câu lạc bộ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Ortel"
+ ],
+ "su_kien": [
+  "Aster hỏi Elodie về việc tham gia câu lạc bộ.",
+  "Elodie nói muốn tham gia câu lạc bộ cưỡi ngựa Casian.",
+  "Aster nhận xét Elodie được nhiều người chào đón.",
+  "Elodie bày tỏ sự cô đơn vì thiếu bạn bè.",
+  "Elodie quan sát Frondier trong phòng tập và quyết định tìm hiểu tin đồn về anh."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Aster cố gắng tìm hiểu sở thích của Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết nhưng Elodie né tránh và có vẻ bí mật.",
+   "cach_goi": "gọi tên Aster, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, nhưng không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, nhưng không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ortel",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Elodie, yêu thương và quan tâm đến cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của Frondier)",
+  "Aster Evans (Tên đầy đủ của Aster)"
+ ],
+ "stats": {
+  "tokens": 679,
+  "seconds": 20.3
+ }
+}

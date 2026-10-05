@@ -1,0 +1,73 @@
+{
+ "number": 185,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cuộc đối thoại căng thẳng giữa Nimue và Merlin bên hồ nước, nơi Merlin bày tỏ sự hối lỗi và đặt câu hỏi về quyền lực của Nimue. Đồng thời, Frondier phát hiện ra một đoạn văn bằng tiếng cổ và bị Selena tấn công vì khả năng giải mã ngôn ngữ đó, hé lộ nguồn gốc thực sự của anh.",
+ "boi_canh": "Bên hồ nước, vào khoảnh khắc đầy căng thẳng giữa Merlin và Nimue.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Merlin",
+  "Cassian",
+  "Nimue",
+  "Arthur"
+ ],
+ "su_kien": [
+  "Merlin xin lỗi Nimue vì đã lừa dối cô.",
+  "Merlin hỏi Nimue liệu cô có thể giết ông ta bất cứ lúc nào hay không.",
+  "Nimue tiết lộ rằng chính phép thuật của cô đang duy trì Merlin và khu rừng.",
+  "Merlin yêu cầu Nimue ở lại bên cạnh ông.",
+  "Selena tấn công Frondier vì khả năng giải mã tiếng cổ."
+ ],
+ "quan_he": [
+  {
+   "a": "Merlin",
+   "b": "Nimue",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy và trò cũ, Merlin xin lỗi và tìm kiếm sự thật từ Nimue.",
+   "cach_goi": "gọi tên Nimue, lễ phép"
+  },
+  {
+   "a": "Nimue",
+   "b": "Merlin",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò cũ của Nimue, cô trả lời những câu hỏi khó khăn của ông.",
+   "cach_goi": "gọi tên Merlin, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Selena tấn công Frondier vì bí mật anh nắm giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Selena đe dọa và tấn công Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Merlin",
+   "b": "Arthur",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Merlin đang chờ đợi Arthur.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nimue",
+   "b": "Arthur",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Nimue đang chờ đợi Arthur.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier được gửi đến từ Manggot vì khả năng giải mã tiếng cổ, hé lộ nguồn gốc của anh."
+ ],
+ "stats": {
+  "tokens": 770,
+  "seconds": 23.0
+ }
+}

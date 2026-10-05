@@ -1,0 +1,82 @@
+{
+ "number": 227,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, các giáo viên thảo luận về mối đe dọa từ Indus và những hoạt động tội phạm của họ. Họ cũng đề cập đến vai trò của Serf Daniel trong kế hoạch của Indus. Frondier bị chế giễu vì thường xuyên gây ra rắc rối, và Jane bày tỏ lo ngại về cậu. Một áp phích bí mật tiết lộ nỗi sợ hãi xác chết và mục đích thực sự của Quinie khi gia nhập Constel. Cuối cùng, Frondier phá vỡ bức tường có áp phích và thúc giục Quinie nói chuyện.",
+ "boi_canh": "Trong hành lang trường Constel, sau một cuộc họp giáo viên.",
+ "nhan_vat": [
+  "Frondier",
+  "Quinie",
+  "Jane",
+  "Edwin",
+  "Malia",
+  "Pascal",
+  "Kraken",
+  "Binkis",
+  "Gregory",
+  "Serf",
+  "Isamaya",
+  "Serf Daniel",
+  "Quinie de Viet",
+  "Student Frondier"
+ ],
+ "su_kien": [
+  "Các giáo viên thảo luận về hoạt động tội phạm của Indus.",
+  "Pascal trêu chọc Frondier vì thường xuyên gây ra rắc rối.",
+  "Một áp phích tiết lộ bí mật về Quinie de Viet.",
+  "Quinie cố gắng xóa áp phỉ bằng phép thuật nhưng không thành công.",
+  "Frondier phá vỡ bức tường có áp phích."
+ ],
+ "quan_he": [
+  {
+   "a": "Isamaya",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên Isamaya hỏi Jane về Frondier.",
+   "cach_goi": "gọi tên Jane, lễ phép"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Pascal trêu chọc Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Jane lo lắng về hành vi của Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  },
+  {
+   "a": "Quinie",
+   "b": "Student Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Quinie né tránh Frondier.",
+   "cach_goi": "gọi tên Student Frondier, lạnh lùng"
+  },
+  {
+   "a": "Student Frondier",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier cố gắng bắt chuyện với Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Jane",
+   "b": "Quinie",
+   "loai": "nguoi_la",
+   "mo_ta": "Jane quan sát Quinie.",
+   "cach_goi": "gọi tên Quinie, không rõ"
+  }
+ ],
+ "danh_tinh": [
+  "Serf Daniel: Người có mặt trong Indus từ đầu và liên quan đến kế hoạch của họ.",
+  "Quinie de Viet: Tên đầy đủ của Quinie, được tiết lộ qua áp phích."
+ ],
+ "stats": {
+  "tokens": 863,
+  "seconds": 25.8
+ }
+}

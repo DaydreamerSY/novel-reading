@@ -1,0 +1,72 @@
+{
+ "number": 459,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier cho phép một quái vật sao chép kỹ thuật 'Falling edge' của Azier. Quái vật đó đã cố gắng giết Bartello và đang bị mất trí nhớ. Frondier sử dụng kỹ thuật 'high-speed learning' để kích hoạt ký ức bị kìm nén của quái vật, dần hé lộ về nguồn gốc và mục đích thực sự của nó, liên quan đến Metamorph.",
+ "boi_canh": "Trong cung điện hoàng gia, một cuộc đối đầu giữa Frondier và một con quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Bartello",
+  "Metamorph"
+ ],
+ "su_kien": [
+  "Quái vật cố gắng sao chép kỹ thuật 'Falling edge' của Frondier.",
+  "Philly cảnh báo Frondier về sự nguy hiểm của quái vật.",
+  "Frondier và quái vật trao đổi đòn tấn công bằng kiếm, tiết lộ sự khác biệt trong kỹ thuật.",
+  "Frondier sử dụng 'high-speed learning' để kích hoạt ký ức bị kìm nén của quái vật.",
+  "Quái vật nhớ lại một phần quá khứ và tự xưng là 'một tai họa'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier nhận lệnh từ Philly và đáp lại ánh mắt của cô.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly quan tâm đến sự an toàn của Frondier và cảnh báo anh.",
+   "cach_goi": "gọi tên Frondier, lo lắng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quái vật",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đang huấn luyện và thẩm vấn quái vật.",
+   "cach_goi": "gọi 'you', trịch thượng"
+  },
+  {
+   "a": "Quái vật",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Quái vật cố gắng học hỏi từ Frondier và sau đó nhớ lại ký ức.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "ban_be",
+   "mo_ta": "Quái vật nhận ra và phản ứng với tên của Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bartello",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Philly lo lắng cho sự an toàn của Bartello.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Quái vật nhớ lại mình là 'một tai họa' do Metamorph tạo ra, và là một đối tượng thử nghiệm."
+ ],
+ "stats": {
+  "tokens": 820,
+  "seconds": 24.5
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "number": 160,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối chất với Selena về hành động khiêu gợi của cô ấy và thiết lập các quy tắc nghiêm ngặt để đảm bảo sự phục tùng tuyệt đối. Anh ta sử dụng mối đe dọa bằng mũi tên Artemis và buộc Selena phải tuân theo mọi mệnh lệnh, bao gồm cả việc báo cáo mọi hành động cho Manggot. Cuối cùng, anh ta yêu cầu cô ấy thực hiện tất cả các hoạt động cá nhân ở Manggot, gây ra sự khó chịu cho Selena.",
+ "boi_canh": "Trong phòng thay đồ của Frondier, vào một thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Hagley",
+  "Artemis"
+ ],
+ "su_kien": [
+  "Selena cố tình thay đồ trước mặt Frondier.",
+  "Frondier đe dọa Selena bằng mũi tên Artemis và yêu cầu cô báo cáo mọi hành động cho Manggot.",
+  "Selena tiết lộ rằng cô sẽ đến Manggot sau 15 ngày.",
+  "Frondier buộc Selena phải ngủ ở Manggot.",
+  "Selena biến mất, tương tự như cách Hagley đã làm trước đó."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là chủ nhân và Selena là người hầu, anh ta ra lệnh và cô ấy phải tuân theo.",
+   "cach_goi": "gọi tên Selena, lạnh lùng"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Selena là người hầu và phải tuân theo mệnh lệnh của Frondier.",
+   "cach_goi": "gọi tên Frondier, kính trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hagley",
+   "loai": "khac",
+   "mo_ta": "Frondier nhắc đến Hagley như một ví dụ về cách thức hoạt động của Manggot.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Artemis",
+   "loai": "khac",
+   "mo_ta": "Selena sử dụng mũi tên Artemis do Frondier tạo ra.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính của bất kỳ nhân vật nào."
+ ],
+ "stats": {
+  "tokens": 649,
+  "seconds": 20.1
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "number": 80,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier được đưa vào Hoàng cung Đế quốc Terst bởi Philly, nơi ông trải nghiệm những tiện nghi xa hoa và vũ khí mạnh mẽ. Ông sao chép thông tin về vũ khí vào Workshop của mình, đặc biệt quan tâm đến Mjölnir, vũ khí thần thoại của Thor. Trong khi đó, một sự kiện bất ngờ xảy ra khiến Frondier nghi ngờ Philly đang diễn kịch.",
+ "boi_canh": "Bên trong Hoàng cung Đế quốc Terst, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly",
+  "Thor",
+  "Zeus"
+ ],
+ "su_kien": [
+  "Frondier được đưa vào Hoàng cung Đế quốc Terst và bịt mắt.",
+  "Ông quan sát vũ khí trong phòng, sao chép thông tin vào Workshop.",
+  "Ông nhìn thấy Mjölnir, vũ khí của Thor.",
+  "Một tảng đá rơi xuống trước Philly, khiến cô hoảng sợ.",
+  "Frondier nghi ngờ hành động của Philly là giả tạo."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hướng dẫn Frondier đi trong Hoàng cung.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người dẫn dắt Frondier đi trong Hoàng cung.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "lái xe",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lái xe, có vẻ như còn là người bảo vệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "lái xe",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lái xe, có vẻ như còn là người bảo vệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mjölnir: vũ khí thần thoại của Thor"
+ ],
+ "stats": {
+  "tokens": 597,
+  "seconds": 18.0
+ }
+}

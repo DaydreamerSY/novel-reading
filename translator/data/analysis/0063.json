@@ -1,0 +1,89 @@
+{
+ "number": 63,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu bằng những lời đồn đoán về Frondier và khả năng sử dụng aura của anh ta, liên quan đến sự kiện trước đây với golem của Edwin và cái chết của các thành viên trong nhóm 'October'. Serf ra lệnh tạo dựng bằng chứng giả mạo để đổ tội cho Frondier. Sau đó, Frondier cùng một đứa trẻ trốn thoát qua đường hầm bí mật dưới đất, nhưng đường hầm này đã bị anh ta phá sập từ bên trong. Cuối cùng, Frondier bất ngờ gặp Sybil và Elodie tại lối thoát hiểm.",
+ "boi_canh": "Bên trong lâu đài đang bốc cháy, vào thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Edwin",
+  "Gregory",
+  "Serf",
+  "Slevb",
+  "Elodie de Inies Rishae"
+ ],
+ "su_kien": [
+  "Những lời đồn đoán về khả năng sử dụng aura của Frondier lan truyền.",
+  "Serf ra lệnh tạo dựng bằng chứng giả mạo để đổ tội cho Frondier.",
+  "Frondier cùng một đứa trẻ trốn thoát qua đường hầm bí mật.",
+  "Đường hầm bí mật bị Frondier phá sập từ bên trong.",
+  "Frondier gặp Sybil và Elodie tại lối thoát hiểm."
+ ],
+ "quan_he": [
+  {
+   "a": "Gregory",
+   "b": "Serf",
+   "loai": "cap_tren",
+   "mo_ta": "Serf là cấp trên của Gregory, nhận lệnh từ Serf.",
+   "cach_goi": "gọi 'Serf', trịch thượng"
+  },
+  {
+   "a": "Serf",
+   "b": "Gregory",
+   "loai": "cap_tren",
+   "mo_ta": "Serf là cấp trên của Gregory, ra lệnh cho Gregory.",
+   "cach_goi": "gọi 'Gregory', trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, liên quan đến sự kiện golem trước đây.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serf",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Serf muốn đổ tội cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, có liên quan đến quá khứ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, có liên quan đến quá khứ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie de Inies Rishae",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, gặp gỡ lần đầu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie de Inies Rishae",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, gặp gỡ lần đầu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi tỉnh thần tính)"
+ ],
+ "stats": {
+  "tokens": 970,
+  "seconds": 29.0
+ }
+}

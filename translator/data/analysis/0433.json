@@ -1,0 +1,116 @@
+{
+ "number": 433,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào Aten chuẩn bị cho sự kiện tại Cung điện Hoàng gia và cuộc gặp gỡ với cha cô, Bartello. Cô lo lắng về việc phải đối diện với người cha mà mình hầu như không giao tiếp. Đồng thời, Aten cũng suy nghĩ về Frondier de Roach, một học viên Constel khác sẽ tham dự sự kiện, và những ý nghĩa ẩn sau trang phục trắng của cô và màu đen của anh. Cuối cùng, gia đình Roach đến Cung điện Hoàng gia, thu hút sự chú ý với vẻ ngoài đặc biệt của Frondier.",
+ "boi_canh": "Cung điện Hoàng gia, trước buổi lễ chung.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Azier",
+  "Enfer",
+  "Malia",
+  "Eden",
+  "Bartello",
+  "Frondier de Roach",
+  "Mom",
+  "Eden Hamelot",
+  "Father",
+  "Servant 1",
+  "Servant 2"
+ ],
+ "su_kien": [
+  "Aten lo lắng về cuộc gặp gỡ với cha cô, Bartello.",
+  "Aten suy nghĩ về ý nghĩa của trang phục trắng và đen trong hôn lễ.",
+  "Frondier de Roach được xác định là một học viên Constel khác tham gia sự kiện.",
+  "Gia đình Hamelot đến Cung điện Hoàng gia, thu hút sự chú ý.",
+  "Gia đình Roach xuất hiện tại Cung điện Hoàng gia, với Frondier mặc đồ đen gây ấn tượng mạnh."
+ ],
+ "quan_he": [
+  {
+   "a": "Servant 1",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu giúp Aten chuẩn bị trang phục và trang điểm.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Servant 1",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten trả lời người hầu.",
+   "cach_goi": "gọi tên Servant 1, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Servant 2",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu quan sát và bình luận về vẻ ngoài của Aten.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Servant 2",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten trả lời người hầu.",
+   "cach_goi": "gọi tên Servant 2, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "Hoàng hậu yêu cầu Aten đến Cung điện Hoàng gia.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Aten suy nghĩ về giọng điệu nghiêm túc của mẹ.",
+   "cach_goi": "gọi 'Mom', thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai của Malia, lái xe đưa gia đình đến Cung điện Hoàng gia.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ của Enfer, mẹ của Frondier và Azier.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Enfer",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier và Azier.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ của Enfer.",
+   "cach_goi": "gọi tên Enfer, thân mật"
+  },
+  {
+   "a": "Frondier de Roach",
+   "b": "Aten",
+   "loai": "khac",
+   "mo_ta": "Hai người có vẻ quan tâm đến nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của nhân vật chính)"
+ ],
+ "stats": {
+  "tokens": 1234,
+  "seconds": 37.0
+ }
+}

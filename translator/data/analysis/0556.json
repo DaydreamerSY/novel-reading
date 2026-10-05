@@ -1,0 +1,72 @@
+{
+ "number": 556,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối mặt với Belphegor, một trong Bảy Tội Lỗi, trong một trận chiến khốc liệt. Frondier sử dụng Excalibur để áp đảo Belphegor nhưng lại hao tổn rất nhiều mana. Sau khi trận chiến tạm lắng xuống, Belphegor đặt câu hỏi về động cơ của Frondier khi đứng về phía Đế Chế và những suy nghĩ sâu kín hơn về số phận của nhân loại.",
+ "boi_canh": "Một vùng chiến trường hoang tàn, giữa một cuộc đối đầu căng thẳng.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Sybil",
+  "Azier",
+  "Ellen",
+  "Malia",
+  "Kora",
+  "Heldre",
+  "Mei",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Frondier sử dụng Excalibur để đối đầu với Belphegor.",
+  "Belphegor chịu đựng các đòn tấn công của Frondier bằng aura bảo vệ.",
+  "Excalibur tiêu tốn một lượng lớn mana từ Frondier.",
+  "Belphegor nhận ra sự kiệt sức của Frondier.",
+  "Belphegor đặt câu hỏi về động cơ của Frondier khi đứng về phía Đế Chế."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Belphegor, lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến, đặt câu hỏi về động cơ.",
+   "cach_goi": "gọi tên Frondier, dò xét"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, được so sánh về tính cách và kỹ năng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "gia_dinh",
+   "mo_ta": "Chị dâu, được so sánh về tính cách và kỹ năng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân, được so sánh về kỹ năng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Belphegor: Một trong Bảy Tội Lỗi."
+ ],
+ "stats": {
+  "tokens": 733,
+  "seconds": 22.9
+ }
+}

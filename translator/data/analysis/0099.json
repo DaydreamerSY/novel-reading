@@ -1,0 +1,64 @@
+{
+ "number": 99,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier mua sắm trong cửa hàng, Elysia sắp xếp để các sản phẩm được gửi đến dinh thự Roach. Họ sau đó vào một quán cà phê tên là 'Melting Garden' và uống đồ uống của mình. Elysia đề nghị Frondier gia nhập hoàng cung với vị trí tốt, sử dụng việc cứu Aten làm lý do. Tuy nhiên, Frondier từ chối lời đề nghị này, khẳng định rằng anh không đặc biệt cả.",
+ "boi_canh": "Trong một quán cà phê tên là 'Melting Garden', hai người đang trò chuyện.",
+ "nhan_vat": [
+  "Frondier",
+  "Elysia",
+  "Aten",
+  "Enfer"
+ ],
+ "su_kien": [
+  "Frondier mua sắm và Elysia sắp xếp vận chuyển hàng đến dinh thự Roach.",
+  "Họ uống đồ tại quán cà phê 'Melting Garden'.",
+  "Elysia đề nghị Frondier gia nhập hoàng cung.",
+  "Frondier từ chối lời đề nghị của Elysia.",
+  "Aten đang ẩn mình trong một góc và được Elysia phát hiện."
+ ],
+ "quan_he": [
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Elysia là người có địa vị cao hơn và đang cố gắng thuyết phục Frondier gia nhập hoàng cung.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier lịch sự nhưng kiên quyết từ chối lời đề nghị của Elysia.",
+   "cach_goi": "gọi tên Elysia, lễ phép"
+  },
+  {
+   "a": "Elysia",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "Chị em gái, Elysia phát hiện Aten đang ẩn mình.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Chị em gái, Aten trả lời trung thực với Elysia.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Enfer: 'Iron Wall' (Biệt danh)"
+ ],
+ "stats": {
+  "tokens": 707,
+  "seconds": 22.7
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "number": 335,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bắt giữ Laurie để thẩm vấn về cuộc tấn công của cô ta. Sau khi Laurie từ chối trả lời, Frondier định rời đi nhưng cuối cùng cô ta đã đồng ý khai báo. Laurie tiết lộ rằng những con quái vật bên ngoài rào cản Yeranhes đang thờ phụng một tảng băng khổng lồ chứa đựng một mảnh vỡ của Helheim.",
+ "boi_canh": "Trong xưởng làm việc, tối đen như mực, Frondier vừa thẩm vấn Laurie.",
+ "nhan_vat": [
+  "Frondier",
+  "Laurie",
+  "Enfer",
+  "Gregory",
+  "Warden Esther"
+ ],
+ "su_kien": [
+  "Laurie bị bắt giữ bởi Frondier.",
+  "Laurie từ chối trả lời các câu hỏi của Frondier ban đầu.",
+  "Frondier định rời đi sau khi Laurie không chịu hợp tác.",
+  "Laurie đồng ý khai báo về mục đích của mình.",
+  "Laurie tiết lộ rằng những con quái vật đang thờ phụng một tảng băng khổng lồ chứa mảnh vỡ Helheim."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "doi_thu",
+   "mo_ta": "Thẩm vấn và tra tấn để lấy thông tin.",
+   "cach_goi": "gọi tên Laurie, lạnh lùng"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Bị bắt giữ và thẩm vấn.",
+   "cach_goi": "gọi tên Frondier, sợ hãi"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier sẽ báo cáo cho Gregory về tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Laurie",
+   "b": "Enfer",
+   "loai": "ke_thu",
+   "mo_ta": "Laurie có thể đã được cử đi ám sát Enfer.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Warden Esther",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier biết thông tin từ Warden Esther về tảng băng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Laurie có thể là một đặc vụ được cử đi ám sát Enfer."
+ ],
+ "stats": {
+  "tokens": 665,
+  "seconds": 19.8
+ }
+}

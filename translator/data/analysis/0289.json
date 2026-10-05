@@ -1,0 +1,53 @@
+{
+ "number": 289,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier bị bạn bè chế giễu vì vẻ ngoài lười biếng, nhưng thực chất là một chiến lược để đánh lạc hướng mọi người. Selena lo lắng khi nghĩ rằng Frondier có thể nghe được cuộc trò chuyện đó và cuối cùng phải đi theo Frondier vào phòng của anh ta. Sau đó, Frondier tiết lộ anh ấy sẽ sớm chấm dứt việc dạy Selena ngôn ngữ cổ và cho cô một chìa khóa quan trọng để giải mã nó, đồng thời nhắc nhở cô đừng quá lo lắng về tương lai.",
+ "boi_canh": "Hành lang trường Constel, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena"
+ ],
+ "su_kien": [
+  "Bạn bè chế giễu Frondier vì vẻ ngoài lười biếng.",
+  "Selena lo lắng khi nghĩ rằng Frondier có thể nghe được cuộc trò chuyện đó.",
+  "Frondier tiếp cận Selena và khiến cô sợ hãi.",
+  "Frondier đưa Selena vào phòng của anh ta để nói chuyện.",
+  "Frondier thông báo sẽ chấm dứt việc dạy ngôn ngữ cổ cho Selena và cung cấp một chìa khóa giải mã."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người có quyền lực hơn, khiến Selena lo lắng và phải tuân theo.",
+   "cach_goi": "gọi tên Selena, không rõ ràng"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Selena phải tuân theo mệnh lệnh của Frondier và luôn lo lắng về phản ứng của anh ta.",
+   "cach_goi": "gọi tên Frondier, kính trọng nhưng sợ hãi"
+  },
+  {
+   "a": "Bạn bè của Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Chỉ trích và chế nhạo Frondier.",
+   "cach_goi": "chế giễu, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Bạn bè của Selena",
+   "loai": "ban_be",
+   "mo_ta": "Selena và bạn bè có vẻ thân thiết nhưng lại bàn tán sau lưng Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 642,
+  "seconds": 19.9
+ }
+}

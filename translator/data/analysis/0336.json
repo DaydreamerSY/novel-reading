@@ -1,0 +1,75 @@
+{
+ "number": 336,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi để Laurie tức giận rời đi, Frondier suy ngẫm về những lời của cô ta liên quan đến Mảnh Vỡ Helheim và sự liên quan có thể có của cha anh, Enfer. Anh phân tích các sự kiện, cân nhắc khả năng can thiệp của thần thánh và kết luận rằng Laurie đang che giấu danh tính của mình. Cuối cùng, anh quyết định không tra tấn cô ta mà tìm cách khác để thu thập thông tin.",
+ "boi_canh": "Một nơi nào đó ở vùng cực bắc, trong một thời điểm chưa xác định sau khi một sự kiện bất thường xảy ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Laurie",
+  "Enfer",
+  "Selena",
+  "Aster",
+  "Esther",
+  "Ares",
+  "Alan"
+ ],
+ "su_kien": [
+  "Laurie tiết lộ rằng Mảnh Vỡ Helheim có thể liên quan đến Enfer.",
+  "Frondier suy đoán về nguồn gốc của những con quái vật Obsidian và vai trò của chính mình trong sự kiện này.",
+  "Frondier cân nhắc khả năng can thiệp của thần thánh vào thế giới này.",
+  "Laurie từ chối tiết lộ danh tính của mình.",
+  "Frondier quyết định không tra tấn Laurie mà tìm cách khác để thu thập thông tin."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Laurie",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đang thẩm vấn Laurie về Mảnh Vỡ Helheim. Laurie tỏ ra căng thẳng và phòng bị.",
+   "cach_goi": "gọi tên Laurie, không thân mật"
+  },
+  {
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Laurie đang cố gắng che giấu danh tính của mình và tỏ ra lo lắng về phản ứng của Frondier.",
+   "cach_goi": "gọi tên Frondier, không thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Laurie đề cập đến Enfer, người mà Frondier có mối quan hệ cấp trên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Laurie",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Laurie đề cập đến Enfer, người mà cô ta có thể đang điều tra.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Frondier nhớ lại những gì đã học được từ Selena về cách thẩm vấn người trong thế giới ngầm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Selena đã cung cấp cho Frondier những lời khuyên về cách thẩm vấn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Laurie đang che giấu danh tính của mình."
+ ],
+ "stats": {
+  "tokens": 842,
+  "seconds": 25.2
+ }
+}

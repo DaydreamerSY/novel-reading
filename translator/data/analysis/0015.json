@@ -1,0 +1,66 @@
+{
+ "number": 15,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier trải qua một nỗ lực ám sát bởi Thanatos, vị thần chết của Etius, người đã chiếm lấy cơ thể anh. Anh đã tìm cách ngăn chặn Thanatos bằng cách sử dụng giọng nói của mình và sau đó nhận ra danh tính thật của kẻ tấn công. Frondier suy đoán rằng việc này liên quan đến 'Weaving' và bắt đầu chuẩn bị cho những nguy hiểm tiềm ẩn. Trong khi đó, Quinie đang thu thập thông tin về Frondier từ Anne tại trường Constel.",
+ "boi_canh": "Trong phòng của Frondier, sau khi anh nhận ra Thanatos đã chiếm lấy cơ thể anh.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Quinie",
+  "Frondier de Roach",
+  "Anne",
+  "Thanatos"
+ ],
+ "su_kien": [
+  "Thanatos chiếm lấy cơ thể Frondier và cố gắng khiến anh tự sát.",
+  "Frondier sử dụng giọng nói của mình để ngăn chặn Thanatos.",
+  "Frondier nhận ra danh tính của Thanatos là vị thần chết.",
+  "Thanatos rời khỏi cơ thể Frondier.",
+  "Quinie hỏi Anne về Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Thanatos",
+   "loai": "ke_thu",
+   "mo_ta": "Thanatos chiếm lấy cơ thể Frondier, cố gắng giết anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thanatos",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier cố gắng ngăn chặn Thanatos bằng giọng nói của mình.",
+   "cach_goi": "gọi 'damn god', lạnh lùng"
+  },
+  {
+   "a": "Thanatos",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Thanatos chiếm lấy cơ thể Frondier, cố gắng giết anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Anne",
+   "loai": "ban_be",
+   "mo_ta": "Hai người bạn đang trò chuyện trong lớp học.",
+   "cach_goi": "gọi tên Anne, thân mật"
+  },
+  {
+   "a": "Anne",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người bạn đang trò chuyện trong lớp học.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Thanatos: Vị thần chết của Etius, thường được miêu tả là 'death itself' trong truyền thuyết Hy Lạp, nhưng ở Etius lại có thể chết và không phải là cái chết tuyệt đối."
+ ],
+ "stats": {
+  "tokens": 730,
+  "seconds": 21.9
+ }
+}

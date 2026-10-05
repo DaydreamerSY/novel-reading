@@ -1,0 +1,101 @@
+{
+ "number": 391,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi vượt qua bài kiểm tra của Dier, Aten nhận thấy đội của họ đã thành công. Cô quan sát và chờ đợi để phỏng vấn họ về Frondier, người mà nhiều người vẫn còn ít thông tin. Trong khi đó, một đội khác đang thực hiện bài kiểm tra thứ tư, nơi Lunia là người hướng dẫn. Cuối cùng, Dier và đồng đội nhận ra rằng bài kiểm tra thứ hai, do Sloth giám sát, có lẽ đã được điều chỉnh để phù hợp với sức mạnh của Sloth, khiến họ nghi ngờ về cách Constel đánh giá Frondier.",
+ "boi_canh": "Trong phòng thi ở Constel, sau khi một đội vượt qua bài kiểm tra thứ hai.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Pielott",
+  "Dier",
+  "Lunia",
+  "Roxy",
+  "Homas",
+  "Pielott von Ribanche",
+  "Nether"
+ ],
+ "su_kien": [
+  "Đội của Dier vượt qua bài kiểm tra của Frondier.",
+  "Aten nhận thấy đội của Dier đã vượt qua và chờ đợi để phỏng vấn họ.",
+  "Một đội khác bắt đầu thực hiện bài kiểm tra thứ tư dưới sự hướng dẫn của Lunia.",
+  "Dier và đồng đội nhận ra rằng bài kiểm tra thứ hai có lẽ được điều chỉnh để phù hợp với sức mạnh của Sloth.",
+  "Đội Dier tiến vào phòng chờ, nơi không còn ai khác."
+ ],
+ "quan_he": [
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Aten quan tâm đến Frondier và muốn tìm hiểu thêm về anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có mối quan hệ đồng nghiệp và đều tò mò về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có mối quan hệ đồng nghiệp và đều tò mò về Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Dier và Aten có mối quan hệ cấp trên - học sinh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Lunia là người hướng dẫn và khen ngợi Pielott.",
+   "cach_goi": "gọi tên Pielott, lễ phép"
+  },
+  {
+   "a": "Pielott",
+   "b": "Lunia",
+   "loai": "thay_tro",
+   "mo_ta": "Pielott trả lời Lunia một cách khô khan nhưng vẫn tôn trọng.",
+   "cach_goi": "gọi tên Lunia, lễ phép"
+  },
+  {
+   "a": "Roxy",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Roxy và Pielott là đồng đội.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Nether",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Nether và Dier là đồng đội.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Homas",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Homas và Dier là đồng đội.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Sloth: Người hướng dẫn bài kiểm tra thứ hai, có vẻ như sức mạnh của anh ta đã được điều chỉnh để phù hợp với độ khó của bài kiểm tra."
+ ],
+ "stats": {
+  "tokens": 1099,
+  "seconds": 33.0
+ }
+}

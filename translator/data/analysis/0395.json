@@ -1,0 +1,83 @@
+{
+ "number": 395,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi khiêu khích một vị thần, Edwin bị ám ảnh bởi sự sợ hãi và những ký ức về hành động của Frondier với Hephaestus. Anh ta sử dụng một thiết bị bí mật để liên lạc với Hypnos, vị thần ngủ, nhưng cuộc trò chuyện ngắn ngủi đó tiết lộ những lo ngại sâu sắc về Pielott và mối quan hệ phức tạp giữa các vị thần. Cuối cùng, Frondier đến phòng thí nghiệm của Binkis sau khi Edwin rời đi, và họ thảo luận về tình hình, với kế hoạch sử dụng Pielott để thao túng Hypnos và có thể thu hút một đồng minh từ bên ngoài.",
+ "boi_canh": "Phòng nghiên cứu của Binkis, thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Pielott",
+  "Edwin",
+  "Binkis",
+  "Hypnos",
+  "Hephaestus",
+  "Thanatos",
+  "Hestia"
+ ],
+ "su_kien": [
+  "Edwin sử dụng một thiết bị bí mật để liên lạc với Hypnos.",
+  "Edwin bày tỏ sự lo ngại về Pielott và hành vi của anh ta.",
+  "Frondier nhớ lại cách anh ta đối phó với Hephaestus trong vụ việc golem.",
+  "Edwin tiết lộ rằng Pielott đang nhận được sức mạnh thần thánh từ Hypnos.",
+  "Frondier và Edwin thảo luận về khả năng sử dụng Pielott để thao túng Hypnos và có thể thu hút một đồng minh từ bên ngoài."
+ ],
+ "quan_he": [
+  {
+   "a": "Edwin",
+   "b": "Hypnos",
+   "loai": "doi_thu",
+   "mo_ta": "Edwin cố gắng thu thập thông tin từ Hypnos, nhưng bị từ chối.",
+   "cach_goi": "gọi 'Hypnos', lạnh lùng"
+  },
+  {
+   "a": "Hypnos",
+   "b": "Edwin",
+   "loai": "doi_thu",
+   "mo_ta": "Hypnos cảnh báo Edwin về tương lai của anh ta và sự nguy hiểm tiềm ẩn.",
+   "cach_goi": "gọi tên Edwin, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier đến phòng thí nghiệm của Edwin sau khi anh ta rời đi để thảo luận về những gì đã xảy ra.",
+   "cach_goi": "gọi tên Edwin, thân mật"
+  },
+  {
+   "a": "Edwin",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Edwin cung cấp thông tin cho Frondier về cuộc trò chuyện của anh ta với Hypnos.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier lo ngại về sự kiêu ngạo của Pielott và tiềm năng trở thành nhân vật phản diện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Pielott",
+   "loai": "cap_tren",
+   "mo_ta": "Edwin lo ngại về sự kiêu ngạo của Pielott và tiềm năng trở thành nhân vật phản diện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hypnos",
+   "b": "Pielott",
+   "loai": "cap_tren",
+   "mo_ta": "Hypnos đang trao sức mạnh thần thánh cho Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster."
+ ],
+ "stats": {
+  "tokens": 977,
+  "seconds": 29.5
+ }
+}

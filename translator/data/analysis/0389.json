@@ -1,0 +1,127 @@
+{
+ "number": 389,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier, người giám khảo bài kiểm tra của học viên năm nhất, bày tỏ sự khoan dung nhưng cũng nhấn mạnh tầm quan trọng của việc thể hiện sức mạnh để các học viên cảm thấy thành tựu. Anh ta áp đặt những hạn chế lên bản thân để đảm bảo tính công bằng và tạo cơ hội cho Pielott phát triển. Một nhóm học viên, dẫn đầu bởi Dier, đã nhận ra một điểm đặc biệt về chiếc ghế Frondier đang ngồi và lập kế hoạch sử dụng nó để dự đoán các đòn tấn công của anh ta.",
+ "boi_canh": "Phòng thi tại Constel, trong buổi kiểm tra năng lực của học viên năm nhất.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Pielott",
+  "Ellen",
+  "Dier",
+  "Roxy",
+  "Neil",
+  "Neil Jack",
+  "Homas",
+  "Pielott von Ribanche",
+  "Nether"
+ ],
+ "su_kien": [
+  "Frondier bày tỏ quan điểm về việc đánh giá học viên năm nhất.",
+  "Frondier áp đặt giới hạn cho bản thân khi sử dụng Weaving để tạo ra vũ khí.",
+  "Dier nhận ra chiếc ghế Frondier đang ngồi có đặc tính đặc biệt liên quan đến chất lỏng đen.",
+  "Nether đề nghị tạo 'Link' phép thuật giữa Dier và Pielott để truyền thông tin về các đòn tấn công của Frondier.",
+  "Nhóm học viên bắt đầu kế hoạch kiểm tra dựa trên những gì Dier đã phát hiện."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Giám khảo và học viên, Frondier muốn Pielott phát triển.",
+   "cach_goi": "gọi 'Sloth', thô lỗ"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Học viên, có vẻ hơi ngạo mạn.",
+   "cach_goi": "gọi 'Sloth', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "thay_tro",
+   "mo_ta": "Giám khảo và học viên, Dier có vẻ thông minh và quan sát tốt.",
+   "cach_goi": "gọi 'Sloth', thô lỗ"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học viên, có vẻ rất tôn trọng Frondier.",
+   "cach_goi": "gọi 'Sloth', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Roxy",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Roxy",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Homas",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Homas",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Nether",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nether",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "doi_thu",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pielott von Ribanche (tên đầy đủ)"
+ ],
+ "stats": {
+  "tokens": 1348,
+  "seconds": 40.2
+ }
+}

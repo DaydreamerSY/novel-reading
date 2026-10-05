@@ -1,0 +1,98 @@
+{
+ "number": 61,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier phát hiện ra một lối thoát bí mật trong căn nhà gỗ mà anh ta đang bị giam giữ. Tuy nhiên, trước khi anh ta có thể trốn thoát, những kẻ bắt cóc tiết lộ kế hoạch tàn nhẫn của họ: sử dụng một đứa trẻ làm mồi để dụ Frondier ra ngoài và buộc tội anh ta giết người bằng phóng hỏa. Anh ta nhận ra rằng những kẻ này không phải là kẻ thù đơn giản mà là thành viên của tổ chức Indus bí ẩn, và đối đầu với Serf Daniel, người mà anh ta biết rõ hơn những gì tưởng tượng.",
+ "boi_canh": "Trong một căn nhà gỗ cũ kỹ, nơi Frondier bị giam giữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Serf",
+  "Grobel",
+  "Rokbel",
+  "Serf Daniel"
+ ],
+ "su_kien": [
+  "Frondier tìm thấy một lối thoát bí mật sau giá sách.",
+  "Những kẻ bắt cóc tiết lộ kế hoạch sử dụng một đứa trẻ để dụ Frondier ra ngoài.",
+  "Frondier nhận ra những kẻ bắt cóc là thành viên của tổ chức Indus.",
+  "Frondier đối đầu với Serf Daniel và vạch trần danh tính của anh ta.",
+  "Frondier xuất hiện từ căn nhà gỗ, bị dụ ra bởi kế hoạch của kẻ thù."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Serf",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là chủ nhân, Serf là người phục tùng và báo cáo tình hình.",
+   "cach_goi": "gọi 'young master', trịch thượng"
+  },
+  {
+   "a": "Serf",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Serf là người chỉ huy, Frondier là đối tượng bị điều khiển.",
+   "cach_goi": "gọi 'young master', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Grobel",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Grobel là một trong những kẻ bắt cóc Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Grobel",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Grobel là một trong những kẻ bắt cóc Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Rokbel",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Rokbel là một đứa trẻ bị bắt cóc và sử dụng làm mồi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Rokbel",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Rokbel là một đứa trẻ bị bắt cóc và sử dụng làm mồi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Serf Daniel",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier vạch trần danh tính của Serf Daniel.",
+   "cach_goi": "gọi tên Serf Daniel, lạnh lùng"
+  },
+  {
+   "a": "Serf Daniel",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Serf Daniel bị Frondier vạch trần.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Grobel",
+   "b": "Rokbel",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em trai.",
+   "cach_goi": "gọi tên Rokbel, thân mật"
+  },
+  {
+   "a": "Rokbel",
+   "b": "Grobel",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em trai.",
+   "cach_goi": "gọi tên Grobel, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1129,
+  "seconds": 33.8
+ }
+}

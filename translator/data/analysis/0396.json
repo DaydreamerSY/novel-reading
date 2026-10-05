@@ -1,0 +1,65 @@
+{
+ "number": 396,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi thất bại trong việc lấy Cánh Sen Đen, Pielott tham gia học ở Constel với cảm giác nặng nề. Anh phát hiện ra Edwin von Behetorio đã tìm ra tội lỗi của mình và biết được sự liên quan của Hypnos. Frondier sau đó triệu tập Pielott vào phòng huấn luyện riêng để cảnh cáo anh về hậu quả nếu tin đồn lan truyền. Cuối cùng, Frondier chứng minh sức mạnh của mình mà không cần Obsidian.",
+ "boi_canh": "Trong lớp học ở Constel, khi Pielott đang lo lắng.",
+ "nhan_vat": [
+  "Frondier",
+  "Pielott",
+  "Edwin",
+  "Edwin von Behetorio",
+  "Hypnos"
+ ],
+ "su_kien": [
+  "Pielott tham gia học ở Constel sau khi thất bại trong việc lấy Cánh Sen Đen.",
+  "Edwin von Behetorio phát hiện ra tội lỗi của Pielott.",
+  "Frondier triệu tập Pielott vào phòng huấn luyện riêng.",
+  "Một con quạ gửi thư cho Pielott với một thông điệp bí mật.",
+  "Frondier chứng minh sức mạnh của mình mà không cần Obsidian."
+ ],
+ "quan_he": [
+  {
+   "a": "Pielott",
+   "b": "Edwin",
+   "loai": "doi_thu",
+   "mo_ta": "Edwin phát hiện ra tội lỗi của Pielott.",
+   "cach_goi": "gọi tên Edwin, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier cảnh cáo và chất vấn Pielott.",
+   "cach_goi": "gọi tên Pielott, trịch thượng"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Pielott cảm thấy ghen tị và muốn kiểm chứng sức mạnh của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hypnos",
+   "loai": "ke_thu",
+   "mo_ta": "Sự liên quan của Hypnos đến vụ việc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "quạ",
+   "loai": "nguoi_la",
+   "mo_ta": "Quạ gửi thư cho Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Edwin von Behetorio (tên đầy đủ của Edwin)"
+ ],
+ "stats": {
+  "tokens": 711,
+  "seconds": 21.3
+ }
+}

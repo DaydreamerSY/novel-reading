@@ -1,0 +1,66 @@
+{
+ "number": 543,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier sử dụng kiếm song thủ để tấn công Belphegor, một trận chiến nảy sinh. Frondier thể hiện kỹ thuật 'Weaving' bí mật và áp đảo Belphegor bằng thanh kiếm Excalibur và một thanh kiếm ngắn đặc biệt. Belphegor nhận ra sức mạnh của Frondier và tiết lộ rằng Frondier không phải là con người bình thường mà còn sở hữu sức mạnh từ Helheim. Trong khi đó, Selena trở về nhà ở Manggot và phát hiện ra có thêm một cây kim cắm trong quần áo của mình. Cô quan sát thấy nghi lễ triệu hồi thần linh đang diễn ra tại Manggot và lo lắng cho Frondier.",
+ "boi_canh": "Trong trận chiến giữa Frondier và Belphegor tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Belphegor",
+  "Azier",
+  "Hagley",
+  "Frondier de Roach"
+ ],
+ "su_kien": [
+  "Frondier sử dụng kiếm song thủ tấn công Belphegor.",
+  "Belphegor bị thương bởi thanh kiếm ngắn của Frondier.",
+  "Frondier thể hiện kỹ thuật 'Weaving' bí mật.",
+  "Belphegor nhận ra sức mạnh đặc biệt của Frondier và nguồn gốc từ Helheim.",
+  "Selena phát hiện có thêm một cây kim trong quần áo của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến, Belphegor tỏ ra tức giận và nghi ngờ.",
+   "cach_goi": "gọi 'Belphegor', lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến, Belphegor tỏ ra tức giận và nghi ngờ.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Selena lo lắng cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Hagley tiết lộ một bí mật về quá khứ của Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Hagley",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Selena tỏ ra cảnh giác với Hagley.",
+   "cach_goi": "gọi tên Hagley, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của Frondier)"
+ ],
+ "stats": {
+  "tokens": 777,
+  "seconds": 25.0
+ }
+}

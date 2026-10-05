@@ -1,0 +1,74 @@
+{
+ "number": 393,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi kết thúc bài kiểm tra kỹ năng tân sinh viên, Frondier phải chấm điểm cho tất cả học viên vì những thay đổi bất ngờ trong quy tắc thi. Anh ấy đã chuẩn bị sẵn sàng để thực hiện việc này, mặc dù ban đầu anh ấy tỏ ra bực bội. Chương này cũng giới thiệu sự thất vọng của Pielott về kết quả và nghi ngờ về sức mạnh đột ngột của Frondier.",
+ "boi_canh": "Sân thi đấu kỹ năng tại Học viện Constel, sau khi bài kiểm tra tân sinh viên kết thúc.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Pielott",
+  "Ellen",
+  "Dier",
+  "Homas"
+ ],
+ "su_kien": [
+  "Bài kiểm tra kỹ năng tân sinh viên kết thúc với hầu hết học viên không đạt.",
+  "Ellen, Chủ tịch Hội Sinh viên, yêu cầu Frondier chấm điểm cho tất cả học viên.",
+  "Frondier đã chuẩn bị sẵn sàng các bảng điểm trước đó và chỉ cần xác nhận lại.",
+  "Đội của Dier là đội duy nhất vượt qua vòng thứ hai của Frondier.",
+  "Pielott cảm thấy thất vọng về kết quả thi và nghi ngờ về sự phát triển nhanh chóng của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Ellen là Chủ tịch Hội Sinh viên, ra lệnh cho Frondier chấm điểm.",
+   "cach_goi": "gọi 'tạm thời', trịch thượng"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Ellen ra lệnh cho Frondier, nhưng không giao tiếp trực tiếp.",
+   "cach_goi": "gọi tên 'Frondier', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, thường xuyên tương tác.",
+   "cach_goi": "gọi tên 'Elodie', thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, thường xuyên tương tác.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng phòng, có sự căng thẳng và cạnh tranh.",
+   "cach_goi": "gọi tên 'Dier', thô lỗ"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cùng phòng, có sự căng thẳng và cạnh tranh.",
+   "cach_goi": "gọi tên 'Pielott', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Obsidian: chất lỏng đen được sử dụng bởi Frondier để tạo ra các bài kiểm tra kỹ năng."
+ ],
+ "stats": {
+  "tokens": 828,
+  "seconds": 24.7
+ }
+}

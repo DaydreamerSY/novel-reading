@@ -1,0 +1,89 @@
+{
+ "number": 129,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier ghé thăm xưởng rèn của Neil và Daud Forte, hai thợ rèn nổi tiếng. Anh nhận thấy thanh kiếm ngắn làm bằng thép Viper quý hiếm mà Neil đã tạo ra để giải trí. Sau khi phân tích, Frondier quyết định mua nó, bất chấp độ dài kỳ lạ của nó, và nảy ra ý tưởng sử dụng nó như một trong cặp kiếm đôi.",
+ "boi_canh": "Trong xưởng rèn của Neil và Daud Forte.",
+ "nhan_vat": [
+  "Frondier",
+  "Sybil",
+  "Ellen",
+  "Daud",
+  "Neil",
+  "Neil Jack",
+  "Daud Forte"
+ ],
+ "su_kien": [
+  "Frondier ghé thăm xưởng rèn của Neil và Daud.",
+  "Neil đề nghị Frondier một thanh kiếm miễn phí như một sự đền ơn.",
+  "Frondier phát hiện ra một thanh kiếm ngắn làm bằng thép Viper.",
+  "Frondier sử dụng kỹ năng 'Phân tích' để xác định vật liệu của thanh kiếm.",
+  "Frondier quyết định mua thanh kiếm và nghĩ đến việc sử dụng nó như một trong cặp kiếm đôi."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Neil",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Neil đề nghị Frondier một món quà.",
+   "cach_goi": "gọi 'Mr. Frondier', lễ phép"
+  },
+  {
+   "a": "Neil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Neil đề nghị Frondier một món quà.",
+   "cach_goi": "gọi 'Mr. Frondier', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Bạn, Ellen quan sát Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn, Ellen quan sát Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Daud",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, không tương tác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Daud",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, không tương tác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Neil Jack",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Neil Jack là thợ rèn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Neil Jack",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Neil Jack là thợ rèn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Neil Jack (được biết đến với vai trò thợ rèn)",
+  "Daud Forte (cha của Sybil)"
+ ],
+ "stats": {
+  "tokens": 913,
+  "seconds": 28.2
+ }
+}

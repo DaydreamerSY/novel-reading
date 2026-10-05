@@ -1,0 +1,99 @@
+{
+ "number": 245,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi một loại bột làm Kora biến đổi thành hình dạng hổ trắng hung dữ, Frondier nhanh chóng tìm cách giải độc cho cô ấy bằng một ống tiêm. Selena cố gắng bảo vệ anh ta và sơ tán học sinh, nhưng Frondier quyết định đối mặt với Kora để ngăn chặn thảm họa tái diễn. Anh ta nhờ Serena giúp đỡ và nhận được sự hỗ trợ từ Quinie, người cung cấp cho anh ta bộ ngụy trang. Frondier tiến về phía Kora, chuẩn bị thực hiện một kế hoạch bí ẩn, trong khi Armel chế nhạo khả năng thành công của anh ta.",
+ "boi_canh": "Trong khuôn viên trường Constel, giữa lúc hỗn loạn và nguy hiểm.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Quinie",
+  "Kora",
+  "Armel",
+  "Serena"
+ ],
+ "su_kien": [
+  "Kora biến đổi thành hổ trắng sau khi hít phải bột.",
+  "Frondier tìm thấy và sử dụng một ống tiêm để giải độc cho Kora.",
+  "Selena cố gắng bảo vệ Frondier và sơ tán học sinh.",
+  "Frondier nhờ Serena giúp đỡ trong việc ngăn chặn thảm họa.",
+  "Quinie cung cấp bộ ngụy trang cho Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier nhận sự giúp đỡ và bảo vệ từ Selena.",
+   "cach_goi": "gọi tên Selena, lễ phép"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Selena lo lắng và cố gắng bảo vệ Frondier.",
+   "cach_goi": "gọi tên Frondier-nim, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Frondier nhờ sự giúp đỡ của Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Quinie lo lắng cho Frondier và hỗ trợ anh ta.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kora",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp với Kora đang biến đổi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kora",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Armel",
+   "loai": "nguoi_la",
+   "mo_ta": "Tát vào mặt Armel để lục soát người anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Armel",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Bị Frondier tát vào mặt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Serena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Frondier với vẻ ngạc nhiên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Serena",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhìn Serena rời đi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1069,
+  "seconds": 34.3
+ }
+}
