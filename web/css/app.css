@@ -127,6 +127,17 @@ html[data-bilingual] .flow p.en { display: block; }
 .flap .page.back { visibility: inherit; background: transparent; opacity: .14; }
 .flap-shade { background: linear-gradient(90deg, rgba(0, 0, 0, .22), rgba(255, 255, 255, .16) 6%, rgba(255, 255, 255, 0) 28%, rgba(0, 0, 0, .06)); }
 
+/* bend turn: the turning page as vertical strips in 3D, hinged on the spine; .lit shades each strip by its tilt */
+.bend { position: absolute; inset: 0; z-index: 4; visibility: hidden; pointer-events: none; perspective-origin: 50% 50%; }
+.bend.on { visibility: visible; }
+.bend-shade { position: absolute; inset: 0; z-index: 3; visibility: hidden; pointer-events: none; }
+.bend-shade.on { visibility: visible; }
+.strip { position: absolute; left: 0; top: 0; height: 100%; transform-origin: 0 50%; transform-style: preserve-3d; }
+.face { position: absolute; inset: 0; overflow: hidden; background: var(--paper); backface-visibility: hidden; -webkit-backface-visibility: hidden; }
+.face.back { background: var(--back); transform: rotateY(180deg) scaleX(-1); }
+.face .page { visibility: inherit; right: auto; }
+.lit { position: absolute; inset: 0; }
+
 .spinner {
   position: absolute; left: 50%; top: 50%; width: 34px; height: 34px; margin: -17px; z-index: 9; display: none;
   border-radius: 50%; border: 3px solid var(--line); border-top-color: var(--accent); animation: spin .8s linear infinite;

@@ -33,6 +33,7 @@ export function loadSettings() {
   };
   if (!(s.font in FONTS)) s.font = "literata";
   if (!(s.margin in MARGINS)) s.margin = "normal";
+  if (!["curl", "bend", "slide", "none"].includes(s.anim)) s.anim = "curl";
   return s;
 }
 

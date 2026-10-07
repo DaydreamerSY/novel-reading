@@ -1,6 +1,7 @@
 // Paged reader. A chapter is laid out once in CSS columns, each column one page wide; a page is
 // a window onto that flow, shifted by whole columns. Three page elements (previous, current,
 // next) are recycled as the reader moves, so turning within a chapter only changes a transform.
+import { bendStrips, shine } from "./bend.js";
 import { curlGeometry } from "./curl.js";
 import { FONTS, MARGINS, loadProgress, saveProgress, saveSettings } from "./store.js";
 
@@ -43,13 +44,13 @@ function fontReady(s) {
   ]);
 }
 
-function chapterHtml(d) {
+function chapterParts(d) {
   const m = /^(\D*?)\s*(\d+)\s*[:.\-–—]?\s*(.*)$/.exec(d.title);
   const head = m
     ? `<div class="kicker">${esc(m[1] || "Chương")}</div><div class="num">${m[2]}</div>${m[3] ? `<h2>${esc(m[3])}</h2>` : ""}`
     : `<h2>${esc(d.title)}</h2>`;
-  const body = d.vi.map((vi, i) => `<p class="vi">${esc(vi)}</p>${d.en?.[i] ? `<p class="en">${esc(d.en[i])}</p>` : ""}`);
-  return `<header class="chap-open">${head}</header>${body.join("")}`;
+  const parts = d.vi.map((vi, i) => `<p class="vi">${esc(vi)}</p>${d.en?.[i] ? `<p class="en">${esc(d.en[i])}</p>` : ""}`);
+  return { head: `<header class="chap-open">${head}</header>`, parts };
 }
 
 export class Reader {
@@ -58,7 +59,7 @@ export class Reader {
     this.s = settings;
     this.$ = sel => root.querySelector(sel);
     this.stage = this.$("#stage");
-    this.chapters = new Map();   // chapter number -> { n, title, html, pages, starts, key }
+    this.chapters = new Map();   // chapter number -> { n, title, head, parts, html, pages, starts, tops, key }
     this.loading = new Map();    // chapter number -> pending fetch
     this.pages = [this.makePage(), this.makePage(), this.makePage()];   // previous, current, next
     this.measurer = this.makePage("measure");
@@ -69,7 +70,11 @@ export class Reader {
     this.flapShade = div("shade flap-shade");
     this.flapInner.append(this.backPage, this.flapShade);
     this.flap.append(this.flapInner);
-    this.stage.append(...this.pages, this.underShade, this.flap, this.measurer);
+    this.bend = div("bend");          // strips of the page turning around the spine
+    this.bendShade = div("bend-shade");
+    this.snap = this.makePage("snap");
+    this.strips = [];
+    this.stage.append(...this.pages, this.underShade, this.flap, this.bendShade, this.bend, this.measurer);
 
     this.book = null;
     this.pos = null;       // { ci: index into book.chapters, pg: page within that chapter }
@@ -153,7 +158,11 @@ export class Reader {
     const book = this.book, n = book.chapters[ci].n;
     if (!this.chapters.has(n) && !this.loading.has(n)) {
       const p = fetchJSON(`books/${encodeURIComponent(book.slug)}/c/${pad(n)}.json`)
-        .then(d => { if (this.book === book) this.chapters.set(n, { n, title: d.title, html: chapterHtml(d) }); })
+        .then(d => {
+          if (this.book !== book) return;
+          const { head, parts } = chapterParts(d);
+          this.chapters.set(n, { n, title: d.title, head, parts, html: head + parts.join("") });
+        })
         .finally(() => { if (this.loading.get(n) === p) this.loading.delete(n); });
       this.loading.set(n, p);
     }
@@ -170,13 +179,15 @@ export class Reader {
     return ch;
   }
 
-  // Count the chapter's pages and note the page each paragraph starts on.
+  // Count the chapter's pages and note where each paragraph starts: page, and height within it.
   measure(ch) {
     const flow = this.measurer.flow;
     flow.innerHTML = ch.html;
-    const left = flow.getBoundingClientRect().left;
+    const { left, top } = flow.getBoundingClientRect();
     const col = x => Math.max(0, Math.floor((x - left + 1) / this.stepX));
-    ch.starts = Array.from(flow.querySelectorAll("p.vi"), p => col(p.getClientRects()[0]?.left ?? left));
+    const firsts = Array.from(flow.querySelectorAll("p.vi"), p => p.getClientRects()[0]);
+    ch.starts = firsts.map(r => col(r?.left ?? left));
+    ch.tops = firsts.map(r => (r ? r.top - top : 0));
     let last = flow.lastElementChild;
     while (last && !last.getClientRects().length) last = last.previousElementSibling;
     const rects = last ? last.getClientRects() : [];
@@ -198,6 +209,9 @@ export class Reader {
     this.root.style.setProperty("--cw", `${body.width}px`);
     this.root.style.setProperty("--gap", `${2 * mx}px`);
     this.root.style.setProperty("--diag", `${2 * Math.hypot(W, H)}px`);
+    this.persp = Math.max(1400, 2.5 * W);
+    this.bend.style.perspective = `${this.persp}px`;
+    if (this.stripsFor !== W) this.buildStrips(W);
     const s = this.s;
     this.lkey = [this.gen, W, H, body.width, body.height, s.font, s.size, s.lh, s.justify, s.bilingual].join("|");
   }
@@ -254,6 +268,38 @@ export class Reader {
     el.foot.textContent = `${pos.pg + 1} / ${ch.pages}`;
   }
 
+  // The page with only its own text (and the paragraph running onto it), laid out in the same
+  // columns as the whole chapter: a spacer stands in for everything above that paragraph.
+  // Cheap enough to copy into every strip of a bend turn.
+  fillSnap(pos) {
+    const ch = this.chap(pos.ci), { starts, tops } = ch, pg = pos.pg, el = this.snap;
+    const first = starts.findIndex(s => s >= pg), after = starts.findIndex(s => s > pg);
+    const a = Math.max(0, (first < 0 ? starts.length : first) - 1);
+    const b = (after < 0 ? starts.length : after) - 1;
+    const lead = a === 0 ? ch.head : `<div style="height:${tops[a]}px"></div>`;
+    el.flow.innerHTML = lead + ch.parts.slice(a, b + 1).join("");
+    el.flow.style.transform = `translateX(${-(pg - (a === 0 ? 0 : starts[a])) * this.stepX}px)`;
+    el.head.textContent = ch.title;
+    el.head.classList.toggle("off", pg === 0);
+    el.foot.textContent = `${pg + 1} / ${ch.pages}`;
+  }
+
+  buildStrips(W) {
+    const n = W > 500 ? 24 : 16;
+    this.stripsFor = W;
+    this.stripW = W / n;
+    this.bend.textContent = "";
+    this.strips = Array.from({ length: n }, () => {
+      const strip = div("strip"), front = div("face"), back = div("face back");
+      strip.style.width = `${this.stripW + 1}px`;   // overlap hides seams between neighbours
+      front.append(div("lit"));
+      back.append(div("lit"));
+      strip.append(front, back);
+      this.bend.append(strip);
+      return { strip, front, lits: [front.firstChild, back.firstChild] };
+    });
+  }
+
   // Show this.pos and get its neighbours ready.
   settle() {
     const [prev, cur, next] = this.pages;
@@ -280,6 +326,8 @@ export class Reader {
     });
     this.flap.classList.remove("on");
     this.underShade.classList.remove("on");
+    this.bend.classList.remove("on");
+    this.bendShade.classList.remove("on");
   }
 
   // ---------- turning pages ----------
@@ -299,6 +347,17 @@ export class Reader {
       this.paint(this.backPage, f.turning.pos);
       this.flap.classList.add("on");
       this.underShade.classList.add("on");
+    } else if (f.mode === "bend") {
+      this.fillSnap(f.turning.pos);
+      this.strips.forEach(({ front }, k) => {
+        const page = this.snap.cloneNode(true);
+        page.style.cssText = `left:${-k * this.stripW}px;width:${this.W}px`;
+        if (front.firstChild.classList.contains("page")) front.firstChild.replaceWith(page);
+        else front.prepend(page);
+      });
+      f.turning.style.visibility = "hidden";
+      this.bend.classList.add("on");
+      this.bendShade.classList.add("on");
     } else {
       f.turning.style.boxShadow = "0 0 28px rgba(0,0,0,.28)";
     }
@@ -310,6 +369,7 @@ export class Reader {
 
   draw() {
     const f = this.flip, { W, H } = this;
+    if (f.mode === "bend") return this.drawBend(f);
     if (f.mode !== "curl") {
       f.turning.style.transform = `translate3d(${(-f.t * W).toFixed(1)}px,0,0)`;
       return;
@@ -330,6 +390,31 @@ export class Reader {
     this.flapShade.style.width = `${g.len / 2}px`;
     this.underShade.style.width = `${Math.min(g.len / 2, W * 0.5)}px`;
     this.underShade.style.opacity = Math.min(1, (1 - f.t) * 3);
+  }
+
+  drawBend(f) {
+    const { W } = this, sw = this.stripW, geo = bendStrips(f.t, this.strips.length, W);
+    // Shade each strip with a gradient between the tilts at its two edges, so the light runs
+    // smoothly across the sheet instead of in bands.
+    const tone = phi => {
+      const v = shine(phi);
+      return v > 0 ? `rgba(255,255,255,${Math.min(0.3, v * 1.2).toFixed(3)})` : `rgba(0,0,0,${Math.min(0.45, -v * 0.75).toFixed(3)})`;
+    };
+    const edges = geo.map((g, k) => tone(k ? (geo[k - 1].phi + g.phi) / 2 : g.phi));
+    edges.push(tone(geo[geo.length - 1].phi));
+    let high = 0;
+    geo.forEach(({ x, z, phi }, k) => {
+      const { strip, lits } = this.strips[k];
+      strip.style.transform = `translate3d(${x.toFixed(2)}px,0,${z.toFixed(2)}px) rotateY(${(-phi).toFixed(4)}rad)`;
+      lits[0].style.background = lits[1].style.background = `linear-gradient(90deg,${edges[k]},${edges[k + 1]})`;
+      high = Math.max(high, z);
+    });
+    // The lifted sheet shades the page below, up to where its outer edge appears on screen.
+    const last = geo[geo.length - 1];
+    const ex = last.x + sw * Math.cos(last.phi), ez = last.z + sw * Math.sin(last.phi);
+    const edge = Math.max(0, W / 2 + ((ex - W / 2) * this.persp) / (this.persp - ez));
+    const a = (0.32 * Math.min(1, high / (W * 0.2))).toFixed(3);
+    this.bendShade.style.background = `linear-gradient(90deg, rgba(0,0,0,${a}) ${edge.toFixed(1)}px, transparent ${(edge + 56).toFixed(1)}px)`;
   }
 
   animate(target, ms, ease) {
@@ -396,8 +481,8 @@ export class Reader {
       return;
     }
     this.begin(dir, true, Math.min(this.W, this.H) * 0.3);
-    const curl = this.s.anim === "curl";
-    this.animate(dir > 0 ? 1 : 0, curl ? 600 : 320, curl ? easeInOut : easeOut);
+    const [ms, ease] = { curl: [600, easeInOut], bend: [850, easeInOut], slide: [320, easeOut] }[this.s.anim];
+    this.animate(dir > 0 ? 1 : 0, ms, ease);
   }
 
   waitFor(ci, then) {
@@ -493,7 +578,7 @@ export class Reader {
       f.t = f.dir > 0 ? clamp(-dx / Math.max(g.x0, 80) * 0.6, 0, 1) : clamp(1 - dx / Math.max(this.W - g.x0, 80), 0, 1);
       f.yOff = dy * 0.5;
     } else {
-      f.t = clamp((f.dir > 0 ? 0 : 1) - dx / this.W, 0, 1);
+      f.t = clamp((f.dir > 0 ? 0 : 1) - dx / (this.W * (f.mode === "bend" ? 0.8 : 1)), 0, 1);
     }
     this.draw();
   }
@@ -509,7 +594,7 @@ export class Reader {
       const fwd = f.dir > 0;
       const go = !cancelled && (fwd ? v < -0.3 || (v < 0.3 && f.t > 0.15) : v > 0.3 || (v > -0.3 && f.t < 0.85));
       const target = fwd === go ? 1 : 0;
-      this.animate(target, 140 + 380 * Math.abs(target - f.t), easeOut);
+      this.animate(target, 140 + (f.mode === "bend" ? 560 : 380) * Math.abs(target - f.t), easeOut);
     } else if (g.dir && !g.live) {
       if (!cancelled && Math.abs(g.x - g.x0) > 40) this.turn(g.dir);
     } else if (!g.dir && !g.moved && !cancelled && performance.now() - g.t0 < 600) {
