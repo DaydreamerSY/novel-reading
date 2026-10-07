@@ -1,0 +1,514 @@
+{
+ "slug": "the-academys-weapon-replicator",
+ "title": "Thiên Tài Sao Chép Vũ Khí Học Viện",
+ "author": "서쪽",
+ "model": "gemma3:12b",
+ "updated": "2026-10-07T14:01:46Z",
+ "bilingual": false,
+ "chapters": [
+  {
+   "n": 1,
+   "title": "Chương 1"
+  },
+  {
+   "n": 2,
+   "title": "Chương 2"
+  },
+  {
+   "n": 3,
+   "title": "Chương 3"
+  },
+  {
+   "n": 4,
+   "title": "Chương 4"
+  },
+  {
+   "n": 5,
+   "title": "Chương 5"
+  },
+  {
+   "n": 298,
+   "title": "Chương 298"
+  },
+  {
+   "n": 299,
+   "title": "Chương 299"
+  },
+  {
+   "n": 300,
+   "title": "Chương 300: Trả thù (2) (Phần 1)"
+  },
+  {
+   "n": 301,
+   "title": "Chương 301: Trả thù (2) (Phần 2)"
+  },
+  {
+   "n": 302,
+   "title": "Chương 302: Trả thù (3) (Phần 1)"
+  },
+  {
+   "n": 303,
+   "title": "Chương 303"
+  },
+  {
+   "n": 304,
+   "title": "Chương 304"
+  },
+  {
+   "n": 305,
+   "title": "Chương 305"
+  },
+  {
+   "n": 306,
+   "title": "Chương 306"
+  },
+  {
+   "n": 307,
+   "title": "Chương 307"
+  },
+  {
+   "n": 308,
+   "title": "Chương 308"
+  },
+  {
+   "n": 610,
+   "title": "Chương 610: Sức mạnh Quỷ (2) (Phần 1)"
+  },
+  {
+   "n": 611,
+   "title": "Chương 611: Sức mạnh Quỷ (2) (Phần 2)"
+  },
+  {
+   "n": 612,
+   "title": "Chương 612: Sức mạnh Quỷ (3) (Phần 1)"
+  },
+  {
+   "n": 650,
+   "title": "Chương 650: Chứng cứ (4) (Phần 1)"
+  },
+  {
+   "n": 651,
+   "title": "Chương 651: Chứng cứ (4) (Phần 2)"
+  },
+  {
+   "n": 652,
+   "title": "Chương 652: Chứng cứ (5)"
+  },
+  {
+   "n": 653,
+   "title": "Chương 653: Chứng cứ (6) (Phần 1)"
+  },
+  {
+   "n": 654,
+   "title": "Chương 654: Chứng cứ (6) (Phần 2)"
+  },
+  {
+   "n": 655,
+   "title": "Chương 655: Chúa quỷ (Phần 1)"
+  },
+  {
+   "n": 656,
+   "title": "Chương 656: Chúa quỷ (Phần 2)"
+  },
+  {
+   "n": 657,
+   "title": "Chương 657: Chúa quỷ (2) (Phần 1)"
+  },
+  {
+   "n": 658,
+   "title": "Chương 658: Chúa quỷ (2) (Phần 2)"
+  },
+  {
+   "n": 659,
+   "title": "Chương 659: Chúa quỷ (3) (Phần 1)"
+  },
+  {
+   "n": 660,
+   "title": "Chương 660: Chúa quỷ (3) (Phần 2)"
+  },
+  {
+   "n": 661,
+   "title": "Chương 661: Chúa quỷ (4)"
+  },
+  {
+   "n": 662,
+   "title": "Chương 662: Chúa quỷ (5) (Phần 1)"
+  },
+  {
+   "n": 663,
+   "title": "Chương 663: Chúa quỷ (5) (Phần 2)"
+  },
+  {
+   "n": 664,
+   "title": "Chương 664: Trở Lại (Phần 1)"
+  },
+  {
+   "n": 665,
+   "title": "Chương 665: Trở Lại (Phần 2)"
+  },
+  {
+   "n": 666,
+   "title": "Chương 666: Trở Lại (2) (Phần 1)"
+  },
+  {
+   "n": 667,
+   "title": "Chương 667: Trở Lại (2) (Phần 2)"
+  },
+  {
+   "n": 668,
+   "title": "Chương 668: Trở Lại (3) (Phần 1)"
+  },
+  {
+   "n": 669,
+   "title": "Chương 669: Trở Lại (3) (Phần 2)"
+  },
+  {
+   "n": 670,
+   "title": "Chương 670: Trở Lại (4) (Phần 1)"
+  },
+  {
+   "n": 671,
+   "title": "Chương 671: Trở Lại (4) (Phần 2)"
+  },
+  {
+   "n": 672,
+   "title": "Chương 672: Hành Ngộ (Phần 1)"
+  },
+  {
+   "n": 673,
+   "title": "Chương 673: Hành Ngộ (Phần 2)"
+  },
+  {
+   "n": 674,
+   "title": "Chương 674: Hành Ngộ (2) (Phần 1)"
+  },
+  {
+   "n": 675,
+   "title": "Chương 675: Hành Ngộ (2) (Phần 2)"
+  },
+  {
+   "n": 676,
+   "title": "Chương 676: Hành Ngộ (3) (Phần 1)"
+  },
+  {
+   "n": 677,
+   "title": "Chương 677: Hành Ngộ (3) (Phần 2)"
+  },
+  {
+   "n": 678,
+   "title": "Chương 678: Hành Ngộ (4) (Phần 1)"
+  },
+  {
+   "n": 679,
+   "title": "Chương 679: Hành Ngộ (4) (Phần 2)"
+  },
+  {
+   "n": 680,
+   "title": "Chương 680: Lặp lại"
+  },
+  {
+   "n": 681,
+   "title": "Chương 681: Lặp Lại (2) (Phần 1)"
+  },
+  {
+   "n": 682,
+   "title": "Chương 682: Lặp Lại (2) (Phần 2)"
+  },
+  {
+   "n": 683,
+   "title": "Chương 683: Lặp lại (3)"
+  },
+  {
+   "n": 684,
+   "title": "Chương 684: Lặp lại (4) (Phần 1)"
+  },
+  {
+   "n": 685,
+   "title": "Chương 685: Lặp lại (4) (Phần 2)"
+  },
+  {
+   "n": 686,
+   "title": "Chương 686: Lặp lại (5) (Phần 1)"
+  },
+  {
+   "n": 687,
+   "title": "Chương 687: Lặp lại (5) (Phần 2)"
+  },
+  {
+   "n": 688,
+   "title": "Chương 688: Bóng Tối (Phần 1)"
+  },
+  {
+   "n": 689,
+   "title": "Chương 689: Bóng Tối (Phần 2)"
+  },
+  {
+   "n": 690,
+   "title": "Chương 690: Con nuôi (Phần 1)"
+  },
+  {
+   "n": 691,
+   "title": "Chương 691: Con nuôi (Phần 2)"
+  },
+  {
+   "n": 692,
+   "title": "Chương 692: Con nuôi (2) (Phần 1)"
+  },
+  {
+   "n": 693,
+   "title": "Chương 693: Con nuôi (2) (Phần 2)"
+  },
+  {
+   "n": 694,
+   "title": "Chương 694: Con nuôi (3) (Phần 1)"
+  },
+  {
+   "n": 695,
+   "title": "Chương 695: Con nuôi (3) (Phần 2)"
+  },
+  {
+   "n": 696,
+   "title": "Chương 696: Con nuôi (4) (Phần 1)"
+  },
+  {
+   "n": 697,
+   "title": "Chương 697: Con nuôi (4) (Phần 2)"
+  },
+  {
+   "n": 698,
+   "title": "Chương 698: Kỹ Thuật Vũ Khí (Phần 1)"
+  },
+  {
+   "n": 699,
+   "title": "Chương 699: Kỹ Thuật Vũ Khí (Phần 2)"
+  },
+  {
+   "n": 700,
+   "title": "Chương 700: Kỹ Thuật Vũ Khí (2) (Phần 1)"
+  },
+  {
+   "n": 701,
+   "title": "Chương 701: Kỹ Thuật Vũ Khí (2) (Phần 2)"
+  },
+  {
+   "n": 702,
+   "title": "Chương 702: Kỹ Thuật Vũ Khí (3) (Phần 1)"
+  },
+  {
+   "n": 703,
+   "title": "Chương 703: Kỹ Thuật Vũ Khí (3) (Phần 2)"
+  },
+  {
+   "n": 704,
+   "title": "Chương 704: Kỹ Thuật Vũ Khí (4) (Phần 1)"
+  },
+  {
+   "n": 705,
+   "title": "Chương 705: Kỹ Thuật Vũ Khí (4) (Phần 2)"
+  },
+  {
+   "n": 706,
+   "title": "Chương 706: Hội trưởng Hội Học Sinh (Phần 1)"
+  },
+  {
+   "n": 707,
+   "title": "Chương 707: Hội trưởng Hội Học Sinh (Phần 2)"
+  },
+  {
+   "n": 708,
+   "title": "Chương 708: Gia đình (Phần 1)"
+  },
+  {
+   "n": 709,
+   "title": "Chương 709: Gia đình (Phần 2)"
+  },
+  {
+   "n": 710,
+   "title": "Chương 710: Gia đình (2) (Phần 1)"
+  },
+  {
+   "n": 711,
+   "title": "Chương 711: Gia đình (2) (Phần 2)"
+  },
+  {
+   "n": 712,
+   "title": "Chương 712: Gia đình (3) (Phần 1)"
+  },
+  {
+   "n": 713,
+   "title": "Chương 713: Gia đình (3) (Phần 2)"
+  },
+  {
+   "n": 714,
+   "title": "Chương 714: Gia đình (4) (Phần 1)"
+  },
+  {
+   "n": 715,
+   "title": "Chương 715: Gia đình (4) (Phần 2)"
+  },
+  {
+   "n": 716,
+   "title": "Chương 716: Gia đình (5)"
+  },
+  {
+   "n": 717,
+   "title": "Chương 717: Gia đình (6) (Phần 1)"
+  },
+  {
+   "n": 718,
+   "title": "Chương 718: Gia đình (6) (Phần 2)"
+  },
+  {
+   "n": 719,
+   "title": "Chương 719: Tra Vấn (Phần 1)"
+  },
+  {
+   "n": 720,
+   "title": "Chương 720: Tra Vấn (Phần 2)"
+  },
+  {
+   "n": 721,
+   "title": "Chương 721: Tra Vấn (2) (Phần 1)"
+  },
+  {
+   "n": 722,
+   "title": "Chương 722: Tra Vấn (2) (Phần 2)"
+  },
+  {
+   "n": 723,
+   "title": "Chương 723: Tra Vấn (3) (Phần 1)"
+  },
+  {
+   "n": 724,
+   "title": "Chương 724: Tra Vấn (3) (Phần 2)"
+  },
+  {
+   "n": 725,
+   "title": "Chương 725: Tra Vấn (4) (Phần 1)"
+  },
+  {
+   "n": 726,
+   "title": "Chương 726: Tra Vấn (4) (Phần 2)"
+  },
+  {
+   "n": 727,
+   "title": "Chương 727: Chứng cứ (Phần 1)"
+  },
+  {
+   "n": 728,
+   "title": "Chương 728: Chứng cứ (Phần 2)"
+  },
+  {
+   "n": 729,
+   "title": "Chương 729: Chứng cứ (2) (Phần 1)"
+  },
+  {
+   "n": 730,
+   "title": "Chương 730: Chứng cứ (2) (Phần 2)"
+  },
+  {
+   "n": 731,
+   "title": "Chương 731: Chứng cứ (3)"
+  },
+  {
+   "n": 732,
+   "title": "Chương 732: Chứng cứ (4) (Phần 1)"
+  },
+  {
+   "n": 733,
+   "title": "Chương 733: Chứng cứ (4) (Phần 2)"
+  },
+  {
+   "n": 734,
+   "title": "Chương 734: Tạm biệt (Phần 1)"
+  },
+  {
+   "n": 735,
+   "title": "Chương 735: Tạm biệt (Phần 2)"
+  },
+  {
+   "n": 736,
+   "title": "Chương 736: Tạm biệt (2) (Phần 1)"
+  },
+  {
+   "n": 737,
+   "title": "Chương 737: Tạm biệt (2) (Phần 2)"
+  },
+  {
+   "n": 738,
+   "title": "Chương 738: Tạm biệt (3) (Phần 1)"
+  },
+  {
+   "n": 739,
+   "title": "Chương 739: Tạm biệt (3) (Phần 2)"
+  },
+  {
+   "n": 740,
+   "title": "Chương 740: Tạm biệt (4) (Phần 1)"
+  },
+  {
+   "n": 741,
+   "title": "Chương 741: Tạm biệt (4) (Phần 2)"
+  },
+  {
+   "n": 742,
+   "title": "Chương 742: Tạm biệt (5) (Phần 1)"
+  },
+  {
+   "n": 743,
+   "title": "Chương 743: Tạm biệt (5) (Phần 2)"
+  },
+  {
+   "n": 744,
+   "title": "Chương 744: Cổ Ngữ (Phần 1)"
+  },
+  {
+   "n": 745,
+   "title": "Chương 745: Cổ Ngữ (Phần 2)"
+  },
+  {
+   "n": 746,
+   "title": "Chương 746: Cổ Ngữ (2) (Phần 1)"
+  },
+  {
+   "n": 747,
+   "title": "Chương 747: Cổ Ngữ (2) (Phần 2)"
+  },
+  {
+   "n": 748,
+   "title": "Chương 748: Cổ Ngữ (3) (Phần 1)"
+  },
+  {
+   "n": 749,
+   "title": "Chương 749: Cổ Ngữ (3) (Phần 2)"
+  },
+  {
+   "n": 750,
+   "title": "Chương 750: Cổ Ngữ (4) (Phần 1)"
+  },
+  {
+   "n": 751,
+   "title": "Chương 751: Cổ Ngữ (4) (Phần 2)"
+  },
+  {
+   "n": 752,
+   "title": "Chương 752: Cổ Ngữ (5) (Phần 1)"
+  },
+  {
+   "n": 753,
+   "title": "Chương 753: Cổ Ngữ (5) (Phần 2)"
+  },
+  {
+   "n": 754,
+   "title": "Chương 754: Khởi Hành"
+  },
+  {
+   "n": 755,
+   "title": "Chương 755: Khởi Hành (2)"
+  },
+  {
+   "n": 756,
+   "title": "Chương 756: Khởi Hành (3)"
+  }
+ ]
+}

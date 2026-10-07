@@ -2,7 +2,10 @@
 
   web/books/index.json            every exported book
   web/books/<slug>/book.json      title, author, chapter list
-  web/books/<slug>/c/<nnnn>.json  {"n", "title", "vi": [...], "en": [...]}
+  web/books/<slug>/c/<nnnn>.json  {"n", "title", "vi": [...]}
+
+The site is public, so only the Vietnamese text goes out: the English source stays on this
+machine (and the reader hides its bilingual option for books without it).
 """
 import re
 from datetime import datetime, timezone
@@ -42,8 +45,7 @@ def export_web(cfg, paths, model, chapters):
     for n in chapters:
         ch = read_json(chapter_path(folder, n))
         paras = _paragraphs(ch)
-        write_json(chapter_path(book_dir / "c", n),
-                   {"n": n, "title": ch["title_vi"], "vi": [v for v, _ in paras], "en": [e for _, e in paras]})
+        write_json(chapter_path(book_dir / "c", n), {"n": n, "title": ch["title_vi"], "vi": [v for v, _ in paras]})
 
     # The chapter list covers everything exported so far, not only this run.
     listed = [{"n": n, "title": read_json(chapter_path(book_dir / "c", n))["title"]}
@@ -51,7 +53,8 @@ def export_web(cfg, paths, model, chapters):
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     title, author = cfg["book"]["title"], cfg["book"]["author"]
     write_json(book_dir / "book.json",
-               {"slug": slug, "title": title, "author": author, "model": model, "updated": now, "chapters": listed})
+               {"slug": slug, "title": title, "author": author, "model": model, "updated": now,
+                "bilingual": False, "chapters": listed})
 
     index = WEB / "books" / "index.json"
     books = [b for b in (read_json(index)["books"] if index.exists() else []) if b["slug"] != slug]

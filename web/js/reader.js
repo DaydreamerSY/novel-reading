@@ -115,6 +115,7 @@ export class Reader {
       this.book = book;
       document.title = book.title;
       this.$("#r-book").textContent = book.title;
+      this.$('#settings [data-set="bilingual"]').closest(".row").hidden = book.bilingual === false;
       this.buildToc();
 
       const saved = loadProgress(slug);

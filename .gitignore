@@ -13,3 +13,6 @@ translator/glossary.yaml.bak
 
 # scraped English source: kept locally, not published
 translator/data/en/
+
+# translations embed the English source line by line: never publish
+translator/data/vi/
