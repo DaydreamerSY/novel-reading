@@ -525,6 +525,8 @@ export class Reader {
     r.addEventListener("pointerup", e => this.up(e, false));
     r.addEventListener("pointercancel", e => this.up(e, true));
     r.addEventListener("wheel", e => this.wheel(e), { passive: false });
+    // Where overflow: clip isn't supported, undo any scroll that slips through.
+    r.addEventListener("scroll", () => { r.scrollTop = r.scrollLeft = 0; });
     document.addEventListener("keydown", e => this.key(e));
     let timer;
     const later = ms => {
@@ -709,7 +711,12 @@ export class Reader {
     this.panel = this.$(sel);
     this.panel.classList.add("open");
     this.$(".scrim").classList.add("open");
-    if (sel === "#toc") this.$("#toc-list .cur")?.scrollIntoView({ block: "center" });
+    const cur = sel === "#toc" && this.$("#toc-list .cur");
+    if (cur) {
+      // scroll the list only: scrollIntoView would also scroll the reader behind it
+      const list = cur.parentElement;
+      list.scrollTop = cur.offsetTop - list.offsetTop - (list.clientHeight - cur.offsetHeight) / 2;
+    }
     if (sel === "#settings") this.syncSettings();
   }
 

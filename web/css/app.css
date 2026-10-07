@@ -80,8 +80,10 @@ svg { display: block; }
 }
 
 /* ---------- reader ---------- */
-#reader { position: fixed; inset: 0; overflow: hidden; background: var(--desk); user-select: none; -webkit-user-select: none; touch-action: none; }
-#stage { position: absolute; top: 0; overflow: hidden; background: var(--paper); }
+/* clip, not hidden: a hidden-overflow box can still be scrolled (focus, scrollIntoView),
+   which would shove the whole reader up behind the off-screen panels */
+#reader { position: fixed; inset: 0; overflow: hidden; overflow: clip; background: var(--desk); user-select: none; -webkit-user-select: none; touch-action: none; }
+#stage { position: absolute; top: 0; overflow: hidden; overflow: clip; background: var(--paper); }
 #reader.framed #stage { box-shadow: 0 0 0 1px var(--line), 0 10px 40px rgba(0, 0, 0, .18); }
 
 .page { position: absolute; inset: 0; background: var(--paper); visibility: hidden; z-index: 0; contain: layout paint; }
