@@ -1,0 +1,92 @@
+{
+ "number": 808,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cuộc gặp gỡ giữa Malia và Gregory, nơi Gregory đang bí mật gửi thông tin đến Frondier qua một con quạ. Malia nhận ra Gregory là người điều khiển con quạ và tiết lộ rằng việc gửi thông tin xa xôi như vậy đòi hỏi sự hỗ trợ của tàu thuyền. Sau đó, cô ấy nhận ra vai trò quan trọng của Frondier trong mạng lưới này và quyết định giúp đỡ mà không can thiệp trực tiếp. Cuối cùng, Heracles thách thức Frondier sử dụng toàn bộ sức mạnh của mình.",
+ "boi_canh": "Một khu vực bí mật, nơi Malia phát hiện ra Gregory đang điều khiển một con quạ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Renzo",
+  "Dier",
+  "Malia",
+  "Gregory",
+  "Father",
+  "Heracles",
+  "Telephos"
+ ],
+ "su_kien": [
+  "Malia phát hiện Gregory là người điều khiển con quạ.",
+  "Gregory bị Malia vạch trần kế hoạch gửi thông tin qua quạ.",
+  "Malia tiết lộ rằng việc gửi thông tin đến một lục địa xa xôi cần có tàu thuyền.",
+  "Heracles thách thức Frondier sử dụng toàn bộ sức mạnh của mình.",
+  "Frondier kích hoạt kỹ thuật Jeong và chuẩn bị chiến đấu với Heracles."
+ ],
+ "quan_he": [
+  {
+   "a": "Gregory",
+   "b": "Malia",
+   "loai": "nguoi_la",
+   "mo_ta": "Gregory bị Malia phát hiện và vạch trần kế hoạch của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Gregory",
+   "loai": "nguoi_la",
+   "mo_ta": "Malia phát hiện Gregory và đánh giá tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heracles",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đối mặt với Heracles, người mạnh hơn nhiều.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Heracles",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Heracles thách thức Frondier sử dụng toàn bộ sức mạnh của mình.",
+   "cach_goi": "lễ phép"
+  },
+  {
+   "a": "Telephos",
+   "b": "Heracles",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai của Heracles, tỏ ra lo lắng và kính trọng.",
+   "cach_goi": "thân mật"
+  },
+  {
+   "a": "Heracles",
+   "b": "Telephos",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Telephos, thúc giục con trai mình mạnh mẽ hơn.",
+   "cach_goi": "thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Malia",
+   "loai": "ban_be",
+   "mo_ta": "Aster là đồng minh của Malia, tin tưởng cô hoàn toàn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Malia",
+   "loai": "ban_be",
+   "mo_ta": "Dier là đồng minh của Malia, tin tưởng cô hoàn toàn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Gregory: Có lẽ đang hoạt động bí mật và hỗ trợ Frondier mà không ai biết.",
+  "Con quạ: Được Gregory điều khiển để gửi thông tin đến Frondier, nhưng Malia đã nhận ra sự thật."
+ ],
+ "stats": {
+  "tokens": 1001,
+  "seconds": 30.1
+ }
+}

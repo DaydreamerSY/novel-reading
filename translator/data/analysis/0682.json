@@ -1,0 +1,96 @@
+{
+ "number": 682,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và những người khác thảo luận về một sự kiện lịch sử liên quan đến Satan và một con người đã ký kết một giao kèo kỳ lạ. Giao kèo đó dẫn đến việc nhiều quỷ bị 'biến mất' khỏi thế giới quỷ và ẩn náu trong Đế Chế. Baal nghi ngờ Marco thông đồng với Satan, nhưng cuối cùng Frondier nhận ra sự thật đằng sau những gì đang xảy ra và lo ngại về vai trò của Lily trong tất cả chuyện này.",
+ "boi_canh": "Trong một không gian bí mật, các nhân vật thảo luận về lịch sử và âm mưu quỷ dữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Osprey",
+  "Baal",
+  "Marco",
+  "Chancellor Osprey",
+  "Lis",
+  "Satan"
+ ],
+ "su_kien": [
+  "Marco kể về giao kèo giữa Satan và một con người, dẫn đến sự biến mất của nhiều quỷ.",
+  "Baal nghi ngờ Marco thông đồng với Satan.",
+  "Frondier nhận ra những quỷ trong Đế Chế là nạn nhân của âm mưu của Satan.",
+  "Được tiết lộ rằng Lily từng là thuộc hạ của Satan và có thể đã mất trí nhớ do giao kèo.",
+  "Frondier suy đoán về khả năng các quỷ bị mất trí nhớ có thể lấy lại ký ức."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "ban_be",
+   "mo_ta": "Trò chuyện và thảo luận về những sự kiện lịch sử.",
+   "cach_goi": "gọi tên Marco, thân mật"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Trò chuyện và thảo luận về những sự kiện lịch sử.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Baal",
+   "b": "Marco",
+   "loai": "doi_thu",
+   "mo_ta": "Nghi ngờ Marco thông đồng với Satan.",
+   "cach_goi": "gọi tên Marco, nghi ngờ"
+  },
+  {
+   "a": "Marco",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Trả lời những nghi ngờ của Baal.",
+   "cach_goi": "gọi tên Baal, bình tĩnh"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp, quan sát cuộc đối thoại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Frondier suy đoán về vai trò của Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Frondier suy đoán về vai trò của Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Marco",
+   "loai": "ke_thu",
+   "mo_ta": "Không tương tác trực tiếp, Marco kể về hành động của Satan.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Không tương tác trực tiếp, Frondier suy đoán về hành động của Satan.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Lily từng là thuộc hạ của Satan và có thể đã mất trí nhớ do giao kèo."
+ ],
+ "stats": {
+  "tokens": 1036,
+  "seconds": 30.9
+ }
+}

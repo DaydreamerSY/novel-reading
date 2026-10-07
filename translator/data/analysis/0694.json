@@ -1,0 +1,107 @@
+{
+ "number": 694,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier rời khỏi nhà vào buổi sáng sớm và hướng đến biệt thự của Ludwig để gặp Monty. Trong lúc di chuyển, anh tranh luận với Selena về việc cô đi cùng mình và suy ngẫm về trận chiến gần đây cũng như sức mạnh 'One Flash' của Aster. Anh lo lắng về việc đối phó với Aster và nhận ra rằng cần phải tìm cách ngăn chặn kỹ thuật này.",
+ "boi_canh": "Buổi sáng sớm, trên đường đến biệt thự Ludwig.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aster",
+  "Azier",
+  "Enfer",
+  "Lily",
+  "Marco",
+  "Ludwig",
+  "Monty",
+  "Ellen",
+  "Ares"
+ ],
+ "su_kien": [
+  "Frondier rời khỏi nhà vào buổi sáng sớm.",
+  "Selena đi theo Frondier và tranh cãi về việc cô đi cùng anh.",
+  "Frondier suy nghĩ về sức mạnh 'One Flash' của Aster.",
+  "Marco đang được điều trị bởi Aster và các đồng nghiệp.",
+  "Frondier nhận ra rằng cần phải ngăn chặn Aster sử dụng kỹ thuật 'One Flash'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai, Frondier không có gì để nói với anh ấy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai, Frondier không có gì để nói với anh ấy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "người bảo vệ của Frondier, có mối quan hệ phức tạp.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "người bảo vệ của Frondier, có mối quan hệ phức tạp.",
+   "cach_goi": "gọi tên Frondier-nim, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, Frondier hy vọng Ludwig và Monty sẽ gặp lại nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "thay_tro",
+   "mo_ta": "đệ tử tương lai, Frondier muốn gặp Monty.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Frondier lo lắng về sức mạnh của Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "chị gái của Aster, người có kỹ thuật 'One Strike'.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "nguoi_la",
+   "mo_ta": "đang được Aster và các đồng nghiệp điều trị.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ares",
+   "loai": "nguoi_la",
+   "mo_ta": "có thể bị cắt bởi One Flash.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Selena: từ người bảo vệ ẩn danh trở thành người bảo vệ chính thức.",
+  "Marco: hiện đang được Aster và các đồng nghiệp điều trị."
+ ],
+ "stats": {
+  "tokens": 1096,
+  "seconds": 32.8
+ }
+}

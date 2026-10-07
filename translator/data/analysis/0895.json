@@ -1,0 +1,103 @@
+{
+ "number": 895,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier được ba nữ thần Moirai triệu tập để thực hiện một nhiệm vụ liên quan đến việc Frondier de Roach đã rời đi. Họ ra lệnh cho Thanatos, người căm ghét Frondier, phải hành động hoàn hảo thay vì giết chết anh ta. Sau đó, tại cung điện hoàng gia, các Zodiac và Pro đang họp về sự kiện các Zodiac mất kiểm soát và tấn công một con quỷ, và Azier khẳng định lại rằng Frondier là một con quỷ đã bị trục xuất khỏi cung điện.",
+ "boi_canh": "Một xưởng dệt vô tận, nơi diễn ra cuộc gặp gỡ giữa Frondier (Thanatos) và ba nữ thần Moirai. Sau đó là một cuộc họp tại cung điện hoàng gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Azier",
+  "Frondier de Roach",
+  "Pros",
+  "Thanatos",
+  "Moirai (nữ thần)",
+  "Norn (nữ thần)"
+ ],
+ "su_kien": [
+  "Frondier được ba nữ thần Moirai triệu tập.",
+  "Các nữ thần yêu cầu Thanatos phải hành động 'hoàn hảo' thay vì giết Frondier de Roach.",
+  "Các Zodiac mất kiểm soát và tấn công một con quỷ.",
+  "Azier khẳng định rằng Frondier là một con quỷ đã bị trục xuất khỏi cung điện.",
+  "Các nữ thần Moirai và Norn đã đạt được sự đồng thuận."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Moirai",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu, bị triệu tập và ra lệnh.",
+   "cach_goi": "gọi 'old hag', thô lỗ"
+  },
+  {
+   "a": "Moirai",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Triệu tập và ra lệnh cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thanatos",
+   "b": "Moirai",
+   "loai": "thay_tro",
+   "mo_ta": "Được Moirai ra lệnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Moirai",
+   "b": "Thanatos",
+   "loai": "cap_tren",
+   "mo_ta": "Ra lệnh cho Thanatos.",
+   "cach_goi": "lệnh, nghiêm khắc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thanatos",
+   "loai": "doi_thu",
+   "mo_ta": "Cả hai đều căm ghét Frondier de Roach.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thanatos",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cả hai đều căm ghét Frondier de Roach.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đại diện cho Pro, có vẻ như đang ủng hộ việc trục xuất Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Đại diện cho Pro, có vẻ như đang ủng hộ việc trục xuất Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Azier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng quan sát Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Philly Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng quan sát Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)"
+ ],
+ "stats": {
+  "tokens": 1135,
+  "seconds": 33.9
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "number": 689,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi ngừng khóc, Elysia phàn nàn về cách Philly đối xử với mình. Cô ấy tiết lộ rằng cô ấy muốn trở lại làm công chúa và gặp lại gia đình, nhưng không muốn lên ngôi hoàng đế vì gánh nặng quá lớn. Thay vào đó, cô đề nghị nhận trách nhiệm chỉ huy Đội Bóng Tối, khiến Philly vô cùng ngạc nhiên. Cuối cùng, Philly nhận ra Elysia đã được Frondier tác động đến.",
+ "boi_canh": "Trong phòng riêng của Philly tại Hoàng cung, sau khi Elysia trở về.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Elysia",
+  "Sale",
+  "Mom",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Elysia phàn nàn về cách Philly đối xử với mình.",
+  "Elysia từ chối kế vị hoàng đế.",
+  "Elysia đề nghị nhận trách nhiệm chỉ huy Đội Bóng Tối.",
+  "Philly vô cùng ngạc nhiên trước yêu cầu của Elysia.",
+  "Philly phát hiện ra Frondier đã tác động đến quyết định của Elysia."
+ ],
+ "quan_he": [
+  {
+   "a": "Elysia",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái và mẹ, Elysia phàn nàn về cách Philly đối xử với mình.",
+   "cach_goi": "gọi 'Mom', thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con gái, Philly lắng nghe và phản ứng với những lời của Elysia.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier tác động đến quyết định của Elysia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Philly nghi ngờ Frondier đã tác động đến Elysia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Hai chị em gái, Elysia và Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Sale",
+   "loai": "ban_be",
+   "mo_ta": "Hai chị em gái, Elysia và Sale.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elysia: Trước đây là tội phạm, hiện tại trở lại làm công chúa.",
+  "Sale: Ứng cử viên kế vị hoàng đế."
+ ],
+ "stats": {
+  "tokens": 798,
+  "seconds": 23.8
+ }
+}

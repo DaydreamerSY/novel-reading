@@ -1,0 +1,82 @@
+{
+ "number": 873,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với việc Selena lo lắng về cuộc tấn công có thể xảy ra của Aster đối với Frondier, sau khi Frondier đã tiết lộ điều đó cho cô trước đó. Frondier giải thích rằng sự thôi thúc không ngừng nghỉ của Aster để vượt qua anh ta tạo ra một áp lực tâm lý lớn và khiến Aster luôn cảm thấy mình chưa đủ mạnh. Cuối cùng, cuộc đối đầu giữa Frondier và Aster diễn ra, với sự xuất hiện bất ngờ của Mei và việc sử dụng các vũ khí đặc biệt như Mjölnir, dẫn đến một trận chiến đầy kịch tính.",
+ "boi_canh": "Một nơi không xác định, trong tình huống căng thẳng trước một cuộc tấn công tiềm tàng.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Sybil",
+  "Renzo",
+  "Mei",
+  "Aster Evans"
+ ],
+ "su_kien": [
+  "Frondier tiết lộ với Selena rằng Aster có thể tấn công anh ta.",
+  "Frondier giải thích lý do khiến Aster luôn cảm thấy áp lực phải vượt qua anh ta.",
+  "Cuộc đối đầu giữa Frondier và Aster bắt đầu, sử dụng Excalibur và Mjölnir.",
+  "Mei xuất hiện để hỗ trợ Frondier.",
+  "Aster phá vỡ sự phòng thủ của Frondier bằng One Flash, nhưng Frondier đã chuẩn bị sẵn một bẫy mana."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Frondier chia sẻ suy nghĩ và kế hoạch của mình với Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Selena quan tâm và đặt câu hỏi về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh, Frondier cố tình tạo ra sự khác biệt để thúc đẩy sự phát triển của Aster.",
+   "cach_goi": "gọi tên Aster, lạnh lùng"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh, Aster luôn cố gắng vượt qua Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hỗ trợ, Frondier điều khiển hành động của Mei thông qua truyền âm.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hỗ trợ, Mei tuân theo lệnh của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)"
+ ],
+ "stats": {
+  "tokens": 943,
+  "seconds": 28.4
+ }
+}

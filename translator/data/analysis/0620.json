@@ -1,0 +1,57 @@
+{
+ "number": 620,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Sanders rời khỏi phòng họp tạm thời, các Hiệp sĩ Màn che đã đổ dồn sự chú ý vào anh. Anh đến gặp Lord Enfer để bày tỏ lo ngại về lệnh trực chiến kéo dài và nguy cơ đối mặt với quái vật vực sâu. Lord Enfer tiết lộ rằng Đế quốc đang lên kế hoạch điều tra hang động Manggot và có thông tin cho rằng quỷ dữ bay từ một lục địa mới ở phía tây, khiến tình hình trở nên phức tạp hơn.",
+ "boi_canh": "Trong một lều trại tạm thời tại vùng đất Manggot, sau một cuộc họp quân sự.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Enfer",
+  "Sylvain",
+  "Sanders"
+ ],
+ "su_kien": [
+  "Sanders rời khỏi phòng họp và bị các hiệp sĩ nhìn chằm chằm.",
+  "Sanders đến gặp Lord Enfer để bày tỏ lo ngại về lệnh trực chiến.",
+  "Lord Enfer tiết lộ kế hoạch điều tra hang động Manggot của Đế quốc.",
+  "Lord Enfer cho biết có thông tin quỷ dữ bay từ một lục địa mới ở phía tây.",
+  "Sanders bày tỏ sự ngạc nhiên và thắc mắc về sự tồn tại của quỷ dữ trên một lục địa chưa từng được biết đến."
+ ],
+ "quan_he": [
+  {
+   "a": "Sanders",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Sanders là một hiệp sĩ, báo cáo trực tiếp cho Lord Enfer.",
+   "cach_goi": "gọi 'Lord of Roach', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Sanders",
+   "loai": "cap_tren",
+   "mo_ta": "Lord Enfer là người có quyền lực cao nhất, không cần phải lịch sự với cấp dưới.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Các Hiệp sĩ Màn che",
+   "loai": "dong_minh",
+   "mo_ta": "Sanders đại diện cho những lo ngại của các hiệp sĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Lord Enfer nhận thông tin từ Sylvain, nhưng không trực tiếp giao tiếp với anh ta trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 649,
+  "seconds": 20.0
+ }
+}

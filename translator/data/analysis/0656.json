@@ -1,0 +1,76 @@
+{
+ "number": 656,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối mặt với Baal trong một trận đấu tay đôi. Ban đầu, Frondier bị áp đảo bởi kỹ năng kiếm thuật vượt trội của Baal, nhưng anh nhanh chóng thích nghi và bắt đầu sử dụng chiến thuật phòng thủ chủ động. Marco nhận ra Frondier đang có kế hoạch nào đó, và cuối cùng, Frondier đã tung ra một đòn tấn công bất ngờ bằng cách phủ Obsidian lên thanh kiếm của mình, khiến Baal bị thương và giải phóng sức mạnh tà ác tiềm ẩn.",
+ "boi_canh": "Một trận chiến giữa Frondier và Baal diễn ra trong một không gian không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Baal",
+  "Marco",
+  "Mizonas",
+  "King of Hell",
+  "Neil",
+  "Neil Jack",
+  "Azier"
+ ],
+ "su_kien": [
+  "Baal tấn công Frondier bằng kiếm aura.",
+  "Frondier tạo ra một thanh kiếm giống của mình để đối phó.",
+  "Frondier bị đẩy lùi bởi các đòn tấn công liên tục của Baal.",
+  "Frondier sử dụng Obsidian để cắt đứt tay Baal.",
+  "Baal giải phóng sức mạnh tà ác sau khi bị thương."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến, Frondier đang phòng thủ và tìm kiếm cơ hội phản công.",
+   "cach_goi": "gọi tên 'Baal', lạnh lùng"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến, Baal đang tấn công và đánh giá thấp Frondier.",
+   "cach_goi": "gọi tên 'Frondier', khinh miệt"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Quan sát trận chiến từ xa, Marco nhận ra kế hoạch của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "ban_be",
+   "mo_ta": "Người được Marco quan sát và phân tích chiến thuật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Marco",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Baal là mục tiêu quan sát của Marco.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Baal",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Marco quan sát và lo ngại về hành động của Baal.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Sử dụng chiến thuật 'Falling edge' để đánh lừa đối thủ.",
+  "Baal: Có sức mạnh tà ác tiềm ẩn, được kích hoạt sau khi bị thương."
+ ],
+ "stats": {
+  "tokens": 847,
+  "seconds": 25.4
+ }
+}

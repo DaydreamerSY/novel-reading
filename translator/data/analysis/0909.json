@@ -1,0 +1,86 @@
+{
+ "number": 909,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Selena bình tĩnh lại, Frondier và nhóm tiếp tục hành trình đến Nastrond. Belphegor nhận ra Selena là 'Jei', một người phụ nữ có liên quan đến quá khứ của mình. Cuộc trò chuyện xoay quanh sự nguy hiểm của việc Selena, với cơ thể phàm trần, bước vào Nastrond, nơi đầy rẫy linh hồn báo thù. Frondier sử dụng Ecleksis để giải quyết mối đe dọa này và cuộc thảo luận sau đó tập trung vào mục tiêu của Belphegor và những vấn đề tiềm ẩn khi anh ta đạt được nó.",
+ "boi_canh": "Trong Nastrond, một thế giới ngầm tối tăm và đáng sợ.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Baal",
+  "Marco",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Selena bình tĩnh lại sau khi khóc.",
+  "Belphegor nhận ra Selena là 'Jei'.",
+  "Linh hồn báo thù tấn công nhóm của Frondier.",
+  "Frondier sử dụng Ecleksis để tiêu diệt linh hồn.",
+  "Belphegor tiết lộ kế hoạch giết chết Bảy Tội Lỗi và các vị thần."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng hành và bảo vệ lẫn nhau.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng hành và bảo vệ lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Có mối quan hệ phức tạp, Belphegor có kế hoạch riêng.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Có mối quan hệ phức tạp, Frondier nghi ngờ kế hoạch của Belphegor.",
+   "cach_goi": "gọi tên Belphegor, thận trọng"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đi cùng nhóm, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đi cùng nhóm, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhận ra Selena và có vẻ như có liên quan đến quá khứ của cô.",
+   "cach_goi": "gọi tên Selena, lạnh lùng"
+  },
+  {
+   "a": "Selena",
+   "b": "Belphegor",
+   "loai": "nguoi_la",
+   "mo_ta": "Bất ngờ khi bị Belphegor nhận ra.",
+   "cach_goi": "gọi tên Belphegor, thận trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Selena được gọi là 'Jei' bởi Belphegor, cho thấy một quá khứ bí ẩn."
+ ],
+ "stats": {
+  "tokens": 961,
+  "seconds": 28.9
+ }
+}

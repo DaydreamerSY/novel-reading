@@ -2,73 +2,64 @@
  "number": 528,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, khi trận chiến diễn ra tại rào chắn Tyburn, Hector phải đối mặt với tình hình căng thẳng: quân địch liên tục tấn công bằng những quái vật cấp thấp, khiến nguồn cung cấp tên và phép thuật của người dần cạn kiệt. Sự xuất hiện đột ngột của một nhóm Minotaur khổng lồ báo hiệu một cuộc tấn công quy mô lớn hơn sắp tới, buộc Aster phải đối mặt với nguy hiểm cận kề và Frondier phải bày tỏ những cảm xúc phức tạp về sự bất lực và kỳ vọng.",
- "boi_canh": "Rào chắn Tyburn, trong một trận chiến đang diễn ra.",
+ "tom_tat": "Chương này mô tả một cuộc tấn công bất ngờ của lũ Minotaur vào căn cứ phòng thủ. Các phép thuật và bẫy đều vô ích trước sức mạnh áp đảo của chúng. Frondier, hay còn gọi là Aster Evans, xuất hiện để đối phó với tình hình nguy cấp, nhưng hành động của anh ta lại khiến mọi người lo lắng về việc liệu anh ta có sử dụng sức mạnh thần thánh của Baldur hay không.",
+ "boi_canh": "Một trận chiến ác liệt diễn ra tại một căn cứ phòng thủ đang bị lũ Minotaur tấn công.",
  "nhan_vat": [
-  "Frondier",
   "Aster",
-  "Ludwig",
-  "Notker",
   "Aster Evans",
   "Hector",
-  "Manggot"
+  "Ludwig (cha của Hector)",
+  "Minotaur"
  ],
  "su_kien": [
-  "Quái vật cấp thấp liên tục tấn công rào chắn Tyburn.",
-  "Hector sử dụng phép 'Chain Lightning' của Ludwig để tiêu diệt một nhóm quái vật chim.",
-  "Sự xuất hiện của một nhóm Minotaur khổng lồ được phát hiện.",
-  "Notker bỏ chạy khỏi Aster và kêu gọi lui vào trong rào chắn.",
-  "Aster nhận ra Frondier đã dự đoán trước tình hình này."
+  "Lũ Minotaur tấn công căn cứ phòng thủ.",
+  "Các pháp sư cố gắng sử dụng phép thuật để đẩy lùi chúng, nhưng vô ích.",
+  "Aster cắt đứt một loạt xác quái vật đang bay về phía rào chắn.",
+  "Hector nhận ra Aster có thể sử dụng sức mạnh thần thánh của Baldur.",
+  "Aster gọi tên Baldur và sau đó đột ngột tắt aura."
  ],
  "quan_he": [
   {
    "a": "Hector",
-   "b": "Quân lính trên tường",
-   "loai": "dong_minh",
-   "mo_ta": "Hector ra lệnh cho quân lính, thể hiện vai trò lãnh đạo.",
-   "cach_goi": "gọi 'Archers!', trịch thượng"
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Hector là chỉ huy, Aster là người chiến đấu dưới sự chỉ dẫn của Hector.",
+   "cach_goi": "gọi 'Aster', thân mật"
   },
   {
-   "a": "Quân lính trên tường",
+   "a": "Aster",
    "b": "Hector",
-   "loai": "dong_minh",
-   "mo_ta": "Quân lính tuân lệnh Hector.",
+   "loai": "cap_tren",
+   "mo_ta": "Aster tuân theo mệnh lệnh của Hector nhưng cũng có thể đưa ra những quyết định độc lập.",
+   "cach_goi": "gọi tên Hector, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Minotaur",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ nguy hiểm, Aster phải đối mặt với chúng để bảo vệ căn cứ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hector",
+   "b": "Minotaur",
+   "loai": "ke_thu",
+   "mo_ta": "Hector chỉ đạo quân đội chống lại lũ Minotaur.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Aster",
-   "b": "Notker",
-   "loai": "doi_thu",
-   "mo_ta": "Cả hai đang đối đầu trong trận chiến.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Notker",
-   "b": "Aster",
-   "loai": "doi_thu",
-   "mo_ta": "Notker bỏ chạy khỏi Aster.",
-   "cach_goi": "gọi tên Aster, thân mật"
-  },
-  {
-   "a": "Frondier",
-   "b": "Aster",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier đã đưa Aster đến Tyburn và bày tỏ sự bất lực.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Aster",
-   "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Aster nhận ra Frondier đã dự đoán trước tình hình.",
+   "b": "Baldur",
+   "loai": "thay_tro",
+   "mo_ta": "Aster có mối quan hệ đặc biệt với Baldur, có thể sử dụng sức mạnh của vị thần này.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Hector Von Urfa (tên thật của Hector)"
+  "Aster Evans (tên đầy đủ của Aster)"
  ],
  "stats": {
-  "tokens": 780,
-  "seconds": 24.3
+  "tokens": 701,
+  "seconds": 21.6
  }
 }

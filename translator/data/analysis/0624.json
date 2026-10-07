@@ -1,0 +1,65 @@
+{
+ "number": 624,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chiến tranh kết thúc, Frondier cùng Philly đi dạo trong Hoàng cung. Anh nhận ra đây là lần đầu tiên anh quay lại nơi này kể từ cuộc chiến. Elysia quan sát hai người với sự bối rối vì những thay đổi đột ngột trong địa vị của Frondier. Cuối cùng, Frondier phát hiện ra có một kẻ đang theo dõi họ bằng kỹ thuật ẩn mình và nghi ngờ về động cơ của kẻ đó.",
+ "boi_canh": "Trong Hoàng cung, sau chiến tranh.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Ellysia",
+  "Enfer",
+  "Ednet"
+ ],
+ "su_kien": [
+  "Frondier và Philly đi dạo trong Hoàng cung.",
+  "Elysia quan sát Frondier và Philly với sự bối rối.",
+  "Frondier phát hiện ra có người đang theo dõi họ bằng kỹ thuật ẩn mình.",
+  "Philly giải thích rằng đó là lính canh của bà, do phòng thủ bị lơ là sau chiến tranh.",
+  "Frondier nhận thấy kẻ theo dõi có ý định giết anh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đi theo sau Philly, tôn trọng và tin tưởng lẫn nhau.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly dẫn dắt và giải thích với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Elysia quan sát Frondier từ xa, bối rối về sự thay đổi địa vị của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ednet",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier phát hiện ra Ednet đang ẩn mình và có ý định giết anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Ednet",
+   "loai": "nguoi_la",
+   "mo_ta": "Philly không biết Ednet đang theo dõi họ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ednet: lính canh của Philly, sử dụng kỹ thuật ẩn mình."
+ ],
+ "stats": {
+  "tokens": 708,
+  "seconds": 21.2
+ }
+}

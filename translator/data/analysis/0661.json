@@ -1,0 +1,74 @@
+{
+ "number": 661,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra tại một ngôi làng hoang vắng nơi Frondier và đồng đội đang truy tìm Satan's devils. Lunia bị giam giữ trong phòng, cô cố gắng tìm cách thoát thân và âm thầm khắc rune lên sàn nhà. Trong khi đó, Aster và nhóm của anh chuẩn bị đột kích, dựa vào khả năng cảm giác vượt trội của Selena để dẫn đầu.",
+ "boi_canh": "Một ngôi làng hoang vắng, dấu tích chiến tranh với quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Lunia",
+  "Marco",
+  "Bart"
+ ],
+ "su_kien": [
+  "Lunia bị giam giữ trong một căn phòng được gia cố phép thuật.",
+  "Lunia khắc rune lên sàn nhà mà không ai biết.",
+  "Selena dẫn đầu đột kích vào ngôi làng hoang vắng.",
+  "Aster và đồng đội chuẩn bị tấn công, dựa vào khả năng của Selena.",
+  "Đề cập đến Marco, một tên quỷ bất tử đã biến mất."
+ ],
+ "quan_he": [
+  {
+   "a": "Lunia",
+   "b": "Devil Guarding Lunia",
+   "loai": "nguoi_la",
+   "mo_ta": "Lunia phàn nàn với lính canh, không biết nhau.",
+   "cach_goi": "gọi 'Shut up!', thô lỗ"
+  },
+  {
+   "a": "Aster",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Aster tin tưởng và giao nhiệm vụ cho Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Aster hỏi Frondier về Marco, thể hiện sự tôn trọng nhưng có khoảng cách.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Elodie và Sybil trao đổi về Marco.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Aten đồng ý với Elodie về Marco.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Selena báo cáo cho Aster trước khi hành động.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 646,
+  "seconds": 20.5
+ }
+}

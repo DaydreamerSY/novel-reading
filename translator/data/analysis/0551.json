@@ -2,129 +2,87 @@
  "number": 551,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Frondier đề xuất một chiến lược mới để đối phó với Manggot, trong đó ông sẽ trở thành 'Cửa sổ' mà toàn bộ Đế quốc tập trung tấn công. Ông sử dụng phép thuật 'Phục hồi' được khắc vào rune để đánh lừa và dụ dỗ kẻ thù đến phía bắc, tạo cơ hội cho Selena và Mei thực hiện cuộc tấn công bất ngờ. Cuối cùng, Kỵ binh Roach, lực lượng tinh nhuệ nhất của Đế quốc, tham chiến.",
- "boi_canh": "Trong phòng họp chiến lược của Đế quốc, thời điểm quan trọng trước khi rào cản sụp đổ.",
+ "tom_tat": "Trong chương này, quân Roach Knights tấn công căn cứ của Manggot với sự tức giận tột độ. Frondier gửi một con ngựa đến đón Selena và Mei sau cuộc tấn công. Sau đó, Mei tiết lộ thân phận thật của mình cho Selena, người đã nghi ngờ cô đang cải trang. Cuối cùng, Selena nhận ra những lời nói trước đây của Frondier về việc cô không còn là tùy tùng của anh nữa.",
+ "boi_canh": "Trên chiến trường, giữa các thành viên của quân Roach Knights và Manggot.",
  "nhan_vat": [
   "Frondier",
+  "Elodie",
   "Selena",
-  "Philly",
-  "Aten",
-  "Osprey",
-  "Malia",
   "Sylvain",
   "Mei",
-  "Ludwig"
+  "Cassian",
+  "Adela"
  ],
  "su_kien": [
-  "Frondier đề xuất chiến lược mới, biến mình thành mục tiêu tập trung của Đế quốc.",
-  "Ông sử dụng phép 'Phục hồi' được khắc vào rune để đánh lừa kẻ thù.",
-  "Selena và Mei thực hiện cuộc tấn công bất ngờ lên Manggot ở phía bắc.",
-  "Kỵ binh Roach tham chiến, tạo nên một làn sóng tấn công mạnh mẽ.",
-  "Rào cản phía bắc sắp sụp đổ."
+  "Quân Roach Knights tấn công căn cứ của Manggot.",
+  "Mei và Selena thực hiện một cuộc tấn công bất ngờ.",
+  "Một con ngựa không người lái đến đón Selena và Mei.",
+  "Mei biến đổi thành hình dạng thật của mình.",
+  "Selena nhận ra sự giống nhau giữa Mei và Frondier."
  ],
  "quan_he": [
   {
-   "a": "Frondier",
-   "b": "Aten",
+   "a": "Sylvain",
+   "b": "Quân Roach Knights",
    "loai": "cap_tren",
-   "mo_ta": "Frondier trình bày chiến lược cho cấp trên.",
-   "cach_goi": "gọi tên Aten, lễ phép"
+   "mo_ta": "Chỉ huy quân Roach Knights, ra lệnh tấn công.",
+   "cach_goi": "gọi 'các chiến binh', trịch thượng"
   },
   {
-   "a": "Aten",
-   "b": "Frondier",
+   "a": "Quân Roach Knights",
+   "b": "Sylvain",
    "loai": "cap_tren",
-   "mo_ta": "Aten lắng nghe và đặt câu hỏi cho Frondier.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
+   "mo_ta": "Tuân lệnh chỉ huy Sylvain.",
+   "cach_goi": "gọi 'Ngài', lễ phép"
   },
   {
-   "a": "Frondier",
-   "b": "Philly",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier trình bày chiến lược cho cấp trên.",
-   "cach_goi": "gọi tên Philly, lễ phép"
-  },
-  {
-   "a": "Philly",
-   "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Philly thể hiện sự ngạc nhiên và hiểu ra ý tưởng của Frondier.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
-  },
-  {
-   "a": "Frondier",
-   "b": "Osprey",
-   "loai": "dong_minh",
-   "mo_ta": "Frondier trình bày chiến lược, Osprey thể hiện sự ngạc nhiên.",
-   "cach_goi": "gọi tên Osprey, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Osprey",
-   "b": "Frondier",
-   "loai": "dong_minh",
-   "mo_ta": "Osprey bày tỏ sự ngạc nhiên về việc Frondier khắc rune cho phép 'Phục hồi'.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Ludwig",
-   "loai": "thay_tro",
-   "mo_ta": "Frondier nhắc đến kinh nghiệm của Ludwig về phép 'Phục hồi'.",
-   "cach_goi": "gọi tên Ludwig, lễ phép"
-  },
-  {
-   "a": "Ludwig",
-   "b": "Frondier",
-   "loai": "thay_tro",
-   "mo_ta": "Ludwig gật đầu đồng ý với Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
+   "a": "Mei",
    "b": "Selena",
-   "loai": "ban_be",
-   "mo_ta": "Frondier lên kế hoạch cho Selena tham gia tấn công.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu và Selena nghi ngờ Mei cải trang.",
+   "cach_goi": "gọi tên, thân mật"
   },
   {
    "a": "Selena",
    "b": "Mei",
-   "loai": "ban_be",
-   "mo_ta": "Hai người đối diện nhau trong chiến trường.",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu và Selena nghi ngờ Mei cải trang.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Cassian",
+   "loai": "khac",
+   "mo_ta": "Ngựa của Selena, không giao tiếp.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Frondier",
-   "b": "Mei",
-   "loai": "ban_be",
-   "mo_ta": "Frondier lên kế hoạch cho Mei tham gia tấn công.",
+   "a": "Cassian",
+   "b": "Selena",
+   "loai": "khac",
+   "mo_ta": "Ngựa của Selena, không giao tiếp.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Mei",
    "b": "Selena",
-   "loai": "ban_be",
-   "mo_ta": "Hai người đối diện nhau trong chiến trường.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu và Selena nghi ngờ Mei cải trang.",
+   "cach_goi": "gọi tên, thân mật"
   },
   {
-   "a": "Frondier",
-   "b": "Malia",
-   "loai": "gia_dinh",
-   "mo_ta": "Malia ra lệnh cho Kỵ binh Roach tham chiến.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Sylvain",
-   "b": "Malia",
-   "loai": "cap_tren",
-   "mo_ta": "Sylvain nhận lệnh từ Malia.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "a": "Selena",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu và Selena nghi ngờ Mei cải trang.",
+   "cach_goi": "gọi tên, thân mật"
   }
  ],
- "danh_tinh": [],
+ "danh_tinh": [
+  "Mei: Ban đầu cải trang thành Adela, một người chăn cừu của Manggot."
+ ],
  "stats": {
-  "tokens": 1386,
-  "seconds": 43.4
+  "tokens": 901,
+  "seconds": 28.2
  }
 }

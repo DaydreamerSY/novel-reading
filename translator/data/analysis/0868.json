@@ -1,0 +1,92 @@
+{
+ "number": 868,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier đề xuất một kế hoạch táo bạo để thống nhất tất cả 72 quỷ dữ dưới sự chỉ huy của mình, Baal, một trong những quỷ mạnh mẽ nhất, đã cân nhắc lời đề nghị này. Sự phản đối từ các quỷ khác nhanh chóng nổ ra, nhưng Baal giữ im lặng và cuối cùng quyết định tuân theo Frondier, gây bất ngờ cho mọi người. Trong khi đó, ở một nơi khác, Satan quan sát tình hình với sự lo lắng, nhận thấy những rủi ro tiềm ẩn trong hành động của Frondier. Cuối cùng, Frondier nhận được báo cáo về việc Baal đang tiến đến và sự xuất hiện của Aster giữa các vị thần.",
+ "boi_canh": "Cảnh xảy ra tại một khu vực không xác định, nơi các quỷ dữ tụ tập xung quanh Baal.",
+ "nhan_vat": [
+  "Frondier",
+  "Baal",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Sybil",
+  "Renzo",
+  "Pielott",
+  "Edwin",
+  "Carla",
+  "Gregory",
+  "Athena",
+  "Satan",
+  "Lucifer",
+  "Zeus",
+  "Mammon",
+  "Charon",
+  "Pururpur"
+ ],
+ "su_kien": [
+  "Frondier đề xuất kế hoạch thống nhất 72 quỷ dữ.",
+  "Baal cân nhắc lời đề nghị của Frondier và quyết định tuân theo.",
+  "Satan quan sát tình hình với sự lo lắng.",
+  "Aster được phát hiện đang bị một vị thần mang theo.",
+  "Baal dẫn đầu một nửa số 72 quỷ dữ tiến về phía Palma."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier đề xuất kế hoạch cho Baal, tạo ra sự căng thẳng và sau đó là sự tuân thủ.",
+   "cach_goi": "gọi tên Baal, không trang trọng"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Baal ban đầu phản đối nhưng sau đó tuân theo Frondier.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ là bạn bè thân thiết.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ là bạn bè thân thiết.",
+   "cach_goi": "gọi tên Selena, không trang trọng"
+  },
+  {
+   "a": "Satan",
+   "b": "Lucifer",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người quan sát tình hình cùng nhau.",
+   "cach_goi": "gọi tên Lucifer, không trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier giao nhiệm vụ cho Gregory.",
+   "cach_goi": "gọi tên Gregory, không trang trọng"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Gregory báo cáo lại cho Frondier.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Athena đang ẩn mình dưới hình dạng Carla."
+ ],
+ "stats": {
+  "tokens": 970,
+  "seconds": 29.3
+ }
+}

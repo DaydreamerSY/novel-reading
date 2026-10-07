@@ -1,0 +1,106 @@
+{
+ "number": 969,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cuộc đối đầu giữa Frondier và Thor sau khi Thor nắm giữ Mistilteinn. Frondier giải thích về nguồn gốc của Mistilteinn và mục đích ban đầu của nó, đồng thời nhấn mạnh tầm quan trọng của việc truyền đạt thông tin một cách kín đáo trong nhiệm vụ hiện tại. Cuộc chiến diễn ra căng thẳng với sự xuất hiện của nhiều vị thần khác nhau, và kết thúc bằng việc Frondier sử dụng một loạt vũ khí đen tối để tấn công Thor.",
+ "boi_canh": "Một trận chiến giữa các vị thần đang diễn ra trên một khu vực không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Thor",
+  "Elodie",
+  "Philly",
+  "Osprey",
+  "Edwin",
+  "Zeus",
+  "Baldr",
+  "Agni",
+  "Chandra",
+  "Indra",
+  "Rudra",
+  "Vishnu"
+ ],
+ "su_kien": [
+  "Thor cố gắng cầm Mistilteinn nhưng bị đau dữ dội.",
+  "Frondier giải thích về nguồn gốc và mục đích của Mistilteinn.",
+  "Thor tấn công Frondier với Mjölnir, nhưng bị Frondier đẩy lùi.",
+  "Elodie xuất hiện và sử dụng ma thuật không gian.",
+  "Rudra cảnh báo Elodie về sự nguy hiểm của cuộc chiến."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Thor",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến, Frondier cố gắng đánh bại Thor.",
+   "cach_goi": "gọi tên 'Thor', lạnh lùng"
+  },
+  {
+   "a": "Thor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến, Thor cố gắng đánh bại Frondier.",
+   "cach_goi": "gọi tên 'Frondier', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, nhưng Frondier không chia sẻ đầy đủ thông tin với Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, nhưng có những cảm xúc phức tạp đối với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, quan sát Elodie từ xa.",
+   "cach_goi": "gọi tên 'Elodie', thân mật"
+  },
+  {
+   "a": "Edwin",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, tỏ ra vui mừng khi gặp lại Elodie.",
+   "cach_goi": "gọi tên 'Elodie', thân mật"
+  },
+  {
+   "a": "Zeus",
+   "b": "Baldr",
+   "loai": "cap_tren",
+   "mo_ta": "Zeus là cấp trên của Baldr, đưa ra chỉ thị chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Rudra",
+   "b": "Vishnu",
+   "loai": "cap_tren",
+   "mo_ta": "Hai vị thần có mối quan hệ phức tạp, Rudra tỏ ra không hài lòng với Vishnu.",
+   "cach_goi": "gọi tên 'Vishnu', lạnh lùng"
+  },
+  {
+   "a": "Vishnu",
+   "b": "Rudra",
+   "loai": "cap_tren",
+   "mo_ta": "Hai vị thần có mối quan hệ phức tạp, Vishnu tỏ ra không hài lòng với Rudra.",
+   "cach_goi": "gọi tên 'Rudra', lạnh lùng"
+  },
+  {
+   "a": "Elodie",
+   "b": "Rudra",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Rudra hỗ trợ Elodie trong chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 949,
+  "seconds": 28.8
+ }
+}

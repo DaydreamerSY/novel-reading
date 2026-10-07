@@ -1,0 +1,73 @@
+{
+ "number": 791,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe giải thích về Paladin, Frondier nhận thấy sự tương đồng với Zodiac và dự đoán sức mạnh của họ sẽ sánh ngang. Trong một trận chiến, Antero bị Frondier áp đảo nhưng sau đó kích hoạt một thiết bị magitech để tăng cường aura. Cuộc đối đầu tiếp tục với những tiết lộ về các thiết bị hỗ trợ của Antero, đỉnh điểm là sự tức giận của Frondier khi nhận ra sự yếu đuối và thái độ tự mãn của đối thủ.",
+ "boi_canh": "Trong một phòng học đổ nát, giữa một trận chiến căng thẳng.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Pielott",
+  "Carla",
+  "Antero",
+  "Aias"
+ ],
+ "su_kien": [
+  "Antero không thể thoát khỏi Black Thread của Frondier.",
+  "Antero kích hoạt một thiết bị magitech để tăng cường aura.",
+  "Frondier nhận ra Antero đang sử dụng các thiết bị hỗ trợ magitech.",
+  "Frondier đánh giá sức mạnh của Antero và so sánh với Pielott.",
+  "Antero tự hào tuyên bố mình là Paladin số một."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Antero",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp trong trận chiến, Frondier cảm thấy thất vọng về sức mạnh của Antero.",
+   "cach_goi": "gọi tên Antero, lạnh lùng"
+  },
+  {
+   "a": "Antero",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cố gắng tấn công và chế nhạo Frondier trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "thay_tro",
+   "mo_ta": "So sánh kỹ thuật của Antero với Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "cap_tren",
+   "mo_ta": "Đánh giá sức mạnh của Antero so với Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát trận chiến từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Antero",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cố gắng tấn công và chế nhạo Frondier trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Antero: Paladin số một (tự xưng)"
+ ],
+ "stats": {
+  "tokens": 786,
+  "seconds": 23.7
+ }
+}

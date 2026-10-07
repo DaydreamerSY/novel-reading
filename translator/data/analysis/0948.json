@@ -1,0 +1,80 @@
+{
+ "number": 948,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chapter 948 opens with Hestia sensing a disturbance and discovering that Bifrost has reopened, signaling the Moirai's defeat and imminent arrival of the gods. Zeus confronts her but is unsuccessful in changing her resolve to protect humanity. Meanwhile, in Asgard, Hela manipulates events using a message from Loki, unleashing Naglfar upon the unsuspecting gods. Finally, Satan sends his forces after Frondier and Belphegor, with Mammon quickly dispatched by a powerful knight.",
+ "boi_canh": "Olympus, during a battle between Hestia's army and the gods of Olympus.",
+ "nhan_vat": [
+  "Frondier",
+  "Heldre",
+  "Odin",
+  "Hela",
+  "Thor",
+  "Zeus",
+  "Asmodeus",
+  "Mammon",
+  "Hestia",
+  "Hermes",
+  "Belphegor",
+  "Astaroth"
+ ],
+ "su_kien": [
+  "Bifrost reopens, indicating the Moirai's defeat.",
+  "Zeus attempts to stop Hestia but fails.",
+  "Hela launches Naglfar and attacks Asgard.",
+  "Mammon is swiftly defeated by a knight on a corpse-and-blood horse.",
+  "Satan sends forces after Frondier and Belphegor."
+ ],
+ "quan_he": [
+  {
+   "a": "Hestia",
+   "b": "Zeus",
+   "loai": "cap_tren",
+   "mo_ta": "Hestia defies Zeus's order, maintaining a respectful but firm stance.",
+   "cach_goi": "gọi 'King of the Gods', lễ phép"
+  },
+  {
+   "a": "Zeus",
+   "b": "Hestia",
+   "loai": "cap_tren",
+   "mo_ta": "Zeus attempts to command Hestia but is met with resistance.",
+   "cach_goi": "gọi tên Hestia, lạnh lùng"
+  },
+  {
+   "a": "Hestia",
+   "b": "Hermes",
+   "loai": "dong_minh",
+   "mo_ta": "Hestia addresses Hermes' comment about Heldre.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Mammon",
+   "loai": "cap_tren",
+   "mo_ta": "Satan sends Mammon on a mission and dismisses his concerns.",
+   "cach_goi": "gọi tên Mammon, lạnh lùng"
+  },
+  {
+   "a": "Mammon",
+   "b": "Knight (corpse-and-blood horse)",
+   "loai": "nguoi_la",
+   "mo_ta": "Mammon is instantly defeated by the knight.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Hela",
+   "loai": "nguoi_la",
+   "mo_ta": "Belphegor delivers a cryptic message to Hela.",
+   "cach_goi": "gọi tên Hela, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Heldre: Formerly an atrocious criminal, now a Zodiac.",
+  "Loki: His past actions and messages are revealed through Belphegor."
+ ],
+ "stats": {
+  "tokens": 837,
+  "seconds": 25.2
+ }
+}

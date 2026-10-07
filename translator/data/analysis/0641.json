@@ -1,0 +1,81 @@
+{
+ "number": 641,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Sybil và Marco đối đầu trong một trận chiến căng thẳng. Sybil cố gắng lợi dụng tình hình để kéo dài thời gian, nhưng Marco nhận ra sự yếu đuối của cô. Sau khi Marco rời đi đột ngột, Sybil cảm thấy lo lắng vì nghe được lời 'thành công' từ một con quỷ báo tin, cho thấy có điều gì đó bất thường đang xảy ra.",
+ "boi_canh": "Một trận chiến giữa Sybil và Marco tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aten Terst",
+  "Sybil",
+  "Marco",
+  "Marchosias"
+ ],
+ "su_kien": [
+  "Sybil và Marco đối đầu trong một trận chiến.",
+  "Marco nhận ra sự suy yếu của Sybil và tình trạng Mana cạn kiệt của cô.",
+  "Marco hỏi về mối quan hệ giữa Sybil và Frondier.",
+  "Sybil thừa nhận có liên quan đến Frondier để bảo toàn tính mạng.",
+  "Marco đột ngột rời đi sau khi nghe báo cáo từ một con quỷ."
+ ],
+ "quan_he": [
+  {
+   "a": "Sybil",
+   "b": "Marco",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, Sybil cố gắng tìm cách lợi dụng Marco.",
+   "cach_goi": "gọi tên Marco, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Sybil",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, Marco đánh giá và phân tích đối thủ.",
+   "cach_goi": "gọi tên Sybil, lạnh lùng"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil có tình cảm với Frondier, nhưng Frondier không nhận ra.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Marco quan tâm đến mối quan hệ giữa Sybil và Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Sybil ghen tị với Elodie vì mối quan hệ thân thiết của cô với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten Terst",
+   "loai": "ban_be",
+   "mo_ta": "Sybil ghen tị với Aten vì sự quan tâm của Frondier dành cho cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Sybil ghen tị với Selena vì mối quan hệ của cô với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst (tên đầy đủ)"
+ ],
+ "stats": {
+  "tokens": 865,
+  "seconds": 26.0
+ }
+}

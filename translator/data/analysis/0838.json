@@ -1,0 +1,70 @@
+{
+ "number": 838,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Pielott đối mặt trong một trận chiến căng thẳng. Pielott tiết lộ rằng Hypnos đã ban cho anh ta những khả năng đặc biệt, khiến anh ta trở nên mạnh mẽ hơn bao giờ hết. Cuối cùng, Pielott đánh bại một tên quỷ bằng kỹ thuật kiếm độc đáo của mình và nhận ra sự thật đắng chát về tình hình chiến tranh.",
+ "boi_canh": "Một trận chiến giữa Frondier và Pielott diễn ra trong một không gian không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Pielott",
+  "Hypnos"
+ ],
+ "su_kien": [
+  "Pielott tiết lộ rằng Hypnos đã ban cho anh ta những khả năng đặc biệt.",
+  "Pielott đánh bại một tên quỷ bằng kỹ thuật kiếm độc đáo của mình.",
+  "Pielott nhận ra sự thật về tình hình chiến tranh và vai trò của mình.",
+  "Một trận đấu giữa Pielott và một tên quỷ diễn ra với nhiều đòn tấn công và phòng thủ phức tạp.",
+  "Pielott sử dụng kỹ thuật 'Ribanche Swordsmanship — Battō, Pielott Original — Banshee' để hạ gục đối thủ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Không giao tiếp trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Pielott, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Quan hệ bạn bè, Pielott có vẻ quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Hypnos",
+   "loai": "cap_tren",
+   "mo_ta": "Pielott nhận sự ban ân huệ từ Hypnos.",
+   "cach_goi": "gọi tên Hypnos, lễ phép"
+  },
+  {
+   "a": "Hypnos",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không giao tiếp trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Demon",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ của Pielott trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Demon",
+   "b": "Pielott",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ của Pielott trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pielott được Hypnos ban cho những khả năng đặc biệt, có lẽ là một dạng sức mạnh thần thánh."
+ ],
+ "stats": {
+  "tokens": 789,
+  "seconds": 23.7
+ }
+}

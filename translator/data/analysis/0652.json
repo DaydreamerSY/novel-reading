@@ -1,0 +1,89 @@
+{
+ "number": 652,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi các học viên của Constel đối mặt với lũ quỷ, Frondier sử dụng chúng để ngăn chặn Chiến tranh Quỷ dữ, nhưng phải giữ bí mật hành động này vì sợ bị nghi ngờ. Aster cảm thấy bực bội và lo lắng về việc Lunia bị bắt cóc, trong khi đó Frondier đang cố gắng mua thời gian bằng cách giả vờ hợp tác với lũ quỷ. Một tên quỷ cấp cao từ phương Tây xuất hiện, chất vấn hành động của Frondier.",
+ "boi_canh": "Các học viên Constel đang đối mặt với lũ quỷ tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Philly",
+  "Sybil",
+  "Lunia",
+  "Marco",
+  "Bart"
+ ],
+ "su_kien": [
+  "Các học viên Constel đối mặt với lũ quỷ.",
+  "Frondier sử dụng lũ quỷ để ngăn chặn Chiến tranh Quỷ dữ.",
+  "Aster cảm thấy bực bội và lo lắng về việc Lunia bị bắt cóc.",
+  "Bart cung cấp thông tin về vị trí tụ tập của lũ quỷ cho Aster.",
+  "Một tên quỷ cấp cao từ phương Tây xuất hiện, chất vấn Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Frondier có vẻ đang điều khiển Aster và che giấu một số thông tin.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aster cảm thấy bực bội với hành động của Frondier và lo lắng về Lunia.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bart",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Bart đang làm theo chỉ dẫn của Frondier.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Bart",
+   "loai": "nguoi_la",
+   "mo_ta": "Aster nghi ngờ Bart đang làm theo chỉ dẫn của Frondier.",
+   "cach_goi": "gọi tên Bart, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier đang điều khiển Marco để giúp đỡ.",
+   "cach_goi": "gọi tên Marco, thân mật"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Marco đang quan sát và hỗ trợ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Devil (High-Ranking)",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier đang giả vờ cần sự giúp đỡ của quỷ để che giấu mục đích thực.",
+   "cach_goi": "gọi tên Devil, trịch thượng"
+  },
+  {
+   "a": "Devil (High-Ranking)",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Quỷ cấp cao nghi ngờ hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Rafflesia: Tên một thứ gì đó được dùng để thu hút lũ quỷ, nhưng không được giải thích chi tiết trong chương này."
+ ],
+ "stats": {
+  "tokens": 999,
+  "seconds": 30.1
+ }
+}

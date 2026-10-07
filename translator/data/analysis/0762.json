@@ -1,0 +1,73 @@
+{
+ "number": 762,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này giới thiệu Frondier trong vai trò giáo viên mới tại Học Viện Atlas. Anh nhanh chóng thu hút sự chú ý cùng Elodie, nhưng cố tình giữ vẻ ngoài bình thường để tránh bị lộ diện. Một cuộc đối đầu nhỏ giữa Frondier và Elodie nảy sinh khi họ tranh luận về năng lực và thành tựu của nhau, thể hiện sự cạnh tranh ngấm ngầm giữa hai người. Cuối chương, Elodie bày tỏ lo lắng cho Frondier và ám chỉ một mối quan hệ sâu sắc hơn những gì anh tưởng tượng.",
+ "boi_canh": "Ngày đầu tiên của học kỳ mới tại Học Viện Atlas.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Pielott",
+  "Jane",
+  "Arald",
+  "Giotto"
+ ],
+ "su_kien": [
+  "Frondier và Elodie được giới thiệu với sinh viên trong lớp học đầu tiên.",
+  "Hai người trao đổi những lời chào thân thiện khi gặp nhau trên hành lang.",
+  "Frondier và Giotto có cuộc trò chuyện ngắn về thành tựu của Frondier và Elodie.",
+  "Elodie công khai chỉ trích Frondier vì sự khiêm tốn giả tạo của anh.",
+  "Elodie bày tỏ lo lắng cho Frondier và ám chỉ một mối quan hệ sâu sắc hơn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, có vẻ cạnh tranh ngấm ngầm.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, có vẻ cạnh tranh ngấm ngầm.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Giotto",
+   "loai": "nguoi_la",
+   "mo_ta": "Giáo viên cùng trường, vừa thân thiện vừa tò mò.",
+   "cach_goi": "gọi tên, lễ phép"
+  },
+  {
+   "a": "Giotto",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Giáo viên cùng trường, vừa thân thiện vừa tò mò.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Giotto",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng có vẻ khó chịu với Giotto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Giotto",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng có vẻ khó chịu với Giotto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Được biết đến là 'human sloth' (kẻ lười biếng) bởi Jane và Elodie."
+ ],
+ "stats": {
+  "tokens": 839,
+  "seconds": 25.3
+ }
+}

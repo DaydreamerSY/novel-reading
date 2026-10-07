@@ -1,0 +1,70 @@
+{
+ "number": 849,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chứng kiến một đoạn ký ức ngắn ngủi về tương lai, Hoàng hậu Philly đột ngột suy yếu và ngất xỉu. Cô nhìn thấy hình ảnh người thân của mình quỳ gối khóc lóc, nhưng không xác định được ai là người đàn ông đã ngã xuống. Sau đó, cô nhận báo cáo từ Malia về việc các vị thần đang khiêu khích ác ma trên lục địa Agoris và nguy cơ chiếm hữu người có sức mạnh thần thánh. Cuối cùng, Aster Evans được yêu cầu chứng minh sự thật của mình để loại trừ khả năng bị chiếm hữu bởi một vị thần.",
+ "boi_canh": "Trong phòng làm việc Hoàng hậu Philly, tại Đế quốc.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly",
+  "Azier",
+  "Enfer",
+  "Malia",
+  "Ludovic",
+  "Sale",
+  "Odin"
+ ],
+ "su_kien": [
+  "Hoàng hậu Philly trải qua một đoạn ký ức ngắn ngủi về tương lai và ngất xỉu.",
+  "Philly nhìn thấy Malia khóc trong tương lai, nhưng không xác định được người đàn ông đã ngã xuống.",
+  "Malia báo cáo về việc các vị thần khiêu khích ác ma trên lục địa Agoris.",
+  "Aster Evans được yêu cầu chứng minh sự thật của mình để loại trừ khả năng bị chiếm hữu bởi một vị thần.",
+  "Aster sử dụng kỹ thuật One Flash để chứng minh bản thân với Ludovic."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ và con gái, Philly lo lắng cho Malia.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "con gái và mẹ, Malia báo cáo tình hình cho Philly.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Philly quan tâm đến Aster, nhưng không giao tiếp trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "đồng nghiệp, Ludovic được giao nhiệm vụ xác minh Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Ludovic",
+   "loai": "ban_be",
+   "mo_ta": "đồng nghiệp, Aster chứng minh bản thân cho Ludovic.",
+   "cach_goi": "gọi tên Ludovic, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster.",
+  "Frondier de Roach: Tên đầy đủ của Frondier."
+ ],
+ "stats": {
+  "tokens": 788,
+  "seconds": 23.8
+ }
+}

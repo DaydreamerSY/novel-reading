@@ -1,0 +1,102 @@
+{
+ "number": 807,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận được yêu cầu từ Dier và Marco, Aster sử dụng một con quạ để gửi thông điệp đến Frondier. Trong quá trình này, những người có mặt phát hiện ra Gregory đang điều khiển con quạ đó. Dier nghi ngờ con quạ không phải là của Frondier, dẫn đến sự căng thẳng. Cuối cùng, họ quyết định nhờ Malia, mẹ của Frondier, sử dụng khả năng chia sẻ thị giác để xác minh thông tin.",
+ "boi_canh": "Trong phòng họp tại một địa điểm không rõ ràng, vào thời điểm những người thân cận với gia đình Enfer đang thảo luận về việc gửi thông điệp đến Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aster",
+  "Azier",
+  "Enfer",
+  "Dier",
+  "Malia",
+  "Marco",
+  "Gregory"
+ ],
+ "su_kien": [
+  "Aster sử dụng một con quạ để gửi thông điệp đến Frondier.",
+  "Dier nghi ngờ con quạ không phải là của Frondier và Gregory đang điều khiển nó.",
+  "Gregory tiết lộ rằng anh ta bị bỏ rơi khi Frondier rời khỏi lục địa.",
+  "Aster đề xuất kiểm tra xem con quạ có thực sự thuộc về Frondier hay không bằng cách nhờ Malia chia sẻ thị giác.",
+  "Malia sử dụng khả năng chia sẻ thị giác và nhìn thấy Gregory, người đang điều khiển con quạ."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster có vẻ lo lắng và muốn trấn an Dier.",
+   "cach_goi": "gọi tên Dier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Dier nghi ngờ và đặt câu hỏi về con quạ.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Gregory",
+   "loai": "khac",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Aster nhận thấy sự khác thường ở Gregory.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Aster",
+   "loai": "khac",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Gregory đánh giá cao sự thông minh của Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Gregory",
+   "loai": "ke_thu",
+   "mo_ta": "Nghi ngờ Gregory, Dier đang điều tra xem con quạ có phải là của Frondier hay không.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Dier",
+   "loai": "ke_thu",
+   "mo_ta": "Nhận thấy Dier là một đối tượng đáng chú ý, Gregory đánh giá cao sự nhanh nhạy của cậu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và mẹ, Aster tôn trọng Malia.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Dier",
+   "b": "Malia",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Dier tôn trọng Malia.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Aster",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con trai, Malia quan tâm đến Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Dier",
+   "loai": "dong_minh",
+   "mo_ta": "Mẹ và đồng minh, Malia quan tâm đến Dier.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1126,
+  "seconds": 33.9
+ }
+}

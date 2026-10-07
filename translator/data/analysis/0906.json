@@ -1,0 +1,114 @@
+{
+ "number": 906,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chạy một hồi lâu trong hang động, Frondier phát hiện ra rằng hang sâu hơn anh nghĩ và không thể nhìn thấy lối vào nữa. Anh gặp Elodie, Revet và Hector bị bất tỉnh gần lối vào. Sau đó, anh nghe thấy tiếng nước chảy dẫn đường đến một cái cây kỳ lạ gọi là Yggdrasil, nơi Satan đang chờ đợi. Satan tiết lộ kế hoạch của mình để Frondier cứu Azier bằng cách uống nước từ dòng sông chảy qua Yggdrasil và đi đến Tartarus, nhưng Belphegor can thiệp, phơi bày sự thật rằng đây chỉ là một trò lừa bịp.",
+ "boi_canh": "Frondier đang chạy trong một hang động tối tăm, có ánh đèn từ những ngọn đuốc được thắp dọc theo các bức tường.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Pascal",
+  "Revet",
+  "Hector",
+  "Satan",
+  "Belphegor",
+  "Moirai (woman on the left)",
+  "Moirai (woman in the middle)",
+  "Moirai (woman on the right)"
+ ],
+ "su_kien": [
+  "Frondier chạy sâu vào hang động, mất dấu lối vào.",
+  "Anh tìm thấy Elodie, Revet và Hector bất tỉnh gần lối vào.",
+  "Anh nghe thấy tiếng nước chảy dẫn anh đến một cái cây kỳ lạ (Yggdrasil).",
+  "Satan xuất hiện và đề nghị Frondier cứu Azier bằng cách uống nước từ dòng sông chảy qua Yggdrasil.",
+  "Belphegor can thiệp, tiết lộ rằng kế hoạch của Satan là một trò lừa bịp."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ. Elodie cố gắng ngăn cản Frondier.",
+   "cach_goi": "gọi tên Elodie, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Revet",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Elodie, bị bất tỉnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hector",
+   "loai": "nguoi_la",
+   "mo_ta": "Con trai của Ludwig, bị bất tỉnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "dong_minh",
+   "mo_ta": "Một hiệp sĩ cung điện. Đã từng nói chuyện với Frondier.",
+   "cach_goi": "gọi tên Pascal, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Satan",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù. Satan đề nghị một thỏa thuận để cứu Azier.",
+   "cach_goi": "gọi tên Satan, lạnh lùng"
+  },
+  {
+   "a": "Satan",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù. Satan đang thao túng Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "nguoi_la",
+   "mo_ta": "Một nhân vật bất ngờ xuất hiện và phá vỡ kế hoạch của Satan.",
+   "cach_goi": "gọi tên Belphegor, ngạc nhiên"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Một nhân vật bất ngờ xuất hiện và phá vỡ kế hoạch của Satan.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Satan",
+   "b": "Moirai (woman on the left)",
+   "loai": "khac",
+   "mo_ta": "Quan hệ làm việc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Moirai (woman in the middle)",
+   "loai": "khac",
+   "mo_ta": "Quan hệ làm việc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Moirai (woman on the right)",
+   "loai": "khac",
+   "mo_ta": "Quan hệ làm việc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Yggdrasil: Được tiết lộ là một cây, không phải cột.",
+  "Tartarus: Được tiết lộ là địa ngục của người Hy Lạp cổ đại."
+ ],
+ "stats": {
+  "tokens": 1295,
+  "seconds": 39.5
+ }
+}

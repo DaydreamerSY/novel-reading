@@ -1,0 +1,93 @@
+{
+ "number": 767,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào trận đấu giữa Frondier và Aias, kết thúc với việc Aias sử dụng sức mạnh thần thánh. Sau đó, Frondier triệu hồi Arald và Lily để xác nhận một hiện tượng nguy hiểm liên quan đến sự kết hợp giữa sức mạnh thần thánh và sức mạnh quỷ dữ. Cuối cùng, Frondier dành thời gian nghiên cứu bản đồ và lịch trình của mình với Arald.",
+ "boi_canh": "Trong lớp học, sau trận đấu giữa Frondier và Aias.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Azier",
+  "Lily",
+  "Pielott",
+  "Baal",
+  "Mei",
+  "Arald",
+  "Aias",
+  "Heracles"
+ ],
+ "su_kien": [
+  "Aias thua trận đấu với Frondier.",
+  "Frondier nhớ lại Pielott và suy nghĩ về cách tác động đến Aias.",
+  "Aias tấn công Frondier sau khi trận đấu kết thúc, sử dụng sức mạnh thần thánh.",
+  "Frondier ngăn chặn Aias bằng Dòng Chỉ Đen.",
+  "Frondier và Arald xác định được nguy cơ tiềm ẩn của việc kết hợp sức mạnh thần thánh và sức mạnh quỷ dữ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aias",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận đấu, có sự thù địch và hiểu lầm.",
+   "cach_goi": "gọi tên Aias, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aias",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận đấu, có sự tức giận và muốn trả thù.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học trò, Frondier đang được Arald hướng dẫn.",
+   "cach_goi": "gọi tên Arald, lễ phép"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học trò, Arald lo lắng cho sức khỏe của Frondier.",
+   "cach_goi": "gọi tên Frondier, quan tâm"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Lily quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Lily, lễ phép"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Lily quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Frondier, thân thiện"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi và con gái, Frondier quan tâm đến sự phát triển của Mei.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái và cha nuôi, Mei tò mò về những gì Frondier đang làm.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Aias: Có thể sử dụng sức mạnh thần thánh.",
+  "Mei: Dường như đang dần trở nên giống người hơn."
+ ],
+ "stats": {
+  "tokens": 1015,
+  "seconds": 30.6
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "number": 942,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhớ lại lời Philly về việc Aten luôn đi cùng Aster khiến cô lo lắng. Anh suy ngẫm rằng có lẽ Philly không thể tiên đoán được anh, và nhận ra mình là một yếu tố bất thường trong vận mệnh thế giới. Trong trận chiến với Moirai, Frondier dùng Gram phá vỡ phòng tuyến của đối phương và phát hiện ra họ đang che giấu sự thật. Anh sử dụng Menosorpo để tạo ra Workshop, bẫy Moirai và tấn công chúng, cuối cùng nhận ra rằng khả năng của anh là phần thưởng từ chiếc đồng hồ thông minh bị hack.",
+ "boi_canh": "Dưới lòng đất, trong một nhà máy dệt vận mệnh.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Aster",
+  "Selena",
+  "Renzo",
+  "Heracles",
+  "Moirai (3)"
+ ],
+ "su_kien": [
+  "Frondier hồi tưởng lại lời tiên tri của Philly về Aten và Aster.",
+  "Anh nhận ra rằng Philly có thể không thể nhìn thấy anh trong tương lai.",
+  "Trận chiến với Moirai diễn ra, Frondier sử dụng Gram để phá vỡ phòng thủ của đối phương.",
+  "Frondier tạo ra Workshop bằng Menosorpo và bẫy Moirai.",
+  "Anh phát hiện ra khả năng của mình là phần thưởng từ chiếc đồng hồ thông minh bị hack."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Frondier hồi tưởng lại lời nói của Philly.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Philly lo lắng khi Aten ở bên Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Đồng đội chiến đấu cùng nhau.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Moirai (3)",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trong trận chiến.",
+   "cach_goi": "gọi 'Your arrogant worm', thô lỗ"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội chiến đấu cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Moirai (3)",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trong trận chiến.",
+   "cach_goi": "gọi 'insignificant speck of life', lạnh lùng"
+  },
+  {
+   "a": "Moirai (3)",
+   "b": "Selena",
+   "loai": "ke_thu",
+   "mo_ta": "Tấn công Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Philly Terst (hoàng hậu)",
+  "Aten Terst (tam công chúa)"
+ ],
+ "stats": {
+  "tokens": 892,
+  "seconds": 26.8
+ }
+}

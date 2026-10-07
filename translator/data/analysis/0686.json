@@ -1,0 +1,66 @@
+{
+ "number": 686,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier thông báo với Lily rằng cô có thể là một thuộc hạ của Satan dựa trên những điều tra của anh. Lily phủ nhận điều này và khẳng định sự tận tụy của mình đối với Đế quốc. Frondier bày tỏ sự nghi ngờ của mình, vì anh không chắc chắn về quá khứ của Lily hoặc lòng trung thành thực sự của cô. Cuối cùng, Frondier nhận ra rằng anh đang bị ảnh hưởng bởi sức mạnh của Lily và suy ngẫm về nguồn gốc của nó.",
+ "boi_canh": "Trong một căn phòng kín đáo, hai người đang đối mặt với nhau trong một cuộc trò chuyện căng thẳng.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Lily",
+  "Ellen",
+  "Leah Lis",
+  "Lis"
+ ],
+ "su_kien": [
+  "Frondier tuyên bố Lily có thể là một thuộc hạ của Satan.",
+  "Lily phủ nhận điều này và khẳng định lòng trung thành của mình với Đế quốc.",
+  "Frondier bày tỏ sự nghi ngờ của mình về lời nói của Lily.",
+  "Frondier nhận ra rằng anh đang bị ảnh hưởng bởi sức mạnh của Lily.",
+  "Frondier suy ngẫm về nguồn gốc của việc anh bị Charm."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Trưởng thành và đang cố gắng tìm hiểu sự thật về quá khứ của đối phương.",
+   "cach_goi": "gọi tên Lily, không trang trọng"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Cố gắng thuyết phục người đối diện về sự trung thành của mình.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "khac",
+   "mo_ta": "Anh đã mất sự tự tin trong việc đọc biểu cảm của người khác sau khi gặp Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đọc biểu cảm của Frondier để tìm hiểu suy nghĩ của anh.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tin tưởng hoàn toàn vào lời nói của đối phương.",
+   "cach_goi": "gọi tên Lily, không trang trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Lily có thể là Leah Lis, một thuộc hạ của Satan với ký ức bị mất."
+ ],
+ "stats": {
+  "tokens": 744,
+  "seconds": 22.2
+ }
+}

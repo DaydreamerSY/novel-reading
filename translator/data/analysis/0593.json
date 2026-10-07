@@ -2,79 +2,80 @@
  "number": 593,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Frondier và Elodie sử dụng ma thuật không gian để bắt giữ một nhóm quỷ. Qua đối thoại với chúng, Frondier phát hiện ra những con quỷ này không đến từ Cõi Quỷ mà bị bỏ rơi từ phương Tây, cụ thể là Agoris, và đang tìm cách trả thù vì sự sụp đổ của Manggot và cái chết của Belphegor.",
- "boi_canh": "Trong một khu vực bí mật, Frondier và Elodie đang đối mặt với những con quỷ.",
+ "tom_tat": "Trong chương này, Frondier gặp một con quỷ tuyên bố rằng chúng đến để tiêu diệt những con quỷ khác từ thế giới ma thuật, và thảo luận về sự kiện Belphegor chặn đứng họ. Một người đàn ông bí ẩn tên Jeremy de Hitchcock xuất hiện, giúp giải quyết tình hình bằng cách sử dụng thiết bị kỹ thuật ma thuật. Frondier nghi ngờ Jeremy là một con quỷ trá hình và cố gắng tìm hiểu thêm thông tin.",
+ "boi_canh": "Trong lâu đài của gia đình Roach, vào thời điểm các con quỷ tấn công.",
  "nhan_vat": [
   "Frondier",
   "Elodie",
-  "Osprey",
-  "Jane",
-  "Chandra"
+  "Lily",
+  "Frondier de Roach",
+  "Jeremy",
+  "Belphegor"
  ],
  "su_kien": [
-  "Elodie sử dụng ma thuật không gian để giam giữ quỷ.",
-  "Frondier triệu hồi Chandra để hỗ trợ.",
-  "Một con quỷ bị dịch chuyển đến phía đối diện của quả cầu ma thuật.",
-  "Quỷ tiết lộ họ không đến từ Cõi Quỷ mà là người bị bỏ rơi từ Agoris.",
-  "Frondier nhận ra những con quỷ này đang tìm cách trả thù."
+  "Con quỷ tuyên bố rằng chúng đến để tiêu diệt những con quỷ khác.",
+  "Belphegor chặn đứng các con quỷ tấn công.",
+  "Sự xuất hiện của Jeremy de Hitchcock và việc anh ta sử dụng thiết bị kỹ thuật ma thuật để tiêu diệt lũ quỷ.",
+  "Frondier nghi ngờ Jeremy là một con quỷ trá hình.",
+  "Jeremy giới thiệu về thiết bị kỹ thuật ma thuật của mình."
  ],
  "quan_he": [
   {
    "a": "Frondier",
+   "b": "Devil",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier chất vấn con quỷ.",
+   "cach_goi": "gọi 'Untie this!', thô lỗ"
+  },
+  {
+   "a": "Devil",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Con quỷ bị giam giữ, trả lời câu hỏi của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
    "b": "Elodie",
    "loai": "ban_be",
-   "mo_ta": "Bạn bè thân thiết, Frondier hỏi về ma thuật của Elodie.",
-   "cach_goi": "gọi tên Elodie, thân mật"
+   "mo_ta": "Đồng minh, Elodie sử dụng ma thuật để giam giữ lũ quỷ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jeremy",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mới xuất hiện, tỏ ra lịch sự và có vẻ đáng ngờ.",
+   "cach_goi": "gọi tên, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jeremy",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mới xuất hiện, tỏ ra lịch sự và có vẻ đáng ngờ.",
+   "cach_goi": "gọi tên, lễ phép"
+  },
+  {
+   "a": "Jeremy",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Elodie, có vẻ như đang đánh giá.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Elodie",
-   "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè thân thiết, Elodie trả lời câu hỏi của Frondier.",
-   "cach_goi": "gọi tên Frondier, thân mật"
-  },
-  {
-   "a": "Frondier",
-   "b": "Osprey",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè, nhưng không tương tác trực tiếp trong chương này.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Jane",
-   "loai": "cap_tren",
-   "mo_ta": "Đồng nghiệp, nhưng không tương tác trực tiếp trong chương này.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Chandra",
+   "b": "Jeremy",
    "loai": "nguoi_la",
-   "mo_ta": "Triệu hồi, không tương tác trực tiếp trong chương này.",
+   "mo_ta": "Quan sát Jeremy, có vẻ như đang đánh giá.",
    "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "quỷ",
-   "loai": "doi_thu",
-   "mo_ta": "Đối đầu, Frondier chất vấn quỷ.",
-   "cach_goi": "gọi 'thằng"
-  },
-  {
-   "a": "quỷ",
-   "b": "Frondier",
-   "loai": "doi_thu",
-   "mo_ta": "Đối đầu, quỷ đáp trả Frondier.",
-   "cach_goi": "gọi 'Human', thô lỗ"
   }
  ],
  "danh_tinh": [
-  "Belphegor: Một thế lực mạnh mẽ từng đe dọa Đế quốc, đã bị đánh bại và quay trở lại Cõi Quỷ.",
-  "Agoris: Nơi mà những con quỷ này đến từ đó."
+  "Belphegor: Một con quỷ đã chặn đứng cuộc tấn công của những con quỷ khác.",
+  "Jeremy de Hitchcock: Có thể là một con quỷ trá hình, chủ sở hữu của công ty kỹ thuật ma thuật Hitchcock."
  ],
  "stats": {
-  "tokens": 871,
-  "seconds": 26.2
+  "tokens": 897,
+  "seconds": 26.8
  }
 }

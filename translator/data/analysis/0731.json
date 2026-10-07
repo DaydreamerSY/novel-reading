@@ -1,0 +1,78 @@
+{
+ "number": 731,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Robert có những hành động đáng ngờ và Philly cảm nhận được một điềm báo, cô ấy bắt đầu nghi ngờ về bản chất thật sự của tình hình. Cô ấy lo lắng về việc Frondier sẽ đối mặt với cáo buộc sai trái như thế nào và đang tìm cách xử lý tình huống này. Trong khi đó, Pascal quan sát Philly và nhận ra sự khác biệt trong cách Frondier và Philly đưa ra quyết định. Cuối cùng, Frondier trốn thoát khỏi Zodiac bằng một kế hoạch được tính toán kỹ lưỡng, và anh gặp Sale (Odin) trong phòng ngủ của Hoàng đế.",
+ "boi_canh": "Trong phòng ngủ của Hoàng đế, tại một thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Lily",
+  "Pascal",
+  "Bartello",
+  "Ludovic",
+  "Robert",
+  "Sale",
+  "Ria Lis",
+  "Odin",
+  "Lis"
+ ],
+ "su_kien": [
+  "Philly cảm nhận được một điềm báo về Ria Lis và lo lắng về việc Frondier sẽ đối mặt với cáo buộc sai trái.",
+  "Pascal quan sát Philly và nhận ra sự khác biệt trong cách Frondier và Philly đưa ra quyết định.",
+  "Frondier trốn thoát khỏi Zodiac bằng một kế hoạch được tính toán kỹ lưỡng.",
+  "Ludovic nghi ngờ Frondier đã có một kế hoạch từ trước.",
+  "Frondier gặp Sale (Odin) trong phòng ngủ của Hoàng đế."
+ ],
+ "quan_he": [
+  {
+   "a": "Robert",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Robert là một hiệp sĩ của Cung điện Hoàng gia, phục vụ Philly với tư cách là Nữ hoàng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Pascal là một hiệp sĩ canh gác của Philly, lo lắng về sự an toàn của cô.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Lily là đồng minh, Frondier tin tưởng Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Ludovic là một thành viên của Zodiac, đối đầu với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sale",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đối diện với Sale (Odin) trong phòng ngủ của Hoàng đế.",
+   "cach_goi": "gọi tên Sale, lạnh lùng"
+  },
+  {
+   "a": "Pascal",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Pascal là một hiệp sĩ canh gác của Philly, lo lắng về sự an toàn của cô.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Sale là Odin"
+ ],
+ "stats": {
+  "tokens": 867,
+  "seconds": 26.1
+ }
+}

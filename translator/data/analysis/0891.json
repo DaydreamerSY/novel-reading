@@ -1,0 +1,88 @@
+{
+ "number": 891,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi kết thúc kỳ nghỉ, học sinh được chia thành hai nhóm: những người đã tiến bộ và những người thì không. Frondier nhận ra mình mắc một sai lầm trong việc đánh giá điều này. Trong lớp Combat Theory của Aster, Aias thách đấu Pielott để tranh tài. Cuối cùng, Pielott bỏ cuộc sau khi nhận thấy sự phát triển vượt bậc của Aias. Sau đó, Frondier và Pielott nói chuyện về những lo lắng của Pielott đối với sự tiến bộ nhanh chóng của Aias, và Pielott nhớ lại giấc mơ mà anh đã quên.",
+ "boi_canh": "Trong lớp Combat Theory của Aster, sau kỳ nghỉ.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Pielott",
+  "Monty",
+  "Athena",
+  "Revet",
+  "Aias"
+ ],
+ "su_kien": [
+  "Aster tổ chức các trận đấu tập để đánh giá khả năng của học sinh.",
+  "Aias thách đấu Pielott, được cho là một trận tái chiến.",
+  "Pielott sử dụng tư thế iaijutsu và bị Aias chỉ trích.",
+  "Pielott bỏ cuộc sau khi nhận ra sự tiến bộ vượt bậc của Aias.",
+  "Pielott nhớ lại giấc mơ mà anh đã quên nhờ Golden Apple."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên và học sinh, Aster là người có quyền lực hơn.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và người có cấp bậc cao hơn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aias",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh, có sự ganh đua.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Aias",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận đấu tập.",
+   "cach_goi": "gọi tên, không thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Aias",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh.",
+   "cach_goi": "gọi 'Sir', lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh.",
+   "cach_goi": "gọi 'Sir', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh.",
+   "cach_goi": "gọi 'sen— I mean, teacher', thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên.",
+   "cach_goi": "gọi 'sen— I mean, teacher', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Aias sử dụng spear thay vì kiếm, cho thấy sự thay đổi trong phong cách chiến đấu của anh ấy."
+ ],
+ "stats": {
+  "tokens": 939,
+  "seconds": 28.3
+ }
+}

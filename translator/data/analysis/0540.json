@@ -2,64 +2,102 @@
  "number": 540,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, một lính canh phát hiện ra Selena đang tuyệt vọng kêu gọi nước và cố gắng giúp đỡ cô ấy. Tuy nhiên, Selena đã sử dụng kỹ thuật tương tự như cách cô ấy hạ gục Frondier để tấn công lính canh, giải thoát bản thân bằng một cây kim nhỏ và trốn thoát khỏi nhà tù. Cô ấy tiết lộ rằng Frondier đã đưa cô đến một cửa hàng bách hóa để tìm hiểu về cấu trúc của vòng xiềng phép thuật và khẳng định anh ấy đã đến cứu cô ấy theo lời hứa.",
- "boi_canh": "Trong một phòng giam, bốn ngày sau khi bị bắt giữ.",
+ "tom_tat": "Trong chương này, Frondier chờ đợi thủ lĩnh của Manggot xuất hiện và sử dụng 'Nail' để thu hút sự chú ý. Anh ta lo lắng cho Selena và gửi tín hiệu cho cô ấy thông qua Menosorpo. Cuối cùng, anh ta đối mặt với Belphegor, người nhầm lẫn anh ta là Osprey và phát hiện ra Frondier không phải là con người thật mà là một vật chủ của quỷ.",
+ "boi_canh": "Không gian chiến trường, thời điểm Frondier chờ đợi thủ lĩnh của Manggot.",
  "nhan_vat": [
   "Frondier",
   "Selena",
-  "Jei",
-  "Shadow",
-  "lính canh"
+  "Aster",
+  "Sybil",
+  "Osprey",
+  "Malia",
+  "Enfer",
+  "Belphegor"
  ],
  "su_kien": [
-  "Lính canh nghe thấy tiếng Selena kêu gọi nước.",
-  "Selena tấn công lính canh và giải thoát bản thân.",
-  "Selena sử dụng một cây kim để mở vòng xiềng phép thuật.",
-  "Selena tiết lộ Frondier đã đưa cô đến cửa hàng bách hóa.",
-  "Selena trốn thoát khỏi nhà tù."
+  "Frondier chờ đợi thủ lĩnh của Manggot.",
+  "Anh ta sử dụng 'Nail' để thu hút sự chú ý và gửi tín hiệu cho Selena thông qua Menosorpo.",
+  "Aster và Sybil báo cáo tiến trình của họ, gây ngạc nhiên cho Frondier.",
+  "Frondier đối mặt với Belphegor, người nhầm lẫn anh ta là Osprey.",
+  "Belphegor phát hiện ra Frondier không phải là con người thật mà là một vật chủ của quỷ."
  ],
  "quan_he": [
   {
-   "a": "lính canh",
+   "a": "Frondier",
    "b": "Selena",
-   "loai": "dong_minh",
-   "mo_ta": "Lính canh cố gắng giúp Selena, nhưng bị cô ấy tấn công và đánh bại.",
-   "cach_goi": "gọi 'Jei', thân mật"
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier lo lắng cho Selena và gửi tín hiệu để cô ấy giải thoát bản thân.",
+   "cach_goi": "gọi tên Selena, thân mật"
   },
   {
    "a": "Selena",
-   "b": "lính canh",
-   "loai": "ke_thu",
-   "mo_ta": "Selena tấn công lính canh để trốn thoát.",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena bị giam giữ trong Manggot, Frondier gửi tín hiệu cho cô ấy.",
    "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Selena",
-   "b": "Jei",
-   "loai": "ban_be",
-   "mo_ta": "Selena kêu gọi Jei, có lẽ là một người bạn hoặc đồng đội.",
-   "cach_goi": "gọi tên 'Jei', thân mật"
   },
   {
    "a": "Frondier",
-   "b": "Selena",
-   "loai": "nguoi_yeu",
-   "mo_ta": "Frondier đã cứu Selena và đưa cô đến cửa hàng bách hóa.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, liên tục báo cáo tình hình chiến trường cho anh.",
+   "cach_goi": "gọi tên Malia, thân mật"
   },
   {
-   "a": "Selena",
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, liên tục báo cáo tình hình chiến trường cho anh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Aster báo cáo tiến trình của mình, gây ngạc nhiên cho Frondier.",
+   "cach_goi": "gọi tên Aster, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aster báo cáo tiến trình của mình, gây ngạc nhiên cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Sybil báo cáo tiến trình của mình, gây ngạc nhiên cho Frondier.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Sybil báo cáo tiến trình của mình, gây ngạc nhiên cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
    "b": "Belphegor",
    "loai": "doi_thu",
-   "mo_ta": "Selena trốn thoát để tránh Belphegor.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "mo_ta": "Đối đầu trực tiếp, Belphegor nhầm Frondier là Osprey.",
+   "cach_goi": "gọi tên Belphegor, lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Belphegor nhầm Frondier là Osprey.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
   }
  ],
  "danh_tinh": [
-  "Selena: tiết lộ đã được Frondier đưa đến cửa hàng bách hóa để tìm hiểu về vòng xiềng phép thuật."
+  "Belphegor: Thủ lĩnh của Manggot, ban đầu nghĩ Frondier là Osprey. Sau đó phát hiện ra Frondier không phải con người thật mà là vật chủ của quỷ."
  ],
  "stats": {
-  "tokens": 721,
-  "seconds": 22.2
+  "tokens": 1196,
+  "seconds": 37.0
  }
 }

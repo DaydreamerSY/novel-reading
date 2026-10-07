@@ -1,0 +1,94 @@
+{
+ "number": 876,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra một trận chiến căng thẳng giữa Aias và Hermes, trong đó Aias sử dụng giáo dù chưa từng được huấn luyện nhưng lại có những hiểu biết sâu sắc về vũ khí. Đồng thời, Aphrodite xuất hiện để cứu Frondier khỏi Pandemonium, và Zeus chuẩn bị tấn công Frondier bằng sét. Cuối cùng, Basileo giúp Elodie hoàn thành một phép thuật phức tạp, cho thấy sự tiến bộ của cậu trong việc học hỏi từ người khác.",
+ "boi_canh": "Một chiến trường hỗn loạn, giữa trận chiến với 72 Demons.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Sybil",
+  "Pielott",
+  "Baal",
+  "Athena",
+  "Basileo",
+  "Aias",
+  "Zeus",
+  "Hermes",
+  "Aphrodite"
+ ],
+ "su_kien": [
+  "Aias lần đầu tiên cầm và sử dụng giáo, dù chưa từng được huấn luyện.",
+  "Aias thể hiện sự hiểu biết bất thường về vũ khí và tư thế chiến đấu.",
+  "Hermes đánh giá cao khả năng phản ứng của Aias, dù cậu là người mới tập tành dùng giáo.",
+  "Aphrodite xuất hiện để cứu Frondier khỏi Pandemonium.",
+  "Zeus chuẩn bị tấn công Frondier bằng sét."
+ ],
+ "quan_he": [
+  {
+   "a": "Aias",
+   "b": "Hermes",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, Aias phòng thủ còn Hermes tấn công.",
+   "cach_goi": "gọi tên Hermes, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hermes",
+   "b": "Aias",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, Hermes đánh giá thấp nhưng cũng phải dè chừng.",
+   "cach_goi": "gọi tên Aias, lạnh lùng"
+  },
+  {
+   "a": "Aphrodite",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Cứu Frondier khỏi Pandemonium, không rõ mối quan hệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Zeus",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đe dọa Frondier bằng sét.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Zeus",
+   "loai": "doi_thu",
+   "mo_ta": "Cố gắng bảo vệ Frondier khỏi Zeus.",
+   "cach_goi": "gọi 'Zeus', lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Basileo giúp Elodie hoàn thành phép thuật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Bảo vệ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Athena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Bảo vệ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính nhân vật trong chương này."
+ ],
+ "stats": {
+  "tokens": 962,
+  "seconds": 28.9
+ }
+}

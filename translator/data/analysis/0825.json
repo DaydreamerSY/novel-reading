@@ -1,0 +1,99 @@
+{
+ "number": 825,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào việc chuẩn bị cho hành trình đến thủ đô Palma của Frondier để đối đầu với Charon, kẻ mạo danh Poseidon. Các thành viên trong nhóm thảo luận về kế hoạch, phân công nhiệm vụ và lo ngại về tình hình có thể xảy ra. Đặc biệt, sự phát triển bất thường của Pielott khiến Frondier phải cân nhắc kỹ lưỡng việc đưa cậu ta đi hay không.",
+ "boi_canh": "Trong phòng họp tại nhà của Frondier, chuẩn bị cho một nhiệm vụ quan trọng.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Mei",
+  "Arald",
+  "Basileo",
+  "Aias",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Frondier và Carla thảo luận về khoảng cách xa xôi đến thủ đô Palma.",
+  "Elodie hỏi Frondier những ai sẽ đi cùng.",
+  "Selena thể hiện sự lo lắng về việc bị bỏ lại phía sau.",
+  "Frondier phân công nhiệm vụ cho các thành viên trong nhóm, bao gồm Elodie, Selena, Lily và Arald.",
+  "Sự phát triển vượt bậc của Pielott khiến Frondier phải cân nhắc đưa cậu ta đi hay không."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Thảo luận về kế hoạch và phân công nhiệm vụ.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hỏi về những người đi cùng và bày tỏ sự đồng tình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Phân công nhiệm vụ và lo lắng về sự phát triển của Pielott.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Thể hiện sự lo lắng và đặt câu hỏi về quyết định của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Nghe và đưa ra nhận xét ngắn gọn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Nghe và đưa ra nhận xét ngắn gọn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Nghe và đưa ra nhận xét ngắn gọn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Cung cấp thông tin và hỗ trợ chuẩn bị.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Được Frondier yêu cầu ở lại nhà.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pielott: Sự phát triển kỹ năng vượt ngoài mong đợi của Frondier, có thể là do một sự kiện bí ẩn nào đó."
+ ],
+ "stats": {
+  "tokens": 1051,
+  "seconds": 31.6
+ }
+}

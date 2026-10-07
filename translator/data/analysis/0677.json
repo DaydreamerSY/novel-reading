@@ -1,0 +1,55 @@
+{
+ "number": 677,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị ném vào một vùng hỗn mang (pandemonium), Frondier chứng kiến sự suy sụp của Baal trong bóng tối vô tận. Sau đó, Frondier xuất hiện và đề nghị một thỏa thuận: Baal phải quy phục để được giải thoát khỏi pandemonium. Cuối cùng, Baal chấp nhận, nhưng vẫn thắc mắc về mục đích thực sự của Frondier.",
+ "boi_canh": "Trong vùng hỗn mang (pandemonium) tăm tối, không gian và thời gian biến dạng.",
+ "nhan_vat": [
+  "Frondier",
+  "Baal",
+  "Arald",
+  "King of Hell"
+ ],
+ "su_kien": [
+  "Baal suy sụp trong pandemonium do mất phương hướng về thời gian.",
+  "Frondier xuất hiện trong pandemonium, nơi Baal đang bị giam giữ.",
+  "Frondier đề nghị Baal quy phục để được giải thoát khỏi pandemonium.",
+  "Baal chấp nhận lời đề nghị của Frondier và tuyên bố sẽ tuân theo Frondier.",
+  "Frondier sử dụng mana của Helheim để rời khỏi pandemonium cùng với Baal."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Người chiến thắng và kẻ bị khuất; Frondier đưa ra điều kiện để giải thoát Baal.",
+   "cach_goi": "gọi tên Baal, lạnh lùng"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Kẻ bị khuất và người chiến thắng; Baal đặt câu hỏi về mục đích của Frondier.",
+   "cach_goi": "gọi tên Frondier, nghi ngờ"
+  },
+  {
+   "a": "Frondier",
+   "b": "King of Hell",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đề cập đến King of Hell, cho thấy một mối quan hệ cấp bậc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Arald",
+   "loai": "khac",
+   "mo_ta": "Hai người có chung một mục tiêu: trở thành vua của quỷ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 630,
+  "seconds": 18.9
+ }
+}

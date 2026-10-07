@@ -1,0 +1,138 @@
+{
+ "number": 842,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi xác định được Charon là người đã giao kèo với Baal để kích động chiến tranh giữa Đế quốc Palma và các thế lực khác, nhóm của Frondier thảo luận về động cơ của Charon. Họ nghi ngờ Charon bị một con quỷ điều khiển và đang lợi dụng tình hình bất ổn chính trị để tăng cường quyền lực. Arald lo ngại sự chủ quan của Charon, trong khi Lily và Frondier cho rằng Charon có thể đang đánh giá thấp sức mạnh của các vị thần. Sau đó, họ nhận được thông tin từ Gregory về việc Charon không ở phủ đệ và tiếp tục tìm kiếm Pielott. Pielott đang bị giam giữ bởi Satan và buộc phải cung cấp thông tin về Belphegor. Cuối cùng, Charon đã cắt đứt liên lạc với Baal sau khi biết Frondier bị thương, khiến Baal vô cùng tức giận.",
+ "boi_canh": "Trong một căn phòng kín đáo, nhóm của Frondier đang thảo luận về tình hình chính trị và những động cơ bí ẩn của Charon.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Baal",
+  "Arald",
+  "Gregory",
+  "Beelzebub",
+  "Charon",
+  "Poseidon",
+  "Belphegor",
+  "Satan"
+ ],
+ "su_kien": [
+  "Xác định Charon là người đã giao kèo với Baal.",
+  "Thảo luận về động cơ của Charon và nghi ngờ ông ta bị điều khiển bởi quỷ dữ.",
+  "Pielott tiết lộ thông tin về việc đang bị giam giữ bởi Satan.",
+  "Charon cắt đứt liên lạc với Baal sau khi Frondier bị thương.",
+  "Baal vô cùng tức giận vì Charon đã không tuân theo chỉ dẫn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ của Frondier, cùng thảo luận về tình hình.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ của Frondier, cùng thảo luận về tình hình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, cùng thảo luận về tình hình.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, cùng thảo luận về tình hình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, cùng thảo luận về tình hình.",
+   "cach_goi": "gọi tên Arald, lễ phép"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, cùng thảo luận về tình hình.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đang tìm kiếm.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đang bị giam giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người lớn hơn, báo cáo tình hình.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "cap_tren",
+   "mo_ta": "Người lớn hơn, trả lời báo cáo.",
+   "cach_goi": "gọi tên Carla, lễ phép"
+  },
+  {
+   "a": "Baal",
+   "b": "Charon",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, đang tức giận vì hành động của Charon.",
+   "cach_goi": "gọi tên Charon, lạnh lùng"
+  },
+  {
+   "a": "Charon",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, cắt đứt liên lạc với Baal.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người báo tin cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Pielott",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, đang giam giữ Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Gregory: Một con quạ được Frondier điều khiển.",
+  "Pielott: Có vẻ như đã bị Satan sử dụng để thu thập thông tin."
+ ],
+ "stats": {
+  "tokens": 1530,
+  "seconds": 46.1
+ }
+}

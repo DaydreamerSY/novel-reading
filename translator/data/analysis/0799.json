@@ -1,0 +1,133 @@
+{
+ "number": 799,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chứng kiến Glaukos chiến đấu, Frondier nhận thấy cậu ta thiếu kinh nghiệm và kiến thức cơ bản về chiến đấu. Cậu ta cũng suy đoán về sức mạnh bất thường của Glaukos và mối liên hệ giữa cậu ta với Aias dựa trên truyền thuyết Hy Lạp. Sau đó, Frondier đề nghị nghỉ phép cho Carla và đưa ra một điều kiện để đổi lấy thông tin về thân phận thật sự của mình. Cuối cùng, Frondier và những người bạn của anh tổ chức một buổi gặp mặt với Carla, nơi nhiều tình huống dở khóc dở cười đã xảy ra.",
+ "boi_canh": "Trong phòng của Frondier vào ban đêm.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Arald",
+  "Antero",
+  "Aias",
+  "Odin",
+  "Glaukos",
+  "R"
+ ],
+ "su_kien": [
+  "Frondier quan sát Glaukos và nhận thấy cậu ta thiếu kinh nghiệm chiến đấu.",
+  "Glaukos sử dụng sức mạnh bất thường, khiến Pielott khó khăn trong việc phòng thủ.",
+  "Aias có vẻ bị sốc bởi sức mạnh của Glaukos.",
+  "Frondier đề nghị Carla nghỉ phép đổi lấy thông tin về thân phận của anh.",
+  "Một buổi gặp mặt được tổ chức giữa Frondier, bạn bè và Carla."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Glaukos",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier quan sát và phân tích kỹ năng chiến đấu của Glaukos.",
+   "cach_goi": "gọi tên Glaukos, không rõ cảm xúc"
+  },
+  {
+   "a": "Glaukos",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Glaukos là đối tượng quan sát của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Pielott là bạn bè.",
+   "cach_goi": "gọi tên Pielott, bình thường"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Pielott và Frondier là bạn bè.",
+   "cach_goi": "gọi tên Frondier, thân thiện"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aias",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Aias là bạn bè.",
+   "cach_goi": "gọi tên Aias, bình thường"
+  },
+  {
+   "a": "Aias",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aias là bạn của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier và Carla đang trao đổi thông tin.",
+   "cach_goi": "gọi tên Carla, lịch sự"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Carla đang tìm hiểu về Frondier.",
+   "cach_goi": "gọi tên Frondier, tò mò"
+  },
+  {
+   "a": "Arald",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Arald đang ngưỡng mộ vẻ đẹp của Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Carla",
+   "b": "Arald",
+   "loai": "nguoi_la",
+   "mo_ta": "Carla đang nhận sự ngưỡng mộ của Arald.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Pielott đang quan sát Carla với vẻ tò mò.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Elodie có vẻ không hài lòng với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Selena có vẻ xa cách với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Lily là người hầu của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1410,
+  "seconds": 42.4
+ }
+}

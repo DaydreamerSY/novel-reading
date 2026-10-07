@@ -1,0 +1,53 @@
+{
+ "number": 616,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trốn khỏi lâu đài bằng đường hầm bí mật, Elysia vội vàng thu dọn đồ đạc để trốn thoát. Cô lo sợ Frondier sẽ tìm đến mình và quyết định bỏ lại mọi thứ sau lưng. Bị bão tố chặn đường, cô tiếp tục chạy trốn cho đến khi bị mất phương hướng trong bóng tối hoàn toàn và bất tỉnh.",
+ "boi_canh": "Phòng ngủ của Elysia tại một quán trọ vào ban đêm, giữa cơn mưa lớn.",
+ "nhan_vat": [
+  "Frondier",
+  "Elysia"
+ ],
+ "su_kien": [
+  "Elysia trốn thoát qua đường hầm bí mật.",
+  "Cô gặp phải cơn mưa lớn khi cố gắng chạy trốn.",
+  "Một bóng đen xuất hiện trước cửa sổ của cô.",
+  "Elysia bỏ trốn khỏi quán trọ.",
+  "Cô bị mất phương hướng và bất tỉnh trong bóng tối."
+ ],
+ "quan_he": [
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Elysia sợ hãi và muốn trốn tránh Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier có vẻ đang theo dõi Elysia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Elysia đang trốn Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đang bám theo Elysia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 544,
+  "seconds": 16.8
+ }
+}

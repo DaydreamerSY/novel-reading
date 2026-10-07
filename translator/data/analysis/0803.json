@@ -1,0 +1,86 @@
+{
+ "number": 803,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi một người đàn ông nhìn thấy ánh sáng chói lóa của phép thuật, tầm nhìn của anh ta bị ảnh hưởng. Frondier sử dụng điều này để đánh lạc hướng Heracles và Telephos. Sau đó, Heracles xuất hiện, cùng với con trai là Telephos, và Frondier nhận ra rằng Telephos có liên quan đến thần thoại Hy Lạp. Cuối cùng, Frondier cảnh báo về cuộc chiến giữa các vị thần và quỷ dữ, khiến Heracles tò mò và thể hiện sức mạnh vượt trội của mình.",
+ "boi_canh": "Một khu vực không xác định, trong một khoảnh khắc quan trọng.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Arald",
+  "Esther",
+  "Athena",
+  "Frondier de Roach",
+  "Aster Evans",
+  "Father",
+  "Artemis",
+  "Heracles",
+  "Warden Esther",
+  "Telephos"
+ ],
+ "su_kien": [
+  "Một người đàn ông bị mù tạm thời do ánh sáng phép thuật.",
+  "Heracles và Telephos xuất hiện, có vẻ như đang tranh luận với nhau.",
+  "Frondier nhận ra rằng Telephos có liên quan đến thần thoại Hy Lạp.",
+  "Heracles thể hiện sức mạnh vượt trội bằng cách xé toạc Black Thread của Frondier.",
+  "Aster Evans đến thăm Warden Esther tại Obsidian."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Athena",
+   "loai": "khac",
+   "mo_ta": "Frondier quan sát Athena, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Heracles",
+   "b": "Telephos",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, Heracles khiển trách Telephos.",
+   "cach_goi": "gọi 'Telephos', thân mật"
+  },
+  {
+   "a": "Telephos",
+   "b": "Heracles",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và cha, Telephos tôn trọng Heracles.",
+   "cach_goi": "gọi 'Father', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heracles",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier cố gắng đánh lạc hướng Heracles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Telephos",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Heracles",
+   "b": "Telephos",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, Heracles khiển trách Telephos.",
+   "cach_goi": "gọi 'Telephos', thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Warden Esther",
+   "loai": "nguoi_la",
+   "mo_ta": "Aster đến thăm Warden Esther.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Telephos: Một nhân vật từ thần thoại Hy Lạp, con trai của Heracles, xuất hiện trong câu chuyện."
+ ],
+ "stats": {
+  "tokens": 902,
+  "seconds": 27.1
+ }
+}

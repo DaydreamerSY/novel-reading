@@ -1,0 +1,58 @@
+{
+ "number": 792,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị Frondier trói bằng Dây Tơ Đen và tước mất Pegasus, Antero tức giận lăng mạ Frondier. Frondier nhận thấy hệ thống vũ khí ma thuật của Falind có những điểm kỳ lạ, đặc biệt là việc các Paladin phụ thuộc vào chúng để tăng cường sức mạnh. Sau một loạt đòn tấn công, Antero bất ngờ tuyên bố rằng 'việc thua trận là điều kỳ lạ' và đột ngột thay đổi trạng thái, khiến Frondier nghi ngờ về một bí mật nào đó.",
+ "boi_canh": "Trong một đấu trường tạm thời trên nền tảng Dây Tơ Đen, sau khi Antero bị trói.",
+ "nhan_vat": [
+  "Frondier",
+  "Pielott",
+  "Arald",
+  "Antero",
+  "Aias"
+ ],
+ "su_kien": [
+  "Antero bị Frondier trói bằng Dây Tơ Đen.",
+  "Antero tức giận lăng mạ Frondier sau khi mất Pegasus.",
+  "Frondier suy đoán về hệ thống vũ khí ma thuật của Falind và sự phụ thuộc của Paladin vào chúng.",
+  "Antero tuyên bố 'việc thua trận là điều kỳ lạ' trước khi đột ngột thay đổi trạng thái.",
+  "Antero đứng dậy với sức mạnh mới, khiến Frondier nghi ngờ về một bí mật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Antero",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier áp đảo Antero về sức mạnh.",
+   "cach_goi": "gọi tên Antero, lạnh lùng"
+  },
+  {
+   "a": "Antero",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Tức giận và lăng mạ Frondier sau khi bị áp đảo.",
+   "cach_goi": "gọi 'son of a bitch', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Nhắc lại một thói quen cũ của Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aias",
+   "loai": "cap_tren",
+   "mo_ta": "So sánh trình độ của Aias với Antero.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Antero: Paladin, có thể đang che giấu một bí mật hoặc sức mạnh tiềm ẩn."
+ ],
+ "stats": {
+  "tokens": 691,
+  "seconds": 20.7
+ }
+}

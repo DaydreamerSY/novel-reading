@@ -2,68 +2,75 @@
  "number": 580,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Frondier chất vấn Amelie về lý do cô ấy tiếp cận anh trong một buổi tiệc hoàng gia. Cuộc trò chuyện dẫn đến việc Amelie tiết lộ rằng chú của cô, Joseph von Wexler, đã giới thiệu Frondier cho cô như một 'viên ngọc ẩn' và đề xuất một giải pháp thay đổi nền tảng nhân loại liên quan đến Mana. Frondier nhận ra mối nguy hiểm tiềm ẩn khi Amelie vô tình tiết lộ thông tin bí mật về Shadow Agency, khiến anh quyết định rút lui để bảo vệ cả Amelie và Đế quốc.",
- "boi_canh": "Một buổi tiệc hoàng gia, thời điểm không rõ.",
+ "tom_tat": "Trong chương này, đoàn xe của Frondier buộc phải dừng lại cắm trại giữa đường núi do ngựa mệt mỏi. Frondier nghi ngờ có điều gì đó bất thường trong hành trình này và cảnh giác với người lái xe. Đồng thời, Laurie đang làm việc tại cung điện hoàng gia và nhận được thông điệp bí mật từ một con quạ liên quan đến Ameline von Ellis và Ria Lis.",
+ "boi_canh": "Đoàn xe cắm trại giữa đường núi vào buổi tối.",
  "nhan_vat": [
   "Frondier",
-  "Amelie",
-  "Philly",
   "Lily",
-  "Eden",
-  "Mei",
-  "Metamorph",
-  "Joseph von Wexler",
-  "Shadow"
+  "Laurie",
+  "Ameline",
+  "Ria Lis",
+  "Shadow",
+  "Ameline von Ellis",
+  "Lis",
+  "Coachman"
  ],
  "su_kien": [
-  "Frondier chất vấn Amelie về lý do cô ấy tiếp cận anh tại buổi tiệc hoàng gia.",
-  "Amelie tiết lộ rằng chú của cô, Joseph von Wexler, đã giới thiệu Frondier cho cô.",
-  "Amelie vô tình tiết lộ thông tin bí mật về Shadow Agency và 'Mana Injection' từ lời giới thiệu của chú mình.",
-  "Frondier nhận ra sự nguy hiểm tiềm ẩn khi Amelie tiết lộ thông tin này.",
-  "Frondier quyết định rút lui để bảo vệ Amelie và Đế quốc."
+  "Đoàn xe buộc phải cắm trại giữa đường núi.",
+  "Frondier nghi ngờ người lái xe và cảnh báo về việc bảo vệ Ameline.",
+  "Laurie nhận được thông điệp bí mật từ một con quạ liên quan đến Ameline và Ria Lis.",
+  "Laurie đang làm việc tại cung điện hoàng gia với vai trò thư ký.",
+  "Con quạ nói chuyện với Laurie, truyền đạt tin nhắn từ Frondier."
  ],
  "quan_he": [
   {
    "a": "Frondier",
-   "b": "Amelie",
+   "b": "Coachman",
    "loai": "nguoi_la",
-   "mo_ta": "Frondier chất vấn Amelie về quá khứ; mối quan hệ ban đầu còn xa lạ.",
-   "cach_goi": "gọi tên Amelie, không rõ (có vẻ tôn trọng)"
+   "mo_ta": "Frondier nghi ngờ người lái xe và cảnh báo ông ta.",
+   "cach_goi": "gọi 'người lái xe', lạnh lùng"
   },
   {
-   "a": "Amelie",
+   "a": "Coachman",
    "b": "Frondier",
    "loai": "nguoi_la",
-   "mo_ta": "Amelie trả lời câu hỏi của Frondier; có vẻ bối rối và vui mừng.",
-   "cach_goi": "gọi tên Frondier, thân mật (có vẻ hơi ngượng ngùng)"
+   "mo_ta": "Người lái xe im lặng và tuân theo hướng dẫn của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
-   "b": "Philly",
+   "b": "Ameline",
    "loai": "cap_tren",
-   "mo_ta": "Mối quan hệ cấp trên - cấp dưới, Frondier đã làm việc cùng Philly về Shadow Agency.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "mo_ta": "Frondier bảo vệ và giám sát Ameline.",
+   "cach_goi": "gọi tên Ameline, không nói chuyện trực tiếp"
   },
   {
-   "a": "Amelie",
-   "b": "Joseph von Wexler",
-   "loai": "gia_dinh",
-   "mo_ta": "Mối quan hệ chú - cháu, Amelie tin tưởng và kính trọng Joseph.",
-   "cach_goi": "gọi 'chú', thân mật"
+   "a": "Laurie",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Laurie làm việc dưới sự chỉ đạo của Frondier, chuyển giao tài liệu.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
    "b": "Lily",
-   "loai": "thay_tro",
-   "mo_ta": "Lily giao nhiệm vụ cho Frondier, có vẻ như cô ấy đang thử nghiệm anh.",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Frondier suy nghĩ về mục đích của Lily khi giao nhiệm vụ bảo vệ Ameline.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Con quạ",
+   "b": "Laurie",
+   "loai": "nguoi_la",
+   "mo_ta": "Con quạ truyền đạt thông điệp từ Frondier đến Laurie.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Joseph von Wexler: Chú của Amelie, liên quan đến Shadow Agency và 'Mana Injection'."
+  "Laurie có một nhân cách thứ hai, đóng vai trò thư ký tại cung điện hoàng gia với vẻ ngoài trí thức hơn và không có nốt ruồi."
  ],
  "stats": {
-  "tokens": 824,
-  "seconds": 25.9
+  "tokens": 827,
+  "seconds": 26.0
  }
 }

@@ -1,0 +1,118 @@
+{
+ "number": 863,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi các vị thần rời khỏi Lục Địa Quỷ Dữ, Satan và những kẻ tội lỗi khác đã thảo luận về tình hình. Họ xem xét tình hình ở Palma thông qua một màn hình phép thuật và tập trung vào Frondier de Roach, người đã lật đổ Belphegor. Trong khi đó, tại một quảng trường, Frondier cùng đồng đội quan sát cuộc đối đầu giữa Aphrodite và Athena. Một sự kiện bất ngờ xảy ra khi Sybil tuyên bố mình là 'đứa trẻ được số phận yêu thương', và Frondier sử dụng sức mạnh quỷ dữ để đưa cô đi, gây chấn động cho tất cả mọi người.",
+ "boi_canh": "Một quảng trường ở Palma, trong một sự kiện công khai giữa các vị thần, quỷ dữ và con người.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Lily",
+  "Carla",
+  "Baal",
+  "Arald",
+  "Gregory",
+  "Athena",
+  "Satan",
+  "Lucifer",
+  "Zeus",
+  "Mammon",
+  "Beelzebub",
+  "Astaroth",
+  "Aphrodite"
+ ],
+ "su_kien": [
+  "Các vị thần rời khỏi Lục Địa Quỷ Dữ.",
+  "Satan và những kẻ tội lỗi khác xem xét tình hình ở Palma thông qua màn hình phép thuật.",
+  "Sybil tuyên bố mình là 'đứa trẻ được số phận yêu thương'.",
+  "Frondier sử dụng sức mạnh quỷ dữ để đưa Sybil đi.",
+  "Một ánh sáng rực rỡ bao trùm quảng trường, gây chấn động cho tất cả mọi người."
+ ],
+ "quan_he": [
+  {
+   "a": "Satan",
+   "b": "Lucifer",
+   "loai": "cap_tren",
+   "mo_ta": "Satan là kẻ đứng đầu, Lucifer là một trong những tội lỗi.",
+   "cach_goi": "gọi tên Lucifer, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lucifer",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Lucifer là một trong những tội lỗi.",
+   "cach_goi": "gọi tên Satan, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Astaroth",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Astaroth tuân lệnh Satan.",
+   "cach_goi": "gọi tên Satan, lễ phép"
+  },
+  {
+   "a": "Mammon",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Mammon hỏi Satan.",
+   "cach_goi": "gọi tên Satan, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Beelzebub",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Beelzebub hỏi Satan.",
+   "cach_goi": "gọi tên Satan, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội và bạn bè.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Athena",
+   "b": "Aphrodite",
+   "loai": "doi_thu",
+   "mo_ta": "Hai vị thần đối đầu.",
+   "cach_goi": "gọi tên Aphrodite, lạnh lùng"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil gặp Frondier lần đầu.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Athena",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Athena quan sát Sybil.",
+   "cach_goi": "gọi tên Sybil, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aphrodite",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Aphrodite mời Sybil.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của Frondier."
+ ],
+ "stats": {
+  "tokens": 1188,
+  "seconds": 35.8
+ }
+}

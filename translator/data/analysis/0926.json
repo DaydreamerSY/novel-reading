@@ -1,0 +1,87 @@
+{
+ "number": 926,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Philly triệu tập Robert để thảo luận về việc đối phó với Mistilteinn, nhưng các biện pháp thông thường không hiệu quả do miasma dày đặc. Họ lo ngại về khả năng Zodiac bị ám và đặc biệt quan tâm đến Elodie de Inies Rishae vì sức mạnh tiềm ẩn của cô. Trong khi đó, Renzo đang điên cuồng phá hủy khu vực bên ngoài biên giới, chịu sự điều khiển ngầm bởi Ares.",
+ "boi_canh": "Trong phòng hội nghị hoàng gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Philly",
+  "Aten",
+  "Renzo",
+  "Malia",
+  "Gregory",
+  "Robert",
+  "Ares",
+  "Elodie de Inies Rishae",
+  "Osprey",
+  "Vishnu"
+ ],
+ "su_kien": [
+  "Philly đề xuất loại bỏ Mistilteinn trước khi Aster có được nó.",
+  "Các hiệp sĩ không thể tiếp cận Mistilteinn do miasma dày đặc.",
+  "Lo ngại về khả năng Zodiac bị ám, đặc biệt là Elodie.",
+  "Renzo đang phá hủy khu vực bên ngoài biên giới dưới sự điều khiển của Ares.",
+  "Malia lo lắng vì không tìm thấy địa điểm thờ cúng."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Robert",
+   "loai": "cap_tren",
+   "mo_ta": "Philly là hoàng hậu, Robert là một hiệp sĩ phục vụ cho bà.",
+   "cach_goi": "gọi tên Robert, lễ phép"
+  },
+  {
+   "a": "Robert",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Robert là một hiệp sĩ phục vụ cho Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, Frondier đã chia sẻ thông tin với Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Ares",
+   "loai": "ke_thu",
+   "mo_ta": "Philly căm ghét những kẻ có quyền năng của thần.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Ares",
+   "loai": "khac",
+   "mo_ta": "Ares đang điều khiển Renzo.",
+   "cach_goi": "gọi tên Ares, thô lỗ"
+  },
+  {
+   "a": "Malia",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Malia là mẹ của Frondier và Azier, người thân thiết với Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Philly là hoàng hậu, Malia là người thân thiết.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Inies Rishae: Tên đầy đủ của Elodie sau khi thức tỉnh thần tính."
+ ],
+ "stats": {
+  "tokens": 885,
+  "seconds": 26.6
+ }
+}

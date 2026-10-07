@@ -1,0 +1,79 @@
+{
+ "number": 916,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra tại Cung điện Hoàng gia Palma, nơi một cuộc bỏ phiếu lại để chọn người đẹp nhất thành phố đang được tổ chức sau khi cuộc bỏ phiếu trước bị hủy bỏ. Sybil Forte bất ngờ tham gia và giành chiến thắng, nhưng cô lo lắng về tình hình của Frondier và Elodie. Trong khi đó, Vua Palma chán nản vì Aphrodite không gặp gỡ ông, và cuộc gặp gỡ giữa ông và Sybil diễn ra đầy kịch tính với những lời nói ám chỉ sự lớn mạnh và tham vọng.",
+ "boi_canh": "Tại Cung điện Hoàng gia Palma, trong một buổi bỏ phiếu lại để chọn người đẹp nhất thành phố.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Azier",
+  "Gregory",
+  "Sybil Forte",
+  "Hera",
+  "Bruna",
+  "Lupina",
+  "Vua Palma",
+  "Aphrodite",
+  "Retainer (người hầu)"
+ ],
+ "su_kien": [
+  "Cuộc bỏ phiếu lại để chọn người đẹp nhất thành phố Palma được tổ chức.",
+  "Sybil Forte bất ngờ tham gia và giành chiến thắng trong cuộc bỏ phiếu.",
+  "Vua Palma chán nản vì Aphrodite không gặp gỡ ông.",
+  "Sybil gặp Vua Palma sau khi giành chiến thắng và đưa ra những lời nói ám chỉ sự lớn mạnh và tham vọng của ông.",
+  "Sybil gọi Vua Palma là 'Your Imperial Majesty'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier đã giao phó công việc cho Sybil và mong cô được bầu chọn.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Sybil lo lắng về tình hình của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Vua Palma",
+   "b": "Aphrodite",
+   "loai": "nguoi_la",
+   "mo_ta": "Vua Palma chán nản vì Aphrodite không gặp gỡ ông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Retainer",
+   "b": "Vua Palma",
+   "loai": "cap_tren",
+   "mo_ta": "Người hầu báo cáo tình hình cho Vua Palma.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Vua Palma",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil gặp Vua Palma và đưa ra những lời nói ám chỉ sự lớn mạnh và tham vọng của ông.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép, sau đó gọi 'Your Imperial Majesty'"
+  },
+  {
+   "a": "Vua Palma",
+   "b": "Sybil Forte",
+   "loai": "nguoi_la",
+   "mo_ta": "Vua Palma tỏ ra tò mò và quan tâm đến Sybil.",
+   "cach_goi": "gọi tên Sybil, lịch sự"
+  }
+ ],
+ "danh_tinh": [
+  "Sybil Forte (tên đầy đủ của Sybil)"
+ ],
+ "stats": {
+  "tokens": 888,
+  "seconds": 26.7
+ }
+}

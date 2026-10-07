@@ -1,0 +1,170 @@
+{
+ "number": 953,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe tình hình hoạt động, mọi người đã lên đường đến Tyburn. Ludovic dẫn đầu nhờ biết địa điểm, còn Pielott ngủ say trên lưng anh ta. Basileo lo lắng về việc mana của mình có thể cạn kiệt trước khi đến nơi, trong khi Aias và Glaukos phải bay bằng phép thuật do Basileo tạo ra. Frondier đối mặt với Azier và bị buộc tội đã lên kế hoạch sử dụng bùa chú trên Enfer. Cuối cùng, Frondier tiết lộ những tác động khủng khiếp của bùa chú đó và bày tỏ ý định cứu Azier, bất chấp sự phản đối của Campe.",
+ "boi_canh": "Trong căn cứ của Frondier, chuẩn bị lên đường đến Tyburn.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Pielott",
+  "Mei",
+  "Arald",
+  "Gregory",
+  "Ludovic",
+  "Basileo",
+  "Aias",
+  "Glaukos",
+  "Metamorph",
+  "Thanatos",
+  "Campe"
+ ],
+ "su_kien": [
+  "Ludovic dẫn đầu đoàn đi Tyburn, Pielott ngủ trên lưng.",
+  "Basileo lo lắng về việc mana của mình có thể cạn kiệt.",
+  "Frondier bị Azier buộc tội lên kế hoạch dùng bùa chú trên Enfer.",
+  "Frondier tiết lộ tác động khủng khiếp của bùa chú và ý định cứu Azier.",
+  "Frondier bày tỏ ý định đánh bại Thanatos."
+ ],
+ "quan_he": [
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Ludwig ngưỡng mộ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Basileo",
+   "b": "Ludovic",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Basileo lo lắng cho Ludovic.",
+   "cach_goi": "gọi tên Ludovic, thân mật"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Basileo",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Ludwig quan tâm đến Basileo.",
+   "cach_goi": "gọi tên Basileo, thân mật"
+  },
+  {
+   "a": "Aias",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "đối tượng được Frondier bảo lãnh, Aias tò mò về Frondier.",
+   "cach_goi": "gọi tên Frondier-sunbae, lễ phép"
+  },
+  {
+   "a": "Glaukos",
+   "b": "Aias",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Glaukos đi cùng Aias.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Basileo",
+   "b": "Aias",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Basileo trả lời câu hỏi của Aias.",
+   "cach_goi": "gọi tên Aias, thân mật"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Basileo",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Ludwig quan tâm đến Basileo.",
+   "cach_goi": "gọi tên Basileo, thân mật"
+  },
+  {
+   "a": "Aias",
+   "b": "Glaukos",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Aias hỏi Glaukos.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Ludovic tò mò về Mei.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Basileo biết thông tin về Mei từ Frondier.",
+   "cach_goi": "gọi tên Frondier-sunbae, lễ phép"
+  },
+  {
+   "a": "Aias",
+   "b": "Basileo",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Aias hỏi Basileo về Mei.",
+   "cach_goi": "gọi tên Basileo, thân mật"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Ludwig lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai và nhân vật chính, Azier buộc tội Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai và nhân vật chính, Frondier phản bác lại Azier.",
+   "cach_goi": "gọi tên Azier, lạnh lùng"
+  },
+  {
+   "a": "Campe",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "đối thủ của Frondier, Campe cảnh báo Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Campe",
+   "loai": "ke_thu",
+   "mo_ta": "đối thủ của Frondier, Frondier hỏi Campe về Thanatos.",
+   "cach_goi": "gọi tên Campe, lạnh lùng"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai và nhân vật chính, Azier từ chối Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai và nhân vật chính, Frondier cố gắng thuyết phục Azier.",
+   "cach_goi": "gọi tên Azier, lễ phép"
+  },
+  {
+   "a": "Campe",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "đối thủ của Frondier, Campe phản đối hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1542,
+  "seconds": 46.6
+ }
+}

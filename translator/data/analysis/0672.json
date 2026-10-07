@@ -1,0 +1,85 @@
+{
+ "number": 672,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đang bị giam giữ và Lunia sử dụng một loại phép thuật đặc biệt để thẩm vấn một quỷ dữ. Phép thuật này dựa trên sự cân bằng thông tin giữa hai bên, khiến việc nói dối trở nên khó khăn hơn. Lunia dần khám phá ra những manh mối về kế hoạch của lũ quỷ liên quan đến Aten và Frondier, đồng thời suy đoán về vai trò của Marchosias và mối liên hệ giữa 72 quỷ dữ của Solomon và Bảy Tội lỗi. Trong khi đó, Aster và các thành viên khác của Constel đang chiến đấu để giải cứu Lunia.",
+ "boi_canh": "Trong một địa điểm không rõ ràng, nơi Lunia thẩm vấn một con quỷ.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aster",
+  "Aten Terst",
+  "Sybil",
+  "Azier",
+  "Lunia",
+  "Marco",
+  "Marchosias",
+  "Mizonas",
+  "Solomon"
+ ],
+ "su_kien": [
+  "Lunia sử dụng phép thuật cân bằng thông tin để thẩm vấn quỷ dữ.",
+  "Quỷ dữ cố gắng tránh né ảnh hưởng của phép thuật bằng cách nhắm mắt và quay đi.",
+  "Các scales di chuyển dựa trên sự cân bằng thông tin, không phải chỉ là 'có' hoặc 'không'.",
+  "Lunia suy đoán về vai trò của Marchosias và mối liên hệ giữa 72 quỷ dữ của Solomon và Bảy Tội lỗi.",
+  "Aster và các thành viên Constel chiến đấu để giải cứu Lunia."
+ ],
+ "quan_he": [
+  {
+   "a": "Lunia",
+   "b": "Quỷ dữ",
+   "loai": "doi_thu",
+   "mo_ta": "Lunia thẩm vấn quỷ dữ để thu thập thông tin.",
+   "cach_goi": "gọi 'đối tượng', lạnh lùng"
+  },
+  {
+   "a": "Quỷ dữ",
+   "b": "Lunia",
+   "loai": "doi_thu",
+   "mo_ta": "Quỷ dữ cố gắng tránh né câu hỏi của Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Aster đang giải cứu Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Sybil đang chiến đấu bên cạnh Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Aten đang chiến đấu bên cạnh Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Selena đang chiến đấu bên cạnh Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Mizonas",
+   "loai": "cap_tren",
+   "mo_ta": "Mizonas đã khiến Azier bất ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Marco (có thể là Marchosias)"
+ ],
+ "stats": {
+  "tokens": 909,
+  "seconds": 28.4
+ }
+}

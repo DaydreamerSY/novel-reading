@@ -1,0 +1,75 @@
+{
+ "number": 881,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier nhận được một danh sách các vật phẩm huyền thoại từ Evelina, anh ta đã tìm hiểu về Golden Apple và cách nó liên quan đến Aphrodite. Anh ta phát hiện ra rằng Ahop đã đánh cắp Golden Apple từ Paladins vì nó có khả năng chữa lành tuyệt vời nhưng không thể sử dụng được bởi bất kỳ ai trong tổ chức. Frondier sau đó đã đạt được một thỏa thuận với Evelina, hứa sẽ không tấn công Ahop, nhưng cũng vạch trần sự giả dối của cô bằng cách lột bỏ mặt nạ của cô.",
+ "boi_canh": "Trong phòng làm việc của Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Arald",
+  "Gregory",
+  "Ares",
+  "Zeus",
+  "Evelina",
+  "Colin"
+ ],
+ "su_kien": [
+  "Evelina liệt kê các vật phẩm huyền thoại có khả năng chữa lành.",
+  "Frondier phát hiện ra Golden Apple là tổng hợp của nhiều truyền thuyết và liên quan đến vết thương của Aphrodite.",
+  "Evelina tiết lộ rằng Ahop đã đánh cắp Golden Apple từ Paladins.",
+  "Frondier đạt được thỏa thuận với Evelina về việc không tấn công Ahop.",
+  "Frondier lột bỏ mặt nạ của Evelina để vạch trần sự giả dối của cô."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Evelina",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier nghi ngờ và dò xét Evelina.",
+   "cach_goi": "gọi tên Evelina, lạnh lùng"
+  },
+  {
+   "a": "Evelina",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Evelina cố gắng thuyết phục Frondier và tìm kiếm sự ủng hộ của anh ta.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Arald là bạn đồng hành tin cậy.",
+   "cach_goi": "gọi tên Arald, thân mật"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Arald quan tâm đến quyết định của Frondier.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Evelina",
+   "b": "Colin",
+   "loai": "cap_tren",
+   "mo_ta": "Evelina là cấp trên của Colin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Colin",
+   "b": "Evelina",
+   "loai": "cap_tren",
+   "mo_ta": "Colin là người lái xe và trợ lý của Evelina.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Evelina đang che giấu danh tính thật của mình bằng một mặt nạ."
+ ],
+ "stats": {
+  "tokens": 841,
+  "seconds": 25.3
+ }
+}

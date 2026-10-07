@@ -1,0 +1,73 @@
+{
+ "number": 654,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một quỷ cấp cao tiếp cận Marco với đề nghị tấn công các quỷ khác trong Đế chế. Tuy nhiên, Marco đã thay đổi lòng trung thành và giờ là tay sai của Satan. Frondier lợi dụng tình hình để khiêu khích quỷ cấp cao đó, dẫn đến đối đầu căng thẳng giữa Marco và Frondier, hé lộ những bí mật về mối liên hệ giữa Seven Sins và 72 Devils, cũng như sự che giấu danh tính của một trong số chúng.",
+ "boi_canh": "Một căn phòng tối tăm, nơi diễn ra cuộc gặp gỡ giữa các quỷ cấp cao.",
+ "nhan_vat": [
+  "Frondier",
+  "Baal",
+  "Marco",
+  "Marchosias",
+  "King of Hell",
+  "Beelzebub"
+ ],
+ "su_kien": [
+  "Quỷ cấp cao đề nghị Marco tấn công các quỷ khác trong Đế chế.",
+  "Marco từ chối và thể hiện sự trung thành với Satan.",
+  "Frondier khiêu khích quỷ cấp cao bằng cách nhắc đến những hành động của thuộc hạ.",
+  "Marco tấn công Frondier một cách bất ngờ.",
+  "Frondier hé lộ mối liên hệ giữa Seven Sins và 72 Devils, cũng như sự che giấu danh tính của Baal/Beelzebub."
+ ],
+ "quan_he": [
+  {
+   "a": "Quỷ cấp cao",
+   "b": "Marco",
+   "loai": "cap_tren",
+   "mo_ta": "quỷ cấp cao ra lệnh cho Marco.",
+   "cach_goi": "gọi tên Marco, thân mật"
+  },
+  {
+   "a": "Marco",
+   "b": "Quỷ cấp cao",
+   "loai": "doi_thu",
+   "mo_ta": "đối đầu với quỷ cấp cao.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "tấn công và đối đầu với Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "doi_thu",
+   "mo_ta": "khiêu khích và thăm dò Marco.",
+   "cach_goi": "gọi tên Marco, trịch thượng"
+  },
+  {
+   "a": "Marchosias",
+   "b": "Marco",
+   "loai": "thay_tro",
+   "mo_ta": "quan sát và can thiệp vào cuộc đối đầu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal/Beelzebub",
+   "loai": "ke_thu",
+   "mo_ta": "khiêu khích và cố tình nhắc đến tên của quỷ cấp cao.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Baal được tiết lộ có một biệt danh khác là Beelzebub, liên quan đến Seven Sins."
+ ],
+ "stats": {
+  "tokens": 808,
+  "seconds": 24.2
+ }
+}

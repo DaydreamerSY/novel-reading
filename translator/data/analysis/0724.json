@@ -1,0 +1,83 @@
+{
+ "number": 724,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Pascal được Hoàng hậu Philly triệu tập để báo cáo về tình hình liên quan đến Frondier. Báo cáo của Pascal tiết lộ những lời tiên tri đáng lo ngại của Frondier về sự thay đổi của hoàng đế và sự sụp đổ của xã hội giai cấp, cũng như mối quan hệ giữa anh ta với Cain. Hoàng hậu Philly tỏ ra ấn tượng và nghi ngờ về nguồn gốc của những tin đồn này, đặt câu hỏi về động cơ thực sự của Frondier.",
+ "boi_canh": "Phòng tiếp khách của Cung điện Hoàng gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Pascal Schlitz",
+  "Pascal",
+  "Heldre",
+  "Cain",
+  "Bartello Tert",
+  "Robert",
+  "Sale"
+ ],
+ "su_kien": [
+  "Pascal được Hoàng hậu Philly triệu tập để báo cáo về Frondier.",
+  "Pascal báo cáo về những lời tiên tri của Frondier cho Cain về sự thay đổi của hoàng đế và sự sụp đổ xã hội giai cấp.",
+  "Hoàng hậu Philly tỏ ra ấn tượng với những lời tiên tri này và nghi ngờ động cơ của Frondier.",
+  "Pascal thừa nhận rằng anh không có khả năng phân biệt tin đồn thật giả.",
+  "Hoàng hậu Philly hỏi Pascal về tin đồn cho rằng Frondier là quỷ dữ."
+ ],
+ "quan_he": [
+  {
+   "a": "Pascal",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Pascal báo cáo cho Philly, có vẻ lo lắng và kính trọng.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Pascal",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu Philly thẩm vấn Pascal về những tin đồn liên quan đến Frondier.",
+   "cach_goi": "gọi tên Pascal, thân mật"
+  },
+  {
+   "a": "Pascal",
+   "b": "Robert",
+   "loai": "dong_minh",
+   "mo_ta": "Pascal và Robert cùng làm việc, có vẻ như Pascal ghen tị với Robert.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Robert",
+   "b": "Philly",
+   "loai": "dong_minh",
+   "mo_ta": "Robert là vệ sĩ của Philly, lo ngại về những lời tiên tri của Frondier.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Robert",
+   "loai": "dong_minh",
+   "mo_ta": "Hoàng hậu Philly trấn an Robert.",
+   "cach_goi": "gọi tên Robert, thân mật"
+  },
+  {
+   "a": "Pascal",
+   "b": "Cain",
+   "loai": "nguoi_la",
+   "mo_ta": "Pascal điều tra Cain, không có mối quan hệ rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đã nói chuyện với Cain, nhưng mối quan hệ không rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pascal Schlitz là tên đầy đủ của Pascal."
+ ],
+ "stats": {
+  "tokens": 899,
+  "seconds": 26.9
+ }
+}

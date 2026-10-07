@@ -1,0 +1,62 @@
+{
+ "number": 954,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier, cùng với Lazor, khám phá một phần sâu nhất của lâu đài Satan, nơi chứa đựng những thí nghiệm đáng sợ liên quan đến 'Calamity' của Metamorph. Trong khi đó, Selena theo dõi Frondier và đặt câu hỏi về bản chất thật sự của anh ta, khiến Frondier phải đối mặt với sự nghi ngờ về chính mình. Một thông báo lỗi bất ngờ xuất hiện trên đồng hồ thông minh của Frondier.",
+ "boi_canh": "Trong một phần sâu thẳm của lâu đài Satan.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Azier",
+  "Belphegor",
+  "Lazor",
+  "Astaroth",
+  "Satan",
+  "Metamorph"
+ ],
+ "su_kien": [
+  "Belphegor và Lazor khám phá lâu đài Satan.",
+  "Họ tìm thấy một cơ chế ẩn chứa trong tường.",
+  "Cơ chế này mở ra một cầu thang dẫn xuống sâu hơn nữa.",
+  "Họ phát hiện phòng thí nghiệm với những bình thủy tinh vỡ và các mẫu vật kỳ lạ - 'Metamorph’s Calamity'.",
+  "Selena đặt câu hỏi về bản chất thật sự của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Belphegor",
+   "b": "Lazor",
+   "loai": "nguoi_la",
+   "mo_ta": "Belphegor là người chỉ huy, Lazor là tùy tùng trung thành.",
+   "cach_goi": "gọi tên Lazor, thân mật"
+  },
+  {
+   "a": "Lazor",
+   "b": "Belphegor",
+   "loai": "nguoi_la",
+   "mo_ta": "Lazor là người báo cáo cho Belphegor.",
+   "cach_goi": "gọi tên Belphegor, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena theo dõi Frondier và đặt câu hỏi cho anh.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena chất vấn Frondier về bản chất thật sự của anh.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của nhân vật chính.",
+  "Metamorph’s Calamity: Dự án bí mật của Satan, liên quan đến việc tạo ra một loại 'Calamity'."
+ ],
+ "stats": {
+  "tokens": 691,
+  "seconds": 21.0
+ }
+}

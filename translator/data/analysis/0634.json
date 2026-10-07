@@ -1,0 +1,82 @@
+{
+ "number": 634,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Aten nhận ra rằng việc bị một quỷ dữ bắt cóc không phải là để giết cô mà là để hút sức mạnh của cô. Cô suy ngẫm về những động cơ tiềm ẩn đằng sau hành động này và nhận ra rằng nó tương tự như những mối đe dọa trước đây mà cô đã đối mặt, đặc biệt là từ Renzo và Elysia. Một quỷ dữ cố gắng trốn thoát để thông báo điều gì đó cho đồng loại của mình, khiến Aten lo ngại về một âm mưu lớn hơn. Cuối cùng, Marchosias, một quỷ dữ cấp cao, xuất hiện.",
+ "boi_canh": "Trong lãnh địa băng giá của Aten.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Renzo",
+  "Elysia",
+  "Osprey",
+  "Bartello",
+  "Marchosias"
+ ],
+ "su_kien": [
+  "Aten nhận ra quỷ dữ không muốn giết cô mà muốn hút sức mạnh của cô.",
+  "Aten suy đoán về động cơ của việc bắt cóc, liên hệ đến Renzo và Elysia.",
+  "Một quỷ dữ cố gắng trốn thoát để thông báo điều gì đó cho đồng loại.",
+  "Aten nhận ra rằng thông tin mà quỷ dữ muốn truyền đạt phải rất quan trọng.",
+  "Marchosias, một quỷ dữ cấp cao, xuất hiện."
+ ],
+ "quan_he": [
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, khoảng cách xa xôi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, đã từng có ý định bắt cóc Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Elysia",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tranh giành vị trí Hoàng hậu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Osprey",
+   "loai": "ban_be",
+   "mo_ta": "Người mà Aten muốn thông báo tin tức quan trọng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Bartello",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, khoảng cách xa xôi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Marchosias",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối tượng mới xuất hiện, Aten cảm thấy căng thẳng.",
+   "cach_goi": "gọi tên Marchosias, lễ phép"
+  },
+  {
+   "a": "Marchosias",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối tượng mới xuất hiện, Marchosias tỏ ra khó chịu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst (tam công chúa)",
+  "Bartello Tert (quốc vương)"
+ ],
+ "stats": {
+  "tokens": 893,
+  "seconds": 26.8
+ }
+}

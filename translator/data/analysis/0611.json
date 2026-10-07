@@ -2,84 +2,89 @@
  "number": 611,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi xác nhận Olivier đã chết, Frondier suy ngẫm về sức mạnh 'của quỷ' mà anh vừa sử dụng và những hệ quả có thể xảy ra. Trong khi đó, Hoàng hậu Philly tận hưởng sự thư thái hiếm hoi sau khi Vua Bartello hồi phục. Cô đang tìm cách giải quyết vấn đề kế vị ngai vàng, nhưng một người hầu bí mật đã báo cáo cho cô về hành động đáng ngờ của Frondier.",
- "boi_canh": "Trong cung điện hoàng gia, vào thời điểm hậu chiến và kế vị ngai vàng là những vấn đề cần giải quyết.",
+ "tom_tat": "Trong chương này, Ednet quỳ trước mặt Hoàng Hậu Philly để báo cáo về những sự kiện đáng lo ngại liên quan đến Frondier và Đơn Vị Bóng Tối. Anh ta tố giác mối liên hệ của Frondier với thế giới quỷ dữ và việc cự tuyệt báo cáo lên Đế Quốc. Cuối cùng, Ednet tiết lộ rằng Công chúa Elysia mất tích gần đây và có thể liên quan đến Frondier, khiến Hoàng Hậu Philly vô cùng tức giận.",
+ "boi_canh": "Trong khán phòng của Hoàng Hậu Philly, tại một buổi báo cáo tình hình bí mật.",
  "nhan_vat": [
   "Frondier",
-  "Olivier",
   "Philly",
-  "Bartello",
-  "Sale",
-  "Aten",
-  "Laurie",
+  "Elysia",
+  "Eden",
+  "Arald",
+  "Pros",
+  "Eden Hamelot",
   "Shadow",
-  "Lilith",
-  "Ameline"
+  "Ednet"
  ],
  "su_kien": [
-  "Frondier vô tình giết Olivier.",
-  "Frondier suy ngẫm về sức mạnh 'của quỷ'.",
-  "Vua Bartello hồi phục và giúp Hoàng hậu Philly giảm bớt gánh nặng.",
-  "Hoàng hậu Philly đang tìm cách giải quyết vấn đề kế vị ngai vàng.",
-  "Một người hầu bí mật báo cáo cho Philly về hành động đáng ngờ của Frondier."
+  "Ednet quỳ lạy trước mặt Hoàng Hậu Philly để báo cáo về Frondier.",
+  "Philly cảnh báo Ednet và Đơn Vị Bóng Tối về hậu quả nếu họ không biết thân phận của mình.",
+  "Ednet tố giác mối liên hệ của Frondier với thế giới quỷ dữ.",
+  "Frondier từng đến Hitchcock Company, gây ra sự hỗn loạn với Pros và cảnh sát.",
+  "Công chúa Elysia mất tích và có thể liên quan đến Frondier."
  ],
  "quan_he": [
   {
-   "a": "Frondier",
-   "b": "Olivier",
-   "loai": "doi_thu",
-   "mo_ta": "Frondier muốn kiểm soát Olivier, nhưng vô tình giết anh.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Laurie",
-   "loai": "thay_tro",
-   "mo_ta": "Frondier có kiến thức về sức mạnh của Laurie.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
    "a": "Philly",
-   "b": "Bartello",
-   "loai": "gia_dinh",
-   "mo_ta": "Vợ chồng, Bartello hồi phục sức khỏe.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Philly",
-   "b": "Sale",
-   "loai": "gia_dinh",
-   "mo_ta": "Mẹ con, Sale có thể sẽ trì hoãn việc lên ngôi.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Philly",
-   "b": "Aten",
-   "loai": "gia_dinh",
-   "mo_ta": "Mẹ con, Philly đang cân nhắc việc tổ chức họp mặt gia đình.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Người hầu",
-   "b": "Philly",
-   "loai": "nguoi_la",
-   "mo_ta": "Người hầu báo cáo cho Philly về hành động của Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Philly",
-   "b": "Shadow",
+   "b": "Ednet",
    "loai": "cap_tren",
-   "mo_ta": "Philly đánh giá cao kỹ năng của Shadow Unit.",
+   "mo_ta": "Hoàng Hậu Philly ra lệnh và khiển trách Ednet.",
+   "cach_goi": "gọi 'Ednet', lạnh lùng"
+  },
+  {
+   "a": "Ednet",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Ednet báo cáo tình hình cho Hoàng Hậu Philly.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng Hậu Philly suy nghĩ về hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ednet",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Ednet báo cáo về Frondier cho Philly, thể hiện sự lo ngại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Arald bảo vệ Frondier tại Hitchcock Company.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eden Hamelot",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Eden Hamelot ủng hộ Frondier khi Pros tấn công.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pros",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Pros tấn công Frondier tại Hitchcock Company.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ednet",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Ednet báo cáo về sự mất tích của Elysia.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Olivier: ban đầu được cho là có thể kiểm soát, sau đó bị giết.",
-  "Shadow Unit: đơn vị đặc biệt, đang trong tình trạng hỗn loạn do mất lãnh đạo."
+  "Eden Hamelot là tên đầy đủ của Eden."
  ],
  "stats": {
-  "tokens": 886,
-  "seconds": 27.5
+  "tokens": 968,
+  "seconds": 30.2
  }
 }

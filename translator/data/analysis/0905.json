@@ -1,0 +1,73 @@
+{
+ "number": 905,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với sự căng thẳng tột độ khi Frondier đối mặt với Elodie, người có sức mạnh ma thuật sánh ngang với Aster và gần như là một archmage. Họ không thể tấn công lẫn nhau trực tiếp, khiến tình hình trở nên phức tạp. Selena bất ngờ xuất hiện, khống chế Elodie và thúc giục Frondier đi trước để cứu anh trai mình, cho thấy cô biết rõ hơn những gì đang diễn ra.",
+ "boi_canh": "Trong một hang động tối tăm, giữa cuộc đối đầu căng thẳng giữa Frondier và Elodie.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Arald",
+  "Agni"
+ ],
+ "su_kien": [
+  "Frondier và Elodie đối đầu, không thể tấn công trực tiếp.",
+  "Elodie chặn đường vào hang động, ngăn Frondier nhìn thấy bên trong.",
+  "Frondier tấn công bằng gai nhưng bị Elodie chặn lại.",
+  "Selena bất ngờ xuất hiện và khống chế Elodie.",
+  "Selena thúc giục Frondier đi trước để cứu anh trai."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, nhưng không thể tấn công được nhau.",
+   "cach_goi": "gọi tên Elodie, không thân thiết"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, nhưng không thể tấn công được nhau.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Selena bất ngờ xuất hiện và hành động.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Selena bất ngờ xuất hiện và hành động.",
+   "cach_goi": "gọi tên Frondier, thúc giục"
+  },
+  {
+   "a": "Selena",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Selena bất ngờ xuất hiện và khống chế Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Selena bất ngờ xuất hiện và khống chế Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Inies Rishae (Tên đầy đủ của Elodie)"
+ ],
+ "stats": {
+  "tokens": 792,
+  "seconds": 23.9
+ }
+}

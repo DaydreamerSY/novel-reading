@@ -1,0 +1,74 @@
+{
+ "number": 795,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier triển khai bảy đơn vị golem để đối phó với Bune, cả hai đã ngồi lại nói chuyện. Frondier chất vấn về mục đích của Bune trong việc truyền sức mạnh cho Antero và cách thức hoạt động của các giao kèo giữa người và quỷ. Cuối cùng, họ thảo luận về cuốn Goetia mà Antero sử dụng để triệu hồi Bune.",
+ "boi_canh": "Trong một căn phòng sau trận chiến căng thẳng.",
+ "nhan_vat": [
+  "Frondier",
+  "Bune",
+  "Antero",
+  "Binkis",
+  "Azier",
+  "Baal",
+  "Arald",
+  "Antero",
+  "Odin",
+  "Lucifer",
+  "Zeus",
+  "Solomon",
+  "Asmodeus"
+ ],
+ "su_kien": [
+  "Frondier triển khai bảy golem để đối phó với Bune.",
+  "Bune và Frondier ngồi đối diện nhau sau trận chiến.",
+  "Frondier chất vấn Bune về mục đích của việc truyền sức mạnh cho Antero.",
+  "Cuộc thảo luận về Goetia, một cuốn sách ghi lại thông tin về 72 quỷ.",
+  "Bune tiết lộ rằng Antero muốn quên đi sự tồn tại của mình trong giao kèo."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Bune",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier chất vấn Bune về mục đích và động cơ của mình.",
+   "cach_goi": "gọi tên 'Bune', không trang trọng"
+  },
+  {
+   "a": "Bune",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Bune trả lời các câu hỏi của Frondier và giải thích về giao kèo.",
+   "cach_goi": "gọi tên 'Frondier', không trang trọng"
+  },
+  {
+   "a": "Antero",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Antero là người được Frondier quan tâm và chất vấn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bune",
+   "b": "Antero",
+   "loai": "cap_tren",
+   "mo_ta": "Bune thực hiện giao kèo với Antero.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Antero",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier suy đoán về tính cách của Antero.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Goetia: Một cuốn sách ghi lại thông tin về 72 quỷ, không phải là một cuốn sách hoàn chỉnh như lời đồn đại.",
+  "Antero: Sử dụng Goetia để triệu hồi Bune và kết giao kèo."
+ ],
+ "stats": {
+  "tokens": 788,
+  "seconds": 23.7
+ }
+}

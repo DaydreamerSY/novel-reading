@@ -2,102 +2,70 @@
  "number": 541,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Frondier chờ đợi thủ lĩnh của Manggot xuất hiện và sử dụng 'Nail' để thu hút sự chú ý. Anh ta lo lắng cho Selena và gửi tín hiệu cho cô ấy thông qua Menosorpo. Cuối cùng, anh ta đối mặt với Belphegor, người nhầm lẫn anh ta là Osprey và phát hiện ra Frondier không phải là con người thật mà là một vật chủ của quỷ.",
- "boi_canh": "Không gian chiến trường, thời điểm Frondier chờ đợi thủ lĩnh của Manggot.",
+ "tom_tat": "Sau khi hứng chịu một đòn tấn công mạnh mẽ từ Belphegor, Frondier đã nhanh chóng phản ứng và sử dụng Obsidian để phòng thủ. Belphegor tiếp tục tấn công bằng hỏa cầu và sét đánh, nhưng Frondier đã tìm ra cách vô hiệu hóa chúng nhờ Mjölnir. Cuối cùng, Frondier áp sát Belphegol trong một cuộc chiến cận chiến, sử dụng kiếm Excalibur và thanh đoản của Neil Jack để đối phó với các đòn tấn công của đối thủ.",
+ "boi_canh": "Trong Cung điện Hoàng gia, diễn ra một trận chiến căng thẳng giữa Frondier và Belphegor.",
  "nhan_vat": [
   "Frondier",
-  "Selena",
-  "Aster",
-  "Sybil",
-  "Osprey",
-  "Malia",
-  "Enfer",
-  "Belphegor"
+  "Belphegor",
+  "Azier",
+  "Neil",
+  "Neil Jack",
+  "Mjölnir"
  ],
  "su_kien": [
-  "Frondier chờ đợi thủ lĩnh của Manggot.",
-  "Anh ta sử dụng 'Nail' để thu hút sự chú ý và gửi tín hiệu cho Selena thông qua Menosorpo.",
-  "Aster và Sybil báo cáo tiến trình của họ, gây ngạc nhiên cho Frondier.",
-  "Frondier đối mặt với Belphegor, người nhầm lẫn anh ta là Osprey.",
-  "Belphegor phát hiện ra Frondier không phải là con người thật mà là một vật chủ của quỷ."
+  "Belphegor tấn công Frondier bằng hỏa cầu.",
+  "Belphegor sử dụng sét đánh để tấn công Frondier.",
+  "Frondier vô hiệu hóa các đòn tấn công của Belphegor nhờ Mjölnir.",
+  "Frondier áp sát Belphegol và bắt đầu chiến đấu cận chiến.",
+  "Excalibur và đoản kiếm của Neil Jack được sử dụng trong trận chiến."
  ],
  "quan_he": [
   {
    "a": "Frondier",
-   "b": "Selena",
-   "loai": "nguoi_la",
-   "mo_ta": "Frondier lo lắng cho Selena và gửi tín hiệu để cô ấy giải thoát bản thân.",
-   "cach_goi": "gọi tên Selena, thân mật"
-  },
-  {
-   "a": "Selena",
-   "b": "Frondier",
-   "loai": "nguoi_la",
-   "mo_ta": "Selena bị giam giữ trong Manggot, Frondier gửi tín hiệu cho cô ấy.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Malia",
-   "loai": "gia_dinh",
-   "mo_ta": "Mẹ của Frondier, liên tục báo cáo tình hình chiến trường cho anh.",
-   "cach_goi": "gọi tên Malia, thân mật"
-  },
-  {
-   "a": "Malia",
-   "b": "Frondier",
-   "loai": "gia_dinh",
-   "mo_ta": "Mẹ của Frondier, liên tục báo cáo tình hình chiến trường cho anh.",
-   "cach_goi": "gọi tên Frondier, thân mật"
-  },
-  {
-   "a": "Frondier",
-   "b": "Aster",
-   "loai": "ban_be",
-   "mo_ta": "Aster báo cáo tiến trình của mình, gây ngạc nhiên cho Frondier.",
-   "cach_goi": "gọi tên Aster, lễ phép"
-  },
-  {
-   "a": "Aster",
-   "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Aster báo cáo tiến trình của mình, gây ngạc nhiên cho Frondier.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
-  },
-  {
-   "a": "Frondier",
-   "b": "Sybil",
-   "loai": "ban_be",
-   "mo_ta": "Sybil báo cáo tiến trình của mình, gây ngạc nhiên cho Frondier.",
-   "cach_goi": "gọi tên Sybil, lễ phép"
-  },
-  {
-   "a": "Sybil",
-   "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Sybil báo cáo tiến trình của mình, gây ngạc nhiên cho Frondier.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
-  },
-  {
-   "a": "Frondier",
    "b": "Belphegor",
    "loai": "doi_thu",
-   "mo_ta": "Đối đầu trực tiếp, Belphegor nhầm Frondier là Osprey.",
-   "cach_goi": "gọi tên Belphegor, lạnh lùng"
+   "mo_ta": "đối thủ, Frondier phòng thủ và phản công",
+   "cach_goi": "gọi 'fake', trịch thượng"
   },
   {
    "a": "Belphegor",
    "b": "Frondier",
    "loai": "doi_thu",
-   "mo_ta": "Đối đầu trực tiếp, Belphegor nhầm Frondier là Osprey.",
-   "cach_goi": "gọi tên Frondier, lạnh lùng"
+   "mo_ta": "đối thủ, Belphegor tấn công và quan sát Frondier",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mjölnir",
+   "loai": "khac",
+   "mo_ta": "vật phẩm hỗ trợ, Frondier sử dụng để vô hiệu hóa đòn tấn công",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "thay_tro",
+   "mo_ta": "người thầy, Frondier áp dụng kỹ thuật của Azier trong chiến đấu",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Neil Jack",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, sử dụng vũ khí của Neil Jack",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Belphegor tấn công và quan sát Frondier",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
- "danh_tinh": [
-  "Belphegor: Thủ lĩnh của Manggot, ban đầu nghĩ Frondier là Osprey. Sau đó phát hiện ra Frondier không phải con người thật mà là vật chủ của quỷ."
- ],
+ "danh_tinh": [],
  "stats": {
-  "tokens": 1196,
-  "seconds": 37.0
+  "tokens": 672,
+  "seconds": 20.8
  }
 }

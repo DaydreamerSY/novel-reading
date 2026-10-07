@@ -1,0 +1,87 @@
+{
+ "number": 848,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Ba chương bắt đầu với việc Carla (Athena) đến thủ đô trước để chuẩn bị cho cuộc bỏ phiếu. Athena nhận thấy Gregory đang theo dõi và sử dụng các biện pháp ngụy trang phức tạp để tránh bị phát hiện. Frondier và Gregory thảo luận về hành động của Athena, và Frondier suy đoán rằng cô ấy có mục đích sâu xa hơn là chỉ đơn thuần trốn tránh. Cuối cùng, Philly Terst cảm nhận được sức mạnh tiên đoán của mình ngày càng tăng khi Frondier rời đi, và một tầm nhìn đáng lo ngại xuất hiện khi bà gặp Malia de Roach.",
+ "boi_canh": "Thủ đô Palma, ba ngày trước cuộc bỏ phiếu.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly Terst",
+  "Aten",
+  "Carla",
+  "Malia de Roach",
+  "Gregory",
+  "Athena",
+  "Aster Evans",
+  "Mother",
+  "Hera",
+  "Malia"
+ ],
+ "su_kien": [
+  "Athena sử dụng ngụy trang để tránh bị Gregory phát hiện.",
+  "Frondier và Gregory thảo luận về hành động của Athena.",
+  "Athena nhận ra rằng Frondier có thể đã bị lừa dối.",
+  "Philly Terst cảm thấy sức mạnh tiên đoán của mình ngày càng tăng.",
+  "Philly nhìn thấy một tầm nhìn đáng lo ngại liên quan đến Malia de Roach."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "khac",
+   "mo_ta": "Theo dõi và suy đoán về hành động của Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Báo cáo tình hình cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Athena",
+   "b": "Gregory",
+   "loai": "ke_thu",
+   "mo_ta": "Tránh bị Gregory phát hiện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Athena",
+   "loai": "doi_thu",
+   "mo_ta": "Phân tích hành động của Athena.",
+   "cach_goi": "gọi tên Athena, trung lập"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Báo cáo tình hình cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Malia de Roach",
+   "loai": "gia_dinh",
+   "mo_ta": "Gặp gỡ và trao đổi thông tin.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  },
+  {
+   "a": "Malia de Roach",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Báo cáo tình hình cho Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Carla là Athena.",
+  "Athena sử dụng nhiều lớp ngụy trang."
+ ],
+ "stats": {
+  "tokens": 734,
+  "seconds": 22.2
+ }
+}

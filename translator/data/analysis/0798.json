@@ -1,0 +1,97 @@
+{
+ "number": 798,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này giới thiệu nhân vật mới, Glaukos, một học sinh năm nhất sở hữu sức mạnh vượt trội, gây sốc cho tất cả những người chứng kiến trận đấu với Pielott tại Machia. Sự xuất hiện của Glaukos làm Frondier liên tưởng đến Renzo và khiến Aias cảm thấy bất an về khả năng của mình. Cuối cùng, Pielott giành chiến thắng trước Glaukos bằng kỹ thuật điêu luyện hơn, nhưng sự kiện này đã phơi bày một thực tế mới: luôn có những người mạnh mẽ hơn ở phía trước.",
+ "boi_canh": "Trong khuôn viên trường Machia, trong một trận đấu của học sinh.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Pielott",
+  "Carla",
+  "Baal",
+  "Antero",
+  "Aias",
+  "Mother",
+  "Glaukos",
+  "Lady Achaea (Eriboia)",
+  "Ms. Eriboia"
+ ],
+ "su_kien": [
+  "Glaukos xuất hiện và đánh bại Pielott chỉ bằng một cú đấm.",
+  "Aias cảm thấy bất an về khả năng của mình sau khi chứng kiến Glaukos.",
+  "Pielott giành chiến thắng trước Glaukos bằng kỹ thuật điêu luyện hơn.",
+  "Frondier liên tưởng đến Renzo khi nhìn Glaukos thi đấu.",
+  "Sự xuất hiện của Glaukos làm thay đổi nhận thức về sức mạnh tại Machia."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier lo lắng cho Carla và bảo vệ cô.",
+   "cach_goi": "gọi tên Carla, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Carla quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò, Frondier là người hướng dẫn Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Trò của Frondier, Pielott ngưỡng mộ và học hỏi từ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aias",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh, Aias cảm thấy bất an khi Pielott vượt trội hơn anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Aias",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh, Pielott là người đánh bại Aias.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Glaukos",
+   "b": "Pielott",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng môn, Glaukos là đàn em của Pielott.",
+   "cach_goi": "gọi 'senpai', lễ phép"
+  },
+  {
+   "a": "Pielott",
+   "b": "Glaukos",
+   "loai": "cap_tren",
+   "mo_ta": "Đàn anh của Glaukos, Pielott đánh bại Glaukos trong trận đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Glaukos",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier quan sát Glaukos thi đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1083,
+  "seconds": 32.5
+ }
+}

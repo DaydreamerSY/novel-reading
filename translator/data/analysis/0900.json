@@ -1,0 +1,124 @@
+{
+ "number": 900,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier lắng nghe câu chuyện của Sigurd và nhận ra những sự thật đáng lo ngại về các vị thần và vũ khí Mistilteinn. Anh ta sử dụng Golden Apple để tìm cách vượt qua miasma bảo vệ Mistilteinn, sau đó rời đi cùng lời hứa gặp lại Sigurd. Khi trở lại Agoris, anh ta đối mặt với một cảnh tượng kỳ lạ: toàn bộ đội quân của mình đang chờ đợi và Elodie báo tin về tình hình khẩn cấp liên quan đến Azier de Roach. Cuối cùng, Frondier bay đến lâu đài Hoàng gia và chứng kiến cảnh mẹ anh, Malia, đau khổ bên cạnh người anh trai bất tỉnh nằm trên mặt đất.",
+ "boi_canh": "Một bãi biển hẻo lánh, đêm tối.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Azier",
+  "Lily",
+  "Pielott",
+  "Malia",
+  "Arald",
+  "Monty",
+  "Merlin",
+  "Jeanne",
+  "Fron",
+  "Azier de Roach",
+  "Sigurd",
+  "Vikar",
+  "Enfer"
+ ],
+ "su_kien": [
+  "Frondier lắng nghe câu chuyện của Sigurd về các vị thần và vũ khí Mistilteinn.",
+  "Frondier sử dụng Golden Apple để tìm cách vượt qua miasma bảo vệ Mistilteinn.",
+  "Elodie báo tin khẩn cấp về tình hình liên quan đến Azier de Roach.",
+  "Frondier bay đến lâu đài Hoàng gia và gặp lại mẹ anh, Malia.",
+  "Anh trai của Frondier, Azier, nằm bất tỉnh trên mặt đất."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sigurd",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier tìm kiếm thông tin từ Sigurd, người có vẻ biết nhiều về các vị thần.",
+   "cach_goi": "gọi 'Sir Sigurd', lễ phép"
+  },
+  {
+   "a": "Sigurd",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Sigurd cung cấp thông tin cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết, Elodie báo tin cho Frondier.",
+   "cach_goi": "gọi tên 'Elodie', thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết, Elodie báo tin cho Frondier.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, có mặt trong nhóm của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, có mặt trong nhóm của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, có mặt trong nhóm của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, có mặt trong nhóm của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, có mặt trong nhóm của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, đang đau khổ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, bất tỉnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, đang đau khổ.",
+   "cach_goi": "gọi tên 'Fron... dier', đau khổ"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1328,
+  "seconds": 40.0
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "number": 874,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi phá vỡ tinh thể mana của Aster, Frondier cố gắng thu thập dòng mana hỗn loạn để tạo ra một giáo mạo điện đen. Anh ta sử dụng kỹ thuật kết hợp ma trận phép thuật và chỉ số Black Thread, nhưng quy mô sức mạnh vượt xa những gì anh ta từng trải nghiệm trước đây. Để đánh lạc hướng sự chú ý của các vị thần, Frondier ném giáo về phía Zeus, sau đó nhanh chóng di chuyển đến bên cạnh Aphrodite, được bảo vệ bởi Baal và 72 Quỷ. Cuối cùng, anh ta bắt đầu một cuộc trò chuyện với Aphrodite trong Pandemonium, tiết lộ những bí mật về Athena và kế hoạch của bà ta.",
+ "boi_canh": "Trong Pandemonium, nơi Frondier đang đối mặt với Aphrodite.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Baal",
+  "Athena",
+  "Zeus",
+  "Aphrodite"
+ ],
+ "su_kien": [
+  "Frondier thu thập dòng mana hỗn loạn để tạo ra giáo mạo điện đen.",
+  "Frondier ném giáo về phía Zeus, đánh lạc hướng sự chú ý của các vị thần.",
+  "Baal và 72 Quỷ bảo vệ Frondier và Aphrodite.",
+  "Frondier bắt đầu một cuộc trò chuyện với Aphrodite trong Pandemonium.",
+  "Frondier tiết lộ những bí mật về Athena cho Aphrodite."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang đối đầu trong trận chiến.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang đối đầu trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh bảo vệ Frondier.",
+   "cach_goi": "gọi tên Baal, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh bảo vệ Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Athena",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ đang đối đầu trong một âm mưu.",
+   "cach_goi": "gọi tên Athena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Athena",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ đang đối đầu trong một âm mưu.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Zeus",
+   "loai": "cap_tren",
+   "mo_ta": "Một vị thần đang chặn đòn tấn công của Frondier.",
+   "cach_goi": "gọi tên Zeus, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Zeus",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Một vị thần đang chặn đòn tấn công của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aphrodite",
+   "loai": "nguoi_la",
+   "mo_ta": "Bắt đầu một cuộc trò chuyện với người mà anh ta đang đối đầu.",
+   "cach_goi": "gọi tên Aphrodite, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aphrodite",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Bắt đầu một cuộc trò chuyện với người mà cô ta đang đối đầu.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1139,
+  "seconds": 34.2
+ }
+}

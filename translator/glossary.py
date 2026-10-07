@@ -128,7 +128,21 @@ class Glossary:
     def entries_in(self, text):
         return [e for e in self.entries if e.pattern.search(text)]
 
-    def prompt_block(self, chunk_text, chapter_text, chapter=None):
+    def rule_for(self, speaker, listener, chapter=None):
+        """The xưng hô rule of one pair for this chapter (the narrowest range wins), or None."""
+        best = None
+        for r in self.rules:
+            if r.speaker != speaker or r.listener != listener:
+                continue
+            if chapter is not None and ((r.lo and chapter < r.lo) or (r.hi and chapter > r.hi)):
+                continue
+            if best is None or r.width <= best.width:
+                best = r
+        return best
+
+    def prompt_block(self, chunk_text, chapter_text, chapter=None, scene_text=None, always=()):
+        """scene_text: the chunk plus the lines right before it; a xưng hô pair is sent only when both people
+        are in that scene (names in `always`, e.g. the first-person narrator, always count as present)."""
         found = [e for e in self.entries if e.pattern.search(chapter_text if e.chapter_wide else chunk_text)]
         lines = [e.prompt_line() for e in found if not e.is_honorific]
         honorifics = [f"- {e.en} → {e.vi}" + (f" ({e.note})" if e.note else "") for e in found if e.is_honorific]
@@ -139,15 +153,16 @@ class Glossary:
             out.append("KÍNH NGỮ / CÁCH GỌI (chọn theo quan hệ giữa hai người; lược bỏ nếu tiếng Việt tự nhiên hơn):\n"
                        + "\n".join(honorifics))
         # When ranges overlap ("151-" and "200"), the narrowest range wins for that pair.
+        scene = (scene_text or chapter_text) + ("\n" + " ".join(always) if always else "")
         chosen = {}
         for r in self.rules:
-            if r.applies(chapter, chapter_text):
+            if r.applies(chapter, scene):
                 key = (r.speaker, r.listener)
                 if key not in chosen or r.width <= chosen[key].width:
                     chosen[key] = r
         if chosen:
-            out.append("XƯNG HÔ MẶC ĐỊNH (dùng khi không có lý do rõ ràng để đổi; được đổi khi cảnh thật sự cần, "
-                       "vd lúc riêng tư thân mật, gọi biệt danh, giận dữ, nơi trang trọng):\n"
+            out.append("XƯNG HÔ (bắt buộc cho mọi câu thoại giữa hai người này, kể cả lúc căng thẳng, nguy cấp, "
+                       "giận dữ; chỉ cách gọi tên mới được linh hoạt, vd biệt danh khi riêng tư thân mật):\n"
                        + "\n".join(r.prompt_line() for r in chosen.values()))
         return "\n\n".join(out)
 

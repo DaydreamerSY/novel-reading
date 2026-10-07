@@ -1,0 +1,126 @@
+{
+ "number": 776,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier báo cáo tình hình cho những người khác trong phòng, nơi đã trở thành phòng họp chiến dịch không chính thức. Anh đồng ý điều tra hiệu trưởng Carla và chuẩn bị cho nhiệm vụ này bằng cách tìm hiểu về cô ấy. Tuy nhiên, sự chú ý của anh bị thu hút bởi vẻ đẹp của Carla khi anh nhìn thấy cô tại một buổi tiệc, khiến anh lo lắng những dự đoán của Elodie có thể trở thành hiện thực.",
+ "boi_canh": "Một phòng họp không chính thức trong lâu đài của Frondier vào thời điểm chuẩn bị điều tra hiệu trưởng Carla.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Renzo",
+  "Elysia",
+  "Lily",
+  "Pielott",
+  "Edwin",
+  "Carla",
+  "Malia",
+  "Baal",
+  "Eden",
+  "Arald",
+  "Gregory",
+  "Eden Hamelot",
+  "Liberto",
+  "Kian"
+ ],
+ "su_kien": [
+  "Frondier đồng ý điều tra hiệu trưởng Carla.",
+  "Lily hỏi về vẻ đẹp của Carla, và Frondier xác nhận cô ấy rất xinh đẹp.",
+  "Selena đặt câu hỏi liệu Frondier có định 'seduce' Carla hay không.",
+  "Elodie lo ngại rằng mọi thứ có thể diễn ra quá suôn sẻ giữa Frondier và Carla.",
+  "Carla đột ngột dừng lại và nhìn chằm chằm vào Frondier tại buổi tiệc."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, lo lắng về hành động của Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, lo lắng về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Lily, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Arald, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Pielott, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhìn chằm chằm vào Frondier với vẻ mặt kinh ngạc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhìn thấy Carla và cảm thấy lo lắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Hamelot (Eden)"
+ ],
+ "stats": {
+  "tokens": 1338,
+  "seconds": 40.5
+ }
+}

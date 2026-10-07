@@ -1,0 +1,88 @@
+{
+ "number": 780,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhận được báo cáo từ Arald về việc Carla có thể liên kết với một thế lực nào đó. Sau khi thảo luận với Lily và Arald, Frondier suy đoán Carla có thể đang nghiên cứu về quỷ để phá bỏ một lời nguyền nào đó. Trong khi chuẩn bị cho Machia, Frondier bắt gặp Carla đeo kính râm và cố gắng tránh mặt ông, hé lộ những dấu hiệu đáng ngờ.",
+ "boi_canh": "Trong hành lang trường Atlas, vào ngày diễn ra sự kiện Machia.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Arald",
+  "Athena",
+  "Lady Achaea"
+ ],
+ "su_kien": [
+  "Arald báo cáo về việc Carla có thể liên kết với một thế lực nào đó.",
+  "Frondier suy đoán Carla đang nghiên cứu về quỷ để phá bỏ lời nguyền.",
+  "Lily hỏi liệu Carla có phải là quỷ không.",
+  "Frondier bắt gặp Carla đeo kính râm và cố gắng tránh mặt ông.",
+  "Carla tỏ ra căng thẳng khi Frondier nhắc đến Poseidon và Athena."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là người hướng dẫn và Arald là học trò của ông.",
+   "cach_goi": "gọi tên Arald, thân mật"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Arald là học trò và Frondier là người hướng dẫn của cậu.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và thường xuyên trao đổi thông tin.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Lily là bạn của Frondier và thường xuyên đặt câu hỏi cho ông.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người không quen biết nhau và Carla cố gắng tránh mặt Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Carla cố gắng tránh mặt Frondier và tỏ ra không quen biết ông.",
+   "cach_goi": "gọi 'Principal', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lady Achaea",
+   "loai": "cap_tren",
+   "mo_ta": "Lady Achaea là người có địa vị cao hơn Frondier và đang nghi ngờ mối liên hệ giữa ông và Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Lady Achaea",
+   "loai": "cap_tren",
+   "mo_ta": "Arald báo cáo cho Lady Achaea.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Carla có thể đang sử dụng một danh tính giả hoặc che giấu thân phận thật của mình."
+ ],
+ "stats": {
+  "tokens": 968,
+  "seconds": 29.2
+ }
+}

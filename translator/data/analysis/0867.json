@@ -1,0 +1,101 @@
+{
+ "number": 867,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với sự bối rối của Athena khi Frondier dường như không bị ảnh hưởng bởi sức mạnh tình yêu của Aphrodite, thậm chí còn đá cô ta đi. Sau đó, chương tiết lộ kế hoạch của Frondier: sử dụng Lily để áp chế sức mạnh của Aphrodite bằng phép 'Charm'. Cuối cùng, Frondier công khai tuyên bố mình là Vua Quỷ trước sự chứng kiến của mọi người, khiến Charon và Antero quỳ lạy ông.",
+ "boi_canh": "Trong quảng trường, giữa các vị thần và con người.",
+ "nhan_vat": [
+  "Frondier",
+  "Athena",
+  "Lily",
+  "Baal",
+  "Antero",
+  "Aphrodite",
+  "Selena",
+  "Sybil",
+  "Ria Lis",
+  "Charon",
+  "Pururpur",
+  "Bune"
+ ],
+ "su_kien": [
+  "Athena bối rối khi Frondier đá Aphrodite.",
+  "Frondier yêu cầu Lily sử dụng phép 'Charm' lên ông sau khi Aphrodite dùng sức mạnh tình yêu.",
+  "Frondier tuyên bố mình là Vua Quỷ trước mặt mọi người.",
+  "Charon và Antero quỳ lạy Frondier.",
+  "Frondier giao nhiệm vụ cho Pururpur thông báo với Baal."
+ ],
+ "quan_he": [
+  {
+   "a": "Athena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Athena bối rối và phản đối hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Lily thực hiện theo yêu cầu của Frondier và bày tỏ sự lo lắng.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier giao nhiệm vụ cho Lily và trấn an cô ấy.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Aphrodite",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Aphrodite tức giận và bối rối khi sức mạnh của mình không tác dụng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aphrodite",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier khiêu khích Aphrodite.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Antero",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Antero quỳ lạy Frondier.",
+   "cach_goi": "gọi 'My king', lễ phép"
+  },
+  {
+   "a": "Charon",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Charon quỳ lạy Frondier.",
+   "cach_goi": "gọi 'My king', lễ phép"
+  },
+  {
+   "a": "Pururpur",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Pururpur báo cáo cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bune",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Bune báo cáo cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của nhân vật chính)",
+  "Ria Lis (có thể là Lilith)"
+ ],
+ "stats": {
+  "tokens": 1041,
+  "seconds": 31.4
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "number": 830,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi giải thoát ba quỷ dữ bằng sợi dây đen, Frondier tiếp tục hành trình đến thủ đô Palma cùng đồng đội. Trên đường đi, họ quan sát thấy một bức tượng khổng lồ và nhận ra sự tương đồng giữa tình hình tranh chấp sắc đẹp tại thủ đô với truyền thuyết Paris và Quả Táo Vàng. Frondier lo ngại về những xung đột tiềm ẩn và yêu cầu các thành viên trong nhóm che mặt khi ra ngoài.",
+ "boi_canh": "Trên đường đến thủ đô Palma.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Baal",
+  "Arald",
+  "Antero",
+  "Athena",
+  "Astaroth",
+  "Hera"
+ ],
+ "su_kien": [
+  "Frondier giải thoát ba quỷ dữ bằng sợi dây đen.",
+  "Nhóm quan sát thấy một bức tượng khổng lồ tại thủ đô Palma.",
+  "Carla giải thích về ý nghĩa của bức tượng và cuộc tranh tài sắc đẹp.",
+  "Frondier nhận ra sự tương đồng giữa tình hình hiện tại và truyền thuyết Paris và Quả Táo Vàng.",
+  "Frondier yêu cầu Elodie, Carla, Lily và Selena che mặt khi ra ngoài."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, đi cùng nhau trong hành trình.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đi cùng nhau trong hành trình.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Đi cùng nhau trong hành trình.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Đi cùng nhau trong hành trình.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng hành, Frondier tôn trọng Carla.",
+   "cach_goi": "gọi 'Principal', lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, đi cùng nhau trong hành trình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đi cùng nhau trong hành trình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đi cùng nhau trong hành trình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đi cùng nhau trong hành trình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng hành, Carla quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1061,
+  "seconds": 31.8
+ }
+}

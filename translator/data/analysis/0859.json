@@ -1,0 +1,95 @@
+{
+ "number": 859,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đến thủ đô, Frondier và những người bạn đã gặp gỡ để thảo luận về tình hình sắp tới. Họ nhận ra rằng cuộc bỏ phiếu sẽ được xử lý bằng magitech, điều này gây lo ngại cho họ vì khả năng bị thao túng. Gregory xuất hiện bất ngờ, tiết lộ thông tin về 'Nine' và sự liên quan của Colin với tổ chức này. Cuộc trò chuyện xoay quanh những suy đoán về Aphrodite và những động thái có thể xảy ra trong tương lai.",
+ "boi_canh": "Thủ đô, trước thềm cuộc bỏ phiếu.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Carla",
+  "Arald",
+  "Gregory",
+  "Hera",
+  "Colin",
+  "Poseidon",
+  "Bruna",
+  "Lupina",
+  "Charon"
+ ],
+ "su_kien": [
+  "Frondier đến thủ đô và gặp gỡ Lily, Arald và Selena.",
+  "Họ thảo luận về việc sử dụng magitech để xử lý bỏ phiếu.",
+  "Gregory bất ngờ xuất hiện và tiết lộ thông tin về 'Nine'.",
+  "Những người bạn suy đoán về động cơ của Aphrodite và những tác động có thể xảy ra.",
+  "Frondier tuyên bố sẽ đối phó với Charon."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, tin tưởng lẫn nhau.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, cùng nhau đối mặt với nguy hiểm.",
+   "cach_goi": "gọi tên Arald, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Selena có phần nghi ngờ Frondier.",
+   "cach_goi": "gọi tên Selena, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, có chút ngại ngùng sau sự kiện trước đó.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Gregory cung cấp thông tin tình báo.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Gregory",
+   "loai": "doi_thu",
+   "mo_ta": "Selena không tin tưởng Gregory.",
+   "cach_goi": "gọi tên Gregory, lạnh lùng"
+  },
+  {
+   "a": "Lily",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, cùng nhau lo lắng về tình hình.",
+   "cach_goi": "gọi tên Arald, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Selena kính trọng Frondier.",
+   "cach_goi": "gọi 'Lord Frondier', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Colin: Thành viên của tổ chức 'Nine'.",
+  "Gregory: Xuất hiện dưới hình dạng quạ trước đây."
+ ],
+ "stats": {
+  "tokens": 963,
+  "seconds": 29.0
+ }
+}

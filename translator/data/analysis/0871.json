@@ -1,0 +1,109 @@
+{
+ "number": 871,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Aster nói những lời đó, hai vị thần đã rút vũ khí ra để tấn công hắn. Aster sử dụng kỹ thuật 'One Flash' để chặn đòn tấn công và né tránh. Hắn sau đó tiếp tục di chuyển, thu hút sự chú ý của các vị thần khác. Một thông điệp từ một con quạ tiết lộ rằng Vua Quỷ đã can thiệp để bảo vệ 72 Ma Vương, báo hiệu một cuộc chiến tranh giữa các vị thần và ma quỷ sắp xảy ra. Aster sau đó đối mặt với Frondier, sẵn sàng cho trận chiến tiếp theo.",
+ "boi_canh": "Trong xưởng chế tạo, ngay trước khi bắt đầu một cuộc chiến lớn.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Sybil",
+  "Baal",
+  "Gregory",
+  "Ludovic",
+  "Athena",
+  "Zeus",
+  "Aster Evans",
+  "Poseidon",
+  "Hermes",
+  "Apollo"
+ ],
+ "su_kien": [
+  "Hai vị thần rút vũ khí tấn công Aster.",
+  "Aster sử dụng 'One Flash' để chặn đòn tấn công và né tránh.",
+  "Thông điệp từ con quạ tiết lộ sự can thiệp của Vua Quỷ.",
+  "Aster đối mặt với Frondier, chuẩn bị cho trận chiến tiếp theo.",
+  "Các vị thần chuẩn bị tấn công Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Ludovic",
+   "loai": "doi_thu",
+   "mo_ta": "Aster né tránh các đòn tấn công của Ludovic.",
+   "cach_goi": "gọi tên Ludovic, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Ludovic quan sát và phân tích kỹ thuật của Aster.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Frondier lo lắng và quan sát Aster.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Elodie lo lắng cho Frondier và bày tỏ sự nghi ngờ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Selena lo lắng cho sự an toàn của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Sybil bày tỏ sự lo lắng và thắc mắc về tình hình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Poseidon",
+   "loai": "nguoi_la",
+   "mo_ta": "Aster yêu cầu Poseidon cho phép mình đi qua.",
+   "cach_goi": "gọi 'Great Poseidon', lễ phép"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Poseidon quan sát Aster với sự nghi ngờ.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Hermes",
+   "loai": "doi_thu",
+   "mo_ta": "Aster đối mặt với sự thù địch của Hermes.",
+   "cach_goi": "gọi tên Hermes, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Athena",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đang cố gắng thao túng Athena.",
+   "cach_goi": "gọi tên Athena, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster."
+ ],
+ "stats": {
+  "tokens": 1143,
+  "seconds": 34.5
+ }
+}

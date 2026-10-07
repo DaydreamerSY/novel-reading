@@ -1,0 +1,86 @@
+{
+ "number": 933,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier biến thành mana và di chuyển qua Yggdrasil, anh ta đến được Cõi Ma Quỷ. Anh ta gặp Selena và Belphegor ở đó, cùng với người kế nhiệm của Belphegor là Astaroth. Một trận chiến giữa Belphegor và quân đội do Astaroth chỉ huy bắt đầu, trong đó những kẻ tấn công là những con quỷ trước đây từng là thuộc hạ của Belphegor.",
+ "boi_canh": "Frondier đến Cõi Ma Quỷ cùng Selena và Belphegor.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Astaroth",
+  "Belphegor",
+  "Harald"
+ ],
+ "su_kien": [
+  "Frondier biến thành mana và di chuyển qua Yggdrasil.",
+  "Frondier đến Cõi Ma Quỷ.",
+  "Selena xuất hiện từ bóng tối.",
+  "Belphegor và Frondier gặp Astaroth.",
+  "Một trận chiến giữa Belphegor và quân đội của Astaroth bắt đầu."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, quan tâm lẫn nhau",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "người dẫn đường, Frondier tôn trọng và tin tưởng Belphegor",
+   "cach_goi": "gọi tên Belphegor, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "người dẫn đường, Belphegor thúc giục Frondier đi tiếp",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, Selena đi cùng Frondier",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Belphegor",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena không tương tác trực tiếp với Belphegor",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "người dẫn đường, Belphegor thúc giục Frondier đi tiếp",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Astaroth",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Belphegor và Astaroth đối đầu nhau",
+   "cach_goi": "gọi tên Astaroth, lạnh lùng"
+  },
+  {
+   "a": "Astaroth",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Astaroth chế nhạo Belphegor",
+   "cach_goi": "gọi tên Belphegor, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Astaroth: người kế nhiệm của Belphegor trong vai trò Sloth."
+ ],
+ "stats": {
+  "tokens": 922,
+  "seconds": 27.8
+ }
+}

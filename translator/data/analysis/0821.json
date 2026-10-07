@@ -1,0 +1,107 @@
+{
+ "number": 821,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Basileo thể hiện khả năng sử dụng phép 'Hellfire' mạnh mẽ, gây ấn tượng với Elodie. Cuộc trò chuyện giữa họ xoay quanh nguồn gốc và cách thức hoạt động của phép thuật, cũng như những hạn chế của nó. Sau đó, sự hiểu lầm về mối quan hệ giữa Frondier và Elodie nảy sinh, dẫn đến một cuộc tranh luận hài hước. Cuối cùng, Frondier quyết định đưa Basileo đi cùng, bất chấp sự phản đối ban đầu, với lý do là để thúc đẩy sự trưởng thành của cậu.",
+ "boi_canh": "Trong phòng luyện phép thuật, buổi chiều.",
+ "nhan_vat": [
+  "Basileo",
+  "Elodie",
+  "Lily",
+  "Pielott",
+  "Aias",
+  "Frondier",
+  "Fron"
+ ],
+ "su_kien": [
+  "Basileo sử dụng phép 'Hellfire'.",
+  "Cuộc tranh luận về nguồn gốc và cách thức hoạt động của phép thuật.",
+  "Sự hiểu lầm về mối quan hệ giữa Frondier và Elodie.",
+  "Frondier quyết định đưa Basileo đi cùng.",
+  "Aias quan sát nhóm từ xa."
+ ],
+ "quan_he": [
+  {
+   "a": "Basileo",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Basileo ngưỡng mộ khả năng phép thuật của Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Basileo",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Elodie quan tâm và có phần lo lắng cho Basileo.",
+   "cach_goi": "gọi tên Basileo, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò, Frondier là người hướng dẫn phép thuật cho Basileo.",
+   "cach_goi": "gọi tên Basileo, thân mật"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò, Basileo có phần bực bội với cách hành xử của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, có sự hiểu lầm về mối quan hệ của cả hai.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, có sự hiểu lầm về mối quan hệ của cả hai.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Elodie",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Lily có sự quan ngại về quyết định của Elodie.",
+   "cach_goi": "gọi tên Elodie, lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Lily",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Elodie lắng nghe ý kiến của Lily.",
+   "cach_goi": "gọi tên Lily, lễ phép"
+  },
+  {
+   "a": "Aias",
+   "b": "Basileo",
+   "loai": "khac",
+   "mo_ta": "Quan sát từ xa, Aias có sự ganh tị với Basileo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aias",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Quan sát từ xa, Aias có sự ngưỡng mộ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aias",
+   "b": "Elodie",
+   "loai": "khac",
+   "mo_ta": "Quan sát từ xa, Aias có sự ngưỡng mộ Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1182,
+  "seconds": 35.6
+ }
+}

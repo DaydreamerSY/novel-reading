@@ -1,0 +1,79 @@
+{
+ "number": 789,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một người đàn ông tự xưng là Antero xuất hiện trước Carla và Frondier, tỏ ra nghi ngờ và dò hỏi về mối quan hệ của họ. Cuộc đối thoại căng thẳng giữa Carla và Antero xoay quanh việc giữ lời hứa và sự can thiệp vào hoạt động của Carla. Sau đó, Athena đột ngột xuất hiện trong Pandemonium của Frondier, trải qua một cơn đau đầu dữ dội do ma thuật của Frondier gây ra, và đưa ra những gợi ý mơ hồ về tương lai liên quan đến Poseidon.",
+ "boi_canh": "Trong một khu vực không xác định, có lẽ là Atlas, giữa Carla, Antero và sau đó là trong Pandemonium của Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Carla",
+  "Baal",
+  "Marco",
+  "Antero",
+  "Athena",
+  "Medusa"
+ ],
+ "su_kien": [
+  "Antero xuất hiện và nghi ngờ về mối quan hệ giữa Carla và Frondier.",
+  "Carla cố gắng đánh lạc hướng Antero bằng cách hỏi những câu hỏi mang tính khiêu khích.",
+  "Athena đột ngột xuất hiện trong Pandemonium của Frondier và trải qua cơn đau đầu dữ dội.",
+  "Athena đưa ra gợi ý mơ hồ về việc Frondier sẽ đối mặt với Poseidon.",
+  "Frondier trả lời lại Athena bằng một câu nói mỉa mai."
+ ],
+ "quan_he": [
+  {
+   "a": "Carla",
+   "b": "Antero",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ căng thẳng, đối đầu trực tiếp.",
+   "cach_goi": "gọi tên Antero, lạnh lùng"
+  },
+  {
+   "a": "Antero",
+   "b": "Carla",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ căng thẳng, đối đầu trực tiếp.",
+   "cach_goi": "gọi tên Carla, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Bảo vệ Carla, mối quan hệ không rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Bảo vệ Frondier, mối quan hệ không rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Antero",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Nghi ngờ và quan tâm đến Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Athena",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Athena là một vị thần và đang cố gắng tìm hiểu về Frondier.",
+   "cach_goi": "gọi tên Frondier, không thân thiện"
+  },
+  {
+   "a": "Frondier",
+   "b": "Athena",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier đang cố gắng giải thích ma thuật của mình cho Athena.",
+   "cach_goi": "gọi tên Athena, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 898,
+  "seconds": 27.0
+ }
+}

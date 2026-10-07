@@ -1,0 +1,65 @@
+{
+ "number": 786,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp Athena trong một khu rừng kỳ lạ, nơi mà sự hiện diện của cô ta khiến Frondier cảm thấy đáng ngại hơn cả địa ngục giả tạo do Baal tạo ra. Sau khi trao đổi vài câu, Frondier cố gắng tiếp cận Athena bằng cách thể hiện sức mạnh và kiến thức của mình, đồng thời tìm cách để có được thông tin về Carla. Cuối cùng, Frondier sử dụng khả năng xóa bỏ thế giới giả tạo của mình để khiến Athena suy tư, buộc cô ta phải ngồi xuống và dường như sẵn sàng đối thoại.",
+ "boi_canh": "Một khu rừng kỳ lạ, ban đêm.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Carla",
+  "Baal",
+  "Athena",
+  "Odin",
+  "Artemis"
+ ],
+ "su_kien": [
+  "Frondier gặp Athena trong một khu rừng kỳ lạ.",
+  "Athena tỏ ra ngạc nhiên khi Frondier không sử dụng kính ngữ với cô.",
+  "Frondier tấn công bằng khả năng 'Contemplation' và gây vết thương cho Athena.",
+  "Athena sử dụng khả năng tạo bóng tối để tấn công Frondier.",
+  "Frondier xóa bỏ một phần thế giới xung quanh, khiến Athena suy tư."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Athena",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu, Frondier cố gắng phá vỡ sự phòng bị của Athena.",
+   "cach_goi": "gọi tên 'Athena', lạnh lùng"
+  },
+  {
+   "a": "Athena",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Athena nghi ngờ và thách thức Frondier.",
+   "cach_goi": "gọi tên 'Frondier', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier có ý định sử dụng Carla, Athena đang bảo vệ Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Athena",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người có vẻ là đối thủ của nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người đã từng chiến đấu với nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 702,
+  "seconds": 21.1
+ }
+}

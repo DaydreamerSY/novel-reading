@@ -1,0 +1,76 @@
+{
+ "number": 625,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Philly có cuộc trò chuyện tại phòng tiếp khách quen thuộc, cùng với sự hiện diện của Elysia. Cuộc trò chuyện xoay quanh việc Frondier thuê người hầu và thời gian phục vụ dưới quyền Lady Ria Lis. Cuối cùng, Frondier quyết định tiết lộ một bí mật quan trọng cho Philly: anh đang sử dụng quỷ để làm tay sai, một thông tin mà anh biết sẽ gây khó khăn nhưng cần thiết cho vận mệnh của đế quốc.",
+ "boi_canh": "Phòng tiếp khách trong cung điện hoàng gia, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Elysia",
+  "Lily",
+  "Bartello",
+  "Sale",
+  "Ria Lis",
+  "Lis"
+ ],
+ "su_kien": [
+  "Frondier và Philly trò chuyện về việc Frondier thuê người hầu.",
+  "Philly hỏi về thời gian Frondier phục vụ dưới quyền Lady Ria Lis.",
+  "Frondier tiết lộ anh đã nhận được nhiều 'lời mời' khi làm kỵ sĩ của Ria Lis.",
+  "Elysia ngạc nhiên khi thấy Frondier gọi Philly bằng tên thân mật.",
+  "Frondier xin lời khuyên từ Philly và tiết lộ anh đang sử dụng quỷ để làm tay sai."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu hỏi han và quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier trả lời và đôi khi có vẻ bối rối trước sự quan tâm của Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ con, nhưng có vẻ xa cách.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em, nhưng không tương tác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Ria Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "Philly tò mò về Lady Ria Lis.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ria Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier từng là kỵ sĩ của Ria Lis.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Lady Zodiac Ria Lis: Người mà Frondier từng làm kỵ sĩ, thực chất là một quỷ."
+ ],
+ "stats": {
+  "tokens": 817,
+  "seconds": 24.5
+ }
+}

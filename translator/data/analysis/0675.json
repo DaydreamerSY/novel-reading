@@ -1,0 +1,80 @@
+{
+ "number": 675,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Baal thua cuộc, Marco nhận ra tầm quan trọng thực sự của việc đánh bại một đối thủ mạnh mẽ. Anh ta giải thích rằng thứ hạng trong số 72 Ác quỷ không có ý nghĩa gì ngoài việc chỉ là một trật tự ngẫu nhiên. Marco khẳng định Baal là Ác quỷ mạnh nhất, điều này khiến Frondier nghi ngờ về sức mạnh của những Ác quỷ khác. Cuối cùng, Marco tuyên bố rằng Baal không thể được đánh thức vì linh hồn của hắn đã bị trục xuất khỏi thế giới vật chất. Frondier, với một nụ cười bí hiểm, quyết định sử dụng sức mạnh Ác quỷ để thu hồi linh hồn của Baal, bất chấp những cảnh báo từ Marco về sự nguy hiểm và tính bất khả thi của việc này.",
+ "boi_canh": "Một trận chiến giữa các Ác quỷ diễn ra tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Baal",
+  "Marco",
+  "Beelzebub",
+  "Solomon",
+  "Asmodeus"
+ ],
+ "su_kien": [
+  "Marco nhận ra tầm quan trọng của việc đánh bại Baal.",
+  "Marco giải thích về thứ hạng vô nghĩa của 72 Ác quỷ.",
+  "Marco khẳng định Baal là Ác quỷ mạnh nhất.",
+  "Marco tuyên bố rằng Baal không thể được đánh thức.",
+  "Frondier quyết định thu hồi linh hồn của Baal."
+ ],
+ "quan_he": [
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Marco cảnh báo và ngăn cản hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier chất vấn và khiêu khích Marco.",
+   "cach_goi": "gọi tên Marco, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier quan sát và có ý định lợi dụng Baal.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Marco đã đánh bại và coi Baal là kẻ thua cuộc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Hai người cùng chiến đấu và có liên quan đến tình hình chung.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Asmodeus",
+   "loai": "khac",
+   "mo_ta": "Frondier suy đoán về sức mạnh của Asmodeus dựa trên việc Baal bị coi là mạnh nhất.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Beelzebub",
+   "loai": "khac",
+   "mo_ta": "Frondier suy đoán về sức mạnh của Beelzebub dựa trên việc Baal bị coi là mạnh nhất.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 910,
+  "seconds": 28.4
+ }
+}

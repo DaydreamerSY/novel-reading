@@ -1,0 +1,102 @@
+{
+ "number": 912,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cuộc gặp gỡ giữa Frondier và Fenrir bị trói buộc. Frondier nhận ra sự khác biệt trong cách nhìn nhận của Selena về Fenrir, cho thấy rằng việc bị trói buộc không đủ để xoa dịu nỗi sợ hãi của cô. Sau đó, Frondier đối mặt với Fenrir, khám phá ra những mối liên hệ bất ngờ giữa Fenrir và Belphegor, cũng như sự thật về quá khứ của Nidhogg. Cuối cùng, Frondier sử dụng một chiến thuật bất ngờ để thu hút sự chú ý của Fenrir và có được cơ hội đặt câu hỏi.",
+ "boi_canh": "Trong hang động tối tăm, nơi Fenrir bị trói buộc.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Renzo",
+  "Belphegor",
+  "Fenrir",
+  "Nidhogg",
+  "Enfer"
+ ],
+ "su_kien": [
+  "Frondier nhận ra Fenrir bị trói.",
+  "Frondier đối mặt với Fenrir và bị đẩy lùi bởi aura của hắn.",
+  "Belphegor tiết lộ thông tin về mối quan hệ giữa Fenrir và Nidhogg.",
+  "Frondier sử dụng 'Jeong' để tấn công Fenrir.",
+  "Fenrir đồng ý trả lời câu hỏi của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier an ủi và bảo vệ Selena khỏi sự sợ hãi.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena lo lắng và bám víu vào Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ban_be",
+   "mo_ta": "Hai người đồng hành cùng nhau và trao đổi thông tin.",
+   "cach_goi": "gọi tên Belphegor, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người đồng hành cùng nhau và trao đổi thông tin.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Fenrir",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier cố gắng phá vỡ sự phòng bị của Fenrir.",
+   "cach_goi": "gọi tên Fenrir, lạnh lùng"
+  },
+  {
+   "a": "Fenrir",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Quan sát và đánh giá Frondier, thể hiện sự khinh miệt.",
+   "cach_goi": "gọi 'human', lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Fenrir",
+   "loai": "ke_thu",
+   "mo_ta": "Hai người có mối quan hệ phức tạp trong quá khứ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Fenrir",
+   "b": "Belphegor",
+   "loai": "ke_thu",
+   "mo_ta": "Hai người có mối quan hệ phức tạp trong quá khứ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Belphegor",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Black Thread: Có vẻ là một loại trói buộc, tương tự như Gleipnir trong thần thoại."
+ ],
+ "stats": {
+  "tokens": 1132,
+  "seconds": 34.0
+ }
+}

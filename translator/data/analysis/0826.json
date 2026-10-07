@@ -1,0 +1,125 @@
+{
+ "number": 826,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào Eriboia, người đang lo lắng về sự thay đổi đột ngột trong hành vi của Carla và nghi ngờ Frondier có liên quan đến điều đó. Đồng thời, bà cũng quan sát những thay đổi ở con trai mình, Aias, và mối quan hệ của cậu với Pielott. Cuối cùng, Eriboia quyết định cả gia đình sẽ đi du lịch đến thủ đô, dường như là để theo dõi Frondier và Pielott.",
+ "boi_canh": "Phòng khách trong dinh thự của nhà Achaea, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Arald",
+  "Antero",
+  "Basileo",
+  "Aias",
+  "Mother (Eriboia)",
+  "Hera",
+  "R"
+ ],
+ "su_kien": [
+  "Eriboia lo lắng về sự thay đổi hành vi của Carla.",
+  "Eriboia nghi ngờ Frondier có liên quan đến những thay đổi đó.",
+  "Aias thể hiện sự thay đổi trong cách cư xử và suy nghĩ.",
+  "Eriboia quan tâm đến mối quan hệ giữa Aias và Pielott.",
+  "Eriboia quyết định cả gia đình sẽ đi du lịch đến thủ đô."
+ ],
+ "quan_he": [
+  {
+   "a": "Eriboia",
+   "b": "Carla",
+   "loai": "doi_thu",
+   "mo_ta": "Eriboia nghi ngờ Carla là demon và đang theo dõi cô.",
+   "cach_goi": "gọi tên Carla, lạnh lùng"
+  },
+  {
+   "a": "Carla",
+   "b": "Eriboia",
+   "loai": "doi_thu",
+   "mo_ta": "Carla bị Eriboia theo dõi và nghi ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eriboia",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Eriboia nghi ngờ Frondier có liên quan đến những thay đổi của Carla.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eriboia",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier là đối tượng nghi ngờ của Eriboia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aias",
+   "b": "Eriboia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ mẹ con, Eriboia quan sát sự thay đổi của Aias.",
+   "cach_goi": "gọi 'Mother', lễ phép"
+  },
+  {
+   "a": "Eriboia",
+   "b": "Aias",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ mẹ con, Eriboia lo lắng cho Aias.",
+   "cach_goi": "gọi tên Aias, thân mật"
+  },
+  {
+   "a": "Aias",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Có vẻ như Aias và Pielott có mối quan hệ đặc biệt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Aias",
+   "loai": "ban_be",
+   "mo_ta": "Có vẻ như Aias và Pielott có mối quan hệ đặc biệt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eriboia",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Eriboia quan tâm đến mối quan hệ giữa Aias và Pielott.",
+   "cach_goi": "gọi tên Pielott, tò mò"
+  },
+  {
+   "a": "Pielott",
+   "b": "Eriboia",
+   "loai": "nguoi_la",
+   "mo_ta": "Eriboia quan tâm đến mối quan hệ giữa Aias và Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là thầy của Arald.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là cấp trên của Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Carla là cấp dưới của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1359,
+  "seconds": 40.8
+ }
+}

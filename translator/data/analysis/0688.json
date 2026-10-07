@@ -1,0 +1,82 @@
+{
+ "number": 688,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tin tức về quỷ dữ lan truyền khắp đế quốc, Nữ hoàng Philly triệu tập Ednet để thẩm vấn về những lo ngại liên quan đến Frondier và Elysia. Elysia được vinh danh vì đã thu hút lũ quỷ bằng một rune, chấm dứt chiến tranh. Tuy nhiên, Nữ hoàng Philly nghi ngờ vai trò của Frondier trong thành tích này và cảnh cáo Ednet về việc theo dõi bà. Cuối cùng, Elysia xuất hiện và ôm Nữ hoàng Philly, bộc lộ cảm xúc sâu sắc ẩn giấu đằng sau vẻ ngoài lạnh lùng.",
+ "boi_canh": "Trong phòng làm việc của Nữ hoàng Philly tại Hoàng cung, vào một buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Elysia",
+  "Ria Lis",
+  "Mom",
+  "Shadow",
+  "Lis",
+  "Ednet"
+ ],
+ "su_kien": [
+  "Tin tức về quỷ dữ lan truyền khắp đế quốc.",
+  "Nữ hoàng Philly triệu tập Ednet để thẩm vấn.",
+  "Elysia được vinh danh vì đã thu hút lũ quỷ bằng rune.",
+  "Nữ hoàng Philly nghi ngờ vai trò của Frondier trong thành tích của Elysia.",
+  "Elysia xuất hiện và ôm Nữ hoàng Philly."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Ednet",
+   "loai": "cap_tren",
+   "mo_ta": "Nữ hoàng Philly là cấp trên của Ednet, ra lệnh và cảnh cáo ông.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Ednet",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Ednet là thuộc hạ của Nữ hoàng Philly, báo cáo và tuân lệnh bà.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Nữ hoàng Philly là mẹ của Elysia, thể hiện tình cảm ấm áp.",
+   "cach_goi": "gọi 'con gái', thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Elysia là con gái của Nữ hoàng Philly, thể hiện sự tôn trọng và bối rối.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Nữ hoàng Philly suy đoán về vai trò của Frondier, nhưng không giao tiếp trực tiếp với anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier có vẻ như là người hướng dẫn hoặc bảo vệ Elysia, nhưng không giao tiếp trực tiếp với cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ednet",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Ednet là thuộc hạ của Nữ hoàng Philly, báo cáo và tuân lệnh bà.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Elysia Terst: Công chúa Elysia được biết đến với tên đầy đủ là Elysia Terst."
+ ],
+ "stats": {
+  "tokens": 944,
+  "seconds": 28.4
+ }
+}

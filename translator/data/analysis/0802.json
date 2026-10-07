@@ -1,0 +1,70 @@
+{
+ "number": 802,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tìm kiếm Heracles dựa trên thông tin cuối cùng Zenita cung cấp. Sau khi thất bại trong việc tìm thấy Heracles, Frondier sử dụng phép thuật để dụ dỗ anh ta ra hiện thân. Cuối cùng, Frondier chạm trán với Heracles và bắt đầu một cuộc đối thoại căng thẳng, dẫn đến một trận chiến ngắn.",
+ "boi_canh": "Một khu rừng hẻo lánh ở Agoris, vài tháng sau khi kết thúc Machia.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Pielott",
+  "Pascal",
+  "Zenita",
+  "Artemis",
+  "Mother",
+  "Hera",
+  "Heracles"
+ ],
+ "su_kien": [
+  "Frondier tìm kiếm Heracles dựa trên thông tin của Zenita.",
+  "Frondier sử dụng phép thuật 'Weaving, Black Thread' để tạo ra một mũi tên và bắn lên trời nhằm dụ Heracles.",
+  "Frondier chạm trán với Heracles trong rừng.",
+  "Heracles tấn công Frondier bằng aura.",
+  "Frondier sử dụng phép thuật 'Menosorpo' gây bất ngờ cho Heracles."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Zenita",
+   "loai": "ban_be",
+   "mo_ta": "Nhận thông tin về Heracles từ Zenita.",
+   "cach_goi": "gọi tên Zenita, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heracles",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ lần đầu tiên, Frondier muốn xác minh thông tin về Heracles.",
+   "cach_goi": "gọi tên Heracles, không rõ"
+  },
+  {
+   "a": "Heracles",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Xem Frondier là một kẻ impertinent và tấn công anh ta.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Artemis",
+   "loai": "thay_tro",
+   "mo_ta": "Sử dụng phép thuật của Artemis.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mother",
+   "loai": "gia_dinh",
+   "mo_ta": "Tuân theo mệnh lệnh của Mother.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Heracles: Được biết đến với danh hiệu 'Thần'",
+  "Artemis's bow and arrow: Mũi tên được Frondier mạo danh là của Artemis."
+ ],
+ "stats": {
+  "tokens": 737,
+  "seconds": 22.2
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "number": 907,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Belphegor lặp lại câu thần chú để Frondier đến Yggdrasil, anh ta tiết lộ rằng mình đã chờ đợi Frondier. Belphegor đề nghị một giao kèo với Frondier, nhưng Satan phản đối, cho rằng hành động này đi ngược lại ý chí của các vị thần và quỷ dữ. Cuối cùng, Frondier chấp nhận giao kèo bằng cách sử dụng Golden Apple làm phương tiện, biến đổi bản thân thành một con quỷ.",
+ "boi_canh": "Trong Yggdrasil, tại thời điểm Frondier đối mặt với Belphegor và Satan.",
+ "nhan_vat": [
+  "Frondier",
+  "Belphegor",
+  "Satan",
+  "Azier",
+  "Nidhogg"
+ ],
+ "su_kien": [
+  "Belphegor tiết lộ đã chờ đợi Frondier đến Yggdrasil.",
+  "Belphegor đề nghị một giao kèo với Frondier.",
+  "Satan phản đối giao kèo, cho rằng nó đi ngược lại ý chí của các vị thần và quỷ dữ.",
+  "Frondier sử dụng Golden Apple làm phương tiện để thực hiện giao kèo.",
+  "Frondier biến đổi thành một con quỷ sau khi nuốt chửng Golden Apple."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Địch thủ cũ, hiện tại là người đề nghị giao kèo.",
+   "cach_goi": "gọi tên Belphegor, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù cũ, hiện tại là người đề nghị giao kèo.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Satan",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người có địa vị cao hơn, phản đối hành động của Belphegor.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Satan",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, người phản đối hành động của Belphegor.",
+   "cach_goi": "gọi tên Satan, lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Người có địa vị cao hơn, tranh cãi với Satan.",
+   "cach_goi": "gọi tên Satan, thô lỗ"
+  },
+  {
+   "a": "Satan",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Người có địa vị cao hơn, tranh cãi với Belphegor.",
+   "cach_goi": "gọi tên Belphegor, lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Azier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Belphegor đề cập đến Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Nidhogg",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Belphegor nhắc đến Nidhogg.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của Frondier)"
+ ],
+ "stats": {
+  "tokens": 975,
+  "seconds": 29.4
+ }
+}

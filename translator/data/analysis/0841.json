@@ -1,0 +1,106 @@
+{
+ "number": 841,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối mặt với Ortos, một quái vật hai đầu hung dữ. Ortos thể hiện khả năng tự hủy bỏ các bộ phận cơ thể để tấn công và di chuyển nhanh hơn. Cuối cùng, Frondier đã giết được Ortos bằng cách sử dụng Mjölnir kết hợp phép thuật Black Lightning. Sau trận chiến, Gregory báo cáo tình hình cho Frondier, tiết lộ rằng Baal đang lợi dụng cuộc chiến này để lôi kéo Satan trở lại từ Agoris.",
+ "boi_canh": "Một khu vực hoang vắng, nơi diễn ra một trận chiến giữa Frondier và quái vật Ortos.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Lily",
+  "Pielott",
+  "Dier",
+  "Baal",
+  "Marco",
+  "Arald",
+  "Gregory",
+  "Astaroth",
+  "Ortos"
+ ],
+ "su_kien": [
+  "Ortos tự hủy bỏ một đầu để tăng tốc độ.",
+  "Frondier sử dụng Mjölnir để tấn công Ortos, gây ra một trận động đất nhỏ.",
+  "Ortos sử dụng Aura để tấn công Frondier với tốc độ cao.",
+  "Frondier tạo ra Black Lightning kết hợp với Mjölnir để tiêu diệt Ortos.",
+  "Gregory báo cáo về kế hoạch của Baal nhằm lôi kéo Satan."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ortos",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Ortos, không có cảm xúc"
+  },
+  {
+   "a": "Ortos",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Tấn công và cố gắng tiêu diệt Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng hành và lắng nghe Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hỏi và lắng nghe Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Đồng hành và lắng nghe Frondier.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đóng góp ý kiến và lắng nghe Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "Đồng hành và lắng nghe Frondier.",
+   "cach_goi": "gọi tên Arald, thân mật"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đóng góp ý kiến và lắng nghe Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "cap_tren",
+   "mo_ta": "Nhận báo cáo tình hình từ Gregory.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Báo cáo tình hình cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Ortos: Có biệt danh là Orthros, nghĩa là 'nhanh'."
+ ],
+ "stats": {
+  "tokens": 1110,
+  "seconds": 33.3
+ }
+}

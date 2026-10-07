@@ -1,0 +1,101 @@
+{
+ "number": 828,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, đoàn xe của Frondier di chuyển trên một vùng đồng bằng rộng lớn. Pielott phát hiện ra sự xuất hiện của ba con quỷ và thông báo cho mọi người. Sau đó, Frondier đã liên hệ với Elodie để nhờ Basileo xử lý lũ quỷ, hứa hẹn phần thưởng hấp dẫn nếu anh ta bắt chúng sống sót. Cuối cùng, Frondier khám phá ra rằng lũ quỷ này không phải xuất hiện ngẫu nhiên mà có mục đích cụ thể: tìm kiếm Frondier.",
+ "boi_canh": "Đoàn xe di chuyển trên một vùng đồng bằng rộng lớn ở lục địa Falind.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Pielott",
+  "Arald",
+  "Basileo",
+  "Pros"
+ ],
+ "su_kien": [
+  "Pielott phát hiện và thông báo về sự xuất hiện của ba con quỷ.",
+  "Frondier yêu cầu Basileo bắt giữ lũ quỷ sống sót để đổi lấy phần thưởng.",
+  "Basileo thất bại trong việc sử dụng phép thuật Reservation ban đầu.",
+  "Elodie sử dụng phép Chain Lightning để tiêu diệt lũ quỷ.",
+  "Frondier khám phá ra rằng lũ quỷ đến tìm anh ta với một mục đích cụ thể."
+ ],
+ "quan_he": [
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò báo cáo tình hình cho sư phụ.",
+   "cach_goi": "gọi 'Senior Frondier', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Sư phụ lắng nghe báo cáo của học trò.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè trao đổi thông tin qua điện thoại.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè trao đổi thông tin qua điện thoại.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "cap_tren",
+   "mo_ta": "Người lái xe trả lời câu hỏi của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người lái xe trả lời câu hỏi của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Basileo",
+   "b": "Elodie",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội cố gắng thực hiện nhiệm vụ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Basileo",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội cố gắng thực hiện nhiệm vụ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Basileo",
+   "b": "Elodie",
+   "loai": "dong_minh",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1065,
+  "seconds": 31.8
+ }
+}

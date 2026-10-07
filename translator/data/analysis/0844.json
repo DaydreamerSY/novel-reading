@@ -1,0 +1,93 @@
+{
+ "number": 844,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trấn an Elodie về khả năng giết chết quỷ, Frondier chứng kiến Antero sụp đổ dưới sức mạnh của một con quỷ. Sự việc này khiến Elodie giật mình và Baal nhận ra sự khác biệt giữa hành động của Frondier và kế hoạch ban đầu. Frondier trừng phạt Baal vì thông tin sai lệch và buộc anh ta phải khai báo về mối liên hệ với Charon, người đã cung cấp thông tin cho Satan. Cuối cùng, Baal tiết lộ rằng hắn đã thỏa hiệp với Charon để đổi lấy việc được trở lại thế giới quỷ, nhưng sự thật còn phức tạp hơn khi một vị thần, Vishnu, chiếm giữ cơ thể Elodie và tiết lộ kế hoạch chiến tranh của các vị thần sử dụng con người mang sức mạnh thần thánh.",
+ "boi_canh": "Trong phòng thẩm vấn, đêm tối.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Pielott",
+  "Carla",
+  "Baal",
+  "Mei",
+  "Antero",
+  "Athena",
+  "Ria Lis",
+  "Medusa",
+  "Lis",
+  "Vishnu"
+ ],
+ "su_kien": [
+  "Antero sụp đổ dưới sức mạnh của con quỷ.",
+  "Baal nhận ra sự khác biệt giữa hành động của Frondier và kế hoạch ban đầu.",
+  "Frondier trừng phạt Baal bằng cách sử dụng Black Thread để trói Antero.",
+  "Baal tiết lộ thỏa hiệp với Charon.",
+  "Vishnu chiếm giữ cơ thể Elodie và tiết lộ kế hoạch chiến tranh của các vị thần."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier trấn an và bảo vệ Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie giật mình trước hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier trừng phạt và tra hỏi Baal.",
+   "cach_goi": "gọi tên Baal, lạnh lùng"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Baal lo sợ và bị ép buộc phải khai báo.",
+   "cach_goi": "gọi tên Frondier, sợ hãi"
+  },
+  {
+   "a": "Frondier",
+   "b": "Antero",
+   "loai": "nguoi_la",
+   "mo_ta": "Người bị trói, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Vishnu",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Vishnu chiếm giữ cơ thể Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vishnu",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Vishnu tiết lộ thông tin về kế hoạch của các vị thần.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vishnu",
+   "b": "Elodie",
+   "loai": "khac",
+   "mo_ta": "Vishnu chiếm giữ cơ thể Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Vishnu: Một vị thần đang chiếm giữ cơ thể Elodie, tự xưng là 'một trong những vị thần yêu Elodie ít nhất'."
+ ],
+ "stats": {
+  "tokens": 1045,
+  "seconds": 31.4
+ }
+}

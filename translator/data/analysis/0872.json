@@ -1,0 +1,82 @@
+{
+ "number": 872,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này hồi tưởng lại một khoảnh khắc trong quá khứ khi Frondier nhìn thấy One Flash của Aster. Hiện tại, Frondier và Aster giao chiến dữ dội, với những đòn tấn công liên tục. Elodie cố gắng can thiệp nhưng bị Selena ngăn lại. Cuối cùng, sau khi trao đổi vài lời, Frondier và Aster đồng thời buông vũ khí và rút kiếm Excalibur, báo hiệu một bước ngoặt mới trong trận chiến.",
+ "boi_canh": "Một chiến trường hỗn loạn, nơi Frondier và Aster đang giao tranh.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aster Evans",
+  "Ares",
+  "Zeus"
+ ],
+ "su_kien": [
+  "Frondier hồi tưởng lại khoảnh khắc nhìn thấy One Flash của Aster.",
+  "Aster phá vỡ các rào cản Black Thread của Frondier và tiếp cận gần hơn.",
+  "Elodie cố gắng ngăn chặn trận chiến, nhưng Selena đã ngăn cô lại.",
+  "Aster đột ngột xông vào chiến trường, khiến các vị thần hoang mang.",
+  "Frondier và Aster đồng thời buông vũ khí và rút kiếm Excalibur."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người đang giao chiến trực tiếp với nhau.",
+   "cach_goi": "gọi tên Aster, không thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người đang giao chiến trực tiếp với nhau.",
+   "cach_goi": "gọi tên Frondier, không thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ của Frondier, muốn can thiệp vào trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh của Frondier, giữ vai trò quan sát và hỗ trợ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Ngăn cản Elodie can thiệp vào trận chiến.",
+   "cach_goi": "gọi tên Elodie, không thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster.",
+  "Excalibur•Alpha: Một loại kiếm Excalibur khác biệt với thanh kiếm mà Aster đang cầm."
+ ],
+ "stats": {
+  "tokens": 873,
+  "seconds": 26.3
+ }
+}

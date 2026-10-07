@@ -1,0 +1,82 @@
+{
+ "number": 631,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Elodie gặp khó khăn khi đối phó với một quỷ dữ trong lớp học tự học. Sau khi bị áp đảo bởi sức mạnh của quỷ dữ, cô sử dụng một kỹ thuật đặc biệt để khiến nó bất động và nhanh chóng rời đi. Cô phát hiện ra bẫy xung quanh văn phòng hiệu trưởng Osprey và nhận được thông tin từ Osprey rằng Aten Terst đang bị quỷ dữ nhắm mục tiêu.",
+ "boi_canh": "Trong lớp học tự học, vào một ngày không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Osprey",
+  "Jane",
+  "Aten Terst"
+ ],
+ "su_kien": [
+  "Elodie gặp khó khăn khi chiến đấu với một quỷ dữ trong lớp học.",
+  "Quỷ dữ tấn công Elodie bằng rìu, nhưng cô chặn được bằng rào cản ma thuật.",
+  "Elodie sử dụng kỹ thuật 'Zubarana' để khiến quỷ dữ bất động.",
+  "Elodie phát hiện ra bẫy xung quanh văn phòng hiệu trưởng Osprey.",
+  "Osprey thông báo cho Elodie rằng Aten Terst đang bị quỷ dữ nhắm mục tiêu."
+ ],
+ "quan_he": [
+  {
+   "a": "Elodie",
+   "b": "Quỷ Dữ",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ đang chiến đấu với nhau, Elodie cố gắng phòng thủ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quỷ Dữ",
+   "b": "Elodie",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ đang chiến đấu với nhau, tấn công Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aten Terst",
+   "loai": "dong_minh",
+   "mo_ta": "đồng minh, Elodie quan tâm đến sự an toàn của Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "người cấp trên, Osprey đưa ra thông tin cho Elodie.",
+   "cach_goi": "gọi tên 'Elodie', thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "người cấp trên, Elodie lắng nghe thông tin từ Osprey.",
+   "cach_goi": "gọi tên 'Osprey', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, Frondier không xuất hiện trong chương này nhưng được Elodie nhắc đến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, Selena không xuất hiện trong chương này nhưng được Elodie nhắc đến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst: Tên đầy đủ của Aten là Aten Terst."
+ ],
+ "stats": {
+  "tokens": 894,
+  "seconds": 26.7
+ }
+}

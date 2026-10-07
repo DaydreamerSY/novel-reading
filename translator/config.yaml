@@ -10,6 +10,12 @@ source:
   slug: the-academys-weapon-replicator
   delay_seconds: 2          # nghỉ giữa 2 lần tải trang, đừng để quá thấp
 
+novelight:                  # nguồn thứ hai: python novel.py scrape --source novelight
+  base_url: https://novelight.net
+  book: the-academys-weapon-replicatorreplikator-iz-akademii-novella
+  workers: 4                # số luồng tải song song
+  min_interval: 0.3         # giãn cách tối thiểu giữa 2 request của cả nhóm luồng (giây)
+
 llm:
   url: http://localhost:11434
   model: gemma3:12b         # model mặc định; ghi đè tạm thời bằng --model
@@ -30,3 +36,21 @@ translate:
   chunk_paragraphs: 60      # tối đa số đoạn mỗi lần gọi
   context_paragraphs: 3     # số đoạn vừa dịch gửi kèm làm ngữ cảnh cho lần gọi sau
   max_retries: 2            # số lần thử lại một đoạn đơn lẻ bị lỗi
+  speaker_pass: true        # trước khi dịch, model xác định ai nói với ai ở từng dòng thoại để áp đúng xưng hô
+  speaker_model: gemma3:12b # model làm bước xác định người nói (dùng chung kết quả cho mọi model dịch)
+
+merge:                      # python novel.py merge: ghép bản dịch của 2 model
+  models: [gemma3:12b, translategemma:12b]   # bản đầu được ưu tiên khi hai bản ngang nhau
+  judge: qwen3:8b           # model phân xử những đoạn hai bản khác nhau thật sự
+  name: tuyen-chon          # kết quả: data/vi/tuyen-chon, output/md/tuyen-chon, báo cáo output/chon-loc
+  batch: 10                 # số đoạn tranh chấp mỗi lượt phân xử
+  same_ratio: 0.92          # hai bản giống nhau từ mức này trở lên thì khỏi phân xử
+  reasons: true             # người phân xử ghi lý do; tắt (--no-reasons) với model chậm như gemma3:27b
+
+polish:                     # python novel.py polish: model lớn chỉ sửa xưng hô / đại từ
+  model: gemma3:27b
+  source: gemma3:12b        # bản dịch đem chỉnh (vd gemma3:12b hoặc tuyen-chon)
+  name: xung-ho             # kết quả: data/vi/xung-ho, output/md/xung-ho, báo cáo output/xung-ho
+  num_ctx: 8192
+  min_similarity: 0.7       # đề xuất khác bản gốc nhiều hơn mức này (viết lại câu) thì bỏ
+

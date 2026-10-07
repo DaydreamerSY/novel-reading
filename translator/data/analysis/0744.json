@@ -1,0 +1,105 @@
+{
+ "number": 744,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier triệu tập những quỷ dữ còn lại trong Đế quốc để giải quyết số phận của chúng. Arald từ chối trở thành Quỷ Vương, và Frondier chấp nhận điều đó. Sau đó, xuất hiện Elodie, Lily, Selena và Mei, dẫn đến một cuộc trò chuyện về tương lai của Mei và việc cô ấy muốn đi cùng Frondier. Cuối cùng, Selena báo cáo tình hình ở quảng trường, cho thấy sự kiện đã diễn ra theo kế hoạch của Osprey và nhà vua.",
+ "boi_canh": "Những con quỷ đang bay trên bầu trời, trước mặt Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Osprey",
+  "Malia",
+  "Mei",
+  "Arald",
+  "Odin",
+  "Hitchcock"
+ ],
+ "su_kien": [
+  "Frondier triệu tập những con quỷ còn lại trong Đế quốc.",
+  "Arald từ chối trở thành Quỷ Vương.",
+  "Mei xuất hiện và bày tỏ mong muốn được đi cùng Frondier.",
+  "Selena báo cáo tình hình ở quảng trường.",
+  "Những hiệp sĩ và quý tộc của Đế quốc đang đuổi theo họ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier hỏi Arald về việc tập hợp quỷ dữ và đề nghị ông ta trở thành Quỷ Vương.",
+   "cach_goi": "gọi tên Arald, không rõ"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Arald từ chối lời đề nghị của Frondier và hỏi về mối quan hệ của ông ta với Satan và Odin.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Elodie trao đổi về tình hình hiện tại và quá khứ của họ.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Elodie quan sát và đưa ra nhận xét về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier hỏi Selena về tình hình ở quảng trường.",
+   "cach_goi": "gọi tên Selena, lễ phép"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena báo cáo tình hình ở quảng trường theo yêu cầu của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier cân nhắc việc cho Mei đi cùng và thảo luận về tương lai của cô.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Mei bày tỏ mong muốn được đi cùng Frondier và học hỏi từ ông.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Elodie vuốt tóc Mei.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mei: Ban đầu được chăm sóc bởi Frondier và Elodie trong cabin, hiện tại muốn đi cùng Frondier."
+ ],
+ "stats": {
+  "tokens": 1159,
+  "seconds": 34.7
+ }
+}

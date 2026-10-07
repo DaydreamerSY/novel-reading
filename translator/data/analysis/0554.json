@@ -2,88 +2,78 @@
  "number": 554,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi Azier lên tiếng, Shepherd Andika thể hiện sự tức giận và tấn công. Azier đáp trả bằng cách sử dụng kỹ thuật thu hồi vũ khí từ xa và bắn trả lại các Shepherds. Sau đó, Frondier xuất hiện cùng với các giáo viên Constel khác để hỗ trợ Azier, bao vây các Shepherds. Cuộc chiến trở nên căng thẳng hơn khi Jane tung ra phép thuật mạnh mẽ.",
- "boi_canh": "Một trận chiến giữa Azier và các Shepherd tại một địa điểm không xác định.",
+ "tom_tat": "Trong phòng hội nghị Hoàng cung, các quan chức thảo luận về tình hình chiến tranh và báo cáo tiến triển của các thành viên Hoàng đạo. Nữ hoàng Philly thông báo về sự bắt đầu giao tranh giữa Constel và Manggot, đồng thời nhấn mạnh tầm quan trọng của vai trò Frondier trong việc kết thúc cuộc chiến. Trong khi đó, Frondier đã vượt qua ảnh hưởng của Deadly Sin của Belphegor và chuẩn bị đối mặt với hắn, sử dụng những vũ khí được bố trí sẵn.",
+ "boi_canh": "Phòng hội nghị Hoàng cung, thời điểm hiện tại trong cuộc chiến tranh.",
  "nhan_vat": [
   "Frondier",
-  "Azier",
-  "Enfer",
-  "Osprey",
-  "Jane",
-  "Pascal",
-  "Isamaya",
-  "Andika",
-  "Pascal Schlitz",
-  "Beso"
+  "Selena",
+  "Philly",
+  "Sybil",
+  "Quinie",
+  "Renzo",
+  "Malia",
+  "Mei",
+  "Medart",
+  "Quinie de Viet",
+  "Shadow",
+  "Belphegor"
  ],
  "su_kien": [
-  "Shepherd Andika thể hiện sự tức giận và tấn công Azier.",
-  "Azier sử dụng kỹ thuật thu hồi vũ khí từ xa để bắn trả các Shepherds.",
-  "Frondier cùng với các giáo viên Constel khác xuất hiện hỗ trợ Azier.",
-  "Jane tung ra phép thuật mạnh mẽ, bao phủ khu vực xung quanh.",
-  "Andika tuyên bố rằng Manggot sẽ thiêu rụi người dân của Đế quốc."
+  "Báo cáo về tình hình chiến tranh và sự tiến triển của các thành viên Hoàng đạo.",
+  "Thông báo về cuộc giao tranh giữa Constel và Manggot.",
+  "Đề cập đến vai trò quan trọng của Mei và Selena trong việc tấn công bất ngờ.",
+  "Frondier vượt qua ảnh hưởng của Deadly Sin của Belphegor.",
+  "Sự chuẩn bị của Frondier để đối mặt với Belphegor, sử dụng Excalibur và Mjölnir."
  ],
  "quan_he": [
   {
-   "a": "Andika",
-   "b": "Azier",
-   "loai": "doi_thu",
-   "mo_ta": "Đối đầu trực tiếp, Andika khiêu khích và tấn công Azier.",
-   "cach_goi": "gọi tên Azier, lạnh lùng"
-  },
-  {
-   "a": "Beso",
-   "b": "Andika",
-   "loai": "doi_thu",
-   "mo_ta": "Đồng minh của Andika, thể hiện sự tức giận đối với Azier.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Azier",
-   "b": "Andika",
-   "loai": "doi_thu",
-   "mo_ta": "Đáp trả khiêu khích của Andika.",
-   "cach_goi": "gọi tên Andika, lạnh lùng"
-  },
-  {
-   "a": "Jane",
-   "b": "Azier",
+   "a": "Philly",
+   "b": "Malia",
    "loai": "cap_tren",
-   "mo_ta": "Giáo viên Constel, đưa ra lời khuyên và quan sát.",
-   "cach_goi": "gọi tên Azier, lễ phép"
+   "mo_ta": "Nữ hoàng hỏi về tình hình chiến tranh.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Báo cáo tình hình chiến tranh cho Nữ hoàng.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Quinie de Viet",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Được Nữ hoàng yêu cầu giúp đỡ để kết thúc chiến tranh.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Quinie de Viet",
+   "loai": "cap_tren",
+   "mo_ta": "Yêu cầu sự giúp đỡ của Quinie để kết thúc chiến tranh.",
+   "cach_goi": "gọi tên Quinie, lễ phép"
   },
   {
    "a": "Frondier",
-   "b": "Jane",
-   "loai": "thay_tro",
-   "mo_ta": "Được Jane nhắc đến, Frondier đã đưa ra nhận xét về Shepherds.",
+   "b": "Belphegor",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu với Belphegor sau khi vượt qua Deadly Sin.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Pascal Schlitz",
-   "b": "Isamaya",
-   "loai": "ban_be",
-   "mo_ta": "Đồng nghiệp, tranh luận về chiến lược.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Isamaya",
-   "b": "Pascal Schlitz",
-   "loai": "ban_be",
-   "mo_ta": "Đồng nghiệp, tranh luận về chiến lược.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Jane",
+   "a": "Belphegor",
    "b": "Frondier",
-   "loai": "thay_tro",
-   "mo_ta": "Đề cập đến Frondier, thừa nhận sự đóng góp của anh ấy.",
+   "loai": "ke_thu",
+   "mo_ta": "Phản ứng với việc Frondier vượt qua Deadly Sin.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
- "danh_tinh": [],
+ "danh_tinh": [
+  "Quinie de Viet (tên đầy đủ của Quinie)"
+ ],
  "stats": {
-  "tokens": 931,
-  "seconds": 29.0
+  "tokens": 832,
+  "seconds": 26.0
  }
 }

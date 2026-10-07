@@ -1,0 +1,81 @@
+{
+ "number": 850,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Ludovic chế nhạo Aster vì thiếu kiến thức về thần thánh, một cuộc đối đầu nảy lửa đã diễn ra. Aster sử dụng kỹ thuật Fallen Spear để phòng thủ và quan sát Ludovic, nhận ra rằng anh ta là Apollo, Thần Chân Lý. Sự suy yếu bất thường trong khí chất của Apollo khiến Aster nghi ngờ điều gì đó.",
+ "boi_canh": "Một khu vực không xác định, giữa một cuộc đối đầu với Ludovic.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Dier",
+  "Ludovic",
+  "Notker",
+  "Elin"
+ ],
+ "su_kien": [
+  "Ludovic chế nhạo Aster vì thiếu kiến thức về thần thánh.",
+  "Aster sử dụng kỹ thuật Fallen Spear để phòng thủ và quan sát Ludovic.",
+  "Aster nhận ra Ludovic là Apollo, Thần Chân Lý.",
+  "Khí chất của Ludovic (Apollo) suy yếu một cách bất thường.",
+  "Aster nghi ngờ có điều gì đó không ổn và đặt câu hỏi về việc Apollo quên mất lĩnh vực của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Ludovic",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Ludovic chế nhạo và tấn công Aster.",
+   "cach_goi": "gọi tên Aster, lạnh lùng"
+  },
+  {
+   "a": "Aster",
+   "b": "Ludovic",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Aster phòng thủ và quan sát Ludovic.",
+   "cach_goi": "gọi tên Ludovic, bình tĩnh"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, Frondier sẽ thất vọng nếu thấy Aster hành động như vậy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn, Aster ước rằng Dier có thể đưa ra quyết định tốt hơn trong tình huống này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Elin",
+   "loai": "gia_dinh",
+   "mo_ta": "Chị gái, Elin đang bận học dạy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Azier",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy, Aster suy nghĩ về cách Azier sử dụng kỹ thuật Fallen Spear.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Notker",
+   "b": "Aster",
+   "loai": "khac",
+   "mo_ta": "Aster đã từng trải qua phản ứng tương tự từ Notker.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ludovic là Apollo, Thần Chân Lý."
+ ],
+ "stats": {
+  "tokens": 828,
+  "seconds": 24.9
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "number": 716,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier bày tỏ sự tin tưởng vào Philly và nhận ra sự tồn tại của một kẻ xúi giục, họ cùng nhau thảo luận về những lời đồn đại đang lan truyền trong Đế quốc. Elysia đưa ra một suy nghĩ sâu sắc về cách thức hoạt động của một kẻ xúi giục, sau đó Azier thẩm vấn Hagley để tìm kiếm thông tin về ngôn ngữ cổ và mối liên hệ của hắn với Frondier.",
+ "boi_canh": "Trong phòng họp kín đáo tại Đế quốc.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Mei",
+  "Azier",
+  "Elysia",
+  "Enfer",
+  "Hagley",
+  "Esther"
+ ],
+ "su_kien": [
+  "Frondier bày tỏ sự tin tưởng vào Philly và nhận ra sự tồn tại của một kẻ xúi giục.",
+  "Philly đồng ý với Frondier về sự cần thiết phải tìm ra kẻ xúi giục.",
+  "Elysia đưa ra suy nghĩ sâu sắc về cách thức hoạt động của một kẻ xúi giục.",
+  "Azier thẩm vấn Hagley để tìm kiếm thông tin về ngôn ngữ cổ.",
+  "Hagley tiết lộ rằng Frondier có tài năng giải mã ngôn ngữ cổ và đã từng làm việc với hắn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "người báo cáo và nhận chỉ đạo",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "người chỉ đạo và đưa ra lời khuyên",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, quan sát và suy nghĩ",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Hagley",
+   "loai": "doi_thu",
+   "mo_ta": "người thẩm vấn nghi phạm",
+   "cach_goi": "gọi tên Hagley, lạnh lùng"
+  },
+  {
+   "a": "Esther",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "người giám sát, quan sát tình hình",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "kẻ bị thẩm vấn, cố gắng khiêu khích",
+   "cach_goi": "gọi tên Azier, thô lỗ"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 654,
+  "seconds": 19.9
+ }
+}

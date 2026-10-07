@@ -2,97 +2,96 @@
  "number": 574,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau chiến tranh, Đế quốc bận rộn với việc mở rộng lãnh thổ đến Manggot. Trong một cuộc họp của Hội Thiên Yết, thành viên Medart đề xuất từ chức vì tuổi tác và vết thương trong chiến tranh. Sự kiện này dẫn đến cuộc thảo luận về việc liệu Frondier de Roach có nên trở thành thành viên Hội Thiên Yết hay không, gây bất ngờ cho nhiều người do những đóng góp gần đây của cậu.",
- "boi_canh": "Trong phòng họp của Hội Thiên Yết, sau chiến tranh.",
+ "tom_tat": "Frondier đến dinh thự của Ria Lis để làm kỵ sĩ theo lời hứa với Lily. Anh gặp phải sự đón tiếp lạnh nhạt và nghi ngờ từ các kỵ sĩ khác, những người tỏ ra không tin anh là Frondier de Roach thật. Bằng cách sử dụng Obsidian của mình một cách khéo léo, Frondier đã chứng minh sức mạnh vượt trội của mình mà không cần phải chiến đấu trực tiếp.",
+ "boi_canh": "Trước dinh thự của Ria Lis, vào buổi sáng.",
  "nhan_vat": [
   "Frondier",
-  "Philly",
-  "Sybil",
-  "Azier",
+  "Aster",
   "Lily",
   "Enfer",
-  "Ludwig",
-  "Monty",
-  "Ludovic",
-  "Medart"
+  "Frondier de Roach",
+  "Aster Evans",
+  "Ria Lis",
+  "Lis"
  ],
  "su_kien": [
-  "Medart đề xuất từ chức khỏi Hội Thiên Yết.",
-  "Cuộc thảo luận về việc liệu Frondier có đủ điều kiện để trở thành thành viên Hội Thiên Yết hay không.",
-  "Lily tuyên bố Frondier đã hứa sẽ là hiệp sĩ của cô và họ đã thề ước tâm linh.",
-  "Monty khẳng định Frondier đã thề huyết ước với ông và sẽ trở thành đệ tử của ông.",
-  "Ludovic bày tỏ sự sốc trước những lời hứa mà Frondier đã đưa ra cho Lily và Monty."
+  "Người đưa xe hành động bất thường, chúc Frondier may mắn.",
+  "Cổng dinh thự mở tự động mà không có chuông báo.",
+  "Frondier cảm nhận được sự cảnh giác từ những người bên trong dinh thự.",
+  "Các kỵ sĩ của Ria Lis nghi ngờ danh tính của Frondier.",
+  "Frondier sử dụng Obsidian để ngăn các kỵ sĩ rút kiếm."
  ],
  "quan_he": [
   {
-   "a": "Medart",
-   "b": "Philly",
+   "a": "Người đưa xe",
+   "b": "Frondier",
    "loai": "cap_tren",
-   "mo_ta": "Đệ tử báo cáo về việc từ chức.",
-   "cach_goi": "gọi 'Empress', lễ phép"
+   "mo_ta": "người làm công, hành động bất thường để chúc may mắn.",
+   "cach_goi": "gọi 'Frondier-nim', lễ phép"
   },
   {
-   "a": "Philly",
-   "b": "Medart",
-   "loai": "cap_tren",
-   "mo_ta": "Nữ hoàng đề nghị trì hoãn việc từ chức của Medart.",
-   "cach_goi": "gọi tên, lễ phép"
+   "a": "Frondier",
+   "b": "Người đưa xe",
+   "loai": "nguoi_la",
+   "mo_ta": "người lái xe được thuê bởi cha Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Lily",
-   "b": "Medart",
-   "loai": "ban_be",
-   "mo_ta": "Lily nhắc nhở Medart về sự thật mà ông không biết.",
-   "cach_goi": "gọi tên, thân mật"
-  },
-  {
-   "a": "Ludovic",
+   "a": "Frondier",
    "b": "Lily",
-   "loai": "ban_be",
-   "mo_ta": "Ludovic bày tỏ sự ngạc nhiên về những lời nói của Lily.",
-   "cach_goi": "gọi tên, thân mật"
-  },
-  {
-   "a": "Monty",
-   "b": "Lily",
-   "loai": "ban_be",
-   "mo_ta": "Monty nhắc nhở Lily về một thỏa thuận trước đó.",
-   "cach_goi": "gọi tên, thân mật"
-  },
-  {
-   "a": "Ludwig",
-   "b": "Monty",
-   "loai": "ban_be",
-   "mo_ta": "Ludwig bày tỏ sự ngạc nhiên về những lời nói của Monty.",
-   "cach_goi": "gọi tên, thân mật"
-  },
-  {
-   "a": "Ludovic",
-   "b": "Frondier",
-   "loai": "khac",
-   "mo_ta": "Ludovic bày tỏ sự sốc về những hành động của Frondier.",
+   "loai": "nguoi_la",
+   "mo_ta": "đã hứa làm kỵ sĩ cho Lily.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Lily",
-   "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Lily đã thề ước tâm linh với Frondier.",
+   "a": "Frondier",
+   "b": "Ria Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "đến làm kỵ sĩ cho Ria Lis.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Monty",
+   "a": "Kỵ sĩ 1",
    "b": "Frondier",
-   "loai": "thay_tro",
-   "mo_ta": "Monty đã thề huyết ước với Frondier.",
+   "loai": "doi_thu",
+   "mo_ta": "nghi ngờ danh tính của Frondier.",
+   "cach_goi": "gọi 'Who are you?', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kỵ sĩ 1",
+   "loai": "doi_thu",
+   "mo_ta": "xác nhận danh tính và tuyên bố làm kỵ sĩ.",
+   "cach_goi": "gọi 'You', lạnh lùng"
+  },
+  {
+   "a": "Kỵ sĩ 2",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "nhận ra Frondier.",
    "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kỵ sĩ 3",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đòi chứng minh năng lực của Frondier.",
+   "cach_goi": "gọi 'You', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kỵ sĩ 3",
+   "loai": "doi_thu",
+   "mo_ta": "không muốn chứng minh năng lực.",
+   "cach_goi": "gọi 'You', lạnh lùng"
   }
  ],
  "danh_tinh": [
-  "Frondier de Roach: Tên đầy đủ của nhân vật chính."
+  "Frondier de Roach: tên đầy đủ của Frondier.",
+  "Aster Evans: tên đầy đủ của Aster."
  ],
  "stats": {
-  "tokens": 1020,
-  "seconds": 31.9
+  "tokens": 1008,
+  "seconds": 31.6
  }
 }

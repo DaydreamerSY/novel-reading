@@ -1,0 +1,78 @@
+{
+ "number": 794,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đưa Antero đến một nơi an toàn và rời khỏi Pandemonium, Frondier gặp lại Carla. Anh ta tiết lộ rằng đã làm suy yếu Paladin Antero và nhận được chiếc khiên Aegis từ Athena. Sau đó, anh ta đánh giá lại tình hình sau cuộc chiến với Bune và bắt đầu một cuộc trò chuyện mới với Bune về vai trò của anh ta như một Paladin.",
+ "boi_canh": "Trong phòng của Frondier, vào buổi tối sau khi kết thúc ngày đầu tiên ở Machia.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Carla",
+  "Antero",
+  "Athena",
+  "Sale",
+  "Odin",
+  "Ares",
+  "Medusa",
+  "Bune",
+  "Machia"
+ ],
+ "su_kien": [
+  "Frondier đưa craft lên cao, ra khỏi tầm nhìn.",
+  "Carla hỏi về Antero và bày tỏ sự ngạc nhiên khi Frondier hạ bệ Paladin.",
+  "Frondier nhận được Aegis từ Athena.",
+  "Bune đánh bại tất cả các golem của mình.",
+  "Frondier bắt đầu một cuộc trò chuyện với Bune về vai trò của anh ta như một Paladin."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, chia sẻ thông tin và cảm xúc.",
+   "cach_goi": "gọi tên Carla, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, tò mò và biết ơn.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Antero",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Frondier đã làm suy yếu Antero.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Carla",
+   "b": "Antero",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Carla đã bị Antero đe dọa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bune",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người điều khiển và đánh giá Bune.",
+   "cach_goi": "gọi tên Bune, lạnh lùng"
+  },
+  {
+   "a": "Bune",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Bune là người dưới quyền và bày tỏ sự bất mãn.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Carla: Medusa (bí mật)"
+ ],
+ "stats": {
+  "tokens": 792,
+  "seconds": 23.8
+ }
+}

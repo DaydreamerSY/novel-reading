@@ -1,0 +1,117 @@
+{
+ "number": 643,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhanh chóng di chuyển đến phòng hòa nhạc, mọi người đã tập trung đông đủ. Tình hình nghiêm trọng: Robald bị thương nặng do chiến đấu với quỷ và đang được Aten chữa trị, trong khi Lunia bị bắt cóc. Frondier, mặc dù không hiện diện trực tiếp, đã liên lạc qua điện thoại và tuyên bố sẽ tuân theo yêu cầu của lũ quỷ để đổi lấy sự an toàn của Lunia, khiến mọi người kinh ngạc. Aster nhận ra ý nghĩa ẩn sau lời nói đó và quyết định hành động.",
+ "boi_canh": "Phòng hòa nhạc tại Constel, sau một trận chiến.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Osprey",
+  "Ellen",
+  "Edwin",
+  "Lunia",
+  "Robald"
+ ],
+ "su_kien": [
+  "Robald bị thương nặng trong trận chiến với quỷ.",
+  "Aten chữa trị cho Robald bằng Mana.",
+  "Lunia bị bắt cóc bởi lũ quỷ.",
+  "Frondier liên lạc qua điện thoại và tuyên bố sẽ tuân theo yêu cầu của lũ quỷ.",
+  "Aster nhận ra ý nghĩa ẩn sau lời nói của Frondier và quyết định hành động."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier không giao tiếp trực tiếp với Elodie, nhưng sự hiện diện và quyết định của anh ảnh hưởng đến cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết của Aster, lo lắng về tình hình và Lunia.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết của Aster, lo lắng về tình hình và Lunia.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không giao tiếp trực tiếp, Aten đang chữa trị cho Robald.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Không giao tiếp trực tiếp, Aten đang chữa trị cho Robald.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người có địa vị cao hơn, đưa ra chỉ thị cho Aster.",
+   "cach_goi": "gọi tên Aster, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Aster tôn trọng và ngưỡng mộ Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Osprey là cấp trên của Frondier, lo lắng và đặt câu hỏi về quyết định của anh.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier trả lời câu hỏi của cấp trên.",
+   "cach_goi": "gọi tên Osprey, lễ phép"
+  },
+  {
+   "a": "Robald",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten đang chữa trị cho Robald.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết, Lunia bị bắt cóc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lunia",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier có liên quan đến việc Lunia bị bắt cóc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1246,
+  "seconds": 37.3
+ }
+}

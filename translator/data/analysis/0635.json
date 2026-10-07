@@ -1,0 +1,77 @@
+{
+ "number": 635,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với việc Aten nhớ lại sự kiện những con quỷ tràn ra khỏi Cung điện Hoàng gia, bao gồm cả việc Satan triệu hồi Mizonas trở về Lục giới Quỷ. Marchosias xuất hiện để bắt giữ Aten theo lệnh của Satan, nhưng hành động và lời nói của hắn cho thấy một sự khác biệt đáng kể so với các quỷ khác. Cuối cùng, Sybil Forte xuất hiện giải cứu Aten, và Marchosias nhận ra thông tin tình báo của họ đã lỗi thời.",
+ "boi_canh": "Trong Cung điện Hoàng gia, sau khi Satan triệu hồi Mizonas trở về Lục giới Quỷ.",
+ "nhan_vat": [
+  "Frondier (Aten)",
+  "Philly",
+  "Aten Terst",
+  "Sybil",
+  "Osprey",
+  "Marchosias",
+  "Mizonas",
+  "Sybil Forte"
+ ],
+ "su_kien": [
+  "Marchosias đến để bắt giữ Aten theo lệnh của Satan.",
+  "Aten nhận ra Marchosias đã nắm được tình hình dù quỷ kia tự sát.",
+  "Marchosias thể hiện sự khác biệt trong cách hành xử so với các quỷ khác, có vẻ không hoàn toàn trung thành với Satan.",
+  "Sybil Forte xuất hiện và giải cứu Aten bằng thanh kiếm lửa.",
+  "Marchosias nhận ra thông tin tình báo của họ đã lỗi thời."
+ ],
+ "quan_he": [
+  {
+   "a": "Aten",
+   "b": "Marchosias",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp để bắt giữ Aten; nghi ngờ lẫn nhau.",
+   "cach_goi": "gọi tên Marchosias, lạnh lùng"
+  },
+  {
+   "a": "Marchosias",
+   "b": "Aten",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp để bắt giữ Aten; nghi ngờ lẫn nhau.",
+   "cach_goi": "gọi tên Aten, lạnh lùng"
+  },
+  {
+   "a": "Aten",
+   "b": "Sybil Forte",
+   "loai": "nguoi_la",
+   "mo_ta": "Cứu Aten khỏi Marchosias; chưa rõ mối quan hệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Cứu Aten khỏi Marchosias; chưa rõ mối quan hệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marchosias",
+   "b": "Sybil Forte",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Sybil với sự hứng thú; nghi ngờ về danh tính thật của cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Marchosias",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Sybil với sự hứng thú; nghi ngờ về danh tính thật của cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Philly Terst (hoàng hậu)",
+  "Aten Terst (tam công chúa)",
+  "Sybil Forte (tên đầy đủ của Sybil)"
+ ],
+ "stats": {
+  "tokens": 870,
+  "seconds": 26.1
+ }
+}

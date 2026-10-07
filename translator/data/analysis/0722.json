@@ -1,0 +1,63 @@
+{
+ "number": 722,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đối mặt với Hagley, vạch trần những lời nói dối và mánh khóe của hắn liên quan đến khả năng nhìn thấu tài năng của người khác. Frondier tiết lộ rằng Hagley sử dụng ảo thuật để đánh lừa mọi người tin rằng hắn có thể nhận biết tài năng, và rằng hắn đã lợi dụng điều này để đạt được mục đích cá nhân. Cuối cùng, Frondier đe dọa sẽ phơi bày bí mật về việc giải mã ngôn ngữ cổ của Hagley cho Đế quốc, khiến hắn vô cùng hoảng loạn.",
+ "boi_canh": "Trong một căn phòng kín, nơi diễn ra cuộc đối đầu căng thẳng giữa Frondier và Hagley.",
+ "nhan_vat": [
+  "Frondier",
+  "Hagley",
+  "Esther"
+ ],
+ "su_kien": [
+  "Frondier vạch trần khả năng 'nhìn thấu' của Hagley là ảo thuật.",
+  "Frondier tiết lộ Hagley đã sử dụng ảo thuật để đánh lừa những người khác, bao gồm cả Frondier trước đây.",
+  "Hagley run rẩy vì sự thật bị phơi bày.",
+  "Frondier đe dọa sẽ tiết lộ bí mật giải mã ngôn ngữ cổ cho Đế quốc.",
+  "Frondier cảnh báo Hagley sẽ phải chịu đựng sự cô lập và tuyệt vọng trong nhà tù."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Hagley",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier vạch trần sự dối trá của Hagley.",
+   "cach_goi": "gọi tên Hagley, lạnh lùng"
+  },
+  {
+   "a": "Hagley",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cảm thấy bị đe dọa và bẽ mặt bởi sự thật được phơi bày.",
+   "cach_goi": "gọi tên Frondier, sợ hãi"
+  },
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "nguoi_la",
+   "mo_ta": "Esther lắng nghe cuộc đối thoại từ phía sau, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cố gắng phản bác nhưng không thành công.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hagley",
+   "loai": "doi_thu",
+   "mo_ta": "Đe dọa và hạ thấp Hagley.",
+   "cach_goi": "gọi tên Hagley, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Hagley: Trước đây đã sử dụng ảo thuật để đánh lừa người khác về khả năng nhận biết tài năng của họ."
+ ],
+ "stats": {
+  "tokens": 780,
+  "seconds": 23.2
+ }
+}

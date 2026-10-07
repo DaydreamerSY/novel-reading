@@ -1,0 +1,131 @@
+{
+ "number": 827,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chuẩn bị xe hơi để đến vương quốc Palma, Frondier phát hiện ra Pielott bị say xe và phải tìm cách giải quyết tình huống khó xử này. Trong lúc đó, Selena bí mật báo cáo với Frondier về một cuộc trò chuyện giữa cô và Pielott liên quan đến việc liên kết bóng tối, hé lộ những suy nghĩ sâu sắc của Pielott.",
+ "boi_canh": "Trong xe hơi đang trên đường tới vương quốc Palma.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Enfer",
+  "Pielott",
+  "Carla",
+  "Arald",
+  "Basileo",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Frondier và nhóm chuẩn bị xe hơi để đi đến Palma.",
+  "Lily vui mừng khi được đi xe hơi mới.",
+  "Selena bí mật báo cáo với Frondier về cuộc trò chuyện với Pielott.",
+  "Pielott bị say xe trên đường đi.",
+  "Frondier sử dụng Black Thread để giúp Pielott giảm bớt tình trạng say xe."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan hệ thân thiết.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan hệ thân thiết.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ, có vẻ như đang bí mật báo cáo.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ, có vẻ như đang bí mật báo cáo.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Quan hệ bạn bè, Frondier có vẻ là người lớn hơn.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Quan hệ bạn bè, Frondier có vẻ là người lớn hơn.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "cap_tren",
+   "mo_ta": "Arald có vẻ là người có quyền lực hơn Frondier.",
+   "cach_goi": "gọi tên Arald, lễ phép"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Arald có vẻ là người có quyền lực hơn Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Pielott là học trò của Frondier.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Pielott là học trò của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "ban_be",
+   "mo_ta": "Quan hệ bạn bè.",
+   "cach_goi": "gọi tên Carla, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Quan hệ bạn bè.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Arald",
+   "loai": "khac",
+   "mo_ta": "Không rõ mối quan hệ.",
+   "cach_goi": "gọi tên Arald, lễ phép"
+  },
+  {
+   "a": "Arald",
+   "b": "Pielott",
+   "loai": "khac",
+   "mo_ta": "Không rõ mối quan hệ.",
+   "cach_goi": "gọi tên Pielott, lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1352,
+  "seconds": 40.6
+ }
+}

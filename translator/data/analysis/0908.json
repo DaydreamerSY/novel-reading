@@ -1,0 +1,87 @@
+{
+ "number": 908,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hấp thụ năng lượng của quái vật đen, Frondier trải qua quá trình biến đổi thành một con quỷ, chịu đựng đau đớn và sự thay đổi về thể chất. Belphegor, người đã triệu hồi anh ta, tiết lộ rằng việc này là một phần của giao kèo giữa họ. Cuối cùng, Frondier hoàn thành biến đổi và nhận nhiệm vụ mới từ Belphegor: tiêu diệt tất cả các Vị Thần Chính và Bảy Tội Lỗi. Elodie chứng kiến sự thay đổi của Frondier và phải đối mặt với cảm xúc lẫn lộn, trong khi Selena bí mật theo chân anh ta đến Nastrond.",
+ "boi_canh": "Trong một không gian giữa thế giới loài người và thế giới quỷ dữ, sau quá trình biến đổi của Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Belphegor",
+  "Selena",
+  "Lily",
+  "Arald",
+  "Elodie",
+  "Satan",
+  "Moirai"
+ ],
+ "su_kien": [
+  "Frondier bắt đầu trải qua quá trình biến đổi thành quỷ, chịu đựng đau đớn.",
+  "Cánh tay của Frondier mọc ra từ xương sống và cơ bắp của anh ta.",
+  "Belphegor tiết lộ rằng việc này là một phần của giao kèo giữa họ.",
+  "Frondier nhận nhiệm vụ tiêu diệt tất cả các Vị Thần Chính và Bảy Tội Lỗi.",
+  "Elodie chứng kiến sự biến đổi của Frondier và phải đối mặt với cảm xúc lẫn lộn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ke_thu",
+   "mo_ta": "Belphegor là người triệu hồi và ra lệnh cho Frondier.",
+   "cach_goi": "gọi tên Belphegor, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor là người có quyền lực hơn và ra lệnh cho Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Selena là đồng minh của Frondier, luôn bảo vệ anh.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Selena theo dõi và hỗ trợ Frondier trong bí mật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Elodie là người yêu của Frondier, lo lắng cho anh.",
+   "cach_goi": "gọi tên Fron, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Frondier là người yêu của Elodie, trấn an cô ấy.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Satan",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Satan và Belphegor có mối quan hệ đối địch.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Moirai",
+   "b": "Satan",
+   "loai": "khac",
+   "mo_ta": "Moirai là những người quan sát sự kiện và phản ứng với hành động của Satan.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 881,
+  "seconds": 26.6
+ }
+}

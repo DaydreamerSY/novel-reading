@@ -1,0 +1,104 @@
+{
+ "number": 829,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối mặt với ba quỷ đã bị sốc khi anh tiết lộ thông tin về Astaroth. Anh sử dụng kỹ năng 'Phân tích' để khám phá ra những bí mật của họ, bao gồm cơ chế tự hủy mà Astaroth đã cấy ghép. Cuối cùng, Frondier khai thác sự thật rằng những quỷ này đến từ Cõi Quỷ và có liên quan đến một cổng dịch chuyển đang mở.",
+ "boi_canh": "Một căn phòng tối tăm, nơi ba quỷ đang bị thẩm vấn bởi Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Baal",
+  "Marco",
+  "Frondier de Roach",
+  "Astaroth",
+  "Lilith",
+  "Asmodeus",
+  "Paride"
+ ],
+ "su_kien": [
+  "Frondier tiết lộ anh biết thông tin về Astaroth, khiến ba quỷ sốc.",
+  "Frondier sử dụng kỹ năng 'Phân tích' để khám phá bí mật của họ.",
+  "Anh phát hiện ra cơ chế tự hủy mà Astaroth đã cấy ghép vào một trong những quỷ đó (Paride).",
+  "Frondier gợi ý rằng những quỷ này đến từ Cõi Quỷ.",
+  "Ba quỷ im lặng, thừa nhận sự thật về nguồn gốc của họ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là cấp dưới, Baal có thể biết thông tin về anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "doi_thu",
+   "mo_ta": "Cả hai từng đối đầu nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Astaroth",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ tiềm năng, Frondier đang tìm hiểu về Astaroth.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lilith",
+   "loai": "ke_thu",
+   "mo_ta": "Có thể là đối thủ trong tương lai, liên quan đến các vị thần và quỷ khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Asmodeus",
+   "loai": "ke_thu",
+   "mo_ta": "Có thể là đối thủ trong tương lai, liên quan đến các vị thần và quỷ khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Paride",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối tượng thẩm vấn, Frondier đang khai thác thông tin từ anh ta.",
+   "cach_goi": "gọi tên Paride, lạnh lùng"
+  },
+  {
+   "a": "Paride",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối tượng thẩm vấn, Paride đang cố gắng chống lại sự thẩm vấn.",
+   "cach_goi": "gọi 'Human', thô lỗ"
+  },
+  {
+   "a": "Demons (Paride, others)",
+   "b": "Astaroth",
+   "loai": "chu_to",
+   "mo_ta": "Ba quỷ phục tùng Astaroth, nhưng đang bị Frondier khai thác thông tin.",
+   "cach_goi": "gọi 'master', lễ phép"
+  },
+  {
+   "a": "Demons (Paride, others)",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Belphegor từng nắm giữ vị trí Sloth, nhưng đã bị Frondier đánh bại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Demons (Paride, others)",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đang đối đầu với ba quỷ, sử dụng sự vượt trội của mình để ép buộc họ.",
+   "cach_goi": "gọi 'you', trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Tên đầy đủ của Frondier là Frondier de Roach. Anh đã từng dùng tên 'Frondier di Roach' khi còn ở Agoris.",
+  "Astaroth có thể là một trong Bảy Tội Lỗi, nhưng hiện tại đang được che giấu."
+ ],
+ "stats": {
+  "tokens": 1021,
+  "seconds": 30.9
+ }
+}

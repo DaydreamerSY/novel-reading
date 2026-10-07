@@ -1,0 +1,89 @@
+{
+ "number": 917,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với việc Vua Palma cân nhắc khả năng trở thành hoàng đế và những lo sợ đi kèm. Một con rắn vô hình xuất hiện trên đầu ông ta, khiến ông ta hoảng loạn. Sybil tấn công con rắn bằng phép thuật nhưng không hiệu quả. Cô nàng sau đó bị cuốn vào một tầm nhìn kỳ lạ, gặp gỡ một thực thể biển khổng lồ. Đồng thời, Frondier và Belphegor trốn thoát khỏi Nastrond và đang trên đường giải cứu Azier, đối mặt với những kẻ canh giữ trong Niflheim.",
+ "boi_canh": "Trong cung điện của Vua Palma, vào một thời điểm không xác định khi ông ta cân nhắc việc trở thành hoàng đế.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Sybil",
+  "Azier",
+  "Frondier de Roach",
+  "Penelope",
+  "Vua Palma",
+  "Belphegor",
+  "Thanatos",
+  "Nidhogg"
+ ],
+ "su_kien": [
+  "Vua Palma cân nhắc việc trở thành hoàng đế và những lo sợ đi kèm.",
+  "Một con rắn vô hình xuất hiện trên đầu Vua Palma, khiến ông ta hoảng loạn.",
+  "Sybil tấn công con rắn bằng phép thuật nhưng không hiệu quả.",
+  "Sybil bị cuốn vào một tầm nhìn kỳ lạ, gặp gỡ một thực thể biển khổng lồ.",
+  "Frondier và Belphegor trốn thoát khỏi Nastrond và đang trên đường giải cứu Azier."
+ ],
+ "quan_he": [
+  {
+   "a": "Vua Palma",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Sybil quan sát phản ứng của Vua Palma.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Vua Palma",
+   "loai": "dong_minh",
+   "mo_ta": "Sybil cố gắng bảo vệ Vua Palma.",
+   "cach_goi": "gọi 'Your Imperial Majesty', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Frondier đang chở Selena và hỏi thăm tình trạng của cô ấy.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor hỗ trợ Frondier trong việc trốn thoát và giải cứu Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Belphegor phối hợp hành động để trốn thoát và giải cứu Azier.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Selena được Frondier chở và nhận sự quan tâm của anh ta.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor hỗ trợ Frondier trong việc trốn thoát và giải cứu Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thanatos",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu với những kẻ canh giữ của Thanatos.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 844,
+  "seconds": 25.4
+ }
+}

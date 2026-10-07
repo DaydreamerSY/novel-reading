@@ -1,0 +1,96 @@
+{
+ "number": 910,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Belphegor giải thích về quá khứ của Baal và những sự kiện liên quan đến Odin, Frondier và Selena chuẩn bị di chuyển tới nơi giam giữ Azier. Trong lúc đó, Belphegor trêu chọc Frondier vì cách anh ta cư xử với Selena, dẫn đến một tình huống lúng túng khi Frondier muốn đưa Selena lên lưng để bay. Cuối cùng, họ bắt đầu hành trình và Belphegor tiếp tục kể về những biến động quyền lực trong thế giới quỷ dữ, đặc biệt là mối quan hệ giữa Satan và Lucifer.",
+ "boi_canh": "Trên bầu trời đêm, chuẩn bị cho một nhiệm vụ nguy hiểm.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Belphegor",
+  "Baal",
+  "Odin",
+  "Satan",
+  "Lucifer",
+  "Astaroth",
+  "Heracles",
+  "Azier"
+ ],
+ "su_kien": [
+  "Belphegor giải thích về quá khứ của Baal và vai trò của Odin.",
+  "Frondier chuẩn bị đưa Selena lên lưng để bay, gây ra một tình huống lúng túng do sự hiểu lầm từ Belphegor.",
+  "Belphegor kể về những biến động quyền lực giữa Satan và Lucifer trong thế giới quỷ dữ.",
+  "Selena tiết lộ khả năng giữ hơi của mình (10 phút).",
+  "Belphegor giải thích cách Baal bị chia cắt thành Baalzebub và Baal."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier quan tâm đến Selena và muốn bảo vệ cô.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Belphegor trêu chọc Frondier một cách hài hước.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Belphegor trêu chọc Selena về hành động của Frondier.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đã từng gặp Baal và biết một số thông tin về anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor có mối quan hệ phức tạp với Satan, người mà anh ta từng hỗ trợ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Lucifer",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor có mối quan hệ đặc biệt với Lucifer, người mà anh ta được Lucifer công nhận.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Odin",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier biết về Odin thông qua kiến thức từ thế giới trước đây của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Astaroth",
+   "loai": "dong_minh",
+   "mo_ta": "Belphegor đề cập đến Astaroth như một người thay thế cho Baalzebub.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baalzebub",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier biết về Baalzebub và sức mạnh của anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 950,
+  "seconds": 28.7
+ }
+}

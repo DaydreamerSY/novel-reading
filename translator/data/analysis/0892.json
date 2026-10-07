@@ -1,0 +1,106 @@
+{
+ "number": 892,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier vô tình gây ra sự chú ý của mọi người, ông quyết định chuyển đến một nơi khác. Ông phát hiện ra rằng nguồn gốc của sự chú ý này không phải do Pielott la hét mà là do chính bản thân ông mất kiểm soát khi nhắc đến Satan. Sau đó, ông triệu tập mọi người để nghe lại giấc mơ của Pielott liên quan đến Golden Apple và những thông tin về việc Satan trở thành Vua Quỷ. Cuối cùng, một chi tiết bất ngờ được tiết lộ: Belphegor vẫn còn ở Nastrond, cho thấy sự hợp tác bí mật giữa các vị thần và quỷ dữ.",
+ "boi_canh": "Phòng nhân viên tại Atlas, sau giờ học.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Arald",
+  "Gregory",
+  "Athena",
+  "Ria Lis",
+  "Zenita",
+  "Heracles",
+  "Lis"
+ ],
+ "su_kien": [
+  "Frondier vô tình gây ra sự chú ý của mọi người.",
+  "Pielott nhớ lại giấc mơ về việc Satan trở thành Vua Quỷ.",
+  "Elodie đến nói chuyện riêng với Frondier.",
+  "Lily bị thương khi luyện tập dịch chuyển bóng.",
+  "Belphegor được tiết lộ vẫn còn ở Nastrond."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "giáo viên và học trò, Frondier là người hướng dẫn.",
+   "cach_goi": "gọi tên Pielott, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "học trò báo cáo lại cho giáo viên.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè thân thiết, mối quan hệ lâu dài.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè thân thiết, nhưng có sự dè chừng.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "người phục tùng, Frondier là cấp trên.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "người cấp trên quan tâm đến người phục tùng.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, Lily có vẻ thoải mái với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "giáo viên và học sinh, nhưng có sự thoải mái.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Carla giúp đỡ Lily, không có mối quan hệ rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Lily cảm ơn Carla vì đã giúp đỡ.",
+   "cach_goi": "gọi tên Carla, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1124,
+  "seconds": 34.0
+ }
+}

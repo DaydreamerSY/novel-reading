@@ -1,0 +1,115 @@
+{
+ "number": 695,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp lại Ludwig và Lily sau chiến tranh. Selena, một người quen cũ từ Tyburn, cũng xuất hiện cùng với Ludwig. Monty đến, và Frondier xác nhận rằng ông ta không lan truyền tin đồn về mối quan hệ giữa họ. Cuối cùng, Frondier chính thức trở thành đồ đệ của Monty và yêu cầu được học tất cả các kỹ thuật vũ khí của ông.",
+ "boi_canh": "Một căn phòng, có lẽ là trong lâu đài, sau một cuộc chiến tranh.",
+ "nhan_vat": [
+  "Frondier",
+  "Ludwig",
+  "Lily",
+  "Selena",
+  "Monty",
+  "Azier"
+ ],
+ "su_kien": [
+  "Frondier gặp Ludwig và Lily.",
+  "Selena xuất hiện, được giới thiệu bởi Ludwig.",
+  "Monty đến và phủ nhận việc lan truyền tin đồn.",
+  "Frondier chính thức trở thành đồ đệ của Monty.",
+  "Frondier yêu cầu Monty dạy tất cả các kỹ thuật vũ khí."
+ ],
+ "quan_he": [
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Ludwig là người có địa vị cao hơn, tỏ ra hiểu rõ về quá khứ của Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier tỏ ra tôn trọng Ludwig.",
+   "cach_goi": "gọi tên Ludwig, lễ phép"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Mối quan hệ thân thiết giữa Lily và Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Mối quan hệ thân thiết giữa Frondier và Lily.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Ludwig giới thiệu Selena cho Frondier.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier nhận ra Selena từ quá khứ.",
+   "cach_goi": "gọi tên Selena, lễ phép"
+  },
+  {
+   "a": "Monty",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ là bạn bè lâu năm.",
+   "cach_goi": "gọi tên Ludwig, thân mật"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ là bạn bè lâu năm.",
+   "cach_goi": "gọi tên Monty, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier trở thành đồ đệ của Monty.",
+   "cach_goi": "gọi tên Monty, lễ phép"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Monty là sư phụ của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Monty",
+   "loai": "thay_tro",
+   "mo_ta": "Lily là người được Monty bảo vệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Lily",
+   "loai": "thay_tro",
+   "mo_ta": "Monty là người bảo vệ Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Selena: Người quen cũ từ Tyburn, từng có mục đích dụ dỗ Frondier."
+ ],
+ "stats": {
+  "tokens": 1167,
+  "seconds": 34.9
+ }
+}

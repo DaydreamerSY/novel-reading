@@ -1,0 +1,79 @@
+{
+ "number": 736,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi xoa dịu được Enfer và Azier, Frondier bước vào dinh thự. Anh tìm gặp Malia và phát hiện ra bà đang ngồi ở phòng khách, nơi gia đình Roach thường tụ tập ăn uống. Malia bày tỏ sự bất bình về việc Frondier quá trưởng thành và không thể hiện cảm xúc tiêu cực đối với Hoàng cung, khiến bà tiếc nuối vì gia đình Roach đã bỏ lỡ cơ hội để trừng phạt Hoàng cung. Bà cũng tiết lộ lý do tại sao cha của Frondier, Enfer, lại từ chối gia nhập Zodiac.",
+ "boi_canh": "Phòng khách dinh thự Roach, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Enfer",
+  "Malia",
+  "Bartello"
+ ],
+ "su_kien": [
+  "Frondier tìm gặp Malia sau khi xoa dịu Enfer và Azier.",
+  "Malia bày tỏ sự bất bình về việc Frondier quá trưởng thành.",
+  "Malia tiết lộ lý do tại sao cha của Frondier, Enfer, lại từ chối gia nhập Zodiac.",
+  "Malia nói rằng gia đình Roach có đủ sức mạnh để trừng phạt Hoàng cung.",
+  "Malia nhận thấy Frondier đang nghĩ đến việc rời đi."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai, mối quan hệ căng thẳng trước đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "cha, mối quan hệ phức tạp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ, mối quan hệ gần gũi nhưng có những hiểu lầm.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ, mối quan hệ gần gũi nhưng có những hiểu lầm.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "quốc vương, mối quan hệ xa cách và đầy căng thẳng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "chồng, mối quan hệ lâu dài và có những hiểu lầm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "vợ, mối quan hệ lâu dài và có những hiểu lầm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Enfer từng được mời gia nhập Zodiac nhưng đã từ chối."
+ ],
+ "stats": {
+  "tokens": 877,
+  "seconds": 26.2
+ }
+}

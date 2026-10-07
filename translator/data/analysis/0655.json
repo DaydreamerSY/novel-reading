@@ -1,0 +1,74 @@
+{
+ "number": 655,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận ra kiến thức của mình không hoàn toàn đến từ game 'Etius', Frondier suy luận rằng tên 'Baal' có thể là một trong những Tà Thần mà anh đã gặp. Anh cố tình khiêu khích Baal để câu giờ, khiến Marco phải đối mặt với tình huống khó xử. Cuối cùng, Baal quyết định tấn công Frondier bằng kỹ năng sử dụng aura thành kiếm, đặt Frondier vào thế nguy hiểm.",
+ "boi_canh": "Trong một căn phòng tối tăm, nơi những con quỷ đang tụ tập.",
+ "nhan_vat": [
+  "Frondier",
+  "Ellen",
+  "Lunia",
+  "Baal",
+  "Marco",
+  "Pascal",
+  "Marchosias",
+  "King of Hell",
+  "Beelzebub"
+ ],
+ "su_kien": [
+  "Frondier nhận ra kiến thức của anh không hoàn toàn đến từ game 'Etius'.",
+  "Frondier suy đoán rằng 'Baal' có thể là một trong những Tà Thần.",
+  "Frondier cố tình khiêu khích Baal để câu giờ.",
+  "Baal tấn công Frondier bằng kỹ năng sử dụng aura thành kiếm.",
+  "Marco tỏ ra bất mãn với hành động của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier cố tình khiêu khích Marco để câu giờ.",
+   "cach_goi": "gọi tên Marco, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Marco bị Frondier khiêu khích và phải đối mặt với tình huống khó xử.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Marco",
+   "loai": "cap_tren",
+   "mo_ta": "Baal ra lệnh cho Marco về việc xử lý Frondier.",
+   "cach_goi": "gọi tên Marco, lễ phép"
+  },
+  {
+   "a": "Marco",
+   "b": "Baal",
+   "loai": "cap_tren",
+   "mo_ta": "Marco báo cáo tình hình với Baal.",
+   "cach_goi": "gọi tên Baal, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier cố tình khiêu khích Baal.",
+   "cach_goi": "gọi tên Baal, thân mật"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Baal chuẩn bị tấn công Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 784,
+  "seconds": 23.4
+ }
+}

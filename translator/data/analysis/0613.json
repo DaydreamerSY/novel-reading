@@ -1,0 +1,87 @@
+{
+ "number": 613,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier dẫn Elysia vào một hành lang bí mật, nơi anh ta gặp Kagris và Bart. Họ định thực hiện nghi thức hút máu lên Elysia, nhưng bị Frondier ngăn chặn bằng cách xuất hiện bất ngờ. Một cuộc chiến ngắn diễn ra, trong đó Kagris bị đánh bại bởi một kỹ năng mới của Frondier mà anh ta đang luyện tập.",
+ "boi_canh": "Một hành lang bí mật dưới lòng đất, vào ban đêm.",
+ "nhan_vat": [
+  "Frondier",
+  "Elysia",
+  "Bart",
+  "Olivier",
+  "Kagris"
+ ],
+ "su_kien": [
+  "Frondier dẫn Elysia qua một hành lang bí mật.",
+  "Kagris và Bart định thực hiện nghi thức hút máu lên Elysia.",
+  "Frondier xuất hiện, ngăn chặn nghi lễ.",
+  "Một cuộc chiến ngắn diễn ra giữa Frondier và Kagris/Bart.",
+  "Kagris bị đánh bại bởi một kỹ năng mới của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier dẫn dắt và giam giữ Elysia.",
+   "cach_goi": "gọi tên Elysia, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Elysia bị Frondier bắt cóc và sợ hãi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kagris",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier thách thức Kagris.",
+   "cach_goi": "gọi tên Kagris, lạnh lùng"
+  },
+  {
+   "a": "Kagris",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Tức giận và tấn công Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bart",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier thách thức Bart.",
+   "cach_goi": "gọi tên Bart, lạnh lùng"
+  },
+  {
+   "a": "Bart",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Tức giận và sẵn sàng tấn công Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Kagris",
+   "b": "Bart",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người làm việc cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bart",
+   "b": "Kagris",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người làm việc cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Olivier: đã bị Frondier giết.",
+  "Bart: quản lý hành lang bí mật."
+ ],
+ "stats": {
+  "tokens": 893,
+  "seconds": 27.6
+ }
+}

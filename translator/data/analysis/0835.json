@@ -1,0 +1,87 @@
+{
+ "number": 835,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier quyết định bỏ rơi Pielott để đi, Elodie phản đối nhưng không thể ngăn cản. Nhóm của Frondier tiếp tục hành trình, trong khi Basileo vật lộn với cảm giác tội lỗi và sợ hãi sau sự cố với Pielott. Đồng thời, Charon đột kích cửa hàng của Colin, phát hiện ra những bí mật mà Colin đang che giấu, dẫn đến một cuộc đối đầu nguy hiểm.",
+ "boi_canh": "Một khu vực không xác định, ngay trước khi nhóm Frondier lên đường đi.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Lily",
+  "Pielott",
+  "Arald",
+  "Basileo",
+  "Colin",
+  "Charon"
+ ],
+ "su_kien": [
+  "Frondier quyết định bỏ rơi Pielott.",
+  "Elodie phản đối quyết định của Frondier.",
+  "Basileo vật lộn với cảm giác tội lỗi và sợ hãi sau sự cố với Pielott.",
+  "Charon đột kích cửa hàng của Colin.",
+  "Colin bị Charon tấn công và phải trốn chạy."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier quyết định rời bỏ Pielott.",
+   "cach_goi": "gọi tên Pielott, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ của Frondier phản đối quyết định của anh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Frondier giải thích quyết định của mình cho Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội của Frondier tin tưởng vào quyết định của anh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội của Frondier tin tưởng vào quyết định của anh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Basileo",
+   "b": "Lily",
+   "loai": "dong_minh",
+   "mo_ta": "Basileo cảm thấy tội lỗi và sợ hãi, được Lily an ủi.",
+   "cach_goi": "gọi tên Lily, lễ phép"
+  },
+  {
+   "a": "Lily",
+   "b": "Basileo",
+   "loai": "dong_minh",
+   "mo_ta": "Lily an ủi và động viên Basileo.",
+   "cach_goi": "gọi tên Basileo, lễ phép"
+  },
+  {
+   "a": "Colin",
+   "b": "Charon",
+   "loai": "nguoi_la",
+   "mo_ta": "Colin bị Charon tấn công trong cửa hàng.",
+   "cach_goi": "gọi tên Charon, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 929,
+  "seconds": 28.0
+ }
+}

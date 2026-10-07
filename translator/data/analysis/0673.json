@@ -1,0 +1,101 @@
+{
+ "number": 673,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier, Aster và Sybil quan sát những con quỷ tấn công và nhận thấy chúng có điểm tương đồng bất thường trong cách chiến đấu, vượt ra ngoài vẻ bề ngoài. Họ suy luận rằng điều này có thể liên quan đến việc các con quỷ cần phải phát triển tính cá nhân để thăng cấp. Cuối cùng, họ đưa ra giả thuyết rằng Marchosias, một trong 72 con quỷ của Solomon, đã cố tình phục tùng Satan thông qua một thỏa thuận bí mật, và có thể khai thác điều này để đạt được lợi thế.",
+ "boi_canh": "Một trận chiến đang diễn ra tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Pielott",
+  "Dier",
+  "Marco",
+  "Marchosias",
+  "Solomon"
+ ],
+ "su_kien": [
+  "Aster nhận thấy sự tương đồng bất thường trong cách chiến đấu của các con quỷ.",
+  "Các nhân vật tranh luận về ý nghĩa của sự tương đồng này và mối liên hệ với việc thăng cấp của quỷ.",
+  "Dier đưa ra giả thuyết rằng Marchosias có thể đã phục tùng Satan thông qua một thỏa thuận bí mật.",
+  "Aster nhớ lại lời Frondier nói về Belphegor và cách hắn che giấu kế hoạch của mình bằng vẻ lười biếng.",
+  "Các nhân vật suy đoán về mối quan hệ giữa 72 con quỷ của Solomon và Bảy Tội Lỗi."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Aster lắng nghe và suy ngẫm những lời của người thầy.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier chia sẻ quan sát và suy nghĩ của mình với học trò.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người cùng phân tích tình hình chiến đấu.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aster",
+   "loai": "dong_minh",
+   "mo_ta": "Sybil chia sẻ quan điểm và thông tin của mình với Aster.",
+   "cach_goi": "gọi tên Aster, lễ phép"
+  },
+  {
+   "a": "Dier",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Dier báo cáo thông tin cho Aster và tuân theo chỉ dẫn của anh.",
+   "cach_goi": "gọi tên Aster, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Dier",
+   "loai": "cap_tren",
+   "mo_ta": "Aster lắng nghe và đánh giá thông tin từ Dier.",
+   "cach_goi": "gọi tên Dier, lễ phép"
+  },
+  {
+   "a": "Pielott",
+   "b": "Aster",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp, quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Sybil",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp, quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp, quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Sybil",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp, quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1103,
+  "seconds": 34.4
+ }
+}

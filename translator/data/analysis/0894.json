@@ -1,0 +1,53 @@
+{
+ "number": 894,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cuộc trò chuyện giữa Frondier và Arald, hé lộ những bí mật về quá khứ của Arald và vai trò của ông trong việc tìm kiếm người kế vị cho Vua Quỷ. Frondier khám phá ra rằng Arald đã biết về sức mạnh Ecleksis của mình từ lâu và đã theo dõi ông sau khi nhận ra tiềm năng của ông. Cuối cùng, họ tiến đến bờ biển Agoris để tìm kiếm Pandemonium, nơi chứa đựng những thông tin quan trọng mà Frondier cần.",
+ "boi_canh": "Bờ biển Agoris, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Arald",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Baal"
+ ],
+ "su_kien": [
+  "Frondier chất vấn Arald về sự thù hận của ông đối với các vị thần.",
+  "Arald tiết lộ rằng ông đã tìm kiếm một người phù hợp để trở thành Vua Quỷ.",
+  "Frondier nhận ra Arald đã biết về sức mạnh Ecleksis của mình từ trước.",
+  "Frondier và Arald đến bờ biển Agoris để tìm kiếm Pandemonium.",
+  "Arald cảnh báo Frondier rằng có điều gì đó không ổn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier chất vấn và dò hỏi Arald về những bí mật của quá khứ.",
+   "cach_goi": "gọi tên Arald, lạnh lùng"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Arald trả lời những câu hỏi của Frondier và cung cấp thông tin về quá khứ.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Frondier nghe thấy giọng Selena trong đầu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ecleksis: Sức mạnh mà trước đây được coi là 'sức mạnh của quỷ'",
+  "Arald: Một con quỷ cổ xưa đã chứng kiến Ragnarok."
+ ],
+ "stats": {
+  "tokens": 638,
+  "seconds": 19.3
+ }
+}

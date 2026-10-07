@@ -1,0 +1,90 @@
+{
+ "number": 819,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi kết thúc các bài kiểm tra học kỳ đầu tiên, sinh viên được nghỉ phép. Frondier, Basileo và Zenita đang ở trong lớp học, mỗi người có những suy nghĩ riêng về kỳ nghỉ. Basileo bận rộn với câu hỏi cuối cùng của bài thi, còn Zenita quan sát anh. Sau đó, Frondier thông báo về bài tập về nhà bất ngờ là khám sức khỏe, khiến mọi người ngạc nhiên. Cuối cùng, Frondier gọi Basileo đến phòng nhân viên để nói chuyện riêng, cùng với sự xuất hiện bất ngờ của Elodie.",
+ "boi_canh": "Trong lớp học vào ngày sau khi kết thúc các bài kiểm tra học kỳ đầu tiên.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Basileo",
+  "Zenita"
+ ],
+ "su_kien": [
+  "Sinh viên thảo luận về kế hoạch nghỉ phép của họ.",
+  "Basileo lo lắng xem xét lại câu hỏi cuối cùng trong bài kiểm tra học kỳ đầu tiên.",
+  "Frondier thông báo bài tập về nhà là khám sức khỏe.",
+  "Zenita quan sát Frondier và Basileo với vẻ hoài nghi.",
+  "Frondier gọi Basileo đến phòng nhân viên để nói chuyện riêng, cùng Elodie."
+ ],
+ "quan_he": [
+  {
+   "a": "Basileo",
+   "b": "Zenita",
+   "loai": "ban_be",
+   "mo_ta": "Bạn học cùng lớp, Zenita quan sát Basileo đang lo lắng.",
+   "cach_goi": "gọi tên Zenita, thân mật"
+  },
+  {
+   "a": "Zenita",
+   "b": "Basileo",
+   "loai": "ban_be",
+   "mo_ta": "Bạn học cùng lớp, Zenita quan sát Basileo đang lo lắng.",
+   "cach_goi": "gọi tên Basileo, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, Frondier gọi Basileo đến phòng nhân viên.",
+   "cach_goi": "gọi tên Basileo, lễ phép"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên, Basileo trả lời Frondier.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, Frondier nhờ Elodie đến phòng nhân viên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, Elodie đến phòng nhân viên theo yêu cầu của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, Frondier gọi Basileo đến phòng nhân viên.",
+   "cach_goi": "gọi tên Basileo, lễ phép"
+  },
+  {
+   "a": "Basileo",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người không quen biết, Basileo cảm thấy lo lắng khi gặp Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Basileo",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người không quen biết, Elodie quan sát Basileo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1047,
+  "seconds": 31.4
+ }
+}

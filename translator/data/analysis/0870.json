@@ -1,0 +1,89 @@
+{
+ "number": 870,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cảnh Aster cố gắng thể hiện 'Ecleksis' trước các vị thần Olympus. Anh ta không biết 'Ecleksis' là gì và sử dụng sức mạnh aura, rồi sau đó cầm lấy giáo và khiên của Ares. Việc tiếp xúc với vũ khí khiến anh ta chịu ảnh hưởng bởi những thôi thúc tinh thần ẩn giấu bên trong. Cuối cùng, Aster tuyên bố danh tính thật của mình là Aster Evans và nhận toàn bộ 'Ecleksis' từ các vị thần, thể hiện sự ngưỡng mộ đối với Frondier và quyết tâm đuổi theo dấu chân của anh ta.",
+ "boi_canh": "Một địa điểm bí ẩn, nơi có sự hiện diện của nhiều vị thần Olympus.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Renzo",
+  "Ludovic",
+  "Aster Evans",
+  "Ares",
+  "Poseidon",
+  "Baldur"
+ ],
+ "su_kien": [
+  "Aster không biết 'Ecleksis' là gì.",
+  "Aster cố gắng thể hiện sức mạnh để đáp ứng yêu cầu của các vị thần.",
+  "Aster cầm giáo và khiên của Ares, chịu ảnh hưởng bởi những thôi thúc tinh thần ẩn giấu.",
+  "Aster tuyên bố danh tính thật của mình là Aster Evans.",
+  "Aster nhận toàn bộ 'Ecleksis' từ các vị thần."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "thay_tro",
+   "mo_ta": "Aster ngưỡng mộ và muốn đuổi theo Frondier, nhưng cảm thấy mình không thể bắt kịp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aster muốn đuổi theo dấu chân của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Ludovic",
+   "loai": "ban_be",
+   "mo_ta": "Aster được Ludovic bế và nhờ vả trong tình huống nguy hiểm.",
+   "cach_goi": "gọi tên Ludovic, thân mật"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Ludovic lo lắng cho tình trạng của Aster và nhờ anh ta nói chuyện để câu giờ.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Poseidon",
+   "loai": "nguoi_la",
+   "mo_ta": "Aster đáp lại yêu cầu của Poseidon về việc thể hiện 'Ecleksis'.",
+   "cach_goi": "gọi 'Poseidon', lễ phép"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Poseidon thúc giục Aster thể hiện 'Ecleksis'.",
+   "cach_goi": "gọi tên Aster, lạnh lùng"
+  },
+  {
+   "a": "Aster",
+   "b": "Ares",
+   "loai": "ke_thu",
+   "mo_ta": "Aster sử dụng vũ khí của Ares, chịu ảnh hưởng bởi sức mạnh tinh thần ẩn giấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Baldur",
+   "loai": "gia_dinh",
+   "mo_ta": "Aster từng tuân theo Baldur.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)"
+ ],
+ "stats": {
+  "tokens": 977,
+  "seconds": 29.3
+ }
+}

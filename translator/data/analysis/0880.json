@@ -1,0 +1,190 @@
+{
+ "number": 880,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đến Edrium, Frondier nhận ra mình đã trở thành Vua Quỷ nhưng vẫn giữ bí mật để tránh gây thêm sự hỗn loạn. Ông và đồng đội được Baal tiếp đãi thịnh tình, dù ông đã khuất phục Baal. Frondier quyết định quay lại Atlas để hoàn thành nhiệm vụ của mình, sau khi mọi người hồi phục. Trên đường về, họ gặp gỡ những thử thách và đối mặt với những vấn đề chưa được giải quyết, đỉnh điểm là việc Evelina, thủ lĩnh của Ahop, quỳ lạy trước mặt Frondier và trao cho ông một vật phẩm bí ẩn - Golden Apple.",
+ "boi_canh": "Tại lâu đài của Baal ở Edrium.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Lily",
+  "Pielott",
+  "Edwin",
+  "Carla",
+  "Baal",
+  "Mei",
+  "Arald",
+  "Athena",
+  "Frondier de Roach",
+  "Basileo",
+  "Aias",
+  "Ares",
+  "Zeus",
+  "Fron",
+  "Evelina Pere",
+  "Ahop (tổ chức)"
+ ],
+ "su_kien": [
+  "Frondier trở thành Vua Quỷ của Edrium.",
+  "Baal tiếp đãi Frondier và đồng đội một cách thịnh tình.",
+  "Frondier quyết định quay lại Atlas để hoàn thành nhiệm vụ.",
+  "Aster tấn công Zeus, gây ra sự chú ý từ các vị thần.",
+  "Evelina Pere, thủ lĩnh của Ahop, quỳ lạy trước mặt Frondier và trao cho ông Golden Apple."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là Vua Quỷ, Baal là người bị khuất phục nhưng vẫn giữ chức vị.",
+   "cach_goi": "gọi tên Baal, lễ phép"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Baal là người bị khuất phục, tỏ ra dè chừng với Frondier.",
+   "cach_goi": "gọi tên Frondier, thận trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết của Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết của Frondier.",
+   "cach_goi": "gọi tên Fron, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, người quản lý thông tin và demon.",
+   "cach_goi": "gọi tên Arald, lễ phép"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, người quản lý thông tin và demon.",
+   "cach_goi": "gọi tên Lord Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aias",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "gọi tên Aias, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aias",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "gọi tên Carla, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "gọi tên Mei, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "gọi tên Lily, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "gọi tên Teacher, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Evelina Pere",
+   "loai": "nguoi_la",
+   "mo_ta": "Thủ lĩnh của Ahop, người mới gặp.",
+   "cach_goi": "gọi tên Evelina, lễ phép"
+  },
+  {
+   "a": "Evelina Pere",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Thủ lĩnh của Ahop, người mới gặp.",
+   "cach_goi": "gọi tên Lord Frondier, lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1914,
+  "seconds": 57.8
+ }
+}

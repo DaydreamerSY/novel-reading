@@ -1,0 +1,147 @@
+{
+ "number": 822,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu kỳ nghỉ của Frondier và Elodie, khi họ nhận lịch làm việc để xác minh danh tính 'Poseidon' và tìm kiếm dấu hiệu chiến tranh. Họ lên kế hoạch luân phiên trực và thảo luận về các vấn đề còn tồn đọng như Basileo, Pielott và bài học phép thuật. Các nhân vật khác bày tỏ lo ngại về tình hình chính trị, trong khi Frondier hồi tưởng lại quá khứ bị trục xuất khỏi đế chế của mình và những mối quan hệ mà anh ta đã tạo ra. Cuối cùng, Frondier bắt đầu lớp học kết hợp phép thuật và chiến đấu, nhấn mạnh tầm quan trọng của việc hiểu đối thủ thay vì chỉ tập trung vào một kỹ năng duy nhất.",
+ "boi_canh": "Trong phòng làm việc nhân viên, trước khi kỳ nghỉ chính thức bắt đầu.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Arald",
+  "Monty",
+  "Basileo",
+  "Aias",
+  "Glaukos"
+ ],
+ "su_kien": [
+  "Frondier và Elodie nhận lịch làm việc cho kỳ nghỉ.",
+  "Các nhân vật thảo luận về tình hình chính trị và nguy cơ chiến tranh.",
+  "Frondier hồi tưởng lại quá khứ bị trục xuất khỏi đế chế.",
+  "Basileo bày tỏ sự lo lắng về tình hình.",
+  "Frondier bắt đầu lớp học kết hợp phép thuật và chiến đấu."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, thảo luận kế hoạch làm việc và tình hình chung.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, thảo luận kế hoạch làm việc và tình hình chung.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "cap_tren",
+   "mo_ta": "Người lớn tuổi hơn, đưa ra lời khuyên về sự chuẩn bị.",
+   "cach_goi": "gọi tên Arald, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người lớn tuổi hơn, đưa ra lời khuyên về sự chuẩn bị.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, chia sẻ quan điểm về tình hình.",
+   "cach_goi": "gọi tên Lily, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, chia sẻ quan điểm về tình hình.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, chia sẻ quan điểm về tình hình.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, chia sẻ quan điểm về tình hình.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò, Basileo bày tỏ sự lo lắng.",
+   "cach_goi": "gọi tên Basileo, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò, Basileo bày tỏ sự lo lắng.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, trêu chọc Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, trêu chọc Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Glaukos",
+   "loai": "nguoi_la",
+   "mo_ta": "Giáo viên và học sinh mới gặp nhau.",
+   "cach_goi": "gọi tên Glaukos, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Glaukos",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Giáo viên và học sinh mới gặp nhau.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aias",
+   "loai": "nguoi_la",
+   "mo_ta": "Giáo viên và học sinh mới gặp nhau.",
+   "cach_goi": "gọi tên Aias, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aias",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Giáo viên và học sinh mới gặp nhau.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1651,
+  "seconds": 49.7
+ }
+}

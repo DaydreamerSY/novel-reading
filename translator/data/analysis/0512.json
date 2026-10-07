@@ -2,122 +2,113 @@
  "number": 512,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong lớp học, Elodie gây sốc khi tuyên bố rằng cô không sợ các vị thần và coi họ là bạn bè. Aten khẳng định sẽ tin tưởng Frondier và hành động theo đó. Robald Lieff kêu gọi mọi người hành động để đối phó với mối đe dọa từ Manggot. Aster Evans bày tỏ sự miễn cưỡng trong việc lãnh đạo, còn Frondier cố gắng thuyết phục anh ấy. Sybil quan sát tình hình và bắt đầu suy ngẫm về tài năng của mình cũng như những tác động của nó.",
- "boi_canh": "Trong lớp học, giữa các học viên.",
+ "tom_tat": "Belphegor và Hagley quan sát biển từ vách đá Manggot, thảo luận về kế hoạch tấn công Đế Chế bằng một trận thủy triều lửa. Belphegor bày tỏ lo ngại về Frondier, người mà ông coi là một biến số không thể đoán trước. Trong khi đó, tại phòng họp Hoàng cung, một cuộc họp khẩn cấp với sự tham gia của nhiều nhân vật quan trọng diễn ra dưới sự chủ trì của Belphegor thay vì Osprey.",
+ "boi_canh": "Trên vách đá Manggot, lúc hoàng hôn.",
  "nhan_vat": [
+  "Belphegor",
+  "Hagley",
   "Frondier",
-  "Elodie",
-  "Aster",
-  "Aten Terst",
-  "Sybil",
+  "Osprey",
   "Ellen",
-  "Edwin",
-  "Lunia",
-  "Robald Lieff"
+  "Hagley",
+  "Frondier de Roach",
+  "Ellen Evans",
+  "Emperor",
+  "Empress",
+  "Princess",
+  "Zodiac members",
+  "Roach family members",
+  "Rishae family members",
+  "Constel Institute instructors",
+  "Ellen Evans",
+  "Imperial Knights representatives",
+  "Shroud Knights representatives"
  ],
  "su_kien": [
-  "Elodie tuyên bố không sợ các vị thần.",
-  "Aten khẳng định sẽ tin tưởng Frondier.",
-  "Robald Lieff kêu gọi mọi người hành động.",
-  "Aster Evans từ chối lãnh đạo.",
-  "Sybil suy ngẫm về tài năng và trách nhiệm của mình."
+  "Belphegor và Hagley quan sát biển từ vách đá Manggot.",
+  "Belphegor bày tỏ lo ngại về sự không thể đoán trước của Frondier.",
+  "Belphegor tiết lộ kế hoạch tấn công Đế Chế bằng một trận thủy triều lửa.",
+  "Một cuộc họp khẩn cấp diễn ra tại phòng họp Hoàng cung với sự chủ trì của Belphegor.",
+  "Belphegor thay thế Osprey trong vai trò chủ trì cuộc họp."
  ],
  "quan_he": [
   {
-   "a": "Elodie",
-   "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Bạn thân, Elodie có vẻ thích trêu chọc và gây bất ngờ cho Frondier.",
-   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Elodie",
-   "loai": "ban_be",
-   "mo_ta": "Bạn thân, Frondier có vẻ quen với những trò đùa của Elodie.",
-   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Lunia",
-   "b": "Elodie",
-   "loai": "dong_minh",
-   "mo_ta": "Đồng môn, Lunia tỏ ra ngạc nhiên trước lời nói của Elodie.",
-   "cach_goi": "gọi tên Elodie, lễ phép"
-  },
-  {
-   "a": "Elodie",
-   "b": "Lunia",
-   "loai": "dong_minh",
-   "mo_ta": "Đồng môn, Elodie không thích bị gọi bằng biệt danh 'Inies'.",
-   "cach_goi": "gọi tên Lunia, thân mật"
-  },
-  {
-   "a": "Aten Terst",
-   "b": "Frondier",
+   "a": "Belphegor",
+   "b": "Hagley",
    "loai": "cap_tren",
-   "mo_ta": "Tam công chúa Aten tin tưởng và hành động theo quyết định của Frondier.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
+   "mo_ta": "Belphegor là cấp trên của Hagley, đang thảo luận chiến lược.",
+   "cach_goi": "gọi tên Hagley, không rõ ràng"
   },
   {
-   "a": "Sybil",
-   "b": "Aten Terst",
-   "loai": "dong_minh",
-   "mo_ta": "Đồng môn, Sybil lắng nghe những gì Aten nói.",
-   "cach_goi": "gọi tên Aten, không nói chuyện trực tiếp"
+   "a": "Hagley",
+   "b": "Belphegor",
+   "loai": "thay_tro",
+   "mo_ta": "Hagley là thuộc hạ của Belphegor, lắng nghe và phản hồi.",
+   "cach_goi": "gọi tên Belphegor-nim, lễ phép"
   },
   {
-   "a": "Robald Lieff",
-   "b": "Aster Evans",
-   "loai": "dong_minh",
-   "mo_ta": "Đồng môn, Robald Lieff có vẻ là người có khả năng truyền cảm hứng cho những người xung quanh.",
-   "cach_goi": "gọi tên Aster, thân mật"
-  },
-  {
-   "a": "Aster Evans",
+   "a": "Belphegor",
    "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè, Aster từ chối lời đề nghị của Frondier.",
-   "cach_goi": "gọi tên Frondier, thân mật"
+   "loai": "doi_thu",
+   "mo_ta": "Belphegor lo ngại về Frondier, xem anh như một yếu tố bất ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Frondier",
-   "b": "Aster Evans",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè, Frondier cố gắng thuyết phục Aster lãnh đạo.",
-   "cach_goi": "gọi tên Aster, thân mật"
-  },
-  {
-   "a": "Sybil",
-   "b": "Aster Evans",
-   "loai": "dong_minh",
-   "mo_ta": "Đồng môn, Sybil quan sát Aster và Frondier.",
-   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Sybil",
+   "a": "Hagley",
    "b": "Frondier",
-   "loai": "dong_minh",
-   "mo_ta": "Đồng môn, Sybil quan sát Aster và Frondier.",
-   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+   "loai": "doi_thu",
+   "mo_ta": "Hagley quan tâm đến Frondier theo chỉ đạo của Belphegor.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Edwin",
-   "b": "Lunia",
-   "loai": "dong_minh",
-   "mo_ta": "Đồng môn, Edwin và Lunia thảo luận về vấn đề an ninh.",
-   "cach_goi": "gọi tên Lunia, không nói chuyện trực tiếp"
+   "a": "Belphegor",
+   "b": "Osprey",
+   "loai": "doi_thu",
+   "mo_ta": "Belphegor xem Osprey là đối thủ tiềm năng.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Lunia",
-   "b": "Edwin",
+   "a": "Emperor",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Emperor đã ra lệnh cho Belphegor chủ trì cuộc họp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Empress",
+   "b": "Belphegor",
    "loai": "dong_minh",
-   "mo_ta": "Đồng môn, Edwin và Lunia thảo luận về vấn đề an ninh.",
-   "cach_goi": "gọi tên Edwin, không nói chuyện trực tiếp"
+   "mo_ta": "Empress tham gia cuộc họp do Belphegor chủ trì.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Princess",
+   "b": "Belphegor",
+   "loai": "dong_minh",
+   "mo_ta": "Princess tham gia cuộc họp do Belphegor chủ trì.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Osprey là một thành viên quan trọng của Zodiac và có thể là đối thủ của Belphegor.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen Evans",
+   "b": "Belphegor",
+   "loai": "nguoi_la",
+   "mo_ta": "Ellen Evans đại diện cho học sinh tại cuộc họp.",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
- "danh_tinh": [],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)",
+  "Ellen Evans (tên đầy đủ của Ellen)"
+ ],
  "stats": {
-  "tokens": 1364,
-  "seconds": 40.8
+  "tokens": 1201,
+  "seconds": 35.7
  }
 }

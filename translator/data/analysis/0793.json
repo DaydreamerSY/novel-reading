@@ -1,0 +1,83 @@
+{
+ "number": 793,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đối mặt với Antero bị một thực thể mạnh mẽ chiếm giữ, Frondier phát hiện ra kẻ xâm nhập là Bune, một trong 72 Quỷ. Bune tiết lộ rằng sức mạnh của Antero đến từ sự kết hợp giữa quyền năng thần thánh và quỷ dữ, và giải thích cách thức hoạt động của Paladin. Để có được thông tin về sức mạnh thực sự của Bune, Frondier đã giam giữ hắn bằng Black Thread và đe dọa sẽ tiết lộ bí mật nếu Bune không cung cấp thông tin.",
+ "boi_canh": "Trong một không gian kín đáo, nơi một trận chiến sắp diễn ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Antero",
+  "Bune",
+  "Renzo",
+  "Heldre",
+  "Sale",
+  "Odin",
+  "Mom"
+ ],
+ "su_kien": [
+  "Antero bị một thực thể mạnh mẽ chiếm giữ, được xác định là Bune.",
+  "Bune tiết lộ mình là một trong 72 Quỷ.",
+  "Frondier sử dụng Black Thread để giam giữ Bune.",
+  "Bune giải thích rằng sức mạnh của Antero đến từ sự kết hợp giữa quyền năng thần thánh và quỷ dữ.",
+  "Frondier đe dọa sẽ tiết lộ bí mật nếu Bune không cung cấp thông tin về sức mạnh của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Antero",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier quan sát và đối chất với Antero bị chiếm giữ.",
+   "cach_goi": "gọi tên Antero, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Antero",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Antero bị Bune chiếm giữ, không thể giao tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bune",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp để thu thập thông tin và kiểm tra sức mạnh.",
+   "cach_goi": "gọi tên Bune, lễ phép"
+  },
+  {
+   "a": "Bune",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cố gắng đánh giá và thao túng Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Antero",
+   "b": "Bune",
+   "loai": "chu_to",
+   "mo_ta": "Bune chiếm giữ cơ thể Antero và điều khiển hành động của anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "ban_be",
+   "mo_ta": "Đề cập đến Renzo như một ví dụ về sự kết hợp giữa thần thánh và con người.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heldre",
+   "loai": "ban_be",
+   "mo_ta": "Đề cập đến Heldre như một ví dụ về sự kết hợp giữa thần thánh và con người.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Bune: Được xác định là một trong 72 Quỷ, không phải là một vị thần.",
+  "Antero: Sức mạnh của anh ta đến từ sự kết hợp giữa quyền năng thần thánh và quỷ dữ."
+ ],
+ "stats": {
+  "tokens": 956,
+  "seconds": 28.7
+ }
+}

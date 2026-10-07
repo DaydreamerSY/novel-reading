@@ -2,85 +2,55 @@
  "number": 572,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Chương này tập trung vào sự chuyển giao quyền lực vị trí 'Sloth' từ Belphegor sang Astaroth. Belphegor, trước khi bị trục xuất đến Nastrond, đã có những lời lẽ khiêu khích và cảnh báo dành cho Astaroth về việc đảm nhận vai trò mới. Sự kiện này cũng hé lộ sự quan tâm của Lucifer và Satan đối với mối quan hệ giữa Belphegor và Frondier, đồng thời làm nổi bật sự khác biệt trong cách tiếp cận vấn đề của họ.",
- "boi_canh": "Trong một không gian bí mật, nơi diễn ra buổi chuyển giao quyền lực giữa các vị thần.",
+ "tom_tat": "Sau khi chiến tranh kết thúc một tuần, Frondier trăn trở về tương lai của Selena và liệu họ có nên tiếp tục mối quan hệ hay không. Anh ta tìm đến nơi họ thường gặp gỡ, nhưng Selena đã ở đó chờ đợi anh. Cô ấy đã tái kết nối bóng tối của mình với anh, khiến anh bối rối vì những kế hoạch trước đây của anh. Cuối cùng, Frondier thông báo cho cô về một nhiệm vụ nguy hiểm mà anh phải thực hiện và khẳng định rằng cô sẽ đi theo anh.",
+ "boi_canh": "Bên ngoài trang viên, sau khi chiến tranh kết thúc một tuần.",
  "nhan_vat": [
   "Frondier",
-  "Astaroth",
-  "Lucifer",
-  "Belphegor",
-  "Satan"
+  "Selena",
+  "Osprey"
  ],
  "su_kien": [
-  "Astaroth chính thức đảm nhận vị trí 'Sloth'.",
-  "Belphegor đưa ra những lời khiêu khích và cảnh báo cho Astaroth.",
-  "Lucifer đặt câu hỏi về việc Belphegor thua Frondier.",
-  "Satan thể hiện sự quan tâm đến mối quan hệ giữa Belphegor và Frondier.",
-  "Belphegor cười lớn, biểu lộ sự mãn nguyện khi rời khỏi vị trí của mình."
+  "Một tuần đã trôi qua kể từ khi chiến tranh kết thúc.",
+  "Frondier suy nghĩ về tương lai của Selena và mối quan hệ của họ.",
+  "Selena tái kết nối bóng tối của mình với Frondier.",
+  "Frondier thông báo cho Selena về một nhiệm vụ nguy hiểm mà anh phải thực hiện.",
+  "Selena tuyên bố sẽ đi theo Frondier đến 'địa ngục'."
  ],
  "quan_he": [
   {
-   "a": "Astaroth",
-   "b": "Belphegor",
-   "loai": "doi_thu",
-   "mo_ta": "Cạnh tranh vị trí và có những lời lẽ khiêu khích lẫn nhau.",
-   "cach_goi": "gọi tên Belphegor, lạnh lùng"
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Trưởng thành và bối rối về mối quan hệ của họ.",
+   "cach_goi": "gọi tên Selena, thân mật"
   },
   {
-   "a": "Belphegor",
-   "b": "Astaroth",
-   "loai": "doi_thu",
-   "mo_ta": "Cảnh báo và khiêu khích Astaroth về vai trò mới.",
-   "cach_goi": "gọi tên Astaroth, thân mật nhưng mỉa mai"
-  },
-  {
-   "a": "Lucifer",
-   "b": "Belphegor",
+   "a": "Selena",
+   "b": "Frondier",
    "loai": "cap_tren",
-   "mo_ta": "Đặt câu hỏi về việc Belphegor thua cuộc trước một con người.",
-   "cach_goi": "gọi tên Belphegor, trung lập"
+   "mo_ta": "Trung thành và quyết tâm bảo vệ Frondier.",
+   "cach_goi": "gọi 'Frondier-nim', lễ phép"
   },
   {
-   "a": "Belphegor",
-   "b": "Lucifer",
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Trưởng thành và bối rối về mối quan hệ của họ.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
    "loai": "cap_tren",
-   "mo_ta": "Không phản hồi câu hỏi của Lucifer.",
-   "cach_goi": "gọi tên Lucifer, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Satan",
-   "b": "Belphegor",
-   "loai": "cap_tren",
-   "mo_ta": "Quan sát và có những lời nhận xét về sự thay đổi của Belphegor.",
-   "cach_goi": "gọi tên Belphegor, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Belphegor",
-   "b": "Satan",
-   "loai": "cap_tren",
-   "mo_ta": "Nghi ngờ động cơ của Satan.",
-   "cach_goi": "gọi tên Satan, thân mật nhưng dò xét"
-  },
-  {
-   "a": "Astaroth",
-   "b": "Satan",
-   "loai": "khac",
-   "mo_ta": "Không có mối quan hệ rõ ràng.",
-   "cach_goi": "gọi tên Satan, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Satan",
-   "b": "Astaroth",
-   "loai": "cap_tren",
-   "mo_ta": "Khuyên bảo Astaroth một cách mỉa mai.",
-   "cach_goi": "gọi tên Astaroth, trịch thượng"
+   "mo_ta": "Trung thành và quyết tâm bảo vệ Frondier.",
+   "cach_goi": "gọi 'Frondier-nim', lễ phép"
   }
  ],
  "danh_tinh": [
-  "Belphegor đã từng giữ vị trí 'Sloth' trước khi chuyển giao cho Astaroth."
+  "Selena đã tái kết nối bóng tối của mình với Frondier."
  ],
  "stats": {
-  "tokens": 976,
-  "seconds": 30.5
+  "tokens": 633,
+  "seconds": 19.9
  }
 }

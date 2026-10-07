@@ -1,0 +1,79 @@
+{
+ "number": 959,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Azier và Thanatos tiếp tục màn đối đầu căng thẳng. Thanatos liên tục tấn công một chiều, buộc Azier phải phòng thủ. Dù Azier có thể tái tạo lại giáo của mình sau khi bị phá hủy, nhưng quá trình đó gây ra tổn thương ngày càng lớn cho cơ thể anh. Cuối cùng, Thanatos sử dụng quyền năng của mình để tấn công quyết định, khiến Azier ngã xuống. Frondier chứng kiến trận chiến và hiểu rõ hơn về sức mạnh của Azier.",
+ "boi_canh": "Trận chiến giữa Azier và Thanatos diễn ra trên một chiến trường đầy mưa bão.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Thanatos",
+  "Thor",
+  "Binkis"
+ ],
+ "su_kien": [
+  "Thanatos liên tục tấn công Azier, buộc anh phải phòng thủ.",
+  "Giáo của Azier bị phá hủy nhiều lần và dần biến thành mảnh vỡ.",
+  "Thanatos nhận ra rằng Azier đang tái tạo lại giáo bằng cách sử dụng khái niệm về nó.",
+  "Thanatos triệu hồi mưa bão để tăng cường sức mạnh tấn công.",
+  "Azier ngã xuống sau khi bị tấn công bởi Ecleksis của Thanatos."
+ ],
+ "quan_he": [
+  {
+   "a": "Azier",
+   "b": "Thanatos",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến, liên tục tấn công và phòng thủ.",
+   "cach_goi": "gọi tên 'Thanatos', lạnh lùng"
+  },
+  {
+   "a": "Thanatos",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến, liên tục tấn công và phòng thủ.",
+   "cach_goi": "gọi tên 'Azier', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, chứng kiến trận chiến từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thor",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, được giao nhiệm vụ giết Frondier.",
+   "cach_goi": "gọi tên 'Frondier', trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thor",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, được giao nhiệm vụ giết Frondier.",
+   "cach_goi": "gọi tên 'Thor', thân mật"
+  },
+  {
+   "a": "Thanatos",
+   "b": "Thor",
+   "loai": "cap_tren",
+   "mo_ta": "Thanatos là người có quyền lực cao hơn Thor, ra lệnh cho Thor.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binkis",
+   "b": "Azier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên của Azier, đã dạy cho anh kỹ thuật Fallen Spear.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Fallen Spear: Kỹ thuật mà Binkis đã dạy cho Azier và sau đó được golem sử dụng."
+ ],
+ "stats": {
+  "tokens": 890,
+  "seconds": 26.8
+ }
+}

@@ -1,0 +1,114 @@
+{
+ "number": 741,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bị kết tội và chuẩn bị bị trục xuất khỏi Đế quốc trong sự chứng kiến của đông đảo dân chúng. Trong khi mọi người đều tràn đầy cảm xúc, Elodie de Inies Rishae lại bình tĩnh tin rằng Frondier đã có kế hoạch riêng. Một cậu bé tên Kevin ném đá vào Frondier, tạo ra một khoảnh khắc im lặng căng thẳng trước khi Elodie tuyên bố bỏ trốn khỏi nhà.",
+ "boi_canh": "Quảng trường thành phố Sylvania, ngày trục xuất của Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie de Inies Rishae",
+  "Philly",
+  "Bartello",
+  "Lily",
+  "Azier",
+  "Enfer",
+  "Malia",
+  "Osprey",
+  "Ludovic",
+  "Kevin",
+  "Odin"
+ ],
+ "su_kien": [
+  "Frondier và Lily bị xiềng xích tại quảng trường thành phố Sylvania.",
+  "Bartello chuẩn bị tuyên án trục xuất Frondier.",
+  "Một Zodiac đề nghị giết Frondier thay vì trục xuất.",
+  "Kevin ném đá vào đầu Frondier.",
+  "Elodie de Inies Rishae tuyên bố bỏ trốn khỏi nhà."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Bartello",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng, Philly lo lắng và hối tiếc về quyết định trục xuất Frondier.",
+   "cach_goi": "gọi tên Bartello, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bartello",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Chồng vợ, Bartello có vẻ nặng lòng trước quyết định trục xuất Frondier.",
+   "cach_goi": "gọi tên Philly, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, cùng bị xiềng xích và đối mặt với sự phán xét.",
+   "cach_goi": "gọi tên Lily, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Zodiac",
+   "b": "Ludovic",
+   "loai": "doi_thu",
+   "mo_ta": "Một thành viên Zodiac đề nghị giết Frondier.",
+   "cach_goi": "gọi tên Ludovic, thô lỗ"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Zodiac",
+   "loai": "doi_thu",
+   "mo_ta": "Ludovic ngăn cản một thành viên Zodiac giết Frondier.",
+   "cach_goi": "gọi tên Zodiac, lạnh lùng"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Cha của Frondier, có mặt chứng kiến sự kiện.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Anh trai của Frondier, có mặt chứng kiến sự kiện.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Mẹ của Frondier, có mặt chứng kiến sự kiện.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie de Inies Rishae",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết nhưng có sự tin tưởng và trách nhiệm.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bartello",
+   "b": "Elodie de Inies Rishae",
+   "loai": "cap_tren",
+   "mo_ta": "Quan hệ chủ tớ, Bartello nhận được sự gật đầu của Elodie.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kevin",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Một cậu bé ném đá vào Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi tức tỉnh thần tính)"
+ ],
+ "stats": {
+  "tokens": 1249,
+  "seconds": 37.5
+ }
+}

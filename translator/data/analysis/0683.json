@@ -1,0 +1,101 @@
+{
+ "number": 683,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi gửi Baal đi, Frondier đối mặt với sự nghi ngờ của Marco về việc liệu họ có thực sự đứng cùng một chiến tuyến hay không. Marco tiết lộ rằng devils chỉ hợp tác vì lợi ích cá nhân và nếu muốn kiểm soát hắn, Frondier phải giết Satan. Sau đó, Frondier đưa Marco đến gặp bạn bè của mình để giải thích tình hình, đồng thời Aster liên hệ lại với Frondier. Cuối cùng, Frondier tuyên bố sẽ cứu devils, bao gồm cả Marco, như một cách để chấm dứt chiến tranh, khiến Aster và những người khác nghi ngờ.",
+ "boi_canh": "Trong một căn biệt thự bỏ hoang, sau khi gửi Baal đi.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten Terst",
+  "Sybil",
+  "Dier",
+  "Lunia",
+  "Baal",
+  "Marco",
+  "Robald",
+  "Ria Lis",
+  "Robald Lieff",
+  "Dier Aigar",
+  "Lis"
+ ],
+ "su_kien": [
+  "Frondier gửi Baal đi.",
+  "Marco bày tỏ sự nghi ngờ về mối quan hệ giữa Frondier và devils.",
+  "Frondier đưa Marco đến gặp bạn bè của mình.",
+  "Aster liên hệ với Frondier sau khi hoàn thành nhiệm vụ.",
+  "Frondier tuyên bố sẽ cứu devils, bao gồm cả Marco."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đã giải cứu Baal nhưng không hoàn toàn tin tưởng hắn.",
+   "cach_goi": "gọi tên Baal, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Baal nghi ngờ và không tin tưởng Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Marco là người dưới sự kiểm soát của Satan và đang bị Frondier lợi dụng.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đang lợi dụng Marco để đạt được mục đích của mình.",
+   "cach_goi": "gọi tên Marco, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aster là bạn của Frondier và đang lo lắng cho anh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Frondier là bạn của Aster và đang cố gắng giải thích tình hình cho anh.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Lunia",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Lunia là bạn của Aster và đang lắng nghe cuộc trò chuyện của họ.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Sybil đang nghi ngờ và thù địch với Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier Aigar",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Dier Aigar là người cấp trên của Frondier và đang hỏi anh về tình hình.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1089,
+  "seconds": 33.0
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "number": 626,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier chủ động tiết lộ với Hoàng hậu Philly về mối liên hệ của mình với quỷ dữ để có lợi thế trong cuộc đối thoại. Anh giải thích về thứ bậc của quỷ và những sự cố không may đã xảy ra khi anh kiểm soát sức mạnh của chúng. Sau đó, Frondier cảnh báo Philly về nguy cơ các quỷ cấp cao ẩn nấp trong Đế quốc sau khi Satan bị trục xuất và đề nghị tăng cường giám sát để ngăn chặn chúng gây hỗn loạn.",
+ "boi_canh": "Trong phòng làm việc Hoàng hậu Philly tại Cung điện Hoàng gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Elysia",
+  "Mizonas",
+  "Shadow",
+  "Satan"
+ ],
+ "su_kien": [
+  "Frondier tiết lộ với Philly về mối liên hệ của mình với quỷ dữ.",
+  "Philly nghi ngờ Frondier có liên quan đến những vụ giết người gần đây.",
+  "Frondier cảnh báo về cuộc chiến giữa các quỷ và nguy cơ chúng tấn công Đế quốc.",
+  "Frondier đề nghị Philly tăng cường giám sát trong Đế quốc để đối phó với các quỷ cấp cao ẩn nấp.",
+  "Elysia vô tình ngắt lời Frondier khi anh đang nói về mục tiêu mà các quỷ có thể nhắm đến."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier báo cáo và cảnh báo cho cấp trên của mình.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu thẩm vấn và yêu cầu thông tin từ người dưới quyền.",
+   "cach_goi": "gọi tên Frondier, trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "thay_tro",
+   "mo_ta": "Người hầu của Frondier.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người hầu của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Satan",
+   "loai": "ke_thu",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Philly biết đến sự tồn tại của Satan.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Shadow Unit: Đơn vị Bóng Tối (đã được đề cập trong glossary)",
+  "Satan: Mục đích ban đầu của hắn là để các nhóm quỷ chia cắt nhau chiến đấu trên lãnh thổ Đế quốc."
+ ],
+ "stats": {
+  "tokens": 775,
+  "seconds": 23.2
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "number": 671,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đang đối mặt với nguy cơ trừng phạt từ các vị thần nếu chiến tranh với quỷ kết thúc. Elodie lo lắng cho Frondier và tuyên bố sẽ bảo vệ anh ta bằng mọi giá, thậm chí chống lại tất cả các vị thần ngoại trừ Rudra. Lunia bắt giữ một con quỷ và sử dụng một loại bẫy tâm lý để buộc nó phải khai báo thông tin về mục tiêu của chúng là ai.",
+ "boi_canh": "Trong một ngôi nhà có rune, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Pielott",
+  "Edwin",
+  "Lunia",
+  "Hela",
+  "Rudra"
+ ],
+ "su_kien": [
+  "Thảo luận về khả năng các vị thần trừng phạt Frondier sau khi chiến tranh với quỷ kết thúc.",
+  "Elodie tuyên bố sẽ bảo vệ Frondier và đối đầu với các vị thần nếu cần thiết.",
+  "Lunia bắt giữ một con quỷ bằng rune.",
+  "Lunia sử dụng một loại bẫy tâm lý để buộc con quỷ phải khai báo thông tin.",
+  "Con quỷ bị giật mình bởi sự tồn tại của phép thuật mà nó nghĩ là không thể."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie lo lắng cho sự an toàn của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie lo lắng cho sự an toàn của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Rudra",
+   "loai": "cap_tren",
+   "mo_ta": "Elodie tìm kiếm sự giúp đỡ từ một vị thần cấp cao.",
+   "cach_goi": "gọi tên Rudra, lễ phép"
+  },
+  {
+   "a": "Rudra",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "Một vị thần cấp cao đồng ý giúp đỡ Elodie.",
+   "cach_goi": "gọi tên Elodie, lễ phép"
+  },
+  {
+   "a": "Lunia",
+   "b": "Con quỷ",
+   "loai": "ke_thu",
+   "mo_ta": "Lunia bắt giữ và tra tấn một con quỷ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Con quỷ",
+   "b": "Lunia",
+   "loai": "ke_thu",
+   "mo_ta": "Một con quỷ bị bắt giữ và tra tấn bởi Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính mới hoặc bí mật nào được tiết lộ trong chương này."
+ ],
+ "stats": {
+  "tokens": 814,
+  "seconds": 25.4
+ }
+}

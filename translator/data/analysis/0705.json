@@ -1,0 +1,141 @@
+{
+ "number": 705,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với cuộc trò chuyện về những tin đồn xung quanh việc Frondier trở lại trường Constel sau trận chiến. Lunia tiết lộ rằng có một tin đồn lan truyền về mức độ nghiêm trọng của vết thương trên mặt anh. Sau đó, nhóm thảo luận về Marco và vai trò của Belphegor trong các sự kiện trước đây. Cuối cùng, Aster và Elodie đề cập đến vấn đề thường niên của trường Constel liên quan đến việc người đứng đầu hội học sinh đột ngột rời đi mà không có người kế nhiệm, và mọi ánh mắt đổ dồn lên Frondier.",
+ "boi_canh": "Trong khuôn viên trường Constel, sau một trận chiến.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Azier",
+  "Ellen",
+  "Lunia",
+  "Marco",
+  "Monty",
+  "Binkis",
+  "Robald",
+  "Ellen Evans"
+ ],
+ "su_kien": [
+  "Robald hỏi về một cuộc điều tra và Sybil trả lời.",
+  "Các học sinh Constel đối xử với Frondier như bình thường, phớt lờ sự cố liên quan đến quỷ.",
+  "Lunia tiết lộ tin đồn về vết thương trên mặt Frondier.",
+  "Nhóm thảo luận về Marco và thông tin anh ta cung cấp về Belphegor.",
+  "Aster và Elodie đề cập đến vấn đề người đứng đầu hội học sinh đột ngột rời đi."
+ ],
+ "quan_he": [
+  {
+   "a": "Robald",
+   "b": "Sybil",
+   "loai": "cap_tren",
+   "mo_ta": "Robald là cấp trên, Sybil trả lời.",
+   "cach_goi": "gọi 'Sybil', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Robald",
+   "loai": "cap_tren",
+   "mo_ta": "Sybil trả lời Robald.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Lunia chia sẻ thông tin với Frondier.",
+   "cach_goi": "gọi tên Lunia, thân mật"
+  },
+  {
+   "a": "Lunia",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Lunia chia sẻ thông tin với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Aten lắng nghe.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Frondier tranh luận với Aten.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Aten tranh luận với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, Azier lắng nghe.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Monty lắng nghe.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Binkis lắng nghe.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Marco",
+   "loai": "nguoi_la",
+   "mo_ta": "Lunia thu thập thông tin về Marco.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Aster đề nghị Frondier làm chủ tịch hội học sinh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Frondier lắng nghe đề nghị của Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Elodie đồng ý với Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Ellen Evans",
+   "loai": "nguoi_la",
+   "mo_ta": "Aster đề cập đến Ellen.",
+   "cach_goi": "gọi tên Ellen, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1237,
+  "seconds": 36.9
+ }
+}

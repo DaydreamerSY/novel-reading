@@ -1,0 +1,82 @@
+{
+ "number": 820,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra tại lớp học kết hợp Ma Thuật - Chiến Đấu trong Học Viện. Frondier và Elodie đã đưa Basileo đến đó để kiểm tra bài thi cuối cùng của cậu ta, một câu hỏi thưởng hóc búa. Basileo ban đầu lo lắng nhưng sau đó đã giải quyết được vấn đề bằng cách phân tích sâu sắc về cấu trúc công thức ma thuật, thậm chí vô tình tạo ra một phép thuật mạnh mẽ mang tên 'Hellfire'.",
+ "boi_canh": "Lớp học kết hợp Ma Thuật - Chiến Đấu trong Học Viện.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Basileo"
+ ],
+ "su_kien": [
+  "Frondier và Elodie đưa Basileo đến lớp học để kiểm tra bài thi cuối cùng.",
+  "Basileo giải thích cách cậu ta tiếp cận vấn đề, vẽ công thức ma thuật trên mặt đất.",
+  "Basileo phát hiện ra lỗi trong công thức là do sự thiếu hiểu biết về ba chiều.",
+  "Basileo vô tình tạo ra phép thuật 'Hellfire'.",
+  "Elodie xác nhận rằng phép thuật đó là một phần của kỹ thuật 'Rise of the Vermilion Bird'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh. Frondier hướng dẫn và kiểm tra kiến thức của Basileo.",
+   "cach_goi": "gọi tên Basileo, thân mật"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên. Basileo trình bày giải pháp cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè. Họ cùng nhau kiểm tra bài thi của Basileo.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè. Họ cùng nhau kiểm tra bài thi của Basileo.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh. Frondier quan sát Basileo giải quyết vấn đề.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên. Basileo trình bày giải pháp cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Basileo",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Basileo",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 945,
+  "seconds": 28.4
+ }
+}

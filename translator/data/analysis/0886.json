@@ -1,0 +1,94 @@
+{
+ "number": 886,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào việc Lily cố gắng học Shadow Transfer từ Selena để bảo vệ Frondier. Selena lo ngại về khả năng Lily lợi dụng kỹ thuật này để tấn công Frondier và đặt ra những điều kiện nghiêm ngặt. Sybil, đang ở thủ đô Palma, cảm thấy buồn bã vì không được ai đánh giá cao và nhận được yêu cầu kỳ lạ từ Frondier: tham gia cuộc thi sắc đẹp của thành phố. Cuối cùng, hoàng đế Bartello và hoàng hậu Philly lo lắng về tình hình sau trận chiến, đặc biệt là sự im lặng của các Zodiac.",
+ "boi_canh": "Trong một nơi nào đó ở thủ đô Palma, vào thời điểm Lily cố gắng học Shadow Transfer từ Selena.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Philly",
+  "Aten",
+  "Sybil",
+  "Lily",
+  "Pielott",
+  "Baal",
+  "Bartello",
+  "Monty",
+  "Ludovic",
+  "Aster Evans",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Lily cố gắng học Shadow Transfer từ Selena.",
+  "Selena bày tỏ sự nghi ngờ và lo ngại về Lily.",
+  "Sybil tham gia cuộc thi sắc đẹp theo yêu cầu của Frondier.",
+  "Hoàng đế Bartello và hoàng hậu Philly lo lắng về tình hình sau trận chiến.",
+  "Các Zodiacs đều bị sốc và ngừng hoạt động."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là cấp trên của Selena.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Selena phục tùng và bảo vệ Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Lily",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Lily cố gắng học kỹ thuật từ Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena nghi ngờ và cảnh giác với Lily.",
+   "cach_goi": "gọi tên Lily, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Frondier yêu cầu Sybil tham gia cuộc thi sắc đẹp.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Sybil phục tùng yêu cầu của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Bartello",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Hoàng đế và hoàng hậu lo lắng về tình hình hiện tại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Bartello",
+   "loai": "gia_dinh",
+   "mo_ta": "Hoàng đế và hoàng hậu lo lắng về tình hình hiện tại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 844,
+  "seconds": 25.5
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "number": 738,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Selena tiết lộ mối liên hệ đặc biệt giữa bóng tối của cô và Frondier, cũng như những lợi ích mà cô nhận được sau khi gặp anh. Cuộc trò chuyện hé lộ việc Frondier đã sử dụng Selena trong quá khứ, nhưng đồng thời cũng thể hiện sự tin tưởng sâu sắc của Selena đối với anh. Sau đó, Frondier đến Constel với sự giúp đỡ của Headmaster Osprey và đối mặt với những người bạn thân thiết, thông báo kế hoạch rời đi tới một lục địa xa xôi đầy rủi ro.",
+ "boi_canh": "Trong lớp học ở Constel, sau một cuộc trò chuyện riêng tư giữa Frondier và Selena.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aster",
+  "Sybil",
+  "Osprey"
+ ],
+ "su_kien": [
+  "Selena tiết lộ khả năng cảm nhận nguy hiểm thông qua sự kết nối với bóng tối của Frondier.",
+  "Selena nhắc lại những khó khăn mà gia đình Barnier phải đối mặt và việc Frondier không thể giữ lời hứa.",
+  "Selena kể về cuộc sống sung túc và những trải nghiệm mới sau khi gặp Frondier.",
+  "Osprey giúp Frondier đến lớp học Constel một cách bí mật.",
+  "Frondier thông báo kế hoạch rời đi tới một lục địa xa xôi."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Mối quan hệ phức tạp, vừa là người được sử dụng, vừa là người tin tưởng.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Mối quan hệ phức tạp, vừa là người được sử dụng, vừa là người tin tưởng.",
+   "cach_goi": "gọi tên Frondier-nim, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Có sự nghi ngờ và đối đầu tiềm ẩn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, nhưng có sự khác biệt trong quan điểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên và học sinh, có sự tôn trọng lẫn nhau.",
+   "cach_goi": "gọi 'Headmaster Osprey', lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, có sự tôn trọng lẫn nhau.",
+   "cach_goi": "gọi tên Frondier de Roach, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)"
+ ],
+ "stats": {
+  "tokens": 847,
+  "seconds": 25.3
+ }
+}

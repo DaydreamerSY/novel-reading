@@ -26,7 +26,7 @@ from translator import make_chunks
 PROMPT_VERSION = 1
 BATCH = 12
 
-WORD = re.compile(r"[A-Za-z][A-Za-z'’-]*")
+WORD = re.compile(r"[A-Za-zÀ-ÖØ-öø-ÿ][A-Za-zÀ-ÖØ-öø-ÿ'’-]*")  # Latin-1 letters too: Mjölnir, Völva
 CONNECT = {"de", "von", "van", "of", "la", "le", "du", "di", "del", "der", "the"}
 STOP = set("""I I'm I'll I've I'd The A An He She It We They You My His Her Its Our Their This That These
 Those There Here What When Where Why How Who Whom Whose Which But And Or So If Then Yes No Oh Ah Well Now

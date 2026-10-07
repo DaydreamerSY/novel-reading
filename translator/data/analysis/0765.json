@@ -1,0 +1,74 @@
+{
+ "number": 765,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tan học, Frondier bắt đầu có những bài học riêng với Elodie về phép thuật. Anh gặp khó khăn trong việc tạo ra ngọn lửa nhỏ trên không trung và nhận được lời khuyên sử dụng 'ẩn dụ' để hình dung phép thuật. Cuối cùng, anh thành công nhờ ẩn dụ về bánh răng, nhưng lại vô tình khiến Elodie bất ngờ vì tốc độ tiến bộ của mình. Cuối chương, Arald đến báo cáo về bản thiết kế thử nghiệm cho một tấm bản đồ ba chiều do Frondier phác thảo.",
+ "boi_canh": "Phòng học phép thuật, sau giờ học.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Enfer",
+  "Malia",
+  "Lunia",
+  "Arald",
+  "Jeanne"
+ ],
+ "su_kien": [
+  "Frondier bắt đầu học phép thuật với Elodie.",
+  "Elodie giải thích về cách thức hoạt động của phép thuật, nhấn mạnh tầm quan trọng của 'ẩn dụ'.",
+  "Frondier thành công tạo ra ngọn lửa nhỏ trên không trung nhờ ẩn dụ về bánh răng.",
+  "Elodie bất ngờ trước tốc độ học tập nhanh chóng của Frondier.",
+  "Arald đến báo cáo về bản thiết kế thử nghiệm cho tấm bản đồ ba chiều."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "thay_tro",
+   "mo_ta": "học trò và gia sư, Frondier đang học phép thuật từ Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "gia sư đang hướng dẫn Frondier học phép thuật.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Arald báo cáo công việc cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Arald báo cáo công việc cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Arald",
+   "loai": "nguoi_la",
+   "mo_ta": "quan sát hai người đang tương tác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "quan sát hai người đang tương tác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Có những ký ức mơ hồ về việc học phép thuật khi còn nhỏ, nhưng không nhớ rõ chi tiết. Ký ức này có thể liên quan đến sự ảnh hưởng của Curse of Sloth trước đây."
+ ],
+ "stats": {
+  "tokens": 842,
+  "seconds": 25.3
+ }
+}

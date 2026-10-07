@@ -1,0 +1,123 @@
+{
+ "number": 708,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bắt giữ Cain bằng Obsidian và trói cô vào tường lớp học. Cain sử dụng khả năng tạo bản sao và điều khiển nhện, gây hoảng loạn trong lớp. Frondier trấn an mọi người nhưng nhận thấy Elodie và Sybil sắp mất kiểm soát vì sợ nhện. Sau khi Cain buộc phải rút lui các con nhện, Jane bất tỉnh do quá trình căng thẳng.",
+ "boi_canh": "Trong một lớp học, giữa lúc hỗn loạn do sự xuất hiện của nhện.",
+ "nhan_vat": [
+  "Frondier",
+  "Cain",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Jane",
+  "Robald",
+  "Selena"
+ ],
+ "su_kien": [
+  "Cain bị Frondier trói vào tường bằng Obsidian.",
+  "Cain sử dụng khả năng tạo bản sao và điều khiển nhện, gây hoảng loạn.",
+  "Elodie và Sybil thể hiện sự sợ hãi cực độ đối với nhện.",
+  "Sybil hoàn thành kỹ thuật 'Red Petal' và tấn công nhện bằng lửa.",
+  "Jane bất tỉnh do căng thẳng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier trói và chế giễu Cain.",
+   "cach_goi": "gọi tên Cain, lạnh lùng"
+  },
+  {
+   "a": "Cain",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cố gắng thoát khỏi sự trói buộc và phản bác lại Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Quan sát Elodie đang cố gắng kiềm chế sự tức giận và sức mạnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Cố gắng kiềm chế sự tức giận và sức mạnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Quan sát Aster không hề sợ hãi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Không hề sợ hãi, quan sát tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Quan sát Aten không hề sợ hãi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Không hề sợ hãi, quan sát tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Quan sát Sybil sắp mất kiểm soát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Sắp mất kiểm soát, thể hiện sự sợ hãi và tức giận.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "Tìm kiếm Jane để giải quyết tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Jane",
+   "loai": "dong_minh",
+   "mo_ta": "Chỉ tay về phía Jane bất tỉnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Cain",
+   "loai": "dong_minh",
+   "mo_ta": "Nhăn mặt vì 'kẻ thù'.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1243,
+  "seconds": 37.1
+ }
+}

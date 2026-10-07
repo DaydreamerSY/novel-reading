@@ -1,0 +1,85 @@
+{
+ "number": 637,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Adolf đối mặt với Dier và nhận ra rằng Dier đang lợi dụng thói quen của mình khi sử dụng aura để che giấu các quả cầu năng lượng. Dier đã phân tích được cách thức chiến đấu của Adolf và tận dụng sự thiếu kiên nhẫn của hắn để tiếp cận gần hơn. Cuối cùng, Dier sử dụng một đòn tấn công bất ngờ kết hợp với Pielott để tấn công Adolf, mặc dù đòn tấn công không mạnh nhưng lại gây ra những tác động đáng kể.",
+ "boi_canh": "Một trận chiến giữa Dier và Adolf diễn ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Pielott",
+  "Dier",
+  "Adolf"
+ ],
+ "su_kien": [
+  "Adolf nhận thấy Dier đang tiếp cận gần hơn trong khi né tránh các quả cầu năng lượng.",
+  "Dier phân tích được thói quen của Adolf khi sử dụng aura để che giấu các đòn tấn công.",
+  "Dier lợi dụng sự thiếu kiên nhẫn của Adolf để tiếp cận và tấn công.",
+  "Pielott hỗ trợ Dier bằng một đòn tấn công bất ngờ.",
+  "Adolf bị thương nhẹ sau đòn tấn công kết hợp của Dier và Pielott."
+ ],
+ "quan_he": [
+  {
+   "a": "Adolf",
+   "b": "Dier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến. Adolf cảm thấy Dier là một mối đe dọa.",
+   "cach_goi": "gọi tên Dier, lạnh lùng"
+  },
+  {
+   "a": "Dier",
+   "b": "Adolf",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến. Dier đang phân tích và lợi dụng điểm yếu của Adolf.",
+   "cach_goi": "gọi tên Adolf, thô lỗ"
+  },
+  {
+   "a": "Adolf",
+   "b": "Pielott",
+   "loai": "khac",
+   "mo_ta": "Đối thủ, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Adolf",
+   "loai": "khac",
+   "mo_ta": "Đối thủ, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Dier chỉ đạo Pielott trong trận chiến.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Pielott phản ứng lại lời chỉ đạo của Dier.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy cũ, Dier hồi tưởng lại lời khuyên của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy cũ, Dier hồi tưởng lại lời khuyên của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Dier đã từng được Frondier chỉ dẫn về cách phân tích đối thủ và sử dụng tâm lý chiến trong trận đấu."
+ ],
+ "stats": {
+  "tokens": 960,
+  "seconds": 28.6
+ }
+}

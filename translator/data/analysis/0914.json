@@ -1,0 +1,115 @@
+{
+ "number": 914,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi triệu tập một hội nghị lớn với sự tham gia của các Zodiac, PROs và quý tộc cao cấp, Frondier de Roach bất ngờ vắng mặt. Thay vào đó, Elodie de Inies Rishae xuất hiện, tuyên bố về sự tấn công sắp tới từ các vị thần đối với Đế quốc Terst. Ban đầu bị nghi ngờ, lời nói của cô được ủng hộ bởi những diễn biến gần đây và sự xuất hiện của Ludovic. Cuối cùng, Aten Terst nhắc lại một yêu cầu trước đó của Azier, dẫn đến quyết tâm chung của các Zodiac trong việc đối mặt với mối đe dọa từ các vị thần.",
+ "boi_canh": "Một hội nghị tại Đế quốc Terst.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Philly",
+  "Aten",
+  "Azier",
+  "Monty",
+  "Ludovic",
+  "Daisy",
+  "Ludwig Urfa",
+  "Osprey"
+ ],
+ "su_kien": [
+  "Triệu tập một hội nghị lớn tại Đế quốc Terst.",
+  "Frondier de Roach vắng mặt khỏi hội nghị.",
+  "Elodie de Inies Rishae xuất hiện và cảnh báo về sự tấn công của các vị thần.",
+  "Ludovic tái xuất hiện, sống chung với Elodie.",
+  "Aten Terst nhắc lại yêu cầu của Azier trước khi qua đời."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Cùng nhau rời khỏi Đế quốc, có liên quan đến nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Cùng nhau rời khỏi Đế quốc, có liên quan đến nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đều từng là tài năng hứa hẹn của Đế quốc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Philly",
+   "loai": "dong_minh",
+   "mo_ta": "Elodie nói chuyện với Hoàng hậu Philly tại hội nghị.",
+   "cach_goi": "lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Elodie nói chuyện với Tam công chúa Aten tại hội nghị.",
+   "cach_goi": "lễ phép"
+  },
+  {
+   "a": "Daisy",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, tranh cược.",
+   "cach_goi": "thân mật"
+  },
+  {
+   "a": "Monty",
+   "b": "Daisy",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, tranh cược.",
+   "cach_goi": "thân mật"
+  },
+  {
+   "a": "Ludwig Urfa",
+   "b": "Osprey",
+   "loai": "thay_tro",
+   "mo_ta": "Ludwig và Osprey có mối quan hệ sư đồ.",
+   "cach_goi": "lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Osprey",
+   "loai": "thay_tro",
+   "mo_ta": "Aten là người được Osprey kính trọng.",
+   "cach_goi": "lễ phép"
+  },
+  {
+   "a": "Daisy",
+   "b": "Ludwig Urfa",
+   "loai": "nguoi_la",
+   "mo_ta": "Daisy trêu chọc Ludwig Urfa.",
+   "cach_goi": "thân mật"
+  },
+  {
+   "a": "Ludwig Urfa",
+   "b": "Daisy",
+   "loai": "nguoi_la",
+   "mo_ta": "Ludwig Urfa trả lời Daisy.",
+   "cach_goi": "thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của nhân vật chính)",
+  "Elodie de Inies Rishae (tên đầy đủ của Elodie)",
+  "Aten Terst (tên đầy đủ của Aten)"
+ ],
+ "stats": {
+  "tokens": 976,
+  "seconds": 29.3
+ }
+}

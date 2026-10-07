@@ -2,8 +2,8 @@
  "number": 559,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi nhận được chỉ thị từ Cassian, Selena và Aster đã gặp nhau. Để đến được nơi Frondier đang gặp nguy hiểm, họ sử dụng Shadow Transfer với sự giúp đỡ của Mei. Sau đó, Sybil, Elodie và Aten gia nhập nhóm. Cuối cùng, Osprey xuất hiện, tiết lộ rằng việc giải phóng anh ta và khả năng dịch chuyển tức thời của anh ta là một kế hoạch được Frondier vạch ra từ trước.",
- "boi_canh": "Tại Tyburn, khi các nhân vật chuẩn bị di chuyển đến Manggot.",
+ "tom_tat": "Frondier đối mặt với Belphegor và đội quân xác sống do hắn tạo ra. Frondier vạch trần những giả định sai lầm của Belphegor về sức mạnh và vị trí của mình, sử dụng một rune ẩn và xưởng chế tác được dịch chuyển đến chiến trường. Sau khi bị đánh bại bởi đòn tấn công của Belphegor, Frondier nhận thấy sự xuất hiện của Elodie và các đồng đội khác từ Constel, những người đã đến để hỗ trợ anh.",
+ "boi_canh": "Một trận chiến giữa Frondier và Belphegor trên một chiến trường đầy xác sống.",
  "nhan_vat": [
   "Frondier",
   "Elodie",
@@ -12,98 +12,134 @@
   "Aten",
   "Sybil",
   "Osprey",
-  "Hagley",
   "Mei",
-  "Merlin",
-  "Cassian",
-  "Cohen",
-  "Shadow"
+  "Nether",
+  "Belphegor"
  ],
  "su_kien": [
-  "Selena và Aster gặp nhau theo chỉ thị của Frondier.",
-  "Aster, Selena và Mei sử dụng Shadow Transfer để di chuyển nhanh chóng.",
-  "Sybil, Elodie và Aten gia nhập nhóm.",
-  "Osprey xuất hiện, tiết lộ kế hoạch được Frondier vạch ra trước.",
-  "Osprey giải thích về khả năng dịch chuyển tức thời của mình thông qua các cổng không gian."
+  "Belphegor điều khiển đội quân xác sống tấn công.",
+  "Frondier vạch trần những giả định sai lầm của Belphegor về sức mạnh và vị trí của mình.",
+  "Frondier kích hoạt rune 'Menosorpo' ẩn và dịch chuyển xưởng chế tác đến chiến trường.",
+  "Belphegor tấn công Frondier, khiến anh bị thương nặng.",
+  "Elodie và các đồng đội khác từ Constel đến hỗ trợ Frondier."
  ],
  "quan_he": [
   {
-   "a": "Aster",
-   "b": "Selena",
-   "loai": "ban_be",
-   "mo_ta": "đồng minh, cùng nhau giúp Frondier.",
-   "cach_goi": "gọi tên Selena, thân mật"
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier vạch trần kế hoạch của Belphegor.",
+   "cach_goi": "gọi 'Belphegor', lạnh lùng"
   },
   {
-   "a": "Selena",
-   "b": "Aster",
-   "loai": "ban_be",
-   "mo_ta": "đồng minh, cùng nhau giúp Frondier.",
-   "cach_goi": "gọi tên Aster, thân mật"
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Belphegor chế nhạo và tấn công Frondier.",
+   "cach_goi": "gọi tên Frondier, khinh bỉ"
   },
   {
-   "a": "Aster",
-   "b": "Mei",
-   "loai": "nguoi_la",
-   "mo_ta": "Aster quan sát Mei, không có tương tác trực tiếp.",
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Elodie.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Selena",
-   "b": "Mei",
+   "a": "Elodie",
+   "b": "Frondier",
    "loai": "ban_be",
-   "mo_ta": "hợp tác sử dụng Shadow Transfer.",
-   "cach_goi": "gọi tên Mei, thân mật"
+   "mo_ta": "Đồng đội, Elodie lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Mei",
-   "b": "Selena",
+   "a": "Frondier",
+   "b": "Aster",
    "loai": "ban_be",
-   "mo_ta": "hợp tác sử dụng Shadow Transfer.",
-   "cach_goi": "gọi tên Selena, thân mật"
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Aster lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
    "b": "Sybil",
-   "loai": "dong_minh",
-   "mo_ta": "Aster chào Sybil khi gặp lại.",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Sybil.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Sybil",
-   "b": "Aster",
-   "loai": "dong_minh",
-   "mo_ta": "Sybil chào Aster khi gặp lại.",
-   "cach_goi": "gọi tên Aster, thân mật"
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Sybil lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Osprey",
-   "b": "Aster",
-   "loai": "cap_tren",
-   "mo_ta": "Osprey giải thích kế hoạch của Frondier cho Aster.",
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Selena.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Selena lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Mei.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Mei lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Aten lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
    "b": "Osprey",
-   "loai": "nguoi_la",
-   "mo_ta": "Selena bày tỏ sự ngạc nhiên về khả năng của Osprey.",
-   "cach_goi": "gọi tên Osprey, lễ phép"
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier mong đợi sự hỗ trợ từ Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Osprey",
-   "b": "Selena",
-   "loai": "nguoi_la",
-   "mo_ta": "Osprey trấn an Selena.",
-   "cach_goi": "gọi tên Selena, thân mật"
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Osprey ngạc nhiên trước sức mạnh của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
- "danh_tinh": [
-  "Aster Evans (tên đầy đủ của Aster)",
-  "Aten Terst (tên đầy đủ của Aten, tam công chúa)"
- ],
+ "danh_tinh": [],
  "stats": {
-  "tokens": 1084,
-  "seconds": 34.0
+  "tokens": 1571,
+  "seconds": 49.3
  }
 }

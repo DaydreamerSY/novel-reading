@@ -1,0 +1,70 @@
+{
+ "number": 779,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Lady Achaea tiết lộ những nghi ngờ về Carla, người sáng lập Atlas, nhóm của Arald và Lily đã thảo luận về khả năng Carla là một yêu tinh hoặc có động cơ bí mật. Họ nhận thấy sự thay đổi đột ngột trong hành vi của Carla và tin rằng cô ấy đang che giấu điều gì đó. Frondier sau đó đề xuất một trận đấu tập lớn giữa các cấp lớp tại Atlas để thu hút sự chú ý của giới quý tộc, với hy vọng lôi kéo Carla ra khỏi bóng tối.",
+ "boi_canh": "Trong phòng họp ở Atlas, nơi Lady Achaea và những người khác đang thảo luận về Carla.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Arald",
+  "Giotto",
+  "Aias",
+  "Lady Achaea"
+ ],
+ "su_kien": [
+  "Lady Achaea bày tỏ nghi ngờ về Carla, cho rằng cô ấy có thể là một yêu tinh hoặc có động cơ bí mật.",
+  "Lily suy luận rằng Carla có thể đang che giấu điều gì đó tương tự như quá khứ của chính mình khi còn là một Zodiac.",
+  "Frondier đề xuất một trận đấu tập lớn giữa các cấp lớp tại Atlas.",
+  "Lady Achaea tiết lộ rằng cô ấy đã sử dụng phép thuật để kiểm tra tuổi tác của Pielott.",
+  "Frondier bày tỏ hy vọng sẽ có một sự kiện bất ngờ xảy ra trong trận đấu tập, đặc biệt là từ một học sinh dưới lớp."
+ ],
+ "quan_he": [
+  {
+   "a": "Lady Achaea",
+   "b": "Arald",
+   "loai": "cap_tren",
+   "mo_ta": "Lady Achaea là người lớn tuổi hơn và có địa vị cao hơn Arald, đưa ra lời khuyên và chỉ dẫn.",
+   "cach_goi": "gọi 'Arald', lễ phép"
+  },
+  {
+   "a": "Arald",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè và đồng minh, thảo luận về Carla và những nghi ngờ của họ.",
+   "cach_goi": "gọi tên 'Lily', thân mật"
+  },
+  {
+   "a": "Lady Achaea",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Lady Achaea đã sử dụng phép thuật để kiểm tra Pielott, nhưng không biết rõ về mối quan hệ của anh ta.",
+   "cach_goi": "gọi 'Pielott student', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Giotto",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là người đưa ra đề xuất trận đấu tập, Giotto là một trong những giáo viên lắng nghe.",
+   "cach_goi": "gọi tên 'Giotto', thân mật"
+  },
+  {
+   "a": "Lady Achaea",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Lady Achaea quan sát Frondier, có vẻ như đang đánh giá anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Carla: Người sáng lập Atlas, có thể là một yêu tinh hoặc đang che giấu động cơ bí mật.",
+  "Pielott: Một học sinh tại Atlas, có vẻ như liên quan đến Carla theo cách nào đó."
+ ],
+ "stats": {
+  "tokens": 893,
+  "seconds": 26.9
+ }
+}

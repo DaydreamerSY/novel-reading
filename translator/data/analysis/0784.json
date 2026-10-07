@@ -1,0 +1,76 @@
+{
+ "number": 784,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Giotto chịu thua, Frondier đã khai thác được nhiều thông tin về Carla và những thiết bị nghe lén mà bà ta cài đặt trong Atlas. Giotto tiết lộ rằng Carla đã lợi dụng ông để phân loại thông tin thu thập được từ các thiết bị này. Ông cũng bị tống tiền bằng một bí mật đen tối trong quá khứ. Frondier sau đó gặp Lady Achaea và giả vờ là chủ mưu đứng sau Carla, nhằm đánh lạc hướng sự chú ý của Lady Achaea khỏi Carla và tạo cơ hội để thu thập thông tin.",
+ "boi_canh": "Trong phòng thẩm vấn, tối muộn.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Lily",
+  "Carla",
+  "Arald",
+  "Athena",
+  "Giotto",
+  "Medusa",
+  "Lady Achaea"
+ ],
+ "su_kien": [
+  "Giotto tiết lộ Carla đã sử dụng ông để phân loại thông tin từ các thiết bị nghe lén.",
+  "Giotto bị tống tiền bởi Carla vì một bí mật đen tối trong quá khứ.",
+  "Frondier giả vờ là chủ mưu đứng sau Carla khi gặp Lady Achaea.",
+  "Lady Achaea nghi ngờ Frondier đang bảo vệ Carla.",
+  "Frondier đánh lạc hướng Lady Achaea bằng cách chỉ vào những chỗ trống và khiến bà ta tưởng tượng có người ẩn nấp."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Giotto",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier thẩm vấn Giotto để lấy thông tin.",
+   "cach_goi": "gọi tên Giotto, lạnh lùng"
+  },
+  {
+   "a": "Giotto",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Giotto cung cấp thông tin cho Frondier dưới sự đe dọa.",
+   "cach_goi": "gọi tên Frondier, sợ hãi"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lady Achaea",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier giả vờ là chủ mưu của Carla để đánh lạc hướng Lady Achaea.",
+   "cach_goi": "gọi tên Lady Achaea, trịch thượng"
+  },
+  {
+   "a": "Lady Achaea",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Lady Achaea nghi ngờ và chất vấn Frondier.",
+   "cach_goi": "gọi tên Frondier, nghi ngờ"
+  },
+  {
+   "a": "Giotto",
+   "b": "Carla",
+   "loai": "chu_to",
+   "mo_ta": "Giotto làm theo lệnh Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier muốn thu thập thông tin từ Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Giotto bị tống tiền bởi Carla vì một bí mật đen tối trong quá khứ."
+ ],
+ "stats": {
+  "tokens": 864,
+  "seconds": 26.0
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "number": 919,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tiếp cận những người khổng lồ bất động trong Pandemonium, Frondier nhận ra họ đều là con người đã bị đánh bại bởi các vị thần. Belphegor giải thích rằng những người này là những anh hùng được tôn vinh trong truyền thuyết nhưng thực tế chỉ là những kẻ thua cuộc. Sau đó, Belphegor tàn nhẫn phá hủy một người khổng lồ để chứng minh sự thật trần trụi và đưa ra lời cảnh báo. Cuối cùng, Frondier phát hiện ra rằng những người khổng lồ này đã được ghi lại trong Workshop của mình, dẫn đến việc đặt câu hỏi về nguồn gốc kiến thức của Belphegor và gợi ý về một quá khứ bí ẩn liên quan đến Loki.",
+ "boi_canh": "Trong Pandemonium lạnh giá, giữa những xác người khổng lồ bất động.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Sybil",
+  "Belphegor",
+  "Azier",
+  "Merlin",
+  "Arthur",
+  "Jeanne"
+ ],
+ "su_kien": [
+  "Frondier phát hiện những người khổng lồ bất động là con người.",
+  "Belphegor giải thích về nguồn gốc của những người khổng lồ và sự thật đằng sau truyền thuyết.",
+  "Belphegor phá hủy một người khổng lồ để chứng minh sự vô nghĩa của việc cố gắng cứu họ.",
+  "Frondier phát hiện những người khổng lồ đã được ghi lại trong Workshop của mình.",
+  "Sybil bị đưa vào một không gian mới bởi một con rắn và đối mặt với Ecleksis."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier lắng nghe và đặt câu hỏi cho Belphegor về những người khổng lồ.",
+   "cach_goi": "gọi tên Belphegor, không trang trọng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor giải thích và chỉ dẫn cho Frondier.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  },
+  {
+   "a": "Selena",
+   "b": "Belphegor",
+   "loai": "ban_be",
+   "mo_ta": "Selena chứng kiến hành động của Belphegor và phản ứng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Frondier quan sát Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Belphegor",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil tương tác với Belphegor trong một không gian mới.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Loki: Được tiết lộ là một con rắn sử dụng Weaving.",
+  "Jeanne d’Arc: Đã từng xuất hiện trước Frondier nhờ Weaving."
+ ],
+ "stats": {
+  "tokens": 824,
+  "seconds": 24.9
+ }
+}

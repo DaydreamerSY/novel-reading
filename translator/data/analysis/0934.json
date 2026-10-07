@@ -1,0 +1,63 @@
+{
+ "number": 934,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Astaroth và Belphegor đối đầu trong một trận chiến căng thẳng. Astaroth sử dụng những con rối để tấn công Belphegor, nhưng Belphegor liên tục tái hiện lại những xác chết đã bị tiêu diệt. Cuối cùng, Belphegor tiết lộ rằng ông ta thu thập kinh nghiệm từ những kẻ dưới trướng và chuyển nó vào xác chết, khiến chúng chiến đấu mạnh mẽ hơn. Astaroth bị sốc trước khả năng này và cuối cùng bị một trong những con rối của chính mình đâm sau lưng.",
+ "boi_canh": "Một trận chiến giữa Astaroth và Belphegor tại một địa điểm không rõ.",
+ "nhan_vat": [
+  "Frondier",
+  "Astaroth",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Belphegor tái hiện những xác chết của mình để chiến đấu chống lại Astaroth.",
+  "Những con rối của Astaroth tấn công Belphegor, nhưng ông ta liên tục hồi sinh các xác chết để đối phó.",
+  "Belphegor tiết lộ rằng ông ta thu thập kinh nghiệm từ những kẻ dưới trướng và chuyển nó vào xác chết.",
+  "Astaroth bị sốc trước khả năng của Belphegor.",
+  "Một con rối đâm Astaroth sau lưng."
+ ],
+ "quan_he": [
+  {
+   "a": "Astaroth",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Địch thủ, đối đầu trực tiếp trong trận chiến.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Astaroth",
+   "loai": "doi_thu",
+   "mo_ta": "Địch thủ, đối đầu trực tiếp trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Người kể chuyện, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "corpse (subordinate)",
+   "loai": "chu_to",
+   "mo_ta": "Chủ tớ, Belphegor ra lệnh cho xác chết.",
+   "cach_goi": "gọi 'Go', trịch thượng"
+  },
+  {
+   "a": "corpse (subordinate)",
+   "b": "Belphegor",
+   "loai": "chu_to",
+   "mo_ta": "Chủ tớ, xác chết phục tùng mệnh lệnh của Belphegor.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Belphegor: Trước đây đã từng mơ ước một cuộc sống nhàn hạ và hoàn hảo như Astaroth. Anh ta cũng từng có những người hầu ghi lại ký ức của mình để tránh phải làm mọi việc."
+ ],
+ "stats": {
+  "tokens": 757,
+  "seconds": 22.9
+ }
+}

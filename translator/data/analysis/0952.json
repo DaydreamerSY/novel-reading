@@ -1,0 +1,65 @@
+{
+ "number": 952,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier đọc nhật ký của chính mình, những bí mật đen tối về quá khứ và động cơ thực sự đằng sau hành động của anh ta bắt đầu được hé lộ. Anh ta đã sử dụng Elodie như một con tốt trong kế hoạch thao túng quyền năng thần thánh của cô ấy, nhưng khi sự thật bị phơi bày, Frondier trở nên tức giận và phủ nhận mọi thứ. Cuối cùng, Frondier đối mặt với những lời chỉ trích từ người khác và phải thừa nhận những hành động sai trái của mình.",
+ "boi_canh": "Trong một căn phòng bí mật, vào thời điểm sự thật về quá khứ đang được phơi bày.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Malia",
+  "Father"
+ ],
+ "su_kien": [
+  "Frondier đọc nhật ký của chính mình và phát hiện ra những bí mật đen tối.",
+  "Frondier phủ nhận mọi thứ khi bị đối diện với sự thật.",
+  "Azier buộc Frondier phải thừa nhận tội lỗi của mình.",
+  "Frondier tiết lộ rằng anh ta đã sử dụng Elodie như một con tốt trong kế hoạch thao túng quyền năng thần thánh của cô ấy.",
+  "Frondier bị đánh đập bởi chính bản thân mình và đối mặt với sự tức giận của Azier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, mối quan hệ căng thẳng khi sự thật bị phơi bày.",
+   "cach_goi": "gọi tên 'Hyung', thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, thể hiện sự thất vọng và cảnh báo.",
+   "cach_goi": "gọi tên 'Frondier', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier có ác cảm và muốn thao túng Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ, Frondier không trân trọng mối quan hệ gia đình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Father",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha, Frondier không tôn trọng và coi thường sự bảo vệ của cha.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Nhật ký của Frondier tiết lộ những bí mật đen tối về hành động và động cơ của anh ta."
+ ],
+ "stats": {
+  "tokens": 769,
+  "seconds": 23.2
+ }
+}

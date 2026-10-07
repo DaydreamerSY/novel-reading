@@ -1,0 +1,88 @@
+{
+ "number": 632,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi các quỷ dữ tấn công Constel, Frondier và những người bạn của anh bắt đầu đối phó với chúng. Aten gặp khó khăn trong việc tiêu diệt quỷ, nhưng cô sử dụng phép thuật băng giá để làm chậm chúng lại. Một học sinh vô tình bước vào vùng ảnh hưởng của phép thuật băng giá của Aten, và cô giải thích rằng mình là một người chữa bệnh, có thể bảo vệ anh ta khỏi cái lạnh.",
+ "boi_canh": "Trong khuôn viên trường Constel hỗn loạn khi các quỷ dữ tấn công.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly",
+  "Aten",
+  "Azier",
+  "Renzo",
+  "Mizonas"
+ ],
+ "su_kien": [
+  "Các quỷ dữ tấn công Constel, gây ra hỗn loạn.",
+  "Aten gặp khó khăn trong việc tiêu diệt quỷ.",
+  "Aten sử dụng phép thuật băng giá làm chậm một con quỷ.",
+  "Một học sinh vô tình bước vào vùng ảnh hưởng của phép thuật băng giá của Aten.",
+  "Aten tiết lộ mình là người chữa bệnh và có thể bảo vệ học sinh khỏi cái lạnh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, hỗ trợ lẫn nhau trong chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, hỗ trợ lẫn nhau trong chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Devil (Frost)",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Aten sử dụng phép thuật để làm chậm quỷ.",
+   "cach_goi": "lạnh lùng"
+  },
+  {
+   "a": "Devil (Frost)",
+   "b": "Aten",
+   "loai": "doi_thu",
+   "mo_ta": "Tấn công Aten, bị làm chậm bởi phép thuật băng giá của cô.",
+   "cach_goi": "thô lỗ"
+  },
+  {
+   "a": "Student",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Học sinh vô tình bước vào vùng ảnh hưởng của phép thuật băng giá, được Aten bảo vệ.",
+   "cach_goi": "thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Student",
+   "loai": "dong_minh",
+   "mo_ta": "Bảo vệ học sinh khỏi cái lạnh, khuyến khích anh ta trốn thoát.",
+   "cach_goi": "thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Aten: Ban đầu là một pháp sư băng giá, sau này học phép thuật chữa bệnh do ảnh hưởng của Frondier và Aster (theo kiến thức về game)."
+ ],
+ "stats": {
+  "tokens": 936,
+  "seconds": 27.9
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "number": 718,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trao đổi về sự khác biệt trong quan điểm và cách luyện tập, Frondier và Aster nhận ra cả hai đều thiếu đối thủ tập luyện. Họ quyết định đấu tập với nhau để cải thiện kỹ năng, mặc dù Frondier lo lắng về việc làm tan vỡ ảo tượng mà Aster đã tạo dựng về mình. Trong trận đấu, Aster thể hiện khả năng đánh lừa đáng kinh ngạc và cuối cùng áp đảo Frondier, đồng thời chia sẻ những suy nghĩ sâu sắc về trách nhiệm của Frondier đối với thế giới.",
+ "boi_canh": "Một khu vực luyện tập, có lẽ trong một lâu đài hoặc học viện, vào lúc chiều tà.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Aster Evans"
+ ],
+ "su_kien": [
+  "Aster mỉm cười chân thành với Frondier.",
+  "Cả Frondier và Aster đều nhận ra họ không có đối thủ tập luyện.",
+  "Họ quyết định đấu tập với nhau.",
+  "Aster đánh lừa Frondier bằng cách thay đổi động tác đột ngột.",
+  "Aster bày tỏ sự tin tưởng vào khả năng của Frondier trong việc cứu thế giới."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có quan điểm khác nhau nhưng không hề thù hận.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có quan điểm khác nhau nhưng không hề thù hận.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Aster Evans",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Aster Evans là tên đầy đủ của Aster, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster được tiết lộ."
+ ],
+ "stats": {
+  "tokens": 555,
+  "seconds": 16.6
+ }
+}

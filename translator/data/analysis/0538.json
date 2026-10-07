@@ -2,90 +2,87 @@
  "number": 538,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Sybil giả vờ yếu kém để đánh lừa Cohen trong trận chiến, sau đó sử dụng 'Petal' để hạ gục hắn. Frondier đứng trên đồi quan sát tình hình và liên lạc với Mother để nắm bắt diễn biến chiến sự. Cuối cùng, Frondier kích hoạt một rune lớn, tấn công trực tiếp vào nơi ở của Manggot, thể hiện ý định tiêu diệt kẻ thù ngay tại căn cứ.",
- "boi_canh": "Một trận chiến đang diễn ra trên bức tường thành của Đế Chế.",
+ "tom_tat": "Một trận động đất lớn rung chuyển thành trì Manggot sau khi Frondier tấn công bằng hào quang kiếm. Belphegor và Hagley nghi ngờ đây là một bẫy dụ dỗ, có thể do Osprey tạo ra rune từ xa. Belphegor quyết định rời đi để đối phó với tình hình, trong khi Hagley ở lại kiểm tra bên trong Manggot. Một lính gác tại nhà tù của Manggot lo lắng về Selena, người đang tuyệt thực và im lặng.",
+ "boi_canh": "Bên trong thành trì Manggot, sau một trận động đất lớn.",
  "nhan_vat": [
   "Frondier",
-  "Sybil",
+  "Selena",
   "Osprey",
-  "Malia",
-  "Lunia",
-  "Mei",
-  "Cohen",
-  "Mother",
-  "Medart",
-  "Lunia Fricell"
+  "Hagley",
+  "Belphegor",
+  "Jei",
+  "lính gác"
  ],
  "su_kien": [
-  "Sybil giả vờ yếu kém trong trận chiến với Cohen.",
-  "Sybil sử dụng 'Petal' để hạ gục Cohen.",
-  "Frondier liên lạc với Mother qua điện thoại để nắm bắt tình hình chiến sự.",
-  "Frondier kích hoạt rune tấn công trực tiếp vào nơi ở của Manggot.",
-  "Excalibur bắn ra kiếm khí phá hủy vách đá, gây chấn động lớn."
+  "Một trận động đất lớn rung chuyển thành trì Manggot.",
+  "Belphegor và Hagley nghi ngờ có rune được tạo ra.",
+  "Belphegor cho rằng đây là một bẫy dụ dỗ.",
+  "Belphegor rời đi để đối phó với tình hình.",
+  "Hagley ở lại kiểm tra bên trong Manggot."
  ],
  "quan_he": [
   {
-   "a": "Sybil",
-   "b": "Cohen",
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
    "loai": "doi_thu",
-   "mo_ta": "Sybil giả vờ yếu kém để đánh lừa Cohen trong trận chiến.",
-   "cach_goi": "gọi tên Cohen, không nói chuyện trực tiếp"
+   "mo_ta": "Đối thủ tiềm năng, được nghi ngờ là kẻ tạo ra rune.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Cohen",
-   "b": "Sybil",
+   "a": "Belphegor",
+   "b": "Hagley",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor là cấp trên của Hagley, đưa ra chỉ thị và tranh luận.",
+   "cach_goi": "gọi tên Hagley, thân mật"
+  },
+  {
+   "a": "Hagley",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Hagley tuân theo chỉ thị của Belphegor nhưng cũng đưa ra ý kiến phản biện.",
+   "cach_goi": "gọi tên Belphegor, lễ phép"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Osprey",
    "loai": "doi_thu",
-   "mo_ta": "Cohen đánh giá thấp Sybil và bị cô ta hạ gục.",
-   "cach_goi": "gọi tên Sybil, không nói chuyện trực tiếp"
+   "mo_ta": "Đối thủ tiềm năng, được nghi ngờ là kẻ tạo ra rune.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Frondier",
-   "b": "Mother",
-   "loai": "gia_dinh",
-   "mo_ta": "Frondier liên lạc với Mother để nắm bắt tình hình chiến sự.",
-   "cach_goi": "gọi 'Mother', thân mật"
+   "a": "Hagley",
+   "b": "Osprey",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, được nghi ngờ là kẻ tạo ra rune.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Mother",
-   "b": "Frondier",
-   "loai": "gia_dinh",
-   "mo_ta": "Mother báo cáo tình hình chiến sự cho Frondier.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
-  },
-  {
-   "a": "Frondier",
-   "b": "Malia",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier liên lạc với Malia để nắm bắt tình hình chiến sự.",
-   "cach_goi": "gọi tên Malia, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Malia",
-   "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Malia báo cáo tình hình chiến sự cho Frondier.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
-  },
-  {
-   "a": "Frondier",
-   "b": "Mei",
-   "loai": "ban_be",
-   "mo_ta": "Frondier nhận được thông tin về vị trí của Mei từ Malia.",
-   "cach_goi": "gọi tên Mei, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Malia",
-   "b": "Lunia Fricell",
+   "a": "lính gác",
+   "b": "Selena",
    "loai": "dong_minh",
-   "mo_ta": "Malia đề cập đến sự tham gia của Lunia Fricell trong việc xây dựng rune.",
-   "cach_goi": "gọi tên Lunia Fricell, không nói chuyện trực tiếp"
+   "mo_ta": "Lính gác quan sát và lo lắng cho tình trạng của Selena.",
+   "cach_goi": "gọi tên Jei (tên của Selena), thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "lính gác",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Lunia được gọi là Lunia Fricell, tên đầy đủ của cô ấy."
+  "Jei là tên của Selena."
  ],
  "stats": {
-  "tokens": 993,
-  "seconds": 30.7
+  "tokens": 937,
+  "seconds": 29.1
  }
 }

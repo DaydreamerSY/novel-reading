@@ -1,0 +1,73 @@
+{
+ "number": 752,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier hoảng hốt khi Jeanne tiết lộ rằng cô ấy biết anh không phải là Frondier thật sự. Sau đó, Jeanne cười và giải thích rằng việc anh kích hoạt rune đã cho cô ấy manh mối. Cô ấy cũng giải thích về ý nghĩa của việc một người sở hữu cả Weaving và Menosorpo, và những khó khăn mà các vị thần đã tạo ra để ngăn chặn điều này xảy ra. Cuối cùng, Jeanne tiết lộ rằng Menosorpo chưa hoàn chỉnh trước khi biến mất.",
+ "boi_canh": "Một căn phòng bí ẩn, nơi có một rune cổ xưa đang phát sáng.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Osprey",
+  "Jane",
+  "Jeanne",
+  "Slevb"
+ ],
+ "su_kien": [
+  "Jeanne tiết lộ rằng cô ấy biết Frondier không phải là người thật.",
+  "Frondier kích hoạt một rune cổ xưa.",
+  "Jeanne giải thích về ý nghĩa của việc sở hữu cả Weaving và Menosorpo.",
+  "Jeanne tiết lộ rằng Menosorpo chưa hoàn chỉnh.",
+  "Jeanne biến mất."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Jeanne",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier hoảng hốt và cảnh giác với sự tiết lộ của Jeanne.",
+   "cach_goi": "gọi tên Jeanne, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jeanne",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Jeanne giải thích và hướng dẫn Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Frondier suy nghĩ về việc Aster sẽ làm gì nếu có được Weaving và Menosorpo.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "ban_be",
+   "mo_ta": "Frondier suy nghĩ về khả năng của Osprey nếu có Menosorpo.",
+   "cach_goi": "gọi tên Osprey, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "ban_be",
+   "mo_ta": "Frondier suy nghĩ về khả năng của Jane nếu có Menosorpo.",
+   "cach_goi": "gọi tên Jane, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Slevb",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier nhớ lại về Slevb.",
+   "cach_goi": "gọi tên Slevb, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính."
+ ],
+ "stats": {
+  "tokens": 804,
+  "seconds": 25.2
+ }
+}

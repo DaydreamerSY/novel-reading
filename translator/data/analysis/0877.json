@@ -1,0 +1,88 @@
+{
+ "number": 877,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Zeus chặn đứng quyền lực của mình, Frondier (Aster) đã can thiệp và đối đầu với Zeus bằng Excalibur và Astrape. Aster sử dụng kỹ thuật One Flash để tấn công nhanh chóng, nhưng Zeus né tránh bằng phép Blink. Cuối cùng, Aster đã đánh bại Zeus bằng cách tận dụng sự kết hợp giữa sức mạnh của hai thanh kiếm và sự hỗ trợ từ Lady of the Lake, đồng thời cắt đứt cánh tay và cổ của Zeus. Sau đó, Frondier biến mất cùng với các quỷ dữ dưới sự hộ tống của Gregory và Elodie, khiến Athena lo lắng.",
+ "boi_canh": "Một chiến trường hỗn loạn giữa các vị thần và quỷ dữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Lily",
+  "Mei",
+  "Arald",
+  "Gregory",
+  "Athena",
+  "Arthur",
+  "Lady of the Lake",
+  "Shadow",
+  "Zeus"
+ ],
+ "su_kien": [
+  "Aster và Zeus đối đầu bằng Excalibur và Astrape.",
+  "Aster sử dụng kỹ thuật One Flash để tấn công nhanh chóng.",
+  "Zeus né tránh các đòn tấn công của Aster bằng phép Blink.",
+  "Aster đánh bại Zeus bằng cách kết hợp sức mạnh của hai thanh kiếm và sự hỗ trợ từ Lady of the Lake.",
+  "Frondier biến mất cùng với các quỷ dữ."
+ ],
+ "quan_he": [
+  {
+   "a": "Zeus",
+   "b": "Elodie",
+   "loai": "ke_thu",
+   "mo_ta": "Zeus bị chặn quyền lực bởi Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier (Aster)",
+   "b": "Zeus",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp trong trận chiến.",
+   "cach_goi": "gọi 'Aster', thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier (Aster)",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè từ thuở nhỏ, hỗ trợ Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Gregory",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Selena thúc giục Gregory.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Elodie sử dụng phép thuật để giúp Mei.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Selena thúc giục Mei.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Athena",
+   "b": "Aphrodite",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Athena nghi ngờ Aphrodite.",
+   "cach_goi": "gọi tên Aphrodite, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Tên nhân vật chính.",
+  "Zeus: Hiện tại đang chiếm giữ cơ thể của một người khác."
+ ],
+ "stats": {
+  "tokens": 905,
+  "seconds": 27.2
+ }
+}

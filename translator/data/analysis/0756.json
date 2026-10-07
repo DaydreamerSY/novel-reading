@@ -1,0 +1,93 @@
+{
+ "number": 756,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với cảnh Philly hoàng hậu ngồi nhìn mưa kéo dài liên tục, khiến bà lo lắng về tình hình Đế quốc sau khi Frondier rời đi. Bà nhớ lại những sự kiện dẫn đến quyết định của Frondier và cảm thấy hối tiếc vì đã đẩy anh ra khỏi Đế quốc. Sau đó, Aten công chúa đến thăm Philly, và hai người cùng đi dạo trong cung điện, thảo luận về tình hình Sale và việc Đế quốc tuyên chiến với các vị thần. Cuối cùng, Mjölnir đột ngột rời khỏi kho vũ khí và bay đi, báo hiệu một sự kiện quan trọng sắp xảy ra, đồng thời Frondier cũng nhận được thông báo từ một thực thể thần thánh trên biển.",
+ "boi_canh": "Philly hoàng hậu ngồi trong phòng của mình, nhìn mưa rơi tại Đế quốc.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Philly",
+  "Aten",
+  "Lily",
+  "Pielott",
+  "Arald",
+  "Sale",
+  "Odin",
+  "Thor",
+  "Mother"
+ ],
+ "su_kien": [
+  "Mưa kéo dài liên tục tại Đế quốc.",
+  "Philly hoàng hậu nhớ lại quyết định của Frondier và cảm thấy hối tiếc.",
+  "Aten công chúa đến thăm Philly và họ cùng đi dạo trong cung điện.",
+  "Đế quốc tuyên chiến với các vị thần.",
+  "Mjölnir đột ngột rời khỏi kho vũ khí và bay đi."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ và con gái, quan tâm lẫn nhau.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "con gái và mẹ, chia sẻ lo lắng.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "nguoi_la",
+   "mo_ta": "từng là người được Philly tin tưởng, giờ là kẻ thù của Đế quốc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Pielott phụ thuộc vào sự chỉ dẫn của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Frondier chỉ dẫn và động viên Pielott.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "cùng làm việc, Arald tuân lệnh Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "dong_minh",
+   "mo_ta": "cùng làm việc, Frondier ra lệnh cho Arald.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "cùng đối mặt với nguy hiểm, Elodie cảm nhận được sự hiện diện của kẻ thù.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mjölnir: vũ khí mạnh nhất của Đế quốc, đã bay đến Frondier."
+ ],
+ "stats": {
+  "tokens": 1055,
+  "seconds": 31.7
+ }
+}

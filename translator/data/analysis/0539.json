@@ -2,87 +2,64 @@
  "number": 539,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Một trận động đất lớn rung chuyển thành trì Manggot sau khi Frondier tấn công bằng hào quang kiếm. Belphegor và Hagley nghi ngờ đây là một bẫy dụ dỗ, có thể do Osprey tạo ra rune từ xa. Belphegor quyết định rời đi để đối phó với tình hình, trong khi Hagley ở lại kiểm tra bên trong Manggot. Một lính gác tại nhà tù của Manggot lo lắng về Selena, người đang tuyệt thực và im lặng.",
- "boi_canh": "Bên trong thành trì Manggot, sau một trận động đất lớn.",
+ "tom_tat": "Trong chương này, một lính canh phát hiện ra Selena đang tuyệt vọng kêu gọi nước và cố gắng giúp đỡ cô ấy. Tuy nhiên, Selena đã sử dụng kỹ thuật tương tự như cách cô ấy hạ gục Frondier để tấn công lính canh, giải thoát bản thân bằng một cây kim nhỏ và trốn thoát khỏi nhà tù. Cô ấy tiết lộ rằng Frondier đã đưa cô đến một cửa hàng bách hóa để tìm hiểu về cấu trúc của vòng xiềng phép thuật và khẳng định anh ấy đã đến cứu cô ấy theo lời hứa.",
+ "boi_canh": "Trong một phòng giam, bốn ngày sau khi bị bắt giữ.",
  "nhan_vat": [
   "Frondier",
   "Selena",
-  "Osprey",
-  "Hagley",
-  "Belphegor",
   "Jei",
-  "lính gác"
+  "Shadow",
+  "lính canh"
  ],
  "su_kien": [
-  "Một trận động đất lớn rung chuyển thành trì Manggot.",
-  "Belphegor và Hagley nghi ngờ có rune được tạo ra.",
-  "Belphegor cho rằng đây là một bẫy dụ dỗ.",
-  "Belphegor rời đi để đối phó với tình hình.",
-  "Hagley ở lại kiểm tra bên trong Manggot."
+  "Lính canh nghe thấy tiếng Selena kêu gọi nước.",
+  "Selena tấn công lính canh và giải thoát bản thân.",
+  "Selena sử dụng một cây kim để mở vòng xiềng phép thuật.",
+  "Selena tiết lộ Frondier đã đưa cô đến cửa hàng bách hóa.",
+  "Selena trốn thoát khỏi nhà tù."
  ],
  "quan_he": [
   {
-   "a": "Frondier",
-   "b": "Selena",
-   "loai": "nguoi_la",
-   "mo_ta": "Không tương tác trực tiếp trong chương này.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Osprey",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ tiềm năng, được nghi ngờ là kẻ tạo ra rune.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Belphegor",
-   "b": "Hagley",
-   "loai": "cap_tren",
-   "mo_ta": "Belphegor là cấp trên của Hagley, đưa ra chỉ thị và tranh luận.",
-   "cach_goi": "gọi tên Hagley, thân mật"
-  },
-  {
-   "a": "Hagley",
-   "b": "Belphegor",
-   "loai": "cap_tren",
-   "mo_ta": "Hagley tuân theo chỉ thị của Belphegor nhưng cũng đưa ra ý kiến phản biện.",
-   "cach_goi": "gọi tên Belphegor, lễ phép"
-  },
-  {
-   "a": "Belphegor",
-   "b": "Osprey",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ tiềm năng, được nghi ngờ là kẻ tạo ra rune.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Hagley",
-   "b": "Osprey",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ tiềm năng, được nghi ngờ là kẻ tạo ra rune.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "lính gác",
+   "a": "lính canh",
    "b": "Selena",
    "loai": "dong_minh",
-   "mo_ta": "Lính gác quan sát và lo lắng cho tình trạng của Selena.",
-   "cach_goi": "gọi tên Jei (tên của Selena), thân mật"
+   "mo_ta": "Lính canh cố gắng giúp Selena, nhưng bị cô ấy tấn công và đánh bại.",
+   "cach_goi": "gọi 'Jei', thân mật"
   },
   {
    "a": "Selena",
-   "b": "lính gác",
-   "loai": "nguoi_la",
-   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "b": "lính canh",
+   "loai": "ke_thu",
+   "mo_ta": "Selena tấn công lính canh để trốn thoát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Jei",
+   "loai": "ban_be",
+   "mo_ta": "Selena kêu gọi Jei, có lẽ là một người bạn hoặc đồng đội.",
+   "cach_goi": "gọi tên 'Jei', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Frondier đã cứu Selena và đưa cô đến cửa hàng bách hóa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Selena trốn thoát để tránh Belphegor.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Jei là tên của Selena."
+  "Selena: tiết lộ đã được Frondier đưa đến cửa hàng bách hóa để tìm hiểu về vòng xiềng phép thuật."
  ],
  "stats": {
-  "tokens": 937,
-  "seconds": 29.1
+  "tokens": 721,
+  "seconds": 22.2
  }
 }

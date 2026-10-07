@@ -2,107 +2,125 @@
  "number": 518,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong cuộc họp chiến lược, Frondier đề xuất triển khai Aster Evans đến Tyburn để đối phó với tình hình phức tạp và thu thập Excalibur. Ông cũng phân loại nhân sự dựa trên khả năng đối phó với quái vật hoặc người, và mạnh trước nhiều kẻ hay ít kẻ. Cuối cùng, Ludovic được giao nhiệm vụ bảo vệ Hoàng cung vì Frondier dự đoán một cuộc tấn công trực diện từ Manggot sử dụng 'Shadow Transfer'.",
- "boi_canh": "Trong phòng họp chiến lược của Đế chế.",
+ "tom_tat": "Sau cuộc họp triển khai quân đội, Frondier bị nghi ngờ đã tự loại mình khỏi danh sách và trốn thoát. Anh ta bị các thành viên quan trọng của đế quốc truy đuổi, những người lo lắng về kế hoạch xâm nhập lãnh thổ địch của anh ta. Cuối cùng, Frondier buộc phải thuyết phục Nữ hoàng Philly bằng cách nhấn mạnh tầm quan trọng của hành động mạo hiểm này đối với sự sống còn của đế chế.",
+ "boi_canh": "Trong phòng họp tại Hoàng cung Đế quốc.",
  "nhan_vat": [
   "Frondier",
-  "Selena",
-  "Aster",
+  "Philly Terst",
+  "Aten Terst",
   "Azier",
+  "Lily",
   "Enfer",
   "Osprey",
-  "Ludovic",
-  "Aster Evans",
-  "Hector",
-  "Shadow",
-  "Hector Dutoit",
-  "Dutoit"
+  "Sylvain",
+  "Ludwig",
+  "Monty",
+  "Sanders",
+  "Ludovic"
  ],
  "su_kien": [
-  "Frondier đề xuất triển khai Aster Evans đến Tyburn.",
-  "Phân loại nhân sự thành hai nhóm: mạnh với quái vật và mạnh với người.",
-  "Phân loại thêm theo khả năng đối phó với nhiều kẻ hay ít kẻ.",
-  "Ludovic được giao nhiệm vụ bảo vệ Hoàng cung.",
-  "Frondier dự đoán Manggot có thể tấn công trực diện Hoàng cung bằng 'Shadow Transfer'."
+  "Frondier bị phát hiện không có tên trong danh sách triển khai quân đội.",
+  "Aten nghi ngờ Frondier đang trốn chạy vì sợ chiến tranh.",
+  "Philly giải thích cách thức triển khai quân đội của Frondier nhằm giảm thiểu thiệt hại cho Đế quốc.",
+  "Osprey hỏi liệu Frondier có định xâm nhập lãnh thổ địch hay không.",
+  "Frondier thuyết phục Philly bằng cách nhấn mạnh lợi ích tiềm năng của hành động mạo hiểm này."
  ],
  "quan_he": [
   {
+   "a": "Ludovic",
+   "b": "Philly Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Ludovic không có ý kiến về việc triển khai quân đội, Philly quan sát anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
    "a": "Frondier",
-   "b": "Aster",
-   "loai": "thay_tro",
-   "mo_ta": "Frondier là người chỉ đạo và Aster là người được giao nhiệm vụ.",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier tìm kiếm sự chấp thuận của Philly cho kế hoạch của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly quan sát Frondier, do dự trước yêu cầu của anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Aten nghi ngờ và lo lắng cho Frondier.",
    "cach_goi": "gọi tên Aster, thân mật"
   },
   {
-   "a": "Aster",
-   "b": "Frondier",
-   "loai": "thay_tro",
-   "mo_ta": "Aster nhận lệnh từ Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
    "a": "Frondier",
-   "b": "Osprey",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier và Osprey cùng làm việc, Frondier có vẻ cấp trên hơn.",
-   "cach_goi": "gọi 'Osprey', lễ phép"
-  },
-  {
-   "a": "Osprey",
-   "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Osprey có vẻ cấp trên hơn Frondier.",
+   "b": "Aten Terst",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier không đáp lại sự lo lắng của Aten.",
    "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Azier",
-   "loai": "gia_dinh",
-   "mo_ta": "Anh em ruột thịt.",
-   "cach_goi": "gọi tên Azier, thân mật"
-  },
-  {
-   "a": "Azier",
-   "b": "Frondier",
-   "loai": "gia_dinh",
-   "mo_ta": "Anh em ruột thịt.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Enfer",
-   "loai": "gia_dinh",
-   "mo_ta": "Cha con.",
-   "cach_goi": "gọi tên Enfer, lễ phép"
   },
   {
    "a": "Enfer",
    "b": "Frondier",
    "loai": "gia_dinh",
-   "mo_ta": "Cha con.",
+   "mo_ta": "Enfer lo lắng cho Frondier.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Ludovic",
+   "a": "Azier",
    "b": "Frondier",
-   "loai": "dong_minh",
-   "mo_ta": "Ludovic là một thành viên quan trọng của Đế chế và tuân theo lệnh của Frondier.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
+   "loai": "gia_dinh",
+   "mo_ta": "Azier lo lắng cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Frondier",
-   "b": "Ludovic",
-   "loai": "dong_minh",
-   "mo_ta": "Frondier là người ra lệnh cho Ludovic.",
-   "cach_goi": "gọi tên Ludovic, lễ phép"
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Lily nghi ngờ hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Monty nghi ngờ hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Osprey đặt câu hỏi về kế hoạch của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Ludwig bày tỏ sự lo ngại về hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Sanders bày tỏ sự lo ngại về hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Ludwig",
+   "loai": "nguoi_la",
+   "mo_ta": "Sylvain cung cấp thông tin cho Ludwig về hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
- "danh_tinh": [
-  "Aster Evans: Tên đầy đủ của Aster.",
-  "Hector Von Urfa: Tên thật của Hector Dutoit."
- ],
+ "danh_tinh": [],
  "stats": {
-  "tokens": 1095,
-  "seconds": 32.8
+  "tokens": 1317,
+  "seconds": 39.3
  }
 }

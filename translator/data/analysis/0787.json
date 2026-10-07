@@ -1,0 +1,75 @@
+{
+ "number": 787,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp Athena trong Pandemonium và thuyết phục cô ấy rút lui khỏi Medusa bằng cách hứa sẽ cứu cô ra ngoài. Anh ta khai thác sự tức giận của Athena đối với Poseidon để lấy thông tin về điểm yếu của vị thần này. Sau khi đạt được thỏa thuận, Frondier xóa Athena khỏi Pandemonium và bất ngờ gặp lại Carla, người đang rất sốc.",
+ "boi_canh": "Trong Pandemonium, sau một trận chiến đã kết thúc.",
+ "nhan_vat": [
+  "Frondier",
+  "Renzo",
+  "Carla",
+  "Baal",
+  "Athena",
+  "Frondier de Roach",
+  "Medusa"
+ ],
+ "su_kien": [
+  "Athena gần như mất hết ý chí chiến đấu.",
+  "Frondier thuyết phục Athena rút lui khỏi Medusa.",
+  "Frondier khai thác sự tức giận của Athena đối với Poseidon để lấy thông tin về điểm yếu của vị thần này.",
+  "Frondier xóa Athena khỏi Pandemonium.",
+  "Frondier bất ngờ gặp lại Carla."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Athena",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trong Pandemonium, Frondier thuyết phục Athena rút lui.",
+   "cach_goi": "gọi tên Athena, không trang trọng"
+  },
+  {
+   "a": "Athena",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trong Pandemonium, Athena nghi ngờ và phản bác lại Frondier.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Medusa",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Frondier đề cập đến Medusa trong cuộc trò chuyện với Athena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Athena",
+   "b": "Medusa",
+   "loai": "nguoi_la",
+   "mo_ta": "Athena đề cập đến Medusa với sự tức giận và có vẻ quen thuộc.",
+   "cach_goi": "gọi tên Medusa, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp lại Carla một cách bất ngờ sau khi xóa Athena.",
+   "cach_goi": "gọi tên Carla, không trang trọng"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Bất ngờ gặp lại Frondier và thể hiện sự sốc.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Athena: Goddess of Wisdom and War. Có vẻ như cô ấy đã không nhận ra Frondier.",
+  "Renzo: Được nhắc đến trong một câu chuyện của Athena, có lẽ là thông tin sai lệch hoặc bị nhầm lẫn."
+ ],
+ "stats": {
+  "tokens": 823,
+  "seconds": 24.7
+ }
+}

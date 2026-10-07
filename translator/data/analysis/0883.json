@@ -1,0 +1,75 @@
+{
+ "number": 883,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này giới thiệu Aster Evans, người sẽ thay thế Frondier giảng dạy môn Combat Theory. Sự xuất hiện của Aster gây bất ngờ cho học sinh và dẫn đến một cuộc tranh luận hài hước giữa anh và Frondier về sức mạnh của họ. Cuối cùng, họ đồng ý giao đấu để chứng minh kỹ năng, khiến Aias vô cùng phấn khích.",
+ "boi_canh": "Phòng tập thể dục Atlas, trong tiết học Combat Theory.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Renzo",
+  "Carla",
+  "Monty",
+  "Aster Evans",
+  "Aias"
+ ],
+ "su_kien": [
+  "Aster Evans được giới thiệu là người thay thế Frondier giảng dạy môn Combat Theory.",
+  "Một cuộc tranh luận hài hước nổ ra giữa Frondier và Aster về sức mạnh của họ.",
+  "Aias hỏi ai mạnh hơn giữa Frondier và Aster.",
+  "Frondier và Aster đồng ý giao đấu để chứng minh kỹ năng.",
+  "Aster thể hiện sức mạnh vượt trội trong trận đấu tập, khiến Frondier phải thừa nhận."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên và người thay thế giáo viên. Frondier giới thiệu Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người thay thế giáo viên và người được thay thế. Aster thể hiện sự tôn trọng.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Aias",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Học sinh, có vẻ ngưỡng mộ và quan tâm đến Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aias",
+   "b": "Aster",
+   "loai": "dong_minh",
+   "mo_ta": "Học sinh, thể hiện sự phấn khích trước sức mạnh của Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aias",
+   "loai": "dong_minh",
+   "mo_ta": "Giáo viên và học sinh. Frondier có vẻ quan tâm đến Aias.",
+   "cach_goi": "gọi tên Aias, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Aias",
+   "loai": "dong_minh",
+   "mo_ta": "Người thay thế giáo viên và học sinh, Aster gây ấn tượng mạnh với Aias.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)"
+ ],
+ "stats": {
+  "tokens": 661,
+  "seconds": 20.0
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "number": 931,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với việc Frondier được Ludovic đẩy đi bằng sức mạnh của mình thay vì sử dụng One Flash. Poseidon nhận ra sự hiện diện của Frondier và tấn công, nhưng Sybil phá vỡ sự căng thẳng bằng giọng nói vui vẻ của cô ấy. Sau đó, Poseidon tạo ra một bức tường biển khổng lồ để chặn Frondier, nhưng Frondier đã sử dụng Búa Ngọn Thương Ares (Enkephalos) để tạo ra một lỗ hổng và vượt qua. Cuối cùng, Sybil đối đầu với Poseidon sau khi Jormungandr can thiệp, báo hiệu một cuộc chiến tranh giữa họ.",
+ "boi_canh": "Trên biển, trong một khoảnh khắc quyết định.",
+ "nhan_vat": [
+  "Frondier",
+  "Ludovic",
+  "Aster",
+  "Sybil",
+  "Quinie",
+  "Poseidon",
+  "Tadadada",
+  "Ares",
+  "Jormungandr",
+  "Aster Evans",
+  "Sybil Forte"
+ ],
+ "su_kien": [
+  "Ludovic đẩy Frondier đi bằng sức mạnh của mình.",
+  "Poseidon tấn công Frondier và mắt chuyển sang màu đỏ.",
+  "Frondier sử dụng Búa Ngọn Thương Ares (Enkephalos) để vượt qua bức tường biển.",
+  "Jormungandr can thiệp bảo vệ Sybil.",
+  "Sybil đối đầu với Poseidon, tuyên chiến."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ludovic",
+   "loai": "gia_dinh",
+   "mo_ta": "Ludovic giúp Frondier rời đi.",
+   "cach_goi": "gọi tên Ludovic, thân mật"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Ludovic giúp Frondier rời đi.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Poseidon",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu, Poseidon tấn công Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sybil phá vỡ sự căng thẳng.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sybil phá vỡ sự căng thẳng.",
+   "cach_goi": "gọi tên Sybil, thân mật"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Jormungandr",
+   "loai": "khac",
+   "mo_ta": "Đối đầu, Poseidon tức giận với Jormungandr.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jormungandr",
+   "b": "Poseidon",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu, Poseidon tức giận với Jormungandr.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Jormungandr",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sybil cưỡi trên lưng Jormungandr.",
+   "cach_goi": "gọi tên Jormungandr, thân mật"
+  },
+  {
+   "a": "Jormungandr",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Sybil cưỡi trên lưng Jormungandr.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)",
+  "Sybil Forte (tên đầy đủ của Sybil)"
+ ],
+ "stats": {
+  "tokens": 1064,
+  "seconds": 32.0
+ }
+}

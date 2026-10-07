@@ -1,0 +1,92 @@
+{
+ "number": 869,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi lên kế hoạch đi tàu đến lục địa phía tây, Frondier và Aster bị chặn lại bởi Ludovic đột ngột xuất hiện với sức mạnh được khôi phục. Ludovic đưa Frondier bay tới Agoris để kịp thời gian. Trên đường đi, họ gặp gỡ nhiều vị thần và những người khác đang trên đường đến Agoris, và cuối cùng đối mặt với Poseidon, người yêu cầu chứng minh sự thật của họ.",
+ "boi_canh": "Trên đường bay đến lục địa phía tây.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Renzo",
+  "Monty",
+  "Ludovic",
+  "Ares",
+  "Zeus",
+  "Poseidon",
+  "Osprey",
+  "Ridwy Urfa"
+ ],
+ "su_kien": [
+  "Aster dự định đi tàu đến lục địa phía tây.",
+  "Ludovic đột ngột xuất hiện và đưa Frondier bay tới Agoris.",
+  "Họ gặp gỡ nhiều vị thần và những người khác trên đường đi.",
+  "Poseidon yêu cầu chứng minh sự thật của họ trước khi cho phép họ tiếp tục.",
+  "Aster được cho là 'Ares' để tránh bị phát hiện."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Ludovic",
+   "loai": "thay_tro",
+   "mo_ta": "Ludovic giúp đỡ và đưa Aster đi nhanh hơn.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Aster",
+   "loai": "thay_tro",
+   "mo_ta": "Ludovic giúp đỡ và đưa Aster đi nhanh hơn.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "gia_dinh",
+   "mo_ta": "Người kể chuyện và người bạn đồng hành.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Renzo",
+   "loai": "ban_be",
+   "mo_ta": "Người quen, Aster có thể bị nhầm là Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Zeus",
+   "b": "Poseidon",
+   "loai": "dong_minh",
+   "mo_ta": "Hai vị thần gặp lại sau thời gian dài.",
+   "cach_goi": "gọi tên, lễ phép"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Zeus",
+   "loai": "dong_minh",
+   "mo_ta": "Hai vị thần gặp lại sau thời gian dài.",
+   "cach_goi": "gọi tên, lễ phép"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Poseidon nghi ngờ Aster và yêu cầu chứng minh.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Aster",
+   "loai": "thay_tro",
+   "mo_ta": "Ludovic nhắc Aster phải làm gì.",
+   "cach_goi": "gọi tên, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Aster có thể bị nhầm là Ares.",
+  "Aster có thể bị nhầm là Renzo."
+ ],
+ "stats": {
+  "tokens": 905,
+  "seconds": 27.2
+ }
+}

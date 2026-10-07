@@ -1,0 +1,111 @@
+{
+ "number": 707,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp một nữ sinh năm nhất tên Cain, cháu gái của cựu Zodiac Heldre, người mà Frondier đã giết. Cain đột ngột biến thành nhiều con nhện nhỏ và phân tán. Sau đó, Jane, giáo viên mới của lớp 3, xuất hiện cùng với sự kiện bất thường là sự xuất hiện của những con nhện tấn công Frondier.",
+ "boi_canh": "Trong khuôn trường Constel, vào đầu năm học mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Pielott",
+  "Dier",
+  "Jane",
+  "Kora",
+  "Heldre",
+  "Cain"
+ ],
+ "su_kien": [
+  "Một nữ sinh năm nhất tên Cain tiếp cận Pielott và Dier.",
+  "Cain biến thành nhiều con nhện nhỏ và phân tán.",
+  "Jane, giáo viên mới, xuất hiện trong lớp 3.",
+  "Những con nhện tấn công Frondier.",
+  "Kora có vẻ đã thích nghi với cuộc sống ở Constel."
+ ],
+ "quan_he": [
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn cùng lớp, có vẻ như quan tâm đến nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn cùng lớp, có vẻ như quan tâm đến nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Cain",
+   "loai": "nguoi_la",
+   "mo_ta": "Pielott tiếp cận Cain để thẩm vấn, thái độ cảnh giác.",
+   "cach_goi": "gọi 'nữ sinh', lễ phép"
+  },
+  {
+   "a": "Cain",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Cain tiếp cận Pielott để hỏi thông tin, thái độ lịch sự.",
+   "cach_goi": "gọi 'anh', lễ phép"
+  },
+  {
+   "a": "Dier",
+   "b": "Cain",
+   "loai": "nguoi_la",
+   "mo_ta": "Dier tiếp cận Cain để hỏi thông tin, thái độ tò mò.",
+   "cach_goi": "gọi 'nữ sinh', thân mật"
+  },
+  {
+   "a": "Cain",
+   "b": "Dier",
+   "loai": "nguoi_la",
+   "mo_ta": "Cain trả lời Dier, thái độ lịch sự.",
+   "cach_goi": "gọi 'anh', lễ phép"
+  },
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Jane là giáo viên, Frondier là học sinh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Kora",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn, ngồi cạnh nhau trong lớp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn, ngồi cạnh nhau trong lớp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Cain",
+   "loai": "nguoi_la",
+   "mo_ta": "Jane tiếp cận Cain để hỏi thông tin, thái độ lịch sự.",
+   "cach_goi": "gọi 'nữ sinh', lễ phép"
+  },
+  {
+   "a": "Cain",
+   "b": "Jane",
+   "loai": "nguoi_la",
+   "mo_ta": "Cain trả lời Jane, thái độ lịch sự.",
+   "cach_goi": "gọi 'giáo viên', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Cain là cháu gái của Heldre, cựu Zodiac.",
+  "Cain giả làm nữ sinh Constel."
+ ],
+ "stats": {
+  "tokens": 1142,
+  "seconds": 34.0
+ }
+}

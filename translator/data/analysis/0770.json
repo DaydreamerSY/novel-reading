@@ -1,0 +1,70 @@
+{
+ "number": 770,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier phát hiện Basileo đã bí mật theo dõi quá trình luyện tập của mình và chứng kiến việc anh ta tạo ra Will-o’-the-Wisp dưới dạng tinh thể mana. Sau đó, Basileo đột ngột quỳ lạy và xin Frondier làm thầy dạy phép thuật. Frondier từ chối tiết lộ bí mật về phép thuật của mình nhưng đồng ý cho Basileo theo đuổi con đường để đạt được thành tựu cao hơn. Cuối cùng, Zenita tiếp cận Frondier trong thư viện và đề nghị một ván cá cược kỳ lạ với anh ta.",
+ "boi_canh": "Trong phòng tập thể dục và sau đó là thư viện của trường, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Basileo",
+  "Selena",
+  "Zenita",
+  "Sandri"
+ ],
+ "su_kien": [
+  "Frondier tạo thành công Will-o’-the-Wisp dưới dạng tinh thể mana.",
+  "Basileo bị phát hiện đã bí mật theo dõi Frondier luyện tập.",
+  "Basileo quỳ lạy và xin Frondier làm thầy dạy phép thuật.",
+  "Frondier đồng ý cho Basileo theo đuổi con đường để đạt được thành tựu cao hơn.",
+  "Zenita đề nghị một ván cá cược kỳ lạ với Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò ngưỡng mộ, xin làm đệ tử.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy giáo kiên quyết, không muốn dạy dỗ.",
+   "cach_goi": "gọi tên Basileo, lạnh lùng"
+  },
+  {
+   "a": "Zenita",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Học sinh tò mò, muốn thử thách.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Zenita",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên quan sát, không thích bị làm phiền.",
+   "cach_goi": "gọi tên Zenita, lạnh lùng"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò nức nở, muốn được dạy dỗ.",
+   "cach_goi": "gọi 'Teacher', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên có phần mỉa mai.",
+   "cach_goi": "gọi tên Basileo, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 815,
+  "seconds": 24.5
+ }
+}

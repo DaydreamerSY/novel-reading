@@ -1,0 +1,152 @@
+{
+ "number": 903,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gửi một tin nhắn ngắn cho Dier cầu cứu, dẫn đến một cảnh tượng đáng báo động tại hiện trường cái chết của Senior Azier. Sau khi đến nơi, Dier phát hiện ra sự có mặt của nhiều nhân vật quan trọng và bắt đầu điều tra vụ án. Cuối cùng, Dier nhận ra rằng máu trên người Senior Azier có thể không phải là máu của ông ta, mở ra một hướng điều tra mới.",
+ "boi_canh": "Hiện trường vụ án tại nơi Senior Azier qua đời.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Azier",
+  "Dier",
+  "Jane",
+  "Sale",
+  "Binkis",
+  "Osprey",
+  "Elysia"
+ ],
+ "su_kien": [
+  "Frondier gửi tin nhắn cầu cứu Dier.",
+  "Dier đến hiện trường vụ án với tốc độ nhanh chóng.",
+  "Dier phát hiện sự có mặt của nhiều nhân vật quan trọng tại hiện trường.",
+  "Dier nhận thấy máu trên người Senior Azier có thể không phải là máu của ông ta.",
+  "Dier bắt đầu nghi ngờ về việc sử dụng phép thuật để che giấu điều gì đó."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Frondier cần sự giúp đỡ của Dier.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "học sinh kính trọng người thầy của mình.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Dier",
+   "loai": "dong_minh",
+   "mo_ta": "Hoàng hậu chào đón Dier.",
+   "cach_goi": "gọi tên Dier, trang trọng"
+  },
+  {
+   "a": "Dier",
+   "b": "Philly",
+   "loai": "dong_minh",
+   "mo_ta": "Dier cúi chào Hoàng hậu.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai và em trai.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Azier",
+   "loai": "thay_tro",
+   "mo_ta": "kính trọng người lớn tuổi hơn.",
+   "cach_goi": "gọi tên Azier, kính trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "khac",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Jane",
+   "loai": "khac",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "khac",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Binkis",
+   "loai": "khac",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "khac",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Osprey",
+   "loai": "khac",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "khac",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Elysia",
+   "loai": "khac",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sale",
+   "loai": "khac",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Sale",
+   "loai": "khac",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Dier",
+   "loai": "khac",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1479,
+  "seconds": 44.7
+ }
+}

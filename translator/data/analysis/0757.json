@@ -1,0 +1,63 @@
+{
+ "number": 757,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp gỡ Poseidon giữa biển, một vị thần mà ngay cả Zeus cũng phải nể trọng. Frondier cố gắng tránh đối đầu nhưng bị Poseidon chất vấn về việc sở hữu Mjölnir. Cuối cùng, thông qua những lời nói khéo léo và sự tôn trọng của Frondier, Poseidon hiểu lầm tình huống và tin rằng Thor đã trao Mjölnir cho anh ta.",
+ "boi_canh": "Giữa biển cả mênh mông, nơi Frondier đang trên đường vượt biển.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Renzo",
+  "Edwin",
+  "Malia",
+  "Heldre",
+  "Thor",
+  "Zeus",
+  "Poseidon"
+ ],
+ "su_kien": [
+  "Frondier gặp Poseidon giữa biển.",
+  "Poseidon chất vấn Frondier về việc tại sao anh ta lại có Mjölnir.",
+  "Frondier cố gắng tránh đối đầu và tìm cách giải thích tình hình.",
+  "Poseidon hiểu lầm rằng Thor đã trao Mjölnir cho Frondier.",
+  "Poseidon chấp nhận lời giải thích của Frondier và tạm thời buông bỏ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Poseidon",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối đầu trực tiếp, Frondier cố gắng tránh xung đột.",
+   "cach_goi": "gọi 'Lord Poseidon', lễ phép"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đặt câu hỏi và chất vấn Frondier.",
+   "cach_goi": "hỏi trực tiếp, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier kêu gọi Elodie giúp đỡ trong tình huống nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Elodie sử dụng sức mạnh để cứu con tàu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Poseidon: Vị thần bị Frondier gặp gỡ lần đầu tiên nhưng không nhận ra.",
+  "Mjölnir: Ban đầu Frondier nghĩ là giả, sau đó xác nhận là thật và được Mjölnir chấp nhận."
+ ],
+ "stats": {
+  "tokens": 687,
+  "seconds": 20.6
+ }
+}

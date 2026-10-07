@@ -1,0 +1,97 @@
+{
+ "number": 963,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Đội Zodiac đối mặt với Apollo và bị tấn công bất ngờ. Ludwig nhận ra sự phụ thuộc vào sức mạnh thần thánh của họ, trong khi Hector can thiệp để bảo vệ cha mình. Cuộc đối đầu giữa Ludwig và Apollo leo thang, dẫn đến những tiết lộ về quá khứ và một món quà đặc biệt dành cho Hector từ cha anh. Đồng thời, Frondier và Thor giao chiến ở Asgard, với Frondier sử dụng nhiều vũ khí khác nhau để chống lại sức mạnh của Thor.",
+ "boi_canh": "Một trận chiến đang diễn ra tại rìa Asgard.",
+ "nhan_vat": [
+  "Frondier",
+  "Ludwig",
+  "Apollo",
+  "Osprey",
+  "Hector",
+  "Thor",
+  "Heracles",
+  "Azier",
+  "Ludwig"
+ ],
+ "su_kien": [
+  "Đội Zodiac nhận ra sự phụ thuộc vào sức mạnh thần thánh.",
+  "Apollo tấn công Ludwig, nhưng Osprey cứu anh ta.",
+  "Hector can thiệp để bảo vệ Ludwig khỏi Apollo.",
+  "Ludwig truyền một món quà ma thuật cho Hector.",
+  "Frondier và Thor giao chiến ở Asgard."
+ ],
+ "quan_he": [
+  {
+   "a": "Ludwig",
+   "b": "Apollo",
+   "loai": "doi_thu",
+   "mo_ta": "Địch thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Apollo, lạnh lùng"
+  },
+  {
+   "a": "Apollo",
+   "b": "Ludwig",
+   "loai": "doi_thu",
+   "mo_ta": "Địch thủ trực tiếp trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cứu Ludwig khỏi nguy hiểm.",
+   "cach_goi": "gọi tên Ludwig, thân mật"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Osprey",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Ludwig cảm ơn vì đã cứu anh.",
+   "cach_goi": "gọi tên Osprey, thân mật"
+  },
+  {
+   "a": "Hector",
+   "b": "Ludwig",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai của Ludwig, bảo vệ cha mình.",
+   "cach_goi": "gọi tên Ludwig, thân mật"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Hector",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Hector, trao cho con trai mình một món quà đặc biệt.",
+   "cach_goi": "gọi tên Hector, thân mật"
+  },
+  {
+   "a": "Apollo",
+   "b": "Hector",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Hector, bị Hector cản đường.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Frondier trong trận chiến ở Asgard.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thor",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Thor trong trận chiến ở Asgard.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hector Von Urfa (tên thật của Hector)"
+ ],
+ "stats": {
+  "tokens": 968,
+  "seconds": 29.1
+ }
+}

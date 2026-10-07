@@ -23,6 +23,7 @@ class Paths:
     def __init__(self):
         data = ROOT / "data"
         self.en = data / "en"
+        self.en_novelight = data / "en_novelight"
         self.cache = data / "cache"
         self.vi_root = data / "vi"
         self.output = ROOT / "output"

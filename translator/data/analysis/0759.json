@@ -1,0 +1,105 @@
+{
+ "number": 759,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này giới thiệu một lục địa mới tên là Agoris, nơi mà nhân loại và quỷ chiến đấu với nhau. Frondier đến Agoris để tìm kiếm Baal, Vua Hỏa Tinh, bằng cách giả dạng thành quỷ. Hành động của anh ta gây ra sự hoảng loạn trong số những con quỷ, cuối cùng dẫn đến một cuộc đối đầu trực tiếp với Baal.",
+ "boi_canh": "Một lục địa xa xôi, nơi nhân loại và quỷ đang chiến đấu.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Baal",
+  "Marco",
+  "Arald",
+  "Ria Lis",
+  "Lis",
+  "Poseidon"
+ ],
+ "su_kien": [
+  "Một người đàn ông với đôi cánh đen xuất hiện ở Agoris, chào hỏi quỷ và tìm kiếm Baal.",
+  "Những con quỷ báo cáo về sự xuất hiện của người đàn ông đến tai Baal.",
+  "Frondier (tên nhân vật chính) sử dụng đôi cánh làm từ Black Thread để bay tới Agoris.",
+  "Quỷ tấn công Frondier khi anh ta tìm kiếm Baal.",
+  "Frondier đối mặt với Baal và tuyên bố đã tìm thấy ông."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, lo lắng về việc Frondier có thể bị nhận ra là người không phải quỷ.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, lo lắng về việc Frondier có thể bị nhận ra là người không phải quỷ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Selena quan sát và đặt câu hỏi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Selena quan sát và đặt câu hỏi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò, Frondier hỏi ý kiến Lily về việc giả dạng thành quỷ.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy, Lily đưa ra lời khuyên về việc giả dạng thành quỷ.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Arald đặt câu hỏi và đưa ra những nhận xét.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Arald đặt câu hỏi và đưa ra những nhận xét.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier tìm kiếm Baal và cuối cùng đối mặt với ông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier tìm kiếm Baal và cuối cùng đối mặt với ông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier sử dụng đôi cánh làm từ Black Thread để giả dạng thành quỷ."
+ ],
+ "stats": {
+  "tokens": 1141,
+  "seconds": 34.2
+ }
+}

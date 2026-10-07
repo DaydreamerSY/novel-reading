@@ -1,0 +1,107 @@
+{
+ "number": 778,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Carla đột ngột biến mất, Frondier và những người bạn của anh lo lắng về nguyên nhân. Họ suy đoán Carla có thể đã bị đe dọa sau một giao dịch không công bằng hoặc đang thu thập thông tin bí mật về quỷ dữ. Cuối cùng, họ quyết định tìm kiếm Carla và phát hiện ra rằng Carla đang lợi dụng sự ngưỡng mộ của con trai nhà Achaea để đạt được mục đích riêng, và có thể là người ngoài hành tinh hoặc chính là một con quỷ.",
+ "boi_canh": "Trong phòng khách dinh thự gia đình Achaea, vào buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Arald",
+  "Pielott",
+  "Carla",
+  "Gregory",
+  "Ria Lis",
+  "Aias",
+  "Lis",
+  "Lady Achaea"
+ ],
+ "su_kien": [
+  "Carla đột ngột biến mất, khiến Frondier và những người bạn của anh lo lắng.",
+  "Frondier suy đoán Carla có thể đã bị đe dọa sau một giao dịch không công bằng.",
+  "Selena cho rằng Carla có thể đang gặp phải một sự kiện bất ngờ nào đó.",
+  "Lily, Arald và Pielott đến dinh thự gia đình Achaea để điều tra.",
+  "Lady Achaea tiết lộ Carla đang lợi dụng sự ngưỡng mộ của con trai bà để thu thập thông tin về quỷ dữ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, chia sẻ lo lắng về Carla.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, cùng suy đoán về Carla.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, lo lắng về Carla.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, cùng suy đoán về Carla.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đi cùng tìm Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đi cùng tìm Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đi cùng tìm Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lady Achaea",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, chủ nhà, tiếp đón nhóm của Frondier.",
+   "cach_goi": "gọi tên Lily, lễ phép"
+  },
+  {
+   "a": "Lady Achaea",
+   "b": "Arald",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, chủ nhà, tiếp đón nhóm của Frondier.",
+   "cach_goi": "gọi tên Arald, lễ phép"
+  },
+  {
+   "a": "Lady Achaea",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, chủ nhà, tiếp đón nhóm của Frondier.",
+   "cach_goi": "gọi tên Pielott, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Carla: Có thể là người ngoài hành tinh hoặc chính là một con quỷ."
+ ],
+ "stats": {
+  "tokens": 1144,
+  "seconds": 34.4
+ }
+}

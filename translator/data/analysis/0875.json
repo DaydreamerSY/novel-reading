@@ -1,0 +1,109 @@
+{
+ "number": 875,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra trong Pandemonium khi 72 Quỷ tinh linh bao vây Frondier và Aphrodite. Các vị thần can thiệp để giải cứu Aphrodite và loại bỏ Frondier, dẫn đến một trận chiến giữa các vị thần và quỷ tinh linh. Baal bị đánh bại, sức mạnh suy yếu. Sybil tham gia giúp đỡ Frondier, trong khi Selena bí mật hỗ trợ bằng cách sử dụng kim tiêm để làm suy yếu kẻ thù. Hermes xuất hiện với ý định giết Frondier nhưng bị Aias ngăn cản, và cuối cùng Hermes nhận ra vai trò của Aias theo lời tiên tri.",
+ "boi_canh": "Trong Pandemonium, giữa trận chiến giữa các vị thần và 72 Quỷ tinh linh.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Sybil",
+  "Lily",
+  "Pielott",
+  "Baal",
+  "Mei",
+  "Aias",
+  "Ares",
+  "King of Hell",
+  "Zeus",
+  "Hermes"
+ ],
+ "su_kien": [
+  "Các vị thần và 72 Quỷ tinh linh bắt đầu chiến đấu.",
+  "Baal bị đánh bại và sức mạnh suy yếu.",
+  "Sybil tham gia giúp đỡ Frondier.",
+  "Selena bí mật sử dụng kim tiêm để làm suy yếu kẻ thù.",
+  "Hermes xuất hiện với ý định giết Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "ke_thu",
+   "mo_ta": "Địch thủ, Frondier tin tưởng Baal và kéo Aphrodite vào Pandemonium.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Địch thủ, Baal bị Frondier đánh bại và sức mạnh suy yếu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Sybil giúp đỡ Frondier trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Sybil giúp đỡ Frondier trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Mei",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Selena và Mei cùng hỗ trợ Frondier từ phía sau.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Selena và Mei cùng hỗ trợ Frondier từ phía sau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hermes",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Địch thủ, Hermes muốn giết Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Aias",
+   "b": "Hermes",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Aias ngăn chặn Hermes và bảo vệ Frondier.",
+   "cach_goi": "gọi tên Hermes, lễ phép"
+  },
+  {
+   "a": "Hermes",
+   "b": "Aias",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Hermes nghi ngờ Aias và chất vấn anh ta.",
+   "cach_goi": "gọi tên Aias, lạnh lùng"
+  },
+  {
+   "a": "Aster",
+   "b": "Zeus",
+   "loai": "doi_thu",
+   "mo_ta": "Địch thủ, Aster ném trỏ Enkephalos cho Aias để đối phó với Zeus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aias được tiết lộ là con trai của House Achaea."
+ ],
+ "stats": {
+  "tokens": 1016,
+  "seconds": 30.7
+ }
+}

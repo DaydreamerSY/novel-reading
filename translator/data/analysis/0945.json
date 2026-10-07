@@ -1,0 +1,102 @@
+{
+ "number": 945,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tiêu diệt Moirai, Odin ra lệnh cho Thor giết Frondier. Đồng thời, tại cung điện đế quốc, một loạt báo cáo về sự thay đổi địa hình toàn cầu được đưa ra: biển rút xuống, lộ ra đất liền mới. Các Zodiacs cảm nhận được sự biến động kỳ lạ và nhận ra sự ảnh hưởng của việc Moirai bị tiêu diệt. Cuối cùng, hoàng đế Bartello yêu cầu Aten đến nhà Roach để giúp đỡ gia đình Enfer.",
+ "boi_canh": "Tại Asgard, sau khi Moirai bị tiêu diệt.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Philly",
+  "Aten",
+  "Azier",
+  "Renzo",
+  "Malia",
+  "Bartello",
+  "Sale",
+  "Odin",
+  "Thor",
+  "Zeus",
+  "Urd",
+  "Verdandi",
+  "Skuld",
+  "Osprey",
+  "Ludwig von Urfa",
+  "Enfer",
+  "Elysia"
+ ],
+ "su_kien": [
+  "Moirai bị tiêu diệt, Odin ra lệnh giết Frondier.",
+  "Biển rút xuống, lộ đất liền mới.",
+  "Các Zodiacs cảm nhận được sự biến động kỳ lạ.",
+  "Bartello yêu cầu Aten đến nhà Roach.",
+  "Aten nhớ lại ký ức về Bartello khi còn nhỏ."
+ ],
+ "quan_he": [
+  {
+   "a": "Odin",
+   "b": "Thor",
+   "loai": "gia_dinh",
+   "mo_ta": "cha và con trai, Odin ra lệnh cho Thor.",
+   "cach_goi": "gọi tên Thor, thân mật"
+  },
+  {
+   "a": "Thor",
+   "b": "Odin",
+   "loai": "gia_dinh",
+   "mo_ta": "con trai và cha, Thor phản biện lại Odin.",
+   "cach_goi": "gọi tên Odin, thân mật"
+  },
+  {
+   "a": "Bartello",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "hoàng đế và nữ hoàng, Bartello báo cáo tình hình cho Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "nữ hoàng và hoàng đế, Philly phản hồi lại Bartello.",
+   "cach_goi": "gọi tên Bartello, lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "đồng nghiệp, Osprey khen ngợi kỹ năng chữa trị của Aten.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Osprey",
+   "loai": "ban_be",
+   "mo_ta": "đồng nghiệp, Aten trả lời khiêm tốn lời khen của Osprey.",
+   "cach_goi": "gọi tên Osprey, lễ phép"
+  },
+  {
+   "a": "Bartello",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "cha và con gái, Bartello yêu cầu Aten đến nhà Roach.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Bartello",
+   "loai": "gia_dinh",
+   "mo_ta": "con gái và cha, Aten trả lời yêu cầu của Bartello.",
+   "cach_goi": "gọi tên Bartello, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Etius đổi thành Falind",
+  "Agoris vẫn là Agoris",
+  "Moirai được thay thế bằng Norn (Urd, Verdandi, Skuld)"
+ ],
+ "stats": {
+  "tokens": 1022,
+  "seconds": 31.1
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "number": 947,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào hai diễn biến chính: Elodie và Osprey thảo luận về khả năng kết hợp bốn nguyên tố, và cuộc chiến giữa Renzo và Tyr. Trong khi đó, Aster đang trên đường đến Parthenon Temple để lấy Mistilteinn theo yêu cầu của Frondier, nhưng lại bị gián đoạn bởi một sự kiện khác.",
+ "boi_canh": "Trên không trung, trong lúc di chuyển đến một khu vực nguy hiểm.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Azier",
+  "Renzo",
+  "Jane",
+  "Ares",
+  "Osprey",
+  "Tyr"
+ ],
+ "su_kien": [
+  "Elodie và Osprey thảo luận về khả năng kết hợp bốn nguyên tố.",
+  "Aster nhận nhiệm vụ từ Frondier để lấy Mistilteinn tại Parthenon Temple.",
+  "Aster đối mặt với những con quái vật trên đường đi.",
+  "Renzo và Tyr giao chiến, Renzo phát hiện ra mình đang sao chép một kỹ thuật của Enfer.",
+  "Aster bị gián đoạn bởi một sự kiện khác trong khi đang đi tìm Mistilteinn."
+ ],
+ "quan_he": [
+  {
+   "a": "Osprey",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Người hướng dẫn và động viên Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Osprey",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò lắng nghe lời khuyên của người thầy.",
+   "cach_goi": "gọi tên Osprey, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Người ra lệnh cho Aster nhiệm vụ.",
+   "cach_goi": "gọi tên Aster, lạnh lùng"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người thực hiện nhiệm vụ theo yêu cầu của người khác.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Tyr",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang giao chiến với nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Tyr",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang giao chiến với nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ares",
+   "b": "Renzo",
+   "loai": "ke_thu",
+   "mo_ta": "Quan sát cuộc chiến từ xa, có vẻ như đang ủng hộ Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Enfer de Roach: Người mà Renzo vô tình sao chép kỹ thuật của.",
+  "Enkephalos: Ngọn giáo mà Aster đang cầm, trước đó thuộc về Frondier và có liên quan đến Ares."
+ ],
+ "stats": {
+  "tokens": 860,
+  "seconds": 26.0
+ }
+}

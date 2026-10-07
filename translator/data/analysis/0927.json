@@ -1,0 +1,57 @@
+{
+ "number": 927,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị Renzo xao lãng sự chú ý, Ares nổi giận và ra lệnh cho Renzo lấy búa thương của mình. Renzo phản đối mạnh mẽ, khẳng định rằng anh ta thà chết còn hơn để Ares kiểm soát cơ thể anh ta. Một cuộc chiến tranh giành quyền kiểm soát cơ thể diễn ra hỗn loạn, với Renzo liên tục đập đầu vào mọi thứ xung quanh. Sau đó, Renzo lợi dụng sự phân tâm của Ares để trốn vào một hang động, nơi có những người lính đang chờ đợi. Anh ta cố tình gây ồn ào để thu hút sự chú ý và tạo cơ hội ngăn chặn Ares chiếm hữu cơ thể anh ta, dẫn đến một cuộc chiến với những người lính Manggot do Yeolgot lãnh đạo.",
+ "boi_canh": "Trong một hang động tối tăm, giữa lúc tranh giành quyền kiểm soát cơ thể.",
+ "nhan_vat": [
+  "Renzo",
+  "Ares",
+  "Yeolgot"
+ ],
+ "su_kien": [
+  "Ares ra lệnh cho Renzo lấy búa thương của mình.",
+  "Renzo phản đối và khẳng định anh ta thà chết còn hơn để Ares kiểm soát cơ thể.",
+  "Một cuộc chiến tranh giành quyền kiểm soát cơ thể diễn ra hỗn loạn.",
+  "Renzo trốn vào một hang động có người lính đang chờ đợi.",
+  "Renzo cố tình gây ồn ào để thu hút sự chú ý và tạo cơ hội ngăn chặn Ares chiếm hữu cơ thể anh ta."
+ ],
+ "quan_he": [
+  {
+   "a": "Ares",
+   "b": "Renzo",
+   "loai": "ke_thu",
+   "mo_ta": "Ares muốn chiếm hữu cơ thể Renzo; Renzo chống lại.",
+   "cach_goi": "gọi tên Renzo, lạnh lùng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Ares",
+   "loai": "ke_thu",
+   "mo_ta": "Renzo chống lại Ares để ngăn chặn sự chiếm hữu.",
+   "cach_goi": "gọi tên Ares, thô lỗ"
+  },
+  {
+   "a": "Renzo",
+   "b": "Yeolgot",
+   "loai": "nguoi_la",
+   "mo_ta": "Renzo vừa mới gặp Yeolgot và đang khiêu khích cô.",
+   "cach_goi": "gọi tên Yeolgot, thân mật"
+  },
+  {
+   "a": "Yeolgot",
+   "b": "Renzo",
+   "loai": "nguoi_la",
+   "mo_ta": "Yeolgot vừa mới gặp Renzo và đang quan sát anh ta.",
+   "cach_goi": "gọi tên Renzo, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Renzo: Có thể là một thực thể khác, đang chiến đấu để ngăn chặn Ares chiếm hữu cơ thể anh ta.",
+  "Manggot: Nhóm lính mà Renzo đã nhận ra sau khi nhìn thấy họ."
+ ],
+ "stats": {
+  "tokens": 738,
+  "seconds": 22.2
+ }
+}

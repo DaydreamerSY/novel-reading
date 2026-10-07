@@ -1,0 +1,79 @@
+{
+ "number": 732,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhận ra sự can thiệp của thần thánh vào các sự kiện gần đây và xác định được kẻ đứng sau là Odin, vị thần thông thái của Bắc Âu. Thông qua Sale, Odin thừa nhận trí tuệ của Frondier và bày tỏ sự tò mò về cách anh ta có thể nhận ra chính mình. Cuộc trò chuyện hé lộ rằng Odin đã chiếm lấy cơ thể Sale vì anh ta không thể trực tiếp tác động đến Frondier.",
+ "boi_canh": "Trong phòng ngủ của Bartello, đêm tối.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Elysia",
+  "Edwin",
+  "Hagley",
+  "Pascal",
+  "Bartello",
+  "Robert",
+  "Sale",
+  "Odin",
+  "Zeus"
+ ],
+ "su_kien": [
+  "Frondier nhận ra sự can thiệp của thần thánh.",
+  "Anh ta xác định Odin là kẻ đứng sau.",
+  "Odin nói chuyện với Frondier thông qua Sale.",
+  "Frondier suy luận về động cơ của Odin và lý do anh ta chọn Sale.",
+  "Odin thừa nhận trí tuệ của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sale",
+   "loai": "nguoi_la",
+   "mo_ta": "Odin đang chiếm giữ cơ thể Sale và giao tiếp với Frondier.",
+   "cach_goi": "gọi tên 'Sale', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sale",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Odin đang chiếm giữ cơ thể Sale và giao tiếp với Frondier.",
+   "cach_goi": "gọi tên 'Frondier', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Odin",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Odin đang giao tiếp với Frondier thông qua Sale, bày tỏ sự tò mò và đánh giá.",
+   "cach_goi": "gọi tên 'Frondier', trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Odin",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier trả lời Odin, thể hiện sự hiểu biết và đánh giá của mình.",
+   "cach_goi": "gọi tên 'Odin', lạnh lùng"
+  },
+  {
+   "a": "Bartello",
+   "b": "Odin",
+   "loai": "cap_tren",
+   "mo_ta": "Odin đang chiếm giữ cơ thể Bartello, nhưng anh ta bị mê hoặc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier suy đoán về động cơ của Bartello.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Odin đang chiếm giữ cơ thể Sale, tạo ra sự nhập vai giả mạo."
+ ],
+ "stats": {
+  "tokens": 826,
+  "seconds": 24.8
+ }
+}

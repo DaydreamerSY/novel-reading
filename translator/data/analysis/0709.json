@@ -1,0 +1,91 @@
+{
+ "number": 709,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong phòng giáo viên, Frondier nghe những lời khen ngợi, phàn nàn và trách móc của Jane về những rắc rối mà anh thường xuyên gây ra. Sau đó, cuộc trò chuyện chuyển sang Cain, người không có họ và lý do cô đến gặp Frondier. Cuối cùng, một sự cố lớn xảy ra khi Cain công khai tố cáo Frondier đã nói dối về việc Hoàng đế sẽ chết, khiến bầu không khí trở nên căng thẳng.",
+ "boi_canh": "Phòng giáo viên, buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Renzo",
+  "Jane",
+  "Pascal",
+  "Heldre",
+  "Cain",
+  "Student Frondier",
+  "Pascal Schilitz"
+ ],
+ "su_kien": [
+  "Jane khen ngợi, phàn nàn và trách móc Frondier.",
+  "Cain tiết lộ mình không có họ và lý do cô đến gặp Frondier.",
+  "Frondier che miệng Cain để ngăn cô tố cáo anh trước mặt các giáo viên khác.",
+  "Cain công khai tố cáo Frondier đã nói dối về việc Hoàng đế sẽ chết.",
+  "Pascal cảnh báo sự nghiêm trọng của tình hình sau lời tố cáo của Cain."
+ ],
+ "quan_he": [
+  {
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp, Jane có vẻ quan tâm và lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng nghiệp, Frondier cảm thấy biết ơn và hối lỗi vì những lời nói của Jane.",
+   "cach_goi": "gọi tên Jane, lễ phép"
+  },
+  {
+   "a": "Jane",
+   "b": "Cain",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Jane tò mò về việc Cain không có họ.",
+   "cach_goi": "gọi tên Cain, không rõ"
+  },
+  {
+   "a": "Cain",
+   "b": "Jane",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Cain không tỏ ra thân thiện với Jane.",
+   "cach_goi": "gọi tên Jane, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier cảm thấy khó chịu khi đối mặt với Cain.",
+   "cach_goi": "gọi tên Cain, lạnh lùng"
+  },
+  {
+   "a": "Cain",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Cain tỏ ra tức giận và công kích Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên và thành viên của Hoàng cung, Pascal có vẻ thích thú với sự hỗn loạn.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên, Frondier cảm thấy lo lắng khi đối mặt với Pascal.",
+   "cach_goi": "gọi tên Pascal, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Heldre: Trước đây là một tội phạm trước khi trở thành Zodiac. Tên thật của Pascal là Pascal Schilitz."
+ ],
+ "stats": {
+  "tokens": 1012,
+  "seconds": 30.3
+ }
+}

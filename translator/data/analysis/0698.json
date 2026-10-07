@@ -1,0 +1,128 @@
+{
+ "number": 698,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong kỳ nghỉ đông, Frondier quyết định tìm hiểu các loại vũ khí khác nhau để nâng cao kỹ năng của mình. Anh đến gặp Revet, người có chuyên môn về giáo mác, và đề nghị đổi học lấy việc ngăn chặn Elodie đi ở lại ký túc xá, gây ra sự bất ngờ cho cả Revet và Elodie.",
+ "boi_canh": "Kỳ nghỉ đông tại biệt thự Rishae.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Sybil",
+  "Azier",
+  "Quinie",
+  "Lily",
+  "Enfer",
+  "Ellen",
+  "Dier",
+  "Mei",
+  "Monty",
+  "Revet",
+  "Piellot"
+ ],
+ "su_kien": [
+  "Frondier bắt đầu kỳ nghỉ đông và quyết định tìm hiểu các loại vũ khí khác nhau.",
+  "Anh nhận ra Revet là người có kỹ năng giáo mác tốt nhất.",
+  "Frondier đề nghị đổi học giáo mác lấy việc ngăn chặn Elodie đi ở lại ký túc xá.",
+  "Revet tỏ ra không tin và phản đối mạnh mẽ.",
+  "Elodie bất ngờ trước lời đề nghị của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "thay_tro",
+   "mo_ta": "học trò và người ra lệnh, Frondier tuân theo mệnh lệnh của Monty.",
+   "cach_goi": "gọi 'thầy', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, mối quan hệ thân thiết nhưng không tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, mối quan hệ thân thiết nhưng không tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Sybil, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, mối quan hệ thân thiết nhưng không tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Dier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Piellot",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, mối quan hệ thân thiết nhưng không tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Piellot, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh em ruột thịt, mối quan hệ xa cách trong chương này.",
+   "cach_goi": "gọi tên Azier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "con trai và cha, mối quan hệ không được thể hiện rõ trong chương này.",
+   "cach_goi": "gọi 'cha', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Ellen, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "có mối quan hệ đặc biệt, Frondier là người đặt tên cho Mei.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Revet",
+   "loai": "nguoi_la",
+   "mo_ta": "mới gặp mặt, mối quan hệ căng thẳng và có điều kiện.",
+   "cach_goi": "gọi tên Revet, lễ phép"
+  },
+  {
+   "a": "Revet",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "không thích Frondier, có thành kiến và sự khó chịu.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè thân thiết, mối quan hệ gần gũi.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè thân thiết, mối quan hệ gần gũi.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1373,
+  "seconds": 41.0
+ }
+}

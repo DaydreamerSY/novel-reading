@@ -1,0 +1,75 @@
+{
+ "number": 663,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier nghe lén cuộc trò chuyện của những con quỷ về việc bắt cóc Lunia và kế hoạch trao đổi cô ấy với Frondier để đổi lấy một mục tiêu khác mà họ đang truy tìm. Lunia nhận ra mình thiếu kinh nghiệm chiến đấu thực tế và lo lắng cho Aster. Cuối cùng, Selena xuất hiện bất ngờ và biến mất một cách bí ẩn sau khi thả một sợi dây màu tóc của cô xuống cho Lunia.",
+ "boi_canh": "Một căn phòng giam ngầm, nơi những con quỷ đang giữ Lunia làm con tin.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Lunia",
+  "Marco",
+  "Lunia Fricell"
+ ],
+ "su_kien": [
+  "Những con quỷ thảo luận về việc bắt cóc Lunia và kế hoạch trao đổi cô ấy với Frondier.",
+  "Lunia nhận ra mình thiếu kinh nghiệm chiến đấu thực tế.",
+  "Những con quỷ tiết lộ họ đang tìm kiếm một mục tiêu khác trước đó.",
+  "Selena đột ngột xuất hiện trên trần nhà và thả sợi dây xuống cho Lunia.",
+  "Selena biến mất một cách bí ẩn sau khi thả sợi dây."
+ ],
+ "quan_he": [
+  {
+   "a": "Lunia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Con tin và mục tiêu trao đổi, không có mối quan hệ rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân, Lunia lo lắng cho Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Selena xuất hiện và giúp đỡ Lunia một cách bí ẩn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Devils",
+   "b": "Lunia",
+   "loai": "ke_thu",
+   "mo_ta": "Những con quỷ giữ Lunia làm con tin và lợi dụng cô ấy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Devils",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Những con quỷ muốn sử dụng Frondier làm mồi nhử.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Devils",
+   "b": "Aster",
+   "loai": "ke_thu",
+   "mo_ta": "Những con quỷ muốn sử dụng Aster làm mồi nhử.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Lunia Fricell (tên đầy đủ của Lunia)"
+ ],
+ "stats": {
+  "tokens": 799,
+  "seconds": 24.9
+ }
+}

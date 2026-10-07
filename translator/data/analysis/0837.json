@@ -1,0 +1,82 @@
+{
+ "number": 837,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier's party is ambushed by a demon wielding a powerful bow with 'Sure Shot'. Pielott takes an initial poisoned arrow but manages to deflect subsequent attacks using his reflexes and swordsmanship. The demon reveals he’s carrying a high-ranked weapon, seemingly aware of Frondier's capabilities. As Pielott weakens from the poison (later revealed to be demonic mana), he begins to revert to a more ruthless persona, spurred on by a cryptic message from Hypnos.",
+ "boi_canh": "Một khu vực không xác định, trong một trận chiến căng thẳng giữa Frondier và đồng đội với một demon.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Pielott",
+  "Odin",
+  "Demon"
+ ],
+ "su_kien": [
+  "Pielott bị thương bởi một mũi tên độc.",
+  "Pielott chặn được một mũi tên bay bằng phản xạ.",
+  "Pielott nhận ra rằng vũ khí của demon có khả năng 'Sure Shot' tương tự như vũ khí của Frondier.",
+  "Demon tiết lộ rằng anh ta biết về khả năng chung của nhóm Frondier.",
+  "Hypnos, thần, liên hệ với Pielott và ám chỉ rằng Frondier đã kìm hãm sức mạnh thực sự của anh ta."
+ ],
+ "quan_he": [
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Pielott là thành viên trong nhóm của Frondier, đang nhớ lại lời giải thích của Frondier về khả năng 'Sure Shot'.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier đã giải thích cho Pielott về khả năng 'Sure Shot' trước đây.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Demon",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trong trận chiến, Pielott tỏ ra khinh thường Demon.",
+   "cach_goi": "không nói chuyện trực tiếp, thô lỗ"
+  },
+  {
+   "a": "Demon",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Demon chế nhạo tình trạng của Pielott và cố gắng khiêu khích anh ta.",
+   "cach_goi": "lạnh lùng, trịch thượng"
+  },
+  {
+   "a": "Hypnos",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Hypnos liên hệ với Pielott, cố gắng tác động đến anh ta.",
+   "cach_goi": "thân mật, trịch thượng"
+  },
+  {
+   "a": "Pielott",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Pielott là bạn của Elodie, nhưng họ không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Pielott là bạn của Selena, nhưng họ không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Sure Shot: Khả năng đặc biệt của vũ khí, được Frondier giải thích chi tiết về các cấp độ khác nhau.",
+  "Khryselakatos: Vũ khí của Frondier, được Pielott so sánh với vũ khí của demon."
+ ],
+ "stats": {
+  "tokens": 869,
+  "seconds": 26.4
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "number": 760,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi được Arald giải thích về cách con người chống lại quỷ dữ, Frondier quyết định tìm đến Baal để nhờ giúp đỡ. Cuộc gặp gỡ diễn ra đầy căng thẳng khi Baal nghi ngờ động cơ của Frondier. Để thuyết phục Baal, Frondier sử dụng những lời lẽ khéo léo và đề nghị một thỏa thuận: Frondier sẽ giúp Baal tìm cách trở lại thế giới quỷ dữ nếu Baal giúp Frondier hòa nhập vào xã hội loài người.",
+ "boi_canh": "Trong một không gian không xác định, thảo luận về cách con người chống lại quỷ dữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Baal",
+  "Marco",
+  "Arald",
+  "Heracles"
+ ],
+ "su_kien": [
+  "Arald giải thích về hai lý do chính giúp con người chống lại quỷ dữ: số lượng và sự chuẩn bị.",
+  "Frondier đề xuất đến gặp Baal để tìm kiếm thông tin thêm.",
+  "Baal nghi ngờ động cơ của Frondier và đe dọa sẽ trừng phạt nếu Frondier lừa gạt.",
+  "Frondier thuyết phục Baal bằng cách đề nghị giúp đỡ tìm đường trở lại thế giới quỷ dữ.",
+  "Baal đồng ý giúp Frondier hòa nhập vào xã hội loài người, nhưng chỉ ra rằng việc giả làm sinh viên ở một học viện là không thể."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "Trang trọng thảo luận về tình hình chiến đấu với quỷ dữ.",
+   "cach_goi": "gọi tên Arald, thân mật"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Giải thích về cách con người chống lại quỷ dữ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "ke_thu",
+   "mo_ta": "Thỏa thuận ngầm với động cơ tiềm ẩn.",
+   "cach_goi": "gọi tên Baal, lịch sự"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Nghi ngờ và đe dọa Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Quan tâm đến quyết định của Frondier.",
+   "cach_goi": "gọi tên Frondier, lo lắng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Động viên và trấn an Lily.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 812,
+  "seconds": 24.3
+ }
+}

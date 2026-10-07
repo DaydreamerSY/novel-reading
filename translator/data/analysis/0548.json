@@ -2,71 +2,50 @@
  "number": 548,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Selena và Hagley giao chiến trong một hang động, sử dụng các kỹ năng đặc trưng của họ: Selena với kim tiễn và Hagley với bóng tối. Trận đấu diễn ra căng thẳng khi cả hai đều nắm rõ điểm mạnh yếu của đối phương. Selena dần rơi vào thế bất lợi do số lượng kim tiễn hạn chế và Hagley biết rõ các đòn tấn công của cô, nhưng cuối cùng cô sử dụng một kỹ thuật đặc biệt để hóa giải tình thế.",
- "boi_canh": "Một hang động tối tăm, nơi diễn ra trận chiến giữa Selena và Hagley.",
+ "tom_tat": "Trong chương này, Selena phát hiện ra khả năng mới của mình khi đọc được dòng mana trong phép thuật đối phương và vô hiệu hóa chúng bằng kim. Cô nhớ lại cảm giác bất lực khi không thể can thiệp trong quá khứ và quyết tâm thay đổi điều đó. Sau một loạt các hành động nhanh chóng, cô bị Hagley áp đảo. Một chiếc kim bí ẩn xuất hiện trên người Selena, khiến Hagley phải lùi bước. Cuối cùng, Selena nhận ra sự thật về số lượng kim của mình và những cảm xúc sâu thẳm mà cô đã cố gắng che giấu.",
+ "boi_canh": "Bên trong một hang động tối tăm, giữa cuộc chiến với Hagley.",
  "nhan_vat": [
   "Frondier",
   "Selena",
   "Hagley",
+  "Slevb",
   "Shadow"
  ],
  "su_kien": [
-  "Selena và Hagley giao chiến bằng kim tiễn và bóng tối.",
-  "Selena né tránh các đòn tấn công của Hagley bằng sự linh hoạt và trang phục đặc biệt.",
-  "Hagley nhận ra Selena đang gặp bất lợi do số lượng kim tiễn hạn chế.",
-  "Selena sử dụng kỹ thuật 'Hidden Weapon Throwing Technique' để tung kim tiễn theo tám hướng.",
-  "Selena sử dụng 'Spirit Sealing Needle' để phá giải một đòn tấn công của Hagley."
+  "Selena vô hiệu hóa phép thuật của đối phương bằng kim.",
+  "Selena nhớ lại cảm giác bất lực trong quá khứ khi giúp Frondier.",
+  "Selena sử dụng kỹ năng Shadow Transfer và tấn công Hagley.",
+  "Hagley chặn được đòn tấn công của Selena.",
+  "Một chiếc kim bí ẩn xuất hiện trên người Selena, khiến Hagley phải lùi bước."
  ],
  "quan_he": [
   {
    "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhớ lại quá khứ khi cùng Frondier đối mặt với Fragment of Helheim.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
    "b": "Hagley",
    "loai": "doi_thu",
-   "mo_ta": "Đối thủ cạnh tranh trong trận chiến, Hagley là người đã huấn luyện Selena.",
-   "cach_goi": "gọi tên, không thân thiết"
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến, có sự hiểu biết lẫn nhau.",
+   "cach_goi": "gọi tên Hagley, lạnh lùng"
   },
   {
    "a": "Hagley",
    "b": "Selena",
    "loai": "doi_thu",
-   "mo_ta": "Đối thủ cạnh tranh trong trận chiến, Hagley là người đã huấn luyện Selena.",
-   "cach_goi": "gọi tên, không thân thiết"
-  },
-  {
-   "a": "Selena",
-   "b": "Frondier",
-   "loai": "nguoi_la",
-   "mo_ta": "Không giao tiếp trực tiếp, nhưng Selena nhận thấy sự quan tâm của Frondier đối với Hagley.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Hagley",
-   "b": "Frondier",
-   "loai": "nguoi_la",
-   "mo_ta": "Không giao tiếp trực tiếp, nhưng Hagley nhận thấy sự quan tâm của Frondier đối với Selena.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Selena",
-   "b": "Shadow",
-   "loai": "nguoi_la",
-   "mo_ta": "Không giao tiếp trực tiếp, Shadow là một nhân vật được nhắc đến.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Hagley",
-   "b": "Shadow",
-   "loai": "nguoi_la",
-   "mo_ta": "Không giao tiếp trực tiếp, Shadow là một nhân vật được nhắc đến.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến, có sự hiểu biết lẫn nhau.",
+   "cach_goi": "gọi tên Selena, trịch thượng"
   }
  ],
  "danh_tinh": [
-  "Selena: Kẻ ám sát của 'Yeolgot', ít tài năng ma thuật hơn những người khác nhưng có kỹ năng cận chiến và sử dụng kim tiễn xuất sắc.",
-  "Hagley: Người đã huấn luyện Selena, biết rõ các kỹ thuật chiến đấu của cô."
+  "Chiếc kim bí ẩn trên người Selena được tiết lộ là làm từ 'Obsidian', tẩm độc của Slevb."
  ],
  "stats": {
-  "tokens": 864,
-  "seconds": 27.0
+  "tokens": 593,
+  "seconds": 18.5
  }
 }

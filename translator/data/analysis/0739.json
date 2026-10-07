@@ -1,0 +1,100 @@
+{
+ "number": 739,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier từ chối lời đề nghị của Aten muốn đi cùng ông ta vì sợ gây ra hỗn loạn cho Đế quốc. Aten phản ứng mạnh mẽ và ôm Frondier, nhưng bị Lunia dùng phép ngủ để ngăn chặn. Sau đó, Elodie đột ngột rời khỏi phòng học một cách khó hiểu, khiến mọi người bối rối. Cuối cùng, Frondier chia tay mọi người và Aster nhận trách nhiệm tiếp quản Đế quốc.",
+ "boi_canh": "Trong một căn phòng kín, thời điểm chia tay giữa Frondier và những người bạn thân thiết của ông ta.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Osprey",
+  "Lunia"
+ ],
+ "su_kien": [
+  "Aten đề nghị đi cùng Frondier.",
+  "Frondier từ chối lời đề nghị của Aten.",
+  "Aten ôm Frondier và sử dụng phép thuật.",
+  "Elodie đột ngột rời khỏi phòng học.",
+  "Frondier chia tay mọi người."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người có địa vị cao hơn Aten và từ chối lời đề nghị của cô.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aten muốn đi cùng Frondier để bảo vệ ông ta.",
+   "cach_goi": "gọi tên Frondier-ssi, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Lunia quan sát và bình luận về hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Lunia quan sát và bình luận về hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Lunia thúc giục Elodie lên tiếng.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Elodie im lặng và đột ngột rời đi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Hai người chia tay trong sự tiếc nuối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người chia tay trong sự tiếc nuối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Sybil có mặt trong buổi chia tay.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Osprey có mặt trong buổi chia tay.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1024,
+  "seconds": 30.5
+ }
+}

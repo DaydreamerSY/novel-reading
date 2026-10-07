@@ -1,0 +1,89 @@
+{
+ "number": 939,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Merlin viết một câu cổ xưa về 'người khổng lồ sẽ lật đổ các vị thần', Frondier và những người khác thảo luận về ý nghĩa của nó và kế hoạch gửi thông điệp này cho một người nào đó trong tương lai. Họ cũng nghe được cuộc trò chuyện giữa Loki và Idun về sự kết thúc sắp tới của thế giới, và chứng kiến một người phụ nữ giống Sybil xuất hiện. Cuối cùng, Frondier và Selena rơi vào miệng núi lửa Olympus để tiếp tục hành trình, đối mặt với các rào cản ma thuật.",
+ "boi_canh": "Miệng núi lửa Olympus, thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Sybil",
+  "Merlin",
+  "Arthur",
+  "Jeanne",
+  "Loki",
+  "Idun"
+ ],
+ "su_kien": [
+  "Merlin viết một câu cổ xưa trên mặt đất.",
+  "Arthur nhận ra câu đó là tiếng cổ và giải thích ý nghĩa của nó.",
+  "Cuộc thảo luận về việc gửi thông điệp cho 'người khổng lồ' trong tương lai.",
+  "Loki và Idun nói về sự kết thúc của thế giới và Fenrir.",
+  "Frondier và Selena rơi vào miệng núi lửa Olympus, đối mặt với rào cản ma thuật."
+ ],
+ "quan_he": [
+  {
+   "a": "Merlin",
+   "b": "Arthur",
+   "loai": "ban_be",
+   "mo_ta": "Thảo luận về câu cổ và kế hoạch tương lai.",
+   "cach_goi": "gọi tên Arthur, thân mật"
+  },
+  {
+   "a": "Arthur",
+   "b": "Merlin",
+   "loai": "ban_be",
+   "mo_ta": "Thảo luận về câu cổ và kế hoạch tương lai.",
+   "cach_goi": "gọi tên Merlin, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Merlin",
+   "loai": "khac",
+   "mo_ta": "Quan sát Merlin viết và thảo luận về tiếng cổ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arthur",
+   "loai": "khac",
+   "mo_ta": "Quan sát cuộc trò chuyện giữa Arthur và Merlin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Loki",
+   "b": "Idun",
+   "loai": "dong_minh",
+   "mo_ta": "Thảo luận về sự kết thúc của thế giới.",
+   "cach_goi": "gọi tên Idun, thân mật"
+  },
+  {
+   "a": "Idun",
+   "b": "Loki",
+   "loai": "dong_minh",
+   "mo_ta": "Thảo luận về sự kết thúc của thế giới.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Hướng dẫn Selena phá vỡ rào cản ma thuật.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Thực hiện theo hướng dẫn của Frondier để phá vỡ rào cản ma thuật.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Người phụ nữ giống Sybil: Một người phụ nữ có mái tóc hồng và đôi mắt xanh lá cây, được giới thiệu bởi Loki với tên gọi Idun. Cô ấy trông rất giống Sybil nhưng không phải là cô ấy."
+ ],
+ "stats": {
+  "tokens": 982,
+  "seconds": 29.6
+ }
+}

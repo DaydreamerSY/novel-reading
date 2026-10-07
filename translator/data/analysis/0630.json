@@ -1,0 +1,68 @@
+{
+ "number": 630,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, cuộc tấn công của quỷ dữ vào Constel diễn ra theo kiểu lẻ tẻ, khiến nhân viên và học sinh bất ngờ. Aster Evans là người đầu tiên nhận ra sự bất thường trong hành vi của chúng, nhận thấy chúng xuất hiện từng đợt như thể đang cố tình câu giờ. Anh ta bày tỏ nghi ngờ về mục đích thực sự của quỷ dữ và quyết định tìm đến Hiệu trưởng để hỏi. Trên đường đi, anh ta tiếp tục đối mặt với những kẻ tấn công khác.",
+ "boi_canh": "Trong khuôn viên Constel, giữa lúc cuộc chiến chống lại quỷ dữ đang diễn ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Osprey",
+  "Ellen",
+  "Aster Evans",
+  "Bartranon",
+  "Hiệu trưởng (Headmaster)"
+ ],
+ "su_kien": [
+  "Quỷ dữ tấn công Constel theo kiểu lẻ tẻ, gây bất ngờ cho nhân viên.",
+  "Aster Evans nhận ra sự bất thường trong hành vi của quỷ dữ và nghi ngờ chúng đang câu giờ.",
+  "Bartranon tự giới thiệu bản thân trước khi bị Aster tiêu diệt.",
+  "Aster quyết định tìm đến Hiệu trưởng để hỏi về tình hình.",
+  "Một con quỷ khác chặn đường Aster, cho thấy chúng cố gắng ngăn cản anh ta gặp Hiệu trưởng."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Bartranon",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ của Aster trong trận chiến.",
+   "cach_goi": "gọi tên Bartranon, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bartranon",
+   "b": "Aster",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ của Aster trong trận chiến.",
+   "cach_goi": "tự giới thiệu, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Hiệu trưởng (Headmaster)",
+   "loai": "cap_tren",
+   "mo_ta": "Aster muốn tìm Hiệu trưởng để hỏi về tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Ellen",
+   "loai": "gia_dinh",
+   "mo_ta": "Chị gái của Aster, người giữ Excalibur.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster."
+ ],
+ "stats": {
+  "tokens": 720,
+  "seconds": 21.5
+ }
+}

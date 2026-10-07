@@ -1,0 +1,57 @@
+{
+ "number": 658,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Baal cố gắng tấn công Frondier bằng ảo ảnh của địa ngục nhưng thất bại vì khả năng nhận biết ảo ảnh của Frondier. Frondier khám phá ra những điểm yếu trong sức mạnh quỷ dữ của Baal và sử dụng 'Pandemonium' để khiến Baal mất đi mọi giác quan và cảm nhận về thực tại, đẩy hắn vào trạng thái tuyệt vọng.",
+ "boi_canh": "Địa ngục ảo ảnh do Baal tạo ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Osprey",
+  "Baal",
+  "Merlin",
+  "King of Hell",
+  "Beelzebub"
+ ],
+ "su_kien": [
+  "Baal tấn công Frondier bằng ảo ảnh địa ngục.",
+  "Frondier phá hủy các ảo ảnh của Baal bằng khả năng Weaving.",
+  "Frondier tái tạo cánh tay bị cắt đứt.",
+  "Frondier sử dụng 'Pandemonium' khiến Baal mất đi mọi giác quan.",
+  "Baal rơi vào trạng thái tuyệt vọng khi không thể phân biệt thực tại và ảo ảnh."
+ ],
+ "quan_he": [
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang cố gắng tấn công và chế nhục.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Phân tích và chế giễu điểm yếu của đối thủ.",
+   "cach_goi": "gọi tên Baal, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Grim Reaper",
+   "loai": "nguoi_la",
+   "mo_ta": "Phá hủy Grim Reaper trong ảo ảnh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Baal đang tức giận và cố gắng tấn công Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 591,
+  "seconds": 18.5
+ }
+}

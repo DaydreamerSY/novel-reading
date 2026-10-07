@@ -1,0 +1,75 @@
+{
+ "number": 816,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào buổi học phép thuật kết hợp chiến đấu của Frondier và Elodie tại Workshop trên cao. Frondier giải thích các khái niệm phức tạp về công thức phép thuật, trong khi Elodie đánh giá kỹ năng của anh. Cuộc trò chuyện dẫn đến việc thảo luận về Magic–Combat Combined và sự xuất hiện của Hector, cùng với một vài suy nghĩ sâu sắc của Frondier về aura và phép thuật. Cuối cùng, Frondier bị ép phải viết câu hỏi cho kỳ thi cuối kỳ, hé lộ những âm mưu ngầm giữa các giáo viên.",
+ "boi_canh": "Workshop trên cao, trong buổi học phép thuật kết hợp chiến đấu.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Pielott",
+  "Pascal",
+  "Giotto",
+  "Hector",
+  "R",
+  "Ludwig (cha của Hector)"
+ ],
+ "su_kien": [
+  "Elodie giảng dạy Frondier về công thức phép thuật và cách kết hợp chúng.",
+  "Frondier suy nghĩ về sự khó khăn trong việc kết hợp phép thuật và chiến đấu.",
+  "Cuộc thảo luận về Magic–Combat Combined và vai trò của Hector.",
+  "Frondier nhận xét về khả năng sử dụng aura của các chiến binh so với pháp sư.",
+  "Frondier bị ép phải viết câu hỏi cho kỳ thi cuối kỳ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, người hướng dẫn phép thuật cho Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, người hướng dẫn phép thuật cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hector",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhân vật mà Frondier quan sát và có ấn tượng tốt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Hector",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhận biết Hector là con trai của Ludwig.",
+   "cach_goi": "gọi tên Hector, không thân mật"
+  },
+  {
+   "a": "Giotto",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên cấp trên, gợi ý Frondier viết câu hỏi cuối kỳ.",
+   "cach_goi": "gọi tên Frondier, không thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Giotto",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh của Giotto, người bị ép phải viết câu hỏi cuối kỳ.",
+   "cach_goi": "gọi tên Giotto, không thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Hector Von Urfa (tên thật của Hector)"
+ ],
+ "stats": {
+  "tokens": 843,
+  "seconds": 25.3
+ }
+}

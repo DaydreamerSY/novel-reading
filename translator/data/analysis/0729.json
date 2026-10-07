@@ -1,0 +1,72 @@
+{
+ "number": 729,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Ludovic chứng kiến Frondier và Lily hành động cùng nhau, ông ta đã buộc tội Frondier là kẻ thù của Đế quốc. Frondier đáp lại bằng cách thách thức Đế quốc và ra lệnh cho Lily rời đi qua một cổng dịch chuyển. Hành động này khiến Lily lo lắng về kế hoạch tiếp theo của Frondier, nghi ngờ rằng anh ta có thể sẽ giết tất cả những người chứng kiến để bảo vệ cô.",
+ "boi_canh": "Trong phòng khách của một trang viên, vào thời điểm xung đột giữa Frondier và Ludovic leo thang.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Lily",
+  "Ludovic"
+ ],
+ "su_kien": [
+  "Ludovic tố Frondier là kẻ thù của Đế quốc.",
+  "Frondier ra lệnh cho Lily rời đi qua cổng dịch chuyển.",
+  "Ludovic và các Zodiac tấn công Frondier.",
+  "Obsidian của Frondier đẩy lùi các Zodiac.",
+  "Lily rời khỏi phòng, lo lắng về kế hoạch tiếp theo của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Ludovic cáo buộc Frondier là kẻ thù của Đế quốc, thể hiện sự đối đầu.",
+   "cach_goi": "gọi 'Frondier', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludovic",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đối mặt với Ludovic, thách thức Đế quốc và thể hiện sự bất đồng.",
+   "cach_goi": "gọi 'Ludovic', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Frondier ra lệnh cho Lily rời đi, thể hiện sự bảo vệ và có lẽ là một mối quan hệ sâu sắc.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Lily lo lắng về kế hoạch của Frondier và thể hiện sự quan tâm.",
+   "cach_goi": "gọi tên Frondier, lo lắng"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Lily",
+   "loai": "dong_minh",
+   "mo_ta": "Ludovic nhìn Lily với sự nghi ngờ và lo ngại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly có thể liên quan đến những gì đang xảy ra, nhưng không xuất hiện trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Bị cáo buộc là quỷ (devil) và kẻ thù của Đế quốc.",
+  "Lily: Được Frondier bảo vệ và có thể liên quan đến một âm mưu lớn hơn."
+ ],
+ "stats": {
+  "tokens": 829,
+  "seconds": 24.7
+ }
+}

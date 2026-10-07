@@ -1,0 +1,74 @@
+{
+ "number": 774,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi triệu tập Elodie và Pielott, Frondier giải thích về tình hình tại Atlas và sự nghi ngờ của mình về Giotto. Họ phát hiện ra rằng các thiết bị nghe lén đã được cài đặt khắp nơi trong trường, thậm chí có thể tích hợp vào loa. Cuối cùng, cuộc trò chuyện dẫn đến việc thảo luận về hiệu trưởng của Atlas, một người phụ nữ bí ẩn mà hầu hết học sinh chưa từng gặp mặt và được đồn đại là rất xinh đẹp.",
+ "boi_canh": "Đêm tại căn phòng ngủ của Frondier trong trường Atlas.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Pielott",
+  "Arald",
+  "Giotto",
+  "Zenita",
+  "Aias",
+  "Dier",
+  "Osprey"
+ ],
+ "su_kien": [
+  "Frondier triệu tập Elodie và Pielott để thảo luận về tình hình tại Atlas.",
+  "Pielott nhận ra sự tương đồng trong biểu cảm của Elodie và bản thân sau khi nghe Frondier giải thích.",
+  "Họ phát hiện ra rằng các thiết bị nghe lén được cài đặt khắp trường, thậm chí có thể tích hợp vào loa.",
+  "Cuộc trò chuyện dẫn đến việc thảo luận về hiệu trưởng bí ẩn của Atlas.",
+  "Frondier quyết định đi thăm nhà Zenita."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, tin tưởng lẫn nhau.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier là người dẫn dắt.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, tin tưởng lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Đồng đội, Pielott lắng nghe và học hỏi từ Frondier.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Pielott",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Pielott có vẻ ngưỡng mộ Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 805,
+  "seconds": 24.3
+ }
+}

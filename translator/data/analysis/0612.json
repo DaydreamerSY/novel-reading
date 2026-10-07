@@ -1,0 +1,66 @@
+{
+ "number": 612,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đang thu thập thông tin tại một buổi tiệc khi tình cờ bắt gặp Elysia, người đang sống ẩn dật với thân phận thường dân. Elysia đã lẻn vào buổi tiệc để thỏa mãn mong muốn được nhìn thấy cuộc sống xa hoa mà trước đây thuộc về mình. Một quý tộc đưa Elysia vào bên trong và dẫn cô đến một căn phòng bí mật, nơi anh ta hứa sẽ cho cô xem 'điều gì đó thú vị'.",
+ "boi_canh": "Một căn phòng trọ tồi tàn, buổi tối tại một buổi tiệc xa hoa của giới quý tộc.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Elysia",
+  "Innkeeper",
+  "Man (quý tộc)"
+ ],
+ "su_kien": [
+  "Một người phụ nữ đeo mặt nạ lẻn vào một căn phòng trọ.",
+  "Người phụ nữ đó, Elysia, chuẩn bị rời đi sau khi thu thập đồ đạc.",
+  "Elysia gặp một quý tộc tại buổi tiệc và bị anh ta dẫn vào bên trong.",
+  "Frondier nhìn thấy Elysia tại buổi tiệc.",
+  "Quý tộc đưa Elysia đến một căn phòng bí mật thông qua một lối đi ẩn."
+ ],
+ "quan_he": [
+  {
+   "a": "Elysia",
+   "b": "Innkeeper",
+   "loai": "nguoi_la",
+   "mo_ta": "Elysia lẻn vào phòng trọ của người quản gia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quý tộc",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Quý tộc dẫn Elysia vào buổi tiệc và căn phòng bí mật.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Quý tộc",
+   "loai": "nguoi_la",
+   "mo_ta": "Elysia nghi ngờ động cơ của quý tộc.",
+   "cach_goi": "gọi 'ông', thận trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier nhìn Elysia từ xa, cả hai không tương tác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Elysia nhìn Frondier với cảm xúc phức tạp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elysia: Trước đây là một công chúa, hiện đang sống ẩn dật với thân phận thường dân."
+ ],
+ "stats": {
+  "tokens": 740,
+  "seconds": 23.2
+ }
+}

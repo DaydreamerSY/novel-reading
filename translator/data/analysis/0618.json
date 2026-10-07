@@ -1,0 +1,85 @@
+{
+ "number": 618,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier cố gắng hỏi thăm Elysia nhưng bị cô trả thù bằng gối. Sau khi tranh cãi, Frondier kể cho Elysia nghe về cuộc chiến giữa các phe phái quỷ và đề nghị cô sử dụng phép thuật Rafflesia để dụ dỗ quỷ vào một bẫy. Elysia ban đầu từ chối vì nghĩ rằng phép thuật đó chỉ hiệu quả với quái vật, nhưng Frondier thuyết phục cô rằng nó có thể dùng để đối phó với quỷ cấp thấp.",
+ "boi_canh": "Trong phòng trọ tại một địa điểm không xác định, vào thời điểm diễn ra cuộc chiến giữa các phe phái quỷ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elysia",
+  "Aten",
+  "Azier",
+  "Lily",
+  "Arald",
+  "Mizonas",
+  "Bart",
+  "Kagris",
+  "Elodie"
+ ],
+ "su_kien": [
+  "Frondier hỏi thăm Elysia về sức khỏe của cô.",
+  "Elysia nổi giận và tấn công Frondier bằng gối.",
+  "Frondier kể cho Elysia nghe về cuộc chiến giữa các phe phái quỷ.",
+  "Frondier đề nghị Elysia sử dụng phép thuật Rafflesia để dụ dỗ quỷ.",
+  "Elysia tỏ ra lo lắng và nghi ngờ khả năng của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Cố gắng quan tâm nhưng bị trả thù.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Trả thù bằng gối và tỏ ra khó chịu.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Frondier đã thông báo tình hình cho Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Frondier đã thông báo tình hình cho Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Arald có thể phát hiện các cuộc tấn công của quỷ sớm hơn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, Frondier so sánh sức mạnh của quỷ với Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mizonas",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier so sánh sức mạnh của quỷ với Mizonas.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Kagris: Một tên quỷ đã bị Frondier khuất phục.",
+  "Bart: Một tên quỷ khác đã bị Frondier khuất phục."
+ ],
+ "stats": {
+  "tokens": 942,
+  "seconds": 29.5
+ }
+}

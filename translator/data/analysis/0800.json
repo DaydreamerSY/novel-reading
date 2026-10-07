@@ -1,0 +1,137 @@
+{
+ "number": 800,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe Carla đề cập đến một cuộc chiến có thể xảy ra, Frondier và những người khác đã thảo luận về tình hình chính trị ở Palma, nơi con người phụ thuộc vào các vị thần và bị ảnh hưởng bởi sự chia rẽ giữa các phe phái ủng hộ hai người phụ nữ được ban cho sức mạnh thần thánh. Cuối cùng, họ phát hiện ra rằng cuộc chiến này thực chất là một cuộc cạnh tranh về vẻ đẹp do Hera và Aphrodite khởi xướng để thể hiện quyền lực của mình, nhưng Frondier nhận thấy điều gì đó không ổn: Poseidon cũng đã ban tặng sức mạnh thần thánh cho một người đàn ông tên Charon.",
+ "boi_canh": "Trong phòng họp kín tại Palma, vào thời điểm các thành viên đang thảo luận về khả năng xảy ra chiến tranh.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Azier",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Arald",
+  "Hera",
+  "Aphrodite",
+  "Poseidon",
+  "Charon",
+  "Zeus"
+ ],
+ "su_kien": [
+  "Carla đề cập đến khả năng xảy ra chiến tranh ở Palma.",
+  "Frondier suy đoán về mối liên hệ giữa cuộc chiến Trojan và tình hình hiện tại.",
+  "Các thành viên thảo luận về sự phụ thuộc của người dân Palma vào các vị thần.",
+  "Họ phát hiện ra rằng cuộc xung đột hiện tại bắt nguồn từ việc hai phe phái ủng hộ hai người phụ nữ được ban cho sức mạnh thần thánh cạnh tranh về vẻ đẹp.",
+  "Frondier nhận ra một điểm bất thường: Poseidon đã ban tặng sức mạnh thần thánh cho Charon."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier hỏi Carla về khả năng xảy ra chiến tranh và những dấu hiệu bất thường.",
+   "cach_goi": "gọi 'Ms. Carla', lễ phép"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Carla trả lời các câu hỏi của Frondier về tình hình chính trị.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Elodie cùng thảo luận về tình hình chiến tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Elodie đồng ý với Frondier về tình hình chiến tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Selena cùng thảo luận về tình hình chiến tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Selena đồng ý với Frondier về tình hình chiến tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Aster cùng thảo luận về tình hình chiến tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aster đồng ý với Frondier về tình hình chiến tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Arald cùng thảo luận về tình hình chiến tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Arald đồng ý với Frondier về tình hình chiến tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Frondier và Lily cùng thảo luận về tình hình chiến tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Lily trả lời các câu hỏi của Frondier về tình hình chiến tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Pielott đưa ra một câu hỏi hợp lý về tình hình chiến tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Pielott đưa ra một câu hỏi hợp lý về tình hình chiến tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Charon: Người đàn ông được Poseidon ban tặng sức mạnh thần thánh. Điều này mâu thuẫn với những gì đã biết trước đó."
+ ],
+ "stats": {
+  "tokens": 1522,
+  "seconds": 45.8
+ }
+}

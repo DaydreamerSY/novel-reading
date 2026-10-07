@@ -1,0 +1,63 @@
+{
+ "number": 764,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier chỉ trích Basileo vì đã sử dụng phép thuật không kiểm soát được, ông ta kể một câu chuyện để dạy dỗ học sinh. Sau đó, ông ta giao cho Basileo nhiệm vụ xin lỗi những người gần như bị thương và cuối cùng rời khỏi lớp học. Sau đó, Frondier tự nhủ về việc sử dụng các kỹ thuật gian lận của mình và nhận được lời đề nghị từ Giotto để phụ trách môn lý thuyết chiến đấu.",
+ "boi_canh": "Trong lớp học tại Atlas.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Basileo",
+  "Giotto",
+  "Jeanne"
+ ],
+ "su_kien": [
+  "Basileo xin lỗi Frondier vì đã sử dụng phép thuật không kiểm soát được.",
+  "Frondier kể một câu chuyện cho học sinh.",
+  "Basileo xin lỗi những người gần như bị thương do phép thuật của mình.",
+  "Giotto đề nghị Frondier phụ trách môn lý thuyết chiến đấu.",
+  "Frondier nghi ngờ Giotto đã nghe lén ông ta."
+ ],
+ "quan_he": [
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên, Basileo sợ hãi Frondier nhưng không bị ông ta trách mắng.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên chỉ trích và hướng dẫn học sinh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Giotto",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, Giotto có vẻ quan tâm đến Frondier và Elodie.",
+   "cach_goi": "gọi 'Professor', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Giotto",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, Frondier nghi ngờ Giotto đang cố tình gây khó dễ.",
+   "cach_goi": "gọi 'Professor', lễ phép"
+  },
+  {
+   "a": "Basileo",
+   "b": "Một học sinh nữ (không rõ tên)",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, cô gái an ủi Basileo sau khi ông ta bị Frondier mắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 707,
+  "seconds": 21.3
+ }
+}

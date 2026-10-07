@@ -1,0 +1,75 @@
+{
+ "number": 681,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tìm hiểu về khái niệm 'Người khổng lồ' trong game, Frondier nhận ra những người này là những thực thể cổ xưa, kẻ thù của thần thánh. Ông suy đoán rằng King Arthur đã viết một thông điệp ủng hộ Người khổng lồ và lo ngại về sự liên quan giữa các lời tiên tri khác nhau. Sau đó, ông phát hiện ra rằng nhiều quỷ dữ đang ẩn náu trong Đế chế thực chất là thuộc hạ cũ của Satan, những kẻ bị xóa ký ức để xâm nhập vào Đế chế theo kế hoạch của Satan.",
+ "boi_canh": "Một căn phòng bí mật, thời điểm không rõ.",
+ "nhan_vat": [
+  "Frondier",
+  "Baal",
+  "Marco",
+  "Merlin",
+  "Arthur",
+  "Satan",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Frondier hiểu rõ ý nghĩa của từ 'Người khổng lồ' là những kẻ thù của thần thánh.",
+  "Frondier nhận thấy sự tương đồng giữa các lời tiên tri về Người khổng lồ và thông điệp của King Arthur.",
+  "Satan rút lui sau khi nghe tin tức nào đó.",
+  "Quỷ dữ được triển khai vào Đế chế, nhưng bị xóa ký ức.",
+  "Frondier phát hiện ra rằng quỷ dữ trong Đế chế là thuộc hạ cũ của Satan."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier hỏi Baal về sự kiện và thông tin liên quan đến Người khổng lồ và Satan.",
+   "cach_goi": "gọi tên Baal, thân mật"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Baal trả lời các câu hỏi của Frondier và cung cấp thông tin về Satan.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "ban_be",
+   "mo_ta": "Frondier hỏi Marco về tình hình của quỷ dữ trong Đế chế.",
+   "cach_goi": "gọi tên Marco, thân mật"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Marco trả lời câu hỏi của Frondier và cung cấp thông tin về quỷ dữ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Baal",
+   "b": "Satan",
+   "loai": "doi_thu",
+   "mo_ta": "Baal bày tỏ sự tức giận và thù hận đối với Satan.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Satan và Belphegor có liên minh với nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Người khổng lồ (Giants): Được hiểu là những kẻ thù của thần thánh, không nhất thiết phải lớn về kích thước.",
+  "King Arthur: Có vẻ như đã ủng hộ Người khổng lồ và để lại một thông điệp cổ xưa."
+ ],
+ "stats": {
+  "tokens": 882,
+  "seconds": 26.4
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "number": 769,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi quan sát Frondier từ xa, Basileo quyết định tìm cách tiếp cận để học hỏi bí mật đằng sau phép thuật Gathering Wind của ông. Tuy nhiên, mọi nỗ lực đều thất bại vì Frondier luôn biến mất nhanh chóng. Trong lúc tìm kiếm, Basileo vô tình nghe được tin đồn về một con ma trong phòng tập thể dục và quyết định kiểm tra. Tại đó, cậu chứng kiến Frondier thực hiện một phép thuật Will-o’-the-Wisp kỳ lạ và mạnh mẽ hơn nhiều so với vẻ ngoài của nó.",
+ "boi_canh": "Buổi chiều tại trường Atlas, Basileo đang cố gắng tìm gặp Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Basileo"
+ ],
+ "su_kien": [
+  "Basileo quan sát Frondier và muốn học phép thuật Gathering Wind của ông.",
+  "Basileo cố gắng tiếp cận Frondier nhưng không thành công.",
+  "Basileo nghe được tin đồn về một con ma trong phòng tập thể dục.",
+  "Frondier thực hiện phép Will-o’-the-Wisp với một chuỗi phép thuật và cường độ bất thường.",
+  "Basileo bị sốc khi chứng kiến Frondier sử dụng phép thuật Will-o’-the-Wisp mạnh mẽ."
+ ],
+ "quan_he": [
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh ngưỡng mộ và muốn học hỏi từ giáo viên.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "khac",
+   "mo_ta": "Không biết Basileo đang quan sát mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hai nữ sinh",
+   "b": "Basileo",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai học sinh đang trò chuyện, Basileo vô tình nghe lén.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Basileo",
+   "b": "Giáo viên gần đó",
+   "loai": "dong_minh",
+   "mo_ta": "Hỏi về nơi ở của Frondier.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "khac",
+   "mo_ta": "Không biết Basileo đang ở gần.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 714,
+  "seconds": 21.5
+ }
+}

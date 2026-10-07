@@ -2,69 +2,59 @@
  "number": 525,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Đại tá phó của Manggot tỏ ra bối rối khi cuộc tấn công được lên kế hoạch cho sau đó. Tình hình trở nên phức tạp hơn khi Notker muốn tấn công Aster giữa sự hỗn loạn, nhưng Aster đã ngăn chặn lũ quái vật một cách hiệu quả. Notker quyết định phải loại bỏ Aster để tạo cơ hội cho Manggot hành động, và cuối cùng bước ra khỏi rừng để đối đầu với Aster.",
- "boi_canh": "Trên chiến tuyến, trong lúc trận chiến giữa quân đội nhân loại và lũ quái vật đang diễn ra.",
+ "tom_tat": "Sau khi Frondier vượt qua rào cản một cách táo bạo, anh ta đối mặt với Notker, một thành viên của Manggot. Hai người trao đổi vài lời lẽ khiêu khích trước khi chiến đấu nổ ra. Notker tấn công liên tục, cố gắng lợi dụng điểm yếu trong phòng thủ của Frondier, nhưng Frondier vẫn kiên cường chặn lại và phản công.",
+ "boi_canh": "Bên ngoài rào cản của Đế quốc, lúc đối mặt với kẻ thù.",
  "nhan_vat": [
-  "Aster",
-  "Hagley",
+  "Frondier",
+  "Aster Evans",
+  "Ludovic",
   "Notker",
   "Hector",
-  "Berengar"
+  "Manggot"
  ],
  "su_kien": [
-  "Đại tá phó của Manggot bày tỏ sự bối rối về thời điểm tấn công.",
-  "Notker quan sát Aster và nhận thấy kỹ năng chiến đấu của anh ta không đặc biệt xuất sắc.",
-  "Berengar báo cáo tình hình lũ quái vật tiến lên và cách chúng sử dụng xác chết làm đường đi.",
-  "Aster ngăn chặn lũ quái vật bằng những đòn tấn công chính xác, gây ra sự hỗn loạn trong đội hình của chúng.",
-  "Notker bước ra khỏi rừng để đối đầu với Aster."
+  "Hector bày tỏ sự ngạc nhiên và lo lắng khi Frondier vượt qua rào cản.",
+  "Frondier đáp lại lời chào của Notker bằng một câu nói khiêu khích.",
+  "Notker tuyên bố mình là một trong những người chăn dắt của Manggot và sẽ đốt cháy Đế quốc.",
+  "Aster trả lại ngọn giáo mà Notker đã ném đi, như thể đó là một món đồ bị lạc.",
+  "Trận chiến giữa Frondier và Notker bắt đầu với các đòn tấn công liên tục."
  ],
  "quan_he": [
   {
-   "a": "Đại tá phó của Manggot",
+   "a": "Hector",
+   "b": "Aster Evans",
+   "loai": "gia_dinh",
+   "mo_ta": "cha con, Hector lo lắng cho hành động của Aster.",
+   "cach_goi": "gọi tên Aster, không rõ cảm xúc"
+  },
+  {
+   "a": "Aster Evans",
    "b": "Notker",
-   "loai": "ke_thu",
-   "mo_ta": "Người chỉ huy cấp cao hơn bày tỏ sự lo lắng về kế hoạch của Notker.",
-   "cach_goi": "gọi tên Notker, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Notker",
-   "b": "Aster",
    "loai": "doi_thu",
-   "mo_ta": "Không thích Aster vì anh ta phá vỡ kế hoạch của Manggot.",
-   "cach_goi": "gọi tên Aster, lạnh lùng"
+   "mo_ta": "đối thủ, trao đổi lời nói thách thức trước trận chiến.",
+   "cach_goi": "gọi tên Notker, khiêu khích"
   },
   {
    "a": "Notker",
-   "b": "Hector",
-   "loai": "cap_tren",
-   "mo_ta": "Không có tương tác trực tiếp.",
-   "cach_goi": "gọi tên Hector, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Berengar",
-   "b": "Notker",
-   "loai": "cap_tren",
-   "mo_ta": "Người dưới trướng báo cáo tình hình chiến sự cho người chỉ huy.",
-   "cach_goi": "gọi tên Notker, thân mật"
-  },
-  {
-   "a": "Notker",
-   "b": "Aster",
+   "b": "Aster Evans",
    "loai": "doi_thu",
-   "mo_ta": "Người đối địch chuẩn bị tấn công.",
+   "mo_ta": "đối thủ, không thích vẻ mặt bình thường của Aster.",
    "cach_goi": "gọi tên Aster, thô lỗ"
   },
   {
-   "a": "Hector",
-   "b": "Aster",
-   "loai": "cap_tren",
-   "mo_ta": "Không có tương tác trực tiếp.",
-   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+   "a": "Aster Evans",
+   "b": "Notker",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, trả lại giáo một cách thờ ơ.",
+   "cach_goi": "gọi tên Notker, lạnh lùng"
   }
  ],
- "danh_tinh": [],
+ "danh_tinh": [
+  "Aster Evans là tên đầy đủ của Aster.",
+  "Hector là con trai Ludwig, tên thật là Hector Von Urfa."
+ ],
  "stats": {
-  "tokens": 771,
-  "seconds": 23.1
+  "tokens": 662,
+  "seconds": 20.4
  }
 }

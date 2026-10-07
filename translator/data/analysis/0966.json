@@ -1,0 +1,91 @@
+{
+ "number": 966,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Renzo chiến đấu với Enkephalos trong tay, khiến Ares vô cùng phấn khích. Tuy nhiên, khi Renzo đối mặt với những đòn tấn công của Tyr, anh không thể trả lời Ares. Điều kỳ lạ là cả Enkephalos cũng không phản ứng với Ares. Sau đó, Renzo sử dụng một kỹ thuật mới có tên 'From Start to End' để đánh bại Tyr, nhưng cuối cùng bị Esther bắt giữ và phải chịu hình phạt tại Obsidian.",
+ "boi_canh": "Trận chiến giữa Renzo và Tyr diễn ra ở một khu vực không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Renzo",
+  "Enfer",
+  "Pielott",
+  "Dier",
+  "Esther",
+  "Ares",
+  "Tyr",
+  "Enkephalos"
+ ],
+ "su_kien": [
+  "Renzo sử dụng Enkephalos để chiến đấu với Tyr.",
+  "Ares thể hiện sự vui mừng khi Renzo nhận ra sức mạnh của mình.",
+  "Renzo sử dụng kỹ thuật 'From Start to End' để đánh bại Tyr.",
+  "Esther bắt giữ Renzo sau trận chiến.",
+  "Renzo bị giam giữ tại Obsidian và phải chịu một hình phạt nghiêm khắc."
+ ],
+ "quan_he": [
+  {
+   "a": "Renzo",
+   "b": "Ares",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "gọi tên Ares, lạnh lùng"
+  },
+  {
+   "a": "Ares",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "gọi tên Renzo, trịch thượng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Tyr",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Tyr",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "Renzo",
+   "loai": "nguoi_la",
+   "mo_ta": "Bắt giữ và giam giữ Renzo.",
+   "cach_goi": "gọi tên Renzo, lạnh lùng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Esther",
+   "loai": "nguoi_la",
+   "mo_ta": "Bị bắt giữ bởi Esther.",
+   "cach_goi": "gọi tên Esther, thô lỗ"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội chiến đấu cùng nhau.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội chiến đấu cùng nhau.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Kỹ thuật 'From Start to End' được Renzo sử dụng lần đầu tiên trong chương này."
+ ],
+ "stats": {
+  "tokens": 918,
+  "seconds": 27.6
+ }
+}

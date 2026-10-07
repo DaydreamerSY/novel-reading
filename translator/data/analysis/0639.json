@@ -1,0 +1,76 @@
+{
+ "number": 639,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hai quỷ tấn công, Frondier vắng mặt, Elodie xuất hiện và tiêu diệt chúng một cách dễ dàng. Pielott và Dier bối rối về hành động của quỷ và suy đoán về lý do. Họ nhận ra rằng những kẻ tấn công đang nhắm mục tiêu những người liên quan đến Frondier để tống tiền anh ta. Dier nghi ngờ thông tin mà đối phương có đã lỗi thời, dẫn đến việc họ đánh giá sai sức mạnh của Aten. Anh ấy lo ngại rằng điều gì đó vẫn còn giống như trước chiến tranh và dự đoán một mối đe dọa tiềm ẩn.",
+ "boi_canh": "Trong khuôn viên Constel, sau khi hai quỷ tấn công.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aten Terst",
+  "Pielott",
+  "Osprey",
+  "Dier",
+  "Pascal",
+  "Adolf",
+  "Pascal Schlitz"
+ ],
+ "su_kien": [
+  "Hai quỷ tấn công Pielott và Dier.",
+  "Elodie xuất hiện và tiêu diệt hai quỷ một cách nhanh chóng.",
+  "Pielott đặt câu hỏi về động cơ của những kẻ tấn công.",
+  "Dier suy đoán rằng thông tin mà đối phương có đã lỗi thời.",
+  "Dier nhận ra rằng Aten có thể là mục tiêu vì thông tin sai lệch."
+ ],
+ "quan_he": [
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người bạn thân thiết, cùng lo lắng về tình hình.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Hai người bạn thân thiết, cùng lo lắng về tình hình.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ của Frondier, lo lắng cho Pielott.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ của Frondier, bối rối trước hành động của Elodie.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ của Frondier, tin tưởng Dier.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ của Frondier, tin tưởng Elodie.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Pascal Schlitz (Pascal)"
+ ],
+ "stats": {
+  "tokens": 825,
+  "seconds": 24.7
+ }
+}

@@ -11,6 +11,14 @@ Ngoài việc tải trang truyện, không có gì được gửi ra ngoài.
 
 1. **Tải truyện**: `python novel.py scrape`
    Tải tiếp các chương còn thiếu đến hết truyện. Chạy lại khi truyện ra chương mới.
+   Nguồn thứ hai: `python novel.py scrape --source novelight` (4 luồng, cấu hình ở mục `novelight` trong `config.yaml`).
+   Chỉ tải chương miễn phí, lưu vào `data/en_novelight/`, đánh số theo thứ tự đọc (0001 = Prologue), giữ nhãn gốc của trang
+   (`1.1`, `1.2`... ứng với chương gốc tiếng Hàn). Chữ đóng dấu của trang bị xoá, ghi chú `[T/N: ...]` của nhóm dịch được
+   chuyển sang trường `tl_notes` (không đem dịch). Bản gốc trang trả về được giữ ở `data/cache/novelight/`, nên `--force`
+   dựng lại toàn bộ mà không tải lại.
+   **Nguồn chính hiện là novelight**: `python novel.py source` dựng `data/en` từ `data/en_novelight`, đổi các tên viết khác
+   theo `aliases.yaml` (từ chương 754 là người dịch khác: Atjie → Azier, Cybel → Sybil...). Chạy lại lệnh này sau mỗi lần
+   tải thêm chương hoặc sửa `aliases.yaml`. Bản novellunar cũ nằm ở `data/novellunar/` (kèm `map.json`: số chương cũ → mới).
 2. **Làm glossary**
    - `python novel.py terms` tạo `glossary_draft.yaml`. Script tìm mọi tên riêng (cụm viết hoa giữa câu, cụm trong `[ ]`),
      rồi model phân loại thành nhân vật / địa danh / tổ chức / vũ khí / kỹ năng / vật phẩm / chủng tộc / danh hiệu / thuật ngữ.

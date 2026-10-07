@@ -1,0 +1,87 @@
+{
+ "number": 679,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Baal tỉnh lại và chặn đứng đòn tấn công của Marco. Frondier giải thích rằng ông đã đưa Baal ra khỏi Pandemonium. Elysia, người được Frondier sơ tán, bày tỏ sự tức giận vì ông đã sử dụng Obsidian để bảo vệ cô. Cuối cùng, Baal quyết định đứng về phía Frondier, gây ra căng thẳng giữa các thế lực khác nhau và đặt ra một lời cảnh báo cho Marco.",
+ "boi_canh": "Trong xưởng gần đây, khi các nhân vật đối đầu với nhau.",
+ "nhan_vat": [
+  "Frondier",
+  "Elysia",
+  "Baal",
+  "Marco",
+  "Marchosias",
+  "King of Hell"
+ ],
+ "su_kien": [
+  "Baal tỉnh lại và chặn đòn tấn công của Marco.",
+  "Frondier giải thích lý do đưa Baal ra khỏi Pandemonium.",
+  "Elysia bày tỏ sự tức giận vì Frondier đã sử dụng Obsidian để bảo vệ cô.",
+  "Baal quyết định đứng về phía Frondier.",
+  "Frondier cảnh báo Marco và đe dọa giết hắn nếu hắn là thuộc hạ của Satan."
+ ],
+ "quan_he": [
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Baal phụ thuộc vào sự giúp đỡ của Frondier để thoát khỏi Pandemonium.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đã cứu Baal và hiện đang điều khiển tình hình.",
+   "cach_goi": "gọi tên Baal, không rõ"
+  },
+  {
+   "a": "Marco",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Marco xem Baal là đối thủ và muốn lợi dụng tình hình để đạt được mục đích.",
+   "cach_goi": "gọi tên Baal, lạnh lùng"
+  },
+  {
+   "a": "Baal",
+   "b": "Marco",
+   "loai": "doi_thu",
+   "mo_ta": "Baal đối đầu với Marco sau khi đứng về phía Frondier.",
+   "cach_goi": "gọi tên Marco, không rõ"
+  },
+  {
+   "a": "Marchosias",
+   "b": "Marco",
+   "loai": "khac",
+   "mo_ta": "Hai người đối đầu trực tiếp.",
+   "cach_goi": "gọi tên Marco, không rõ"
+  },
+  {
+   "a": "Marco",
+   "b": "Marchosias",
+   "loai": "khac",
+   "mo_ta": "Hai người đối đầu trực tiếp.",
+   "cach_goi": "gọi tên Marchosias, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đã sơ tán Elysia và bày tỏ lòng biết ơn.",
+   "cach_goi": "gọi tên Elysia, không rõ"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Elysia tức giận vì cách Frondier sử dụng Obsidian.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Obsidian: ban đầu là chất lỏng, trở thành kim loại khi có mana của Helheim, sau đó lại trở về dạng cũ khi mana bị rút đi."
+ ],
+ "stats": {
+  "tokens": 956,
+  "seconds": 28.5
+ }
+}

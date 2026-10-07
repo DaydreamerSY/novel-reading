@@ -1,0 +1,106 @@
+{
+ "number": 951,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chứng kiến Frondier de Roach cố gắng thuyết phục Azier về quá khứ của họ, sự thật về việc một người giả mạo đang chiếm giữ cơ thể của anh ta được tiết lộ. Elodie đối mặt với những lời buộc tội và sự thật đau lòng về mối quan hệ của cô với 'Frondier' thực sự, cùng với sự phán xét từ các vị thần. Cô phải đối mặt với lựa chọn khó khăn: tha thứ cho kẻ giả mạo hoặc chiến đấu chống lại anh ta.",
+ "boi_canh": "Trong một hành lang dẫn đến Tartarus, nơi những tội phạm nguy hiểm nhất bị giam giữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Frondier de Roach",
+  "Fron",
+  "Agni",
+  "Campe",
+  "Vishnu",
+  "Rudra",
+  "Indra"
+ ],
+ "su_kien": [
+  "Frondier cố gắng chứng minh thân phận của mình với Azier bằng cách kể lại những ký ức chung.",
+  "Azier nhận ra Frondier là em trai của mình, khẳng định rằng anh ta không thể đánh lừa được anh ta.",
+  "Sự thật về việc một người giả mạo đang chiếm giữ cơ thể Frondier được tiết lộ.",
+  "Campe tiết lộ rằng chỉ Thanatos mới có thể gửi ai đó đến Tartarus, ngụ ý Frondier đã phạm tội.",
+  "Các vị thần buộc Elodie phải chọn giữa việc tha thứ cho kẻ giả mạo hoặc chiến đấu chống lại anh ta."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Em trai và anh trai, đang cố gắng xác nhận mối quan hệ của họ.",
+   "cach_goi": "gọi 'Hyung', thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, nghi ngờ thân phận của em trai mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thời thơ ấu, Frondier đang tức giận với Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thời thơ ấu, bị sốc và đau khổ bởi sự thật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Anh trai, chất vấn Frondier.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Vishnu",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết nhau, nhưng Vishnu đang cố gắng thao túng tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vishnu",
+   "b": "Rudra",
+   "loai": "dong_minh",
+   "mo_ta": "Hai vị thần, tranh cãi về cách đối xử với Elodie.",
+   "cach_goi": "gọi tên, trịch thượng"
+  },
+  {
+   "a": "Vishnu",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Vishnu đang cố gắng gây đau khổ cho Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Rudra",
+   "b": "Vishnu",
+   "loai": "dong_minh",
+   "mo_ta": "Rudra ngăn Vishnu làm tổn thương Elodie.",
+   "cach_goi": "gọi tên, cảnh cáo"
+  },
+  {
+   "a": "Campe",
+   "b": "Azier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết nhau, Campe cung cấp thông tin cho Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)",
+  "Fron (biệt danh thân mật của Frondier)"
+ ],
+ "stats": {
+  "tokens": 988,
+  "seconds": 29.9
+ }
+}

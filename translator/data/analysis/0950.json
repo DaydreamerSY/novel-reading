@@ -1,0 +1,150 @@
+{
+ "number": 950,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier, theo dõi tiếng động lạ trong đường hầm Tartarus, phát hiện Campe đang tranh chấp với linh hồn. Anh ta biết rằng Azier cũng ở đó và vội vàng tìm kiếm anh trai. Campe tiết lộ rằng Moirai đã chết và Frondier là người giết họ, đồng thời bày tỏ sự ủng hộ đối với hành động của Frondier. Cuộc trò chuyện dẫn đến một sự hiểu lầm khi một linh hồn khác tự xưng là Frondier xuất hiện, gây ra sự bối rối cho Azier. Các vị thần xuất hiện và bắt đầu một nghi thức bí ẩn liên quan đến Elodie và Bốn Nguyên Tố.",
+ "boi_canh": "Trong đường hầm Tartarus, giữa những linh hồn đang tranh chấp.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Azier",
+  "Zeus",
+  "Agni",
+  "Chandra",
+  "Campe",
+  "Elodie",
+  "Osprey",
+  "Rudra",
+  "Indra",
+  "Vishnu"
+ ],
+ "su_kien": [
+  "Frondier nghe thấy tiếng ồn lạ trong đường hầm Tartarus.",
+  "Campe tiết lộ rằng Moirai đã chết và Frondier là người giết họ.",
+  "Một linh hồn khác tự xưng là Frondier xuất hiện, gây bối rối cho Azier.",
+  "Các vị thần (Agni, Chandra, Indra, Vishnu) xuất hiện và bắt đầu một nghi thức bí ẩn với Elodie.",
+  "Vishnu tiết lộ rằng Frondier mà Elodie biết có thể là giả."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, đi cùng và hỗ trợ Frondier.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, đi cùng và hỗ trợ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, Frondier đang tìm kiếm để giải cứu.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, đang ở trạng thái linh hồn và bối rối.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Campe",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối tượng để hỏi thông tin, có vẻ biết nhiều chuyện.",
+   "cach_goi": "gọi tên Campe, lạnh lùng"
+  },
+  {
+   "a": "Campe",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối tượng để hỏi thông tin, có vẻ biết nhiều chuyện.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Elodie",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng đội, Osprey đang hướng dẫn Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng đội, Osprey đang hướng dẫn Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Rudra",
+   "b": "Elodie",
+   "loai": "thay_tro",
+   "mo_ta": "Người cố vấn, đưa ra những câu hỏi khó khăn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Rudra",
+   "loai": "thay_tro",
+   "mo_ta": "Người cố vấn, đưa ra những câu hỏi khó khăn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Agni",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "Vị thần, xuất hiện cùng với các vị thần khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Agni",
+   "loai": "cap_tren",
+   "mo_ta": "Vị thần, xuất hiện cùng với các vị thần khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Indra",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "Vị thần, xuất hiện cùng với các vị thần khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Indra",
+   "loai": "cap_tren",
+   "mo_ta": "Vị thần, xuất hiện cùng với các vị thần khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vishnu",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "Vị thần, xuất hiện cùng với các vị thần khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Vishnu",
+   "loai": "cap_tren",
+   "mo_ta": "Vị thần, xuất hiện cùng với các vị thần khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của nhân vật chính)",
+  "Fron (Tên thân mật của Frondier)"
+ ],
+ "stats": {
+  "tokens": 1615,
+  "seconds": 48.9
+ }
+}

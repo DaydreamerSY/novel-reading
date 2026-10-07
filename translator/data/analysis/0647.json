@@ -1,0 +1,55 @@
+{
+ "number": 647,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Elysia đang vẽ một rune lớn trên mặt đất theo yêu cầu của Frondier để kích hoạt Rafflesia. Họ ở ngoài Đế Chế trong một khu vực nguy hiểm đầy quái vật. Frondier quan sát xung quanh và nhận thấy sự khác biệt trong cách Elysia vẽ rune so với bản thân. Cuối cùng, Elysia bị trói lại bằng Obsidian bởi chính Frondier, khiến cô vô cùng hoảng loạn khi anh nói rằng anh không biết cách kích hoạt Rafflesia và quá muộn rồi.",
+ "boi_canh": "Bên ngoài Đế Chế, 10km từ Manggot, trong một khu vực đầy quái vật.",
+ "nhan_vat": [
+  "Frondier",
+  "Elysia"
+ ],
+ "su_kien": [
+  "Elysia vẽ rune lớn trên mặt đất.",
+  "Frondier quan sát Elysia và môi trường xung quanh.",
+  "Những con quái vật chết bất thường xuất hiện xung quanh.",
+  "Elysia phát hiện mình bị trói bằng Obsidian bởi Frondier.",
+  "Frondier tuyên bố anh không biết cách kích hoạt Rafflesia và quá muộn rồi."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier quan sát và đưa ra nhận xét một cách thờ ơ về hành động của Elysia.",
+   "cach_goi": "gọi tên Elysia, lạnh lùng"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Elysia phàn nàn và tỏ ra bực bội với thái độ lạnh lùng của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật nhưng có chút khó chịu"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier ra lệnh và sau đó giấu diếm sự thật về việc kích hoạt Rafflesia.",
+   "cach_goi": "gọi tên Elysia, trịch thượng"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Elysia phản đối và tức giận khi bị trói lại.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Rafflesia (rune)"
+ ],
+ "stats": {
+  "tokens": 658,
+  "seconds": 19.6
+ }
+}

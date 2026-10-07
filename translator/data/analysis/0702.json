@@ -1,0 +1,69 @@
+{
+ "number": 702,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier chất vấn Azier về việc anh ta nuôi dưỡng cậu, nhưng bị bác bỏ. Cậu quyết định trở thành một người chuyên nghiệp và luyện tập với giáo viên của mình. Trong quá trình đó, Frondier nhận ra sự khác biệt trong cách chiến đấu của những người mạnh mẽ, đặc biệt là Selena, và bắt đầu học hỏi từ cô ấy. Cuối cùng, Selena bày tỏ lo lắng về tình trạng thể chất của Frondier.",
+ "boi_canh": "Một khu vực luyện tập bí mật, vài ngày sau một sự kiện không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Azier",
+  "Artemis"
+ ],
+ "su_kien": [
+  "Frondier chất vấn Azier về việc nuôi dưỡng cậu.",
+  "Frondier quyết định trở thành một người chuyên nghiệp.",
+  "Frondier luyện tập với Azier và sử dụng kỹ năng sao chép vũ khí.",
+  "Frondier học hỏi từ Selena về chiến thuật cận chiến.",
+  "Selena bày tỏ lo lắng về tình trạng thể chất của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em trai, Frondier chất vấn Azier.",
+   "cach_goi": "gọi 'anh trai', thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em trai, Azier trả lời chất vấn của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hướng dẫn và học trò, Frondier đặt câu hỏi cho Selena.",
+   "cach_goi": "gọi tên Selena, lễ phép"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hướng dẫn và học trò, Selena trả lời câu hỏi của Frondier.",
+   "cach_goi": "gọi 'Frondier-nim', lễ phép"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em trai, Azier quan sát Frondier luyện tập.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em trai, Frondier trả lời Azier.",
+   "cach_goi": "gọi 'anh trai', thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 772,
+  "seconds": 23.2
+ }
+}

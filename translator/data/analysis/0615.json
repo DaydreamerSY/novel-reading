@@ -1,0 +1,72 @@
+{
+ "number": 615,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi vô tình giết Kagris, Frondier bị Bart đe dọa trả thù. Tuy nhiên, Frondier đã sử dụng sức mạnh quỷ để khống chế và biến Bart thành người hầu của mình, hứa hẹn sẽ giúp đỡ những con quỷ khác trong Đế quốc. Sau đó, anh phát hiện ra Elysia đã trốn thoát khỏi nơi ở của họ.",
+ "boi_canh": "Một căn phòng tối tăm, có lẽ là một hang ổ bí mật của quỷ dữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elysia",
+  "Bart",
+  "Olivier",
+  "Kagris"
+ ],
+ "su_kien": [
+  "Frondier vô tình giết Kagris.",
+  "Bart đe dọa Frondier vì cái chết của Kagris.",
+  "Frondier sử dụng sức mạnh quỷ để khống chế Bart.",
+  "Bart chấp nhận trở thành người hầu của Frondier.",
+  "Elysia trốn thoát khỏi nơi ở."
+ ],
+ "quan_he": [
+  {
+   "a": "Bart",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Bart đe dọa và tấn công Frondier sau cái chết của Kagris.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bart",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier khống chế và biến Bart thành người hầu của mình.",
+   "cach_goi": "gọi tên Bart, lạnh lùng"
+  },
+  {
+   "a": "Bart",
+   "b": "Frondier",
+   "loai": "chu_to",
+   "mo_ta": "Bart chấp nhận trở thành người hầu của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Kagris",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier giết Kagris.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bart",
+   "b": "Kagris",
+   "loai": "ban_be",
+   "mo_ta": "Bart là đối tác kinh doanh của Kagris.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ, Elysia trốn thoát khỏi Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Olivier là người tiền nhiệm của Bart."
+ ],
+ "stats": {
+  "tokens": 729,
+  "seconds": 22.9
+ }
+}

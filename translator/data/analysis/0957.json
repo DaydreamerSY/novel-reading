@@ -1,0 +1,91 @@
+{
+ "number": 957,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe câu chuyện của Belphegor, các Lãnh Chúa Tội lỗi rơi vào im lặng. Satan nghi ngờ Frondier và tiết lộ rằng Belphegor đã làm theo hợp đồng với Loki để giúp đỡ người thừa kế Weaving. Belphegor giải thích rằng ông tin Loki vì chỉ có chủ nhân Weaving mới có thông tin đầy đủ về kỹ năng này, và việc đó sẽ dẫn đến một cuộc chiến giữa con người và các vị thần. Cuối cùng, Belphegor nghi ngờ Satan đã bí mật thỏa thuận với các vị thần để đạt được mục đích riêng của mình liên quan đến Frondier.",
+ "boi_canh": "Một nơi không xác định, trong một tình huống căng thẳng giữa các Lãnh Chúa Tội lỗi.",
+ "nhan_vat": [
+  "Frondier",
+  "Baal",
+  "Mei",
+  "Odin",
+  "Metamorph",
+  "Zeus",
+  "Asmodeus",
+  "Satan",
+  "Thanatos",
+  "Hestia"
+ ],
+ "su_kien": [
+  "Belphegor kể lại câu chuyện về việc ông giúp đỡ người thừa kế Weaving theo hợp đồng với Loki.",
+  "Satan nghi ngờ Frondier và bày tỏ sự cứng rắn.",
+  "Belphegor giải thích lý do tin tưởng Loki là vì chỉ có chủ nhân Weaving mới có thông tin đầy đủ.",
+  "Belphegor tiết lộ rằng ông nghi ngờ Satan đã thỏa thuận bí mật với các vị thần.",
+  "Thanatos đột ngột rời đi hướng về Yggdrasil, khiến mọi người kinh ngạc."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Belphegor đánh giá sức mạnh của Frondier và sự ảnh hưởng của anh đối với hợp đồng.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Belphegor đánh giá sức mạnh của Frondier và sự ảnh hưởng của anh đối với hợp đồng.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Satan là người đã giao nhiệm vụ cho Belphegor và đang bị nghi ngờ.",
+   "cach_goi": "gọi tên Belphegor, lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor nghi ngờ và chất vấn Satan về động cơ của ông.",
+   "cach_goi": "gọi tên Satan, thô lỗ"
+  },
+  {
+   "a": "Thanatos",
+   "b": "Hestia",
+   "loai": "ke_thu",
+   "mo_ta": "Thanatos là kẻ thù của Hestia và đang chiến đấu với lực lượng của bà.",
+   "cach_goi": "không nói chuyện trực tiếp, thù địch"
+  },
+  {
+   "a": "Hestia",
+   "b": "Thanatos",
+   "loai": "ke_thu",
+   "mo_ta": "Hestia đang cố gắng trì hoãn cuộc tấn công của các vị thần và cảm thấy tuyệt vọng khi Thanatos xuất hiện.",
+   "cach_goi": "không nói chuyện trực tiếp, sợ hãi"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Mei",
+   "loai": "khac",
+   "mo_ta": "Belphegor quan tâm đến mối quan hệ giữa Frondier và Mei.",
+   "cach_goi": "gọi tên Mei, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Hai người đang ở bên cạnh nhau.",
+   "cach_goi": "không nói chuyện trực tiếp, thân thiết"
+  }
+ ],
+ "danh_tinh": [
+  "Metamorph Catastrophe: Được tiết lộ là sản phẩm của Satan từ tàn tích của Loki, và Mei là một trong số ít thành công."
+ ],
+ "stats": {
+  "tokens": 1093,
+  "seconds": 32.9
+ }
+}

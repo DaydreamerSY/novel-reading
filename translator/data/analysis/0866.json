@@ -1,0 +1,110 @@
+{
+ "number": 866,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong một trận chiến căng thẳng với các Paladin bảo vệ Charon, Frondier sử dụng cung tên nhưng bị chặn lại. Anh ta sau đó tiết lộ diện mạo của Elodie và Selena để đạt được mục đích riêng. Cuối cùng, Cupid bắn trúng Frondier bằng mũi tên tình yêu từ Aphrodite, nhưng anh đã đá cô vào tường một cách bất ngờ.",
+ "boi_canh": "Giữa quảng trường, trong một trận chiến giữa các Paladin và nhóm của Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Sybil",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Ludovic",
+  "Antero",
+  "Athena",
+  "Sybil Forte",
+  "Zeus",
+  "Charon",
+  "Aphrodite",
+  "Cupid"
+ ],
+ "su_kien": [
+  "Các Paladin can thiệp để bảo vệ Charon.",
+  "Frondier bắn tên vào Charon, nhưng bị chặn lại bởi một Paladin.",
+  "Frondier tiết lộ diện mạo của Elodie và Selena.",
+  "Cupid bắn trúng Frondier bằng mũi tên tình yêu.",
+  "Frondier đá Aphrodite vào tường."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Charon",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến.",
+   "cach_goi": "gọi tên Charon, lạnh lùng"
+  },
+  {
+   "a": "Charon",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành, Frondier chỉ đạo.",
+   "cach_goi": "gọi tên Elodie, ra lệnh"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành, tuân theo chỉ đạo của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành, Frondier chỉ đạo.",
+   "cach_goi": "gọi tên Selena, ra lệnh"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành, tuân theo chỉ đạo của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Paladin (không rõ tên)",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, tỏ ra căm ghét.",
+   "cach_goi": "gọi 'demon bastard', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Paladin (không rõ tên)",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aphrodite",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Người đối diện, có vẻ như đang bị Frondier lợi dụng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cupid",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Người bắn tên tình yêu vào Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Selena và Elodie: Che mặt, sau đó lộ diện."
+ ],
+ "stats": {
+  "tokens": 1072,
+  "seconds": 32.3
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "number": 665,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi kích hoạt rune, Elysia nghi ngờ Frondier đang lừa dối để giữ cô lại. Cô nhận ra rằng Frondier không có ý định giết cô và bắt đầu đặt câu hỏi về động cơ của anh ta. Cuối cùng, Frondier tiết lộ kế hoạch của mình: yêu cầu Elysia trở thành Hoàng hậu và chấp nhận trách nhiệm cho việc kích hoạt rune, nhằm thay đổi hướng đi của lũ quỷ và bảo vệ đế quốc.",
+ "boi_canh": "Một địa điểm xa xôi, không xác định thời gian.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Elysia",
+  "Bartello"
+ ],
+ "su_kien": [
+  "Elysia nghi ngờ Frondier đang lừa dối.",
+  "Elysia nhận ra Frondier không có ý định giết cô.",
+  "Frondier tiết lộ kế hoạch yêu cầu Elysia trở thành Hoàng hậu.",
+  "Frondier giải thích lý do tại sao Elysia không thể quay lại ký túc xá.",
+  "Elysia nhớ lại những lời dạy của mẹ về trách nhiệm bảo vệ dân chúng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier có vẻ đang thao túng Elysia để đạt được mục đích của mình.",
+   "cach_goi": "gọi tên Elysia, lạnh lùng"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Elysia đang cố gắng tìm hiểu động cơ của Frondier.",
+   "cach_goi": "gọi tên Frondier, nghi ngờ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đang ra lệnh cho Elysia.",
+   "cach_goi": "gọi tên Elysia, trịch thượng"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Elysia đang suy nghĩ về những lời của Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bartello",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, Bartello đã dạy dỗ Elysia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ mẹ con, Philly đã dạy dỗ Elysia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là chị em gái.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính mới hoặc bí danh nào được tiết lộ trong chương này."
+ ],
+ "stats": {
+  "tokens": 862,
+  "seconds": 27.0
+ }
+}

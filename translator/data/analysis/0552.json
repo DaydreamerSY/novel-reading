@@ -2,87 +2,72 @@
  "number": 552,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, quân Roach Knights tấn công căn cứ của Manggot với sự tức giận tột độ. Frondier gửi một con ngựa đến đón Selena và Mei sau cuộc tấn công. Sau đó, Mei tiết lộ thân phận thật của mình cho Selena, người đã nghi ngờ cô đang cải trang. Cuối cùng, Selena nhận ra những lời nói trước đây của Frondier về việc cô không còn là tùy tùng của anh nữa.",
- "boi_canh": "Trên chiến trường, giữa các thành viên của quân Roach Knights và Manggot.",
+ "tom_tat": "Trong chương này, Andika và Beso, những người chăn cừu của Manggot, chứng kiến sự hỗn loạn trên chiến trường do Roach knights gây ra. Họ phải đối mặt với quyết định khó khăn: cứu lấy đàn cừu hay vượt qua rào chắn đang sụp đổ để bảo toàn lực lượng. Cuối cùng, họ quyết định vượt rào và gặp phải Frondier (Azier) sử dụng kỹ thuật 'Drop' bí ẩn khiến tất cả các chiến binh chăn cừu đều vô thức buông vũ khí.",
+ "boi_canh": "Trên chiến trường hỗn loạn, ngay sau khi Roach knights tấn công.",
  "nhan_vat": [
-  "Frondier",
-  "Elodie",
-  "Selena",
-  "Sylvain",
-  "Mei",
-  "Cassian",
-  "Adela"
+  "Andika",
+  "Beso",
+  "Frondier (Azier)",
+  "Shadow",
+  "Andika",
+  "Beso"
  ],
  "su_kien": [
-  "Quân Roach Knights tấn công căn cứ của Manggot.",
-  "Mei và Selena thực hiện một cuộc tấn công bất ngờ.",
-  "Một con ngựa không người lái đến đón Selena và Mei.",
-  "Mei biến đổi thành hình dạng thật của mình.",
-  "Selena nhận ra sự giống nhau giữa Mei và Frondier."
+  "Roach knights tấn công, gây ra hỗn loạn trên chiến trường.",
+  "Andika muốn trả thù Roach knights nhưng bị Beso ngăn lại.",
+  "Các người chăn cừu quyết định vượt qua rào chắn đang sụp đổ.",
+  "Frondier (Azier) sử dụng kỹ thuật 'Drop' khiến các người chăn cừu buông vũ khí.",
+  "Các người chăn cừu nhận ra Frondier (Azier)."
  ],
  "quan_he": [
   {
-   "a": "Sylvain",
-   "b": "Quân Roach Knights",
-   "loai": "cap_tren",
-   "mo_ta": "Chỉ huy quân Roach Knights, ra lệnh tấn công.",
-   "cach_goi": "gọi 'các chiến binh', trịch thượng"
+   "a": "Andika",
+   "b": "Beso",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng là người chăn cừu. Beso thuyết phục Andika vượt rào chắn.",
+   "cach_goi": "gọi tên Beso, thân mật"
   },
   {
-   "a": "Quân Roach Knights",
-   "b": "Sylvain",
-   "loai": "cap_tren",
-   "mo_ta": "Tuân lệnh chỉ huy Sylvain.",
-   "cach_goi": "gọi 'Ngài', lễ phép"
+   "a": "Beso",
+   "b": "Andika",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng là người chăn cừu. Beso thuyết phục Andika vượt rào chắn.",
+   "cach_goi": "gọi tên Andika, thân mật"
   },
   {
-   "a": "Mei",
-   "b": "Selena",
-   "loai": "nguoi_la",
-   "mo_ta": "Hai người gặp nhau lần đầu và Selena nghi ngờ Mei cải trang.",
-   "cach_goi": "gọi tên, thân mật"
-  },
-  {
-   "a": "Selena",
-   "b": "Mei",
-   "loai": "nguoi_la",
-   "mo_ta": "Hai người gặp nhau lần đầu và Selena nghi ngờ Mei cải trang.",
-   "cach_goi": "gọi tên, thân mật"
-  },
-  {
-   "a": "Selena",
-   "b": "Cassian",
-   "loai": "khac",
-   "mo_ta": "Ngựa của Selena, không giao tiếp.",
+   "a": "Frondier (Azier)",
+   "b": "Andika",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier sử dụng kỹ thuật 'Drop' khiến Andika và những người chăn cừu khác buông vũ khí.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Cassian",
-   "b": "Selena",
-   "loai": "khac",
-   "mo_ta": "Ngựa của Selena, không giao tiếp.",
+   "a": "Andika",
+   "b": "Frondier (Azier)",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier sử dụng kỹ thuật 'Drop' khiến Andika và những người chăn cừu khác buông vũ khí.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Mei",
-   "b": "Selena",
-   "loai": "nguoi_la",
-   "mo_ta": "Hai người gặp nhau lần đầu và Selena nghi ngờ Mei cải trang.",
-   "cach_goi": "gọi tên, thân mật"
+   "a": "Beso",
+   "b": "Frondier (Azier)",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier sử dụng kỹ thuật 'Drop' khiến Beso và những người chăn cừu khác buông vũ khí.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Selena",
-   "b": "Mei",
-   "loai": "nguoi_la",
-   "mo_ta": "Hai người gặp nhau lần đầu và Selena nghi ngờ Mei cải trang.",
-   "cach_goi": "gọi tên, thân mật"
+   "a": "Frondier (Azier)",
+   "b": "Beso",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier sử dụng kỹ thuật 'Drop' khiến Beso và những người chăn cừu khác buông vũ khí.",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Mei: Ban đầu cải trang thành Adela, một người chăn cừu của Manggot."
+  "Frondier được gọi là Azier trong chương này."
  ],
  "stats": {
-  "tokens": 901,
-  "seconds": 28.2
+  "tokens": 896,
+  "seconds": 27.9
  }
 }

@@ -1,0 +1,79 @@
+{
+ "number": 687,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier hồi tưởng lại kế hoạch loại bỏ Lily để tìm kiếm và tiêu diệt quỷ trong Đế quốc. Gregory đã khuyên nhủ Frondier đưa ra quyết định sáng suốt thay vì hành động bốc đồng dưới sự ảnh hưởng của 'Charm' của Lily. Sau khi nhận ra tác động liên tục của Charm, Frondier đã đối mặt với Lily và cuối cùng khuất phục sức mạnh quỷ của cô ấy, xóa sạch ký ức về Satan và biến cô thành một Zodiac trung thành với Đế quốc. Lily chấp nhận số phận mới của mình và gọi Frondier là 'chủ nhân'.",
+ "boi_canh": "Trong phòng làm việc của Frondier, vào thời điểm quyết định số phận của Lily.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Gregory",
+  "Leah Lis",
+  "Lis"
+ ],
+ "su_kien": [
+  "Frondier hồi tưởng lại kế hoạch loại bỏ Lily để tiêu diệt quỷ.",
+  "Gregory khuyên Frondier đưa ra quyết định sáng suốt.",
+  "Lily thừa nhận tác động liên tục của 'Charm'.",
+  "Frondier khuất phục sức mạnh quỷ của Lily, xóa ký ức về Satan.",
+  "Lily chấp nhận trở thành một Zodiac trung thành với Đế quốc và gọi Frondier là 'chủ nhân'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "cap_tren",
+   "mo_ta": "Người cố vấn của Frondier, đưa ra lời khuyên và quan sát.",
+   "cach_goi": "gọi tên Gregory, lễ phép"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người cố vấn của Frondier, đưa ra lời khuyên và quan sát.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "doi_thu",
+   "mo_ta": "Người mà Frondier phải đối mặt để bảo vệ Đế quốc.",
+   "cach_goi": "gọi tên Lily, lạnh lùng"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mà Frondier phải đối mặt để bảo vệ Đế quốc.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Leah Lis",
+   "loai": "chu_to",
+   "mo_ta": "Người mà Frondier muốn kiểm soát hoàn toàn.",
+   "cach_goi": "gọi tên Leah Lis, trịch thượng"
+  },
+  {
+   "a": "Leah Lis",
+   "b": "Frondier",
+   "loai": "chu_to",
+   "mo_ta": "Người mà Frondier muốn kiểm soát hoàn toàn.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Lily được biết đến với hai danh tính: Lily và Leah Lis. Cô ấy đã mất ký ức về Satan sau khi bị Frondier khuất phục."
+ ],
+ "stats": {
+  "tokens": 912,
+  "seconds": 27.2
+ }
+}

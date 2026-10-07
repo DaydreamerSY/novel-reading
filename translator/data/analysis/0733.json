@@ -1,0 +1,103 @@
+{
+ "number": 733,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Odin tiết lộ những lời lẽ chế giễu và trách móc Frondier, Frondier cuối cùng cũng hiểu ra ý đồ thực sự của Odin: khiến anh ta hối hận vì đã bảo vệ quá nhiều. Sau đó, Philly và Pascal đến hiện trường, và thông qua cuộc trò chuyện với họ, Frondier nhận ra rằng những hành động của mình đã được dàn dựng bởi một thế lực lớn hơn, và Philly đang gửi một thông điệp ngầm cho anh ta.",
+ "boi_canh": "Trong phòng ngủ của Bartello, sau khi Odin rời đi.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Elysia",
+  "Lily",
+  "Hagley",
+  "Pascal",
+  "Bartello Tert",
+  "Robert",
+  "Sale",
+  "Odin"
+ ],
+ "su_kien": [
+  "Odin tiết lộ những lời chế giễu và trách móc Frondier.",
+  "Frondier nhận ra ý đồ của Odin là khiến anh ta hối hận.",
+  "Philly và Pascal đến hiện trường.",
+  "Bartello và Sale bất tỉnh sau khi Odin rời đi.",
+  "Philly gửi một thông điệp ngầm cho Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Odin",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp, Odin cố gắng khiến Frondier hối hận.",
+   "cach_goi": "gọi tên Odin, lạnh lùng"
+  },
+  {
+   "a": "Odin",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp, Odin cố gắng khiến Frondier hối hận.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly Terst",
+   "loai": "dong_minh",
+   "mo_ta": "Philly quan sát và lắng nghe Frondier.",
+   "cach_goi": "gọi tên Philly, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Philly quan sát và lắng nghe Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Bartello Tert",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ vợ chồng, Philly lo lắng cho tình trạng của Bartello.",
+   "cach_goi": "gọi tên Bartello, thân mật"
+  },
+  {
+   "a": "Bartello Tert",
+   "b": "Philly Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Sale",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ mẹ con, Philly lo lắng cho tình trạng của Sale.",
+   "cach_goi": "gọi tên Sale, thân mật"
+  },
+  {
+   "a": "Sale",
+   "b": "Philly Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1078,
+  "seconds": 32.3
+ }
+}

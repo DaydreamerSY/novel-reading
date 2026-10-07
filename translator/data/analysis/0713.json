@@ -1,0 +1,83 @@
+{
+ "number": 713,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Hoàng hậu Philly thức dậy với cảm giác đau nhức và lo lắng vì mất khả năng tiên đoán tương lai của mình. Bà nghi ngờ Frondier có liên quan đến việc này, đồng thời suy ngẫm về mối quan hệ phức tạp giữa các thành viên hoàng gia và vai trò ngày càng quan trọng của Frondier trong đế quốc. Cuối cùng, Elysia đến báo cho bà biết Frondier muốn gặp mặt bí mật, khiến Philly thêm phần băn khoăn.",
+ "boi_canh": "Trong phòng ngủ của Hoàng hậu Philly, vào một buổi sáng.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly Terst",
+  "Aten Terst",
+  "Elysia",
+  "Bartello Tert",
+  "Monty"
+ ],
+ "su_kien": [
+  "Hoàng hậu Philly mất khả năng tiên đoán tương lai.",
+  "Bà nghi ngờ Frondier có liên quan đến việc mất khả năng này.",
+  "Elysia báo cho Philly biết Frondier muốn gặp mặt bí mật.",
+  "Philly suy ngẫm về mối quan hệ giữa Aten và Aster, cũng như vai trò của Frondier.",
+  "Elysia đỏ mặt khi bị hỏi về việc hẹn hò với Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hoàng hậu nghi ngờ Frondier có liên quan đến việc mất khả năng tiên đoán của mình.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier là chủ đề suy ngẫm của Philly.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Elysia báo cáo cho Philly về yêu cầu gặp mặt của Frondier.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia",
+   "loai": "cap_tren",
+   "mo_ta": "Philly hỏi Elysia về mối quan hệ của cô với Frondier.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Philly suy ngẫm về mối quan hệ của Aten và Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Philly mong muốn Aten hẹn hò với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Philly suy ngẫm về mối quan hệ của Elysia và Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Philly Terst (Hoàng hậu)",
+  "Aten Terst (Tam công chúa)",
+  "Bartello Tert (Quốc vương)"
+ ],
+ "stats": {
+  "tokens": 903,
+  "seconds": 27.0
+ }
+}

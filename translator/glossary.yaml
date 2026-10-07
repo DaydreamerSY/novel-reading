@@ -16,423 +16,558 @@
 #                   ghichu: 18 tuổi, quý tộc, tính cách...   # giúp model chọn giọng văn
 
 nhan_vat:
-  "Frondier":  # 9881 lần
+  "Frondier":  # 15054 lần
     vi: "Frondier"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: "nhân vật chính"
-  "Elodie":  # 1948 lần
+  "Elodie":  # 2873 lần
     vi: "Elodie"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: "bạn từ thuở nhỏ của Frondier"
-  "Selena":  # 1472 lần
-    vi: "Selena"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Aster":  # 1418 lần
+  "Aster":  # 2555 lần
     vi: "Aster"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Philly":  # 1410 lần
+  "Selena":  # 2067 lần
+    vi: "Selena"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Philly":  # 1665 lần
     vi: "Philly"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: "tên đầy đủ là Philly Terst, hoàng hậu của đế quốc"
-  "Aten":  # 1244 lần
+  "Aten":  # 1465 lần
     vi: "Aten"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: "tên đầy đủ là Aten Terst, tam công chúa"
-  "Sybil":  # 907 lần
-    vi: "Sybil"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Azier":  # 906 lần
+  "Azier":  # 1407 lần
     vi: "Azier"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: "anh trai của Frondier"
-  "Quinie":  # 753 lần
-    vi: "Quinie"
+  "Sybil":  # 1305 lần
+    vi: "Sybil"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Renzo":  # 717 lần
-    vi: "Renzo"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Elysia":  # 714 lần
-    vi: "Elysia"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Lily":  # 651 lần
-    vi: "Lily"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Enfer":  # 629 lần
-    vi: "Enfer"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "cha của Frondier và Azier"
-  "Pielott":  # 604 lần
+  "Pielott":  # 1300 lần
     vi: "Pielott"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Osprey":  # 524 lần
-    vi: "Osprey"
+  "Renzo":  # 1217 lần
+    vi: "Renzo"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Ellen":  # 521 lần
-    vi: "Ellen"
+  "Lily":  # 881 lần
+    vi: "Lily"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "chị của Aster"
-  "Dier":  # 491 lần
+    ghichu: ""
+  "Quinie":  # 870 lần
+    vi: "Quinie"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Dier":  # 816 lần
     vi: "Dier"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Jane":  # 411 lần
-    vi: "Jane"
+  "Elysia":  # 793 lần
+    vi: "Elysia"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Edwin":  # 408 lần
-    vi: "Edwin"
+  "Enfer":  # 767 lần
+    vi: "Enfer"
     gioitinh: "nam"
     ngoi3: ""
-    ghichu: ""
-  "Carla":  # 374 lần
-    vi: "Carla"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Hagley":  # 368 lần
-    vi: "Hagley"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Malia":  # 345 lần
-    vi: "Malia"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "mẹ của Frondier và Azier, vợ của Enfer"
-  "Lunia":  # 339 lần
-    vi: "Lunia"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Baal":  # 329 lần
+    ghichu: "cha của Frondier và Azier"
+  "Baal":  # 706 lần
     vi: "Baal"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Marco":  # 324 lần
-    vi: "Marco"
+  "Osprey":  # 703 lần
+    vi: "Osprey"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Pascal":  # 308 lần
-    vi: "Pascal"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Laurie":  # 278 lần
-    vi: "Laurie"
+  "Carla":  # 699 lần
+    vi: "Carla"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Sylvain":  # 272 lần
-    vi: "Sylvain"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Kraken":  # 267 lần
-    vi: "Kraken"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Eden":  # 265 lần
-    vi: "Eden"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Kora":  # 251 lần
-    vi: "Kora"
+  "Ellen":  # 555 lần
+    vi: "Ellen"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "bán nhân, có dòng máu bạch hổ"
-  "Heldre":  # 248 lần
-    vi: "Heldre"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Mei":  # 247 lần
-    vi: "Mei"
+    ghichu: "chị của Aster"
+  "Malia":  # 497 lần
+    vi: "Malia"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "dạng nữ của Metamorp, tên được đặt bởi Frondier"
-  "Cain":  # 242 lần
-    vi: "Cain"
+    ghichu: "mẹ của Frondier và Azier, vợ của Enfer"
+  "Jane":  # 462 lần
+    vi: "Jane"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Ludwig":  # 199 lần
-    vi: "Ludwig"
+  "Edwin":  # 445 lần
+    vi: "Edwin"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Bartello":  # 198 lần
-    vi: "Bartello"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "tên đầy đủ là Bartello Tert, quốc vương"
-  "Arald":  # 191 lần
-    vi: "Arald"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Monty":  # 191 lần
-    vi: "Monty"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Esther":  # 190 lần
-    vi: "Esther"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Binkis":  # 184 lần
-    vi: "Binkis"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Merlin":  # 183 lần
-    vi: "Merlin"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Sanders":  # 181 lần
-    vi: "Sanders"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Gregory":  # 172 lần
-    vi: "Gregory"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Thompson":  # 150 lần
-    vi: "Thompson"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Paul":  # 148 lần
-    vi: "Paul"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Ludovic":  # 143 lần
-    vi: "Ludovic"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Serf":  # 142 lần
-    vi: "Serf"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Alex":  # 140 lần
-    vi: "Alex"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Antero":  # 130 lần
-    vi: "Antero"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Cassian":  # 128 lần
-    vi: "Cassian"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Robert":  # 124 lần
-    vi: "Robert"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Nimue":  # 116 lần
-    vi: "Nimue"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Athena":  # 115 lần
-    vi: "Athena"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Armel":  # 111 lần
-    vi: "Armel"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "cha của Quinie"
-  "Robald":  # 109 lần
-    vi: "Robald"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Frondier de Roach":  # 107 lần
-    vi: "Frondier de Roach"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "tên đầy đủ của nhân vật chính"
-  "Basileo":  # 106 lần
+  "Basileo":  # 434 lần
     vi: "Basileo"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Sale":  # 100 lần
-    vi: "Sale"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Notker":  # 98 lần
-    vi: "Notker"
+  "Marco":  # 417 lần
+    vi: "Marco"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Giotto":  # 94 lần
-    vi: "Giotto"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Revet":  # 94 lần
-    vi: "Revet"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "anh trai của Elodie"
-  "Ameline":  # 90 lần
-    vi: "Ameline"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Aster Evans":  # 88 lần
-    vi: "Aster Evans"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "tên đầy đủ của Aster"
-  "Cohen":  # 85 lần
-    vi: "Cohen"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Angus":  # 83 lần
-    vi: "Angus"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Isamaya":  # 81 lần
-    vi: "Isamaya"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Grobel":  # 74 lần
-    vi: "Grobel"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Jeremy":  # 74 lần
-    vi: "Jeremy"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Ria Lis":  # 70 lần
-    vi: "Ria Lis"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Marchosias":  # 69 lần
-    vi: "Marchosias"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Skyler":  # 69 lần
-    vi: "Skyler"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Hector":  # 67 lần
-    vi: "Hector"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "con trai của Ludwig, tên thật là Hector Von Urfa"
-  "Zenita":  # 64 lần
-    vi: "Zenita"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Aias":  # 63 lần
+  "Aias":  # 394 lần
     vi: "Aias"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Mizonas":  # 62 lần
-    vi: "Mizonas"
+  "Hagley":  # 393 lần
+    vi: "Hagley"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Ainen":  # 61 lần
-    vi: "Ainen"
+  "Ludovic":  # 384 lần
+    vi: "Ludovic"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Mei":  # 374 lần
+    vi: "Mei"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: "dạng nữ của Metamorp, tên được đặt bởi Frondier"
+  "Lunia":  # 359 lần
+    vi: "Lunia"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Arthur":  # 60 lần
-    vi: "Arthur"
+  "Arald":  # 353 lần
+    vi: "Arald"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Odin":  # 58 lần
+  "Athena":  # 353 lần
+    vi: "Athena"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Gregory":  # 350 lần
+    vi: "Gregory"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Pascal":  # 332 lần
+    vi: "Pascal"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Ludwig":  # 328 lần
+    vi: "Ludwig"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Aphrodite":  # 307 lần
+    vi: "Aphrodite"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Sylvain":  # 303 lần
+    vi: "Sylvain"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Laurie":  # 288 lần
+    vi: "Laurie"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Kraken":  # 281 lần
+    vi: "Kraken"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Heldre":  # 279 lần
+    vi: "Heldre"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Eden":  # 272 lần
+    vi: "Eden"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Heracles":  # 265 lần
+    vi: "Heracles"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Kora":  # 260 lần
+    vi: "Kora"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: "bán nhân, có dòng máu bạch hổ"
+  "Cain":  # 258 lần
+    vi: "Cain"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Esther":  # 249 lần
+    vi: "Esther"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Bartello":  # 245 lần
+    vi: "Bartello"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "tên đầy đủ là Bartello Tert, quốc vương"
+  "Merlin":  # 242 lần
+    vi: "Merlin"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Antero":  # 229 lần
+    vi: "Antero"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Zeus":  # 228 lần
+    vi: "Zeus"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Monty":  # 217 lần
+    vi: "Monty"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Charon":  # 201 lần
+    vi: "Charon"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Hela":  # 201 lần
+    vi: "Hela"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Thor":  # 200 lần
+    vi: "Thor"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Binkis":  # 197 lần
+    vi: "Binkis"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Sanders":  # 195 lần
+    vi: "Sanders"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Odin":  # 174 lần
     vi: "Odin"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Pros":  # 57 lần
-    vi: "Pros"
+  "Frondier de Roach":  # 165 lần
+    vi: "Frondier de Roach"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "tên đầy đủ của nhân vật chính"
+  "Ares":  # 163 lần
+    vi: "Ares"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Hector":  # 161 lần
+    vi: "Hector"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "con trai của Ludwig, tên thật là Hector Von Urfa"
+  "Thompson":  # 159 lần
+    vi: "Thompson"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Adolf":  # 55 lần
-    vi: "Adolf"
+  "Tyr":  # 154 lần
+    vi: "Tyr"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Rokbel":  # 53 lần
-    vi: "Rokbel"
+  "Paul":  # 152 lần
+    vi: "Paul"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Bart":  # 52 lần
-    vi: "Bart"
+  "Serf":  # 151 lần
+    vi: "Serf"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Jeanne":  # 52 lần
+  "Alex":  # 147 lần
+    vi: "Alex"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Colin":  # 145 lần
+    vi: "Colin"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Cassian":  # 141 lần
+    vi: "Cassian"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Sale":  # 137 lần
+    vi: "Sale"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Aster Evans":  # 136 lần
+    vi: "Aster Evans"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "tên đầy đủ của Aster"
+  "Robert":  # 135 lần
+    vi: "Robert"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Nimue":  # 127 lần
+    vi: "Nimue"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Vishnu":  # 125 lần
+    vi: "Vishnu"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Astaroth":  # 124 lần
+    vi: "Astaroth"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Jeanne":  # 120 lần
     vi: "Jeanne"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Anne":  # 48 lần
+  "Loki":  # 118 lần
+    vi: "Loki"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Armel":  # 117 lần
+    vi: "Armel"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "cha của Quinie"
+  "Glaukos":  # 116 lần
+    vi: "Glaukos"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Robald":  # 115 lần
+    vi: "Robald"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Zenita":  # 115 lần
+    vi: "Zenita"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Revet":  # 113 lần
+    vi: "Revet"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "anh trai của Elodie"
+  "Giotto":  # 104 lần
+    vi: "Giotto"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Notker":  # 104 lần
+    vi: "Notker"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Ria Lis":  # 96 lần
+    vi: "Ria Lis"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Arthur":  # 92 lần
+    vi: "Arthur"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Ameline":  # 91 lần
+    vi: "Ameline"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Cohen":  # 89 lần
+    vi: "Cohen"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Angus":  # 86 lần
+    vi: "Angus"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Bune":  # 86 lần
+    vi: "Bune"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Isamaya":  # 86 lần
+    vi: "Isamaya"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Jeremy":  # 81 lần
+    vi: "Jeremy"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Apollo":  # 79 lần
+    vi: "Apollo"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Grobel":  # 79 lần
+    vi: "Grobel"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Sigurd":  # 78 lần
+    vi: "Sigurd"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Skyler":  # 75 lần
+    vi: "Skyler"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Marchosias":  # 73 lần
+    vi: "Marchosias"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Father":  # 66 lần
+    vi: "Cha"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Mizonas":  # 64 lần
+    vi: "Mizonas"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Ainen":  # 63 lần
+    vi: "Ainen"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Hermes":  # 63 lần
+    vi: "Hermes"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Adolf":  # 57 lần
+    vi: "Adolf"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Baalzebub":  # 57 lần
+    vi: "Baalzebub"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Hera":  # 57 lần
+    vi: "Hera"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Daud":  # 56 lần
+    vi: "Daud"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "cha của Sybil"
+  "Fron":  # 56 lần
+    vi: "Frondier"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "tên thân mật của Frondier, gọi bởi Elodie"
+  "Rokbel":  # 54 lần
+    vi: "Rokbel"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Bart":  # 53 lần
+    vi: "Bart"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Telephos":  # 53 lần
+    vi: "Telephos"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Daisy":  # 52 lần
+    vi: "Daisy"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Anne":  # 50 lần
     vi: "Anne"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Khryselakatos":  # 50 lần
+    vi: "Khryselakatos"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Mother":  # 49 lần
+    vi: "Mẫu thân"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Roxy":  # 49 lần
+    vi: "Roxy"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Slevb":  # 48 lần
+    vi: "Slevb"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
@@ -441,128 +576,153 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Daud":  # 46 lần
-    vi: "Daud"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "cha của Sybil"
-  "Roxy":  # 46 lần
-    vi: "Roxy"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Slevb":  # 45 lần
-    vi: "Slevb"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Gary":  # 42 lần
-    vi: "Gary"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Metamorph":  # 42 lần
-    vi: "Metamorph"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "nhân vật phi giới tính, có thể biến đổi thành nam hoặc nữ, tùy bối cảnh"
-  "Hela":  # 39 lần
-    vi: "Hela"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Ares":  # 37 lần
-    vi: "Ares"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: ""
-  "Khryselakatos":  # 35 lần
-    vi: "Khryselakatos"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: ""
-  "Mom":  # 35 lần
+  "Mom":  # 47 lần
     vi: "Mẹ"
     gioitinh: ""
     ngoi3: ""
     ghichu: ""
-  "Amelie":  # 34 lần
-    vi: "Amelie"
+  "Eriboia":  # 45 lần
+    vi: "Eriboia"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Adela":  # 33 lần
-    vi: "Adela"
+  "Liberto":  # 45 lần
+    vi: "Liberto"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Evelina":  # 44 lần
+    vi: "Evelina"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Daisy":  # 33 lần
-    vi: "Daisy"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Ayas":  # 32 lần
-    vi: "Ayas"
+  "Lucifer":  # 44 lần
+    vi: "Lucifer"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Eden Hamelot":  # 32 lần
-    vi: "Eden Hamelot"
-    gioitinh: "nam"
+  "Metamorph":  # 44 lần
+    vi: "Metamorph"
+    gioitinh: ""
     ngoi3: ""
-    ghichu: "tên đầy đủ của Eden"
-  "Father":  # 32 lần
-    vi: "Cha"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Jei":  # 32 lần
-    vi: "Jei"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "tên trong tổ chức Manggot của Selena"
-  "Thor":  # 31 lần
-    vi: "Thor"
+    ghichu: "nhân vật phi giới tính, có thể biến đổi thành nam hoặc nữ, tùy bối cảnh"
+  "Gary":  # 43 lần
+    vi: "Gary"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Artemis":  # 30 lần
+  "Artemis":  # 42 lần
     vi: "Artemis"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Fron":  # 29 lần
-    vi: "Frondier"
-    gioitinh: "nam"
+  "Jei":  # 37 lần
+    vi: "Jei"
+    gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "tên thân mật của Frondier, gọi bởi Elodie"
-  "Aten Terst":  # 27 lần
-    vi: "Aten Terst"
+    ghichu: "tên trong tổ chức Manggot của Selena"
+  "Amelie":  # 36 lần
+    vi: "Amelie"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Penelope":  # 26 lần
+  "Lupina":  # 36 lần
+    vi: "Lupina"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Adela":  # 35 lần
+    vi: "Adela"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Eden Hamelot":  # 35 lần
+    vi: "Eden Hamelot"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "tên đầy đủ của Eden"
+  "Campe":  # 34 lần
+    vi: "Campe"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Mammon":  # 34 lần
+    vi: "Mammon"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Penelope":  # 34 lần
     vi: "Penelope"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Astaroth":  # 22 lần
-    vi: "Astaroth"
+  "Aten Terst":  # 32 lần
+    vi: "Aten Terst"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Sybil Forte":  # 30 lần
+    vi: "Sybil Forte"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: "tên đầy đủ của Sybil"
+  "Idun":  # 29 lần
+    vi: "Idun"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Beelzebub":  # 28 lần
+    vi: "Beelzebub"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
+  "Lazor":  # 28 lần
+    vi: "Lazor"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Medusa":  # 28 lần
+    vi: "Medusa"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Bruna":  # 26 lần
+    vi: "Bruna"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Philly Terst":  # 26 lần
+    vi: "Philly Terst"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Serf Daniel":  # 25 lần
+    vi: "Serf Daniel"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "King of Hell":  # 24 lần
+    vi: "Vua Địa Ngục"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Quinie de Viet":  # 24 lần
+    vi: "Quinie de Viet"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "tên đầy đủ của Quinie"
   "Dushang":  # 22 lần
     vi: "Dushang"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
+  "Ellen Evans":  # 22 lần
+    vi: "Ellen Evans"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: "tên đầy đủ củ aEllen"
   "Jacob":  # 22 lần
     vi: "Jacob"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "King of Hell":  # 22 lần
-    vi: "Vua Địa Ngục"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
@@ -576,8 +736,13 @@ nhan_vat:
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Serf Daniel":  # 21 lần
-    vi: "Serf Daniel"
+  "Vikar":  # 22 lần
+    vi: "Vikar"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Purpur":  # 21 lần
+    vi: "Purpur"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
@@ -586,14 +751,14 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Medusa":  # 20 lần
-    vi: "Mê Du Sa"
+  "Elodie de Inies Rishae":  # 20 lần
+    vi: "Elodie de Inies Rishae"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: ""
-  "Mother":  # 20 lần
-    vi: "Mẫu thân"
-    gioitinh: ""
+    ghichu: "tên đầy dủ của Elodie sau khi tức tỉnh thần tính"
+  "Medart":  # 20 lần
+    vi: "Medart"
+    gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
   "Olivier":  # 20 lần
@@ -601,101 +766,116 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Ellen Evans":  # 19 lần
-    vi: "Ellen Evans"
-    gioitinh: "nữ"
+  "Ortel":  # 20 lần
+    vi: "Ortel"
+    gioitinh: ""
     ngoi3: ""
-    ghichu: "tên đầy đủ củ aEllen"
-  "Medart":  # 19 lần
-    vi: "Medart"
+    ghichu: ""
+  "Prometheus":  # 20 lần
+    vi: "Prometheus"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Quinie de Viet":  # 19 lần
-    vi: "Quinie de Viet"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "tên đầy đủ của Quinie"
-  "Neil":  # 18 lần
+  "Neil":  # 19 lần
     vi: "Neil"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
+  "Azier de Roach":  # 18 lần
+    vi: "Azier de Roach"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "anh trai của Frondier"
+  "Durga":  # 18 lần
+    vi: "Durga"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Asmodeus":  # 17 lần
+    vi: "Asmodeus"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Hel":  # 17 lần
+    vi: "Hel"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: "tên khác của Hera, nữ thần fcai quản âm ti"
   "Kagris":  # 17 lần
     vi: "Kagris"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Liberto":  # 17 lần
-    vi: "Liberto"
+  "Neil Jack":  # 16 lần
+    vi: "Neil Jack"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Ortel":  # 17 lần
-    vi: "Ortel"
+  "Lunia Fricell":  # 15 lần
+    vi: "Lunia Fricell"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: "tên đầy đủ của Lunia"
+  "Student Frondier":  # 15 lần
+    vi: "Học sinh Frondier"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Aetius":  # 14 lần
+    vi: "Aetius"
     gioitinh: ""
     ngoi3: ""
     ghichu: ""
-  "Durga":  # 16 lần
-    vi: "Durga"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: ""
-  "Philly Terst":  # 16 lần
-    vi: "Philly Terst"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Elodie de Inies Rishae":  # 15 lần
-    vi: "Elodie de Inies Rishae"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "tên đầy dủ của Elodie sau khi tức tỉnh thần tính"
-  "Sybil Forte":  # 15 lần
-    vi: "Sybil Forte"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "tên đầy đủ của Sybil"
   "Alles":  # 14 lần
     vi: "Alles"
     gioitinh: ""
     ngoi3: ""
     ghichu: ""
-  "Lunia Fricell":  # 14 lần
-    vi: "Lunia Fricell"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "tên đầy đủ của Lunia"
-  "Neil Jack":  # 14 lần
-    vi: "Neil Jack"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Hera":  # 13 lần
-    vi: "Hera"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Lady of the Lake":  # 13 lần
-    vi: "Quý cô hồ nước"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Azier de Roach":  # 12 lần
-    vi: "Azier de Roach"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "anh trai của Frondier"
-  "Edwin von Behetorio":  # 12 lần
+  "Edwin von Behetorio":  # 14 lần
     vi: "Edwin von Behetorio"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: "tên đầy đủ của Edwin"
-  "Hel":  # 12 lần
-    vi: "Hel"
+  "Lady of the Lake":  # 14 lần
+    vi: "Quý cô hồ nước"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "tên khác của Hera, nữ thần fcai quản âm ti"
+    ghichu: ""
+  "Lilith":  # 13 lần
+    vi: "Lilith"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Ludwig von Urfa":  # 13 lần
+    vi: "Ludwig von Urfa"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Robald Lieff":  # 13 lần
+    vi: "Robald Lieff"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Agni":  # 12 lần
+    vi: "Agni (Apgnee)"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Atena":  # 12 lần
+    vi: "Atena"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Baldr":  # 12 lần
+    vi: "Baldr"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Enfer de Roach":  # 12 lần
+    vi: "Enfer de Roach"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "gia chủ của nhà Roach, cha của Frondier, Azir, chồng của Malia"
   "Homas":  # 12 lần
     vi: "Homas"
     gioitinh: "nam"
@@ -706,39 +886,9 @@ nhan_vat:
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Prometheus":  # 12 lần
-    vi: "Prometheus"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Shadow":  # 12 lần
-    vi: "Bóng tối"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Student Frondier":  # 12 lần
-    vi: "Học sinh Frondier"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Beelzebub":  # 11 lần
-    vi: "Beelzebub"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Heracles":  # 11 lần
-    vi: "Heracles"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Isiah":  # 11 lần
-    vi: "Isiah"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Robald Lieff":  # 11 lần
-    vi: "Robald Lieff"
-    gioitinh: "nam"
+  "Solomon":  # 11 lần
+    vi: "Solomon"
+    gioitinh: ""
     ngoi3: ""
     ghichu: ""
   "Byzant":  # 10 lần
@@ -746,9 +896,19 @@ nhan_vat:
     gioitinh: ""
     ngoi3: ""
     ghichu: ""
-  "Lucifer":  # 10 lần
-    vi: "Lucifer"
+  "Dier Aiger":  # 10 lần
+    vi: "Dier Eiger"
     gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Ludwig Urfa":  # 10 lần
+    vi: "Ludwig von Urfa"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Orthros":  # 10 lần
+    vi: "Orthros"
+    gioitinh: ""
     ngoi3: ""
     ghichu: ""
   "Quentin":  # 10 lần
@@ -756,44 +916,54 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Sandri":  # 10 lần
-    vi: "Sandri"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
-  "Vikar":  # 10 lần
-    vi: "Vikar"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Zeus":  # 10 lần
-    vi: "Zeus"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: ""
   "Andika":  # 9 lần
     vi: "Andika"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Hercules":  # 9 lần
-    vi: "Hercules"
+  "Cupid":  # 9 lần
+    vi: "Cupid"
     gioitinh: ""
     ngoi3: ""
     ghichu: ""
-  "Sigurd":  # 9 lần
-    vi: "Sigurd"
-    gioitinh: ""
+  "Malia de Roach":  # 9 lần
+    vi: "Malia de Roach"
+    gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Ludwig von Urfa":  # 8 lần
-    vi: "Ludwig von Urfa"
+  "Bartello Terst":  # 8 lần
+    vi: "Bartello Terst"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
+  "Chandra":  # 8 lần
+    vi: "Chandra"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Paladin Charon":  # 8 lần
+    vi: "Hiệp sĩ Charon"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Pascal Schlitz":  # 8 lần
+    vi: "Pascal Schlitz"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "tên đầy đủ của Pascal"
   "Piellot":  # 8 lần
     vi: "Piellot"
     gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Pielott von Ribanche":  # 8 lần
+    vi: "Pielott von Ribanche"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Andro":  # 7 lần
+    vi: "Andro"
+    gioitinh: ""
     ngoi3: ""
     ghichu: ""
   "Chancellor Osprey":  # 7 lần
@@ -801,64 +971,79 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Enfer de Roach":  # 7 lần
-    vi: "Enfer de Roach"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "gia chủ của nhà Roach, cha của Frondier, Azir, chồng của Malia"
   "Hugo":  # 7 lần
     vi: "Hugo"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Pielott von Ribanche":  # 7 lần
-    vi: "Pielott von Ribanche"
-    gioitinh: "nam"
+  "Kian":  # 7 lần
+    vi: "Kian"
+    gioitinh: ""
     ngoi3: ""
     ghichu: ""
-  "Bartello Terst":  # 6 lần
-    vi: "Bartello Terst"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Ludwig Urfa":  # 6 lần
-    vi: "Ludwig von Urfa"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Malia de Roach":  # 6 lần
-    vi: "Malia de Roach"
+  "Maria":  # 7 lần
+    vi: "Maria"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Pascal Schlitz":  # 6 lần
-    vi: "Pascal Schlitz"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "tên đầy đủ của Pascal"
-  "Roderick":  # 6 lần
+  "Roderick":  # 7 lần
     vi: "Roderick"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Solomon":  # 6 lần
-    vi: "Solomon"
-    gioitinh: ""
+  "Sandri":  # 7 lần
+    vi: "Sandri"
+    gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Warden Esther":  # 6 lần
+  "Warden Esther":  # 7 lần
     vi: "Quản ngục Esther"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Adam":  # 5 lần
-    vi: "Adam (khản giọng)"
+  "Azier Mk":  # 6 lần
+    vi: "Azier Mk"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "là 1 loại golem cơ khí ma pháp, không phải người hay quỷ"
+  "Chuk":  # 6 lần
+    vi: "Chuk"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Dier Eiger":  # 6 lần
+    vi: "Dier Eiger"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Paladin Antero":  # 6 lần
+    vi: "Hiệp sĩ Antero"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Paride":  # 6 lần
+    vi: "Paride"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Sister":  # 6 lần
+    vi: "Tên em gái"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Albaito":  # 5 lần
-    vi: "Albaito"
-    gioitinh: ""
+  "Aias di Achaea":  # 5 lần
+    vi: "Aias di Achaea"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Ameline von Ellis":  # 5 lần
+    vi: "Ameline von Ellis"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Bellerophon":  # 5 lần
+    vi: "Bellerophon"
+    gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
   "Berengar":  # 5 lần
@@ -871,14 +1056,14 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Dier Eiger":  # 5 lần
-    vi: "Dier Eiger"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
   "Gisele":  # 5 lần
     vi: "Gisele"
     gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Hector Dutoit":  # 5 lần
+    vi: "Hector Dutoit"
+    gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
   "Kaferi":  # 5 lần
@@ -886,34 +1071,14 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Kian":  # 5 lần
-    vi: "Kian"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: ""
-  "Lilith":  # 5 lần
-    vi: "Lilith"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: ""
   "Nether":  # 5 lần
     vi: "Nether"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Pierrot":  # 5 lần
-    vi: "Pierrot"
+  "Roderick Terst":  # 5 lần
+    vi: "Roderick Terst"
     gioitinh: "nam"
-    ngoi3: ""
-    ghichu: ""
-  "Seirra":  # 5 lần
-    vi: "Seirra"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: ""
-  "Ameline von Ellis":  # 4 lần
-    vi: "Ameline von Ellis"
-    gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
   "Armel de Viet":  # 4 lần
@@ -921,9 +1086,9 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: "tên đầy đủ của Armel"
-  "Asmodeus":  # 4 lần
-    vi: "Asmodeus"
-    gioitinh: ""
+  "Daisy Foster":  # 4 lần
+    vi: "Daisy Foster"
+    gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
   "Daud Forte":  # 4 lần
@@ -936,6 +1101,11 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: "tên đầy đủ của Dier (đúng là Eiger)"
+  "Edesion":  # 4 lần
+    vi: "Edesion"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
   "Edward":  # 4 lần
     vi: "Edward"
     gioitinh: "nam"
@@ -951,13 +1121,13 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Glutton of Chaos":  # 4 lần
-    vi: "Glutton of Chaos (Kẻ nuốt chửng hỗn loạn)"
+  "Frontier":  # 4 lần
+    vi: "Frontier"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Hector Dutoit":  # 4 lần
-    vi: "Hector Dutoit"
+  "Glutton of Chaos":  # 4 lần
+    vi: "Glutton of Chaos (Kẻ nuốt chửng hỗn loạn)"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
@@ -966,9 +1136,9 @@ nhan_vat:
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Maria":  # 4 lần
-    vi: "Maria"
-    gioitinh: "nữ"
+  "Ludovic de Fabre":  # 4 lần
+    vi: "Ludovic de Fabre"
+    gioitinh: ""
     ngoi3: ""
     ghichu: ""
   "Marlia":  # 4 lần
@@ -976,21 +1146,26 @@ nhan_vat:
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Mop":  # 4 lần
-    vi: "Mop"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: ""
   "R":  # 4 lần
     vi: "R"
     gioitinh: ""
     ngoi3: ""
     ghichu: ""
-  "Roderick Terst":  # 4 lần
-    vi: "Roderick Terst"
-    gioitinh: "nam"
+  "Revet de Rishae":  # 4 lần
+    vi: "Revet de Rishae"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "tên đầy đủ của Revet"
+  "Roland":  # 4 lần
+    vi: "Roland"
+    gioitinh: ""
     ngoi3: ""
     ghichu: ""
+  "Selena de Barnier":  # 4 lần
+    vi: "Selena de Barnier"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: "tên đầy đủ của Selena"
   "Serena":  # 4 lần
     vi: "Serena"
     gioitinh: "nữ"
@@ -1006,19 +1181,24 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Agni":  # 3 lần
-    vi: "Agni (Apgnee)"
+  "Woong":  # 4 lần
+    vi: "Woong"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Yor":  # 4 lần
+    vi: "Yor"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Alan":  # 3 lần
-    vi: "Alan"
+  "[Elodie.]":  # 4 lần
+    vi: "Elodie"
     gioitinh: ""
     ngoi3: ""
     ghichu: ""
-  "Alberto Montes":  # 3 lần
-    vi: "Alberto Montes"
-    gioitinh: ""
+  "[Frondier.]":  # 4 lần
+    vi: "Frondier"
+    gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
   "Angus Mason":  # 3 lần
@@ -1026,14 +1206,24 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Chandra":  # 3 lần
-    vi: "Chandra"
-    gioitinh: ""
+  "Armel Colt":  # 3 lần
+    vi: "Armel Colt"
+    gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Dier Aiger":  # 3 lần
-    vi: "Dier Eiger"
-    gioitinh: "nam"
+  "Atalante":  # 3 lần
+    vi: "Atalante"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Azzie":  # 3 lần
+    vi: "Azzie"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Belial":  # 3 lần
+    vi: "Belial"
+    gioitinh: ""
     ngoi3: ""
     ghichu: ""
   "Dutoit":  # 3 lần
@@ -1041,48 +1231,28 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Edesion":  # 3 lần
-    vi: "Edesion"
+  "Ecleksis Frondier":  # 3 lần
+    vi: "Ecleksis Frondier"
     gioitinh: ""
     ngoi3: ""
     ghichu: ""
-  "F-Frondier":  # 3 lần
-    vi: "Frondier"
+  "Elin":  # 3 lần
+    vi: "Elin"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Frontier":  # 3 lần
-    vi: "Frontier"
+  "Grandpa":  # 3 lần
+    vi: "Ông nội"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
-  "Geoffrey":  # 3 lần
-    vi: "Geoffrey"
+  "Jormy":  # 3 lần
+    vi: "Jormy"
     gioitinh: ""
     ngoi3: ""
     ghichu: ""
-  "Gingerth":  # 3 lần
-    vi: "Gingerth"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: ""
-  "Greg":  # 3 lần
-    vi: "Greg"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: ""
-  "GwhoisJ":  # 3 lần
-    vi: "GwhoisJ"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: ""
-  "Huy":  # 3 lần
-    vi: "Huy"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: ""
-  "I-I'm":  # 3 lần
-    vi: "Tôi"
+  "Jujak Oruem":  # 3 lần
+    vi: "Jujak Oruem"
     gioitinh: ""
     ngoi3: ""
     ghichu: ""
@@ -1096,9 +1266,14 @@ nhan_vat:
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "Mammon":  # 3 lần
-    vi: "Mammon"
+  "Medart de Thebes":  # 3 lần
+    vi: "Medart de Thebes"
     gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Meno":  # 3 lần
+    vi: "Meno"
+    gioitinh: ""
     ngoi3: ""
     ghichu: ""
   "Pascal Schilitz":  # 3 lần
@@ -1106,440 +1281,715 @@ nhan_vat:
     gioitinh: "nam"
     ngoi3: ""
     ghichu: "tên đầy đủ của Passcal"
+  "Perseus":  # 3 lần
+    vi: "Perseus"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Pielott di Ribanche":  # 3 lần
+    vi: "Pielott von Ribanche"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Purupuru":  # 3 lần
+    vi: "Purupuru"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
   "Quinnie":  # 3 lần
     vi: "Quinnie"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: ""
-  "RainEday":  # 3 lần
-    vi: "RainEday"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: ""
-  "Revet de Rishae":  # 3 lần
-    vi: "Revet de Rishae"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "tên đầy đủ của Revet"
-  "Selena de Barnier":  # 3 lần
+  "Selena de Vanier":  # 3 lần
     vi: "Selena de Barnier"
     gioitinh: "nữ"
     ngoi3: ""
     ghichu: "tên đầy đủ của Selena"
+  "Student Basileo":  # 3 lần
+    vi: "Học sinh Basileo"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
   "Theo de Blanc":  # 3 lần
     vi: "Theo de Blanc"
     gioitinh: "nam"
     ngoi3: ""
     ghichu: ""
+  "White Lion Hector":  # 3 lần
+    vi: "Bạch Sư Hector"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Zenita di Sandri":  # 3 lần
+    vi: "Zenita di Sandri"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Adam":
+    vi: "Adam (khản giọng)"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Alan":
+    vi: "Alan"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Albaito":
+    vi: "Albaito"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Alberto Montes":
+    vi: "Alberto Montes"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Ayas":
+    vi: "Ayas"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "F-Frondier":
+    vi: "Frondier"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "Geoffrey":
+    vi: "Geoffrey"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Gingerth":
+    vi: "Gingerth"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Greg":
+    vi: "Greg"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "GwhoisJ":
+    vi: "GwhoisJ"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Huy":
+    vi: "Huy"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "I-I'm":
+    vi: "Tôi"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Isiah":
+    vi: "Isiah"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Mop":
+    vi: "Mop"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Pierrot":
+    vi: "Pierrot"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: ""
+  "RainEday":
+    vi: "RainEday"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
+  "Seirra":
+    vi: "Seirra"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: ""
 
 kinh_ngu:
-  "Mr": "ông / anh / ngài"  # 114 lần
-  "Lord": "lãnh chúa"  # 113 lần
-  "Senior": "tiền bối"  # 113 lần
-  "Majesty": "Bệ hạ"  # 104 lần
-  "Lady": "tiểu thư / phu nhân (quý tộc)"  # 96 lần
-  "-nim": "ngài"  # 90 lần
-  "Miss": "tiểu thư"  # 57 lần
-  "Sir": "ngài"  # 39 lần
-  "Ms": "tiểu thư"  # 33 lần
-  "Highness": "Điện hạ"  # 28 lần
-  "Master": "chủ nhân / sư phụ (tùy ngữ cảnh)"  # 15 lần
-  "Madam": "phu nhân"  # 10 lần
-  "-ssi": "anh / chị / cô... lịch sự (có thể lược bỏ)"  # 7 lần
-  "Mrs": "phu nhân"  # 6 lần
-  "-sunbae": "tiền bối"  # 5 lần
+  "Lord": "lãnh chúa"  # 234 lần
+  "Senior": "tiền bối"  # 187 lần
+  "Mr": "ông / anh / ngài"  # 177 lần
+  "Lady": "tiểu thư / phu nhân (quý tộc)"  # 159 lần
+  "Majesty": "Bệ hạ"  # 147 lần
+  "-nim": "ngài"  # 108 lần
+  "Miss": "tiểu thư"  # 89 lần
+  "Sir": "ngài"  # 86 lần
+  "Ms": "tiểu thư"  # 52 lần
+  "Highness": "Điện hạ"  # 45 lần
+  "Master": "chủ nhân / sư phụ (tùy ngữ cảnh)"  # 16 lần
+  "Mister": "ông / anh"  # 12 lần
+  "Hyung": "anh"  # 10 lần
+  "Young Master": "thiếu gia"  # 10 lần
+  "-ssi": "anh / chị / cô... lịch sự (có thể lược bỏ)"  # 9 lần
+  "-sunbae": "tiền bối"  # 9 lần
+  "-sensei": "thầy / cô"  # 6 lần
+  "Madam": "phu nhân"
+  "Mrs": "phu nhân"
 
 danh_hieu:
-  "Zodiac": "Zodiac"  # 255 lần
-  "Emperor": "Hoàng đế"  # 167 lần
-  "Empress": "Hoàng hậu"  # 116 lần
-  "Headmaster": "hiệu trưởng"  # 102 lần
-  "Teacher": "thầy / cô (tùy giới tính)"  # 100 lần
-  "King": "Quốc vương"  # 59 lần
-  "Professor": "giáo sư"  # 37 lần
-  "Archmage": "Đại pháp sư"  # 34 lần
-  "Inies":  # 28 lần
+  "Zodiac": "Zodiac"  # 363 lần
+  "Emperor": "Hoàng đế"  # 178 lần
+  "Teacher": "thầy / cô (tùy giới tính)"  # 175 lần
+  "Empress": "Hoàng hậu"  # 137 lần
+  "Sloth": "Sloth (Sự Lười Biếng)"  # 135 lần
+  "Headmaster": "hiệu trưởng"  # 90 lần
+  "King": "Quốc vương"  # 71 lần
+  "Pros":  # 62 lần
+    vi: "Pros"
+    gioitinh: "nam"
+  "Paladin": "Thánh Hiệp Sĩ"  # 59 lần
+  "King of Demons": "Chúa Quỷ"  # 50 lần
+  "Archmage": "Đại pháp sư"  # 41 lần
+  "Legendary": "Huyền thoại"  # 37 lần
+  "Inies":  # 35 lần
     vi: "Inies"
     gioitinh: "nữ"
     ghichu: "danh hiệu của Elodie khi cô thức tỉnh thần tính"
-  "Princess": "Công chúa"  # 25 lần
+  "Professor": "giáo sư"  # 35 lần
+  "Principal": "hiệu trưởng"  # 33 lần
+  "Commander": "chỉ huy"  # 30 lần
+  "Princess": "Công chúa"  # 29 lần
   "Shepherds": "Lãnh đao"  # 25 lần
   "Human Sloth": "Con-lười-người"  # 21 lần
-  "Instructor": "giảng viên"  # 21 lần
-  "Commander": "chỉ huy"  # 20 lần
-  "Wizard": "Pháp Sư"  # 20 lần
-  "Majesty the Empress": "Nữ Hoàng Bệ Hạ"  # 19 lần
-  "Iron Wall": "Thiết Vách"  # 16 lần
+  "Majesty the Empress": "Nữ Hoàng Bệ Hạ"  # 21 lần
+  "Iron Wall": "Thiết Vách"  # 18 lần
+  "Nine": "Nine"  # 16 lần
+  "Common": "thường"  # 15 lần
+  "Wizard": "Pháp Sư"  # 14 lần
   "Joan of Arc": "Nữ anh hùng Jeanne d'Arc"  # 12 lần
-  "Paladin": "Thánh Hiệp Sĩ"  # 12 lần
   "Human Sloth Frondier": "Con-lười-người Frondier"  # 11 lần
-  "Legendary": "Huyền thoại"  # 9 lần
-  "Principal": "hiệu trưởng"  # 9 lần
-  "Senior Sloth":  # 9 lần
+  "Senior Sloth":  # 10 lần
     vi: "tiền bối Lười"
     gioitinh: "nam"
-  "Headmaster of Atlas": "Hiệu trưởng Atlas"  # 8 lần
-  "Headmistress": "hiệu trưởng"  # 8 lần
+  "Hope of Humanity": "Hy vọng của nhân loại"  # 9 lần
+  "Instructor": "giảng viên"  # 8 lần
+  "Primary God": "Thần Nguyên Thủy"  # 8 lần
   "Calamity of Metamorph": "Thảm họa Metamorph (Thảm họa Biến đổi)"  # 7 lần
+  "Captain": "đội trưởng"  # 7 lần
+  "Chancellor": "Hiệu trưởng"  # 7 lần
   "Devil King": "Chúa quỷ"  # 7 lần
-  "Weapon Master": "Bậc Thầy Vũ Khí"  # 7 lần
-  "Chancellor": "Hiệu trưởng"  # 6 lần
-  "Emperor of the Empire": "Hoàng Đế"  # 6 lần
-  "Imperial Knight": "Hiệp Sĩ Hoàng Gia"  # 6 lần
-  "Shepherds of Manggot": "Lãnh đạo Manggot"  # 6 lần
-  "Goddess of Wisdom": "Nữ thần Trí tuệ"  # 5 lần
-  "Lord Commander": "Tổng tư lệnh"  # 5 lần
-  "Manggot Shepherds": "Lãnh đạo Manggot"  # 5 lần
-  "Sage": "Đại pháp sư"  # 5 lần
-  "Shepherd of Manggot":  # 5 lần
+  "Shepherd of Manggot":  # 7 lần
     vi: "Lãnh đạo Manggot"
     gioitinh: "nữ"
-  "Captain": "đội trưởng"  # 4 lần
+  "Warden": "Người bảo vệ (Warden)"  # 7 lần
+  "Weapon Master": "Bậc Thầy Vũ Khí"  # 7 lần
+  "Emperor of the Empire": "Hoàng Đế"  # 6 lần
+  "Head of House": "Gia chủ"  # 6 lần
+  "Imperial Knight": "Hiệp Sĩ Hoàng Gia"  # 6 lần
+  "Manggot Shepherds": "Lãnh đạo Manggot"  # 6 lần
+  "Demon King": "Chúa Quỷ"  # 5 lần
+  "Headmaster of Constel": "Hiệu trưởng của Constel"  # 5 lần
+  "Hero": "Anh Hùng"  # 5 lần
+  "Legend": "Huyền thoại"  # 5 lần
+  "Lord Commander": "Tổng tư lệnh"  # 5 lần
+  "Shepherds of Manggot": "Lãnh đạo Manggot"  # 5 lần
+  "Sir Knight": "Hiệp Sĩ"  # 5 lần
   "Demon of Sloth": "Quỷ Lười Biếng"  # 4 lần
   "Devil of Sloth": "Quỷ Lười Biếng"  # 4 lần
   "Dike": "Thần Dike"  # 4 lần
-  "Headmaster of Constel": "Hiệu trưởng của Constel"  # 4 lần
+  "Director": "Giám đốc"  # 4 lần
+  "Empress of the Empire": "Hoàng hậu"  # 4 lần
+  "Grand Mage": "Đại Pháp Sư"  # 4 lần
+  "Imperial Majesty": "Hoàng đế điện hạ"  # 4 lần
+  "Iron Wall of the North": "Thiết Vách Phương Bắc"  # 4 lần
   "Librarian": "thủ thư"  # 4 lần
   "Lord of Roach": "Gia chủ Roach"  # 4 lần
-  "Sir Knight": "Hiệp Sĩ"  # 4 lần
-  "Dragon Slayer": "Sát long"  # 3 lần
-  "Empress of the Empire": "Hoàng hậu"  # 3 lần
-  "Hero": "Anh Hùng"  # 3 lần
-  "Iron Wall of the North": "Thiết Vách Phương Bắc"  # 3 lần
+  "Imperial Princess": "Đại Công chúa"  # 3 lần
   "Justice": "Công Lý"  # 3 lần
-  "Wordsmith": "Ngôn ngữ giả"  # 3 lần
+  "Lower-rank": "Hạng thấp"  # 3 lần
+  "PROs": "Chuyên nghiệp giả"  # 3 lần
+  "Shepherd": "Lãnh đạo"  # 3 lần
+  "Twelve Gods of Olympus": "Mười hai vị thần Olympus"  # 3 lần
+  "Twelve of Olympus": "Mười hai vị thần Olympus"  # 3 lần
+  "White Lion": "Bạch Sư"  # 3 lần
   "Young Lord": "Thiếu chủ"  # 3 lần
+  "Dragon Slayer": "Sát long"
+  "Goddess of Wisdom": "Nữ thần Trí tuệ"
+  "Headmaster of Atlas": "Hiệu trưởng Atlas"
+  "Headmistress": "hiệu trưởng"
+  "Sage": "Đại pháp sư"
+  "Wordsmith": "Ngôn ngữ giả"
 
 dia_danh:
-  "Constel": "Constel"  # 1073 lần
-  "Imperial Palace": "Hoàng cung"  # 327 lần
-  "Tyburn": "Tyburn"  # 222 lần
-  "Yeranhes": "Yeranhes"  # 85 lần
-  "Agoris": "Lục địa Agoris"  # 78 lần
-  "Demon Realm": "Quỷ giới"  # 68 lần
-  "Achaea": "Achaea"  # 58 lần
-  "Morion": "Morion"  # 51 lần
+  "Constel": "Constel"  # 1149 lần
+  "Imperial Palace": "Hoàng cung"  # 346 lần
+  "Tyburn": "Tyburn"  # 263 lần
+  "Agoris": "Lục địa Agoris"  # 234 lần
+  "Palma": "Palma"  # 170 lần
+  "Demon Realm": "Quỷ giới"  # 150 lần
+  "Falind": "Lục địa Falind"  # 142 lần
+  "Yeranhes": "Yeranhes"  # 92 lần
+  "Yggdrasil": "Yggdrasil"  # 84 lần
+  "Olympus": "Olympus"  # 81 lần
+  "Achaea": "Achaea"  # 75 lần
+  "Nastrond": "Nastrond"  # 57 lần
+  "Asgard": "Asgard"  # 56 lần
+  "Morion": "Morion"  # 52 lần
+  "Tartarus": "Tartarus"  # 47 lần
   "Cropolis": "Cropolis"  # 45 lần
-  "Falind": "Lục địa Falind"  # 42 lần
-  "Nastrond": "Nastrond"  # 18 lần
-  "Outside": "Bên ngoài (Outside)"  # 17 lần
+  "Machia": "Machia"  # 37 lần
+  "King of Palma": "Vương quốc Palma"  # 28 lần
+  "Niflheim": "Niflheim"  # 27 lần
+  "Bifrost": "Cầu Bifrost"  # 24 lần
+  "Imperial Armory": "Kho Vũ Khí Hoàng Gia"  # 21 lần
+  "Edrium": "Edrium"  # 19 lần
+  "Hell": "Địa ngục"  # 19 lần
+  "Sacred Forest": "Thánh Lâm"  # 17 lần
   "Terst Department Store": "Trung tâm mua sắm Terst"  # 17 lần
   "West": "Tây (phía Tây)"  # 17 lần
-  "Sacred Forest": "Thánh Lâm"  # 14 lần
-  "Machia": "Machia"  # 10 lần
-  "Olympus": "Olympus"  # 9 lần
-  "Palma": "Palma"  # 9 lần
-  "Imperial Armory": "Kho Vũ Khí Hoàng Gia"  # 8 lần
+  "Trojan War": "Cuộc chiến thành Troy"  # 15 lần
+  "Nine Worlds": "Cửu giới"  # 13 lần
+  "Naglfar": "Naglfar"  # 10 lần
+  "Barrier": "Tường thành"  # 9 lần
   "Lokhiera": "Lokhiera"  # 8 lần
   "Miller": "Miller"  # 8 lần
+  "Arkre": "Thành phố Arkre"  # 7 lần
   "Constel Academy": "Học viện Constel"  # 7 lần
+  "Kingdom of Palma": "Vương quốc Palma"  # 7 lần
   "Krasmere": "Krasmere"  # 7 lần
-  "Agoris Continent": "Lục địa Agoris"  # 6 lần
-  "Arkre": "Thành phố Arkre"  # 6 lần
-  "Asgard": "Asgard"  # 6 lần
+  "Palma City": "Thành phố Palma"  # 7 lần
+  "Tyburn Barrier": "Tường thành Tyburn"  # 7 lần
   "Mage Tower": "Ma Tháp"  # 6 lần
+  "Milky Way": "Đại lộ Ngân Hà"  # 6 lần
+  "Parthenon Temple": "Đền Parthenon"  # 6 lần
   "River Lethe": "Sông Lethe"  # 6 lần
   "Western": "Viễn Tây"  # 6 lần
-  "Milky Way": "Đại lộ Ngân Hà"  # 5 lần
-  "Akaia": "Gia tộc Akaia"  # 4 lần
+  "Howald": "Howald"  # 5 lần
+  "Red Land": "Đất Đỏ"  # 5 lần
+  "Wall": "Tường thành"  # 5 lần
   "Casian": "Cassian"  # 4 lần
-  "Niflheim": "Niflheim"  # 4 lần
+  "Hades": "Hades"  # 4 lần
+  "Portals": "Điểm dịch chuyển"  # 4 lần
   "Remuze Museum": "Bảo tàng Remuze"  # 4 lần
   "Valhalla": "Valhalla"  # 4 lần
+  "Abyss": "Vực Thẳm (Abyss)"  # 3 lần
   "Avril": "Avril (Gia tộc Avril)"  # 3 lần
   "Babia": "Babia"  # 3 lần
-  "Edrium": "Edrium"  # 3 lần
-  "Howald": "Howald"  # 3 lần
-  "Red Land": "Đất Đỏ"  # 3 lần
+  "Gladsheim": "Gladsheim"  # 3 lần
+  "Morion Prison": "Nhà tù Morion"  # 3 lần
+  "Mount Olympus": "Đỉnh Olympus"  # 3 lần
+  "Obsidian Prison": "Nhà tù Obsidian"  # 3 lần
   "Roach Mansion": "Biệt thự Roach"  # 3 lần
   "Silvester": "Silvester"  # 3 lần
-  "Tartarus": "Tartarus"  # 3 lần
+  "Agoris Continent": "Lục địa Agoris"
+  "Akaia": "Gia tộc Akaia"
 
 to_chuc:
-  "Empire": "Đế quốc"  # 844 lần
-  "Manggot": "Manggot"  # 757 lần
-  "Indus":  # 394 lần
+  "Empire": "Đế quốc"  # 1029 lần
+  "Manggot": "Manggot"  # 859 lần
+  "Indus":  # 400 lần
     vi: "Indus"
     ghichu: "một tổ chức bất hợp pháp, lợi dụng sự tín nhiệm của ngườ dân để âm mưu lật đổ đế quốc"
-  "Roach":  # 239 lần
-    vi: "nhà Roach"
-    gioitinh: "nam"
+  "Zodiacs": "các Zodiac"  # 301 lần
+  "Roach":  # 270 lần
+    vi: "Roach"
     ghichu: "Roach là họ, là gia tộc của Frondier, Azir, Enfer, Malia"
-  "Zodiacs": "các Zodiac"  # 184 lần
-  "Shadow Unit": "Ám đội"  # 179 lần
-  "Atlas": "Atlas"  # 112 lần
-  "Hitchcock": "Hitchcock"  # 77 lần
-  "Imperial": "Triều Đình Hoàng Gia"  # 50 lần
-  "Ednet": "Ednet"  # 38 lần
-  "Viet":  # 38 lần
+  "Atlas": "Atlas"  # 232 lần
+  "Shadow Unit": "Ám đội"  # 182 lần
+  "Hitchcock": "Hitchcock"  # 86 lần
+  "Paladins": "Đội Thánh Hiệp Sĩ"  # 51 lần
+  "Ednet": "Ednet"  # 43 lần
+  "Roach Knights": "Hiệp Sĩ Roach"  # 41 lần
+  "Viet":  # 41 lần
     vi: "nhà Viet"
     gioitinh: "nữ"
-  "Roach Knights": "Hiệp Sĩ Roach"  # 37 lần
-  "Class": "Lớp"  # 33 lần
-  "Rishae":  # 31 lần
+  "Terst Empire": "Đế quốc Terst"  # 33 lần
+  "Class": "Lớp"  # 31 lần
+  "Rishae":  # 30 lần
     vi: "nhà Rishae"
     ghichu: "gia tộc Rishae"
-  "Shroud": "Shroud"  # 24 lần
-  "Terst Empire": "Đế quốc Terst"  # 24 lần
-  "Shroud Knights": "Hiệp Sĩ Shroud"  # 18 lần
-  "Barnier": "nhà Barnier"  # 17 lần
-  "Knights": "đội Hiệp Sĩ"  # 17 lần
-  "Phenomenon": "Phenomenon"  # 14 lần
-  "Urfa": "Urfa"  # 13 lần
-  "Yeolgot": "Yeolgot"  # 12 lần
-  "Imperial Knights": "Đội Hiệp Sĩ Hoàng Gia"  # 11 lần
-  "October": "October"  # 10 lần
-  "Terst":  # 10 lần
+  "Ahop": "Ahop"  # 27 lần
+  "Shroud": "Shroud"  # 26 lần
+  "Shroud Knights": "Hiệp Sĩ Shroud"  # 21 lần
+  "House Roach": "nhà Roach"  # 19 lần
+  "Barnier": "nhà Barnier"  # 18 lần
+  "Knights": "đội Hiệp Sĩ"  # 18 lần
+  "Terst":  # 17 lần
     vi: "Terst"
     gioitinh: "nam"
     ghichu: "Dòng họ hoàng gia"
-  "Roach Knight Order": "Hiệp Sĩ Roach"  # 9 lần
-  "Knight Order": "Đội Hiệp Sĩ"  # 8 lần
-  "Ellis": "Gia tộc Ellis"  # 7 lần
-  "Shadow Agency": "Shadow Agency"  # 7 lần
-  "Ambu": "Ám bộ"  # 6 lần
-  "Behetorio":  # 6 lần
+  "Shadow":  # 16 lần
+    vi: "Ám đội"
+    ghichu: "gọi tắt của Shadow Unit (Ám đội)"
+  "Phenomenon": "Phenomenon"  # 15 lần
+  "Yeolgot": "Yeolgot"  # 15 lần
+  "Urfa": "Urfa"  # 14 lần
+  "Dark Division": "Đội quân Bóng tối"  # 12 lần
+  "Roach Knight Order": "Hiệp Sĩ Roach"  # 12 lần
+  "Seventy-Two Demons": "Thập Nhị Quỷ Vương"  # 12 lần
+  "Imperial Knights": "Đội Hiệp Sĩ Hoàng Gia"  # 11 lần
+  "October": "October"  # 11 lần
+  "Behetorio":  # 9 lần
     vi: "nhà Behetorio"
     gioitinh: "nam"
-  "Evans":  # 6 lần
+  "Yeolgots": "Yeolgot"  # 9 lần
+  "Knight Order": "Đội Hiệp Sĩ"  # 8 lần
+  "Ellis": "Gia tộc Ellis"  # 7 lần
+  "Evans":  # 7 lần
     vi: "nhà Evans"
     ghichu: "họ của Aster, Ellen"
+  "Shadow Agency": "Shadow Agency"  # 7 lần
+  "Ambu": "Ám bộ"  # 6 lần
   "House of Vanier": "nhà Vanier"  # 6 lần
+  "Norn": "Norn"  # 6 lần
+  "Shadows": "Bóng tối"  # 6 lần
+  "War Combined Training": "Huấn luyện Chiến tranh thực chiến"  # 6 lần
+  "Weapon Combined Use": "Sử dụng kết hợp Vũ khí"  # 6 lần
   "House": "nhà (gia tộc)"  # 5 lần
-  "Imperial Family": "Hoàng tộc"  # 5 lần
+  "House of Achaea": "nhà Achaea"  # 5 lần
   "Knight Commander": "Chỉ huy hiệp sĩ"  # 5 lần
   "Mangott": "Mangott"  # 5 lần
-  "Paladins": "Đội Thánh Hiệp Sĩ"  # 5 lần
   "Shroud Knight Order": "Đội Hiệp Sĩ Shround"  # 5 lần
   "Unit": "Đội"  # 5 lần
   "Empire Shadow Unit": "Ám đội"  # 4 lần
+  "Four Knights": "Tứ Hiệp Sĩ"  # 4 lần
   "Hitchcock Company": "Công ty Hitchcock"  # 4 lần
-  "Ribanche": "nhà Ribanche"  # 4 lần
+  "Imperial Family": "Hoàng tộc"  # 4 lần
+  "Seventy-Two": "72"  # 4 lần
   "Student Council President": "Hội trưởng Hội Học Sinh"  # 4 lần
   "Viet Trading Company": "Công ty Thương mại Viet"  # 4 lần
-  "Academy": "Học Viện"  # 3 lần
-  "House Roach": "nhà Roach"  # 3 lần
+  "Group B": "Nhóm B"  # 3 lần
+  "House Ribanche": "nhà Ribanche"  # 3 lần
+  "House of Roach": "nhà Roach"  # 3 lần
+  "Norns": "Norns"  # 3 lần
   "President": "Hội trưởng"  # 3 lần
   "Secret Service": "Dịch vụ Bí mật"  # 3 lần
   "Shepherds of the Round Table": "Những lãnh đạo Bàn Tròn"  # 3 lần
+  "Academy": "Học Viện"
+  "Ribanche": "nhà Ribanche"
 
 vu_khi:
-  "Excalibur": "Excalibur"  # 171 lần
-  "Mj": "Mjöllnir (Mjölnir)"  # 168 lần
-  "Gram": "Gram"  # 88 lần
-  "Spears": "Đao (Spears)"  # 9 lần
-  "Viper": "Viper steel"  # 7 lần
-  "Trident": "Tridente"  # 6 lần
+  "Mjölnir": "Mjölnir"  # 278 lần
+  "Excalibur": "Excalibur"  # 234 lần
+  "Gram": "Gram"  # 122 lần
+  "Trident": "Tridente"  # 26 lần
+  "Shield": "Khiên"  # 12 lần
+  "Excaliburs": "Excalibur"  # 10 lần
+  "Spear": "thương"  # 10 lần
+  "Spears": "thương"  # 10 lần
+  "Viper": "Viper steel"  # 8 lần
+  "Spear of Black Lightning": "Hắc Lôi thương"  # 7 lần
+  "Gungnir": "Gungnir"  # 6 lần
+  "Iokheira": "Iokheira"  # 6 lần
+  "Alpha": "Alpha"  # 5 lần
   "Exo": "Exo"  # 4 lần
+  "Beta": "Beta"  # 3 lần
   "Eternal Edge": "Lưỡi kiếm vĩnh cửu (Eternal Edge)"  # 3 lần
-  "Iokheira": "Iokheira"  # 3 lần
   "Kyriothites": "Kyriothites"  # 3 lần
+  "Mj": "Mjöllnir (Mjölnir)"
 
 ky_nang:
-  "Weaving": "Sao chép"  # 211 lần
-  "Aura": "Aura"  # 124 lần
-  "Falling": "Falling Edge"  # 46 lần
-  "Falling Edge": "Falling Edge"  # 44 lần
-  "Description": "Mô tả"  # 33 lần
-  "Rafflesia": "Rafflesia"  # 26 lần
-  "Flash": "thiểm"  # 24 lần
-  "Restoration": "Phục hồi"  # 21 lần
-  "Charm": "Mê hoặc"  # 19 lần
-  "Shadow Transfer": "Dịch chuyển bóng"  # 16 lần
-  "Sixth Sense": "Giác quan thứ 6"  # 14 lần
-  "Analyze": "Phân tích"  # 13 lần
+  "Weaving": "Sao chép"  # 445 lần
+  "Aura": "Aura"  # 159 lần
+  "Flash": "thiểm"  # 114 lần
+  "Falling": "Falling Edge"  # 53 lần
+  "Falling Edge": "Falling Edge"  # 52 lần
+  "Description": "Mô tả"  # 43 lần
+  "Combat Combined": "Kết hợp Chiến đấu và Ma thuật"  # 34 lần
+  "Charm": "Mê hoặc"  # 32 lần
+  "Restoration": "Phục hồi"  # 31 lần
+  "Rafflesia": "Rafflesia"  # 28 lần
+  "Slash": "Chém ngang"  # 28 lần
+  "Shadow Transfer": "Dịch chuyển bóng"  # 23 lần
+  "Sixth Sense": "Giác quan thứ 6"  # 23 lần
+  "Hellfire": "Hỏa ngục"  # 21 lần
+  "Will-o’-the-Wisp": "Lửa ma trơi Will-o'-Wisp"  # 20 lần
+  "Aster One Flash": "Nhất thiểm"  # 18 lần
+  "Nakjang": "Nakjang"  # 18 lần
+  "Blink": "Blink"  # 17 lần
+  "Analyze": "Phân tích"  # 16 lần
+  "Chain Lightning": "Chain Lightning"  # 15 lần
+  "Gathering Wind": "Gió Tụ"  # 15 lần
+  "Fire": "Lửa (Fire)"  # 13 lần
+  "Four-Element Combination": "Tổ hợp tứ nguyên"  # 13 lần
+  "Ten": "Mười"  # 12 lần
+  "Frondier Black Thread": "Sợi Đen"  # 11 lần
+  "Fallen Spear": "Fallen Spear"  # 10 lần
+  "Falling Rain": "Falling Rain"  # 10 lần
+  "Whisper of the Wind": "Thi ca của Gió"  # 9 lần
+  "Bombing": "Oanh tạc"  # 8 lần
   "Sense Sharing": "Chia sẻ Giác quan"  # 8 lần
-  "Whisper of the Wind": "Thi ca của Gió"  # 8 lần
-  "Bombing": "Oanh tạc"  # 7 lần
-  "Gather Wind": "Gió Tụ"  # 7 lần
   "Mana Care": "Hồi phục mana"  # 7 lần
-  "Eyes": "Mắt"  # 6 lần
-  "Mana Detection": "Phát Hiện Mana"  # 6 lần
+  "Skill": "Kỹ Năng"  # 7 lần
+  "Wind Whisper": "Lời thì thầm của gió"  # 7 lần
+  "Diagonal Cut": "Chém xéo"  # 6 lần
+  "Throw": "Ném"  # 6 lần
+  "Throwing": "Ném"  # 6 lần
   "Auras": "Aura"  # 5 lần
-  "Gathering Wind Arrow": "Mũi tên gió tụ"  # 5 lần
-  "Throw": "Ném"  # 5 lần
-  "Throwing": "Ném"  # 5 lần
-  "Aster One Flash": "Nhất thiểm"  # 4 lần
+  "Enhancement": "Tăng cường"  # 5 lần
+  "Weave": "Dệt (Weave)"  # 5 lần
+  "Allure": "Hấp Dẫn (Allure)"  # 4 lần
   "Basic Combat Skills": "Kỹ Năng Chiến Đấu Cơ Bản"  # 4 lần
-  "Enhancement": "Tăng cường"  # 4 lần
+  "Black Thread Frondier": "Sợi Đen"  # 4 lần
+  "Control": "Kiểm Soát (Control)"  # 4 lần
+  "Curse of Sloth": "Lời Nguyền Lười Biếng (Curse of Sloth)"  # 4 lần
+  "Double": "Kép"  # 4 lần
+  "Flame Spell": "Bùng Cháy"  # 4 lần
+  "Guaranteed Hit": "Đòn đánh được đảm bảo"  # 4 lần
+  "Jujak Ascent": "Thăng Tiến Jujak"  # 4 lần
   "Named": "Named', kỹ năng đặc biệt"  # 4 lần
+  "Short Step": "Bước Ngắn"  # 4 lần
+  "Simultaneous": "Đồng Thời"  # 4 lần
   "Storm Poetry": "Bão Tố thi ca"  # 4 lần
+  "Technique": "Kỹ thuật"  # 4 lần
+  "Aster-like": "Aster-like"  # 3 lần
   "Azier Falling": "Falling Edge"  # 3 lần
+  "Bottom": "Từ trên xuống"  # 3 lần
+  "Chase": "Đuổi theo"  # 3 lần
+  "Crossfire Barrage": "Đạn mưa chéo"  # 3 lần
+  "Defense": "Phòng thủ"  # 3 lần
+  "Dual": "Song Kiếm"  # 3 lần
   "Duplication": "Sao chép"  # 3 lần
-  "Flame Spell": "Bùng Cháy"  # 3 lần
-  "Form": "Form"  # 3 lần
+  "Flutter": "Vỗ Bay"  # 3 lần
+  "Ground-Shrinking": "Thu nhỏ đất"  # 3 lần
+  "Impact": "Tác động (Impact)"  # 3 lần
+  "Inferno": "Hỏa ngục (Inferno)"  # 3 lần
   "Instantaneous Weaving": "Sao chép tức thời"  # 3 lần
-  "Mana Barrier": "Rào Cản Mana (Mana Barrier)"  # 3 lần
+  "Mana Barrier": "Lá chắn Mana (Mana Barrier)"  # 3 lần
+  "Mana Detection": "Phát Hiện Mana"  # 3 lần
   "Shadow Transference": "Dịch chuyển bóng"  # 3 lần
-  "Skill": "Kỹ Năng"  # 3 lần
+  "Sure-Hit": "Đòn tất trúng"  # 3 lần
+  "Verse": "Verse (Khúc)"  # 3 lần
   "Whispers of the Wind": "Thi ca của Gió"  # 3 lần
-  "Will-o'-the-Wisp": "Quả cầu ánh sáng Will-o'-Wisp"  # 3 lần
+  "Gather Wind": "Gió Tụ"
+  "Gathering Wind Arrow": "Mũi tên gió tụ"
+  "One Flash": "Nhất thiểm"
+  "Will-o'-the-Wisp": "Lửa ma trơi Will-o'-Wisp"
 
 vat_pham:
-  "Obsidian": "hắc diện thạch"  # 419 lần
-  "Dragon Heart": "Long Tâm"  # 220 lần
-  "Menosorpo": "Menosorpo"  # 159 lần
-  "Mistilteinn": "Mistilteinn"  # 81 lần
-  "Black Lotus": "Hắc Lệ"  # 44 lần
+  "Obsidian": "hắc diện thạch"  # 436 lần
+  "Menosorpo": "Menosorpo"  # 278 lần
+  "Dragon Heart": "Long Tâm"  # 254 lần
+  "Black Thread": "Dây Tơ Đen"  # 231 lần
+  "Mistilteinn": "Mistilteinn"  # 155 lần
+  "Golden Apple": "Táo Vàng"  # 84 lần
+  "Black Lotus": "Hắc Lệ"  # 46 lần
+  "Enkephalos": "Enkephalos"  # 38 lần
+  "Gleipnir": "Gleipnir"  # 30 lần
+  "Lynotoros": "Khiên Lynotoros"  # 29 lần
+  "Astrape": "Astrape"  # 26 lần
   "Dragonheart": "Long Tâm"  # 26 lần
-  "Viper Steel": "Viper Steel"  # 24 lần
-  "Fragment of Helheim": "Mảnh vỡ Helheim (Fragment of Helheim)"  # 17 lần
-  "Fabric of Penelope": "mảnh vải của Penelope"  # 16 lần
+  "Viper Steel": "Viper Steel"  # 26 lần
+  "Fragment of Helheim": "Mảnh vỡ Helheim (Fragment of Helheim)"  # 18 lần
+  "Fabric of Penelope": "mảnh vải của Penelope"  # 17 lần
+  "WizardGram": "WizardGram"  # 14 lần
   "Mistletoe": "Mistletoe"  # 13 lần
-  "Wisp": "Ngọn Lửa Tinh Thần (Wisp)"  # 13 lần
-  "Lynotoros": "Khiên Lynotoros"  # 11 lần
-  "WizardGram": "WizardGram"  # 10 lần
+  "Wisp": "Lửa ma trơi Will-o'-Wisp"  # 13 lần
+  "Jeong": "Jeong"  # 12 lần
+  "Prototypes": "Nguyên mẫu"  # 9 lần
   "SagePhone": "SagePhone"  # 9 lần
+  "Iokeira": "Iokeira"  # 8 lần
   "Sagephone": "Sagephone"  # 8 lần
-  "Enkephalos": "Enkephalos"  # 6 lần
-  "Pegasus": "Pegasus"  # 6 lần
-  "Magic Tool": "Công Cụ Ma Thuật"  # 5 lần
+  "Heart": "Tâm"  # 7 lần
+  "Pegasus": "Pegasus"  # 7 lần
   "Mana of Helheim": "Mana Helheim"  # 5 lần
-  "Heart": "Tâm"  # 4 lần
-  "Black Thread": "Dây Tơ Đen"  # 3 lần
-  "Iokeira": "Iokeira"  # 3 lần
+  "Hestia Hearth": "Lò Sưởi Hestia (Hestia Hearth)"  # 4 lần
+  "Ambrosia": "Ambroia (Nectar)"  # 3 lần
+  "Chrysaor": "Cung Chrysaor"  # 3 lần
+  "Nectar": "Nectar"  # 3 lần
   "Weaving Dragon Heart": "Long Tâm - Rep"  # 3 lần
+  "Magic Tool": "Công Cụ Ma Thuật"
 
 chung_toc:
-  "Poseidon": "Poseidon (Thần Poseidon)"  # 95 lần
-  "Sloth": "Sloth (Sự Lười Biếng)"  # 87 lần
-  "Devils": "Quỷ tộc"  # 59 lần
-  "Cyclops": "Cyclops (Người khổng lồ một mắt)"  # 50 lần
-  "Humans": "Loài người"  # 36 lần
-  "Monsters": "Quái Vật"  # 28 lần
-  "White Tiger": "Bạch Hổ"  # 26 lần
-  "Norse": "Norse"  # 25 lần
-  "Greek": "Hy Lạp"  # 18 lần
-  "Minotaur": "Minotaur"  # 18 lần
-  "Chimera": "Chimera"  # 15 lần
-  "Demons": "Quỷ"  # 14 lần
+  "Poseidon": "Poseidon (Thần Poseidon)"  # 473 lần
+  "Demons": "Quỷ"  # 187 lần
+  "Jormungandr": "Jormungandr"  # 114 lần
+  "Fenrir": "Fenrir"  # 112 lần
+  "Humans": "Loài người"  # 77 lần
+  "Devils": "Quỷ tộc"  # 58 lần
+  "Cyclops": "Cyclops (Người khổng lồ một mắt)"  # 53 lần
+  "Giants":  # 39 lần
+    vi: "Người khổng lồ/Huyền thoại"
+    ghichu: "vừa đề cập tới chủng tộc, vừa là tên gọi khác của các vị anh hùng chống lại thần"
+  "Monsters": "Quái Vật"  # 36 lần
+  "Greek": "Hy Lạp"  # 35 lần
+  "Norse": "Norse"  # 35 lần
+  "Minotaur": "Minotaur"  # 34 lần
+  "Nidhogg": "Nidhogg"  # 30 lần
+  "Ortos": "Ortos"  # 28 lần
+  "White Tiger": "Bạch Hổ"  # 25 lần
+  "Chimera": "Chimera"  # 16 lần
+  "Devil": "Quỷ"  # 14 lần
+  "Minotaurs": "Minotaur"  # 14 lần
+  "Demon": "Quỷ"  # 13 lần
   "Vala": "Vala"  # 13 lần
-  "Minotaurs": "Minotaur"  # 9 lần
-  "Red Bear": "Gấu Đỏ"  # 8 lần
-  "Devil": "Quỷ"  # 7 lần
-  "Ratmen": "Ratmen"  # 6 lần
+  "Olympian": "Thần Olympus"  # 11 lần
+  "Giant":  # 9 lần
+    vi: "Người khổng lồ/Huyền thoại"
+    ghichu: "vừa đề cập tới chủng tộc, vừa là tên gọi khác của các vị anh hùng chống lại thần"
+  "Indra": "Indra"  # 9 lần
+  "Red Bear": "Gấu Đỏ"  # 9 lần
+  "Five": "Năm"  # 8 lần
+  "Golem": "Golem"  # 7 lần
+  "Pururpur": "Pururpur"  # 7 lần
+  "Ratmen": "Ratmen"  # 7 lần
   "Seven Great Demons": "Bảy Chúa Quỷ"  # 5 lần
-  "Five": "Năm"  # 4 lần
-  "Indra": "Indra"  # 4 lần
+  "Abyssal": "Vực Thẳm (Abyssal)"  # 4 lần
+  "Golems": "Golems"  # 4 lần
+  "Leviathan": "Leviathan"  # 4 lần
   "Lich": "Lich"  # 4 lần
-  "V": "Völva / Vala"  # 4 lần
+  "Tiyachi": "Tiyachi"  # 4 lần
   "Chimeras": "Chimera"  # 3 lần
-  "Golem": "Golem"  # 3 lần
-  "Golems": "Golems"  # 3 lần
   "Mage": "Pháp Sư (Mage)"  # 3 lần
+  "Titans": "Người khổng lồ Titan"  # 3 lần
 
 thuat_ngu:
-  "Belphegor": "Belphegor"  # 546 lần
-  "Mana": "Mana"  # 508 lần
-  "Satan": "Satan"  # 337 lần
-  "Ko-fi": "Ko-fi"  # 161 lần
-  "Bonus": "Bonus"  # 158 lần
-  "Etius": "Etius"  # 133 lần
-  "Helheim": "Helheim"  # 130 lần
-  "God": "Thần"  # 116 lần
-  "Pandemonium": "Pandemonium"  # 83 lần
-  "Hephaestus": "Hephaestus"  # 74 lần
-  "D": "D (Mô hình 3D)"  # 73 lần
-  "Gods": "Các Vị Thần"  # 72 lần
-  "Ancient Language": "Cổ Ngữ (Ancient Language)"  # 70 lần
-  "Workshop": "Xưởng (Workshop)"  # 66 lần
-  "Baldur": "Baldur"  # 63 lần
-  "Being": "Sự tồn tại"  # 59 lần
-  "Seven Deadly Sins": "Thất đại tội"  # 56 lần
-  "Rudra": "Rudra"  # 46 lần
-  "Rune": "Rune"  # 45 lần
-  "Hypnos": "Hypnos"  # 42 lần
-  "Hestia": "Hestia"  # 40 lần
-  "Pro": "Chuyên nghiệp giả"  # 40 lần
-  "Seven Sins": "Thất đại tội"  # 39 lần
-  "Fireworks": "Pháo Hoa"  # 38 lần
-  "Thanatos": "Thanatos"  # 38 lần
-  "Back": "Quá khứ"  # 27 lần
+  "Belphegor": "Belphegor"  # 1151 lần
+  "Satan": "Satan"  # 761 lần
+  "Mana": "Mana"  # 459 lần
+  "Pandemonium": "Pandemonium"  # 274 lần
+  "Everyone": "Mọi người"  # 268 lần
+  "Seven Deadly Sins": "Thất đại tội"  # 205 lần
+  "Helheim": "Helheim"  # 172 lần
+  "Ecleksis": "Ecleksis"  # 171 lần
+  "Thanatos": "Thanatos"  # 169 lần
+  "Moirai": "Moirai"  # 166 lần
+  "Etius": "Etius"  # 149 lần
+  "Hestia": "Hestia"  # 142 lần
+  "Workshop": "Xưởng (Workshop)"  # 131 lần
+  "Baldur": "Baldur"  # 129 lần
+  "Rudra": "Rudra"  # 127 lần
+  "Magic": "Ma thuật"  # 118 lần
+  "Ragnarok": "Ragnarok"  # 111 lần
+  "Hypnos": "Hypnos"  # 110 lần
+  "God": "Thần"  # 109 lần
+  "Rank": "Xếp hạng"  # 94 lần
+  "Hephaestus": "Hephaestus"  # 88 lần
+  "Gods": "Các Vị Thần"  # 84 lần
+  "Ancient Language": "Cổ Ngữ (Ancient Language)"  # 73 lần
+  "D": "D (Mô hình 3D)"  # 68 lần
+  "Iight": "Ánh sáng"  # 55 lần
+  "Pro": "Chuyên nghiệp giả"  # 51 lần
+  "Rune": "Rune"  # 48 lần
+  "Seven Sins": "Thất đại tội"  # 47 lần
+  "Unique": "Độc nhất"  # 47 lần
+  "Divine Power": "Quyền năng thiêng liêng"  # 45 lần
+  "Fireworks": "Pháo Hoa"  # 41 lần
+  "Grade": "cấp/xếp hạng"  # 40 lần
+  "Gate": "cổng/lối vào"  # 37 lần
+  "Analysis": "Phân tích"  # 33 lần
+  "Void Weaving": "Sao chép hư không"  # 29 lần
   "Mana Injection": "Tiêm Mana"  # 27 lần
-  "Analysis": "Phân tích"  # 22 lần
-  "Advanced": "Advanced"  # 21 lần
-  "Void Weaving": "Sao chép hư không"  # 21 lần
-  "Divine": "Thánh Lực"  # 19 lần
+  "Main Quest": "Nhiệm vụ chính"  # 21 lần
+  "Manggot War": "Cuộc chiến Manggot"  # 21 lần
   "Simultaneous Replication": "Sao chép Đồng Thời"  # 19 lần
-  "Unique": "Độc nhất"  # 18 lần
-  "Ragnarok": "Ragnarok"  # 16 lần
+  "Reservation": "Đặt chỗ"  # 18 lần
+  "Combat Theory": "Lý thuyết chiến đấu"  # 16 lần
+  "Huu": "Huu"  # 16 lần
+  "Wrath": "Sức Tức Giận (Wrath)"  # 16 lần
+  "Ancient": "Cổ xưa"  # 14 lần
+  "Fate": "Số Phận"  # 14 lần
   "Internal Energy": "Aura"  # 14 lần
+  "Rare": "Độ hiếm (Rare)"  # 14 lần
+  "Reward": "Phần thưởng"  # 14 lần
   "Frondier Mana": "Mana của Frondier"  # 12 lần
   "Lethe": "nữ thần Lethe"  # 12 lần
-  "Pantemonium": "Pantemonium"  # 12 lần
+  "Objective": "Mục tiêu"  # 12 lần
   "Wizard View":  # 12 lần
     vi: "WizardView"
     ghichu: "một dạng TV trong thế giới này"
-  "Ancient": "Cổ xưa"  # 11 lần
-  "Main Quest": "Nhiệm vụ chính"  # 11 lần
-  "Objective": "Mục tiêu"  # 11 lần
+  "Quest": "Nhiệm vụ"  # 11 lần
   "Rumors": "Tin đồn"  # 11 lần
-  "Wrath": "Sức Tức Giận (Wrath)"  # 11 lần
+  "Disaster": "Thảm họa (Disaster)"  # 10 lần
   "Monster War": "Cuộc chiến quái vật"  # 10 lần
+  "Raid": "Đột kích"  # 10 lần
   "Reversion": "Sự đảo ngược"  # 10 lần
-  "Reward": "Phần thưởng"  # 10 lần
-  "Divine Power": "Quyền năng thiêng liêng"  # 9 lần
-  "Manggot War": "Cuộc chiến Manggot"  # 9 lần
+  "Twelve Gods": "Mười hai vị thần"  # 10 lần
+  "World Quest": "Nhiệm vụ thế giới"  # 10 lần
   "Qi": "Qi"  # 9 lần
-  "Replication": "Sao chép"  # 9 lần
-  "War": "Cuộc chiến"  # 9 lần
-  "Helheim Mana": "Mana Helheim"  # 8 lần
+  "Speak": "Nói"  # 9 lần
+  "Aegis": "Aegis"  # 8 lần
+  "Mana of the Nine Worlds": "Mana Cửu giới"  # 8 lần
   "Modification": "Sửa Đổi"  # 8 lần
-  "Raid": "Đột kích"  # 8 lần
-  "World Quest": "Nhiệm vụ thế giới"  # 8 lần
+  "Runes": "Runes"  # 8 lần
+  "Calamity": "Tai họa (Calamity)"  # 7 lần
   "Degradation": "Suy giảm"  # 7 lần
-  "Disaster": "Thảm họa (Disaster)"  # 7 lần
+  "Five Gods": "Năm Vị Thần"  # 7 lần
+  "Helheim Mana": "Mana Helheim"  # 7 lần
   "King of Devils": "Chúa quỷ"  # 7 lần
-  "Magitech": "Ma Pháp Kỹ Thuật"  # 7 lần
-  "Runes": "Runes"  # 7 lần
-  "Target": "Target"  # 7 lần
-  "Mana I": "Mana I"  # 6 lần
+  "Success": "Thành Công"  # 7 lần
+  "Genuine": "Chính Thức/Thực Tế"  # 6 lần
   "Mana Injections": "Tiêm Mana"  # 6 lần
+  "Normal": "Bình Thường/Thông Thường"  # 6 lần
   "Transcendental": "'Transcendental'"  # 6 lần
+  "WizerView": "WizerView"  # 6 lần
+  "Wizerview": "Wizerview"  # 6 lần
+  "World of Salvation": "Thế giới Cứu rỗi"  # 6 lần
   "Deadly Sin": "Đại tội"  # 5 lần
-  "Extrasensory Perception": "Nhận Thức Siêu Giác"  # 5 lần
-  "Fate": "Số Phận"  # 5 lần
-  "Five Gods": "Năm Vị Thần"  # 5 lần
-  "P": "P."  # 5 lần
+  "Formula": "Formula"  # 5 lần
+  "Hahahahaha": "Hahahahaha"  # 5 lần
+  "Magic Theory": "Lý thuyết ma thuật"  # 5 lần
+  "Magitech": "Ma Pháp Kỹ Thuật"  # 5 lần
+  "Mana I": "Mana I"  # 5 lần
+  "PRO": "Chuyên nghiệp giả"  # 5 lần
+  "Pride": "Kiêu ngạo"  # 5 lần
+  "Prototype": "Nguyên mẫu"  # 5 lần
+  "Range": "Tầm xa"  # 5 lần
   "Rewards": "Phần thưởng"  # 5 lần
+  "Rise": "Trỗi dậy"  # 5 lần
+  "Simultaneously": "Đồng thời"  # 5 lần
+  "Sin": "Đại tội"  # 5 lần
+  "Stasis": "Băng giá tĩnh"  # 5 lần
   "Sub-quest": "Nhiệm vụ phụ"  # 5 lần
-  "J": "J"  # 4 lần
-  "Kzeither": "Kzeither"  # 4 lần
-  "Name": "Tên"  # 4 lần
+  "Transfer": "Dịch chuyển"  # 5 lần
+  "[……]": "[……]"  # 5 lần
+  "Caution": "Cảnh Báo (Caution)"  # 4 lần
+  "Goetia": "Goetia"  # 4 lần
+  "Keu": "Keu"  # 4 lần
+  "Metamorph Catastrophe": "Metamorph Catastrophe"  # 4 lần
   "Option": "Option', lựa chọn"  # 4 lần
-  "Sin": "Đại tội"  # 4 lần
-  "Transfer": "Dịch chuyển"  # 4 lần
+  "Quests": "Nhiệm vụ"  # 4 lần
+  "Rejection": "Từ Chối"  # 4 lần
+  "Triune Primary Gods": "Ba Vị Thần Nguyên Thủy"  # 4 lần
   "Void": "Hư Không"  # 4 lần
   "WizardView": "WizardView"  # 4 lần
   "Women Only": "Chỉ dành cho nữ giới"  # 4 lần
+  "World Quests": "Nhiệm vụ Thế giới"  # 4 lần
   "[Main Quest: Operation Suppress Indus]": "[Nhiệm Vụ Chính: Kìm Chế hoạt động của Indus]"  # 4 lần
+  "AM": "AM (Giờ)"  # 3 lần
+  "Age": "Độ tuổi (Age)"  # 3 lần
   "Arch-magic": "Cổ thuật"  # 3 lần
-  "Current": "Hiệu Suất Hiện Tại"  # 3 lần
+  "Craft": "Nghề thủ công/Sản xuất"  # 3 lần
   "Devil War": "Cuộc chiến Quỷ Dữ"  # 3 lần
+  "Divinity Against Gods": "Diệt Thần"  # 3 lần
   "Dragon Hearts": "Long Tâm"  # 3 lần
-  "Formula": "Formula"  # 3 lần
-  "Gulp": "Gulp"  # 3 lần
   "Haak": "Haak"  # 3 lần
-  "Hahahahaha": "Hahahahaha"  # 3 lần
-  "Hehehe": "Hehehe"  # 3 lần
-  "Ho": "Ho"  # 3 lần
-  "Huu": "Huu"  # 3 lần
-  "Iamdaven": "Iamdaven"  # 3 lần
-  "Joe Mama": "Joe Mama"  # 3 lần
-  "Joe Smith": "Joe Smith"  # 3 lần
-  "Keu": "Keu"  # 3 lần
-  "Kuh": "Kuh"  # 3 lần
+  "Humanity Contract": "Hiệp ước Nhân loại"  # 3 lần
   "Life Vessel": "Hạch nhân"  # 3 lần
-  "NU": "NU"  # 3 lần
-  "Noctis": "Noctis"  # 3 lần
-  "Pure Mana": "Mana tinh khiết"  # 3 lần
-  "Range": "Tầm xa"  # 3 lần
-  "Rejection": "Từ Chối"  # 3 lần
+  "Link": "Liên Kết"  # 3 lần
+  "Mana Theory": "Lý Thuyết Mana"  # 3 lần
+  "NPC": "NPC"  # 3 lần
+  "Poseidon Divine Power": "Thánh lực Poseidon"  # 3 lần
+  "Q": "Q"  # 3 lần
   "Shill": "Shill"  # 3 lần
-  "Success": "Thành Công"  # 3 lần
   "Transference": "Dịch chuyển"  # 3 lần
+  "Veda": "Veda"  # 3 lần
   "X-ray": "X-ray"  # 3 lần
+  "[Error occurred.]": "[Lỗi xảy ra]"  # 3 lần
   "[Sub-quest: Weeding Out]": "[Nhiệm vụ phụ: Loại bỏ]"  # 3 lần
+  "Extrasensory Perception": "Nhận Thức Siêu Giác"
+  "Gulp": "Gulp"
+  "Hehehe": "Hehehe"
+  "Ho": "Ho"
+  "Iamdaven": "Iamdaven"
+  "Joe Mama": "Joe Mama"
+  "Joe Smith": "Joe Smith"
+  "Ko-fi": "Ko-fi"
+  "Kuh": "Kuh"
+  "Kzeither": "Kzeither"
+  "NU": "NU"
+  "Noctis": "Noctis"
+  "P": "P."
+  "Pure Mana": "Mana tinh khiết"
+  "Replication": "Sao chép"
+  "War": "Cuộc chiến"
 
 # XƯNG HÔ: "Người nói > Người nghe": "tự xưng / gọi người nghe"
 # Được gửi kèm khi cả hai tên cùng xuất hiện trong chương.
@@ -1561,7 +2011,9 @@ xung_ho:
   "Enfer > Frondier": "ta / con"
   "Frondier > Enfer": "con / cha"
   "Frondier > Lily": "tôi / cô"
-  "Lily > Frondier": "ta / cậu"
+  "Lily > Frondier":  # từ ch687 Lily gọi Frondier là "chủ nhân"
+    "1-686": "ta / cậu"
+    "687-": "tôi / chủ nhân"
   "Frondier > Sybil": "tớ / cậu"
   "Sybil > Frondier": "tớ / cậu"
   "Aster > Elodie": "tớ / cậu"
@@ -1580,3 +2032,180 @@ xung_ho:
   "Sybil > Aten": "tớ / cậu"
   "Azier > Enfer": "con / cha"
   "Enfer > Azier": "ta / con"
+
+  # --- Đề xuất từ story/de_xuat_glossary.md (mục C), thêm 2026-10-07; sửa/xoá tuỳ ý ---
+  "Ria Lis > Frondier":  # = Lily
+    "1-686": "ta / cậu"
+    "687-": "tôi / chủ nhân"
+  "Frondier > Ria Lis": "tôi / cô"  # = Lily
+  "Frondier > Philly": "tôi / Hoàng hậu"
+  "Philly > Frondier": "ta / cậu"
+  "Frondier > Bartello": "tôi / Bệ hạ"
+  "Bartello > Frondier": "ta / cậu"
+  "Frondier > Elysia":  # công chúa → bị tước vị (124) → hầu gái (623–687) → lại là công chúa (688)
+    "1-123": "tôi / công chúa"
+    "124-687": "tôi / cô"
+    "688-": "tôi / công chúa"
+  "Elysia > Frondier":  # 124–622 thù địch; 623–687 hầu gái của Frondier
+    "1-123": "ta / cậu"
+    "124-622": "tôi / cậu"
+    "623-687": "tôi / ngài"
+    "688-": "tôi / anh"
+  "Pielott > Frondier":  # từ ch761 Pielott là học sinh của Frondier ở Atlas
+    "386-396": "tôi / anh"
+    "397-760": "tôi / tiền bối"
+    "761-": "em / thầy"
+  "Frondier > Pielott":
+    "1-760": "tôi / cậu"
+    "761-": "thầy / em"
+  "Frondier > Dier": "tôi / cậu"
+  "Dier > Frondier": "em / tiền bối"
+  "Basileo > Frondier": "em / thầy"  # học sinh Atlas
+  "Frondier > Basileo": "thầy / em"  # học sinh Atlas
+  "Basileo > Elodie": "em / cô"  # học sinh Atlas
+  "Elodie > Basileo": "cô / em"  # học sinh Atlas
+  "Basileo > Aster":  # Aster dạy thay ở Atlas
+    "882-": "em / thầy"
+  "Aster > Basileo":
+    "882-": "thầy / em"
+  "Aias > Frondier": "em / thầy"  # học sinh Atlas
+  "Frondier > Aias": "thầy / em"  # học sinh Atlas
+  "Aias > Elodie": "em / cô"  # học sinh Atlas
+  "Elodie > Aias": "cô / em"  # học sinh Atlas
+  "Aias > Aster":  # Aster dạy thay ở Atlas
+    "882-": "em / thầy"
+  "Aster > Aias":
+    "882-": "thầy / em"
+  "Zenita > Frondier": "em / thầy"  # học sinh Atlas
+  "Frondier > Zenita": "thầy / em"  # học sinh Atlas
+  "Zenita > Elodie": "em / cô"  # học sinh Atlas
+  "Elodie > Zenita": "cô / em"  # học sinh Atlas
+  "Zenita > Aster":  # Aster dạy thay ở Atlas
+    "882-": "em / thầy"
+  "Aster > Zenita":
+    "882-": "thầy / em"
+  "Glaukos > Frondier": "em / thầy"  # học sinh Atlas
+  "Frondier > Glaukos": "thầy / em"  # học sinh Atlas
+  "Glaukos > Elodie": "em / cô"  # học sinh Atlas
+  "Elodie > Glaukos": "cô / em"  # học sinh Atlas
+  "Glaukos > Aster":  # Aster dạy thay ở Atlas
+    "882-": "em / thầy"
+  "Aster > Glaukos":
+    "882-": "thầy / em"
+  "Pielott > Aias": "tôi / cậu"  # bạn học, đối thủ
+  "Aias > Pielott": "tôi / cậu"  # bạn học, đối thủ
+  "Frondier > Carla": "tôi / hiệu trưởng"  # từ khoảng ch845 lời Carla có thể là Athena
+  "Carla > Frondier": "tôi / anh"  # từ khoảng ch845 lời Carla có thể là Athena
+  "Frondier > Giotto": "tôi / anh"
+  "Giotto > Frondier": "tôi / anh"
+  "Frondier > Liberto": "tôi / ngài"
+  "Liberto > Frondier": "ta / cậu"
+  "Frondier > Eriboia": "tôi / phu nhân"
+  "Eriboia > Frondier": "ta / ngươi"
+  "Frondier > Antero": "tôi / anh"
+  "Antero > Frondier": "ta / ngươi"
+  "Frondier > Charon": "tôi / anh"
+  "Charon > Frondier": "ta / ngươi"
+  "Frondier > Belphegor": "tôi / ông"
+  "Belphegor > Frondier": "ta / ngươi"
+  "Belphegor > Selena": "ta / ngươi"
+  "Selena > Belphegor": "tôi / ông"
+  "Frondier > Baal": "tôi / ông"
+  "Purpur > Frondier":  # quỷ; từ ch880 Frondier là Chúa Quỷ
+    "1-879": "tôi / ngài"
+    "880-": "tôi / bệ hạ"
+  "Baal > Frondier":  # quỷ gọi Frondier là "ngài"; từ ch880 (Frondier lên ngôi Chúa Quỷ) mới gọi "bệ hạ"
+    "1-867": "ta / ngươi"
+    "868-879": "tôi / ngài"
+    "880-": "tôi / bệ hạ"
+  "Frondier > Marco": "tôi / anh"
+  "Marco > Frondier": "tôi / cậu"
+  "Frondier > Heracles": "tôi / ngài"
+  "Heracles > Frondier": "ta / ngươi"
+  "Frondier > Poseidon": "tôi / ngài"
+  "Poseidon > Frondier": "ta / ngươi"
+  "Frondier > Athena": "tôi / cô"
+  "Athena > Frondier": "ta / ngươi"
+  "Frondier > Aphrodite": "tôi / ngài"
+  "Aphrodite > Frondier": "ta / ngươi"
+  "Frondier > Hestia": "tôi / ngài"  # Hestia hiền từ, có thể 'ta / con'
+  "Hestia > Frondier": "ta / ngươi"  # Hestia hiền từ, có thể 'ta / con'
+  "Frondier > Thor": "ta / ngươi"  # đối đầu
+  "Thor > Frondier": "ta / ngươi"  # đối đầu
+  "Frondier > Zeus": "ta / ngươi"  # đối đầu
+  "Zeus > Frondier": "ta / ngươi"  # đối đầu
+  "Frondier > Moirai": "ta / ngươi"  # đối đầu
+  "Moirai > Frondier": "ta / ngươi"  # đối đầu
+  "Frondier > Hela": "ta / ngươi"  # đối đầu
+  "Hela > Frondier": "ta / ngươi"  # đối đầu
+  "Frondier > Satan": "ta / ngươi"  # đối đầu
+  "Satan > Frondier": "ta / ngươi"  # đối đầu
+  "Sybil > Jormungandr": "tôi / ông"
+  "Jormungandr > Sybil": "ta / cô"
+  "Aster > Ludovic": "tôi / ngài"
+  "Ludovic > Aster": "ta / cậu"
+  "Aster > Renzo": "ta / ngươi"
+  "Renzo > Aster": "ta / ngươi"
+  "Renzo > Ares": "ta / ngươi"
+  "Ares > Renzo": "ta / ngươi"
+  "Renzo > Tyr": "ta / ngươi"
+  "Tyr > Renzo": "ta / ngươi"
+  "Osprey > Elodie": "ta / em"
+  "Elodie > Osprey": "em / thầy"
+  "Vishnu > Elodie": "ta / ngươi"
+  "Aster > Lunia": "tớ / cậu"
+  "Lunia > Aster": "tớ / cậu"
+  "Frondier > Sylvain": "tôi / chỉ huy"
+  "Sylvain > Frondier": "tôi / cậu"
+  "Frondier > Renzo": "ta / ngươi"
+  "Renzo > Frondier": "ta / ngươi"
+  "Frondier > Mei": "anh / em"
+  "Mei > Frondier": "em / anh"
+  "Frondier > Gregory": "tôi / ông"
+  "Gregory > Frondier": "tôi / cậu"
+  "Frondier > Esther": "tôi / cô"
+  "Esther > Frondier": "tôi / cậu"
+  "Frondier > Cain": "tôi / cô"  # từ ch707 Cain là năm nhất: có thể 'tôi / tiền bối'
+  "Cain > Frondier": "tôi / anh"  # từ ch707 Cain là năm nhất: có thể 'tôi / tiền bối'
+  "Frondier > Laurie": "tôi / cô"
+  "Laurie > Frondier": "tôi / cậu"
+  "Frondier > Binkis": "em / cô"
+  "Binkis > Frondier": "cô / em"
+  "Frondier > Jane": "em / cô"
+  "Jane > Frondier": "cô / em"
+  "Frondier > Ludwig": "tôi / ngài"
+  "Ludwig > Frondier": "ta / cậu"
+  "Frondier > Monty": "tôi / ngài"  # từ ch695 là sư phụ: có thể 'con / sư phụ'
+  "Monty > Frondier": "ta / cậu"  # từ ch695 là sư phụ: có thể 'con / sư phụ'
+  "Frondier > Arald": "tôi / ông"
+  "Arald > Frondier": "tôi / cậu"
+  "Frondier > Kora": "tôi / cậu"
+  "Kora > Frondier": "tôi / anh"
+  "Frondier > Eden": "tôi / ông"
+  "Eden > Frondier": "ta / cậu"
+  "Frondier > Hagley": "tôi / ông"
+  "Hagley > Frondier": "ta / cậu"
+  "Frondier > Ameline": "tôi / tiểu thư"
+  "Ameline > Frondier": "tôi / ngài"
+  "Selena > Hagley":
+    "1-541": "tôi / ngài"
+    "542-": "tôi / ông"
+  "Hagley > Selena": "ta / con"  # cha nuôi/thầy
+  "Aster > Ellen": "em / chị"
+  "Ellen > Aster": "chị / em"
+  "Elodie > Revet": "em / anh"
+  "Revet > Elodie": "anh / em"
+  "Aten > Elysia": "em / chị"
+  "Elysia > Aten": "chị / em"
+  "Aten > Sale": "em / chị"
+  "Sale > Aten": "chị / em"
+  "Philly > Elysia": "mẹ / con"
+  "Elysia > Philly": "con / mẹ"
+  "Philly > Sale": "mẹ / con"
+  "Sale > Philly": "con / mẹ"
+  "Enfer > Malia": "anh / em"
+  "Malia > Enfer": "em / anh"
+  "Malia > Azier": "mẹ / con"
+  "Azier > Malia": "con / mẹ"
+  "Philly > Bartello": "em / anh"  # hoàng tộc: giọng hiện đại kiểu phương Tây (không thần / thiếp / trẫm / khanh)
+  "Bartello > Philly": "anh / em"

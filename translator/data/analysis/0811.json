@@ -1,0 +1,76 @@
+{
+ "number": 811,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị một giáo viên nhận thấy vẻ mặt mệt mỏi, Frondier de Roach tự nhìn vào gương và nhận ra mình đang kiệt sức vì những tính toán liên quan đến lời khuyên của Elodie về việc sử dụng Toán học để phát triển bản thân. Anh đăng ký một lớp học kết hợp phép thuật và chiến đấu để có thêm thời gian luyện tập mà không bị chú ý, nhưng lại vô tình gây ra sự lo lắng cho Giotto. Cuối cùng, Frondier bắt đầu thử nghiệm phương pháp mới của mình bằng cách kết hợp các yếu tố phép thuật khác nhau vào một vũ khí giả.",
+ "boi_canh": "Phòng giáo viên Atlas, một buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Sybil",
+  "Azier",
+  "Frondier de Roach",
+  "Giotto",
+  "Hector",
+  "Teacher (không rõ tên)"
+ ],
+ "su_kien": [
+  "Một giáo viên nhận thấy vẻ mặt mệt mỏi của Frondier.",
+  "Frondier nhìn vào gương và tự đánh giá tình trạng thể chất của mình.",
+  "Giotto lo lắng về kế hoạch của Frondier liên quan đến việc phơi bày hoặc che giấu vụ việc sử dụng thiết bị nghe lén.",
+  "Frondier đăng ký lớp học kết hợp phép thuật và chiến đấu.",
+  "Frondier bắt đầu thử nghiệm phương pháp mới bằng cách kết hợp các yếu tố phép thuật vào một vũ khí giả."
+ ],
+ "quan_he": [
+  {
+   "a": "Teacher",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Giáo viên bất ngờ nhận thấy vẻ mặt của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Teacher",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier trả lời câu hỏi của giáo viên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Giotto",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Giotto lo lắng về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Giotto",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier đối xử với Giotto một cách thờ ơ.",
+   "cach_goi": "gọi tên Giotto, lịch sự"
+  },
+  {
+   "a": "Giotto",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Giotto lo lắng và cố gắng giúp đỡ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Giotto",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier trả lời Giotto một cách lịch sự.",
+   "cach_goi": "gọi tên Giotto, lịch sự"
+  }
+ ],
+ "danh_tinh": [
+  "Hector Von Urfa (tên thật của Hector)"
+ ],
+ "stats": {
+  "tokens": 860,
+  "seconds": 26.0
+ }
+}

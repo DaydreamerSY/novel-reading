@@ -1,0 +1,91 @@
+{
+ "number": 824,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này giới thiệu khái niệm 'Reservation' về phép thuật, một kỹ thuật tiên tiến mà Frondier và Elodie không thể thực hiện. Basileo tỏ ra hứng thú với việc học Reservation, và Pielott vượt trội trong luyện tập chiến đấu với golem. Cuối cùng, Frondier quyết định thay đổi cách tiếp cận huấn luyện của mình đối với Pielott.",
+ "boi_canh": "Trong lớp học, Frondier đang giải thích về phép thuật 'Reservation'.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Azier",
+  "Pielott",
+  "Dier",
+  "Jane",
+  "Lunia",
+  "Basileo",
+  "Glaukos"
+ ],
+ "su_kien": [
+  "Frondier được giới thiệu về khái niệm phép thuật 'Reservation'.",
+  "Elodie giải thích rằng chỉ một số pháp sư thuần túy và những người có kỹ năng cao mới có thể sử dụng Reservation.",
+  "Basileo bày tỏ sự hứng thú với việc học Reservation.",
+  "Pielott đánh bại nhiều golem trong buổi tập luyện.",
+  "Frondier quyết định thay đổi cách huấn luyện Pielott."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, cùng nhau thảo luận về phép thuật.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, cùng nhau thảo luận về phép thuật.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên và học sinh, Frondier giải thích về Reservation cho Basileo.",
+   "cach_goi": "gọi tên Basileo, lễ phép"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Học sinh và giáo viên, Basileo lắng nghe lời giải thích của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, Frondier quan sát và hướng dẫn Pielott.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên, Pielott tôn trọng Frondier.",
+   "cach_goi": "gọi 'Senior', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Glaukos",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Azier Mk.2: Golem mô phỏng Azier, được lập trình với các kỹ năng chiến đấu và hành vi của anh ta."
+ ],
+ "stats": {
+  "tokens": 982,
+  "seconds": 29.5
+ }
+}

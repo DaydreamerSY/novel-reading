@@ -1,0 +1,80 @@
+{
+ "number": 614,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Ednet báo cáo một cách lúng túng về việc Elysia Terst trốn thoát, Hoàng hậu Philly đã nổi giận dữ. Chương này tiết lộ lý do tại sao Elysia không bị hành quyết mà sống ẩn dật dưới sự giám sát của Đế quốc: Frondier đã can thiệp để ngăn cản Philly giết cô ta và thay đổi số phận của cô ta. Cuối cùng, Philly nhận ra rằng việc giết chết Elysia sẽ khiến bản thân bà thay đổi theo một cách đáng sợ, và Frondier đã cứu cả hai người họ.",
+ "boi_canh": "Trong phòng làm việc Hoàng hậu Philly, vào thời điểm hiện tại.",
+ "nhan_vat": [
+  "Philly",
+  "Ednet",
+  "Elysia Terst",
+  "Frondier",
+  "Aten Terst"
+ ],
+ "su_kien": [
+  "Ednet báo cáo về việc Elysia trốn thoát và không tuân theo mệnh lệnh.",
+  "Hoàng hậu Philly nổi giận dữ với Ednet.",
+  "Tiết lộ lý do Elysia sống ẩn dật thay vì bị hành quyết: Frondier đã can thiệp.",
+  "Philly từng định giết Elysia nhưng Frondier ngăn cản.",
+  "Frondier tiết lộ rằng việc cứu Elysia là để bảo vệ Philly."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Ednet",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu Philly trách móc Ednet vì báo cáo sai sự thật.",
+   "cach_goi": "gọi tên Ednet, lạnh lùng"
+  },
+  {
+   "a": "Ednet",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Ednet rút lui sau khi bị Philly trách mắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Hoàng hậu Philly suy ngẫm về hành động của Frondier trong việc cứu Elysia.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "khac",
+   "mo_ta": "Frondier đã tác động đến quyết định của Philly, nhưng bà chưa hiểu hết.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ mẹ con đầy phức tạp, Elysia là con gái riêng của Philly.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia Terst",
+   "loai": "khac",
+   "mo_ta": "Frondier đã cứu mạng Elysia, nhưng lý do không rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Hai người là chị em gái, mối quan hệ không được đề cập trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elysia Terst: Trước đây là công chúa lớn, hiện đang sống ẩn dật với danh tính giả.",
+  "Frondier: Đã sử dụng một loại độc dược có thể chữa trị để cứu Elysia."
+ ],
+ "stats": {
+  "tokens": 936,
+  "seconds": 28.9
+ }
+}

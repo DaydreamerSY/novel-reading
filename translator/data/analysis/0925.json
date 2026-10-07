@@ -1,0 +1,107 @@
+{
+ "number": 925,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Hela bị Frondier đánh bại trong trận chiến, cô ấy mất hết ý chí chiến đấu và sụp đổ. Belphegor nhận ra rằng Frondier không có ý định giết Hela mà muốn cô đứng về phía mình. Hela tiết lộ lý do tại sao cô lại ủng hộ Odin, liên quan đến những tổn thất trong Ragnarok và sự suy yếu của nhân loại. Cuối cùng, Frondier rời đi, để lại Hela với những lời nói lạnh lùng và một thông điệp bí mật từ Loki được Belphegor chuyển tới.",
+ "boi_canh": "Trong đấu trường sau trận chiến giữa Frondier và Hela.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aster",
+  "Philly",
+  "Lily",
+  "Pielott",
+  "Malia",
+  "Arald",
+  "Gregory",
+  "Aias",
+  "Odin",
+  "Heracles",
+  "Belphegor",
+  "Hela"
+ ],
+ "su_kien": [
+  "Hela sụp đổ sau khi bị Frondier đánh bại.",
+  "Frondier dừng trận chiến mà không giết Hela.",
+  "Hela tiết lộ lý do cô ủng hộ Odin liên quan đến Ragnarok và sự suy yếu của nhân loại.",
+  "Belphegor chuyển một thông điệp bí mật từ Loki cho Hela.",
+  "Frondier rời khỏi nơi đó với những lời nói lạnh lùng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Hela",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, Frondier muốn Hela đứng về phía mình.",
+   "cach_goi": "gọi tên Hela, lạnh lùng"
+  },
+  {
+   "a": "Hela",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến, Hela bày tỏ sự bất mãn với Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Belphegor quan sát và đưa ra nhận xét về hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier trả lời lại những nhận xét của Belphegor.",
+   "cach_goi": "gọi tên Belphegor, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Hela",
+   "loai": "nguoi_la",
+   "mo_ta": "Không nói chuyện trực tiếp.",
+   "cach_goi": "gọi tên Hela, lạnh lùng"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không nói chuyện trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aias",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aias hỏi về lý do Aster phải đi Falind.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Aias",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Pielott trả lời câu hỏi của Aias.",
+   "cach_goi": "gọi tên Aias, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Đối với cấp trên, Malia báo cáo tình hình tìm kiếm địa điểm thần thánh.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Gregory",
+   "b": "Malia",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Gregory báo cáo tình hình tìm kiếm địa điểm thần thánh.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1157,
+  "seconds": 34.9
+ }
+}

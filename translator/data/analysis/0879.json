@@ -1,0 +1,107 @@
+{
+ "number": 879,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi xem xét tình hình tại thành trì của Quỷ giới, Satan ra lệnh tắt màn hình và bày tỏ sự lo ngại về hành động tự xưng là Vua Quỷ của Frondier. Ông ta nghi ngờ rằng Zeus sẽ phản ứng thế nào với việc này. Tiếp theo đó, một cuộc đối đầu diễn ra giữa Satan và những kẻ phản bội, dẫn đến việc Purpur tiết lộ vị trí Cổng Dẫn. Cuối cùng, Frondier tuyên bố mình sẽ trở thành Vua Quỷ, khiến mọi người ngạc nhiên.",
+ "boi_canh": "Trong thành trì của Quỷ giới, sau khi xem xét tình hình.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Baal",
+  "Arald",
+  "Athena",
+  "Astaroth",
+  "Lucifer",
+  "Zeus",
+  "Mammon",
+  "Satan",
+  "Purpur"
+ ],
+ "su_kien": [
+  "Satan ra lệnh tắt màn hình sau khi xem xét tình hình.",
+  "Frondier tự xưng là Vua Quỷ.",
+  "Zeus có thể phản ứng tiêu cực với việc Frondier tự xưng là Vua Quỷ.",
+  "Purpur tiết lộ vị trí của Cổng Dẫn.",
+  "Frondier tuyên bố mình sẽ trở thành Vua Quỷ và sử dụng Ecleksis để khiến 72 Quỷ phải quỳ lạy."
+ ],
+ "quan_he": [
+  {
+   "a": "Satan",
+   "b": "Astaroth",
+   "loai": "ke_thu",
+   "mo_ta": "Satan ra lệnh cho Astaroth tắt màn hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mammon",
+   "b": "Satan",
+   "loai": "dong_minh",
+   "mo_ta": "Mammon bày tỏ sự lo lắng về hành động của Satan.",
+   "cach_goi": "gọi tên Mammon, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Satan chất vấn Frondier về hành động của anh.",
+   "cach_goi": "gọi tên Satan, lễ phép"
+  },
+  {
+   "a": "Lucifer",
+   "b": "Satan",
+   "loai": "dong_minh",
+   "mo_ta": "Lucifer đưa ra lời khuyên cho Satan.",
+   "cach_goi": "gọi tên Satan, thân mật"
+  },
+  {
+   "a": "Satan",
+   "b": "Lucifer",
+   "loai": "dong_minh",
+   "mo_ta": "Satan phản hồi lời khuyên của Lucifer.",
+   "cach_goi": "gọi tên Lucifer, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Purpur",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier chất vấn Purpur về việc phản bội.",
+   "cach_goi": "gọi tên Purpur, lạnh lùng"
+  },
+  {
+   "a": "Purpur",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Purpur phủ nhận việc phản bội Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Baal",
+   "b": "Purpur",
+   "loai": "doi_thu",
+   "mo_ta": "Baal tức giận khi Purpur thừa nhận là kẻ phản bội.",
+   "cach_goi": "gọi tên Purpur, thô lỗ"
+  },
+  {
+   "a": "Elodie",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "Elodie trách móc Arald vì đã thúc đẩy Frondier tự xưng là Vua Quỷ.",
+   "cach_goi": "gọi tên Arald, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Frondier giải thích lý do trở thành Vua Quỷ.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Satan tự xưng là Vua Quỷ"
+ ],
+ "stats": {
+  "tokens": 1103,
+  "seconds": 33.4
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "number": 723,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi từ chối Hagley, Frondier phát hiện ra ông ta đang quỳ lạy trước mặt mình. Frondier sau đó khai thác thông tin từ Hagley về kẻ đã tiếp cận ông ta để giúp đỡ trốn thoát khỏi ngục tù, người tự xưng là một nhà báo và có vẻ ngoài của một hiệp sĩ. Đồng thời, Philly bắt đầu điều tra theo yêu cầu của Frondier, tập trung vào những người quen thuộc với Frondier và có khả năng thao túng dư luận.",
+ "boi_canh": "Trong phòng thẩm vấn, sau khi Hagley quỳ lạy trước mặt Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Philly Terst",
+  "Azier",
+  "Enfer",
+  "Hagley",
+  "Elysia",
+  "Pascal",
+  "Pascal Schlitz",
+  "Malia"
+ ],
+ "su_kien": [
+  "Frondier từ chối Hagley sau khi nghe những lời đề nghị của ông ta.",
+  "Hagley quỳ lạy trước mặt Frondier.",
+  "Frondier khai thác thông tin về kẻ đã tiếp cận Hagley, người tự xưng là một nhà báo.",
+  "Philly bắt đầu điều tra theo yêu cầu của Frondier.",
+  "Philly ra lệnh triệu tập Pascal Schlitz."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Hagley",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier chiếm ưu thế và khai thác thông tin từ Hagley.",
+   "cach_goi": "gọi tên Hagley, lạnh lùng"
+  },
+  {
+   "a": "Hagley",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Kính phục trước sức mạnh và trí tuệ của Frondier.",
+   "cach_goi": "gọi tên Frondier, kính trọng nhưng tuyệt vọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "ban_be",
+   "mo_ta": "Tin tưởng và giao phó nhiệm vụ điều tra cho Philly.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Thực hiện nhiệm vụ theo yêu cầu của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Pascal Schlitz",
+   "loai": "nguoi_la",
+   "mo_ta": "Philly ra lệnh triệu tập Pascal Schlitz.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Người tự xưng là nhà báo có vẻ ngoài của một hiệp sĩ (có thể là người được thuê bởi ai đó)."
+ ],
+ "stats": {
+  "tokens": 776,
+  "seconds": 23.3
+ }
+}

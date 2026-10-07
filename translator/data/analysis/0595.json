@@ -2,86 +2,90 @@
  "number": 595,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi một cuộc tấn công của quỷ dữ vào lâu đài, Frondier nhận được lời mời đến thăm công ty Hitchcock từ Jeremy. Anh đồng ý và đi cùng Elodie. Sau đó, Lily phàn nàn vì phải gánh chịu hậu quả sau hành động của anh. Cuối cùng, Frondier đến công ty Hitchcock để tìm hiểu lý do thực sự đằng sau lời mời này.",
- "boi_canh": "Lâu đài, ngày hiện tại, sau cuộc tấn công của quỷ dữ.",
+ "tom_tat": "Trong chương này, Frondier được Jeremy dẫn đi tham quan công ty của Hitchcock để xem xét về bản đồ 3D mà anh đã cung cấp. Anh từ chối tiết lộ nguồn gốc của bản thiết kế đó để bảo vệ những người xung quanh. Tại phòng nghiên cứu, Paul và các nhà khoa học trình bày một nguyên mẫu bản đồ 3D hologram ấn tượng nhưng Frondier nhận ra nó có nhiều hạn chế về quy mô và khả năng cập nhật thông tin theo thời gian thực.",
+ "boi_canh": "Trong phòng thí nghiệm của công ty Hitchcock, trong buổi tham quan để đánh giá tiềm năng thương mại của bản đồ 3D.",
  "nhan_vat": [
   "Frondier",
   "Elodie",
-  "Lily",
+  "Sybil",
+  "Quinie",
+  "Edwin",
+  "Binkis",
+  "Paul",
   "Jeremy",
-  "Ria Lis",
-  "Lis"
+  "Daud",
+  "Hitchcock"
  ],
  "su_kien": [
-  "Frondier nhận được lời mời đến thăm công ty Hitchcock từ Jeremy.",
-  "Lily phàn nàn vì phải gánh chịu hậu quả sau hành động của Frondier.",
-  "Frondier đồng ý đến thăm công ty Hitchcock.",
-  "Jeremy tiết lộ có một lý do 'không danh dự' cho lời mời của anh.",
-  "Hitchcock nghi ngờ thiết bị trên người Frondier liên quan đến sản phẩm bí mật của họ."
+  "Frondier từ chối tiết lộ nguồn gốc của bản thiết kế 3D.",
+  "Jeremy dẫn Frondier đi tham quan công ty Hitchcock.",
+  "Paul giới thiệu về nghiên cứu thương mại hóa bản đồ 3D.",
+  "Nhóm nghiên cứu trình bày nguyên mẫu bản đồ 3D hologram.",
+  "Frondier nhận ra những hạn chế của bản đồ 3D hologram so với thiết kế của anh."
  ],
  "quan_he": [
   {
    "a": "Frondier",
-   "b": "Elodie",
-   "loai": "ban_be",
-   "mo_ta": "Bạn từ thuở nhỏ, quan tâm lẫn nhau.",
-   "cach_goi": "gọi tên Elodie, thân mật"
-  },
-  {
-   "a": "Elodie",
-   "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Bạn từ thuở nhỏ, quan tâm lẫn nhau.",
-   "cach_goi": "gọi tên Frondier, thân mật"
-  },
-  {
-   "a": "Frondier",
-   "b": "Lily",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè, nhưng Frondier thường trốn tránh trách nhiệm.",
-   "cach_goi": "gọi tên Lily, không thân mật"
-  },
-  {
-   "a": "Lily",
-   "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè, Lily phàn nàn về hành động của Frondier.",
-   "cach_goi": "gọi tên Frondier, thô lỗ"
-  },
-  {
-   "a": "Frondier",
    "b": "Jeremy",
-   "loai": "nguoi_la",
-   "mo_ta": "Người lạ, Jeremy mời Frondier đến công ty.",
-   "cach_goi": "gọi tên Jeremy, không thân mật"
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người được mời đến công ty của Jeremy.",
+   "cach_goi": "gọi tên Jeremy, không nói chuyện trực tiếp"
   },
   {
    "a": "Jeremy",
    "b": "Frondier",
-   "loai": "nguoi_la",
-   "mo_ta": "Người lạ, Jeremy mời Frondier đến công ty.",
-   "cach_goi": "gọi tên Frondier, không thân mật"
+   "loai": "cap_tren",
+   "mo_ta": "Jeremy là người dẫn Frondier đi tham quan.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
   },
   {
    "a": "Frondier",
-   "b": "Ria Lis",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier đổ lỗi cho Ria Lis để trốn tránh trách nhiệm.",
+   "b": "Paul",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người vừa mới gặp mặt và bắt tay nhau.",
+   "cach_goi": "gọi tên Paul, lễ phép"
+  },
+  {
+   "a": "Paul",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Paul là người giới thiệu về nghiên cứu và hỏi ý kiến của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Sybil đã giúp Frondier tạo ra bản thiết kế.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Ria Lis",
-   "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier đổ lỗi cho Ria Lis để trốn tránh trách nhiệm.",
+   "a": "Frondier",
+   "b": "Daud",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Sybil đã giúp Frondier tạo ra bản thiết kế.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "thay_tro",
+   "mo_ta": "Teacher Binkis đã giúp Frondier tạo ra bản thiết kế.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Senior Edwin đã giúp Frondier tạo ra bản thiết kế.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Thiết bị trên người Frondier có vẻ tương tự sản phẩm của công ty Hitchcock."
+  "Bản thiết kế 3D của Frondier được dựa trên bản thiết kế của Elodie."
  ],
  "stats": {
-  "tokens": 933,
-  "seconds": 27.9
+  "tokens": 979,
+  "seconds": 29.5
  }
 }

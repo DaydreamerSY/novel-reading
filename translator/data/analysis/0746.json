@@ -1,0 +1,88 @@
+{
+ "number": 746,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier giải thích một câu nói cổ xưa về Ragnarok, sự kiện kết thúc thần thoại Norse, và suy luận rằng nó ám chỉ một cuộc chiến giữa người và thần mà loài người đã thua. Anh cùng Elodie, Selena, Lily thảo luận về ý nghĩa của nó và những thông tin mới được tiết lộ về mối quan hệ giữa người và thần. Họ tiếp tục khám phá hang động, Frondier nhận thấy chữ viết trên tường đều do một người viết.",
+ "boi_canh": "Trong một hang động cổ xưa, nơi có các văn bản bằng ngôn ngữ cổ đại.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Merlin",
+  "Arthur"
+ ],
+ "su_kien": [
+  "Frondier giải thích ý nghĩa của câu nói về Ragnarok.",
+  "Selena liên hệ những gì Frondier thấy trước đây với 'những người khổng lồ'.",
+  "Lily đặt câu hỏi tại sao thần và người lại trở thành đồng minh.",
+  "Frondier nhận ra chữ viết trên tường hang động có thể do một người viết.",
+  "Frondier suy luận rằng người viết phải là một pháp sư tài ba."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết, Frondier giải thích suy nghĩ của mình cho Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết, lắng nghe và bày tỏ sự ngưỡng mộ với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier chia sẻ thông tin với Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đưa ra nhận xét và liên hệ với những gì đã thấy trước đây.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier trả lời câu hỏi của Lily.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đặt câu hỏi về mối quan hệ giữa người và thần.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Merlin",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy và trò, Merlin đã từng cho Frondier xem ngôn ngữ cổ đại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arthur",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ragnarok: Sự kiện kết thúc thần thoại Norse, được tiết lộ là một cuộc chiến giữa người và thần.",
+  "Người khổng lồ (Giants): Có thể thực chất là con người trong quá khứ."
+ ],
+ "stats": {
+  "tokens": 977,
+  "seconds": 29.2
+ }
+}

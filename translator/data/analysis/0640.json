@@ -1,0 +1,67 @@
+{
+ "number": 640,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong khi Sybil đang sử dụng đồng thời Mana và Aura để tấn công Marchosias (Marco), cô phát hiện ra khả năng tái tạo đáng kinh ngạc của đối thủ, vượt xa những gì cô từng biết về quỷ Marchosias. Marco liên tục né tránh các đòn tấn công của Sybil, cho thấy anh ta không tận dụng tối đa khả năng tái tạo của mình. Cuối cùng, Sybil nhận ra Mana của mình đang cạn kiệt và buộc phải cân nhắc việc rút lui để chờ đợi sự hỗ trợ, nhưng Marco bất ngờ phun lửa, khiến cô phải sử dụng phép thuật để dập tắt.",
+ "boi_canh": "Một trận chiến giữa Sybil và Marchosias (Marco) diễn ra tại một địa điểm không rõ.",
+ "nhan_vat": [
+  "Frondier",
+  "Sybil",
+  "Marchosias",
+  "Marco",
+  "Elodie",
+  "Aten",
+  "Osprey"
+ ],
+ "su_kien": [
+  "Sybil sử dụng đồng thời Mana và Aura để tấn công Marchosias.",
+  "Marchosias thể hiện khả năng tái tạo nhanh chóng, ngay cả khi bị tàn phá nghiêm trọng.",
+  "Marco né tránh các đòn tấn công của Sybil.",
+  "Sybil nhận ra Mana của mình đang cạn kiệt.",
+  "Marco phun lửa để tấn công Sybil."
+ ],
+ "quan_he": [
+  {
+   "a": "Sybil",
+   "b": "Marchosias/Marco",
+   "loai": "doi_thu",
+   "mo_ta": "Sybil tấn công Marchosias (Marco) trong trận chiến.",
+   "cach_goi": "gọi tên Marco, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marchosias/Marco",
+   "b": "Sybil",
+   "loai": "doi_thu",
+   "mo_ta": "Marchosias (Marco) chế nhạo và khiêu khích Sybil trong trận chiến.",
+   "cach_goi": "gọi tên Sybil, trịch thượng"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Sybil đang chờ đợi sự hỗ trợ từ Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Sybil đang chờ đợi sự hỗ trợ từ Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Osprey",
+   "loai": "ban_be",
+   "mo_ta": "Sybil đang chờ đợi sự hỗ trợ từ Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Marchosias = Marco"
+ ],
+ "stats": {
+  "tokens": 738,
+  "seconds": 22.1
+ }
+}

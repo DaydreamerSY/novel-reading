@@ -1,0 +1,77 @@
+{
+ "number": 923,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đối mặt với Hela trong bóng tối, Frondier nhận ra rằng sức mạnh của vũ khí thần thánh bị suy yếu một cách đáng kể. Anh ta sử dụng Mjölnir nhưng nó bị chặn lại dễ dàng bởi Hela. Sau đó, anh ta nhớ lại sự kiện Baldur gặp Minotaur trong game và nghi ngờ tất cả các quái vật đều có khả năng kháng divine power. Cuối cùng, Frondier bắt giữ Hela để hỏi thẳng về nguồn gốc của những con quái vật này.",
+ "boi_canh": "Một không gian tối tăm, nơi diễn ra một trận chiến giữa Frondier và Hela.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Azier",
+  "Frondier de Roach",
+  "Aster Evans",
+  "Hel",
+  "Belphegor",
+  "Hela"
+ ],
+ "su_kien": [
+  "Frondier chất vấn Hela về việc cô ấy có định tiếp tục tấn công hay không.",
+  "Frondier sử dụng Mjölnir nhưng bị Hela chặn lại dễ dàng.",
+  "Frondier nhớ lại sự kiện Baldur gặp Minotaur trong game và nghi ngờ quái vật có khả năng kháng divine power.",
+  "Frondier sử dụng Ecleksis để đẩy lùi đội quân của Hela.",
+  "Frondier bắt giữ Hela và chất vấn cô về nguồn gốc của những con quái vật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Hela",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier chất vấn và áp đảo Hela.",
+   "cach_goi": "gọi tên 'Hela', lạnh lùng"
+  },
+  {
+   "a": "Hela",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Hela cố gắng trêu tức và né tránh câu hỏi của Frondier.",
+   "cach_goi": "gọi tên 'Frondier', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "dong_minh",
+   "mo_ta": "Belphegor đưa ra lời khuyên về việc sử dụng vũ khí của thần.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Belphegor đưa ra lời khuyên về việc sử dụng vũ khí của thần.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  },
+  {
+   "a": "Hela",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Hela cố gắng trêu tức và né tránh câu hỏi của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier nhớ lại sự kiện Aster gặp Minotaur trong game.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hel (tên khác của Hera)"
+ ],
+ "stats": {
+  "tokens": 871,
+  "seconds": 26.2
+ }
+}

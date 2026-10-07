@@ -1,0 +1,88 @@
+{
+ "number": 685,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Aten chất vấn Aster về việc Aster bảo vệ Frondier, nhóm người Aten lo lắng về hành động của Frondier khi ông ta tuyên bố bảo vệ một quỷ dữ. Họ nghi ngờ Frondier có thể bị nguyền rủa hoặc điều khiển bởi quỷ dữ. Sau đó, Frondier đến gặp Lily để hoàn thành hợp đồng làm kỵ sĩ và được khen thưởng, nhưng lại nhắc nhở Lily về quá khứ của bà ta là thuộc hạ của Satan.",
+ "boi_canh": "Trong văn phòng của Lily tại biệt thự của cô ấy, kết thúc hợp đồng làm kỵ sĩ.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Aster",
+  "Elodie",
+  "Lunia",
+  "Lily",
+  "Ria Lis"
+ ],
+ "su_kien": [
+  "Aten chất vấn Aster về việc bảo vệ Frondier.",
+  "Nhóm người Aten lo lắng Frondier có thể bị nguyền rủa hoặc điều khiển bởi quỷ dữ.",
+  "Frondier hoàn thành hợp đồng làm kỵ sĩ cho Lily.",
+  "Lily khen ngợi Frondier và hứa viết báo cáo tốt đẹp về ông ta cho hoàng cung.",
+  "Frondier nhắc nhở Lily về quá khứ của bà là thuộc hạ của Satan."
+ ],
+ "quan_he": [
+  {
+   "a": "Aten",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, lo lắng cho Frondier",
+   "cach_goi": "gọi tên Aster, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, lo lắng cho Frondier",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, cùng suy đoán về Frondier",
+   "cach_goi": "gọi tên Lunia, thân mật"
+  },
+  {
+   "a": "Lunia",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, cùng suy đoán về Frondier",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "chu_to",
+   "mo_ta": "kỵ sĩ và chủ nhân, hoàn thành hợp đồng",
+   "cach_goi": "gọi 'Miss Lily', lễ phép"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "chu_to",
+   "mo_ta": "chủ nhân, hài lòng với Frondier",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ria Lis",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "không quen biết, Ria tức giận với Frondier",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ria Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "không quen biết, Frondier trả lời Ria một cách lạnh lùng",
+   "cach_goi": "gọi tên Ria Lis, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Lily: trước đây là thuộc hạ của Satan"
+ ],
+ "stats": {
+  "tokens": 789,
+  "seconds": 23.6
+ }
+}

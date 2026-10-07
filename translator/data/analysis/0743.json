@@ -1,0 +1,86 @@
+{
+ "number": 743,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị trói, Frondier được Elodie giải thoát bằng cách cắt xích. Anh ta sử dụng đôi cánh Obsidian để bay lên trời cùng Lily và Elodie, nhưng ngay lập tức bị tấn công bởi phép thuật không gian của Osprey. Thông qua một cuộc đối thoại ngắn gọn, họ đã sử dụng một kỹ thuật đặc biệt để trốn thoát thông qua một cổng không gian do Osprey tạo ra. Cuối cùng, Arald gọi điện cho Frondier và tiết lộ rằng anh ta đã triệu tập tất cả các quỷ dữ ẩn mình trong Đế quốc.",
+ "boi_canh": "Trong khu vực chiến đấu, giữa bầu trời đêm.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Lily",
+  "Osprey",
+  "Arald"
+ ],
+ "su_kien": [
+  "Elodie cắt bỏ xiềng xích của Frondier và Lily.",
+  "Frondier sử dụng đôi cánh Obsidian để bay lên trời cùng Lily và Elodie.",
+  "Osprey tấn công Frondier bằng phép thuật không gian.",
+  "Frondier và những người khác trốn thoát thông qua một cổng không gian do Osprey tạo ra.",
+  "Arald triệu tập tất cả các quỷ dữ ẩn mình trong Đế quốc."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, giải cứu Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, giải cứu Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Đồng hành, được Frondier cứu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đồng hành, được Frondier cứu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, huấn luyện viên cũ.",
+   "cach_goi": "gọi tên Osprey, lạnh lùng"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Huấn luyện viên cũ, chỉ đạo một cách khó chịu.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, chủ tịch Hitchcock.",
+   "cach_goi": "gọi tên Arald, lạnh lùng"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, chủ tịch Hitchcock.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Manggot: Địa điểm chiến đấu trước đây, giờ có cửa do quân đội Hoàng gia xây dựng."
+ ],
+ "stats": {
+  "tokens": 943,
+  "seconds": 28.2
+ }
+}

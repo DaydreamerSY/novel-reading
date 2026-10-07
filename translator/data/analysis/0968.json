@@ -1,0 +1,117 @@
+{
+ "number": 968,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Cuộc chiến giữa Poseidon và Jormungandr gây ảnh hưởng lớn đến đất liền, khiến Sybil phải đối mặt với thử thách mới. Cô nhận ra mình là một demigod và có những khả năng tiềm ẩn. Một loạt sự kiện bất ngờ xảy ra khi Heracles xuất hiện và Palma chiếm được Edrium. Arald thông báo tin tức quan trọng qua điện thoại, tiết lộ một âm mưu phức tạp liên quan đến Belial. Cuối cùng, Thor giành lại Mjölnir và Frondier bị đâm bởi một ngọn giáo bí ẩn.",
+ "boi_canh": "Một vùng biển hỗn loạn trong cuộc chiến giữa các vị thần.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Quinie",
+  "Lily",
+  "Malia",
+  "Baal",
+  "Arald",
+  "Gregory",
+  "Ria Lis",
+  "Thor",
+  "Heracles",
+  "Lis",
+  "Poseidon",
+  "Jormungandr",
+  "Sybil"
+ ],
+ "su_kien": [
+  "Cuộc chiến giữa Poseidon và Jormungandr làm thay đổi địa hình.",
+  "Sybil nhận ra mình là một demigod.",
+  "Palma chiếm được Edrium.",
+  "Arald thông báo tin tức về Palma qua điện thoại.",
+  "Thor giành lại Mjölnir và Frondier bị đâm bởi một ngọn giáo."
+ ],
+ "quan_he": [
+  {
+   "a": "Sybil",
+   "b": "Yor",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè lo lắng cho nhau trong chiến đấu.",
+   "cach_goi": "gọi tên Yor, không rõ"
+  },
+  {
+   "a": "Yor",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè lo lắng cho nhau trong chiến đấu.",
+   "cach_goi": "gọi tên Sybil, không rõ"
+  },
+  {
+   "a": "Sybil",
+   "b": "Heracles",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Sybil quan sát và đánh giá Heracles.",
+   "cach_goi": "gọi tên Heracles, không rõ"
+  },
+  {
+   "a": "Heracles",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết, Heracles trả lời Sybil.",
+   "cach_goi": "gọi tên Sybil, không rõ"
+  },
+  {
+   "a": "Arald",
+   "b": "Sybil",
+   "loai": "cap_tren",
+   "mo_ta": "Người báo tin quan trọng cho Sybil.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Arald",
+   "loai": "cap_tren",
+   "mo_ta": "Người báo tin quan trọng cho Sybil.",
+   "cach_goi": "gọi tên Arald, lễ phép"
+  },
+  {
+   "a": "Thor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thor",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "gọi tên Thor, thô lỗ"
+  },
+  {
+   "a": "Gregory",
+   "b": "Ria Lis",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội đang phối hợp hành động.",
+   "cach_goi": "gọi tên Ria Lis, không rõ"
+  },
+  {
+   "a": "Lily",
+   "b": "Quinie",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội đang phối hợp hành động.",
+   "cach_goi": "gọi tên Quinie, không rõ"
+  },
+  {
+   "a": "Aster",
+   "b": "Roach’s Big Boss",
+   "loai": "cap_tren",
+   "mo_ta": "Aster nhận lệnh từ cấp trên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Arald tự xưng là Belial để lừa dối cả Palma và các Demon, tạo ra một sự ngụy trang phức tạp."
+ ],
+ "stats": {
+  "tokens": 1188,
+  "seconds": 35.9
+ }
+}

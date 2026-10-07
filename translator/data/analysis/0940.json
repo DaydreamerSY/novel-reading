@@ -1,0 +1,83 @@
+{
+ "number": 940,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi phá vỡ nhiều lớp rào cản ma thuật với sự giúp đỡ của Selena, Frondier và Selena đến được một khu vực đặc biệt dẫn vào Tartarus. Họ đối mặt với ba nữ thần Moirai, những người đã bắt giữ Selena làm con tin. Các nữ thần tiết lộ rằng hành trình của Frondier là do họ sắp đặt để đánh giá nhân loại và anh ta phải chết.",
+ "boi_canh": "Frondier và Selena đang rơi xuống một khu vực đặc biệt dẫn vào Tartarus.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Azier",
+  "Belphegor",
+  "Moirai (goddess on the left)",
+  "Moirai (goddess in the center)",
+  "Moirai (goddess on the right)"
+ ],
+ "su_kien": [
+  "Frondier và Selena phá vỡ các rào cản ma thuật.",
+  "Selena sử dụng mũi tên cuối cùng để phá hủy rào cản cuối cùng.",
+  "Frondier và Selena đến một khu vực đặc biệt dẫn vào Tartarus.",
+  "Các nữ thần Moirai bắt giữ Selena làm con tin.",
+  "Các nữ thần tiết lộ rằng hành trình của Frondier là do họ sắp đặt."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "đồng minh, Frondier bảo vệ và hướng dẫn Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "đối tượng được bảo vệ và kính trọng Frondier.",
+   "cach_goi": "gọi 'Young Master', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai mất tích, Frondier đang tìm kiếm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "người cung cấp thông tin về Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Moirai (goddess on the left)",
+   "b": "Selena",
+   "loai": "ke_thu",
+   "mo_ta": "bắt giữ Selena làm con tin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Moirai (goddess in the center)",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "tiết lộ kế hoạch của họ và chế nhạo Frondier.",
+   "cach_goi": "lạnh lùng, trịch thượng"
+  },
+  {
+   "a": "Moirai (goddess on the right)",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "tiết lộ kế hoạch của họ và chế nhạo Frondier.",
+   "cach_goi": "lạnh lùng, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Khryselakatos",
+  "Ioecheira",
+  "Mana of the Nine Worlds (Rank - Divine)"
+ ],
+ "stats": {
+  "tokens": 904,
+  "seconds": 27.2
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "number": 692,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đã hứa với Monty và Lily để đổi lấy sự tham gia của các thành viên Zodiac vào cuộc chiến chống lại Manggot. Anh phải trở thành đệ tử của Monty, điều này khiến gia đình anh lo lắng. Sau khi giải thích tình hình, Frondier bị Azier kéo đến bãi tập luyện, nơi Azier bắt đầu huấn luyện anh sử dụng giáo, một vũ khí đặc biệt mà chỉ có thể được tái tạo bởi chính Frondier.",
+ "boi_canh": "Phòng khách nhà Frondier, sau bữa ăn tối.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Quinie",
+  "Lily",
+  "Enfer",
+  "Malia",
+  "Monty"
+ ],
+ "su_kien": [
+  "Frondier hứa trở thành đệ tử của Monty.",
+  "Gia đình Frondier bày tỏ sự lo lắng về việc anh trở thành đệ tử của Monty.",
+  "Enfer chấp thuận việc Frondier trở thành đệ tử của Monty.",
+  "Azier kéo Frondier đến bãi tập luyện để huấn luyện.",
+  "Azier bắt đầu dạy Frondier cách sử dụng giáo."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier phải thực hiện lời hứa với người có địa vị cao hơn.",
+   "cach_goi": "gọi tên Monty, thân mật"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người có địa vị cao hơn, Frondier phải thực hiện lời hứa với người này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier đã hứa với Lily.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier đã hứa với Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và cha, Frondier giải thích tình hình với cha mình.",
+   "cach_goi": "gọi 'cha', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, cha bày tỏ sự quan tâm.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và mẹ, Frondier giải thích tình hình với mẹ mình.",
+   "cach_goi": "gọi 'mẹ', lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con trai, mẹ bày tỏ sự quan tâm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "dong_minh",
+   "mo_ta": "Anh em ruột thịt, Azier kéo Frondier đến bãi tập luyện.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Anh em ruột thịt, Azier huấn luyện Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Azier de Roach: Anh trai của Frondier"
+ ],
+ "stats": {
+  "tokens": 1090,
+  "seconds": 32.6
+ }
+}

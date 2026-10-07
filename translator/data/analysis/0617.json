@@ -1,0 +1,73 @@
+{
+ "number": 617,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Elysia bị Frondier bắt được sau một hồi bỏ trốn và ngất xỉu, anh suy nghĩ về cách thuyết phục cô trở thành đồng minh. Anh lo lắng cho sức khỏe của cô trong thời tiết lạnh giá và đưa cô đến chỗ ở thuê. Tuy nhiên, Elysia lại bị sốt cao, khiến Frondier phải thay khăn chườm và rời đi để tránh làm phiền cô. Cuối cùng, anh quay lại khi cô tỉnh lại và bắt đầu cuộc trò chuyện bằng cách yêu cầu cô kể mọi thứ cô biết.",
+ "boi_canh": "Một buổi tối mưa tại một quán trọ thuê.",
+ "nhan_vat": [
+  "Frondier",
+  "Elysia",
+  "Philly",
+  "Aten",
+  "Sybil",
+  "Sale"
+ ],
+ "su_kien": [
+  "Elysia ngất xỉu sau khi bỏ trốn.",
+  "Frondier đỡ Elysia dậy và đưa cô đến chỗ ở thuê.",
+  "Elysia bị sốt cao sau khi tỉnh lại.",
+  "Frondier rời khỏi phòng để tránh làm phiền Elysia.",
+  "Frondier quay lại và bắt đầu trò chuyện với Elysia."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ phức tạp, từng là kẻ thù nhưng Frondier muốn cô trở thành đồng minh.",
+   "cach_goi": "gọi tên Elysia, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cảnh giác và sợ hãi với Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp trong chương này, nhưng Frondier suy nghĩ về tính cách của Philly.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp trong chương này, nhưng Frondier suy nghĩ về tính cách của Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sale",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp trong chương này, nhưng Frondier suy nghĩ về tính cách của Sale.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp trong chương này, nhưng Frondier so sánh Elysia với Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elysia: Tên đầy đủ là Elysia Terst, trước đây là công chúa."
+ ],
+ "stats": {
+  "tokens": 821,
+  "seconds": 25.7
+ }
+}

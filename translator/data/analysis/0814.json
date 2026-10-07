@@ -1,0 +1,103 @@
+{
+ "number": 814,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier chấp nhận dạy một nhóm học sinh bất thường, anh ta đã phải đối mặt với những hiểu lầm và sự nhiệt tình thái quá từ Pielott và Basileo. Một cuộc gặp gỡ khác diễn ra giữa Aias và Glaukos, dẫn đến một cuộc tranh cãi ngắn ngủi và bị Frondier can thiệp. Cuối cùng, Frondier nhắc nhở Aias về tiềm năng của mình và sự cần thiết phải đưa ra những quyết định quan trọng.",
+ "boi_canh": "Phòng học kết hợp chiến đấu phép thuật tại Atlas, trong một buổi học không chính thức.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Azier",
+  "Pielott",
+  "Basileo",
+  "Aster Evans",
+  "Aias",
+  "Glaukos"
+ ],
+ "su_kien": [
+  "Frondier chấp nhận dạy một nhóm học sinh bất thường.",
+  "Basileo thể hiện sự nhiệt tình thái quá và mong muốn được học hỏi từ Frondier.",
+  "Aias và Glaukos tranh cãi về sức mạnh của nhau.",
+  "Glaukos bị trói bằng Dây Đen của Frondier sau khi cố gắng khiêu khích Aias.",
+  "Frondier nhắc nhở Aias về tiềm năng của mình và sự cần thiết phải đưa ra những quyết định quan trọng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, Basileo rất nhiệt tình và mong muốn được học hỏi.",
+   "cach_goi": "gọi 'Teacher Frondier', lễ phép"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh rất nhiệt tình và mong muốn được học hỏi.",
+   "cach_goi": "gọi 'Teacher Frondier', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "khac",
+   "mo_ta": "Quan hệ không rõ ràng, Pielott quan sát và có vẻ hiểu ý Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Quan hệ không rõ ràng, Pielott quan sát và có vẻ hiểu ý Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aias",
+   "b": "Glaukos",
+   "loai": "doi_thu",
+   "mo_ta": "Căng thẳng và thù địch, Aias có vẻ tức giận với Glaukos.",
+   "cach_goi": "gọi tên Glaukos, lạnh lùng"
+  },
+  {
+   "a": "Glaukos",
+   "b": "Aias",
+   "loai": "doi_thu",
+   "mo_ta": "Căng thẳng và thù địch, Glaukos tỏ ra tôn trọng nhưng có ý định khác.",
+   "cach_goi": "gọi tên Aias, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aias",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên và học sinh, Frondier đánh giá Aias.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aias",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Học sinh và giáo viên, Aias có vẻ bối rối và không chắc chắn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Glaukos",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, Frondier cảnh báo Glaukos.",
+   "cach_goi": "gọi tên Glaukos, lạnh lùng"
+  },
+  {
+   "a": "Glaukos",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên, Glaukos sợ hãi và tôn trọng Frondier.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1180,
+  "seconds": 35.5
+ }
+}

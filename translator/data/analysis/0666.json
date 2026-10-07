@@ -1,0 +1,113 @@
+{
+ "number": 666,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đưa Elysia trở lại Cung điện Hoàng gia, Frondier lên kế hoạch để thúc đẩy việc Elysia tái nhập cung, với mục đích tạo điều kiện cho Philly và Elysia đối mặt trực tiếp. Trong lúc đó, Aster nhận xét về sự thiếu hụt lực lượng của cả hai phe trong cuộc chiến, ám chỉ đến sự vượt trội về sức mạnh của Frondier so với bản thân mình. Selena báo cáo về vị trí của Lunia, và nhóm chuẩn bị cho một trận chiến mới.",
+ "boi_canh": "Tại Cung điện Hoàng gia, chuẩn bị cho việc Elysia tái nhập cung.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Philly",
+  "Elysia",
+  "Pielott",
+  "Dier",
+  "Lunia",
+  "Baal",
+  "Marco"
+ ],
+ "su_kien": [
+  "Frondier quyết định đưa Elysia trở lại Cung điện Hoàng gia.",
+  "Elysia nghi ngờ Frondier có động cơ ẩn sau việc giúp đỡ cô.",
+  "Aster nhận xét về sự chênh lệch sức mạnh giữa Frondier và bản thân.",
+  "Selena báo cáo vị trí của Lunia.",
+  "Nhóm chuẩn bị cho một trận chiến mới để giải cứu Lunia."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier giúp đỡ Elysia tái nhập cung, Elysia nghi ngờ động cơ của Frondier.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Elysia nghi ngờ động cơ của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier lo ngại Philly, không trực tiếp giao tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Aster và Dier thảo luận về sự chênh lệch sức mạnh giữa Frondier và Aster.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Aster và Dier thảo luận về sự chênh lệch sức mạnh giữa Frondier và Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Dier và Elodie thảo luận về sự chênh lệch sức mạnh giữa Frondier và Aster.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Dier và Elodie thảo luận về sự chênh lệch sức mạnh giữa Frondier và Aster.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Aster và Elodie có quan hệ đồng đội, Aster đánh giá thấp bản thân.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Aster và Elodie có quan hệ đồng đội, Aster đánh giá thấp bản thân.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "khac",
+   "mo_ta": "Frondier đang cố gắng đánh thức Baal.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "nhóm",
+   "loai": "dong_minh",
+   "mo_ta": "Selena báo cáo vị trí của Lunia cho nhóm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elysia: trước đây là một thường dân, sắp trở lại Cung điện Hoàng gia."
+ ],
+ "stats": {
+  "tokens": 1218,
+  "seconds": 38.0
+ }
+}

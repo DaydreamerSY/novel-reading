@@ -1,0 +1,91 @@
+{
+ "number": 758,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp Poseidon và được biết về những vị thần còn sót lại trên vùng đất này, cùng với vết thương bí ẩn mà họ phải chịu. Poseidon giao nhiệm vụ tìm kiếm Heracles để hiểu rõ hơn về sự kiện trong quá khứ và tình hình hiện tại. Sau đó, Frondier báo cáo lại cho đồng đội về cuộc gặp gỡ với Poseidon và kế hoạch tìm kiếm Heracles ở Agoris.",
+ "boi_canh": "Frondier đang cúi chào trước mặt Poseidon trên một vùng đất bí ẩn.",
+ "nhan_vat": [
+  "Frondier",
+  "Poseidon",
+  "Elodie",
+  "Pielott",
+  "Mei",
+  "Odin",
+  "Thor",
+  "Heracles",
+  "Zeus"
+ ],
+ "su_kien": [
+  "Frondier gặp Poseidon và được biết về sự tồn tại của các vị thần còn sót lại.",
+  "Poseidon tiết lộ vết thương bí ẩn mà các vị thần phải chịu trong chiến tranh.",
+  "Poseidon giao nhiệm vụ cho Frondier tìm kiếm Heracles.",
+  "Frondier báo cáo tình hình với Elodie, Pielott và Mei.",
+  "Frondier đề xuất kế hoạch nghiên cứu tài liệu để tìm kiếm Heracles ở Agoris."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Poseidon",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier cúi chào và tôn trọng Poseidon, báo cáo tình hình.",
+   "cach_goi": "gọi 'Lord Poseidon', lễ phép"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Poseidon giao nhiệm vụ và đưa ra lời khuyên cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Frondier báo cáo tình hình cho Elodie.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Elodie đặt câu hỏi cho Frondier về tình hình.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Frondier báo cáo tình hình cho Pielott.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Pielott không nói chuyện trực tiếp với Frondier.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Frondier báo cáo tình hình cho Mei.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Mei không nói chuyện trực tiếp với Frondier.",
+   "cach_goi": "gọi tên, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Heracles: Một nhân vật được nhắc đến trong truyền thuyết, có thể là một demigod hoặc một người có sức mạnh của thần.",
+  "Zeus, Odin, Thor, Poseidon: Các vị thần đã từng tham gia chiến tranh."
+ ],
+ "stats": {
+  "tokens": 978,
+  "seconds": 29.2
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "number": 714,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào những lời đồn đại tiêu cực đang lan truyền về Frondier sau khi ông giúp ngăn chặn chiến tranh và đánh bại Belphegor. Để thảo luận tình hình, Frondier bí mật gặp Philly và Elysia tại một địa điểm an toàn. Cuộc họp cũng tiết lộ thêm thông tin về khả năng 'tiên tri' độc đáo của Philly, không phải là nhìn thấy tương lai mà là có lượng kiến thức khổng lồ cho phép dự đoán chính xác.",
+ "boi_canh": "Trong căn cứ bí mật dưới tầng hầm cửa hàng bách hóa Terst.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Elysia",
+  "Mom"
+ ],
+ "su_kien": [
+  "Dư luận về Frondier trở nên tiêu cực, lan truyền tin đồn thất thiệt.",
+  "Frondier, Philly và Elysia bí mật gặp nhau tại cửa hàng bách hóa Terst.",
+  "Philly nhận thấy vết thương trên mặt Frondier.",
+  "Frondier tiết lộ lý do ông bị coi là người ngoài đối với sự kiện tấn công của quỷ.",
+  "Philly giải thích về khả năng 'tiên tri' độc đáo của mình, dựa trên kiến thức sâu rộng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier báo cáo tình hình cho Hoàng hậu. Thân thiện nhưng có sự tôn trọng.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu quan tâm đến vết thương của Frondier và hỏi về tình hình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "ban_be",
+   "mo_ta": "Chào hỏi ngắn gọn, thể hiện sự tôn trọng với Công chúa.",
+   "cach_goi": "gọi tên Elysia, lễ phép"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Chào lại Frondier một cách lịch sự.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ con, quan hệ gần gũi.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ con, quan hệ gần gũi.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Nhân vật chính, đang bị dính líu đến những tin đồn thất thiệt.",
+  "Philly: Hoàng hậu, có khả năng 'tiên tri' dựa trên kiến thức sâu rộng của dòng máu Vala."
+ ],
+ "stats": {
+  "tokens": 844,
+  "seconds": 25.2
+ }
+}

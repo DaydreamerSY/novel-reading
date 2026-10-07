@@ -1,0 +1,81 @@
+{
+ "number": 623,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi xe ngựa gia đình Roach đến Cung điện Hoàng gia, Frondier và Elysia phải đối mặt với những tình huống dở khóc dở cười liên quan đến trang phục hầu gái và sự lo lắng của Elysia khi phải xuất hiện trước công chúng. Sự đón tiếp long trọng của lính gác khiến Elysia bối rối, đặc biệt khi cô nhận ra mình bị bỏ qua hoàn toàn trong màn chào mừng này, chỉ dành cho Frondier. Cuộc gặp lại bất ngờ với Hoàng hậu Philly càng làm tăng thêm sự khó hiểu và hoang mang của Elysia.",
+ "boi_canh": "Trong xe ngựa trên đường đến Cung điện Hoàng gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Philly Terst",
+  "Elysia",
+  "Mom",
+  "Shadow",
+  "R"
+ ],
+ "su_kien": [
+  "Người lái xe nhìn trộm Elysia vì cô ngồi cạnh Frondier.",
+  "Frondier đề nghị Elysia đóng vai hầu gái để dễ dàng vào Cung điện Hoàng gia.",
+  "Elysia lo lắng khi phải đối mặt với những người quen trong Cung điện Hoàng gia.",
+  "Philly chào đón Frondier một cách long trọng, nhưng phớt lờ sự hiện diện của Elysia.",
+  "Frondier và Philly trao nhau những nụ cười đầy ý nghĩa."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier trêu chọc và ra lệnh cho Elysia.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Elysia bối rối và phản đối những lời nói của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Chào hỏi và trao đổi lịch sự.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Chào đón và khen ngợi Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Elysia",
+   "loai": "dong_minh",
+   "mo_ta": "Phớt lờ sự hiện diện của Elysia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Bày tỏ sự bối rối và hoang mang.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Elysia từng là người trị vì của đế quốc, nhưng đã lui vương."
+ ],
+ "stats": {
+  "tokens": 903,
+  "seconds": 28.3
+ }
+}

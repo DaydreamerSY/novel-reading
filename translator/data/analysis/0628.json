@@ -1,0 +1,69 @@
+{
+ "number": 628,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier quan sát một trận chiến ba bên giữa Adolf và hai người là Pielott và Dier. Adolf tấn công bằng những quả cầu năng lượng nguy hiểm, buộc Pielott và Dier phải liên tục né tránh. Trận đấu rơi vào thế bế tắc khi cả hai bên đều không thể tiếp cận đối phương. Dier sử dụng tín hiệu tay bí mật được Frondier dạy để giao tiếp với Pielott, đồng thời phân tích chiến thuật của Adolf và tìm ra điểm yếu trong cách sử dụng năng lượng của hắn.",
+ "boi_canh": "Sân tập luyện, giữa một trận huấn luyện căng thẳng.",
+ "nhan_vat": [
+  "Frondier",
+  "Pielott",
+  "Dier",
+  "Adolf"
+ ],
+ "su_kien": [
+  "Adolf tấn công bằng những quả cầu năng lượng gây hủy diệt.",
+  "Pielott và Dier liên tục né tránh các đòn tấn công của Adolf.",
+  "Trận đấu rơi vào thế bế tắc do cả hai bên đều không thể tiếp cận đối phương.",
+  "Dier sử dụng tín hiệu tay bí mật để giao tiếp với Pielott.",
+  "Dier phân tích chiến thuật và tìm ra điểm yếu trong cách sử dụng năng lượng của Adolf."
+ ],
+ "quan_he": [
+  {
+   "a": "Adolf",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, khiêu khích và chế giễu.",
+   "cach_goi": "gọi 'Hahaha, oh dear!', trịch thượng"
+  },
+  {
+   "a": "Adolf",
+   "b": "Dier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, khiêu khích và chế giễu.",
+   "cach_goi": "gọi 'Hahaha, oh dear!', trịch thượng"
+  },
+  {
+   "a": "Pielott",
+   "b": "Adolf",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, né tránh các đòn tấn công.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Adolf",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, né tránh các đòn tấn công.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, giao tiếp bằng tín hiệu tay.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, giao tiếp bằng tín hiệu tay.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 768,
+  "seconds": 23.0
+ }
+}

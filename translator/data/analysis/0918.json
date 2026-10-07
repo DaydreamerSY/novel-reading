@@ -1,0 +1,73 @@
+{
+ "number": 918,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hạ cánh, Frondier và Belphegor phát hiện ra môi trường xung quanh bị tàn phá nghiêm trọng do sức mạnh của Gram. Họ tìm kiếm gốc rễ của Yggdrasil theo chỉ dẫn của Belphegor, đối mặt với những hiểu lầm về kích thước của rễ cây và nhận được lời giải thích từ Belphegor. Cuối cùng, họ chạm trán với những người đàn ông đóng băng trong Niflheim, gợi ý về một câu chuyện bi thảm và sự thật đắng cay.",
+ "boi_canh": "Môi trường xung quanh sau khi sử dụng Gram để tìm kiếm gốc rễ của Yggdrasil.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Belphegor",
+  "Azier",
+  "Hela",
+  "Penelope"
+ ],
+ "su_kien": [
+  "Frondier và Belphegor hạ cánh xuống một khu vực bị phá hủy.",
+  "Belphegor chỉ ra gốc rễ của Yggdrasil bằng mana của mình.",
+  "Frondier và Selena tranh luận về kích thước của gốc rễ.",
+  "Họ phát hiện những người đàn ông đóng băng trong Niflheim.",
+  "Belphegor tiết lộ sự thật về những người đàn ông đóng băng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được Frondier bảo vệ và đưa đi.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được Frondier bảo vệ và đưa đi.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh và người hướng dẫn.",
+   "cach_goi": "gọi tên Belphegor, không rõ cảm xúc"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh và người hướng dẫn.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được quan sát và đánh giá.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Belphegor",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được quan sát và đánh giá.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Những người đàn ông đóng băng trong Niflheim: Có thể là những người đã từng kháng chiến chống lại các vị thần, được gọi là 'Giants'."
+ ],
+ "stats": {
+  "tokens": 787,
+  "seconds": 23.7
+ }
+}

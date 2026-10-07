@@ -1,0 +1,251 @@
+# NGỮ CẢNH TRUYỆN THEO GIAI ĐOẠN (số chương novelight). Lấy từ story/so_tay_cot_truyen.md.
+# Được gửi kèm khi dịch, chỉnh xưng hô và phân xử: chỉ phần khớp với chương đang làm (arc của chương, nhân vật
+# có mặt, quan hệ giữa những người có mặt), để model biết ai thiện / ác, thuộc phe nào, quan hệ đang ở đâu.
+#
+# chuong: khoảng chương, "1-123" hoặc "688-" (từ 688 trở đi). Mốc có "~" ở ghi chú là ước lượng, nên kiểm tra.
+# nhan_vat → mỗi giai đoạn:
+#   lap_truong: lập trường đối với Frondier (bạn, đồng minh, đối địch, kẻ thù, trung lập...)
+#   vai_tro:    hoàn cảnh / vai trò ở giai đoạn đó
+#   ngoi3:      người kể (Frondier, ngôi thứ nhất) gọi nhân vật này trong lời kể là gì: "anh ấy", "anh ta",
+#               "hắn", "cô ấy", "cô ta", "nàng", "cậu", "ông", "bà", "lão", "nó"... Có thể thay bằng tên khi
+#               câu vẫn rõ nghĩa. Ở chương kể ngôi thứ ba theo góc nhìn nhân vật khác, model tự điều chỉnh.
+# quan_he → "A – B" (không phân chiều), mỗi giai đoạn một trạng thái.
+# ghi_chu → lưu ý xưng hô cho một chương / một cảnh, nhất là với nhân vật không tên (quy tắc xưng hô trong
+#           glossary chỉ đặt được cho nhân vật có tên). Model được yêu cầu làm theo.
+
+arc:
+  - {chuong: "1-15", ten: "Xuyên không & Mistilteinn", noi_dung: "Frondier 'lười' bị cha ép vào top 10; vạch trần Mistilteinn giả; Gram, Obsidian; Thanatos"}
+  - {chuong: "16-29", ten: "Quinie & ngục tối đầu", noi_dung: "Cược tranh với Quinie; nhóm vào ngục tối; hồn ma Slevb; rune Menosorpo"}
+  - {chuong: "30-51", ten: "Edwin & golem", noi_dung: "Tyburn bị tấn công; Edwin bị tha hoá; cứu Ellen"}
+  - {chuong: "52-71", ten: "Indus lần 1", noi_dung: "Serf Daniel gài bẫy; Elodie và Sybil cứu; Serf chết"}
+  - {chuong: "72-97", ten: "Dragon Heart & Renzo", noi_dung: "Aten chuyển vào lớp; Renzo bắt cóc Aten; Mjölnir"}
+  - {chuong: "98-124", ten: "Âm mưu Elysia (Raid)", noi_dung: "Elysia chủ mưu; Alex phản bội; Chimera; Philly đâm Elysia; Elysia bị tước tước vị"}
+  - {chuong: "125-152", ten: "Thi cuối năm nhất", noi_dung: "Azier dạy học; đấu giá Arkre; Frondier hạng 1"}
+  - {chuong: "153-196", ten: "Tyburn", noi_dung: "Sát thủ Jei (Manggot) thành Selena, tùy tùng của Frondier; Merlin, Nimue, Excalibur"}
+  - {chuong: "197-240", ten: "Học kỳ 2: tin đồn & Indus", noi_dung: "Pascal; kẻ giả Serf (Gregory); Kraken; Kora"}
+  - {chuong: "241-320", ten: "Armel, Cropolis & sụp đổ Indus", noi_dung: "Quá khứ nhà Viet; Heldre là thủ lĩnh Indus; Cain; Esther; Renzo hồi sinh"}
+  - {chuong: "321-372", ten: "Yeranhes & Helheim", noi_dung: "Sylvain, Laurie; Hela; Frondier hấp thụ Helheim"}
+  - {chuong: "373-400", ten: "Năm hai", noi_dung: "Ellen làm hội trưởng; Dier, Pielott, Hypnos"}
+  - {chuong: "401-432", ten: "Tiêm Mana", noi_dung: "Ellen bị ép tiêm mana; Eden; Angus; Frondier thành Pro"}
+  - {chuong: "433-472", ten: "Hoàng cung, Metamorph & Satan", noi_dung: "Quái vật bắt chước thành Mei; Mizonas; Satan"}
+  - {chuong: "473-500", ten: "Osprey & giấc mơ Elodie", noi_dung: "Osprey tự xoá mình; Frondier thú nhận với Elodie; Selena rời đi"}
+  - {chuong: "501-571", ten: "Chiến tranh Manggot", noi_dung: "Renzo nhập cuộc; Selena phản Manggot; hạ Belphegor"}
+  - {chuong: "572-626", ten: "Hiệp sĩ của Lily & quỷ trong Đế quốc", noi_dung: "Frondier làm hiệp sĩ của Zodiac Lily (quỷ của Satan); Hitchcock, Arald là quỷ; Elysia bỏ trốn rồi thành hầu gái của Frondier"}
+  - {chuong: "627-639", ten: "Quỷ tấn công Constel", noi_dung: "Adolf, Marchosias"}
+  - {chuong: "640-690", ten: "Chiến tranh quỷ trong Đế quốc", noi_dung: "Marco = Marchosias; Lunia bị bắt cóc; Frondier hạ Baal bằng Pandemonium, Baal quy phục; Lily trung thành; Elysia trở lại làm công chúa"}
+  - {chuong: "691-703", ten: "Mùa đông huấn luyện", noi_dung: "Frondier làm đệ tử Monty; học thương với Azier, Revet; kiếm với Ellen"}
+  - {chuong: "704-719", ten: "Năm ba", noi_dung: "Cain nhập học, tố Frondier; Philly mất năng lực tiên tri; Hagley bị bắt"}
+  - {chuong: "720-744", ten: "Âm mưu Odin & bị trục xuất", noi_dung: "Odin chiếm thân xác Sale; Frondier chấp nhận bị trục xuất (741); Elodie bỏ nhà đi theo"}
+  - {chuong: "745-753", ten: "Manggot cổ", noi_dung: "Manggot là rune Menosorpo khổng lồ; Jeanne biết Frondier không phải Frondier thật"}
+  - {chuong: "754-760", ten: "Vượt biển tới Agoris", noi_dung: "Pielott trốn lên tàu; Mjölnir bay tới Frondier; Poseidon giao nhiệm vụ tìm Heracles; thoả thuận với Baal"}
+  - {chuong: "761-779", ten: "Học viện Atlas", noi_dung: "Frondier và Elodie làm giáo viên, giả vờ ghét nhau; Basileo, Aias, Zenita; Giotto nghe lén; nhà Sandri nhờ điều tra hiệu trưởng Carla"}
+  - {chuong: "780-799", ten: "Machia, Medusa, Athena & Bune", noi_dung: "Giải đấu Machia; Carla = Medusa; Athena trong Pandemonium, khiên Aegis; Paladin Antero bị quỷ Bune chiếm xác"}
+  - {chuong: "800-826", ten: "Poseidon giả & Heracles", noi_dung: "Phe Hera và Aphrodite ở Palma; Paladin Charon nhận thần lực từ Poseidon giả; Heracles và Telephos; Basileo tạo Hellfire"}
+  - {chuong: "827-881", ten: "Thủ đô Palma & Chúa Quỷ", noi_dung: "Hypnos ban sức mạnh cho Pielott; Vishnu nhập Elodie; Apollo trong Ludovic, Ares trong Renzo; Frondier tự xưng Chúa Quỷ (867), Baal và 72 quỷ theo anh; Aster chém Zeus; Táo Vàng"}
+  - {chuong: "882-899", ten: "Trở lại Atlas & Người khổng lồ", noi_dung: "Aster dạy thay ở Atlas; Heracles chỉ đường tới Người khổng lồ; Zodiac bị thần nhắm tới; Sigurd: Ragnarok chưa kết thúc, Loki đứng sau"}
+  - {chuong: "900-913", ten: "Cái chết của Azier", noi_dung: "Azier chết (Thanatos); Frondier giao kèo với Belphegor qua Táo Vàng, hoá thành quỷ; Nastrond; Fenrir"}
+  - {chuong: "914-932", ten: "Thần tấn công & Niflheim", noi_dung: "Elodie báo trước thần sắp tấn công; Niflheim; Sybil là á thần, con của Idun; Hela; Renzo chống Ares, đánh Tyr"}
+  - {chuong: "933-946", ten: "Ma giới, Olympus & Moirai", noi_dung: "Belphegor hạ Astaroth; Hestia cứu Frondier; ký ức các anh hùng; Frondier giết Moirai; Odin sai Thor giết Frondier"}
+  - {chuong: "947-971", ten: "Đại chiến thần – người", noi_dung: "Linh hồn Frondier thật ở Tartarus; Thanatos đấu Azier; Mistilteinn; Zodiac đấu thần; Frondier đấu Thor; Azier được giải thoát; Mei trở về"}
+
+nhan_vat:
+  Elodie:
+    - {chuong: "1-29", lap_truong: "bạn thuở nhỏ, đang hiểu lầm, khó chịu với Frondier 'lười'", vai_tro: "học viên Constel, năm năng lực thần thánh", ngoi3: "cô ấy"}
+    - {chuong: "30-740", lap_truong: "bạn thân, ngày càng gắn bó; biết linh hồn Frondier đã khác (488)", vai_tro: "học viên Constel", ngoi3: "cô ấy"}
+    - {chuong: "741-760", lap_truong: "bỏ nhà đi theo Frondier", vai_tro: "đồng hành", ngoi3: "cô ấy"}
+    - {chuong: "761-971", lap_truong: "đồng hành thân thiết; ở Atlas giả vờ ghét Frondier trước mặt người khác", vai_tro: "giáo viên Atlas; bị Vishnu nhập (844-847); thức tỉnh thần tính (926)", ngoi3: "cô ấy"}
+  Aster:
+    - {chuong: "1-870", lap_truong: "bạn học; Frondier âm thầm dẫn dắt; Aster ngưỡng mộ, muốn đuổi kịp", vai_tro: "nhân vật chính gốc của game", ngoi3: "cậu ấy"}
+    - {chuong: "871-873", lap_truong: "giao đấu với Frondier ở Palma (đối đầu tạm thời)", vai_tro: "nhận Ecleksis từ các thần", ngoi3: "cậu ấy"}
+    - {chuong: "874-971", lap_truong: "cùng phe", vai_tro: "chém Zeus; giáo viên tạm ở Atlas (882-)", ngoi3: "cậu ấy"}
+  Sybil:
+    - {chuong: "1-971", lap_truong: "bạn học thân thiện; tự nhận là bạn gái Frondier (858)", vai_tro: "năng lực may mắn/số phận; á thần, con của Idun (921)", ngoi3: "cô ấy"}
+  Aten:
+    - {chuong: "1-971", lap_truong: "bạn học thân", vai_tro: "công chúa thứ ba", ngoi3: "cô ấy"}
+  Quinie:
+    - {chuong: "1-971", lap_truong: "khoá trên, đối tác làm ăn, thân thiện", vai_tro: "thương hội Viet", ngoi3: "chị ấy"}
+  Ellen:
+    - {chuong: "1-971", lap_truong: "khoá trên, thân thiện", vai_tro: "chị của Aster; hội trưởng hội học sinh", ngoi3: "chị ấy"}
+  Selena:
+    - {chuong: "1-196", lap_truong: "sát thủ Manggot (Jei) theo dõi Frondier, rồi thành tùy tùng (~)", vai_tro: "sát thủ", ngoi3: "cô ta"}
+    - {chuong: "197-498", lap_truong: "tùy tùng trung thành", vai_tro: "tùy tùng của Frondier", ngoi3: "cô ấy"}
+    - {chuong: "499-571", lap_truong: "rời Frondier, kẹt giữa Manggot và Frondier, cuối cùng phản Manggot", vai_tro: "người của Manggot", ngoi3: "cô ấy"}
+    - {chuong: "572-971", lap_truong: "đồng hành gắn bó, trung thành", vai_tro: "tùy tùng; Shadow Transfer", ngoi3: "cô ấy"}
+  Elysia:
+    - {chuong: "1-123", lap_truong: "đối địch, chủ mưu vụ Raid", vai_tro: "công chúa cả, kiêu ngạo", ngoi3: "cô ta"}
+    - {chuong: "124-611", lap_truong: "thù Frondier; không biết anh đã ngầm cứu cô khỏi án tử", vai_tro: "bị tước tước vị, sống ẩn dưới giám sát của Đế quốc", ngoi3: "cô ta"}
+    - {chuong: "612-622", lap_truong: "thù địch, bỏ trốn; Frondier bắt được và tìm cách thuyết phục", vai_tro: "thường dân, bị một gã quý tộc dụ dỗ (612)", ngoi3: "cô ta"}
+    - {chuong: "623-687", lap_truong: "hầu gái của Frondier, dần tin tưởng anh", vai_tro: "hầu gái (dưới danh nghĩa phục vụ Lily)", ngoi3: "cô"}
+    - {chuong: "688-971", lap_truong: "đồng minh thân thiết", vai_tro: "trở lại làm công chúa, chỉ huy Shadow Unit", ngoi3: "cô ấy"}
+  Lily:
+    - {chuong: "572-686", lap_truong: "nguy hiểm, khó lường; là quỷ của Satan; Frondier làm hiệp sĩ của cô (574-585)", vai_tro: "Zodiac, năng lực Charm", ngoi3: "cô ta"}
+    - {chuong: "687-971", lap_truong: "trung thành tuyệt đối, gọi Frondier là 'chủ nhân'", vai_tro: "thuộc hạ của Frondier", ngoi3: "cô"}
+  Renzo:
+    - {chuong: "1-504", lap_truong: "kẻ thù nguy hiểm", vai_tro: "'Glutton of Chaos'", ngoi3: "hắn"}
+    - {chuong: "505-971", lap_truong: "đồng minh bất đắc dĩ, vẫn ngang ngược", vai_tro: "mang Ares trong người (850-), chống lại Ares", ngoi3: "hắn"}
+  Baal:
+    - {chuong: "640-678", lap_truong: "kẻ thù, quỷ mạnh nhất trong 72 quỷ", vai_tro: "quỷ", ngoi3: "hắn"}
+    - {chuong: "679-866", lap_truong: "đã quy phục, đối tác dè chừng", vai_tro: "quỷ, ở Agoris", ngoi3: "hắn"}
+    - {chuong: "867-971", lap_truong: "thuộc hạ của Frondier (Chúa Quỷ từ 880)", vai_tro: "đứng đầu 72 quỷ", ngoi3: "hắn"}
+  Belphegor:
+    - {chuong: "1-905", lap_truong: "kẻ thù (thủ lĩnh Manggot)", vai_tro: "quỷ, tội Lười Biếng", ngoi3: "hắn"}
+    - {chuong: "906-971", lap_truong: "đối tác giao kèo, trịch thượng", vai_tro: "quỷ, tội Lười Biếng", ngoi3: "hắn"}
+  Satan:
+    - {chuong: "1-971", lap_truong: "kẻ thù", vai_tro: "chúa quỷ phe cũ", ngoi3: "hắn"}
+  Marco:
+    - {chuong: "627-971", lap_truong: "kẻ thù, bị bắt giữ làm nguồn tin", vai_tro: "quỷ Marchosias", ngoi3: "hắn"}
+  Hagley:
+    - {chuong: "1-971", lap_truong: "kẻ thù", vai_tro: "người của Manggot, cha nuôi / thầy của Selena", ngoi3: "lão"}
+  Heldre:
+    - {chuong: "1-320", lap_truong: "kẻ thù ngầm", vai_tro: "Zodiac, thủ lĩnh Indus", ngoi3: "lão"}
+  Enfer:
+    - {chuong: "1-971", lap_truong: "cha nghiêm khắc", vai_tro: "gia chủ nhà Roach", ngoi3: "cha"}
+  Malia:
+    - {chuong: "1-971", lap_truong: "mẹ", vai_tro: "phu nhân nhà Roach", ngoi3: "mẹ"}
+  Azier:
+    - {chuong: "1-899", lap_truong: "anh trai", vai_tro: "con cả nhà Roach", ngoi3: "anh"}
+    - {chuong: "900-971", lap_truong: "anh trai; đã chết, linh hồn ở Tartarus, được giải thoát (970)", vai_tro: "linh hồn", ngoi3: "anh"}
+  Philly:
+    - {chuong: "1-971", lap_truong: "Hoàng hậu, quyền lực, lạnh lùng nhưng đánh giá cao Frondier", vai_tro: "Hoàng hậu Đế quốc Terst", ngoi3: "bà"}
+  Bartello:
+    - {chuong: "1-971", lap_truong: "Hoàng đế, lạnh nhạt", vai_tro: "Hoàng đế Đế quốc Terst", ngoi3: "ông"}
+  Sale:
+    - {chuong: "1-971", lap_truong: "công chúa, có lúc bị Odin chiếm xác (731-733)", vai_tro: "công chúa", ngoi3: "cô ta"}
+  Osprey:
+    - {chuong: "1-971", lap_truong: "thầy, quý mến Frondier", vai_tro: "hiệu trưởng Constel, Zodiac", ngoi3: "ông"}
+  Monty:
+    - {chuong: "1-971", lap_truong: "Zodiac; sư phụ của Frondier từ 695", vai_tro: "Zodiac", ngoi3: "ông"}
+  Ludwig:
+    - {chuong: "1-971", lap_truong: "trung lập, tôn trọng", vai_tro: "Zodiac, lãnh chúa Tyburn (nhà Urfa)", ngoi3: "ông"}
+  Ludovic:
+    - {chuong: "1-971", lap_truong: "Zodiac, nghiêm khắc nhưng không thù", vai_tro: "mang Apollo trong người (850-); dạy thay ở Atlas (915-)", ngoi3: "anh ta"}
+  Jane:
+    - {chuong: "1-971", lap_truong: "cô giáo", vai_tro: "giáo viên Constel, Zodiac", ngoi3: "cô ấy"}
+  Binkis:
+    - {chuong: "1-971", lap_truong: "cô giáo", vai_tro: "giáo sư Constel", ngoi3: "cô ấy"}
+  Pielott:
+    - {chuong: "386-396", lap_truong: "đối địch, thô lỗ", vai_tro: "đàn em khoá dưới", ngoi3: "cậu ta"}
+    - {chuong: "397-760", lap_truong: "đàn em kính trọng", vai_tro: "đàn em", ngoi3: "cậu"}
+    - {chuong: "761-971", lap_truong: "học trò", vai_tro: "học sinh Atlas; được Hypnos ban sức mạnh", ngoi3: "cậu"}
+  Dier:
+    - {chuong: "1-971", lap_truong: "đàn em ngưỡng mộ, đầu óc chiến lược", vai_tro: "đàn em", ngoi3: "cậu ấy"}
+  Mei:
+    - {chuong: "433-971", lap_truong: "được Frondier che chở", vai_tro: "Metamorph", ngoi3: "cô bé"}
+  Arald:
+    - {chuong: "572-971", lap_truong: "đồng minh, lễ phép với Frondier", vai_tro: "quỷ cổ, chủ tịch Hitchcock", ngoi3: "ông"}
+  Gregory:
+    - {chuong: "197-971", lap_truong: "từ kẻ giả mạo thành người làm việc cho Frondier", vai_tro: "biến thành quạ, đưa tin", ngoi3: "ông ta"}
+  Esther:
+    - {chuong: "1-971", lap_truong: "trung lập, nghiêm khắc", vai_tro: "cai ngục Morion, tạo bản sao", ngoi3: "cô ta"}
+  Cain:
+    - {chuong: "1-971", lap_truong: "thù địch, tố cáo Frondier", vai_tro: "cháu gái Heldre; năm nhất Constel (707-)", ngoi3: "cô ta"}
+  Laurie:
+    - {chuong: "1-971", lap_truong: "trung lập", vai_tro: "mật vụ Shadow Unit", ngoi3: "cô ta"}
+  Eden:
+    - {chuong: "1-971", lap_truong: "khó lường", vai_tro: "'anh hùng mạnh nhất'", ngoi3: "anh ta"}
+  Carla:
+    - {chuong: "761-782", lap_truong: "cấp trên đáng ngờ", vai_tro: "hiệu trưởng Atlas", ngoi3: "cô ta"}
+    - {chuong: "783-844", lap_truong: "lộ là Medusa, thành đồng minh", vai_tro: "hiệu trưởng Atlas (Medusa)", ngoi3: "cô"}
+    - {chuong: "845-971", lap_truong: "đồng minh; Athena trú trong thân xác Carla", vai_tro: "hiệu trưởng Atlas", ngoi3: "cô"}
+  Basileo:
+    - {chuong: "761-971", lap_truong: "học trò, xin theo Frondier học phép", vai_tro: "học sinh Atlas", ngoi3: "cậu"}
+  Aias:
+    - {chuong: "761-971", lap_truong: "học trò, kiêu ngạo dần chín chắn", vai_tro: "học sinh Atlas, có thần lực, nhà Achaea", ngoi3: "cậu"}
+  Zenita:
+    - {chuong: "761-971", lap_truong: "học trò, tinh ranh, thích cá cược", vai_tro: "học sinh Atlas, nhà Sandri", ngoi3: "cô bé"}
+  Glaukos:
+    - {chuong: "798-971", lap_truong: "học trò", vai_tro: "học sinh năm nhất Atlas", ngoi3: "cậu"}
+  Eriboia:
+    - {chuong: "761-971", lap_truong: "quý tộc thù địch", vai_tro: "phu nhân nhà Achaea, mẹ Aias", ngoi3: "bà ta"}
+  Liberto:
+    - {chuong: "761-971", lap_truong: "quý tộc, đối tác", vai_tro: "gia chủ nhà Sandri", ngoi3: "ông ta"}
+  Giotto:
+    - {chuong: "761-971", lap_truong: "đồng nghiệp đáng ngờ (nghe lén cho Carla)", vai_tro: "giáo viên Atlas", ngoi3: "anh ta"}
+  Antero:
+    - {chuong: "789-971", lap_truong: "kẻ thù kiêu ngạo; sau quỳ trước Frondier (867)", vai_tro: "Paladin của Palma, bị quỷ Bune chiếm xác", ngoi3: "hắn"}
+  Charon:
+    - {chuong: "800-971", lap_truong: "kẻ thù", vai_tro: "Paladin của Palma, nhận thần lực từ Poseidon giả", ngoi3: "hắn"}
+  Heracles:
+    - {chuong: "802-971", lap_truong: "trung lập, thử thách Frondier", vai_tro: "bán thần ở Agoris", ngoi3: "ông ta"}
+  Athena:
+    - {chuong: "786-971", lap_truong: "nữ thần, đối đầu rồi thoả thuận; trú trong thân Carla (845-)", vai_tro: "nữ thần trí tuệ", ngoi3: "cô ta"}
+  Poseidon:
+    - {chuong: "757-971", lap_truong: "thần, giao nhiệm vụ cho Frondier", vai_tro: "thần biển", ngoi3: "ông ta"}
+  Thor:
+    - {chuong: "1-971", lap_truong: "kẻ thù (945-: Odin sai giết Frondier)", vai_tro: "thần sấm", ngoi3: "hắn"}
+  Odin:
+    - {chuong: "1-971", lap_truong: "kẻ thù", vai_tro: "thần Bắc Âu; chiếm xác Sale (731-733)", ngoi3: "lão"}
+  Zeus:
+    - {chuong: "1-971", lap_truong: "kẻ thù", vai_tro: "chúa tể Olympus", ngoi3: "lão"}
+  Hestia:
+    - {chuong: "935-971", lap_truong: "đứng về phía nhân loại, cứu Frondier", vai_tro: "nữ thần", ngoi3: "bà"}
+  Hela:
+    - {chuong: "1-971", lap_truong: "đối đầu", vai_tro: "nữ thần cai quản Helheim", ngoi3: "cô ta"}
+  Loki:
+    - {chuong: "1-971", lap_truong: "bí ẩn", vai_tro: "thần lừa lọc, liên quan Weaving", ngoi3: "hắn"}
+  Jormungandr:
+    - {chuong: "920-971", lap_truong: "bạn của Sybil", vai_tro: "rắn khổng lồ", ngoi3: "nó"}
+  Cassian:
+    - {chuong: "1-971", lap_truong: "ngựa của Sybil", vai_tro: "ngựa", ngoi3: "nó"}
+
+quan_he:
+  "Frondier – Elodie":
+    - {chuong: "1-29", trang_thai: "bạn thuở nhỏ đang hiểu lầm nhau"}
+    - {chuong: "30-483", trang_thai: "quan tâm, ngày càng thân"}
+    - {chuong: "484-740", trang_thai: "rất thân, Elodie gọi 'Fron'; cô biết linh hồn Frondier đã khác (488)"}
+    - {chuong: "741-760", trang_thai: "Elodie bỏ nhà đi theo Frondier"}
+    - {chuong: "761-949", trang_thai: "ở Atlas giả vờ ghét nhau trước mặt người khác, riêng tư vẫn rất thân"}
+    - {chuong: "950-971", trang_thai: "Elodie đối diện sự thật về Frondier thật (chủ cũ thân xác)"}
+  "Frondier – Elysia":
+    - {chuong: "98-123", trang_thai: "đối địch, Elysia chủ mưu vụ Raid"}
+    - {chuong: "124-611", trang_thai: "Elysia bị tước vị, thù Frondier; anh ngầm cứu cô khỏi án tử mà cô không biết"}
+    - {chuong: "612-622", trang_thai: "gặp lại, thù địch; cô bỏ trốn, Frondier bắt và thuyết phục"}
+    - {chuong: "623-687", trang_thai: "chủ – hầu gái, dần tin nhau"}
+    - {chuong: "688-971", trang_thai: "đồng minh thân thiết; cô trở lại làm công chúa"}
+  "Frondier – Lily":
+    - {chuong: "572-573", trang_thai: "Zodiac nguy hiểm tò mò về Frondier"}
+    - {chuong: "574-585", trang_thai: "Frondier làm hiệp sĩ của Lily"}
+    - {chuong: "586-686", trang_thai: "dè chừng nhau; Lily là quỷ của Satan"}
+    - {chuong: "687-971", trang_thai: "Lily trung thành, gọi Frondier là 'chủ nhân'"}
+  "Frondier – Selena":
+    - {chuong: "153-196", trang_thai: "sát thủ theo dõi → tùy tùng (~)"}
+    - {chuong: "197-498", trang_thai: "chủ – tùy tùng trung thành"}
+    - {chuong: "499-571", trang_thai: "chia tay; Selena kẹt giữa Manggot và Frondier, rồi phản Manggot"}
+    - {chuong: "572-971", trang_thai: "đồng hành gắn bó"}
+  "Frondier – Baal":
+    - {chuong: "640-678", trang_thai: "kẻ thù"}
+    - {chuong: "679-866", trang_thai: "Baal quy phục, đối tác dè chừng"}
+    - {chuong: "867-879", trang_thai: "Baal theo Frondier khi anh tự xưng Chúa Quỷ, gọi 'ngài'"}
+    - {chuong: "880-971", trang_thai: "Frondier là Chúa Quỷ, Baal là thuộc hạ, gọi 'bệ hạ'"}
+  "Frondier – Belphegor":
+    - {chuong: "501-571", trang_thai: "kẻ thù (chiến tranh Manggot)"}
+    - {chuong: "906-971", trang_thai: "đối tác giao kèo; Belphegor trịch thượng, hay trêu chọc"}
+  "Frondier – Renzo":
+    - {chuong: "72-504", trang_thai: "kẻ thù"}
+    - {chuong: "505-971", trang_thai: "đồng minh bất đắc dĩ, khiêu khích lẫn nhau"}
+  "Frondier – Pielott":
+    - {chuong: "386-396", trang_thai: "đối địch"}
+    - {chuong: "397-760", trang_thai: "đàn anh – đàn em"}
+    - {chuong: "761-971", trang_thai: "thầy – trò ở Atlas"}
+  "Frondier – Carla":
+    - {chuong: "761-782", trang_thai: "cấp dưới – hiệu trưởng đáng ngờ"}
+    - {chuong: "783-844", trang_thai: "Carla lộ là Medusa, thành đồng minh"}
+    - {chuong: "845-971", trang_thai: "đồng minh; Athena trú trong thân Carla"}
+  "Frondier – Aster":
+    - {chuong: "1-870", trang_thai: "bạn học; Frondier âm thầm dẫn dắt, Aster ngưỡng mộ"}
+    - {chuong: "871-873", trang_thai: "giao đấu ở Palma"}
+    - {chuong: "874-971", trang_thai: "cùng phe"}
+  "Frondier – Azier":
+    - {chuong: "1-899", trang_thai: "anh em; Azier che chở em"}
+    - {chuong: "900-971", trang_thai: "Azier đã chết; Frondier liều mình cứu linh hồn anh"}
+  "Frondier – Sybil":
+    - {chuong: "1-857", trang_thai: "bạn học thân"}
+    - {chuong: "858-971", trang_thai: "Sybil tự nhận là bạn gái Frondier"}
+  "Frondier – Monty":
+    - {chuong: "695-971", trang_thai: "sư phụ – đệ tử"}
+  "Selena – Hagley":
+    - {chuong: "1-541", trang_thai: "thầy / cha nuôi – học trò"}
+    - {chuong: "542-971", trang_thai: "kẻ thù"}
+
+ghi_chu:
+  - {chuong: "612", noi_dung: "Gã quý tộc đang dụ dỗ Elysia: gã xưng 'tôi', gọi Elysia là 'cô' (không gọi 'con', không xưng 'ông'); Elysia gọi gã là 'ngài'."}

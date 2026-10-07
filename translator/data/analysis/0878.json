@@ -1,0 +1,119 @@
+{
+ "number": 878,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Athena tiết lộ về việc Frondier có thể tái nhập Pandemonium và những lời nói của Aphrodite về việc Frondier hy sinh để cứu quỷ, sự nghi ngờ nảy sinh giữa các vị thần. Sau đó, Frondier thức dậy sau một giờ bị Elodie và Selena đánh đập vì đã ngủ quên, và phát hiện ra rằng họ đã tìm thấy một cổng dịch chuyển do những con quỷ phản bội giấu kín. Purpur, một trong số chúng, cuối cùng cũng xuất hiện.",
+ "boi_canh": "Trong Pandemonium, sau khi Athena tiết lộ sự thật về Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Athena",
+  "Aphrodite",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Baal",
+  "Gregory",
+  "R",
+  "Hermes",
+  "King of Hell",
+  "Purpur"
+ ],
+ "su_kien": [
+  "Athena tiết lộ Frondier có thể tái nhập Pandemonium.",
+  "Aphrodite nghi ngờ Athena và suy đoán về mối quan hệ giữa Frondier và Athena.",
+  "Frondier thức dậy sau một giờ bị Elodie và Selena đánh đập.",
+  "Gregory báo cáo việc tìm thấy một cổng dịch chuyển do những con quỷ phản bội giấu kín.",
+  "Purpur xuất hiện và được yêu cầu giải thích mục đích của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Athena",
+   "b": "Aphrodite",
+   "loai": "doi_thu",
+   "mo_ta": "Nghi ngờ lẫn nhau về mối quan hệ với Frondier.",
+   "cach_goi": "gọi tên Aphrodite, lạnh lùng"
+  },
+  {
+   "a": "Aphrodite",
+   "b": "Athena",
+   "loai": "doi_thu",
+   "mo_ta": "Nghi ngờ lẫn nhau về mối quan hệ với Frondier.",
+   "cach_goi": "gọi tên Athena, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Athena",
+   "loai": "khac",
+   "mo_ta": "Athena nghi ngờ Frondier có liên quan đến việc tái nhập Pandemonium.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aphrodite",
+   "loai": "khac",
+   "mo_ta": "Aphrodite nghi ngờ Frondier và Athena có liên quan đến nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đánh Frondier vì đã ngủ quên.",
+   "cach_goi": "gọi tên Frondier, thân mật nhưng giận dữ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bị Elodie đánh vì ngủ quên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đánh Frondier vì đã ngủ quên.",
+   "cach_goi": "gọi tên Frondier, thân mật nhưng giận dữ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bị Selena đánh vì ngủ quên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Báo cáo về việc tìm thấy cổng dịch chuyển.",
+   "cach_goi": "gọi tên Frondier, cấp trên"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "cap_tren",
+   "mo_ta": "Phản hồi lại báo cáo của Gregory.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Purpur",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Báo cáo về mục đích của những con quỷ phản bội.",
+   "cach_goi": "gọi tên Frondier, kính trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Purpur",
+   "loai": "nguoi_la",
+   "mo_ta": "Yêu cầu Purpur báo cáo về mục đích của những con quỷ phản bội.",
+   "cach_goi": "gọi tên Purpur, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1251,
+  "seconds": 37.8
+ }
+}

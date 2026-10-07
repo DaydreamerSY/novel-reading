@@ -1,0 +1,70 @@
+{
+ "number": 781,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào Carla sau khi Frondier rời đi, cho thấy sự hoảng loạn và thất vọng của cô ấy vì kế hoạch của mình không thành công. Đồng thời, chương cũng giới thiệu cảnh tượng các học sinh Atlas tham gia các trận đấu để chọn đại diện lớp, với Pielott bị bỏ rơi do sợ hãi. Cuối cùng, một người đàn ông được thả khỏi ngục tù tiết lộ rằng anh ta đã ngủ suốt thời gian ở đó và đang tìm kiếm Frondier.",
+ "boi_canh": "Trong phòng thay đồ của Carla sau khi Frondier rời đi.",
+ "nhan_vat": [
+  "Frondier",
+  "Carla",
+  "Pielott",
+  "Athena",
+  "Aias"
+ ],
+ "su_kien": [
+  "Carla thất vọng vì kế hoạch của cô không thành công và cảm thấy bối rối.",
+  "Các học sinh Atlas đang tham gia các trận đấu để chọn đại diện lớp.",
+  "Pielott bị bỏ rơi khi không ai muốn thách đấu anh ta.",
+  "Một người đàn ông được thả khỏi ngục tù và tiết lộ rằng anh ta đã ngủ suốt thời gian ở đó.",
+  "Người đàn ông được thả ra bắt đầu tìm kiếm Frondier với sự giúp đỡ của lũ chim."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "ke_thu",
+   "mo_ta": "Carla theo dõi Frondier và cố gắng thao túng anh ấy.",
+   "cach_goi": "gọi tên Carla, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Carla theo dõi Frondier và cố gắng thao túng anh ấy.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Aias",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn cùng lớp, nhưng Aias tránh mặt Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "B Class President",
+   "b": "Pielott",
+   "loai": "cap_tren",
+   "mo_ta": "Tổng thống lớp B công nhận Pielott là đại diện lớp.",
+   "cach_goi": "gọi tên Pielott, lễ phép"
+  },
+  {
+   "a": "Guard Rooker",
+   "b": "Man (Prisoner 886)",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lính canh và tù nhân không quen biết nhau, nhưng người lính canh có trách nhiệm giải phóng anh ta.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Man (Prisoner 886)",
+   "b": "Guard Rooker",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lính canh và tù nhân không quen biết nhau, nhưng người lính canh có trách nhiệm giải phóng anh ta.",
+   "cach_goi": "gọi 'Officer Rooker', lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 723,
+  "seconds": 21.8
+ }
+}

@@ -2,64 +2,97 @@
  "number": 587,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi kết thúc nhiệm vụ hầu cận cho Lily, Frondier tiếp tục nhận các nhiệm vụ tương tự như những hiệp sĩ khác nhưng lại gặp nhiều rắc rối hơn do địa vị của anh. Anh cũng phải đối mặt với sự chú ý và kỳ vọng từ những người xung quanh về cách cư xử. Trong một cuộc trò chuyện riêng tư với Lily, Frondier bắt đầu khám phá bí ẩn về nguồn gốc của cô, đặc biệt là khả năng cô không thể quay trở lại thế giới Demon Realm.",
- "boi_canh": "Một buổi tiệc của các quý tộc cao cấp, thời điểm hiện tại.",
+ "tom_tat": "Trong chương này, Lily bày tỏ sự ngưỡng mộ đối với Frondier sau khi anh đưa ra một suy luận phức tạp về việc đi đến Cõi Ma Quỷ. Cuộc trò chuyện dẫn đến những suy đoán về phương pháp bí ẩn để các quỷ dữ vượt qua được ranh giới giữa hai thế giới và những lý do đằng sau hành động của Lily khi đề nghị trở thành hiệp sĩ của Frondier. Cuối cùng, Frondier tiết lộ rằng xác chết mà Belphegor chiếm giữ có nét giống với Lily, khiến cô suy tư về bản chất thật sự của mình.",
+ "boi_canh": "Một phòng làm việc, thời điểm không rõ.",
  "nhan_vat": [
   "Frondier",
+  "Aster",
+  "Azier",
   "Lily",
-  "Ameline",
-  "Sophie",
-  "Shadow"
+  "Ria Lis",
+  "Mizonas",
+  "Lis",
+  "Belphegor",
+  "Satan"
  ],
  "su_kien": [
-  "Frondier tiếp tục nhận các nhiệm vụ như một hiệp sĩ sau khi kết thúc nhiệm vụ cho Lily.",
-  "Sophie von Meyer thuê Frondier làm hiệp sĩ để tăng thêm sự uy tín cho gia đình bà.",
-  "Frondier phải học cách cư xử phù hợp trong các buổi tiệc của quý tộc, bao gồm cả việc mỉm cười theo yêu cầu.",
-  "Frondier bắt đầu đặt câu hỏi về nguồn gốc của Lily và khả năng cô không thể quay trở lại thế giới Demon Realm.",
-  "Lily tiết lộ rằng cô không có ký ức về thời gian ở thế giới Demon Realm."
+  "Lily bày tỏ sự ngưỡng mộ đối với Frondier vì một suy luận phức tạp.",
+  "Frondier suy đoán về phương pháp bí ẩn để các quỷ dữ vượt qua được ranh giới giữa hai thế giới.",
+  "Cuộc tranh cãi nhỏ giữa Frondier và Lily về động cơ của việc Lily muốn trở thành hiệp sĩ của anh.",
+  "Lily tiết lộ rằng cô đã mong đợi Frondier có tình cảm với mình.",
+  "Frondier phát hiện ra xác chết mà Belphegor chiếm giữ có nét giống với Lily."
  ],
  "quan_he": [
   {
    "a": "Frondier",
    "b": "Lily",
-   "loai": "nguoi_la",
-   "mo_ta": "Frondier đặt câu hỏi về quá khứ của Lily, cô trả lời một cách bí ẩn.",
-   "cach_goi": "gọi tên 'Lily-nim', lễ phép"
+   "loai": "ban_be",
+   "mo_ta": "Trò chuyện, tranh luận nhẹ nhàng, Lily có vẻ thích Frondier.",
+   "cach_goi": "gọi tên 'Lily', thân mật"
   },
   {
-   "a": "Sophie",
+   "a": "Lily",
    "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Sophie là người thuê Frondier, đánh giá cao vẻ ngoài và khí chất của anh.",
-   "cach_goi": "gọi tên 'Sir Frondier', không nói chuyện trực tiếp"
+   "loai": "ban_be",
+   "mo_ta": "Trò chuyện, Lily có vẻ thích Frondier.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
   },
   {
    "a": "Frondier",
-   "b": "Ameline",
+   "b": "Aster",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mizonas",
    "loai": "doi_thu",
-   "mo_ta": "Frondier quan tâm đến Ameline và những rủi ro liên quan đến cô.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Shadow",
-   "b": "Ameline",
-   "loai": "ke_thu",
-   "mo_ta": "Shadow Unit đang theo dõi Ameline.",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
-   "b": "Sophie",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier là hiệp sĩ của Sophie, tuân theo mệnh lệnh của bà.",
+   "b": "Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Satan",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ke_thu",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Ria Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Biệt danh 'human sloth' của Frondier trong Constel."
+  "Belphegor: đã chiếm giữ một xác chết, nguồn gốc của xác chết là một ẩn số.",
+  "Lily: có thể là một quỷ dữ hoặc có liên quan đến các quỷ dữ."
  ],
  "stats": {
-  "tokens": 756,
-  "seconds": 23.8
+  "tokens": 1053,
+  "seconds": 33.0
  }
 }

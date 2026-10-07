@@ -1,0 +1,77 @@
+{
+ "number": 961,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tìm thấy Mistilteinn nằm trong một góc của khu vực ngầm dưới Đền Parthenon, không phải ở trung tâm như tưởng tượng. Aster gặp Baldur, người đã cảnh báo anh về cuộc chiến và những cái chết sắp tới do Frondier gây ra. Trong khi đó, Hestia đối đầu với Zeus và Hermes tại Olympus, chỉ trích sự tàn bạo của các vị thần và kêu gọi họ thay đổi. Cuối cùng, Osprey đối mặt với Zeus để câu giờ cho lực lượng còn lại, đồng thời tìm kiếm Elodie mất tích.",
+ "boi_canh": "Dưới lòng đất Đền Parthenon, vào lúc không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Hela",
+  "Zeus",
+  "Hermes",
+  "Baldur",
+  "Belphegor",
+  "Hestia",
+  "Osprey"
+ ],
+ "su_kien": [
+  "Aster tìm thấy Mistilteinn nằm ở một góc khu vực ngầm.",
+  "Aster gặp Baldur, người cảnh báo về cuộc chiến và những cái chết sắp tới.",
+  "Hestia đối đầu với Zeus và Hermes tại Olympus.",
+  "Osprey đối mặt với Zeus để câu giờ.",
+  "Elodie mất tích."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Aster suy nghĩ về những lời Frondier đã nói trước đây.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Baldur",
+   "loai": "ke_thu",
+   "mo_ta": "Baldur xuất hiện và cảnh báo Aster.",
+   "cach_goi": "gọi tên Baldur, không trang trọng"
+  },
+  {
+   "a": "Hestia",
+   "b": "Zeus",
+   "loai": "cap_tren",
+   "mo_ta": "Hestia chỉ trích Zeus về hành động của các vị thần.",
+   "cach_goi": "gọi 'Zeus', không trang trọng"
+  },
+  {
+   "a": "Zeus",
+   "b": "Hermes",
+   "loai": "cap_tren",
+   "mo_ta": "Zeus ra lệnh cho Hermes canh giữ Hestia.",
+   "cach_goi": "gọi 'Hermes', không trang trọng"
+  },
+  {
+   "a": "Osprey",
+   "b": "Zeus",
+   "loai": "doi_thu",
+   "mo_ta": "Osprey đối đầu với Zeus để câu giờ.",
+   "cach_goi": "gọi 'Zeus', không trang trọng"
+  },
+  {
+   "a": "Osprey",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Osprey lo lắng vì Elodie mất tích.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mistilteinn: ban đầu được cho là một cành cây tầm gửi, nhưng thực tế là một ngọn giáo."
+ ],
+ "stats": {
+  "tokens": 808,
+  "seconds": 24.4
+ }
+}

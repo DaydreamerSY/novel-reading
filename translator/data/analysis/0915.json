@@ -1,0 +1,98 @@
+{
+ "number": 915,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier rời đi, trường học thông báo về sự vắng mặt của anh ấy và giáo viên thay thế cho lớp Mana Theory. Giáo viên Ludovic được chỉ định dạy lớp Kết hợp Vũ khí - Ma thuật, và giới thiệu một học sinh mới tên là Pielott cùng với những kỹ năng đáng kinh ngạc của cậu ta. Trong khi đó, một cuộc họp bí mật diễn ra với sự tham gia của các nhân vật quan trọng, thảo luận về cái chết của Azier và nguy cơ chiến tranh với các vị thần, đồng thời tiết lộ thông tin về một đế chế xa lạ và một liên kết bất ngờ giữa Malia de Roach và Gregory.",
+ "boi_canh": "Lớp học tại Agoris, Atlas. Thời điểm sau khi Frondier rời đi.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Azier",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Malia",
+  "Arald",
+  "Monty",
+  "Gregory",
+  "Ludovic",
+  "Basileo",
+  "Aias",
+  "Glaukos",
+  "Malia de Roach"
+ ],
+ "su_kien": [
+  "Trường thông báo Frondier đã trở về quê hương.",
+  "Ludovic được chỉ định thay thế Frondier dạy lớp Kết hợp Vũ khí - Ma thuật.",
+  "Pielott biểu diễn kỹ năng sử dụng aura ấn tượng.",
+  "Các học sinh thể hiện sự ngưỡng mộ và tò mò về Pielott và nguồn gốc của cậu ta.",
+  "Một cuộc họp bí mật được tổ chức để thảo luận về cái chết của Azier và nguy cơ chiến tranh với các vị thần."
+ ],
+ "quan_he": [
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hiệu trưởng Carla thông báo về sự ra đi của Frondier.",
+   "cach_goi": "gọi 'Teacher Frondier', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Basileo",
+   "b": "Carla",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh Basileo hỏi Carla về lớp Kết hợp Vũ khí - Ma thuật.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Carla",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Carla trả lời câu hỏi của Basileo.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Basileo",
+   "loai": "nguoi_la",
+   "mo_ta": "Giáo viên Ludovic giới thiệu bản thân với học sinh Basileo.",
+   "cach_goi": "gọi tên, không rõ"
+  },
+  {
+   "a": "Pielott",
+   "b": "Ludovic",
+   "loai": "nguoi_la",
+   "mo_ta": "Pielott gọi Ludovic là Lord.",
+   "cach_goi": "gọi 'Lord Ludovic', lễ phép"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Ludovic chỉnh lại cách xưng hô của Pielott.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Gregory",
+   "b": "Malia de Roach",
+   "loai": "gia_dinh",
+   "mo_ta": "Liên kết bất ngờ thông qua một con quạ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ludovic: Được biết đến với vai trò là giáo viên thay thế cho lớp Kết hợp Vũ khí - Ma thuật.",
+  "Pielott: Có nguồn gốc từ một đế chế xa lạ, có kỹ năng sử dụng aura đáng kinh ngạc."
+ ],
+ "stats": {
+  "tokens": 1086,
+  "seconds": 32.7
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "number": 763,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi được bổ nhiệm đến Atlas, Frondier và Elodie bắt đầu những lớp học đầu tiên. Elodie thể hiện kỹ thuật phép thuật xuất sắc trong buổi thực hành, nhưng nhận thấy phương pháp giảng dạy của Atlas còn lỗi thời. Basileo tiếp cận Elodie với một câu hỏi về cách đơn giản hóa phép thuật, khiến cô phải che giấu mối quan hệ bí mật với Frondier. Trong khi đó, Frondier cũng gặp khó khăn trong việc áp dụng những ý tưởng cải tiến vào chương trình giảng dạy và bị Basileo nghi ngờ.",
+ "boi_canh": "Phòng thực hành phép thuật tại Atlas, ngày đầu tiên của học kỳ mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Lunia",
+  "Basileo",
+  "Heracles"
+ ],
+ "su_kien": [
+  "Elodie thể hiện kỹ thuật phép thuật vượt trội trong buổi thực hành.",
+  "Elodie nhận thấy phương pháp giảng dạy tại Atlas còn lỗi thời và thiếu sáng tạo.",
+  "Basileo tiếp cận Elodie để hỏi về cách đơn giản hóa phép thuật.",
+  "Frondier chứng minh khả năng sử dụng phép thuật vượt trội bằng cách sao chép phép 'Gathering Wind' của Basileo.",
+  "Black Thread của Frondier thu hồi phép 'Gathering Wind' đã bắn trúng các học sinh khác."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người có mối quan hệ bí mật, Elodie đang che giấu điều đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người có mối quan hệ bí mật, Elodie đang che giấu điều đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Basileo",
+   "b": "Elodie",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh hỏi giáo viên về phép thuật.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh hỏi giáo viên về phép thuật.",
+   "cach_goi": "gọi 'Student', không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên trả lời câu hỏi của học sinh.",
+   "cach_goi": "gọi tên, bình thường"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh hỏi giáo viên về phép thuật.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 806,
+  "seconds": 24.3
+ }
+}

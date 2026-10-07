@@ -1,0 +1,88 @@
+{
+ "number": 851,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tiếp tục trận đấu với Apollo, Frondier (Aster) nhận ra đối thủ đang cố gắng né tránh chiến đấu. Anh ta sử dụng kỹ thuật One Flash độc đáo để áp đảo Apollo và gần như kết thúc trận đấu. Bất ngờ, Renzo xuất hiện, tự xưng là đến giúp đỡ, khiến tình hình trở nên phức tạp hơn.",
+ "boi_canh": "Một khu vực luyện tập trên cây, trong một trận đấu giữa hai chiến binh.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Renzo",
+  "Ludovic",
+  "Apollo",
+  "Ares"
+ ],
+ "su_kien": [
+  "Aster sử dụng kỹ thuật One Flash để tấn công Apollo.",
+  "Apollo né tránh và cố gắng rút lui khỏi trận đấu.",
+  "Renzo xuất hiện bất ngờ, tuyên bố đến giúp đỡ Aster.",
+  "Aster áp đảo Apollo bằng một loạt các đòn tấn công nhanh chóng.",
+  "Ares (trong cơ thể Renzo) cảnh báo Aster về những lời nói của anh ta."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "gia_dinh",
+   "mo_ta": "Người kể chuyện và nhân vật chính, có mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người học hỏi từ người khác.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Apollo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận đấu.",
+   "cach_goi": "gọi tên Apollo, lạnh lùng"
+  },
+  {
+   "a": "Apollo",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận đấu.",
+   "cach_goi": "gọi tên Aster, lạnh lùng"
+  },
+  {
+   "a": "Aster",
+   "b": "Renzo",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mới xuất hiện, mối quan hệ chưa rõ ràng.",
+   "cach_goi": "gọi tên Renzo, không chắc chắn"
+  },
+  {
+   "a": "Renzo",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mới xuất hiện, có vẻ muốn giúp đỡ.",
+   "cach_goi": "gọi tên Aster, thân thiện"
+  },
+  {
+   "a": "Apollo",
+   "b": "Renzo",
+   "loai": "khac",
+   "mo_ta": "Apollo đang bị Renzo (Ares) chiếm giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ares",
+   "b": "Renzo",
+   "loai": "cap_tren",
+   "mo_ta": "Ares đang chiếm giữ cơ thể Renzo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)",
+  "Renzo (có thể là Ares)"
+ ],
+ "stats": {
+  "tokens": 868,
+  "seconds": 26.1
+ }
+}

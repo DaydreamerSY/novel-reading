@@ -1,0 +1,89 @@
+{
+ "number": 928,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi một lực lượng bí ẩn khiến mọi người ở Manggot ngã gục, Tyr, thần chiến tranh, xuất hiện. Tyr chế nhạo Renzo vì thiếu kiến thức về các vị thần và có cuộc đối đầu với Ares, trong đó cả hai đều phô trương sức mạnh của mình. Cuối cùng, Renzo từ chối quyền năng của Ares và tuyên bố sẽ đánh bại Tyr bằng sức lực của chính mình.",
+ "boi_canh": "Bên trong một hang động sâu thẳm, tại thời điểm mọi người đột ngột ngã gục.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Renzo",
+  "Athena",
+  "Ares",
+  "Tyr",
+  "Di"
+ ],
+ "su_kien": [
+  "Mọi người ở Manggot đột ngột ngã gục.",
+  "Tyr, thần chiến tranh, xuất hiện và tự xưng là Tyr.",
+  "Renzo chế nhạo Tyr vì thiếu kiến thức về các vị thần.",
+  "Ares và Tyr tranh cãi về vai trò của họ.",
+  "Renzo từ chối quyền năng của Ares và tuyên bố sẽ đánh bại Tyr bằng sức lực của chính mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Renzo",
+   "b": "Tyr",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Renzo chế nhạo Tyr.",
+   "cach_goi": "gọi tên 'Tyr', lạnh lùng"
+  },
+  {
+   "a": "Tyr",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Tyr đánh giá thấp Renzo.",
+   "cach_goi": "gọi tên 'Renzo', lạnh lùng"
+  },
+  {
+   "a": "Ares",
+   "b": "Tyr",
+   "loai": "doi_thu",
+   "mo_ta": "Tranh cãi về vai trò và quyền lực.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Tyr",
+   "b": "Ares",
+   "loai": "doi_thu",
+   "mo_ta": "Tranh cãi về vai trò và quyền lực.",
+   "cach_goi": "gọi tên 'Ares', lạnh lùng"
+  },
+  {
+   "a": "Renzo",
+   "b": "Ares",
+   "loai": "thay_tro",
+   "mo_ta": "Ares truyền sức mạnh cho Renzo, nhưng Renzo từ chối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ares",
+   "b": "Renzo",
+   "loai": "thay_tro",
+   "mo_ta": "Ares truyền sức mạnh cho Renzo, nhưng Renzo từ chối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Di",
+   "b": "Tyr",
+   "loai": "nguoi_la",
+   "mo_ta": "Cầu nguyện với Tyr.",
+   "cach_goi": "gọi 'Lord Tyr', lễ phép"
+  },
+  {
+   "a": "Tyr",
+   "b": "Di",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhận lời cầu nguyện của Di.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Tyr được tiết lộ là thần chiến tranh.",
+  "Ares tồn tại dưới dạng sức mạnh thần thánh bên trong Renzo."
+ ],
+ "stats": {
+  "tokens": 916,
+  "seconds": 27.4
+ }
+}

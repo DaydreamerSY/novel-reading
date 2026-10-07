@@ -1,0 +1,88 @@
+{
+ "number": 813,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier vô tình tạo ra một loại phép thuật mới mạnh mẽ khi thử nghiệm trong lớp học. Sự kiện này thu hút sự chú ý của nhiều người, bao gồm cả Basileo và Aias. Basileo bày tỏ mong muốn được tham gia lớp học kết hợp phép thuật và chiến đấu của Frondier, còn Aias quyết tâm cải thiện bản thân sau những thất bại gần đây.",
+ "boi_canh": "Lớp học kết hợp phép thuật và chiến đấu tại Atlas vào cuối tuần.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Pielott",
+  "Basileo",
+  "Aias",
+  "Heracles"
+ ],
+ "su_kien": [
+  "Frondier tạo ra một phép thuật mới, 'Spear of Black Lightning', với sức mạnh hủy diệt lớn.",
+  "Basileo bày tỏ mong muốn được học phép thuật kết hợp chiến đấu của Frondier.",
+  "Aias quyết tâm cải thiện bản thân sau khi chứng kiến sức mạnh của Frondier.",
+  "Frondier nhận ra mình mới chỉ bắt đầu bước vào lĩnh vực toán học trong việc tạo ra phép thuật.",
+  "Nhiều sinh viên, bao gồm cả Basileo, Aias, Pielott và Glaukos, đến lớp học kết hợp phép thuật và chiến đấu của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier suy nghĩ về cách Elodie kết hợp phép thuật, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier suy nghĩ về Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier hỏi Pielott tại sao họ lại ở đó.",
+   "cach_goi": "gọi tên Pielott, không rõ tone"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Pielott trả lời câu hỏi của Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ tone"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier hỏi Basileo tại sao lại ở đó với vẻ mặt lạnh lùng.",
+   "cach_goi": "gọi tên Basileo, lạnh lùng"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Basileo bày tỏ sự ngưỡng mộ và mong muốn được học phép thuật của Frondier.",
+   "cach_goi": "gọi 'teacher', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aias",
+   "loai": "doi_thu",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier nhận thấy sự quyết tâm của Aias.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aias",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Không có tương tác trực tiếp, Aias quan sát Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Magic–Combat Combined: Lớp học kết hợp phép thuật và chiến đấu."
+ ],
+ "stats": {
+  "tokens": 1013,
+  "seconds": 30.3
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "number": 861,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một bông hoa tuyệt đẹp nở rộ ở quảng trường thủ đô, thu hút sự chú ý của mọi người. Sybil xuất hiện và dần tiến gần đến khu vực bỏ phiếu, gây ra những nghi ngờ và hoang mang. Frondier nhận ra tình hình bất thường và cố gắng kiểm soát nó, trong khi Charon vội vàng kết luận Sybil là quỷ dữ. Cuối cùng, Athena (trong thân xác Carla) xuất hiện và đề nghị được thêm vào danh sách ứng cử viên.",
+ "boi_canh": "Quảng trường thủ đô, trong một sự kiện bỏ phiếu quan trọng.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Lily",
+  "Carla",
+  "Baal",
+  "Arald",
+  "Gregory",
+  "Antero",
+  "Athena",
+  "Astaroth",
+  "Hera",
+  "Charon",
+  "Purupuru",
+  "Bruna",
+  "Lupina"
+ ],
+ "su_kien": [
+  "Một bông hoa đẹp nở rộ ở quảng trường thủ đô.",
+  "Sybil xuất hiện và tiến gần đến khu vực bỏ phiếu, thu hút sự chú ý của mọi người.",
+  "Charon vội vàng kết luận Sybil là quỷ dữ.",
+  "Athena (trong thân xác Carla) xuất hiện và đề nghị được thêm vào danh sách ứng cử viên.",
+  "Sybil sử dụng kỹ thuật 'Petal' để vô hiệu hóa đòn tấn công của Charon."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier ra lệnh cho Arald theo dõi Charon.",
+   "cach_goi": "gọi tên Arald, thân mật"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Arald báo cáo tình hình cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Frondier ra lệnh cho Lily chuẩn bị sẵn sàng nếu Aphrodite hành động.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Lily hỏi liệu Aphrodite có hành động hay không.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "ban_be",
+   "mo_ta": "Frondier hỏi về Baal.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Gregory báo cáo về Baal.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Sybil",
+   "b": "Bruna",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil và Bruna trao đổi ánh mắt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Lupina",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil và Lupina trao đổi ánh mắt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Charon",
+   "b": "Sybil",
+   "loai": "ke_thu",
+   "mo_ta": "Charon tấn công Sybil và gọi cô là quỷ dữ.",
+   "cach_goi": "gọi 'quỷ dữ', thô lỗ"
+  },
+  {
+   "a": "Sybil",
+   "b": "Charon",
+   "loai": "ke_thu",
+   "mo_ta": "Sybil phản ứng lại đòn tấn công của Charon.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Antero",
+   "b": "Charon",
+   "loai": "dong_minh",
+   "mo_ta": "Antero can thiệp để bảo vệ Charon.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Athena",
+   "loai": "khac",
+   "mo_ta": "Frondier nhận ra Athena đang chiếm giữ thân xác Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Athena đang chiếm giữ thân xác của Carla."
+ ],
+ "stats": {
+  "tokens": 1276,
+  "seconds": 38.3
+ }
+}

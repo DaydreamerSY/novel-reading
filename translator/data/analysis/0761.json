@@ -1,0 +1,107 @@
+{
+ "number": 761,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này giới thiệu Frondier de Roach đến trường Atlas với tư cách là một giáo viên mới. Sự xuất hiện của anh gây ra sự chú ý lớn vì lý do không rõ ràng, và anh phải đối mặt với những câu hỏi về tuổi tác và quá khứ của mình. Để giải thích sự thay đổi đột ngột này, Frondier tiết lộ rằng anh đã hoàn thành thiết kế bản đồ 3D, một thành tựu được đánh giá cao trên lục địa Agoris.",
+ "boi_canh": "Trong lớp học thứ ba năm tại trường Atlas, vào ngày đầu tiên của năm học mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Pielott",
+  "Baal",
+  "Arald",
+  "Frondier de Roach",
+  "Ria Lis",
+  "Medart",
+  "Lis"
+ ],
+ "su_kien": [
+  "Giáo viên mới Pielott giới thiệu bản thân một cách ngắn gọn trong ngày đầu tiên.",
+  "Sự xuất hiện của Frondier de Roach gây ra sự chú ý và tò mò lớn từ học sinh.",
+  "Frondier được giới thiệu là giáo viên chủ nhiệm, điều bất thường đối với một người mới đến.",
+  "Học sinh đặt câu hỏi về tuổi tác và quá khứ của Frondier.",
+  "Frondier tiết lộ anh đã hoàn thành thiết kế bản đồ 3D để giải thích sự thay đổi nghề nghiệp đột ngột."
+ ],
+ "quan_he": [
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu, không có mối quan hệ rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Hướng dẫn Pielott cách hành xử khi mới đến.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè lâu năm, cùng nhau lên kế hoạch cho sự xuất hiện của Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè lâu năm, cùng nhau lên kế hoạch cho sự xuất hiện của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Selena đưa ra lời khuyên về thành tựu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Lily đề xuất nghiên cứu về thành tựu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người có vị trí cao hơn, giúp đỡ Frondier tạo dựng thành tựu.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "cap_tren",
+   "mo_ta": "Người có vị trí cao hơn, giúp đỡ Frondier tạo dựng thành tựu.",
+   "cach_goi": "gọi tên Arald, thân mật"
+  },
+  {
+   "a": "Ria Lis",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Ria Lis đã từng bình luận về khả năng của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Baal đã tham gia vào việc chuẩn bị danh tính cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của nhân vật chính.",
+  "Pielott: Danh tính giả."
+ ],
+ "stats": {
+  "tokens": 1223,
+  "seconds": 36.8
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "number": 936,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong khi Frondier đến Olympus, một dị thường xảy ra ở Đế quốc. Các Zodiac đột ngột chịu đau đớn và la hét do ảnh hưởng của các vị thần muốn chiếm hữu cơ thể họ. Hoàng hậu Philly và pháp sư Osprey đã sử dụng phép thuật để trói buộc các Zodiac bằng xích băng giá. Ludwig đề xuất tấn công trực tiếp vào các Zodiac để phá vỡ sự chiếm hữu, và sau đó Pielott bất ngờ ngất đi trong một giấc mơ do ảnh hưởng của thần Hypnos, người đề nghị giúp đỡ Pielott thoát khỏi Ragnarok.",
+ "boi_canh": "Trong Cung điện Hoàng gia, khi các Zodiac trải qua cơn đau đớn.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Philly",
+  "Aten",
+  "Azier",
+  "Elysia",
+  "Pielott",
+  "Malia",
+  "Arald",
+  "Gregory",
+  "Basileo",
+  "Daisy",
+  "Pielott von Ribanche",
+  "Ludwig",
+  "Osprey",
+  "Hypnos"
+ ],
+ "su_kien": [
+  "Các Zodiac trải qua cơn đau và la hét do sự chiếm hữu của các vị thần.",
+  "Philly ra lệnh cho Osprey trói buộc các Zodiac bằng xích băng giá.",
+  "Ludwig đề xuất tấn công trực tiếp vào các Zodiac để phá vỡ sự chiếm hữu.",
+  "Pielott bất ngờ ngất đi trong một giấc mơ.",
+  "Thần Hypnos xuất hiện trong giấc mơ của Pielott và đề nghị giúp đỡ."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu ra lệnh cho pháp sư thực hiện nhiệm vụ.",
+   "cach_goi": "gọi 'Osprey', lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Thực hiện mệnh lệnh của Hoàng hậu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Chị em gái, đứng cạnh nhau trong tình huống khẩn cấp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Osprey",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội Zodiac, Ludwig đưa ra đề xuất chiến thuật.",
+   "cach_goi": "gọi tên 'Osprey', thân mật"
+  },
+  {
+   "a": "Osprey",
+   "b": "Ludwig",
+   "loai": "dong_minh",
+   "mo_ta": "Pháp sư phản hồi đề xuất của đồng đội.",
+   "cach_goi": "gọi tên 'Ludwig', thân mật"
+  },
+  {
+   "a": "Daisy",
+   "b": "Osprey",
+   "loai": "dong_minh",
+   "mo_ta": "Zodiac khác, thể hiện sự thất vọng.",
+   "cach_goi": "gọi tên 'Osprey', lạnh lùng"
+  },
+  {
+   "a": "Gregory",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, quan sát tình hình của Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Basileo",
+   "b": "Gregory",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, quan sát tình hình của Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Gregory",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ, Gregory đang theo dõi Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Hypnos",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ trong giấc mơ, Pielott tỏ ra khó chịu.",
+   "cach_goi": "gọi tên 'Hypnos', lạnh lùng"
+  },
+  {
+   "a": "Hypnos",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Thần Hypnos xuất hiện trong giấc mơ của Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pielott von Ribanche: Tên đầy đủ được sử dụng khi đề cập đến Pielott, nhấn mạnh dòng dõi quý tộc của anh ta."
+ ],
+ "stats": {
+  "tokens": 1270,
+  "seconds": 38.3
+ }
+}

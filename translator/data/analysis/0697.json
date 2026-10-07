@@ -1,0 +1,72 @@
+{
+ "number": 697,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Cuối năm thứ hai tại Constel sắp kết thúc, Frondier không thể tham dự lễ bế giảng vì sợ gây ra hỗn loạn và thu hút sự chú ý của các quý tộc. Anh gặp Ellen, Chủ tịch Hội học sinh, người tiết lộ rằng Eden Pro đã liên hệ với anh để tìm kiếm cơ hội. Ellen chia sẻ về việc cân nhắc trở thành giáo viên thay vì một pro do hạn chế mana, nhưng vẫn giữ vững tinh thần chiến đấu. Cuối cùng, Frondier đề nghị được Ellen dạy căn bản kiếm thuật trong kỳ nghỉ đông.",
+ "boi_canh": "Trong khuôn viên trường Constel, vào thời điểm kết thúc năm học thứ hai.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Osprey",
+  "Ellen",
+  "Eden"
+ ],
+ "su_kien": [
+  "Năm học thứ hai tại Constel sắp kết thúc.",
+  "Ellen tiết lộ Eden Pro đã liên hệ với Frondier để tìm kiếm cơ hội.",
+  "Ellen chia sẻ về việc cân nhắc trở thành giáo viên thay vì một pro.",
+  "Frondier đề nghị được Ellen dạy căn bản kiếm thuật trong kỳ nghỉ đông.",
+  "Ellen đồng ý dạy Frondier kiếm thuật, nhưng chỉ những điều cơ bản."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai và em trai, mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "học sinh và hiệu trưởng, mối quan hệ tôn trọng.",
+   "cach_goi": "gọi 'Principal Osprey', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, mối quan hệ gần gũi.",
+   "cach_goi": "gọi tên Ellen, thân mật"
+  },
+  {
+   "a": "Ellen",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, mối quan hệ gần gũi.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Eden",
+   "loai": "nguoi_la",
+   "mo_ta": "không tương tác trực tiếp, mối quan hệ xa cách.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Eden",
+   "loai": "nguoi_la",
+   "mo_ta": "không tương tác trực tiếp, mối quan hệ xa cách.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eden Pro: Một tổ chức pro, có vẻ như đang tìm kiếm Frondier để đánh giá tiềm năng của anh."
+ ],
+ "stats": {
+  "tokens": 792,
+  "seconds": 23.6
+ }
+}

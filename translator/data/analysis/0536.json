@@ -2,71 +2,78 @@
  "number": 536,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Frondier và Sybil đối diện với nhau sau một thời gian xa cách, Sybil bày tỏ sự lo lắng về việc liệu Frondier có tin vào số phận hay không. Frondier giải thích lý do anh tránh mặt cô là vì anh nhìn thấy cô như một cô gái bình thường, chứ không phải một chiến binh hay pháp sư. Cuối cùng, Frondier nhắc lại lời nói của Sybil về 'số phận dưới chân bạn' và gửi cô đến rào chắn. Trong khi đó, Cohen đang giao tranh với ai đó thì bất ngờ bị Sybil tấn công bằng một thanh kiếm được cường hóa bởi aura và ma thuật.",
- "boi_canh": "Trong một chiến trường không xác định, vào thời điểm căng thẳng trong cuộc chiến.",
+ "tom_tat": "Frondier (Sybil) thể hiện một kỹ thuật kết hợp ma pháp và hào quang chưa từng có, khiến Cohen kinh ngạc. Các binh lính của Manggot tấn công Sybil nhưng bị tiêu diệt bởi ngọn lửa kỳ lạ từ thanh kiếm của cô. Cohen nhận ra sức mạnh vượt trội của Sybil và chuẩn bị đối đầu với cô, trong khi phân tích điểm yếu trong kỹ năng kiếm thuật của cô.",
+ "boi_canh": "Một chiến trường không xác định, nơi diễn ra một cuộc đối đầu giữa Frondier (Sybil) và Cohen cùng các binh lính Manggot.",
  "nhan_vat": [
-  "Frondier",
-  "Aten",
-  "Sybil",
+  "Frondier (Sybil)",
   "Cohen",
-  "Slevb"
+  "Hector",
+  "Ludwig",
+  "Manggot soldiers"
  ],
  "su_kien": [
-  "Sybil bày tỏ sự lo lắng về việc Frondier có tin vào số phận hay không.",
-  "Frondier giải thích lý do anh tránh mặt Sybil là vì anh nhìn thấy cô như một cô gái bình thường.",
-  "Sybil sử dụng kết hợp Aura∙Mana, tạo ra thanh kiếm bùng cháy.",
-  "Cohen chứng kiến cảnh tượng chưa từng có trong lịch sử nhân loại.",
-  "Frondier gửi Sybil đến rào chắn."
+  "Sybil thể hiện kỹ thuật kết hợp ma pháp và hào quang, tạo ra ngọn lửa bốc cháy trên thanh kiếm.",
+  "Các binh lính Manggot tấn công Sybil nhưng bị tiêu diệt bởi ngọn lửa từ thanh kiếm của cô.",
+  "Cohen nhận ra sức mạnh vượt trội của Sybil và cảm thấy kinh hãi.",
+  "Cohen cố gắng phân tích điểm yếu trong kỹ năng kiếm thuật của Sybil.",
+  "Sybil phản công bằng một đòn tấn công kết hợp hào quang và ma pháp, tạo ra sấm sét."
  ],
  "quan_he": [
-  {
-   "a": "Frondier",
-   "b": "Sybil",
-   "loai": "nguoi_la",
-   "mo_ta": "Hai người có quá khứ phức tạp, hiện tại đang đối diện với những cảm xúc và sự thật bị che giấu.",
-   "cach_goi": "gọi tên Sybil, thân mật"
-  },
-  {
-   "a": "Sybil",
-   "b": "Frondier",
-   "loai": "nguoi_la",
-   "mo_ta": "Sybil tìm kiếm sự xác nhận từ Frondier về cảm xúc và niềm tin của mình.",
-   "cach_goi": "gọi tên Frondier, kính trọng"
-  },
   {
    "a": "Cohen",
    "b": "Sybil",
    "loai": "doi_thu",
-   "mo_ta": "Đối thủ trên chiến trường, Cohen bị Sybil tấn công bất ngờ.",
+   "mo_ta": "Cohen phải giết Sybil theo lệnh, nhưng bị ấn tượng bởi sức mạnh của cô.",
+   "cach_goi": "gọi tên Sybil, lạnh lùng"
+  },
+  {
+   "a": "Sybil",
+   "b": "Cohen",
+   "loai": "doi_thu",
+   "mo_ta": "Sybil thách thức Cohen và chuẩn bị đối đầu với anh.",
+   "cach_goi": "gọi tên Cohen, lạnh lùng"
+  },
+  {
+   "a": "Manggot soldiers",
+   "b": "Cohen",
+   "loai": "cap_tren",
+   "mo_ta": "Các binh lính Manggot tuân lệnh Cohen, nhưng không hiểu rõ sức mạnh của Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cohen",
+   "b": "Manggot soldiers",
+   "loai": "cap_tren",
+   "mo_ta": "Cohen ra lệnh cho các binh lính Manggot tấn công Sybil.",
+   "cach_goi": "gọi 'Lord', lễ phép"
+  },
+  {
+   "a": "Manggot soldiers",
+   "b": "Sybil",
+   "loai": "doi_thu",
+   "mo_ta": "Các binh lính Manggot tấn công Sybil, nhưng bị tiêu diệt.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Sybil",
    "b": "Cohen",
    "loai": "doi_thu",
-   "mo_ta": "Đối thủ trên chiến trường, Sybil tấn công Cohen bằng một kỹ thuật mạnh mẽ.",
+   "mo_ta": "Sybil thách thức Cohen bằng hành động và lời nói.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Frondier",
-   "b": "Aten",
-   "loai": "ban_be",
-   "mo_ta": "Hai người có mối quan hệ bạn bè, nhưng không tương tác trong chương này.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Slevb",
+   "a": "Cohen",
+   "b": "Hector",
    "loai": "nguoi_la",
-   "mo_ta": "Hai người không tương tác trong chương này.",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ được nhắc đến trong ngữ cảnh.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Sybil từng được Frondier nhìn nhận như một 'kẻ phản bội' của Đế quốc."
+  "Hector Von Urfa (tên thật của Hector)"
  ],
  "stats": {
-  "tokens": 846,
-  "seconds": 26.2
+  "tokens": 883,
+  "seconds": 27.3
  }
 }

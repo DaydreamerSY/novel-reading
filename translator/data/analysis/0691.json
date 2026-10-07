@@ -1,0 +1,118 @@
+{
+ "number": 691,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe câu chuyện của Enfer về ngôn ngữ cổ đại, Frondier bắt đầu nghi ngờ về động cơ của ông ta. Một bữa tiệc gia đình hiếm hoi diễn ra để chúc mừng sự trở lại của Enfer và chuẩn bị cho việc Frondier lên đường đi Roach. Bất ngờ, Malia đề cập đến một tin đồn kỳ lạ về việc Frondier bị nhận làm con nuôi bởi Monty, khiến mọi người phải giải thích rõ ràng. Cuối cùng, Frondier nhớ lại cuộc gặp gỡ với Monty và những hứa hẹn liên quan.",
+ "boi_canh": "Bữa tối gia đình tại dinh thự Roach.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Enfer",
+  "Lily",
+  "Azier",
+  "Malia",
+  "Hagley",
+  "Ludwig",
+  "Monty"
+ ],
+ "su_kien": [
+  "Enfer kể về việc nghiên cứu ngôn ngữ cổ đại ở Manggot.",
+  "Selena có vẻ khó chịu với Frondier.",
+  "Malia đề cập đến tin đồn Frondier bị nhận làm con nuôi bởi Monty.",
+  "Azier bác bỏ tin đồn đó.",
+  "Frondier nhớ lại cuộc gặp gỡ với Monty và những hứa hẹn liên quan."
+ ],
+ "quan_he": [
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Cha của Frondier, có vẻ đang dò hỏi thông tin.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "thay_tro",
+   "mo_ta": "Con trai của Enfer, nghi ngờ về động cơ của cha.",
+   "cach_goi": "gọi tên Enfer, không trang trọng"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Có vẻ khó chịu với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ của Enfer, lo lắng và quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Enfer, thân mật"
+  },
+  {
+   "a": "Enfer",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Chồng của Malia, có vẻ đồng tình với vợ.",
+   "cach_goi": "gọi tên Malia, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, trấn an và bảo vệ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Em trai của Azier, quan sát tình hình.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Azier, tin tưởng vào lời giải thích của con trai.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Enfer",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Azier, có vẻ mất hứng thú.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Frondier, không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Frondier, không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mà Frondier đã gặp, có liên quan đến những hứa hẹn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Monty = Zodiac"
+ ],
+ "stats": {
+  "tokens": 1238,
+  "seconds": 37.0
+ }
+}

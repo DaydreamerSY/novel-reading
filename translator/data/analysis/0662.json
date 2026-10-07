@@ -1,0 +1,65 @@
+{
+ "number": 662,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier (Lunia) bị canh giữ và di chuyển đến một địa điểm mới sau khi nghe thấy tiếng động lạ bên ngoài. Cô quan ngại về tình hình của Aster và những người khác, cũng như sự mất liên lạc với Marco. Trong quá trình di chuyển, cô nhận ra rằng lũ quỷ đang thận trọng hơn bình thường và suy đoán về những gì đã xảy ra. Cô cũng chú ý đến chiếc vòng tay trói buộc mình và thông tin về công ty Hitchcock.",
+ "boi_canh": "Trong một căn phòng giam tồi tàn trong khu ổ chuột, vào lúc không xác định.",
+ "nhan_vat": [
+  "Lunia",
+  "Aster",
+  "Marco",
+  "Devil (guarding Lunia)",
+  "Devil (next to him)"
+ ],
+ "su_kien": [
+  "Lunia nghe thấy tiếng ồn bên ngoài và lo lắng về tình hình của Aster.",
+  "Lunia bị trói tay bằng vòng tay đặc biệt.",
+  "Lunia bị đưa đến một tòa nhà lớn trong khu ổ chuột.",
+  "Cô nhận xét về chất lượng của chiếc vòng tay, được mua từ Hitchcock.",
+  "Một tên quỷ cảnh báo người khác đừng nói nhiều."
+ ],
+ "quan_he": [
+  {
+   "a": "Lunia",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Lo lắng về tình hình của Aster và những người khác.",
+   "cach_goi": "gọi tên Aster, không rõ thái độ"
+  },
+  {
+   "a": "Lunia",
+   "b": "Marco",
+   "loai": "cap_tren",
+   "mo_ta": "Lo lắng về sự mất liên lạc với Marco.",
+   "cach_goi": "gọi tên Marco, không rõ thái độ"
+  },
+  {
+   "a": "Devil (guarding Lunia)",
+   "b": "Lunia",
+   "loai": "ke_thu",
+   "mo_ta": "Canh giữ và di chuyển Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Devil (next to him)",
+   "b": "Lunia",
+   "loai": "ke_thu",
+   "mo_ta": "Đứng cạnh tên quỷ canh giữ Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Devil (guarding Lunia)",
+   "b": "Devil (next to him)",
+   "loai": "dong_minh",
+   "mo_ta": "Trao đổi thông tin về chiếc vòng tay và Hitchcock.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Hitchcock: Một công ty sản xuất dụng cụ ma thuật, có chủ tịch là một quỷ."
+ ],
+ "stats": {
+  "tokens": 702,
+  "seconds": 21.9
+ }
+}

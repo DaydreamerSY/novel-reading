@@ -1,0 +1,90 @@
+{
+ "number": 884,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau buổi lễ khai mạc, Frondier suy tư về chiếc nhẫn vàng Evelina trao cho anh. Anh lo lắng về những tác dụng tiềm ẩn của nó, tương tự như những gì Ares và Aster đã trải qua. Quyết tâm trả thù thần, Frondier tìm đến Heracles để cầu xin lời khuyên, và được hướng dẫn đến Giants – những người từng đối đầu với các vị thần trong Ragnarok.",
+ "boi_canh": "Đêm sau buổi lễ khai mạc, trong phòng của Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Athena",
+  "Ares",
+  "Father",
+  "Heracles",
+  "Zeus",
+  "Evelina",
+  "Telephos"
+ ],
+ "su_kien": [
+  "Frondier nhận chiếc nhẫn vàng từ Evelina.",
+  "Anh suy tư về những tác dụng tiềm ẩn của chiếc nhẫn.",
+  "Frondier tìm đến Heracles để xin lời khuyên.",
+  "Heracles tiết lộ rằng Giants có thể biết cách giết thần.",
+  "Heracles cảnh báo Frondier về nguy cơ lặp lại Ragnarok."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Frondier lo lắng về những gì Aster đã trải qua.",
+   "cach_goi": "gọi tên Aster, không rõ tone"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ares",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Frondier lo lắng về những gì Ares đã trải qua.",
+   "cach_goi": "gọi tên Ares, không rõ tone"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heracles",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được Frondier tìm kiếm sự giúp đỡ, ban đầu lạnh lùng.",
+   "cach_goi": "gọi 'Lord Heracles', lễ phép"
+  },
+  {
+   "a": "Heracles",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được tìm kiếm sự giúp đỡ, sau đó trở nên nghiêm túc.",
+   "cach_goi": "gọi tên Frondier, không rõ tone"
+  },
+  {
+   "a": "Frondier",
+   "b": "Telephos",
+   "loai": "nguoi_la",
+   "mo_ta": "Người xa lạ, Telephos thường xuyên có những bình luận.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Telephos",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người xa lạ, thường xuyên có những bình luận.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Heracles",
+   "b": "Telephos",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Heracles ra lệnh cho Telephos.",
+   "cach_goi": "gọi tên Telephos, không rõ tone"
+  },
+  {
+   "a": "Telephos",
+   "b": "Heracles",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Telephos thường xuyên có những bình luận.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Chiếc nhẫn vàng của Evelina: Có lẽ là một món đồ thần thánh với tác dụng chưa rõ."
+ ],
+ "stats": {
+  "tokens": 957,
+  "seconds": 28.8
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "number": 645,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Bart gợi ý Frondier là quỷ để thu hút sự chú ý, một nhóm quỷ đã tập hợp lại với hy vọng rằng Frondier sẽ đứng lên chống lại quỷ phương Tây. Để xoa dịu sự nghi ngờ của họ, Frondier đã chấp nhận vai diễn quỷ và sử dụng những tin đồn cũ về quá khứ của mình để tạo ra ảo ảnh về sự thật. Cuối cùng, anh ta đã chứng minh",
+ "boi_canh": "Trong một dinh thự, nơi các quỷ tụ tập để thảo luận về tình hình căng thẳng giữa các quỷ trong Đế quốc.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Elysia",
+  "Enfer",
+  "Frondier de Roach",
+  "Bart"
+ ],
+ "su_kien": [
+  "Bart gợi ý Frondier là quỷ để thu hút sự chú ý.",
+  "Các quỷ nghi ngờ và lo lắng về việc tập hợp các quỷ ẩn của Đế quốc.",
+  "Frondier chấp nhận vai diễn quỷ để xoa dịu sự nghi ngờ.",
+  "Frondier sử dụng tin đồn cũ về quá khứ của mình để tạo ra ảo ảnh về sự thật.",
+  "Frondier “chứng minh” bản thân là quỷ, khiến hầu hết các quỷ hiện tại ngất xỉu hoặc quỳ gối."
+ ],
+ "quan_he": [
+  {
+   "a": "Bart",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Bart gợi ý và cố gắng thuyết phục Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ ràng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bart",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier quan sát phản ứng của Bart.",
+   "cach_goi": "gọi tên Bart, không rõ ràng"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, có vẻ lo lắng về tình hình.",
+   "cach_goi": "gọi tên Frondier, không rõ ràng"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier, có vẻ lo lắng về tình hình.",
+   "cach_goi": "gọi tên Frondier, không rõ ràng"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Một quỷ khác, có vẻ sợ hãi trước hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, không rõ ràng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier khiến Elysia sợ hãi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)",
+  "Tin đồn về việc Frondier không phải là con ruột của gia đình Roach."
+ ],
+ "stats": {
+  "tokens": 997,
+  "seconds": 29.9
+ }
+}

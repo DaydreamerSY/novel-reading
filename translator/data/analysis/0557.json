@@ -2,80 +2,87 @@
  "number": 557,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi tiêu diệt Minotaur cuối cùng, Aster nhận được Excalibur từ Nimue nhưng đã kiệt sức và suýt ngã. Merlin sau đó tiết lộ vai trò của Aster là một quân cờ để nâng đỡ những người hùng, đặc biệt là King Arthur, và Frondier đã âm thầm giúp anh ta đạt được vị trí này. Merlin cũng báo trước một thử thách lớn dành cho Frondier và yêu cầu Aster hỗ trợ anh.",
- "boi_canh": "Trong khu vực bị bao vây bởi rào cản phép thuật, sau trận chiến với Minotaur.",
+ "tom_tat": "Sau khi Frondier từ chối trả lời Belphegor, hắn ta giải phóng một đội quân xác sống khổng lồ tiến về phía Đế Chế. Frondier nhận ra sự vô nghĩa của những nỗ lực chiến đấu của mình trước sức mạnh áp đảo của Belphegor. Trong lúc đó, Aster đang trên đường đến Rào Cản phía Bắc theo chỉ dẫn của Merlin, và gặp Selena cùng Mei trên đường đi. Họ tiết lộ rằng Mei sống với Frondier.",
+ "boi_canh": "Địa điểm: Một vùng đất hoang tàn, gần Đế Chế. Thời gian: Trong chiến tranh.",
  "nhan_vat": [
   "Frondier",
+  "Belphegor",
+  "Selena",
   "Aster",
+  "Mei",
   "Merlin",
-  "Nimue",
-  "Notker",
-  "Arthur"
+  "Cassian"
  ],
  "su_kien": [
-  "Aster tiêu diệt Minotaur cuối cùng.",
-  "Aster nhận Excalibur từ Nimue và bị kiệt sức, suýt ngã.",
-  "Merlin tiết lộ vai trò của Aster là một quân cờ để nâng đỡ những người hùng.",
-  "Nimue đưa Aster đi nhờ trên một dòng nước phép thuật.",
-  "Merlin báo trước một thử thách lớn dành cho Frondier và yêu cầu sự giúp đỡ của Aster."
+  "Belphegor giải phóng đội quân xác sống.",
+  "Đội quân xác sống tiến về phía Đế Chế.",
+  "Aster cưỡi ngựa đi đến Rào Cản phía Bắc.",
+  "Aster gặp Selena và Mei trên đường.",
+  "Selena tiết lộ rằng Mei sống với Frondier."
  ],
  "quan_he": [
   {
-   "a": "Aster",
-   "b": "Nimue",
-   "loai": "nguoi_la",
-   "mo_ta": "Aster nhận Excalibur từ Nimue sau trận chiến.",
-   "cach_goi": "gọi tên Nimue, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Nimue",
-   "b": "Aster",
-   "loai": "nguoi_la",
-   "mo_ta": "Nimue trao trả Excalibur cho Aster.",
-   "cach_goi": "gọi tên Aster, lễ phép"
-  },
-  {
-   "a": "Aster",
-   "b": "Merlin",
-   "loai": "nguoi_la",
-   "mo_ta": "Aster gặp Merlin và được tiết lộ về vai trò của mình.",
-   "cach_goi": "gọi tên Merlin, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Merlin",
-   "b": "Aster",
-   "loai": "thay_tro",
-   "mo_ta": "Merlin hướng dẫn và tiết lộ thông tin quan trọng cho Aster.",
-   "cach_goi": "gọi tên Aster, lạnh lùng"
-  },
-  {
-   "a": "Aster",
-   "b": "Notker",
-   "loai": "doi_thu",
-   "mo_ta": "Aster nhìn thấy Notker bị giam giữ.",
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ke_thu",
+   "mo_ta": "Địch thủ, Belphegor chế nhạo sự bất lực của Frondier.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Merlin",
+   "a": "Belphegor",
    "b": "Frondier",
-   "loai": "khac",
-   "mo_ta": "Merlin nhắc đến Frondier và vai trò của anh.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, Belphegor chế nhạo và khiêu khích Frondier.",
+   "cach_goi": "gọi 'You', trịch thượng"
   },
   {
    "a": "Aster",
-   "b": "Frondier",
+   "b": "Selena",
    "loai": "ban_be",
-   "mo_ta": "Aster suy nghĩ về những hành động và lời nói của Frondier.",
+   "mo_ta": "Bạn bè, Aster vui mừng khi gặp lại Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Selena giải thích tình hình cho Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Aster tò mò về Mei.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Mei giới thiệu bản thân với Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Cassian",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Selena đang cưỡi Cassian.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Cassian",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Aster nhận ra Cassian.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Excalibur: thanh kiếm mà Aster nhận được từ Nimue, sau đó được tiết lộ là Excalibur.",
-  "King Arthur: hình ảnh người hùng được Merlin sử dụng để minh họa vai trò của Aster."
+  "Mei: Tên được đặt bởi Frondier cho dạng nữ của Metamorp."
  ],
  "stats": {
-  "tokens": 875,
-  "seconds": 27.3
+  "tokens": 903,
+  "seconds": 28.3
  }
 }

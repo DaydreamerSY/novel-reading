@@ -2,87 +2,97 @@
  "number": 521,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi nghe tin tức về việc rào cản Krasmere được xây dựng lại, Sanders và Elodie lo lắng về vị trí của Frondier. Một báo cáo bất ngờ cho biết các rào cản của Đế chế đang được phục hồi theo thứ tự vòng cung, khiến Belphegor nghi ngờ đây là hành động của Frondier và ra lệnh xác minh trực tiếp. Sự kiện này làm dấy lên những suy đoán về kế hoạch của Frondier và ý nghĩa của việc phục hồi rào cản ở một địa điểm xa xôi.",
- "boi_canh": "Trong phòng họp quân sự, thời điểm trước khi chiến tranh bắt đầu.",
+ "tom_tat": "Trong chương này, Frondier nhận ra rằng việc khôi phục rào cản theo chiều kim đồng hồ sẽ dụ Manggot và khiến hắn ta thúc đẩy cuộc tấn công của quái vật bên ngoài. Frondier sử dụng khả năng cảm giác thứ sáu và kỹ thuật che giấu Mana để phát hiện tiên phong của Manggot, xác định được cách thức điều khiển quái vật thông qua một con quái vật cấp thấp. Sau đó, anh ta cử Renzo lên tấm khiên bay đến vị trí chiến lược để gây rối loạn đội hình địch.",
+ "boi_canh": "Gần rào chắn, trong một trận chiến đang diễn ra.",
  "nhan_vat": [
   "Frondier",
-  "Elodie",
-  "Selena",
-  "Mei",
-  "Sanders",
-  "Adela",
-  "Belphegor"
+  "Aster",
+  "Aten Terst",
+  "Renzo",
+  "Dier",
+  "Malia",
+  "Gregory",
+  "Mother",
+  "Dier Aigar",
+  "Geoffrey"
  ],
  "su_kien": [
-  "Một người lính báo cáo về việc rào cản Krasmere được xây dựng lại.",
-  "Sanders nghi ngờ Frondier có liên quan đến việc phục hồi rào cản.",
-  "Elodie nhận ra Mei đứng sau việc phục hồi rào cản.",
-  "Belphegor ra lệnh cho Adela xác minh trực tiếp quá trình phục hồi rào cản và tìm kiếm Frondier.",
-  "Adela chấp nhận mệnh lệnh của Belphegor."
+  "Frondier nhận ra việc khôi phục rào cản theo chiều kim đồng hồ sẽ dụ Manggot.",
+  "Frondier phát hiện ra cách thức điều khiển quái vật của Manggot thông qua một con quái vật cấp thấp.",
+  "Frondier liên lạc với Mother để xác nhận tình hình các rào chắn khác.",
+  "Renzo bày tỏ sự ngạc nhiên về hành động của Frondier.",
+  "Frondier cử Renzo lên tấm khiên bay đến vị trí chiến lược."
  ],
  "quan_he": [
   {
-   "a": "Elodie",
-   "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Bạn thân từ thuở nhỏ của Frondier, lo lắng cho an nguy của anh.",
-   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
-   "b": "Elodie",
+   "b": "Aten Terst",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
    "loai": "ban_be",
-   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "mo_ta": "Bạn bè, Frondier chỉ đạo Renzo.",
+   "cach_goi": "gọi tên Renzo, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò, không tương tác trực tiếp trong chương này.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Sanders",
-   "b": "Elodie",
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Frondier, liên lạc qua điện thoại.",
+   "cach_goi": "gọi 'Mother', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier Aigar",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Renzo tuân theo hướng dẫn của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Renzo",
+   "b": "Aten Terst",
    "loai": "dong_minh",
-   "mo_ta": "Đồng minh, cùng lo lắng về tình hình chiến sự.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Elodie",
-   "b": "Sanders",
-   "loai": "dong_minh",
-   "mo_ta": "Đồng minh, cùng lo lắng về tình hình chiến sự.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Sanders",
-   "b": "Người lính",
-   "loai": "cap_tren",
-   "mo_ta": "Sếp và nhân viên, Sanders tỏ ra khó chịu khi bị làm phiền.",
-   "cach_goi": "gọi 'người lính', trịch thượng"
-  },
-  {
-   "a": "Người lính",
-   "b": "Sanders",
-   "loai": "cap_tren",
-   "mo_ta": "Nhân viên báo cáo cho cấp trên.",
-   "cach_goi": "gọi tên Sanders, lễ phép"
-  },
-  {
-   "a": "Adela",
-   "b": "Belphegor",
-   "loai": "cap_tren",
-   "mo_ta": "T báo cáo cho cấp trên, Adela tỏ ra e dè.",
-   "cach_goi": "gọi 'Belphegor-nim', lễ phép"
-  },
-  {
-   "a": "Belphegor",
-   "b": "Adela",
-   "loai": "cap_tren",
-   "mo_ta": "Cấp trên quan sát và ra lệnh cho cấp dưới.",
+   "mo_ta": "Đồng minh, không tương tác trực tiếp trong chương này.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Mei: Dạng nữ của Metamorp, được Frondier đặt tên. Cô ấy có thể mô phỏng kỹ năng của Frondier."
+  "Dier Aigar (thực chất là Eiger)"
  ],
  "stats": {
-  "tokens": 978,
-  "seconds": 29.3
+  "tokens": 1056,
+  "seconds": 31.5
  }
 }

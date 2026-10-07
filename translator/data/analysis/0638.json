@@ -1,0 +1,64 @@
+{
+ "number": 638,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chặt đầu tên quỷ Adolf cấp 5 của Satan, Dier và Pielott tranh luận về cách thức chiến đấu và sức mạnh của Pielott. Dier nhận ra rằng Adolf đã được bọc kín bằng sợi tơ vô hình, khiến việc giết hắn ta là bất khả thi. Họ quyết định báo cáo với Hiệu trưởng để tìm hiểu mục đích của lũ quỷ xâm nhập vào Constel.",
+ "boi_canh": "Một chiến trường sau khi tiêu diệt một tên quỷ cấp cao.",
+ "nhan_vat": [
+  "Frondier",
+  "Pielott",
+  "Dier",
+  "Adolf"
+ ],
+ "su_kien": [
+  "Adolf bị chặt đầu bởi Pielott.",
+  "Dier nhận ra Adolf được bọc sợi tơ vô hình.",
+  "Dier và Pielott tranh luận về kỹ năng chiến đấu của nhau.",
+  "Họ quyết định báo cáo với Hiệu trưởng.",
+  "Một tiếng thét vang lên, tố giác Dier và Pielott đã giết Lord Adolf."
+ ],
+ "quan_he": [
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Dier nghi ngờ và thán phục kỹ năng của Pielott.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Pielott bực bội với sự phân tích của Dier.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Adolf",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ đã bị giết, Dier quan sát kỹ lưỡng để tìm hiểu điểm yếu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Adolf",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ đã bị giết, Pielott không quan tâm đến việc xem xét xác đối phương.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò, Dier nhớ lời cảnh báo của Frondier về Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Adolf: Lord Adolf (tên gọi sau khi bị giết)"
+ ],
+ "stats": {
+  "tokens": 688,
+  "seconds": 20.6
+ }
+}

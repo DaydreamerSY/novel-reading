@@ -1,0 +1,77 @@
+{
+ "number": 737,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhận được những yêu cầu khắc nghiệt từ Malia, người mà anh biết là vợ của Enfer và có vẻ như đang hành động theo lệnh của ai đó. Anh cũng chia sẻ tầm nhìn với Malia thông qua 'Sense Sharing'. Sau đó, Frondier nói chuyện với Selena về tình hình nguy hiểm và đưa ra hai lựa chọn: ở lại trong Đế chế hoặc đi cùng anh đến vùng đất phương tây đầy rủi ro, và Selena quyết định đi theo anh.",
+ "boi_canh": "Trong phòng của Frondier, buổi tối trước khi anh lên đường thực hiện một nhiệm vụ quan trọng.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Elysia",
+  "Enfer",
+  "Malia",
+  "Robert",
+  "Mom",
+  "Mother",
+  "Shadow",
+  "Malia de Roach"
+ ],
+ "su_kien": [
+  "Malia đưa ra những yêu cầu khắc nghiệt đối với Frondier.",
+  "Frondier và Malia chia sẻ tầm nhìn thông qua 'Sense Sharing'.",
+  "Frondier nói chuyện với Selena về tình hình nguy hiểm và đưa ra hai lựa chọn.",
+  "Selena quyết định đi theo Frondier đến vùng đất phương tây.",
+  "Frondier nhận thấy sự khác lạ trong biểu cảm của Selena."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và mẹ, Malia đưa ra yêu cầu nghiêm khắc.",
+   "cach_goi": "gọi 'Mother', lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con trai, Malia ra lệnh cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier thông báo cho Selena về tình hình và đưa ra lựa chọn.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Selena lắng nghe và đưa ra quyết định.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier đã yêu cầu Elysia điều tra.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robert",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier biết Robert đã điều tra.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Malia de Roach (là Malia)"
+ ],
+ "stats": {
+  "tokens": 828,
+  "seconds": 24.7
+ }
+}

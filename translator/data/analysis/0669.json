@@ -1,0 +1,101 @@
+{
+ "number": 669,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, nhóm của Frondier tiếp tục chiến đấu với quỷ dữ. Lunia đề nghị tự mình bắt giữ một tên quỷ đã từng bắt cóc cô để tra hỏi. Cô sử dụng một rune đặc biệt để trói buộc và đưa hắn đến nơi giam giữ cũ. Aster lo ngại về hành động của Lunia, nhưng cuối cùng Selena quyết định đi theo để bảo vệ cô.",
+ "boi_canh": "Một trận chiến hỗn loạn giữa người và quỷ dữ đang diễn ra.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Lunia"
+ ],
+ "su_kien": [
+  "Lunia đề nghị bắt giữ tên quỷ đã từng bắt cóc cô.",
+  "Lunia sử dụng rune để trói buộc và đưa tên quỷ đi.",
+  "Aster bày tỏ lo ngại về hành động của Lunia.",
+  "Selena quyết định đi theo Lunia để bảo vệ cô.",
+  "Aster ngăn cản Selena, khẳng định Lunia sẽ an toàn."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Aster là người cấp trên của Frondier, nhưng không giao tiếp trực tiếp.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là cấp dưới của Aster, nhưng không giao tiếp trực tiếp.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Aster và Selena là bạn bè, có mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Selena và Aster là bạn bè, có mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Lunia",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Aster và Lunia có mối quan hệ tình cảm sâu sắc.",
+   "cach_goi": "gọi tên Lunia, tôn trọng"
+  },
+  {
+   "a": "Lunia",
+   "b": "Aster",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Lunia và Aster có mối quan hệ tình cảm sâu sắc.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Aten và Aster là bạn bè.",
+   "cach_goi": "gọi tên Aster, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Aster và Aten là bạn bè.",
+   "cach_goi": "gọi tên Aten, thân mật"
+  },
+  {
+   "a": "Lunia",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Lunia và Selena là bạn bè.",
+   "cach_goi": "gọi tên Selena, thân thiện"
+  },
+  {
+   "a": "Selena",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Selena và Lunia là bạn bè.",
+   "cach_goi": "gọi tên Lunia, thân thiện"
+  }
+ ],
+ "danh_tinh": [
+  "Tên đầy đủ của Aten là Aten Terst, tam công chúa."
+ ],
+ "stats": {
+  "tokens": 1036,
+  "seconds": 32.3
+ }
+}

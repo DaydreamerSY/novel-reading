@@ -1,0 +1,84 @@
+{
+ "number": 967,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Thần Tyr qua đời, các vị thần Asgard xuất hiện và tấn công những người thuộc cung Hoàng đạo. Để xoay chuyển tình thế, Edwin sử dụng pháo hoa để điều động quân đội và Zodiac lui về phía rào chắn theo kế hoạch đã định của Dier. Dier, với vai trò là người đứng sau mọi chỉ thị chiến lược, đưa ra những quyết định bất ngờ, khiến cả phe đối lập lẫn đồng minh đều bối rối. Cuối cùng, Enfer de Roach xuất hiện cùng Aten để cứu Frondier và trả thù cho những gì đã xảy ra.",
+ "boi_canh": "Một trận chiến ác liệt đang diễn ra giữa các vị thần Asgard và quân đội nhân loại tại một khu vực không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten Terst",
+  "Pielott",
+  "Dier",
+  "Jane",
+  "Edwin",
+  "Ludovic",
+  "Basileo",
+  "Aias",
+  "Odin",
+  "Zeus",
+  "Enfer de Roach"
+ ],
+ "su_kien": [
+  "Thần Tyr qua đời, gây ảnh hưởng đến các vị thần Asgard.",
+  "Các vị thần Asgard, dẫn đầu là Baldur, tấn công những người thuộc cung Hoàng đạo.",
+  "Edwin sử dụng pháo hoa để điều động quân đội lui về phía rào chắn.",
+  "Dier đưa ra những chỉ thị chiến lược bất ngờ, khiến tình hình trở nên khó đoán.",
+  "Enfer de Roach và Aten xuất hiện để cứu Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Aten muốn Enfer cứu Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten Terst",
+   "b": "Enfer de Roach",
+   "loai": "cap_tren",
+   "mo_ta": "Aten cầu xin Enfer cứu Frondier.",
+   "cach_goi": "gọi tên 'Lord Head of House Roach', lễ phép"
+  },
+  {
+   "a": "Edwin",
+   "b": "Dier",
+   "loai": "thay_tro",
+   "mo_ta": "Edwin tuân theo chỉ thị của Dier thông qua pháo hoa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Dier",
+   "loai": "thay_tro",
+   "mo_ta": "Osprey tuân theo chỉ thị của Dier, do Empress Philie ủy quyền.",
+   "cach_goi": "gọi tên 'Headmaster', lễ phép"
+  },
+  {
+   "a": "Zeus",
+   "b": "Baldur",
+   "loai": "cap_tren",
+   "mo_ta": "Zeus và Baldur cùng dẫn đầu các vị thần tấn công.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer de Roach",
+   "b": "Aten Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Enfer là cha của Frondier và Aten, đang đối diện với Aten.",
+   "cach_goi": "gọi tên 'Princess', lễ phép"
+  },
+  {
+   "a": "Zeus",
+   "b": "Odin",
+   "loai": "cap_tren",
+   "mo_ta": "Zeus thay thế Odin trong vai trò chỉ huy các vị thần.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 789,
+  "seconds": 23.9
+ }
+}

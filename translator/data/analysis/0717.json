@@ -1,0 +1,102 @@
+{
+ "number": 717,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào sự căng thẳng giữa Azier và Hagley sau khi Hagley bị đánh đập, cùng với những suy nghĩ của Frondier về vị trí của mình trong Constel và Empire. Azier nghi ngờ Hagley cố tình kích động ông ta để tìm hiểu về khả năng giải mã ngôn ngữ cổ xưa của Frondier. Frondier nhận thấy sự thay đổi trong cách mọi người nhìn nhận anh, và lo ngại rằng cuộc chiến có thể đã chuyển sang một giai đoạn mới. Aster tiếp tục luyện tập độc lập do trình độ vượt trội.",
+ "boi_canh": "Trong phòng giam tại Constel, vào thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Elysia",
+  "Hagley",
+  "Esther",
+  "Gregory",
+  "Frondier de Roach",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Azier đánh Hagley và tỏ ra bực bội.",
+  "Azier nghi ngờ Hagley cố tình khiêu khích để tìm hiểu về khả năng của Frondier.",
+  "Frondier nhận thấy sự thay đổi trong cách mọi người nhìn nhận anh tại Constel.",
+  "Frondier yêu cầu Elysia điều tra gia đình Vanier.",
+  "Aster luyện tập độc lập và thử nghiệm kỹ thuật mới."
+ ],
+ "quan_he": [
+  {
+   "a": "Esther",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Nhân viên dưới quyền của Azier, dè dặt và e ngại.",
+   "cach_goi": "gọi tên Azier, không rõ"
+  },
+  {
+   "a": "Azier",
+   "b": "Esther",
+   "loai": "dong_minh",
+   "mo_ta": "Sếp của Esther, có vẻ khó chịu với sự im lặng của cô.",
+   "cach_goi": "gọi tên Esther, không rõ"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, quan tâm và lo lắng cho anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Em trai của Azier, không biết được suy nghĩ của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Hagley",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, có sự nghi ngờ và đối đầu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, có vẻ đang cố tình khiêu khích.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier giao việc điều tra cho cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, Frondier giao việc theo dõi tình hình cho anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Aster luyện tập độc lập và Frondier quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier lắc đầu trước sự tự tin của Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1088,
+  "seconds": 32.5
+ }
+}

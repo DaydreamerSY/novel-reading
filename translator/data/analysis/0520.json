@@ -2,63 +2,87 @@
  "number": 520,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Đội Kỵ Sĩ Áo Choàng dưới sự dẫn dắt của Sanders đang trên đường đến rào chắn phía nam theo chỉ thị của Frondier. Sanders lo lắng về tình trạng suy giảm tinh thần của đội kỵ sĩ, những người đã đánh mất niềm tin vào bản thân và nhiệm vụ bảo vệ đế chế. Anh gặp Elodie de Inies Rishae lần đầu tiên, một cô gái trẻ tuổi với vẻ ngoài điềm tĩnh đáng ngạc nhiên. Cuộc trò chuyện giữa họ hé lộ sự thất vọng của Elodie về đội kỵ sĩ và gợi ý rằng Frondier đã từng có ảnh hưởng lớn đến tinh thần chiến đấu của các kỵ sĩ tại Tyburn.",
- "boi_canh": "Rào chắn phía nam, thời điểm trước một trận chiến với quái vật.",
+ "tom_tat": "Sau khi nghe tin tức về việc rào cản Krasmere được xây dựng lại, Sanders và Elodie lo lắng về vị trí của Frondier. Một báo cáo bất ngờ cho biết các rào cản của Đế chế đang được phục hồi theo thứ tự vòng cung, khiến Belphegor nghi ngờ đây là hành động của Frondier và ra lệnh xác minh trực tiếp. Sự kiện này làm dấy lên những suy đoán về kế hoạch của Frondier và ý nghĩa của việc phục hồi rào cản ở một địa điểm xa xôi.",
+ "boi_canh": "Trong phòng họp quân sự, thời điểm trước khi chiến tranh bắt đầu.",
  "nhan_vat": [
   "Frondier",
-  "Elodie de Inies Rishae",
-  "Ludwig",
-  "Sanders"
+  "Elodie",
+  "Selena",
+  "Mei",
+  "Sanders",
+  "Adela",
+  "Belphegor"
  ],
  "su_kien": [
-  "Sanders dẫn dắt Kỵ Sĩ Áo Choàng đến rào chắn phía nam.",
-  "Sanders suy tư về sự suy giảm tinh thần của đội kỵ sĩ.",
-  "Elodie de Inies Rishae lần đầu gặp Sanders.",
-  "Elodie nhận xét về sự thiếu kinh nghiệm thực tế của các kỵ sĩ.",
-  "Elodie hỏi về cách Frondier từng nâng cao tinh thần chiến đấu cho các kỵ sĩ tại Tyburn."
+  "Một người lính báo cáo về việc rào cản Krasmere được xây dựng lại.",
+  "Sanders nghi ngờ Frondier có liên quan đến việc phục hồi rào cản.",
+  "Elodie nhận ra Mei đứng sau việc phục hồi rào cản.",
+  "Belphegor ra lệnh cho Adela xác minh trực tiếp quá trình phục hồi rào cản và tìm kiếm Frondier.",
+  "Adela chấp nhận mệnh lệnh của Belphegor."
  ],
  "quan_he": [
   {
-   "a": "Sanders",
+   "a": "Elodie",
    "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Đồng đội, Sanders lo lắng về Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Sanders",
-   "b": "Elodie de Inies Rishae",
-   "loai": "nguoi_la",
-   "mo_ta": "Người mới được giao nhiệm vụ cùng Sanders.",
-   "cach_goi": "gọi tên Elodie, lạnh lùng"
-  },
-  {
-   "a": "Elodie de Inies Rishae",
-   "b": "Sanders",
-   "loai": "nguoi_la",
-   "mo_ta": "Người mới được giao nhiệm vụ cùng Sanders.",
-   "cach_goi": "gọi tên Sanders, không rõ cảm xúc"
-  },
-  {
-   "a": "Sanders",
-   "b": "Ludwig",
    "loai": "ban_be",
-   "mo_ta": "Bạn bè, Sanders từng chia sẻ với Ludwig về sự suy giảm của đội kỵ sĩ.",
+   "mo_ta": "Bạn thân từ thuở nhỏ của Frondier, lo lắng cho an nguy của anh.",
+   "cach_goi": "gọi tên Frondier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Elodie de Inies Rishae",
-   "b": "Các Kỵ Sĩ Áo Choàng",
+   "a": "Sanders",
+   "b": "Elodie",
    "loai": "dong_minh",
-   "mo_ta": "Quan sát và đánh giá tinh thần của các kỵ sĩ.",
+   "mo_ta": "Đồng minh, cùng lo lắng về tình hình chiến sự.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sanders",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, cùng lo lắng về tình hình chiến sự.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Người lính",
+   "loai": "cap_tren",
+   "mo_ta": "Sếp và nhân viên, Sanders tỏ ra khó chịu khi bị làm phiền.",
+   "cach_goi": "gọi 'người lính', trịch thượng"
+  },
+  {
+   "a": "Người lính",
+   "b": "Sanders",
+   "loai": "cap_tren",
+   "mo_ta": "Nhân viên báo cáo cho cấp trên.",
+   "cach_goi": "gọi tên Sanders, lễ phép"
+  },
+  {
+   "a": "Adela",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "T báo cáo cho cấp trên, Adela tỏ ra e dè.",
+   "cach_goi": "gọi 'Belphegor-nim', lễ phép"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Adela",
+   "loai": "cap_tren",
+   "mo_ta": "Cấp trên quan sát và ra lệnh cho cấp dưới.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Elodie de Inies Rishae (trước đây chỉ là Elodie)"
+  "Mei: Dạng nữ của Metamorp, được Frondier đặt tên. Cô ấy có thể mô phỏng kỹ năng của Frondier."
  ],
  "stats": {
-  "tokens": 769,
-  "seconds": 23.1
+  "tokens": 978,
+  "seconds": 29.3
  }
 }

@@ -2,73 +2,70 @@
  "number": 532,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Đội Manggot ẩn mình trong rừng để tránh bị phát hiện sau tiếng hét của Notker. Họ quyết định sẽ hy sinh cùng Đế quốc. Khi họ chuẩn bị tiến về phía rào chắn, Notker và các thành viên khác bất ngờ bị trói chân bởi một loại dây leo bí ẩn. Một người đàn ông lạ mặt xuất hiện và giăng bẫy cho họ bằng cách biến đổi khu rừng thành một cảnh quan thần tiên. Trong khi đó, Aster đang chiến đấu với lũ Minotaur mà không có kiếm, nhưng một nữ nhân bí ẩn đã đến giúp đỡ anh ta bằng thanh Excalibur thứ hai do Frondier giao phó.",
- "boi_canh": "Trong một khu rừng gần rào chắn, vào thời điểm đội Manggot chuẩn bị tấn công.",
+ "tom_tat": "Sau khi Frondier đề nghị để các thành viên của nhóm được kiểm tra khả năng, Aster nhận được thanh kiếm Excalibur từ Nimue và Lady of the Lake. Anh ta đánh giá nó một cách bất ngờ, khiến Nimue bối rối. Trong lúc đó, những con Minotaur tái xuất hiện, buộc Aster phải chiến đấu với chúng bằng thanh kiếm mới. Đồng thời, Belphegor đang báo cáo tình hình chiến sự không mấy khả quan và nghi ngờ về chiến lược phòng thủ của Đế chế.",
+ "boi_canh": "Trong một địa điểm bí ẩn, nơi Lady of the Lake trao Excalibur cho Aster.",
  "nhan_vat": [
   "Frondier",
+  "Selena",
   "Aster",
-  "Notker",
-  "Hector",
-  "Ludwig (cha của Hector)",
-  "Người đàn ông lạ mặt",
-  "Nữ nhân bí ẩn"
+  "Osprey",
+  "Hagley",
+  "Merlin",
+  "Nimue",
+  "Arthur",
+  "Lady of the Lake",
+  "Shadow",
+  "Belphegor"
  ],
  "su_kien": [
-  "Đội Manggot bị trói chân bởi dây leo.",
-  "Khu rừng biến đổi thành một cảnh quan thần tiên.",
-  "Một người đàn ông lạ mặt xuất hiện và giăng bẫy đội Manggot.",
-  "Aster chiến đấu với lũ Minotaur mà không có kiếm.",
-  "Nữ nhân bí ẩn trao cho Aster thanh Excalibur thứ hai."
+  "Aster nhận thanh kiếm Excalibur từ Nimue và Lady of the Lake.",
+  "Aster đánh giá thanh kiếm một cách bất ngờ, khiến Nimue bối rối.",
+  "Những con Minotaur tái xuất hiện, buộc Aster phải chiến đấu.",
+  "Aster sử dụng kỹ thuật Evans Family Swordsmanship để tiêu diệt những con Minotaur.",
+  "Belphephor nhận báo cáo về tình hình chiến sự không mấy khả quan."
  ],
  "quan_he": [
   {
-   "a": "Notker",
-   "b": "Manggot (thành viên)",
-   "loai": "gia_dinh",
-   "mo_ta": "Lãnh đạo đội Manggot, ra lệnh cho các thành viên.",
-   "cach_goi": "gọi tên, thân mật"
-  },
-  {
-   "a": "Manggot (thành viên)",
-   "b": "Notker",
-   "loai": "gia_dinh",
-   "mo_ta": "Các thành viên đội Manggot nghe theo lệnh của Notker.",
-   "cach_goi": "gọi tên, lễ phép"
-  },
-  {
    "a": "Aster",
-   "b": "Minotaur",
-   "loai": "doi_thu",
-   "mo_ta": "Aster chiến đấu với lũ Minotaur.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "b": "Nimue",
+   "loai": "thay_tro",
+   "mo_ta": "Aster nhận thanh kiếm từ Nimue và đánh giá nó.",
+   "cach_goi": "gọi tên Nimue, không nói chuyện trực tiếp"
   },
   {
-   "a": "Người đàn ông lạ mặt",
-   "b": "Manggot (thành viên)",
-   "loai": "nguoi_la",
-   "mo_ta": "Người đàn ông lạ mặt giăng bẫy cho đội Manggot.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Nữ nhân bí ẩn",
+   "a": "Nimue",
    "b": "Aster",
-   "loai": "nguoi_la",
-   "mo_ta": "Nữ nhân bí ẩn trao kiếm cho Aster.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "thay_tro",
+   "mo_ta": "Nimue trao thanh kiếm cho Aster và quan sát anh ta.",
+   "cach_goi": "gọi tên Aster, lễ phép"
   },
   {
-   "a": "Aster",
-   "b": "Nữ nhân bí ẩn",
-   "loai": "nguoi_la",
-   "mo_ta": "Aster nhận kiếm từ nữ nhân bí ẩn.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Frondier đã đề nghị để các thành viên được kiểm tra khả năng.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Hagley",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor nhận báo cáo từ Hagley và đưa ra lời khuyên.",
+   "cach_goi": "gọi tên Hagley, lễ phép"
+  },
+  {
+   "a": "Hagley",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Hagley đưa ra lời khuyên cho Belphegor.",
+   "cach_goi": "gọi tên Belphegor, lễ phép"
   }
  ],
  "danh_tinh": [
-  "Hector Von Urfa (tên thật của Hector)"
+  "Excalibur: Thanh kiếm thứ hai mà King Arthur nhận từ Lady of the Lake, chứng minh sự hoàn thiện của anh ta."
  ],
  "stats": {
-  "tokens": 820,
-  "seconds": 25.4
+  "tokens": 771,
+  "seconds": 24.9
  }
 }

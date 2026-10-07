@@ -1,0 +1,90 @@
+{
+ "number": 693,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đang tập luyện với Azier và được dạy về việc sử dụng giáo. Azier tiết lộ rằng gia đình Roach đã âm thầm chuẩn bị cho Frondier rời khỏi gia tộc để bảo vệ anh, vì những mục tiêu chính trị và sự hối hận của cha anh, Enfer. Anh cũng nhận được lời khen ngợi hiếm hoi từ Azier về khả năng đóng góp vào Zodiac và được trao quyền lựa chọn rời khỏi Roach.",
+ "boi_canh": "Trong phòng tập luyện của gia đình Roach.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Enfer",
+  "Monty",
+  "Ria Lis",
+  "Father",
+  "Artemis",
+  "Azier de Roach",
+  "Lis"
+ ],
+ "su_kien": [
+  "Azier bắt đầu dạy Frondier kỹ thuật sử dụng giáo.",
+  "Azier giải thích lý do gia tộc Roach muốn Frondier học nhiều loại vũ khí hơn.",
+  "Azier tiết lộ rằng gia đình đã âm thầm chuẩn bị cho việc Frondier rời khỏi gia tộc.",
+  "Azier khen ngợi khả năng của Frondier và đề xuất anh có thể tham gia Zodiac.",
+  "Azier trao cho Frondier quyền lựa chọn rời khỏi gia tộc."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò và người thầy đang trong quá trình huấn luyện.",
+   "cach_goi": "gọi tên Azier, lễ phép"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy đang hướng dẫn và động viên học trò.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và người cha, mối quan hệ phức tạp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và người cha, có sự căng thẳng tiềm ẩn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ được nhắc đến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ria Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ được nhắc đến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Artemis",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ được nhắc đến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ được nhắc đến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Falling edge là một kỹ thuật ban đầu của giáo nhưng Frondier sử dụng với kiếm."
+ ],
+ "stats": {
+  "tokens": 943,
+  "seconds": 28.2
+ }
+}

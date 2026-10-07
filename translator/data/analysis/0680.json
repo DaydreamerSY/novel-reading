@@ -1,0 +1,69 @@
+{
+ "number": 680,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị vây quanh bởi Obsidian, Marco quyết định tiết lộ thông tin về tình hình của lũ quỷ để đổi lấy sự tự do. Anh bắt đầu kể lại lịch sử lâu đời về nguồn gốc của lũ quỷ và cách chúng xâm nhập vào thế giới loài người, liên quan đến cuộc Chiến tranh Quái vật cổ xưa và sự can thiệp của Satan. Thông tin này làm Frondier nghi ngờ về mối liên hệ giữa Agoris và Zodiac, đồng thời khiến Baal bất ngờ.",
+ "boi_canh": "Trong một địa điểm không xác định, vào lúc hiện tại, khi Marco đang bị giam giữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Baal",
+  "Marco"
+ ],
+ "su_kien": [
+  "Marco đồng ý tiết lộ thông tin về lũ quỷ.",
+  "Marco bắt đầu kể về nguồn gốc của lũ quỷ và cách chúng xâm nhập vào thế giới loài người.",
+  "Frondier nghi ngờ mối liên hệ giữa Agoris và Zodiac.",
+  "Baal bất ngờ khi biết Frondier đã đánh bại Belphegor.",
+  "Baal tiết lộ một câu nói bí ẩn của Satan về lũ quỷ không thể giết chết những gã khổng lồ."
+ ],
+ "quan_he": [
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Marco đang bị giam giữ bởi Frondier và buộc phải cung cấp thông tin.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier thẩm vấn Marco để lấy thông tin.",
+   "cach_goi": "gọi tên Marco, lạnh lùng"
+  },
+  {
+   "a": "Baal",
+   "b": "Marco",
+   "loai": "ke_thu",
+   "mo_ta": "Baal và Marco là kẻ thù.",
+   "cach_goi": "gọi tên Marco, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Baal",
+   "loai": "ke_thu",
+   "mo_ta": "Marco và Baal là kẻ thù.",
+   "cach_goi": "gọi tên Baal, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "khac",
+   "mo_ta": "Frondier nghi ngờ về mối liên hệ của Baal với những sự kiện đã xảy ra.",
+   "cach_goi": "gọi tên Baal, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Baal ngạc nhiên về những gì Frondier đã làm.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 777,
+  "seconds": 23.4
+ }
+}

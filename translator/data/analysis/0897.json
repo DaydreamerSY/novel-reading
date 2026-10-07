@@ -1,0 +1,99 @@
+{
+ "number": 897,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi sử dụng Fallen Spear để vô hiệu hóa các đòn tấn công của đối thủ, Azier nhận ra rằng đối thủ là một vị thần mạnh mẽ đang nhắm vào anh ta thay vì Frondier theo lệnh của ai đó. Anh quyết định chiến đấu với vị thần này và tìm hiểu mục đích thực sự của vị thần đó. Trong khi đó, Frondier khám phá Ecleksis của một vị thần, nơi ông phải đối mặt với một đội quân vô hồn được điều khiển bởi Pandemonium.",
+ "boi_canh": "Bên trong một hang động tối tăm, thời điểm chiến đấu giữa Azier và một vị thần bí ẩn.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Baal",
+  "Athena"
+ ],
+ "su_kien": [
+  "Azier sử dụng Fallen Spear để vô hiệu hóa các đòn tấn công của đối thủ.",
+  "Vị thần tiết lộ rằng anh ta đang nhắm vào Azier thay vì Frondier theo lệnh của người khác.",
+  "Frondier khám phá Ecleksis của một vị thần, nơi ông phải đối mặt với đội quân vô hồn.",
+  "Azier quyết định chiến đấu với vị thần để tìm hiểu mục đích thực sự của anh ta.",
+  "Frondier sử dụng Ecleksis để tiêu diệt đội quân trong Ecleksis."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em ruột thịt, mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em ruột thịt, mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Vị Thần",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu, sự nghi ngờ và dò xét.",
+   "cach_goi": "gọi 'boy', lạnh lùng"
+  },
+  {
+   "a": "Vị Thần",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu, sự nghi ngờ và dò xét.",
+   "cach_goi": "gọi tên nhau, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Vị Thần",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát từ xa, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vị Thần",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát từ xa, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Baal",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, mối quan hệ hỗ trợ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Azier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, mối quan hệ hỗ trợ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Athena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, mối quan hệ hỗ trợ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Athena",
+   "b": "Azier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, mối quan hệ hỗ trợ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Vị thần được một tổ chức nào đó triệu hồi để nhắm vào Frondier theo lệnh của người khác."
+ ],
+ "stats": {
+  "tokens": 1094,
+  "seconds": 32.8
+ }
+}

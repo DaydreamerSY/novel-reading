@@ -1,0 +1,79 @@
+{
+ "number": 896,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau cuộc họp căng thẳng về việc từ bỏ quyền năng thần thánh của các Zodiac, Azier gặp gỡ Osprey và có những chia sẻ sâu sắc về vai trò của mình trong gia đình Roach. Sau đó, trên đường trở về trang viên, Azier bị một kẻ lạ mặt tấn công bất ngờ, người này thể hiện sức mạnh vượt trội và chế nhạo kỹ năng chiến đấu của anh.",
+ "boi_canh": "Trong phòng họp tại Đế quốc, sau cuộc tranh luận về quyền năng thần thánh.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly",
+  "Azier",
+  "Enfer",
+  "Edwin",
+  "Malia",
+  "Monty",
+  "Ludwig Urfa",
+  "Osprey",
+  "Father",
+  "Người lạ mặt (boy)"
+ ],
+ "su_kien": [
+  "Các Zodiac tranh luận về việc từ bỏ quyền năng thần thánh.",
+  "Ludwig Urfa giải thích rằng việc từ bỏ quyền năng là cực kỳ khó khăn và có thể không được như ý muốn.",
+  "Osprey tiết lộ Aster Evans đã bị thần Baldur 'bỏ rơi' chứ không tự mình từ bỏ quyền năng.",
+  "Azier khẳng định Frondier sẽ làm tương tự nếu ở vào vị trí của anh.",
+  "Một kẻ lạ mặt tấn công Azier trên đường trở về trang viên, thể hiện sức mạnh đáng kinh ngạc."
+ ],
+ "quan_he": [
+  {
+   "a": "Ludwig Urfa",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Ludwig giải thích vấn đề về quyền năng thần thánh cho Frondier và các Zodiac khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Ludwig Urfa",
+   "loai": "dong_minh",
+   "mo_ta": "Philly đặt câu hỏi cho Ludwig về trường hợp của Aster Evans.",
+   "cach_goi": "gọi tên Ludwig, lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Ludwig Urfa",
+   "loai": "ban_be",
+   "mo_ta": "Osprey lắng nghe Ludwig giải thích về quyền năng thần thánh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Osprey",
+   "loai": "ban_be",
+   "mo_ta": "Azier và Osprey trao đổi về vai trò của họ trong gia đình Roach.",
+   "cach_goi": "gọi tên Osprey, thân mật"
+  },
+  {
+   "a": "Osprey",
+   "b": "Azier",
+   "loai": "ban_be",
+   "mo_ta": "Osprey bày tỏ sự thán phục trước cách Azier đối diện với tình hình.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Người lạ mặt (boy)",
+   "loai": "ke_thu",
+   "mo_ta": "Azier và kẻ lạ mặt đối đầu trong một trận chiến bất ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)"
+ ],
+ "stats": {
+  "tokens": 841,
+  "seconds": 25.4
+ }
+}

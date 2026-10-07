@@ -2,75 +2,134 @@
  "number": 515,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong một cuộc họp quan trọng, Frondier tiết lộ thông tin đáng lo ngại về Manggot: họ có thể sử dụng 'Shadow Transfer' để di chuyển tức thời và có thể liên kết với những người khác thông qua bóng tối. Ông cũng cảnh báo rằng nếu chỉ một thành viên của Manggot vượt qua được rào cản của Đế quốc, chúng sẽ nhân lên hàng trăm. Cuối cùng, Frondier tiết lộ rằng Manggot sống bên ngoài bức tường bảo vệ và am hiểu về quái vật bên ngoài hơn bất kỳ ai khác, có khả năng điều chỉnh thời điểm tấn công vào Đế quốc.",
- "boi_canh": "Trong một phòng họp của Đế quốc, tại một cuộc họp quan trọng.",
+ "tom_tat": "Sau khi kết thúc bài phát biểu, Frondier nhìn quanh đám đông và nhận ra họ đã hiểu những gì ông nói. Ông Enfer, thủ lĩnh gia tộc Roach, phá vỡ sự im lặng bằng một tuyên bố mạnh mẽ, trấn an mọi người. Sau đó, Frondier bắt đầu đề xuất kế hoạch phòng thủ, nhưng lại gặp phải rào cản khi không có quyền hạn chính thức. Cuối cùng, ông Enfer bất ngờ lên tiếng ủng hộ Frondier và yêu cầu nhà vua trao quyền cho ông, dẫn đến một khoảnh khắc đầy kịch tính giữa hai người.",
+ "boi_canh": "Trong phòng họp của Đế quốc, sau bài phát biểu quan trọng.",
  "nhan_vat": [
   "Frondier",
-  "Selena",
-  "Philly Terst",
+  "Elodie",
+  "Aster",
+  "Philly",
+  "Enfer",
   "Osprey",
-  "Ludwig",
-  "Bartello Tert",
+  "Bartello",
+  "Monty",
   "Sanders",
-  "Shadow"
+  "Aster Evans",
+  "Elodie de Inies Rishae"
  ],
  "su_kien": [
-  "Frondier tiết lộ kỹ thuật 'Shadow Transfer' của Manggot.",
-  "Philly tái mặt khi Frondier nói chuyện, nhận ra ý nghĩa ẩn sau lời nói của ông.",
-  "Osprey nhắm mắt lại với vẻ mặt đau khổ.",
-  "Ludwig bày tỏ sự kinh hoàng khi hiểu ra điều Frondier đang ám chỉ.",
-  "Frondier hiển thị bản đồ cho thấy vị trí của Manggot bên ngoài rào cản của Đế quốc."
+  "Frondier kết thúc bài phát biểu và quan sát phản ứng của mọi người.",
+  "Ông Enfer phá vỡ sự im lặng bằng một tuyên bố trấn an.",
+  "Frondier bắt đầu đề xuất kế hoạch phòng thủ, nhấn mạnh vào việc tận dụng điểm mạnh của Đế quốc.",
+  "Ông Enfer bất ngờ yêu cầu nhà vua trao quyền cho Frondier.",
+  "Nhà Vua Bartello đồng ý theo lời khuyên của Frondier."
  ],
  "quan_he": [
   {
    "a": "Frondier",
-   "b": "Selena",
-   "loai": "nguoi_la",
-   "mo_ta": "Không có tương tác trực tiếp, nhưng Frondier nhận ra Selena đã cắt đứt bóng tối của mình.",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
-   "b": "Philly Terst",
-   "loai": "dong_minh",
-   "mo_ta": "Philly hiểu ý nghĩa ẩn sau lời nói của Frondier và phản ứng mạnh mẽ.",
-   "cach_goi": "gọi tên Philly, không rõ tone"
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier, mối quan hệ phức tạp.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
    "b": "Osprey",
    "loai": "dong_minh",
-   "mo_ta": "Osprey hiểu ý nghĩa ẩn sau lời nói của Frondier và phản ứng đau khổ.",
+   "mo_ta": "Không tương tác trực tiếp.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
-   "b": "Ludwig",
+   "b": "Bartello",
    "loai": "cap_tren",
-   "mo_ta": "Ludwig bày tỏ sự kinh hoàng khi hiểu ra điều Frondier đang ám chỉ.",
-   "cach_goi": "gọi tên Ludwig, không rõ tone"
+   "mo_ta": "Nhà vua, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Bartello Tert",
-   "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Yêu cầu Frondier nói lý do thứ hai.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "dong_minh",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
    "b": "Sanders",
-   "loai": "thay_tro",
-   "mo_ta": "Đề cập đến câu trả lời của Sanders là 'câu trả lời đúng đầu tiên'.",
-   "cach_goi": "gọi tên Sanders, không rõ tone"
+   "loai": "dong_minh",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster Evans",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie de Inies Rishae",
+   "loai": "nguoi_la",
+   "mo_ta": "Không quen biết nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con, mối quan hệ phức tạp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Mối quan hệ căng thẳng, lịch sự trang trọng.",
+   "cach_goi": "gọi 'Nhà Vua', lễ phép"
+  },
+  {
+   "a": "Bartello",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Mối quan hệ căng thẳng, lịch sự trang trọng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bartello",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Nhà vua và người con, mối quan hệ phức tạp.",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Philly Terst (hoàng hậu)",
-  "Bartello Tert (quốc vương)"
+  "Aster Evans: Tên đầy đủ của Aster.",
+  "Elodie de Inies Rishae: Tên đầy đủ của Elodie sau khi tức tỉnh thần tính."
  ],
  "stats": {
-  "tokens": 881,
-  "seconds": 26.4
+  "tokens": 1381,
+  "seconds": 41.4
  }
 }

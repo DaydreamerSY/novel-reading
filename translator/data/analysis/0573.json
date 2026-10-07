@@ -2,55 +2,97 @@
  "number": 573,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi chiến tranh kết thúc một tuần, Frondier trăn trở về tương lai của Selena và liệu họ có nên tiếp tục mối quan hệ hay không. Anh ta tìm đến nơi họ thường gặp gỡ, nhưng Selena đã ở đó chờ đợi anh. Cô ấy đã tái kết nối bóng tối của mình với anh, khiến anh bối rối vì những kế hoạch trước đây của anh. Cuối cùng, Frondier thông báo cho cô về một nhiệm vụ nguy hiểm mà anh phải thực hiện và khẳng định rằng cô sẽ đi theo anh.",
- "boi_canh": "Bên ngoài trang viên, sau khi chiến tranh kết thúc một tuần.",
+ "tom_tat": "Sau chiến tranh, Đế quốc bận rộn với việc mở rộng lãnh thổ đến Manggot. Trong một cuộc họp của Hội Thiên Yết, thành viên Medart đề xuất từ chức vì tuổi tác và vết thương trong chiến tranh. Sự kiện này dẫn đến cuộc thảo luận về việc liệu Frondier de Roach có nên trở thành thành viên Hội Thiên Yết hay không, gây bất ngờ cho nhiều người do những đóng góp gần đây của cậu.",
+ "boi_canh": "Trong phòng họp của Hội Thiên Yết, sau chiến tranh.",
  "nhan_vat": [
   "Frondier",
-  "Selena",
-  "Osprey"
+  "Philly",
+  "Sybil",
+  "Azier",
+  "Lily",
+  "Enfer",
+  "Ludwig",
+  "Monty",
+  "Ludovic",
+  "Medart"
  ],
  "su_kien": [
-  "Một tuần đã trôi qua kể từ khi chiến tranh kết thúc.",
-  "Frondier suy nghĩ về tương lai của Selena và mối quan hệ của họ.",
-  "Selena tái kết nối bóng tối của mình với Frondier.",
-  "Frondier thông báo cho Selena về một nhiệm vụ nguy hiểm mà anh phải thực hiện.",
-  "Selena tuyên bố sẽ đi theo Frondier đến 'địa ngục'."
+  "Medart đề xuất từ chức khỏi Hội Thiên Yết.",
+  "Cuộc thảo luận về việc liệu Frondier có đủ điều kiện để trở thành thành viên Hội Thiên Yết hay không.",
+  "Lily tuyên bố Frondier đã hứa sẽ là hiệp sĩ của cô và họ đã thề ước tâm linh.",
+  "Monty khẳng định Frondier đã thề huyết ước với ông và sẽ trở thành đệ tử của ông.",
+  "Ludovic bày tỏ sự sốc trước những lời hứa mà Frondier đã đưa ra cho Lily và Monty."
  ],
  "quan_he": [
   {
-   "a": "Frondier",
-   "b": "Selena",
-   "loai": "nguoi_la",
-   "mo_ta": "Trưởng thành và bối rối về mối quan hệ của họ.",
-   "cach_goi": "gọi tên Selena, thân mật"
-  },
-  {
-   "a": "Selena",
-   "b": "Frondier",
+   "a": "Medart",
+   "b": "Philly",
    "loai": "cap_tren",
-   "mo_ta": "Trung thành và quyết tâm bảo vệ Frondier.",
-   "cach_goi": "gọi 'Frondier-nim', lễ phép"
+   "mo_ta": "Đệ tử báo cáo về việc từ chức.",
+   "cach_goi": "gọi 'Empress', lễ phép"
   },
   {
-   "a": "Frondier",
-   "b": "Selena",
-   "loai": "nguoi_la",
-   "mo_ta": "Trưởng thành và bối rối về mối quan hệ của họ.",
-   "cach_goi": "gọi tên Selena, thân mật"
-  },
-  {
-   "a": "Selena",
-   "b": "Frondier",
+   "a": "Philly",
+   "b": "Medart",
    "loai": "cap_tren",
-   "mo_ta": "Trung thành và quyết tâm bảo vệ Frondier.",
-   "cach_goi": "gọi 'Frondier-nim', lễ phép"
+   "mo_ta": "Nữ hoàng đề nghị trì hoãn việc từ chức của Medart.",
+   "cach_goi": "gọi tên, lễ phép"
+  },
+  {
+   "a": "Lily",
+   "b": "Medart",
+   "loai": "ban_be",
+   "mo_ta": "Lily nhắc nhở Medart về sự thật mà ông không biết.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Ludovic bày tỏ sự ngạc nhiên về những lời nói của Lily.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Monty",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Monty nhắc nhở Lily về một thỏa thuận trước đó.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Ludwig bày tỏ sự ngạc nhiên về những lời nói của Monty.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Ludovic bày tỏ sự sốc về những hành động của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Lily đã thề ước tâm linh với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Monty đã thề huyết ước với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Selena đã tái kết nối bóng tối của mình với Frondier."
+  "Frondier de Roach: Tên đầy đủ của nhân vật chính."
  ],
  "stats": {
-  "tokens": 633,
-  "seconds": 19.9
+  "tokens": 1020,
+  "seconds": 31.9
  }
 }

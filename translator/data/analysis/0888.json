@@ -1,0 +1,116 @@
+{
+ "number": 888,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Hector dẫn đầu một đội tìm kiếm Ludwig, dựa trên manh mối từ Ludwig về vị trí của Yggdrasil. Sau đó, Frondier tiếp tục giảng dạy tại Atlas và phát hiện ra Zenita có vẻ không khỏe mạnh, khiến anh nghi ngờ có điều gì đó bất thường liên quan đến gia đình cô.",
+ "boi_canh": "Một nhóm kỵ sĩ đang di chuyển trên đường ngựa trong thời tiết lạnh giá của Tyburn.",
+ "nhan_vat": [
+  "Hector",
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Carla",
+  "Merlin",
+  "Nimue",
+  "Basileo",
+  "Ludwig",
+  "Zenita",
+  "Liberto",
+  "Heracles",
+  "Sandri"
+ ],
+ "su_kien": [
+  "Hector và các kỵ sĩ bắt đầu tìm kiếm Ludwig.",
+  "Hector giải thích cách Ludwig có thể đã trốn thoát sau khi tìm thấy Yggdrasil.",
+  "Các kỵ sĩ thảo luận về việc chia nhỏ đội tìm kiếm để sử dụng phát hiện mana.",
+  "Frondier nhận ra rằng Ludwig có lẽ không biết mình đang bị sở hữu bởi một vị thần.",
+  "Frondier phát hiện Zenita có vẻ không khỏe mạnh trong lớp học."
+ ],
+ "quan_he": [
+  {
+   "a": "Hector",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Hector ra lệnh cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hector",
+   "loai": "khac",
+   "mo_ta": "Frondier quan sát Hector.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hector",
+   "b": "kỵ sĩ",
+   "loai": "dong_minh",
+   "mo_ta": "Hector ra lệnh cho kỵ sĩ.",
+   "cach_goi": "gọi 'kỵ sĩ', không rõ"
+  },
+  {
+   "a": "kỵ sĩ",
+   "b": "Hector",
+   "loai": "dong_minh",
+   "mo_ta": "Kỵ sĩ báo cáo cho Hector.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Trao đổi tin nhắn qua thư.",
+   "cach_goi": "gọi tên 'Elodie', thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Trao đổi tin nhắn qua thư.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Basileo báo cáo cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier ra lệnh cho Basileo.",
+   "cach_goi": "gọi tên 'Basileo', lễ phép"
+  },
+  {
+   "a": "Zenita",
+   "b": "Basileo",
+   "loai": "gia_dinh",
+   "mo_ta": "Quan hệ cha con.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Zenita",
+   "loai": "dong_minh",
+   "mo_ta": "Giáo viên và học sinh.",
+   "cach_goi": "gọi tên 'Zenita', lễ phép"
+  },
+  {
+   "a": "Liberto",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Liberto đã từng yêu cầu Frondier điều tra Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ludwig: Có thể là một người có sức mạnh thần thánh, bị một vị thần chiếm giữ.",
+  "Zenita di Sandri: Học sinh của Frondier, có vẻ đang gặp vấn đề về sức khỏe."
+ ],
+ "stats": {
+  "tokens": 1115,
+  "seconds": 33.6
+ }
+}

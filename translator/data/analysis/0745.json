@@ -1,0 +1,101 @@
+{
+ "number": 745,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đánh giá sai về sức mạnh của bản thân, Frondier cùng đồng đội đến khảo sát khu vực Manggot, nơi Belphegor từng bị đánh bại và đã được các học giả Đế quốc nghiên cứu trước đó. Họ tìm kiếm thông tin từ những dòng chữ cổ xưa khắc trên tường. Frondier nhận ra khả năng giải mã ngôn ngữ cổ của mình có giới hạn, phụ thuộc vào độ dài và ngữ cảnh của câu văn. Cuối cùng, họ phát hiện ra một thông điệp đáng lo ngại: Ragnarok đã thất bại.",
+ "boi_canh": "Trong khu vực Manggot, nơi các học giả Đế quốc từng nghiên cứu ngôn ngữ cổ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Hagley",
+  "Mei",
+  "Arald",
+  "Arthur"
+ ],
+ "su_kien": [
+  "Frondier nhận ra mình đã đánh giá sai về sức mạnh cá nhân.",
+  "Nhóm của Frondier đến khảo sát khu vực Manggot.",
+  "Selena khẳng định có thể giải mã ngôn ngữ cổ, từng được Frondier dạy.",
+  "Frondier phát hiện khả năng giải mã ngôn ngữ cổ của mình bị giới hạn bởi độ dài và ngữ cảnh.",
+  "Nhóm tìm thấy một thông điệp: 'Ragnarok has failed'."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, đi cùng nhau trong hành trình.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, đi cùng nhau trong hành trình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Selena tự hào về khả năng của Frondier.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Selena tự hào về khả năng của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tham gia vào hành trình.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tham gia vào hành trình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tham gia vào hành trình.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tham gia vào hành trình.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "dong_minh",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Arald không hứng thú với ngôn ngữ cổ.",
+   "cach_goi": "gọi tên Arald, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Arald không hứng thú với ngôn ngữ cổ.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1137,
+  "seconds": 33.9
+ }
+}

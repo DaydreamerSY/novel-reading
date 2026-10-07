@@ -2,55 +2,67 @@
  "number": 604,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Frondier và Paul thảo luận về mong muốn của quỷ dữ, đặc biệt là loại có mong muốn ăn thịt người. Họ khám phá ra rằng những kẻ này có thể nhận biết con người thông qua sự thiếu vắng mong muốn. Frondier đe dọa sẽ đốt công ty nếu Paul không tiết lộ danh tính của một tên quỷ đã xử lý xác chết từ vụ việc tiêm Mana, và cuối cùng Paul thừa nhận rằng Frondier luôn bảo vệ những người vô tội.",
- "boi_canh": "Trong văn phòng làm việc, buổi nói chuyện nghiêm túc về bản chất của quỷ dữ và hành động của họ.",
+ "tom_tat": "Sau khi rời khỏi phòng thí nghiệm, Frondier dẫn Paul bị trói đi về văn phòng chính của Hitchcock. Sự xuất hiện của anh gây ra sự hỗn loạn trong công ty. Để tìm đường đến văn phòng Chủ tịch, Frondier đã lợi dụng tình hình và tạo ra một màn kịch bắt cóc để dụ dỗ nhân viên tập trung tại đó. Anh cũng phớt lờ những lời cảnh báo từ Paul về quy mô của công ty và sự xuất hiện của 'pro'.",
+ "boi_canh": "Trong văn phòng chính của Công ty Hitchcock, giữa đám đông nhân viên đang hỗn loạn.",
  "nhan_vat": [
   "Frondier",
-  "Lily",
-  "Paul"
+  "Paul",
+  "Hitchcock (Công ty)"
  ],
  "su_kien": [
-  "Thảo luận về mong muốn của quỷ dữ và cách chúng liên quan đến con người.",
-  "Khám phá ra rằng quỷ dữ có mong muốn ăn thịt người có thể nhận biết con người dựa trên sự thiếu vắng mong muốn.",
-  "Frondier đe dọa sẽ đốt công ty để buộc Paul phải tiết lộ thông tin.",
-  "Paul thừa nhận Frondier luôn bảo vệ những người vô tội.",
-  "Paul tiết lộ rằng Frondier đang che giấu điều gì đó."
+  "Frondier rời khỏi phòng thí nghiệm với Paul bị trói bằng Obsidian.",
+  "Nhân viên công ty Hitchcock chứng kiến cảnh tượng này và gây ra sự hỗn loạn.",
+  "Một nhân viên tấn công Frondier nhưng dừng lại vì sợ hãi.",
+  "Paul giả vờ đau đớn để đánh lừa nhân viên.",
+  "Frondier lợi dụng tình hình để tìm đường đến văn phòng Chủ tịch."
  ],
  "quan_he": [
   {
    "a": "Frondier",
    "b": "Paul",
-   "loai": "thay_tro",
-   "mo_ta": "Frondier thẩm vấn Paul để lấy thông tin, có vẻ không tin tưởng.",
-   "cach_goi": "gọi tên Paul, lạnh lùng"
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người có quyền lực hơn, trói và lợi dụng Paul để đạt được mục đích.",
+   "cach_goi": "gọi tên Paul, thân mật"
   },
   {
    "a": "Paul",
    "b": "Frondier",
-   "loai": "thay_tro",
-   "mo_ta": "Paul cung cấp thông tin cho Frondier nhưng có vẻ do dự và sợ hãi.",
-   "cach_goi": "gọi tên Frondier, dè dặt"
+   "loai": "nguoi_la",
+   "mo_ta": "Paul cố gắng cảnh báo và phản đối hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
   },
   {
    "a": "Frondier",
-   "b": "Lily",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier suy luận về Lily dựa trên những gì Paul nói.",
+   "b": "Nhân viên Hitchcock",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier gây ra sự hỗn loạn và đối đầu với nhân viên công ty.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nhân viên Hitchcock",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Nhân viên công ty phản đối và cố gắng ngăn cản hành động của Frondier.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Paul",
-   "b": "Lily",
-   "loai": "cap_tren",
-   "mo_ta": "Paul đề cập đến hành động của Lily.",
-   "cach_goi": "gọi tên Lily, không rõ"
+   "b": "Nhân viên Hitchcock",
+   "loai": "nguoi_la",
+   "mo_ta": "Paul bị trói và không thể giao tiếp với nhân viên công ty.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Nhân viên Hitchcock",
+   "b": "Paul",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhân viên công ty nhìn thấy Paul bị trói và không thể giao tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
- "danh_tinh": [
-  "Không có thông tin về danh tính mới hoặc thay đổi."
- ],
+ "danh_tinh": [],
  "stats": {
-  "tokens": 640,
-  "seconds": 19.8
+  "tokens": 781,
+  "seconds": 24.1
  }
 }

@@ -2,77 +2,102 @@
  "number": 570,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi chiến thắng cuộc chiến với Manggot, Frondier chứng kiến hình ảnh của mình được phát trên toàn thành phố thông qua một màn hình hologram lớn. Anh nhận ra đây là một phần trong kế hoạch của Quinie nhằm mục đích tuyên truyền và gây suy sụp tinh thần cho kẻ thù. Trong khi đó, tại cung điện Hoàng gia, cuộc đối thoại căng thẳng giữa Vua Bartello và Notker, đại diện của Manggot, diễn ra với những lời buộc tội về sự bỏ rơi và đau khổ trong quá khứ. Cuối cùng, Frondier nhận ra rằng đây không phải là một trò chơi mà là một thực tại khắc nghiệt, và anh vẫn còn nhiều điều cần khám phá để tìm cách trở về thế giới của mình.",
- "boi_canh": "Trong cung điện Hoàng gia, sau khi chiến tranh kết thúc.",
+ "tom_tat": "Chương này diễn ra tại một tòa nhà hình vòm trong Lãnh Địa Quỷ, nơi Belphegor bị luận tội sau khi thất bại trước Frondier. Các quỷ khác, bao gồm Lucifer và Mammon, thảo luận về số phận của anh ta và cuối cùng quyết định trục xuất anh ta đến Nastrond, thế giới của rồng Nidhogg. Một người đàn ông mới, Astaroth, được giới thiệu như là người kế nhiệm Belphegor trong vai trò 'Sloth'.",
+ "boi_canh": "Một tòa nhà hình vòm trong Lãnh Địa Quỷ, diễn ra một phiên luận tội.",
  "nhan_vat": [
   "Frondier",
-  "Aster",
-  "Quinie",
-  "Bartello",
-  "Notker",
-  "Edesion"
+  "Astaroth",
+  "Hel",
+  "Beelzebub",
+  "Lucifer",
+  "Mammon",
+  "Belphegor"
  ],
  "su_kien": [
-  "Hình ảnh Frondier được phát trên hologram lớn.",
-  "Cuộc trò chuyện giữa Frondier và Quinie qua Sagephone.",
-  "Belphegor xuất hiện trên màn hình hologram với vẻ tức giận.",
-  "Vua Bartello đối chất với Notker về tội lỗi của Manggot trong quá khứ.",
-  "Frondier nhận ra rằng đây không phải là một trò chơi mà là thực tế."
+  "Belphegor bị luận tội vì thất bại trước Frondier.",
+  "Lucifer bày tỏ sự bất mãn về việc Belphegor 'rơi' khỏi vị trí của mình.",
+  "Beelzebub tuyên bố Belphegor sẽ bị trục xuất đến Nastrond thay vì địa ngục.",
+  "Mammon giải thích rằng điều này là một phần của kế hoạch liên quan đến Đế Chế và những vùng đất bên ngoài biển.",
+  "Astaroth được giới thiệu như người kế nhiệm Belphegor trong vai trò 'Sloth'."
  ],
  "quan_he": [
   {
-   "a": "Frondier",
-   "b": "Aster",
+   "a": "Satan",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Satan là người có quyền lực hơn và đặt câu hỏi về sự thất bại của Belphegor.",
+   "cach_goi": "gọi tên Belphegor, lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor trả lời một cách thờ ơ và thiếu tôn trọng.",
+   "cach_goi": "gọi tên Satan, thô lỗ"
+  },
+  {
+   "a": "Lucifer",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Lucifer bày tỏ sự bất mãn với Belphegor.",
+   "cach_goi": "gọi tên Belphegor, lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Lucifer",
+   "loai": "doi_thu",
+   "mo_ta": "Belphegor đáp lại một cách bình thản.",
+   "cach_goi": "gọi tên Lucifer, lạnh lùng"
+  },
+  {
+   "a": "Beelzebub",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Beelzebub đưa ra quyết định trục xuất Belphegor.",
+   "cach_goi": "gọi tên Belphegor, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Beelzebub",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor nhận thức được quyết định của Beelzebub.",
+   "cach_goi": "gọi tên Beelzebub, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mammon",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Mammon giải thích lý do trục xuất Belphegor.",
+   "cach_goi": "gọi tên Belphegor, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Mammon",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor suy đoán về động cơ của Mammon.",
+   "cach_goi": "gọi tên Mammon, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lucifer",
+   "b": "Astaroth",
    "loai": "khac",
-   "mo_ta": "Hình ảnh của Aster xuất hiện trên hologram, không tương tác với Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "mo_ta": "Lucifer giới thiệu Astaroth.",
+   "cach_goi": "gọi tên Astaroth, không nói chuyện trực tiếp"
   },
   {
-   "a": "Frondier",
-   "b": "Quinie",
-   "loai": "ban_be",
-   "mo_ta": "Trò chuyện qua Sagephone, mối quan hệ bạn bè thân thiết.",
-   "cach_goi": "gọi tên Quinie, thân mật"
-  },
-  {
-   "a": "Frondier",
-   "b": "Bartello",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier không tương tác trực tiếp với Vua Bartello.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Notker",
-   "loai": "doi_thu",
-   "mo_ta": "Không tương tác trực tiếp, đại diện cho kẻ thù đã bị đánh bại.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Bartello",
-   "b": "Notker",
-   "loai": "doi_thu",
-   "mo_ta": "Đối chất trực tiếp, mối quan hệ đối địch và căng thẳng.",
-   "cach_goi": "gọi 'Shepherd of Manggot', lạnh lùng"
-  },
-  {
-   "a": "Notker",
-   "b": "Bartello",
-   "loai": "doi_thu",
-   "mo_ta": "Đối chất trực tiếp, mối quan hệ đối địch và căng thẳng.",
-   "cach_goi": "gọi 'Emperor', thô lỗ"
-  },
-  {
-   "a": "Bartello",
-   "b": "Edesion",
-   "loai": "cap_tren",
-   "mo_ta": "Đề cập đến người tiền nhiệm, không tương tác trực tiếp.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "a": "Belphegor",
+   "b": "Astaroth",
+   "loai": "thay_tro",
+   "mo_ta": "Belphegor quan sát người kế nhiệm của mình.",
+   "cach_goi": "gọi tên Astaroth, không nói chuyện trực tiếp"
   }
  ],
- "danh_tinh": [],
+ "danh_tinh": [
+  "Belphegor: Đã từng là một trong Bảy Tội lỗi, hiện đã bị luận tội và trục xuất.",
+  "Astaroth: Người kế nhiệm Belphegor trong vai trò 'Sloth'."
+ ],
  "stats": {
-  "tokens": 895,
-  "seconds": 28.1
+  "tokens": 1195,
+  "seconds": 37.1
  }
 }

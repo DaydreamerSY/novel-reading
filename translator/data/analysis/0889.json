@@ -1,0 +1,73 @@
+{
+ "number": 889,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đến thăm nhà Zenita lần thứ hai một mình, lo lắng về tình trạng của cô. Sau khi trò chuyện với cha của Zenita, Liberto, và Zenita, Frondier nhận ra Zenita đang cố gắng giảm cân quá mức và phát hiện ra mùi thuốc kỳ lạ trong nhà. Cuối cùng, anh rời đi sau khi đưa ra lời khuyên cho Zenita về tình yêu và nhận thấy một dấu hiệu đáng ngờ liên quan đến phòng trên lầu.",
+ "boi_canh": "Một buổi chiều tại dinh thự của gia đình Zenita.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Basileo",
+  "Zenita",
+  "Liberto",
+  "R"
+ ],
+ "su_kien": [
+  "Frondier đến nhà Zenita để thăm và kiểm tra tình trạng của cô.",
+  "Liberto, cha của Zenita, đón Frondier tại cửa.",
+  "Zenita tiết lộ rằng cô đang cố gắng giảm cân quá mức.",
+  "Frondier phát hiện ra mùi thuốc kỳ lạ trong dinh thự.",
+  "Một vòng tròn vàng trên người Frondier đột ngột phát sáng và hút một đám khói đen từ trần nhà."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Zenita",
+   "loai": "ban_be",
+   "mo_ta": "Bạn cũ, Frondier lo lắng cho sức khỏe của Zenita.",
+   "cach_goi": "gọi tên Zenita, thân mật"
+  },
+  {
+   "a": "Zenita",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên, Zenita tìm kiếm lời khuyên từ Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Liberto",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier đến nhà để thăm Zenita.",
+   "cach_goi": "gọi tên Liberto, lễ phép"
+  },
+  {
+   "a": "Liberto",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Liberto đón tiếp Frondier tại cửa.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Zenita",
+   "b": "Liberto",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái và bố, Zenita đang ở trong tình trạng không khỏe.",
+   "cach_goi": "gọi tên cha, thân mật"
+  },
+  {
+   "a": "Liberto",
+   "b": "Zenita",
+   "loai": "gia_dinh",
+   "mo_ta": "Bố và con gái, Liberto lo lắng cho sức khỏe của Zenita.",
+   "cach_goi": "gọi tên con gái, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính mới hoặc thay đổi tên gọi trong chương này."
+ ],
+ "stats": {
+  "tokens": 806,
+  "seconds": 24.3
+ }
+}

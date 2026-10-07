@@ -1,0 +1,103 @@
+{
+ "number": 831,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Elodie bày tỏ sự lo lắng về việc bị chú ý vì vẻ đẹp của họ, nhóm đi tìm mặt nạ để che giấu. Frondier nghi ngờ về khả năng một người bình thường có thể sánh ngang với những người phụ nữ xinh đẹp được các nữ thần chọn lựa. Sau đó, anh gặp Colin, một thương gia bí mật, và cùng anh xuống một đường hầm bí mật dưới lòng đất để lấy mặt nạ.",
+ "boi_canh": "Nhóm đang trên đường đến tìm mặt nạ trong một cửa hàng bí mật ở thủ đô.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Carla",
+  "Antero",
+  "Basileo",
+  "Medusa",
+  "Lilith",
+  "Colin"
+ ],
+ "su_kien": [
+  "Elodie bày tỏ lo lắng về việc bị chú ý vì vẻ đẹp của họ.",
+  "Frondier nghi ngờ rằng một người bình thường không thể sánh ngang với những người phụ nữ xinh đẹp được các nữ thần chọn lựa.",
+  "Nhóm đi tìm mặt nạ để che giấu khuôn mặt.",
+  "Frondier gặp Colin, một thương gia bí mật.",
+  "Colin tiết lộ đường hầm bí mật dẫn đến nơi bán mặt nạ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Frondier trấn an Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie bày tỏ lo lắng với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Frondier quan sát Selena.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Selena cảm nhận được sự chú ý của mọi người.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, Frondier hỏi Carla về mặt nạ.",
+   "cach_goi": "gọi tên Carla, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, Carla dẫn đường và trả lời câu hỏi của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Colin",
+   "loai": "nguoi_la",
+   "mo_ta": "Khách hàng và chủ cửa hàng, Carla nhờ Colin giúp đỡ.",
+   "cach_goi": "gọi tên Colin, thân mật"
+  },
+  {
+   "a": "Colin",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Chủ cửa hàng và khách hàng, Colin đáp lại yêu cầu của Carla.",
+   "cach_goi": "gọi tên Carla, lễ phép"
+  },
+  {
+   "a": "Colin",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Thương gia và người lạ, Colin nhận ra Frondier.",
+   "cach_goi": "gọi 'pitch-black leader', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Colin",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier hỏi Colin về thông tin.",
+   "cach_goi": "gọi tên Colin, lịch sự"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1111,
+  "seconds": 33.4
+ }
+}

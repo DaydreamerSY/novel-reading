@@ -1,0 +1,58 @@
+{
+ "number": 712,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe câu chuyện của Pascal, Frondier rời khỏi lớp học và đi dạo trong hành lang để suy nghĩ. Anh nhận ra có một thế lực nào đó đang tác động lên mình và quyết định tìm hiểu nguồn gốc của nó. Gregory, thông qua hình dạng quạ, tiết lộ rằng gia tộc Barnier không tồn tại trên lục địa này, khiến Frondier nghi ngờ Selena có liên quan đến quá khứ đen tối. Trong khi đó, Hoàng hậu Philly trải qua những cơn ác mộng mà cô không thể nhớ lại, một điều hiếm thấy đối với cô.",
+ "boi_canh": "Hành lang trong học xá, vào một buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Philly",
+  "Pascal",
+  "Gregory"
+ ],
+ "su_kien": [
+  "Frondier rời khỏi lớp học để suy nghĩ về câu chuyện của Pascal.",
+  "Frondier ra lệnh cho Gregory (qua hình dạng quạ) điều tra về gia tộc Barnier.",
+  "Gregory tiết lộ rằng gia tộc Barnier không tồn tại trên lục địa.",
+  "Philly trải qua những cơn ác mộng mà cô không thể nhớ lại.",
+  "Philly mở cửa sổ và nhìn lên bầu trời xanh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "thay_tro",
+   "mo_ta": "học trò và người kể chuyện, Frondier lắng nghe.",
+   "cach_goi": "gọi tên Pascal, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "thay_tro",
+   "mo_ta": "người điều khiển và người được điều khiển, Frondier giao nhiệm vụ.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "người được điều khiển và người điều khiển, Gregory báo cáo.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Người hầu",
+   "loai": "dong_minh",
+   "mo_ta": "hoàng hậu và người hầu, Philly ra lệnh.",
+   "cach_goi": "gọi 'Người hầu', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Gregory có khả năng thu thập thông tin qua chim và chuột."
+ ],
+ "stats": {
+  "tokens": 649,
+  "seconds": 19.4
+ }
+}

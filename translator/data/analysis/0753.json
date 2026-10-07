@@ -1,0 +1,88 @@
+{
+ "number": 753,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhận được những lời khuyên mơ hồ từ Jeanne về các vị thần và vũ khí, gợi ý rằng anh ta cần phải đi nhiều nơi để tìm kiếm. Sau khi rời khỏi Manggot, Frondier phát hiện ra nó đã thay đổi đáng kể và nhận ra rằng kỹ năng Weaving của mình có thể liên quan đến một người khác trong quá khứ. Cuối cùng, anh ta quyết định sẽ rời khỏi lục địa Falind để tìm kiếm vũ khí huyền thoại, và gặp Elodie trên một con tàu lớn do 'Viet Company' vận hành.",
+ "boi_canh": "Bên trong hang Manggot, sau khi Jeanne biến mất.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Edwin",
+  "Frondier de Roach",
+  "Jeanne",
+  "Hela",
+  "Artemis"
+ ],
+ "su_kien": [
+  "Jeanne đưa ra những gợi ý mơ hồ về các vị thần và vũ khí.",
+  "Manggot biến đổi thành một cấu trúc nhân tạo lớn hơn.",
+  "Frondier suy ngẫm về kỹ năng Weaving của mình và khả năng có người khác từng sở hữu nó.",
+  "Frondier quyết định rời khỏi lục địa Falind để tìm kiếm vũ khí huyền thoại.",
+  "Elodie xuất hiện trên một con tàu lớn do 'Viet Company' vận hành."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Jeanne",
+   "loai": "nguoi_la",
+   "mo_ta": "Jeanne đưa ra lời khuyên cho Frondier.",
+   "cach_goi": "gọi tên, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jeanne",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Jeanne đưa ra lời khuyên cho Frondier.",
+   "cach_goi": "gọi tên, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie đã sắp xếp việc di tản.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie đã sắp xếp việc di tản.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "doi_thu",
+   "mo_ta": "Đã từng có sự cố liên quan đến golem của Edwin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hela",
+   "loai": "nguoi_la",
+   "mo_ta": "Một vị thần mà Frondier đã từng gặp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Artemis",
+   "loai": "nguoi_la",
+   "mo_ta": "Một vị thần mà Frondier đã từng gặp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Rudra",
+   "loai": "nguoi_la",
+   "mo_ta": "Một vị thần mà Frondier đã từng gặp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (Tên đầy đủ của nhân vật chính)"
+ ],
+ "stats": {
+  "tokens": 836,
+  "seconds": 26.1
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "number": 783,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier sử dụng những thủ đoạn tâm lý và đe dọa để ép Giotto khai báo thông tin. Sau đó, ông ta gặp Lady Achaea và trao đổi ngắn gọn, trong khi bí mật cài đặt một thiết bị nghe lén lên người bà. Cuối cùng, Frondier thảo luận với Arald và Lily về kế hoạch biến Carla thành đồng minh vì kiến thức của cô ta.",
+ "boi_canh": "Trong phòng thẩm vấn tối tăm, nơi Giotto bị giam giữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Arald",
+  "Athena",
+  "Giotto",
+  "Medusa"
+ ],
+ "su_kien": [
+  "Frondier sử dụng những thủ đoạn tâm lý để ép Giotto khai báo thông tin.",
+  "Frondier cài đặt một thiết bị nghe lén lên người Lady Achaea.",
+  "Lady Achaea nhận ra Frondier là một quỷ.",
+  "Frondier tiết lộ với Arald và Lily rằng Carla có thể là Medusa.",
+  "Frondier quyết định biến Carla thành đồng minh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Giotto",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier ép buộc Giotto khai báo thông tin bằng đe dọa.",
+   "cach_goi": "gọi tên Giotto, lạnh lùng"
+  },
+  {
+   "a": "Giotto",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Giotto phản kháng nhưng nhanh chóng bị khuất phục bởi Frondier.",
+   "cach_goi": "gọi 'madman', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh tin cậy của Frondier.",
+   "cach_goi": "gọi tên Lily, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh tin cậy của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh tin cậy của Frondier.",
+   "cach_goi": "gọi tên Arald, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh tin cậy của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Lady Achaea",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối tượng nghi ngờ của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lady Achaea",
+   "loai": "nguoi_la",
+   "mo_ta": "Đối tượng nghi ngờ của Frondier.",
+   "cach_goi": "gọi tên Lady Achaea, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Carla có thể là Medusa."
+ ],
+ "stats": {
+  "tokens": 943,
+  "seconds": 28.3
+ }
+}

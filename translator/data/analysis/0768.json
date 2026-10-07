@@ -1,0 +1,81 @@
+{
+ "number": 768,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Mei đột ngột rời đi với một câu nói khó hiểu về 'Nhà vệ sinh', Frondier suy nghĩ lại về việc tạo ra Dragon Heart và cách nó liên quan đến mana. Anh ta bắt đầu thử nghiệm với Black Thread để tạo ra một biểu tượng công thức mới, nhưng gặp phải những vấn đề về độ phân giải và lượng mana tiêu thụ lớn. Sau đó, anh ta tìm đến Elodie để xin lời khuyên, dẫn đến một cuộc tranh cãi giả tạo nhằm mục đích đưa cô đi cùng. Cuối cùng, họ thử nghiệm biểu tượng mới trong phòng học trống, nơi Elodie bày tỏ sự lo ngại về những hậu quả không lường trước được.",
+ "boi_canh": "Trong phòng làm việc của trường Atlas, vào buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Renzo",
+  "Mei",
+  "Arald"
+ ],
+ "su_kien": [
+  "Mei đột ngột rời đi sau khi đề cập đến 'Dragon Heart'.",
+  "Frondier tạo ra một biểu tượng công thức mới bằng Black Thread.",
+  "Frondier và Elodie tranh luận để có lý do đưa nhau ra khỏi phòng làm việc.",
+  "Frondier cho Elodie xem biểu tượng mana mới.",
+  "Elodie bày tỏ lo ngại về những hậu quả không lường trước được khi sử dụng biểu tượng đó."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em gái, mối quan hệ gần gũi nhưng đôi khi khó hiểu.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em gái, mối quan hệ gần gũi nhưng đôi khi khó hiểu.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên, mối quan hệ căng thẳng nhưng có sự tôn trọng.",
+   "cach_goi": "gọi tên Elodie, lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên, mối quan hệ căng thẳng nhưng có sự tôn trọng.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên và học sinh, Elodie cố tình tỏ ra trên cả về mặt quyền lực.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "Học sinh và giáo viên, Frondier đáp trả lại sự trịch thượng của Elodie.",
+   "cach_goi": "gọi tên Elodie, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Dragon Heart: Một loại mana condensate có mật độ cao do Frondier và Mei tạo ra.",
+  "Black Thread: Vật liệu được sử dụng để tạo biểu tượng công thức mới."
+ ],
+ "stats": {
+  "tokens": 967,
+  "seconds": 29.1
+ }
+}

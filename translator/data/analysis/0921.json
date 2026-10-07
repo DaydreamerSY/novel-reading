@@ -1,0 +1,99 @@
+{
+ "number": 921,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào việc Sybil khám phá ra nguồn gốc sức mạnh của mình và sự thật về mẹ ruột của cô ấy. Cô ấy phát hiện ra một mạng lưới bánh răng khổng lồ ẩn giấu bên dưới lãnh địa của mình, biểu tượng cho sức mạnh tiềm ẩn chưa được khai thác. Thông qua Jormungandr, Sybil biết được rằng mẹ cô là Idun, nữ thần canh giữ trái cây vàng, và câu chuyện về việc bà bị bắt cóc thực chất là một sự tự do có chủ đích. Cuối cùng, Sybil nhận ra mình có thể là hậu duệ của hai thế giới, nhưng để thoát khỏi Pandemonium và hoàn thành nhiệm vụ của mình, cô phải đối mặt với những lựa chọn khó khăn liên quan đến Jormungandr và số phận của vương quốc Palma.",
+ "boi_canh": "Bên trong lãnh địa của Sybil, nơi một mạng lưới bánh răng ẩn giấu đang quay không ngừng.",
+ "nhan_vat": [
+  "Frondier",
+  "Sybil",
+  "Odin",
+  "Daud",
+  "Jormungandr",
+  "Idun",
+  "Loki",
+  "Tiyachi",
+  "Poseidon",
+  "King of Palma"
+ ],
+ "su_kien": [
+  "Sybil không thể nhớ lại những gì bố cô, Daud, đã nói về mẹ cô.",
+  "Sybil phát hiện ra một mạng lưới bánh răng khổng lồ ẩn giấu bên dưới lãnh địa của mình.",
+  "Jormungandr tiết lộ rằng mẹ Sybil là Idun, nữ thần canh giữ trái cây vàng.",
+  "Sybil biết được câu chuyện về việc Idun bị bắt cóc thực chất là một sự tự do có chủ đích.",
+  "Jormungandr hy sinh để giúp Sybil thoát khỏi Pandemonium và hoàn thành nhiệm vụ của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Sybil là học trò của Frondier, nhưng họ không giao tiếp trực tiếp.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Daud",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, Sybil muốn nhớ lại những gì bố cô đã nói về mẹ cô.",
+   "cach_goi": "gọi tên Daud, thân mật"
+  },
+  {
+   "a": "Sybil",
+   "b": "Jormungandr",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau trong Pandemonium, Sybil tìm kiếm thông tin từ Jormungandr.",
+   "cach_goi": "gọi tên Jormungandr, lễ phép"
+  },
+  {
+   "a": "Jormungandr",
+   "b": "Sybil",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau trong Pandemonium, Jormungandr cung cấp thông tin cho Sybil.",
+   "cach_goi": "gọi tên Sybil, trang trọng"
+  },
+  {
+   "a": "Sybil",
+   "b": "Idun",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ mẹ con, Sybil mới biết về sự thật này.",
+   "cach_goi": "gọi tên Idun, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Loki",
+   "loai": "khac",
+   "mo_ta": "Sybil biết về Loki qua lời của Jormungandr.",
+   "cach_goi": "gọi tên Loki, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jormungandr",
+   "b": "Loki",
+   "loai": "cap_tren",
+   "mo_ta": "Jormungandr là con trai của Loki.",
+   "cach_goi": "gọi tên Loki, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Poseidon",
+   "loai": "khac",
+   "mo_ta": "Sybil nhắc đến Poseidon.",
+   "cach_goi": "gọi tên Poseidon, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "King of Palma",
+   "loai": "dong_minh",
+   "mo_ta": "Sybil lo lắng về phản ứng của King of Palma.",
+   "cach_goi": "gọi tên King of Palma, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Idun: Nữ thần canh giữ trái cây vàng, mẹ ruột của Sybil.",
+  "Loki: Cha của Jormungandr, có liên quan đến sự tự do của Idun."
+ ],
+ "stats": {
+  "tokens": 1214,
+  "seconds": 36.6
+ }
+}

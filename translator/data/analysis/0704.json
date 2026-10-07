@@ -1,0 +1,115 @@
+{
+ "number": 704,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Đầu chương mô tả sự thay đổi trong cách mọi người nhìn nhận Frondier tại trường Constel sau chiến tranh và kỳ nghỉ vừa qua. Thay vì bị coi thường như trước đây, anh giờ là trung tâm của sự chú ý với vô số tin đồn. Elodie nhận thấy sự khác biệt này khi đến trường, và cuối cùng cũng gặp lại Frondier, người có khuôn mặt đầy băng bó và vết dán do chấn thương mới nhất gây ra, khiến cô không nhịn được cười.",
+ "boi_canh": "Trường Constel vào đầu một học kỳ mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Azier",
+  "Enfer",
+  "Malia",
+  "Lunia"
+ ],
+ "su_kien": [
+  "Học kỳ mới bắt đầu tại Constel.",
+  "Sự chú ý của sinh viên đổ dồn vào Frondier thay vì Aster hoặc Elodie.",
+  "Elodie nhận thấy sự khác biệt trong cách mọi người đối xử với cô do sự chú ý tập trung vào Frondier.",
+  "Frondier gặp Elodie, khuôn mặt đầy băng bó và vết dán.",
+  "Một con quạ (biểu tượng của Frondier) xuất hiện trên vai anh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie đang quan sát và trêu chọc Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie đang quan sát và trêu chọc Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena đang dán băng bó lên mặt Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena đang dán băng bó lên mặt Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai Frondier, Azier có vẻ lo lắng cho tình trạng của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai Frondier, Azier có vẻ lo lắng cho tình trạng của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha Frondier, Enfer có vẻ lo lắng cho tình trạng của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha Frondier, Enfer có vẻ lo lắng cho tình trạng của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ Frondier, Malia có vẻ lo lắng cho tình trạng của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ Frondier, Malia có vẻ lo lắng cho tình trạng của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lunia",
+   "loai": "nguoi_la",
+   "mo_ta": "Lunia nhận ra Frondier ngay cả khi anh có khuôn mặt khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Lunia nhận ra Frondier ngay cả khi anh có khuôn mặt khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1276,
+  "seconds": 38.2
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "number": 911,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Belphegor tiếp tục cuộc trò chuyện về Satan, người mà luôn nổi giận với mọi thứ xung quanh. Họ thảo luận về lý do tại sao Satan lại cảnh giác với Belphegor và những hành động của Satan để loại bỏ anh ta khỏi Hội đồng Bảy Tội Lỗi. Cuối cùng, họ đến một địa điểm mới, nhưng Frondier cảm thấy có điều gì đó không ổn và phát hiện ra sự hiện diện của Fenrir, con quái vật nguy hiểm bị trói bằng Gleipnir.",
+ "boi_canh": "Trong một không gian tối tăm, trên đường đi đến một nơi nào đó.",
+ "nhan_vat": [
+  "Frondier",
+  "Belphegor",
+  "Selena",
+  "Satan",
+  "Aster Evans",
+  "Odin",
+  "Prometheus",
+  "Lucifer",
+  "Baal",
+  "Manggot",
+  "Nidhogg",
+  "Fenrir"
+ ],
+ "su_kien": [
+  "Belphegor giải thích về sự nổi giận của Satan và cách ông ta thao túng Prometheus.",
+  "Frondier nhận ra rằng Satan đã cố tình kích động Manggot tấn công sớm hơn so với dự kiến trong trò chơi.",
+  "Belphegor tiết lộ lý do Satan cảnh giác với Frondier: vì anh có thể vượt qua Belphegor.",
+  "Họ đến một địa điểm mới và Frondier cảm thấy sự hiện diện của Fenrir.",
+  "Frondier phát hiện ra rằng Fenrir bị trói bằng Gleipnir."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier lắng nghe và đặt câu hỏi.",
+   "cach_goi": "gọi tên Belphegor, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Belphegor giải thích và trêu chọc.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Selena đi cùng Frondier và Belphegor.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Belphegor quan tâm đến sức khỏe của Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Satan",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù, Frondier đang tìm hiểu về Satan thông qua Belphegor.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Satan",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cũ, Belphegor kể lại những hành động của Satan.",
+   "cach_goi": "gọi tên Satan, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Manggot",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier nhắc đến Manggot trong cuộc trò chuyện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Fenrir",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù tiềm tàng, Belphegor đề cập đến Fenrir.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Fenrir",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù tiềm tàng, Frondier cảm nhận được sự hiện diện của Fenrir.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 903,
+  "seconds": 27.3
+ }
+}

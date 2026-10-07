@@ -1,0 +1,81 @@
+{
+ "number": 636,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Sybil đối đầu với Marchosias sau khi hắn tái sinh tay bị chặt đứt. Cô nhận ra Marchosias có khả năng miễn nhiễm với băng giá của Aten và lửa đen của cô cũng bị dập tắt bởi băng giá của Aten. Sybil tiết lộ rằng cô đã từng nghiên cứu kỹ về các quỷ dữ, bao gồm cả việc ghi nhớ gần như tất cả 72 quỷ của Solomon, và đặt câu hỏi về mối quan hệ giữa chúng với Satan và Bảy Tội Lỗi. Marchosias tỏ ra nguy hiểm khi bị truy vấn quá sâu và định thủ tiêu Sybil.",
+ "boi_canh": "Một trận chiến diễn ra giữa Sybil và Marchosias trong một không gian không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Sybil",
+  "Marchosias",
+  "Odin",
+  "Hercules",
+  "Solomon"
+ ],
+ "su_kien": [
+  "Tay của Marchosias tái sinh ngay sau khi bị Sybil chặt đứt.",
+  "Aten phải rút lui vì lửa đen của cô không hiệu quả với Marchosias và bị dập tắt bởi băng giá của hắn.",
+  "Sybil cắt đứt môi trên của Marchosias.",
+  "Sybil tiết lộ rằng cô đã từng nghiên cứu về 72 quỷ của Solomon.",
+  "Marchosias định thủ tiêu Sybil vì cô hỏi quá nhiều."
+ ],
+ "quan_he": [
+  {
+   "a": "Sybil",
+   "b": "Marchosias",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến, Sybil tấn công Marchosias.",
+   "cach_goi": "gọi 'devil', lạnh lùng"
+  },
+  {
+   "a": "Marchosias",
+   "b": "Sybil",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Sybil, Marchosias định thủ tiêu cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Aten rút lui theo lời Sybil.",
+   "cach_goi": "gọi 'Aten', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Sybil ra lệnh cho Aten rút lui.",
+   "cach_goi": "gọi 'Aten', thân mật"
+  },
+  {
+   "a": "Marchosias",
+   "b": "Aten",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Aten nhận ra tên Marchosias.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "thay_tro",
+   "mo_ta": "Không tương tác trực tiếp, Sybil coi Frondier là học trò.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marchosias",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Marchosias quan sát Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Marchosias: Thứ hạng hai của sự giận dữ (second rank of wrath)"
+ ],
+ "stats": {
+  "tokens": 919,
+  "seconds": 27.3
+ }
+}

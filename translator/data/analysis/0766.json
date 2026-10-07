@@ -1,0 +1,83 @@
+{
+ "number": 766,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier kiểm tra bản thiết kế 3D do Arald mang đến và nhận thấy nó còn kém chất lượng so với bản ở Hitchcock. Sau đó, Frondier gợi ý về khả năng ứng dụng của công nghệ này ngoài việc lập bản đồ, khiến Arald ngạc nhiên. Elodie nghe lén cuộc trò chuyện. Cuối cùng, Frondier bắt đầu nhiệm vụ giảng dạy Lý thuyết Chiến đấu tại Atlas và thách đấu Aias, một học viên có tài năng đặc biệt, trong trận giao đấu để thu hút sự chú ý của cả lớp.",
+ "boi_canh": "Trong phòng thí nghiệm, sau đó là khu vực tập luyện thể chất ở Học viện Atlas.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Azier",
+  "Baal",
+  "Arald",
+  "Giotto",
+  "Aster Evans",
+  "Aias"
+ ],
+ "su_kien": [
+  "Frondier kiểm tra bản thiết kế 3D do Arald mang đến.",
+  "Frondier nhận xét chất lượng của bản thiết kế 3D còn kém so với bản ở Hitchcock.",
+  "Frondier gợi ý ứng dụng công nghệ này ngoài việc lập bản đồ.",
+  "Frondier bắt đầu giảng dạy Lý thuyết Chiến đấu tại Atlas.",
+  "Frondier thách đấu Aias trong trận giao đấu."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "thay_tro",
+   "mo_ta": "Giảng viên và học viên, Frondier đánh giá công nghệ của Arald.",
+   "cach_goi": "gọi tên Arald, không trang trọng"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học viên và giảng viên, Arald trình bày công nghệ của mình.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Elodie nghe lén cuộc trò chuyện của Frondier và Arald.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Elodie hỏi về ý định của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aias",
+   "loai": "nguoi_la",
+   "mo_ta": "Giảng viên và học viên, Frondier thách đấu Aias.",
+   "cach_goi": "gọi tên Aias, không trang trọng"
+  },
+  {
+   "a": "Aias",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Học viên và giảng viên, Aias chấp nhận lời thách đấu của Frondier.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  },
+  {
+   "a": "Giotto",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Giám sát và học viên, Giotto có ảnh hưởng đến việc Frondier giảng dạy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster"
+ ],
+ "stats": {
+  "tokens": 932,
+  "seconds": 27.9
+ }
+}

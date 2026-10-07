@@ -1,0 +1,61 @@
+{
+ "number": 676,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier sử dụng sức mạnh quỷ dữ để đối đầu với Baal trong pandemonium. Marco chứng kiến cảnh này và nhận ra sức mạnh của Frondier có thể sánh ngang với Bảy Tội Lỗi. Frondier, bằng cách sử dụng 'lãnh cảm' kết hợp với sức mạnh ma thuật Helheim và sức mạnh quỷ dữ, đã xâm nhập trở lại pandemonium, phá vỡ quy tắc cấm đoán.",
+ "boi_canh": "Một trận chiến đang diễn ra giữa Frondier và Baal trong không gian pandemonium.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Elysia",
+  "Osprey",
+  "Baal",
+  "Marco",
+  "Thor",
+  "Zeus"
+ ],
+ "su_kien": [
+  "Frondier sử dụng sức mạnh quỷ dữ.",
+  "Marco nhận ra sức mạnh của Frondier có thể sánh ngang với Bảy Tội Lỗi.",
+  "Frondier tấn công Baal bằng sức mạnh quỷ dữ.",
+  "Frondier sử dụng 'lãnh cảm' để tìm kiếm Baal trong pandemonium.",
+  "Frondier xâm nhập trở lại pandemonium, phá vỡ quy tắc cấm đoán."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu trong pandemonium.",
+   "cach_goi": "gọi tên Baal, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Frondier sử dụng sức mạnh quỷ dữ.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Nhắc lại trải nghiệm tìm kiếm Elodie trước đây.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Liên quan đến ảnh hưởng của Osprey đối với Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Có khả năng sử dụng sức mạnh quỷ dữ tương đương hoặc vượt qua Bảy Tội Lỗi."
+ ],
+ "stats": {
+  "tokens": 663,
+  "seconds": 19.9
+ }
+}

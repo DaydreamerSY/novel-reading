@@ -1,0 +1,72 @@
+{
+ "number": 651,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Philly thảo luận về việc tìm kiếm quỷ Satan sau khi chúng lan rộng khắp đế quốc. Họ dự đoán rằng những con quỷ này sẽ tiếp cận các quỷ bản địa để thu thập thông tin. Frondier lên kế hoạch tập hợp các quỷ bản địa, đồng thời Aster Evans sẽ giải cứu Lunia và tìm kiếm quỷ Satan. Cuối cùng, Aster dẫn đầu một nhóm người từ Constel đối mặt với các quỷ, đòi hỏi thông tin về quỷ Satan.",
+ "boi_canh": "Trong cung điện đế quốc, Frondier và Philly đang thảo luận chiến lược.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly Terst",
+  "Elysia",
+  "Lunia",
+  "Aster Evans",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Frondier và Philly thảo luận về cách quỷ Satan sẽ hoạt động.",
+  "Frondier tạo biểu tượng Obsidian để chỉ ra sự tấn công của quỷ Satan vào Constel.",
+  "Frondier lên kế hoạch tập hợp các quỷ bản địa trong đế quốc.",
+  "Aster Evans lên đường giải cứu Lunia.",
+  "Aster dẫn đầu một nhóm người từ Constel đối mặt với các quỷ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier báo cáo và thảo luận chiến lược với Philly.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly lắng nghe và đưa ra nhận xét về kế hoạch của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "ban_be",
+   "mo_ta": "Frondier sử dụng biểu tượng Obsidian để thông báo cho Elysia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Aster sẽ giải cứu Lunia và tìm kiếm quỷ Satan, có thể đối đầu với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster Evans",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đã vô tình đưa các quỷ bản địa đối mặt với Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster Evans",
+   "b": "các quỷ",
+   "loai": "doi_thu",
+   "mo_ta": "Aster thẩm vấn các quỷ về vị trí của quỷ Satan.",
+   "cach_goi": "gọi chung 'các ngươi', trịch thượng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 791,
+  "seconds": 23.6
+ }
+}

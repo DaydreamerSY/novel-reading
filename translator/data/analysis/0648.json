@@ -1,0 +1,72 @@
+{
+ "number": 648,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đang ở ngoài biên giới Đế quốc, chuẩn bị kích hoạt Rafflesia để dụ dỗ quỷ dữ. Elysia lo lắng cho Frondier và chất vấn anh về hành động của mình, đồng thời bày tỏ sự tổn thương vì bị mẹ ruột bỏ rơi. Marchosias, một trong Bảy Quân Tư Lệnh của Solomon, xuất hiện, báo hiệu sự bắt đầu của một trận chiến nguy hiểm.",
+ "boi_canh": "Ngoài biên giới Đế quốc, trong tình huống nguy hiểm, Frondier chuẩn bị kích hoạt Rafflesia.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly Terst (Hoàng hậu)",
+  "Aten Terst (Tam công chúa)",
+  "Sybil",
+  "Elysia",
+  "Lunia",
+  "Marco (Marchosias)",
+  "Solomon",
+  "Belphegor",
+  "Manggot"
+ ],
+ "su_kien": [
+  "Frondier suy nghĩ về việc quỷ dữ đang tiến đến và kế hoạch dụ dỗ họ bằng Rafflesia.",
+  "Elysia chất vấn Frondier về hành động của anh và bày tỏ sự tổn thương vì bị mẹ ruột bỏ rơi.",
+  "Marchosias, một trong Bảy Quân Tư Lệnh của Solomon, xuất hiện.",
+  "Frondier nhận được báo cáo sơ bộ từ Aster về tình hình quỷ dữ.",
+  "Frondier chuẩn bị kích hoạt Rafflesia và yêu cầu Elysia làm theo chỉ dẫn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đang cố gắng điều khiển Elysia để kích hoạt Rafflesia. Mối quan hệ phức tạp và đầy căng thẳng.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Elysia đang tức giận và chất vấn Frondier. Mối quan hệ đầy mâu thuẫn.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Aster cung cấp thông tin cho Frondier về tình hình quỷ dữ.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marchosias",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Marchosias đến để thực hiện mệnh lệnh của Satan và đối đầu với Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marchosias",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier nhận biết Marchosias và suy đoán về tính cách của hắn.",
+   "cach_goi": "gọi tên Marchosias, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Philly Terst (Hoàng hậu)",
+  "Aten Terst (Tam công chúa)"
+ ],
+ "stats": {
+  "tokens": 837,
+  "seconds": 25.0
+ }
+}

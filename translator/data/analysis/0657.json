@@ -1,0 +1,64 @@
+{
+ "number": 657,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Arald giải thích về 'Pandemonium', sự va chạm giữa sức mạnh quỷ dữ. Frondier và Baal đối mặt nhau, và khi Baal sử dụng sức mạnh của mình để gieo rắc nỗi sợ hãi, Frondier nhận ra bản chất thực sự của sức mạnh quỷ dữ là gì. Thay vì bị áp đảo bởi nỗi sợ hãi, Frondier đặt câu hỏi về nguồn gốc sức mạnh của Baal, khiến hắn bối rối và không thể trả lời.",
+ "boi_canh": "Trong phòng họp của Hitchcock, vào một thời điểm chưa xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Baal",
+  "Arald",
+  "Ria Lis",
+  "King of Hell",
+  "Lis"
+ ],
+ "su_kien": [
+  "Arald giải thích về 'Pandemonium', sự va chạm giữa sức mạnh quỷ dữ.",
+  "Baal sử dụng sức mạnh của mình, gieo rắc nỗi sợ hãi lên Frondier.",
+  "Frondier nhận ra bản chất thực sự của sức mạnh quỷ dữ là gì.",
+  "Frondier đặt câu hỏi về nguồn gốc sức mạnh của Baal.",
+  "Baal không thể trả lời những câu hỏi của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người hướng dẫn giải thích về Pandemonium.",
+   "cach_goi": "gọi tên Frondier, thông thường"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "khac",
+   "mo_ta": "Lắng nghe giải thích của Arald.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, cố gắng áp đảo bằng sức mạnh.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Đặt câu hỏi để thăm dò và làm rối loạn đối thủ.",
+   "cach_goi": "gọi tên Baal, bình tĩnh"
+  },
+  {
+   "a": "King of Hell",
+   "b": "Baal",
+   "loai": "cap_tren",
+   "mo_ta": "Là bản thân Baal, thể hiện sức mạnh và quyền lực.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 698,
+  "seconds": 21.3
+ }
+}

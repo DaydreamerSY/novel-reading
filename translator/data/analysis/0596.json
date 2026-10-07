@@ -2,90 +2,69 @@
  "number": 596,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Frondier được Jeremy dẫn đi tham quan công ty của Hitchcock để xem xét về bản đồ 3D mà anh đã cung cấp. Anh từ chối tiết lộ nguồn gốc của bản thiết kế đó để bảo vệ những người xung quanh. Tại phòng nghiên cứu, Paul và các nhà khoa học trình bày một nguyên mẫu bản đồ 3D hologram ấn tượng nhưng Frondier nhận ra nó có nhiều hạn chế về quy mô và khả năng cập nhật thông tin theo thời gian thực.",
- "boi_canh": "Trong phòng thí nghiệm của công ty Hitchcock, trong buổi tham quan để đánh giá tiềm năng thương mại của bản đồ 3D.",
+ "tom_tat": "Trong chương này, Frondier và Paul thảo luận về bản đồ hologram của Hitchcock và những hạn chế của nó trong chiến tranh. Frondier vô tình tiết lộ phương pháp tạo bản đồ 3D độc đáo của mình, khiến Paul và các nhà nghiên cứu kinh ngạc. Cuối cùng, họ quyết định hủy bỏ dự án hiện tại và bắt đầu lại dựa trên ý tưởng của Frondier, đồng thời hứa tặng anh một sản phẩm của công ty.",
+ "boi_canh": "Phòng thí nghiệm của Hitchcock, trong quá trình đánh giá bản đồ hologram.",
  "nhan_vat": [
   "Frondier",
-  "Elodie",
-  "Sybil",
-  "Quinie",
-  "Edwin",
-  "Binkis",
   "Paul",
-  "Jeremy",
-  "Daud",
-  "Hitchcock"
+  "Jeremy"
  ],
  "su_kien": [
-  "Frondier từ chối tiết lộ nguồn gốc của bản thiết kế 3D.",
-  "Jeremy dẫn Frondier đi tham quan công ty Hitchcock.",
-  "Paul giới thiệu về nghiên cứu thương mại hóa bản đồ 3D.",
-  "Nhóm nghiên cứu trình bày nguyên mẫu bản đồ 3D hologram.",
-  "Frondier nhận ra những hạn chế của bản đồ 3D hologram so với thiết kế của anh."
+  "Frondier phê bình bản đồ hologram của Hitchcock.",
+  "Paul nhận ra vấn đề về việc tạo bản đồ trong chiến tranh.",
+  "Frondier vô tình tiết lộ phương pháp tạo bản đồ 3D của mình.",
+  "Paul và các nhà nghiên cứu kinh ngạc trước phương pháp của Frondier.",
+  "Họ quyết định hủy bỏ dự án hiện tại và bắt đầu lại."
  ],
  "quan_he": [
   {
    "a": "Frondier",
-   "b": "Jeremy",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier là người được mời đến công ty của Jeremy.",
-   "cach_goi": "gọi tên Jeremy, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Jeremy",
-   "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Jeremy là người dẫn Frondier đi tham quan.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
-  },
-  {
-   "a": "Frondier",
    "b": "Paul",
-   "loai": "nguoi_la",
-   "mo_ta": "Hai người vừa mới gặp mặt và bắt tay nhau.",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người có kiến thức chuyên môn hơn, đưa ra lời khuyên cho cấp trên.",
    "cach_goi": "gọi tên Paul, lễ phép"
   },
   {
    "a": "Paul",
    "b": "Frondier",
-   "loai": "nguoi_la",
-   "mo_ta": "Paul là người giới thiệu về nghiên cứu và hỏi ý kiến của Frondier.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
+   "loai": "cap_tren",
+   "mo_ta": "Paul là cấp trên, thể hiện sự tôn trọng và biết ơn với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
   },
   {
-   "a": "Frondier",
-   "b": "Sybil",
-   "loai": "gia_dinh",
-   "mo_ta": "Cha của Sybil đã giúp Frondier tạo ra bản thiết kế.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Daud",
-   "loai": "gia_dinh",
-   "mo_ta": "Cha của Sybil đã giúp Frondier tạo ra bản thiết kế.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Binkis",
-   "loai": "thay_tro",
-   "mo_ta": "Teacher Binkis đã giúp Frondier tạo ra bản thiết kế.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Edwin",
+   "a": "Jeremy",
+   "b": "Frondier",
    "loai": "ban_be",
-   "mo_ta": "Senior Edwin đã giúp Frondier tạo ra bản thiết kế.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "mo_ta": "Jeremy là đồng nghiệp quan sát và bày tỏ sự ngạc nhiên.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jeremy",
+   "loai": "ban_be",
+   "mo_ta": "Frondier là đồng nghiệp, trả lời Jeremy một cách bình thản.",
+   "cach_goi": "gọi tên Jeremy, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Paul",
+   "b": "Jeremy",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Jeremy, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jeremy",
+   "b": "Paul",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Paul, không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Bản thiết kế 3D của Frondier được dựa trên bản thiết kế của Elodie."
+  "Bản đồ hologram của Hitchcock: Bản đồ hologram được phát triển bởi công ty Hitchcock."
  ],
  "stats": {
-  "tokens": 979,
-  "seconds": 29.5
+  "tokens": 752,
+  "seconds": 23.6
  }
 }

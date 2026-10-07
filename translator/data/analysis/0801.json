@@ -1,0 +1,107 @@
+{
+ "number": 801,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với sự nghi ngờ của Frondier về nguồn gốc sức mạnh thần thánh mà Charon nhận được. Anh ta kết luận rằng một trong hai vị thần Poseidon - người bị giam cầm ở biển và người đã ban cho Charon sức mạnh - là giả mạo, rất có thể là do một con quỷ đang giả dạng. Sự nghi ngờ này lan rộng khi mọi người bắt đầu đặt câu hỏi về sự thật đằng sau những nhân vật quyền lực khác như Hera và Aphrodite, dẫn đến việc Frondier quyết định đi tìm Heracles theo lệnh của Poseidon.",
+ "boi_canh": "Trong một căn phòng kín đáo, các nhân vật đang thảo luận về nguồn gốc sức mạnh thần thánh.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Lily",
+  "Carla",
+  "Arald",
+  "Antero",
+  "Zenita",
+  "Hera",
+  "Heracles",
+  "Poseidon",
+  "Charon"
+ ],
+ "su_kien": [
+  "Frondier nghi ngờ về nguồn gốc sức mạnh thần thánh của Charon.",
+  "Anh kết luận một trong hai vị thần Poseidon là giả mạo.",
+  "Các nhân vật bắt đầu nghi ngờ Hera và Aphrodite có thể là quỷ giả dạng.",
+  "Frondier quyết định đi tìm Heracles theo lệnh của Poseidon.",
+  "Carla chấp thuận cho Frondier nghỉ phép để thực hiện nhiệm vụ này."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là học sinh và Carla là hiệu trưởng.",
+   "cach_goi": "gọi tên Carla, lễ phép"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Carla là hiệu trưởng và Frondier là học sinh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Lily, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè.",
+   "cach_goi": "gọi tên Arald, thân mật"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Arald",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Arald, lễ phép"
+  },
+  {
+   "a": "Arald",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Carla, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Charon: Có thể đã nhận được sức mạnh thần thánh từ một vị thần giả mạo.",
+  "Poseidon (giả): Một con quỷ đang giả dạng thành Poseidon để ban phát sức mạnh thần thánh."
+ ],
+ "stats": {
+  "tokens": 1140,
+  "seconds": 34.4
+ }
+}

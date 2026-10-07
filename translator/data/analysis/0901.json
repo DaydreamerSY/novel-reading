@@ -1,0 +1,88 @@
+{
+ "number": 901,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào những diễn biến sau cái chết của Azier. Frondier cố gắng tiếp cận anh trai nhưng bất thành do một rào cản kỳ lạ ngăn cách họ, khiến anh nghi ngờ về sự tồn tại của một thế giới khác. Malia đã vượt qua nỗi đau và bắt đầu điều tra, trong khi Frondier vẫn chìm đắm trong sự phủ nhận. Đồng thời, Nữ hoàng Philly Terst tự giam mình trong phòng, bị ám ảnh bởi những gì cô đã thấy trước và đang phải đối mặt với sự hối lỗi vì không thể ngăn chặn bi kịch xảy ra. Cuối cùng, Frondier nhận được lời cầu cứu từ Frondier và điều này đánh dấu một bước ngoặt mới.",
+ "boi_canh": "Diễn biến trong khu vực xung quanh nơi Azier qua đời, hai ngày sau sự kiện.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Malia",
+  "Philly Terst",
+  "Aten",
+  "Emperor (không xuất hiện)"
+ ],
+ "su_kien": [
+  "Frondier cố gắng tiếp cận Azier nhưng bị một rào cản vô hình ngăn cách.",
+  "Malia đã vượt qua giai đoạn đau buồn và bắt đầu điều tra về cái chết của Azier.",
+  "Nữ hoàng Philly Terst tự giam mình trong phòng, chịu đựng sự hối lỗi vì không thể ngăn chặn bi kịch.",
+  "Frondier từ chối rời khỏi nơi Azier qua đời, vẫn còn chìm đắm trong nỗi đau.",
+  "Frondier nhận được lời cầu cứu từ Frondier và cảm thấy có một bước ngoặt mới."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và người em, Frondier cố gắng tiếp cận nhưng bị ngăn cản.",
+   "cach_goi": "gọi tên Azier, không rõ thái độ"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, không phản hồi lời kêu gọi của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "dong_minh",
+   "mo_ta": "Người thân, Frondier lắng nghe lời khuyên của Malia.",
+   "cach_goi": "gọi tên Malia, lễ phép"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Người thân, Malia lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "gọi tên Frondier, quan tâm"
+  },
+  {
+   "a": "Aten",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Công chúa Aten cố gắng liên lạc với Nữ hoàng Philly.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Nữ hoàng Philly không phản hồi Aten.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Liên lạc qua điện thoại, Frondier cầu cứu.",
+   "cach_goi": "gọi tên Philly, không rõ thái độ"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhận lời cầu cứu của Frondier và đặt câu hỏi.",
+   "cach_goi": "gọi tên Frondier, nghi ngờ"
+  }
+ ],
+ "danh_tinh": [
+  "Azier de Roach: Được xác nhận đã qua đời.",
+  "Philly Terst: Có khả năng nhìn thấy tương lai, nhưng không thể thay đổi nó."
+ ],
+ "stats": {
+  "tokens": 1077,
+  "seconds": 32.4
+ }
+}

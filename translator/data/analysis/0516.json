@@ -2,134 +2,89 @@
  "number": 516,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi kết thúc bài phát biểu, Frondier nhìn quanh đám đông và nhận ra họ đã hiểu những gì ông nói. Ông Enfer, thủ lĩnh gia tộc Roach, phá vỡ sự im lặng bằng một tuyên bố mạnh mẽ, trấn an mọi người. Sau đó, Frondier bắt đầu đề xuất kế hoạch phòng thủ, nhưng lại gặp phải rào cản khi không có quyền hạn chính thức. Cuối cùng, ông Enfer bất ngờ lên tiếng ủng hộ Frondier và yêu cầu nhà vua trao quyền cho ông, dẫn đến một khoảnh khắc đầy kịch tính giữa hai người.",
- "boi_canh": "Trong phòng họp của Đế quốc, sau bài phát biểu quan trọng.",
+ "tom_tat": "Trong chương này, Notker và quân lính của hắn ẩn mình trong rừng, chờ đợi thời cơ tấn công. Họ quan sát lực lượng Manggot chuẩn bị đối phó với cuộc xâm lược của quái vật, đồng thời phát hiện sự xuất hiện của Aster Evans trên tường thành. Notker bày tỏ ý định tiêu diệt Aster, còn Hector, người đứng cạnh Aster, cảm nhận được một khí chất đặc biệt và suy nghĩ về một thanh kiếm huyền thoại.",
+ "boi_canh": "Trong rừng gần Manggot, trước thềm cuộc xâm lược của quái vật.",
  "nhan_vat": [
   "Frondier",
-  "Elodie",
   "Aster",
-  "Philly",
-  "Enfer",
-  "Osprey",
-  "Bartello",
-  "Monty",
-  "Sanders",
+  "Hagley",
+  "Ludwig",
+  "Notker",
   "Aster Evans",
-  "Elodie de Inies Rishae"
+  "Hector",
+  "Ludwig Urfa"
  ],
  "su_kien": [
-  "Frondier kết thúc bài phát biểu và quan sát phản ứng của mọi người.",
-  "Ông Enfer phá vỡ sự im lặng bằng một tuyên bố trấn an.",
-  "Frondier bắt đầu đề xuất kế hoạch phòng thủ, nhấn mạnh vào việc tận dụng điểm mạnh của Đế quốc.",
-  "Ông Enfer bất ngờ yêu cầu nhà vua trao quyền cho Frondier.",
-  "Nhà Vua Bartello đồng ý theo lời khuyên của Frondier."
+  "Notker và quân lính của hắn ẩn mình trong rừng, chờ đợi thời cơ tấn công.",
+  "Phát hiện sự xuất hiện của Aster Evans trên tường thành Manggot.",
+  "Notker bày tỏ ý định tiêu diệt Aster Evans.",
+  "Hector nhận ra Aster Evans và cảm nhận được khí chất đặc biệt của cậu.",
+  "Hector suy nghĩ về thanh kiếm huyền thoại trong Rừng Thiêng."
  ],
  "quan_he": [
   {
-   "a": "Frondier",
-   "b": "Elodie",
-   "loai": "ban_be",
-   "mo_ta": "Bạn thân từ thuở nhỏ.",
+   "a": "Notker",
+   "b": "quân lính (người dưới)",
+   "loai": "thay_tro",
+   "mo_ta": "Người chỉ huy và người thuộc cấp, quan hệ sư đồ.",
+   "cach_goi": "gọi 'Sir Notker', lễ phép"
+  },
+  {
+   "a": "quân lính (người dưới)",
+   "b": "Notker",
+   "loai": "thay_tro",
+   "mo_ta": "Người thuộc cấp, phục tùng mệnh lệnh của người chỉ huy.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Frondier",
-   "b": "Aster",
-   "loai": "nguoi_la",
-   "mo_ta": "Không quen biết nhau.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Philly",
-   "loai": "cap_tren",
-   "mo_ta": "Hoàng hậu, không tương tác trực tiếp.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Enfer",
-   "loai": "gia_dinh",
-   "mo_ta": "Cha của Frondier, mối quan hệ phức tạp.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Osprey",
-   "loai": "dong_minh",
-   "mo_ta": "Không tương tác trực tiếp.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Bartello",
-   "loai": "cap_tren",
-   "mo_ta": "Nhà vua, không tương tác trực tiếp.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Monty",
-   "loai": "dong_minh",
-   "mo_ta": "Không tương tác trực tiếp.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Sanders",
-   "loai": "dong_minh",
-   "mo_ta": "Không tương tác trực tiếp.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
+   "a": "Notker",
    "b": "Aster Evans",
-   "loai": "nguoi_la",
-   "mo_ta": "Không quen biết nhau.",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, có ý định tiêu diệt.",
+   "cach_goi": "gọi tên Aster, lạnh lùng"
+  },
+  {
+   "a": "Aster Evans",
+   "b": "Notker",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, bị Notker để mắt tới.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Frondier",
-   "b": "Elodie de Inies Rishae",
-   "loai": "nguoi_la",
-   "mo_ta": "Không quen biết nhau.",
+   "a": "Hector",
+   "b": "Aster Evans",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội trên tường thành, có vẻ quen biết.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster Evans",
+   "b": "Hector",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội trên tường thành, có vẻ quen biết.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Enfer",
-   "b": "Frondier",
-   "loai": "gia_dinh",
-   "mo_ta": "Cha và con, mối quan hệ phức tạp.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Enfer",
-   "b": "Bartello",
+   "a": "Ludwig Urfa",
+   "b": "Hector",
    "loai": "cap_tren",
-   "mo_ta": "Mối quan hệ căng thẳng, lịch sự trang trọng.",
-   "cach_goi": "gọi 'Nhà Vua', lễ phép"
-  },
-  {
-   "a": "Bartello",
-   "b": "Enfer",
-   "loai": "cap_tren",
-   "mo_ta": "Mối quan hệ căng thẳng, lịch sự trang trọng.",
+   "mo_ta": "Người cấp trên cũ, đã truyền đạt thông tin quan trọng.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Bartello",
-   "b": "Frondier",
+   "a": "Hector",
+   "b": "Ludwig Urfa",
    "loai": "cap_tren",
-   "mo_ta": "Nhà vua và người con, mối quan hệ phức tạp.",
+   "mo_ta": "Người cấp trên cũ, đã truyền đạt thông tin quan trọng.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
   "Aster Evans: Tên đầy đủ của Aster.",
-  "Elodie de Inies Rishae: Tên đầy đủ của Elodie sau khi tức tỉnh thần tính."
+  "Hector Von Urfa: Tên thật của Hector."
  ],
  "stats": {
-  "tokens": 1381,
-  "seconds": 41.4
+  "tokens": 938,
+  "seconds": 28.0
  }
 }

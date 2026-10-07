@@ -1,0 +1,71 @@
+{
+ "number": 857,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận ra rằng Charon và Aphrodite có thể là những con quỷ giả dạng thần, Frondier suy đoán về động cơ của họ. Ông phát hiện ra Aphrodite là một vị thần thực sự và nghi ngờ các vị thần khác cũng có thể tham gia vào cuộc chiến này. Sau đó, ông nhận được thông tin từ Poseidon về việc Aphrodite bị thương tương tự như Poseidon và những gợi ý về vai trò của Moirai (ba nữ thần định mệnh). Cuối cùng, Frondier cảnh báo Poseidon về khả năng có quỷ đội lốt thần trong số các vị thần Olympus sắp tới, đồng thời được tiết lộ rằng câu chuyện về quả táo vàng chưa kết thúc.",
+ "boi_canh": "Một cuộc trò chuyện bí mật dưới đáy biển sâu.",
+ "nhan_vat": [
+  "Frondier",
+  "Baal",
+  "Antero",
+  "Athena",
+  "Thor",
+  "Hera",
+  "Heracles",
+  "Zeus",
+  "Poseidon",
+  "Aphrodite"
+ ],
+ "su_kien": [
+  "Frondier suy đoán Aphrodite có thể là một con quỷ giả dạng thần.",
+  "Ông phát hiện ra Aphrodite là một vị thần thực sự.",
+  "Poseidon tiết lộ rằng Aphrodite bị thương tương tự như ông và đang bị giam cầm ở thủ đô.",
+  "Frondier cảnh báo Poseidon về khả năng có quỷ đội lốt thần trong số các vị thần Olympus sắp tới.",
+  "Poseidon tiết lộ câu chuyện về quả táo vàng chưa kết thúc và nhắc đến Moirai."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Poseidon",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier báo cáo tình hình và nhận lời khuyên từ người bảo hộ mạnh mẽ hơn.",
+   "cach_goi": "gọi 'Lord Poseidon', lễ phép"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Poseidon trả lời câu hỏi của Frondier và đưa ra những gợi ý bí ẩn.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aphrodite",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier chưa từng gặp Aphrodite trước đây.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Aphrodite",
+   "loai": "dong_minh",
+   "mo_ta": "Hai người là đồng nghiệp, nhưng không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người là đối thủ, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aphrodite: Được xác nhận là vị thần thực sự chứ không phải quỷ giả dạng.",
+  "Baal: Được tiết lộ là kẻ xúi giục cuộc chiến giữa các vị thần và quỷ."
+ ],
+ "stats": {
+  "tokens": 834,
+  "seconds": 25.1
+ }
+}

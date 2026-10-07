@@ -1,0 +1,41 @@
+{
+ "number": 751,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier thẩm vấn Jeanne về một lệnh cấm nói và những thông tin liên quan đến kỹ năng 'Weaving'. Qua những câu trả lời né tránh của Jeanne, Frondier suy luận ra rằng những thông tin bị cấm đều liên quan đến một thế lực nào đó. Cuối cùng, Jeanne tiết lộ rằng Weaving là khả năng tạo ra ảo ảnh có nguồn gốc từ một thế giới khác và người sở hữu kỹ năng này phải đã từng trải qua thế giới đó.",
+ "boi_canh": "Một nơi không xác định, thời điểm hiện tại trong diễn biến câu chuyện.",
+ "nhan_vat": [
+  "Frondier",
+  "Jeanne"
+ ],
+ "su_kien": [
+  "Frondier thẩm vấn Jeanne về lệnh cấm nói và kỹ năng 'Weaving'.",
+  "Jeanne trả lời bằng những cái lắc đầu và im lặng, ám chỉ thông tin bị cấm.",
+  "Frondier suy luận ra rằng những thông tin bị cấm liên quan đến một thế lực nào đó.",
+  "Jeanne tiết lộ Weaving là khả năng tạo ra ảo ảnh từ một thế giới khác.",
+  "Jeanne nói rằng điều kiện để có được kỹ năng Weaving là đã từng trải qua một thế giới khác."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Jeanne",
+   "loai": "nguoi_la",
+   "mo_ta": "Thẩm vấn và tìm hiểu thông tin từ nhau.",
+   "cach_goi": "gọi tên Jeanne, không rõ thái độ"
+  },
+  {
+   "a": "Jeanne",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Trả lời những câu hỏi và đưa ra gợi ý.",
+   "cach_goi": "gọi tên Frondier, không rõ thái độ"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)"
+ ],
+ "stats": {
+  "tokens": 491,
+  "seconds": 14.6
+ }
+}

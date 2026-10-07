@@ -1,0 +1,70 @@
+{
+ "number": 721,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier đối mặt với Hagley trong một cuộc trò chuyện căng thẳng. Hagley cố gắng thao túng Frondier bằng cách tiết lộ những gì anh ta đã nói với Azier về khả năng giải thích của Frondier. Tuy nhiên, Frondier không để bị lừa và phơi bày khả năng viết tiếng cổ của mình, khiến Hagley kinh ngạc. Cuối cùng, Frondier đe dọa sẽ lợi dụng tài năng và nghiên cứu của Hagley cho mục đích riêng của mình.",
+ "boi_canh": "Trong phòng thẩm vấn, một cuộc đối đầu căng thẳng giữa hai người đàn ông.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Azier",
+  "Enfer",
+  "Hagley"
+ ],
+ "su_kien": [
+  "Frondier và Hagley đối mặt trực tiếp, trao đổi những lời lẽ cay nghiệt.",
+  "Frondier tiết lộ rằng Hagley đã nói với Azier về khả năng giải thích của anh ta.",
+  "Frondier viết tiếng cổ và cho Hagley xem.",
+  "Hagley nhận ra Frondier có thể viết tiếng cổ hoàn chỉnh, vượt quá mong đợi của ông.",
+  "Frondier tạo ra vũ khí bằng rune tiếng cổ, khiến Hagley kinh ngạc."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Hagley",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, có sự thù địch và nghi ngờ lẫn nhau.",
+   "cach_goi": "gọi tên Hagley, lạnh lùng"
+  },
+  {
+   "a": "Hagley",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cố gắng thao túng và hạ thấp Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "ban_be",
+   "mo_ta": "Có mối quan hệ anh em, nhưng hiện tại có sự căng thẳng do hành động của Hagley.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Hagley đã nói chuyện với Azier về Frondier.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier, có thể đang chịu nhiều áp lực.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Người bạn của Frondier, đã đề cập đến Hagley.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 801,
+  "seconds": 23.9
+ }
+}

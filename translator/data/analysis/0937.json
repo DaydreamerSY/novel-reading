@@ -1,0 +1,74 @@
+{
+ "number": 937,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tiết lộ những sự thật đáng kinh ngạc về quá khứ của thế giới và vai trò của các vị thần, thông qua cuộc đối thoại giữa Pielott và Hypnos. Họ thảo luận về Ragnarok, Hợp đồng Nhân loại và sự can thiệp của Moirai (Số Phận). Sau đó, Frondier giải cứu Selena bằng cách sử dụng tốc độ và sức mạnh vượt trội, đối mặt với nhiều kẻ thù bảo vệ các vị thần. Cuối cùng, Hestia trao cho Frondier những ký ức quan trọng về quá khứ, hé lộ sự thật về Jeanne d'Arc và những người hùng khác.",
+ "boi_canh": "Một cuộc đối thoại bí mật diễn ra trong một không gian không xác định.",
+ "nhan_vat": [
+  "Pielott",
+  "Hypnos",
+  "Frondier",
+  "Selena",
+  "Merlin",
+  "Arthur",
+  "Jeanne",
+  "Sigurd",
+  "Hestia"
+ ],
+ "su_kien": [
+  "Pielott bày tỏ sự hoài nghi về những lời nói của Hypnos.",
+  "Hypnos tiết lộ về Ragnarok, Hợp đồng Nhân loại và vai trò của Moirai.",
+  "Pielott quyết định chống lại các vị thần bất chấp lời cảnh báo.",
+  "Frondier giải cứu Selena khỏi nguy hiểm bằng tốc độ vượt trội.",
+  "Hestia trao cho Frondier những ký ức về quá khứ, liên quan đến Jeanne d'Arc và những người hùng khác."
+ ],
+ "quan_he": [
+  {
+   "a": "Pielott",
+   "b": "Hypnos",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu và nghi ngờ lẫn nhau.",
+   "cach_goi": "gọi tên Hypnos, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hypnos",
+   "b": "Pielott",
+   "loai": "khac",
+   "mo_ta": "Cố gắng thuyết phục và cảnh báo.",
+   "cach_goi": "gọi tên Pielott, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Giải cứu và bảo vệ.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Cảm ơn vì sự giúp đỡ.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Hestia",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hướng dẫn và trao cho ký ức quan trọng.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hestia",
+   "loai": "cap_tren",
+   "mo_ta": "Lắng nghe và tuân theo hướng dẫn.",
+   "cach_goi": "gọi tên Hestia, lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 704,
+  "seconds": 21.3
+ }
+}

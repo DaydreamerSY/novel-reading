@@ -1,0 +1,83 @@
+{
+ "number": 832,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Colin đối mặt nhau trong một căn phòng bí mật, nơi Colin đặt nghi ngờ về động cơ của Frondier. Colin tiết lộ thông tin mà anh ta có được từ một Paladin tên Charon, cho thấy sự can thiệp sâu rộng hơn vào hành trình của Frondier. Cuối cùng, Colin đề xuất một thỏa thuận mới với Frondier và đưa ra bản đồ chi tiết về thủ đô, hé lộ những dấu hiệu của một cuộc chiến tranh dân sự đang đến gần.",
+ "boi_canh": "Trong một căn phòng nhỏ hẹp dưới lòng đất ở thủ đô, giữa lúc căng thẳng gia tăng.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Quinie",
+  "Carla",
+  "Antero",
+  "Frondier de Roach",
+  "Hera",
+  "Colin",
+  "Charon"
+ ],
+ "su_kien": [
+  "Colin bày tỏ nghi ngờ về động cơ của Frondier.",
+  "Colin tiết lộ thông tin mà anh ta có được từ Paladin Charon.",
+  "Colin đề xuất một thỏa thuận mới với Frondier.",
+  "Colin đưa ra bản đồ chi tiết về thủ đô.",
+  "Bản đồ hé lộ những dấu hiệu của một cuộc chiến tranh dân sự sắp tới."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Colin",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Colin nghi ngờ động cơ của Frondier.",
+   "cach_goi": "gọi tên Colin, không rõ cảm xúc"
+  },
+  {
+   "a": "Colin",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Colin nghi ngờ động cơ của Frondier và thách thức anh.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Carla quan tâm đến tình hình của Frondier và lo lắng về sự đối đầu với Colin.",
+   "cach_goi": "gọi tên Frondier, lo lắng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "ban_be",
+   "mo_ta": "Quan tâm đến Carla và tình trạng của cô.",
+   "cach_goi": "gọi tên Carla, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Colin",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Colin quan sát Carla và nhận xét về tình trạng của cô.",
+   "cach_goi": "gọi tên Carla, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Charon",
+   "loai": "ke_thu",
+   "mo_ta": "Người cung cấp thông tin cho Colin, có vẻ là đối thủ tiềm năng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Colin",
+   "b": "Charon",
+   "loai": "nguoi_la",
+   "mo_ta": "Colin nhận thông tin từ Charon.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Charon: Paladin, người cung cấp thông tin cho Colin về Frondier và tình hình thủ đô."
+ ],
+ "stats": {
+  "tokens": 893,
+  "seconds": 26.9
+ }
+}

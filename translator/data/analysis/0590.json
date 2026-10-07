@@ -2,77 +2,81 @@
  "number": 590,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sophie gặp gỡ Elodie và nhận ra mối liên hệ giữa họ với Frondier, khiến cô ta lợi dụng cơ hội để nâng cao địa vị gia đình. Sau đó, Sophie đuổi Frondier đi để anh có thời gian riêng tư nói chuyện với Elodie. Hai người cùng nhau bước ra ban công, nơi họ trò chuyện về sự vắng mặt của Frondier và những tin tức từ Constel, hé lộ một chút căng thẳng trong mối quan hệ của họ.",
- "boi_canh": "Trong phòng khách dinh thự của gia đình Rishae, vào buổi tối.",
+ "tom_tat": "Sau khi Frondier nhận lời làm hiệp sĩ cho Lily trong một tháng, anh phải đối mặt với sự nghi ngờ của Elodie về việc liệu anh có bị ảnh hưởng bởi sức mạnh của Zodiac Lily hay không. Frondier tiết lộ anh đã cảnh báo Elodie về khả năng mình bị 'Charm' và cần cô giúp đỡ nếu điều đó xảy ra. Cuối cùng, một hiện tượng kỳ lạ diễn ra: bầu trời tối sầm lại và hàng trăm quỷ dữ xuất hiện, báo hiệu một mối đe dọa mới.",
+ "boi_canh": "Một buổi chiều trên hành lang của dinh thự.",
  "nhan_vat": [
-  "Sophie",
-  "Elodie",
   "Frondier",
+  "Elodie",
   "Aster",
-  "Aten",
+  "Philly",
   "Lily",
-  "Father",
-  "Selena",
-  "Ria Lis"
+  "Osprey",
+  "Gregory",
+  "Elodie de Inies Rishae"
  ],
  "su_kien": [
-  "Sophie nhận ra Elodie và bày tỏ sự vui mừng khi gặp lại.",
-  "Sophie nhận xét về mối liên hệ giữa Frondier và Elodie, cũng như địa vị của họ trong xã hội.",
-  "Sophie đuổi Frondier đi để anh có thời gian riêng tư với Elodie.",
-  "Frondier và Elodie cùng nhau bước ra ban công.",
-  "Elodie hỏi về những tin tức từ Constel và bày tỏ sự tò mò về việc Frondier đứng cạnh Madam Meyer."
+  "Frondier giữ lời hứa làm hiệp sĩ cho Lily.",
+  "Elodie nghi ngờ Frondier đã biết về tin đồn liên quan đến Zodiac Lily.",
+  "Frondier tiết lộ anh có thể bị ảnh hưởng bởi 'Charm' của Lily.",
+  "Elodie bày tỏ sự lo ngại và sẵn sàng đối phó với Lily nếu cần thiết.",
+  "Bầu trời tối sầm lại, các vì sao biến mất và hàng trăm quỷ dữ xuất hiện."
  ],
  "quan_he": [
   {
-   "a": "Sophie",
+   "a": "Frondier",
    "b": "Elodie",
-   "loai": "dong_minh",
-   "mo_ta": "Sophie là một người có địa vị xã hội và muốn lợi dụng mối quan hệ của Frondier để nâng cao địa vị gia đình.",
-   "cach_goi": "gọi tên Elodie, lễ phép"
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân lâu năm, Elodie nghi ngờ Frondier.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
   },
   {
    "a": "Elodie",
-   "b": "Sophie",
-   "loai": "dong_minh",
-   "mo_ta": "Elodie lịch sự chào hỏi Sophie.",
-   "cach_goi": "gọi tên Sophie, lễ phép"
-  },
-  {
-   "a": "Sophie",
    "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Sophie là người đã thuê Frondier để nâng cao địa vị gia đình.",
-   "cach_goi": "gọi tên Frondier, thân mật"
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân lâu năm, dò hỏi về tình trạng của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
   },
   {
    "a": "Frondier",
-   "b": "Sophie",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier không trực tiếp giao tiếp với Sophie.",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Cam kết làm hiệp sĩ cho Lily.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Elodie",
-   "b": "Frondier",
+   "b": "Aster",
    "loai": "ban_be",
-   "mo_ta": "Hai người là bạn từ thuở nhỏ.",
-   "cach_goi": "gọi tên Frondier, thân mật"
+   "mo_ta": "Bạn bè, có thể sẽ can thiệp nếu Frondier mất kiểm soát.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
-   "b": "Elodie",
-   "loai": "ban_be",
-   "mo_ta": "Hai người là bạn từ thuở nhỏ.",
-   "cach_goi": "gọi tên Elodie, thân mật"
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Học hỏi từ Philly về cách đối phó với vấn đề.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "doi_thu",
+   "mo_ta": "Có thể là một người có thể ngăn chặn Frondier nếu cần thiết.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "nguoi_la",
+   "mo_ta": "Đã được Gregory cảnh báo về khả năng bị ảnh hưởng bởi 'Charm'.",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi tức tỉnh thần tính)",
-  "Frondier de Roach (tên đầy đủ của nhân vật chính)",
-  "Aster Evans (tên đầy đủ của Aster)"
+  "Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi tức tỉnh thần tính)"
  ],
  "stats": {
-  "tokens": 851,
-  "seconds": 25.6
+  "tokens": 762,
+  "seconds": 22.9
  }
 }

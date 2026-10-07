@@ -2,110 +2,98 @@
  "number": 561,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi Frondier nói ra lời nào đó khiến mọi người im lặng, cơ thể anh gần như kiệt sức vì mất mana và bị thương nặng. Aten sử dụng phép thuật chữa lành kết hợp nguyên tắc 'Reversion' để giúp đỡ Frondier, nhưng cách thức này có vẻ khác lạ so với lần trước. Aster tập hợp mọi người đến, và cuộc chiến chống lại đội quân xác sống bắt đầu với sự dẫn dắt của Aster. Cuối cùng, Frondier nhận ra Belphegor đang cố gắng dụ dỗ Osprey và cảnh báo anh về sức mạnh 'Sloth' cũng như nhiệm vụ ngăn chặn việc triệu hồi thần của Manggot.",
- "boi_canh": "Một trận chiến đang diễn ra tại một khu vực bị tàn phá bởi phép thuật, nơi đội quân xác sống tiếp cận.",
+ "tom_tat": "Trong chương này, Frondier và những người khác đối mặt với một vấn đề liên quan đến nguồn năng lượng mới được tạo ra để chữa trị chứng suy yếu của Vua Bartello. Họ phát hiện ra rằng tinh thể mana do Frondier và Mei sáng tạo không ổn định như Dragon Heart thật. Aten bày tỏ sự lo lắng về việc Frondier có thể gặp nguy hiểm khi sử dụng nó, và Frondier quyết định nuốt chửng tinh thể đó, bất chấp những rủi ro tiềm ẩn.",
+ "boi_canh": "Trong phòng làm việc bí mật tại một địa điểm không xác định.",
  "nhan_vat": [
   "Frondier",
   "Elodie",
-  "Selena",
-  "Aster",
   "Aten",
-  "Sybil",
+  "Renzo",
   "Osprey",
   "Mei",
+  "Bartello",
+  "Frondier de Roach",
+  "Aten Terst",
+  "Penelope",
   "Belphegor"
  ],
  "su_kien": [
-  "Frondier bị thương nặng và gần như kiệt sức.",
-  "Aten sử dụng phép thuật chữa lành kết hợp 'Reversion' để giúp Frondier.",
-  "Aster tập hợp mọi người đến chiến trường.",
-  "Aster chỉ huy cuộc tấn công vào đội quân xác sống.",
-  "Frondier cảnh báo Osprey về Belphegor và nhiệm vụ ngăn chặn việc triệu hồi thần của Manggot."
+  "Frondier và những người khác thảo luận về tinh thể mana mới.",
+  "Osprey trao cho Frondier một tinh thể mana được giấu kín.",
+  "Belphegor nhận ra tinh thể đó không phải là Dragon Heart thật mà là sản phẩm của Frondier và Mei.",
+  "Aten bày tỏ sự lo lắng khi Frondier định nuốt chửng tinh thể mana.",
+  "Frondier nuốt chửng tinh thể mana, bất chấp những rủi ro tiềm ẩn."
  ],
  "quan_he": [
   {
    "a": "Frondier",
    "b": "Elodie",
    "loai": "ban_be",
-   "mo_ta": "Bạn thân từ thuở nhỏ, đang hỗ trợ Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Selena",
-   "loai": "dong_minh",
-   "mo_ta": "Đồng đội, chiến đấu bên cạnh Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Aster",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè, Aster là người chỉ huy và hỗ trợ Frondier.",
-   "cach_goi": "gọi tên Aster, thân mật"
-  },
-  {
-   "a": "Aster",
-   "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Aster là người chỉ huy và báo cáo với Frondier.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
+   "mo_ta": "Bạn thân từ thuở nhỏ, mối quan hệ thân mật.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
    "b": "Aten",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè, Aten giúp đỡ Frondier bằng phép thuật.",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được Frondier bảo vệ và tin tưởng, mối quan hệ phức tạp.",
    "cach_goi": "gọi tên Aten, thân mật"
   },
   {
-   "a": "Aten",
-   "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè, Aten giúp đỡ Frondier bằng phép thuật.",
-   "cach_goi": "gọi tên Frondier, thân mật"
-  },
-  {
    "a": "Frondier",
-   "b": "Sybil",
-   "loai": "dong_minh",
-   "mo_ta": "Đồng đội, chiến đấu bên cạnh Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong quá khứ, có liên quan đến việc Frondier bảo vệ Aten.",
+   "cach_goi": "gọi tên Renzo, không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
    "b": "Osprey",
    "loai": "cap_tren",
-   "mo_ta": "Frondier là người chỉ huy và ra lệnh cho Osprey.",
+   "mo_ta": "Người cố vấn và hỗ trợ Frondier, mối quan hệ tôn trọng.",
    "cach_goi": "gọi tên Osprey, lễ phép"
-  },
-  {
-   "a": "Osprey",
-   "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Osprey là người báo cáo với Frondier.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
   },
   {
    "a": "Frondier",
    "b": "Mei",
-   "loai": "dong_minh",
-   "mo_ta": "Đồng đội, chiến đấu bên cạnh Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "ban_be",
+   "mo_ta": "Đồng tác giả tinh thể mana, mối quan hệ tin tưởng và hợp tác.",
+   "cach_goi": "gọi tên Mei, thân mật"
   },
   {
    "a": "Frondier",
-   "b": "Belphegor",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Vua đang bị suy yếu, Frondier đang cố gắng chữa trị cho ông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người hướng dẫn và đưa ra lời khuyên cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Người mà Frondier bảo vệ và quan tâm sâu sắc.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
    "loai": "ke_thu",
-   "mo_ta": "Địch, đang cố gắng dụ dỗ Osprey.",
+   "mo_ta": "Đối thủ tiềm ẩn, theo dõi hành động của Frondier.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Mei (dạng nữ của Metamorp)"
+  "Tinh thể mana được tạo ra bởi Frondier và Mei ban đầu được gọi là 'Dragon Heart' giả nhưng sau đó được đặt tên là 'Frondier Heart', tuy nhiên Frondier từ chối cái tên này vì cho rằng nó quá sến súa."
  ],
  "stats": {
-  "tokens": 1207,
-  "seconds": 37.8
+  "tokens": 981,
+  "seconds": 30.8
  }
 }

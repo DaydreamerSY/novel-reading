@@ -1,0 +1,134 @@
+{
+ "number": 893,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi một demon từ Seven Deadly Sins bị đưa đến Nastrond thay vì xuống địa ngục, Frondier và những người khác thảo luận về nguyên nhân có thể của việc này. Họ suy đoán rằng Satan đã liên minh với một vị thần Asgard để thực hiện điều đó. Cuộc họp kết thúc bằng việc giao nhiệm vụ tìm kiếm Pandemonium cho mọi người, và Frondier yêu cầu Arald ở lại để nói chuyện riêng, bày tỏ sự tin tưởng và muốn biết cảm xúc thật của Arald về vai trò King of Demons.",
+ "boi_canh": "Một cuộc họp diễn ra tại một địa điểm không xác định, thảo luận về những sự kiện bất thường liên quan đến demon và các vị thần.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Azier",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Arald",
+  "Monty",
+  "Odin",
+  "Thor",
+  "Hel",
+  "Zeus"
+ ],
+ "su_kien": [
+  "Một demon từ Seven Deadly Sins bị đưa đến Nastrond thay vì xuống địa ngục.",
+  "Lily suy đoán rằng một vị thần Asgard đã liên minh với Satan.",
+  "Arald tiết lộ rằng Satan đã bỏ rơi 72 Demons để tránh chiến tranh với Zeus.",
+  "Frondier bày tỏ sự tin tưởng vào Arald và muốn biết cảm xúc thật của anh ta về vai trò King of Demons.",
+  "Arald ám chỉ một mục tiêu lớn hơn liên quan đến việc trở thành King of Demons, có vẻ như là giết các vị thần."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, thảo luận về các sự kiện.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, thảo luận về các sự kiện.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Thảo luận về các sự kiện.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Thảo luận về các sự kiện.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "cap_tren",
+   "mo_ta": "Người cấp dưới, Frondier bày tỏ sự tin tưởng.",
+   "cach_goi": "gọi tên Arald, lễ phép"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người cấp dưới, trả lời câu hỏi của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Thảo luận về các sự kiện.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Thảo luận về các sự kiện.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "ban_be",
+   "mo_ta": "Thảo luận về các sự kiện.",
+   "cach_goi": "gọi tên Carla, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Thảo luận về các sự kiện.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "Thảo luận về các sự kiện.",
+   "cach_goi": "gọi tên Monty, thân mật"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Thảo luận về các sự kiện.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1423,
+  "seconds": 42.9
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "number": 621,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, cuộc trò chuyện giữa Enfer và Sanders tiết lộ những tin tức đáng lo ngại về sự xuất hiện của 'ác quỷ bị bỏ rơi' và những vụ án mạng bí ẩn liên quan đến họ. Enfer chia sẻ thông tin mật với Sanders, cho thấy sự thay đổi trong cách tiếp cận vấn đề của ông. Đồng thời, Frondier và Elysia có một cuộc trao đổi ngắn, làm nổi bật sự thiếu hiểu biết của Elysia về tình hình thực tế và vai trò của Frondier.",
+ "boi_canh": "Một căn phòng kín đáo, không rõ thời gian cụ thể.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Elysia",
+  "Enfer",
+  "Malia",
+  "Sylvain",
+  "Sanders"
+ ],
+ "su_kien": [
+  "Sanders nghe báo cáo về sự xuất hiện của 'ác quỷ bị bỏ rơi' và những vụ án mạng.",
+  "Enfer tiết lộ thông tin chi tiết về nguồn gốc của các vụ án mạng và mối liên hệ với Manggot.",
+  "Enfer bày tỏ sự thay đổi trong quan điểm và cách tiếp cận vấn đề.",
+  "Sanders nhận ra sự khác biệt trong tính cách của Enfer.",
+  "Frondier và Elysia tranh luận về kế hoạch hành động của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Sanders",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Sanders là cấp dưới của Enfer, thể hiện sự tôn trọng và lo lắng.",
+   "cach_goi": "gọi 'Lord', lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Sanders",
+   "loai": "cap_tren",
+   "mo_ta": "Enfer là người chỉ đạo, chia sẻ thông tin và đưa ra yêu cầu.",
+   "cach_goi": "gọi tên Sanders, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè, nhưng Elysia không hiểu rõ tình hình.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Elysia bày tỏ sự nghi ngờ và thiếu tin tưởng vào Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con đầy phức tạp, với những tổn thương và hối tiếc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sanders",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Enfer",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ác quỷ bị bỏ rơi (Abandoned Devils): Những kẻ được cho là đến từ một lục địa khác, liên quan đến các vụ án mạng.",
+  "Roach: Tên gọi của Frondier, có lẽ là biệt danh hoặc tên thân mật."
+ ],
+ "stats": {
+  "tokens": 1072,
+  "seconds": 33.4
+ }
+}

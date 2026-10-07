@@ -1,0 +1,75 @@
+{
+ "number": 710,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Cain bị bắt giữ, Frondier bất ngờ bị Pascal đưa đi thẩm vấn trong một lớp học trống. Pascal chất vấn Frondier về nhiều sự kiện quan trọng như việc ngăn chặn quỷ dữ, vai trò của anh trong cuộc họp Hoàng cung và nguồn gốc sức mạnh của anh. Cuộc đối thoại xoay quanh những lời Frondier đã nói với Cain về khả năng Aster lật đổ hệ thống đẳng cấp, và những suy nghĩ của Sale, công chúa đế quốc, về việc bãi bỏ hệ thống đó.",
+ "boi_canh": "Trong một lớp học trống tại Hoàng cung.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly",
+  "Jane",
+  "Pascal",
+  "Kraken",
+  "Cain",
+  "Sale"
+ ],
+ "su_kien": [
+  "Pascal đưa Frondier đi bằng lệnh trực tiếp.",
+  "Pascal sử dụng phép 'Whisper of the Wind' trong lớp học.",
+  "Pascal thẩm vấn Frondier về nhiều sự kiện và nguồn gốc sức mạnh của anh.",
+  "Frondier kể lại cuộc trò chuyện với Cain về việc Aster có thể lật đổ hệ thống đẳng cấp.",
+  "Cuộc thảo luận xoay quanh những suy nghĩ của Sale về việc bãi bỏ hệ thống đẳng cấp."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "cap_tren",
+   "mo_ta": "Pascal là người có quyền lực hơn, ra lệnh cho Frondier.",
+   "cach_goi": "gọi tên Pascal, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Pascal là người thẩm vấn, Frondier là người trả lời.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Cain",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người đã có cuộc trò chuyện quan trọng.",
+   "cach_goi": "gọi tên Cain, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Cain",
+   "loai": "khac",
+   "mo_ta": "Pascal đã thẩm vấn Cain trước đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sale",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier biết về những suy nghĩ của Sale.",
+   "cach_goi": "gọi tên Sale, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Sale",
+   "loai": "dong_minh",
+   "mo_ta": "Pascal biết về những suy nghĩ của Sale.",
+   "cach_goi": "gọi tên Sale, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Sale được tiết lộ là đang cân nhắc việc bãi bỏ hệ thống đẳng cấp nếu lên ngôi hoàng đế."
+ ],
+ "stats": {
+  "tokens": 801,
+  "seconds": 23.9
+ }
+}

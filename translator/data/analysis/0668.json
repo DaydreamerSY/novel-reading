@@ -1,0 +1,89 @@
+{
+ "number": 668,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi giải thoát được Lunia khỏi xiềng xích, Aster tự xưng là Aster Evans và đối đầu với lũ quỷ. Cuộc chiến giữa học viên Constel và lũ quỷ bùng nổ, với Aten bị nhắm mục tiêu. Selena sử dụng kỹ thuật Spirit Sealing Needle bí mật để vô hiệu hóa các đòn tấn công của quỷ. Aster tận dụng những tình huống bất ngờ và may mắn để hạ gục đối thủ, khiến Lunia nhận xét về phong cách chiến đấu độc đáo của anh ta. Cuối cùng, Lunia thắc mắc về sự vắng mặt của Elodie.",
+ "boi_canh": "Trong trận chiến giữa học viên Constel và lũ quỷ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Azier",
+  "Lunia",
+  "Aster Evans"
+ ],
+ "su_kien": [
+  "Aster giải thoát Lunia khỏi xiềng xích.",
+  "Aster tự xưng là Aster Evans và đối đầu với lũ quỷ.",
+  "Selena sử dụng kỹ thuật Spirit Sealing Needle để vô hiệu hóa các đòn tấn công của quỷ.",
+  "Aster tận dụng tình huống bất ngờ để hạ gục lũ quỷ.",
+  "Lunia nhận xét về phong cách chiến đấu của Aster."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Lunia",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em gái, quan sát lẫn nhau trong chiến đấu.",
+   "cach_goi": "gọi tên Lunia, không rõ cảm xúc"
+  },
+  {
+   "a": "Lunia",
+   "b": "Aster",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em gái, quan sát lẫn nhau trong chiến đấu.",
+   "cach_goi": "gọi tên Aster, không rõ cảm xúc"
+  },
+  {
+   "a": "Aster",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, hỗ trợ lẫn nhau trong chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, hỗ trợ lẫn nhau trong chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, bảo vệ lẫn nhau trong chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Aten",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, bảo vệ lẫn nhau trong chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Lunia quan sát Aster.",
+   "cach_goi": "gọi tên Aster, không rõ cảm xúc"
+  },
+  {
+   "a": "Aster",
+   "b": "Lunia",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Aster chiến đấu.",
+   "cach_goi": "gọi tên Lunia, không rõ cảm xúc"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)"
+ ],
+ "stats": {
+  "tokens": 948,
+  "seconds": 29.4
+ }
+}

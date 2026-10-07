@@ -1,0 +1,73 @@
+{
+ "number": 785,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi có xung đột với Lady Achaea về việc thu thập thông tin và mối quan hệ của Carla, Frondier đã sử dụng những lời lẽ mạo hiểm để gây áp lực lên bà ta. Ông cũng tiết lộ rằng mình đang cố gắng tạo ra một xã hội nơi con người và quỷ có thể chung sống, dù biết rằng đó là điều vô nghĩa. Sau đó, Frondier tìm thấy Carla trong rừng và bắt đầu nghi ngờ về nguồn gốc sức mạnh của cô ấy, cuối cùng xác định được nó là Sức Mạnh Thần Thánh.",
+ "boi_canh": "Trong phòng làm việc của Lady Achaea, sau một cuộc đối đầu căng thẳng.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Lily",
+  "Pielott",
+  "Edwin",
+  "Carla",
+  "Baal",
+  "Arald",
+  "Athena",
+  "Aias",
+  "Lady Achaea"
+ ],
+ "su_kien": [
+  "Frondier đe dọa Lady Achaea bằng cách nhắc đến Vua Palma và Carla.",
+  "Frondier tuyên bố về sự chung sống giữa con người và quỷ, dù biết đó là điều vô nghĩa.",
+  "Frondier tìm thấy Carla trong rừng và bắt đầu nghi ngờ về nguồn gốc sức mạnh của cô ấy.",
+  "Frondier xác định được sức mạnh của Carla là Sức Mạnh Thần Thánh.",
+  "Frondier ép Carla nhìn thẳng vào mắt mình và sử dụng sức mạnh quỷ để kiểm tra giả thuyết của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Lady Achaea",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier gây áp lực lên Lady Achaea.",
+   "cach_goi": "gọi 'Lady', lạnh lùng"
+  },
+  {
+   "a": "Lady Achaea",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Lo lắng và nghi ngờ Frondier.",
+   "cach_goi": "gọi 'Bạn', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Theo dõi và thẩm vấn Carla, có vẻ như đang cố gắng lợi dụng cô ấy.",
+   "cach_goi": "gọi 'Principal', trịch thượng"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Tránh mặt Frondier, có vẻ sợ hãi ông ta.",
+   "cach_goi": "gọi 'Bạn', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Athena",
+   "loai": "thay_tro",
+   "mo_ta": "Sử dụng sức mạnh của Athena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Vua Palma: Tên Vua của quốc gia mà Frondier đang ở.",
+  "Carla: Có thể là một người có sức mạnh đặc biệt, có lẽ là Sức Mạnh Thần Thánh."
+ ],
+ "stats": {
+  "tokens": 835,
+  "seconds": 25.2
+ }
+}

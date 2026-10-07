@@ -1,0 +1,87 @@
+{
+ "number": 941,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đối mặt với những lời lẽ lạnh lùng của ba nữ thần Moirai, những người tiết lộ rằng mọi hành động của anh ta và thậm chí cả smartwatch đều là một phần của trò chơi mà họ kiểm soát. Họ tố cáo anh ta đã phá vỡ trật tự tự nhiên bằng cách đánh thức loài khổng lồ và gây ra chiến tranh giữa thần và người. Selena bất ngờ tấn công Moirai, sử dụng một mana crystal bí mật để tăng cường sức mạnh và giải thoát bản thân. Cuối cùng, Frondier đâm vào bụng một trong những nữ thần Moirai, nhận ra rằng anh ta đã bị loại khỏi tương lai mà họ nhìn thấy.",
+ "boi_canh": "Trong không gian vô định của các nữ thần Moirai.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Penelope",
+  "Moirai (center)",
+  "Moirai (right)",
+  "Moirai (left)"
+ ],
+ "su_kien": [
+  "Moirai tiết lộ rằng mọi thứ đều là một trò chơi do họ kiểm soát.",
+  "Selena bí mật nuốt mana crystal và tấn công Moirai.",
+  "Selena phá vỡ xiềng xích bằng kỹ thuật châm cứu độc đáo.",
+  "Frondier đâm vào bụng một nữ thần Moirai.",
+  "Frondier nhận ra rằng anh ta đã bị loại khỏi tương lai mà các nữ thần nhìn thấy."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Moirai (center)",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier phản đối lời nói của Moirai.",
+   "cach_goi": "gọi 'You', lạnh lùng"
+  },
+  {
+   "a": "Moirai (center)",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Moiari chỉ trích và thao túng Frondier.",
+   "cach_goi": "gọi tên 'Frondier', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier cảnh báo Selena, không tin tưởng hoàn toàn vào cô.",
+   "cach_goi": "gọi tên 'Selena', lo lắng"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Selena là người bảo vệ, thể hiện sự tôn trọng và bí ẩn.",
+   "cach_goi": "gọi tên 'Lord Frondier', lễ phép"
+  },
+  {
+   "a": "Moirai (right)",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Moiari chỉ trích Frondier.",
+   "cach_goi": "gọi tên 'Frondier', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Moirai (right)",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier phản đối lời nói của Moirai.",
+   "cach_goi": "gọi 'You', lạnh lùng"
+  },
+  {
+   "a": "Moirai (left)",
+   "b": "Selena",
+   "loai": "ke_thu",
+   "mo_ta": "Moiari chất vấn Selena.",
+   "cach_goi": "gọi tên 'Selena', lạnh lùng"
+  },
+  {
+   "a": "Selena",
+   "b": "Moirai (left)",
+   "loai": "ke_thu",
+   "mo_ta": "Selena tấn công Moirai.",
+   "cach_goi": "gọi 'You', lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Mana crystal: Selena đã bí mật nuốt một mana crystal mạnh mẽ để tăng cường sức mạnh của mình."
+ ],
+ "stats": {
+  "tokens": 1028,
+  "seconds": 30.9
+ }
+}

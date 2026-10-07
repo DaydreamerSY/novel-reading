@@ -2,89 +2,107 @@
  "number": 517,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Notker và quân lính của hắn ẩn mình trong rừng, chờ đợi thời cơ tấn công. Họ quan sát lực lượng Manggot chuẩn bị đối phó với cuộc xâm lược của quái vật, đồng thời phát hiện sự xuất hiện của Aster Evans trên tường thành. Notker bày tỏ ý định tiêu diệt Aster, còn Hector, người đứng cạnh Aster, cảm nhận được một khí chất đặc biệt và suy nghĩ về một thanh kiếm huyền thoại.",
- "boi_canh": "Trong rừng gần Manggot, trước thềm cuộc xâm lược của quái vật.",
+ "tom_tat": "Trong cuộc họp chiến lược, Frondier đề xuất triển khai Aster Evans đến Tyburn để đối phó với tình hình phức tạp và thu thập Excalibur. Ông cũng phân loại nhân sự dựa trên khả năng đối phó với quái vật hoặc người, và mạnh trước nhiều kẻ hay ít kẻ. Cuối cùng, Ludovic được giao nhiệm vụ bảo vệ Hoàng cung vì Frondier dự đoán một cuộc tấn công trực diện từ Manggot sử dụng 'Shadow Transfer'.",
+ "boi_canh": "Trong phòng họp chiến lược của Đế chế.",
  "nhan_vat": [
   "Frondier",
+  "Selena",
   "Aster",
-  "Hagley",
-  "Ludwig",
-  "Notker",
+  "Azier",
+  "Enfer",
+  "Osprey",
+  "Ludovic",
   "Aster Evans",
   "Hector",
-  "Ludwig Urfa"
+  "Shadow",
+  "Hector Dutoit",
+  "Dutoit"
  ],
  "su_kien": [
-  "Notker và quân lính của hắn ẩn mình trong rừng, chờ đợi thời cơ tấn công.",
-  "Phát hiện sự xuất hiện của Aster Evans trên tường thành Manggot.",
-  "Notker bày tỏ ý định tiêu diệt Aster Evans.",
-  "Hector nhận ra Aster Evans và cảm nhận được khí chất đặc biệt của cậu.",
-  "Hector suy nghĩ về thanh kiếm huyền thoại trong Rừng Thiêng."
+  "Frondier đề xuất triển khai Aster Evans đến Tyburn.",
+  "Phân loại nhân sự thành hai nhóm: mạnh với quái vật và mạnh với người.",
+  "Phân loại thêm theo khả năng đối phó với nhiều kẻ hay ít kẻ.",
+  "Ludovic được giao nhiệm vụ bảo vệ Hoàng cung.",
+  "Frondier dự đoán Manggot có thể tấn công trực diện Hoàng cung bằng 'Shadow Transfer'."
  ],
  "quan_he": [
   {
-   "a": "Notker",
-   "b": "quân lính (người dưới)",
+   "a": "Frondier",
+   "b": "Aster",
    "loai": "thay_tro",
-   "mo_ta": "Người chỉ huy và người thuộc cấp, quan hệ sư đồ.",
-   "cach_goi": "gọi 'Sir Notker', lễ phép"
-  },
-  {
-   "a": "quân lính (người dưới)",
-   "b": "Notker",
-   "loai": "thay_tro",
-   "mo_ta": "Người thuộc cấp, phục tùng mệnh lệnh của người chỉ huy.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Notker",
-   "b": "Aster Evans",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ tiềm năng, có ý định tiêu diệt.",
-   "cach_goi": "gọi tên Aster, lạnh lùng"
-  },
-  {
-   "a": "Aster Evans",
-   "b": "Notker",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ tiềm năng, bị Notker để mắt tới.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Hector",
-   "b": "Aster Evans",
-   "loai": "ban_be",
-   "mo_ta": "Đồng đội trên tường thành, có vẻ quen biết.",
+   "mo_ta": "Frondier là người chỉ đạo và Aster là người được giao nhiệm vụ.",
    "cach_goi": "gọi tên Aster, thân mật"
   },
   {
-   "a": "Aster Evans",
-   "b": "Hector",
-   "loai": "ban_be",
-   "mo_ta": "Đồng đội trên tường thành, có vẻ quen biết.",
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Aster nhận lệnh từ Frondier.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Ludwig Urfa",
-   "b": "Hector",
+   "a": "Frondier",
+   "b": "Osprey",
    "loai": "cap_tren",
-   "mo_ta": "Người cấp trên cũ, đã truyền đạt thông tin quan trọng.",
+   "mo_ta": "Frondier và Osprey cùng làm việc, Frondier có vẻ cấp trên hơn.",
+   "cach_goi": "gọi 'Osprey', lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Osprey có vẻ cấp trên hơn Frondier.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Hector",
-   "b": "Ludwig Urfa",
-   "loai": "cap_tren",
-   "mo_ta": "Người cấp trên cũ, đã truyền đạt thông tin quan trọng.",
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em ruột thịt.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em ruột thịt.",
    "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha con.",
+   "cach_goi": "gọi tên Enfer, lễ phép"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha con.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Ludovic là một thành viên quan trọng của Đế chế và tuân theo lệnh của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludovic",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier là người ra lệnh cho Ludovic.",
+   "cach_goi": "gọi tên Ludovic, lễ phép"
   }
  ],
  "danh_tinh": [
   "Aster Evans: Tên đầy đủ của Aster.",
-  "Hector Von Urfa: Tên thật của Hector."
+  "Hector Von Urfa: Tên thật của Hector Dutoit."
  ],
  "stats": {
-  "tokens": 938,
-  "seconds": 28.0
+  "tokens": 1095,
+  "seconds": 32.8
  }
 }

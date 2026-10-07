@@ -1,0 +1,61 @@
+{
+ "number": 899,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier lắng nghe lời kể của Sigurd về những sự kiện trong Ragnarok và dần hé lộ những thông tin đáng kinh ngạc. Anh phát hiện ra rằng Olympus đã can thiệp vào cuộc chiến, Loki là người đứng sau kế hoạch đánh bại các vị thần, và anh sở hữu cả Weaving lẫn Menosorpo - hai sức mạnh hiếm có. Sigurd tiết lộ rằng Ragnarok chưa kết thúc và con người đang vô tình chiến đấu với các vị thần.",
+ "boi_canh": "Trong một không gian tối tăm, sau khi Frondier sử dụng Ecleksis để làm sạch nơi này.",
+ "nhan_vat": [
+  "Frondier",
+  "Odin",
+  "Jeanne",
+  "Thor",
+  "Sigurd",
+  "Loki"
+ ],
+ "su_kien": [
+  "Sigurd kể lại những sự kiện của Ragnarok, bao gồm sự can thiệp của Olympus và vai trò của Loki.",
+  "Frondier đặt câu hỏi về sự tham gia của Olympus vào Ragnarok.",
+  "Sigurd tiết lộ rằng nếu không có Olympus, Giants có thể đã chiến thắng.",
+  "Frondier thừa nhận mình sở hữu cả Weaving và Menosorpo.",
+  "Sigurd cảnh báo Frondier rằng Ragnarok chưa kết thúc."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Sigurd",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò lắng nghe và đặt câu hỏi cho người thầy, tìm hiểu về Ragnarok.",
+   "cach_goi": "gọi 'Sir Sigurd', lễ phép"
+  },
+  {
+   "a": "Sigurd",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy hướng dẫn và giải thích cho học trò về những sự kiện lịch sử.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Loki",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Frondier nhắc đến Loki.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sigurd",
+   "b": "Loki",
+   "loai": "doi_thu",
+   "mo_ta": "Sigurd nhắc đến Loki như một đối thủ.",
+   "cach_goi": "gọi tên Loki, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Menosorpo: Một vòng phép thuật mà Frondier sở hữu.",
+  "Weaving: Một kỹ năng đặc biệt mà Frondier sở hữu, liên quan đến workshop và các di vật cổ.",
+  "Workshop: Nơi lưu trữ thông tin về những thứ đã được 'dệt' bằng Weaving, chứa đựng những bí mật về quá khứ."
+ ],
+ "stats": {
+  "tokens": 727,
+  "seconds": 21.9
+ }
+}

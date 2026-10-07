@@ -1,0 +1,80 @@
+{
+ "number": 956,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Baalzebub đánh thức các tượng đá và xác chết trong đền thờ bằng sức mạnh của mình, đối đầu với Baal. Đồng thời, Belphegor đến hiện trường chiến đấu giữa Bốn Hiệp Sĩ và Bảy Tội Lỗi, phơi bày những âm mưu phức tạp liên quan đến Loki và Weaving skill. Cuối cùng, Belphegor tiết lộ rằng Loki đã lợi dụng anh ta trong một giao kèo để đảm bảo việc truyền lại Weaving skill cho tương lai.",
+ "boi_canh": "Trong đền thờ, giữa trận chiến hỗn loạn.",
+ "nhan_vat": [
+  "Frondier",
+  "Baal",
+  "Odin",
+  "Lucifer",
+  "Asmodeus",
+  "Mammon",
+  "Baalzebub",
+  "Belphegor",
+  "Satan",
+  "Loki",
+  "Thanatos",
+  "Moirai"
+ ],
+ "su_kien": [
+  "Baalzebub đánh thức tượng đá và xác chết.",
+  "Baal đối đầu với Baalzebub.",
+  "Belphegor đến hiện trường chiến đấu giữa Bốn Hiệp Sĩ và Bảy Tội Lỗi.",
+  "Belphegor tiết lộ những âm mưu liên quan đến Loki và Weaving skill.",
+  "Belphegor phơi bày giao kèo với Loki."
+ ],
+ "quan_he": [
+  {
+   "a": "Baalzebub",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trong trận chiến.",
+   "cach_goi": "gọi tên Baal, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor là một trong Bảy Tội Lỗi, Satan là cấp trên.",
+   "cach_goi": "gọi tên Satan, thân mật"
+  },
+  {
+   "a": "Satan",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Satan là cấp trên, phán xét hành động của Belphegor.",
+   "cach_goi": "gọi tên Belphegor, lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Loki",
+   "loai": "nguoi_la",
+   "mo_ta": "Đã từng có giao kèo với nhau.",
+   "cach_goi": "gọi tên Loki, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Thanatos",
+   "loai": "ke_thu",
+   "mo_ta": "Liên quan đến giao kèo với Loki.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Loki",
+   "b": "Belphegor",
+   "loai": "chu_to",
+   "mo_ta": "Loki là chủ nhân của giao kèo với Belphegor.",
+   "cach_goi": "gọi tên Belphegor, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Weaving skill: Kỹ năng truyền lại được, liên quan đến Loki và tương lai.",
+  "Giao kèo giữa Belphegor và Loki: Một giao kèo phức tạp với những điều khoản ẩn giấu."
+ ],
+ "stats": {
+  "tokens": 846,
+  "seconds": 25.5
+ }
+}

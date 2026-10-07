@@ -2,101 +2,77 @@
  "number": 569,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi Prometheus rời đi và năng lượng ma thuật trong Manggot tan biến, Frondier đã thức dậy. Aten đang chữa lành cho anh ta. Các học viên Constel đều hướng sự chú ý về phía Frondier. Sau đó, họ nhận ra rằng có một vấn đề khác cần giải quyết tại rào chắn. Cuối cùng, Frondier và những người bạn của mình bị đám đông chào đón với sự phấn khích không thể tin được, mặc dù anh ta không chắc lý do tại sao.",
- "boi_canh": "Trong khu vực Manggot sau trận chiến, thời điểm kết thúc chiến tranh.",
+ "tom_tat": "Sau khi chiến thắng cuộc chiến với Manggot, Frondier chứng kiến hình ảnh của mình được phát trên toàn thành phố thông qua một màn hình hologram lớn. Anh nhận ra đây là một phần trong kế hoạch của Quinie nhằm mục đích tuyên truyền và gây suy sụp tinh thần cho kẻ thù. Trong khi đó, tại cung điện Hoàng gia, cuộc đối thoại căng thẳng giữa Vua Bartello và Notker, đại diện của Manggot, diễn ra với những lời buộc tội về sự bỏ rơi và đau khổ trong quá khứ. Cuối cùng, Frondier nhận ra rằng đây không phải là một trò chơi mà là một thực tại khắc nghiệt, và anh vẫn còn nhiều điều cần khám phá để tìm cách trở về thế giới của mình.",
+ "boi_canh": "Trong cung điện Hoàng gia, sau khi chiến tranh kết thúc.",
  "nhan_vat": [
   "Frondier",
-  "Elodie",
   "Aster",
-  "Aten Terst",
-  "Sybil",
-  "Osprey",
-  "Robald Lieff",
-  "Prometheus",
-  "Robald"
+  "Quinie",
+  "Bartello",
+  "Notker",
+  "Edesion"
  ],
  "su_kien": [
-  "Prometheus rời đi và năng lượng ma thuật trong Manggot tan biến.",
-  "Aten chữa lành cho Frondier.",
-  "Osprey báo cáo về tình hình sau trận chiến, có vẻ lo lắng.",
-  "Frondier quyết định giúp đỡ quân đội tại rào chắn.",
-  "Những người bạn của Frondier tạo ra một màn trình diễn phép thuật để tôn vinh anh ta."
+  "Hình ảnh Frondier được phát trên hologram lớn.",
+  "Cuộc trò chuyện giữa Frondier và Quinie qua Sagephone.",
+  "Belphegor xuất hiện trên màn hình hologram với vẻ tức giận.",
+  "Vua Bartello đối chất với Notker về tội lỗi của Manggot trong quá khứ.",
+  "Frondier nhận ra rằng đây không phải là một trò chơi mà là thực tế."
  ],
  "quan_he": [
   {
    "a": "Frondier",
-   "b": "Aten Terst",
-   "loai": "cap_tren",
-   "mo_ta": "Aten đang chữa lành cho Frondier; mối quan hệ cấp trên - cấp dưới.",
-   "cach_goi": "gọi tên Aten, lễ phép"
-  },
-  {
-   "a": "Frondier",
    "b": "Aster",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè; Frondier đi theo sau Aster.",
-   "cach_goi": "gọi tên Aster, thân mật"
+   "loai": "khac",
+   "mo_ta": "Hình ảnh của Aster xuất hiện trên hologram, không tương tác với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
-   "b": "Osprey",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Trò chuyện qua Sagephone, mối quan hệ bạn bè thân thiết.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
    "loai": "cap_tren",
-   "mo_ta": "Frondier hỏi Osprey về tình hình; mối quan hệ cấp trên - cấp dưới.",
-   "cach_goi": "gọi tên Osprey, lễ phép"
+   "mo_ta": "Frondier không tương tác trực tiếp với Vua Bartello.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Osprey",
-   "b": "Frondier",
+   "a": "Frondier",
+   "b": "Notker",
+   "loai": "doi_thu",
+   "mo_ta": "Không tương tác trực tiếp, đại diện cho kẻ thù đã bị đánh bại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bartello",
+   "b": "Notker",
+   "loai": "doi_thu",
+   "mo_ta": "Đối chất trực tiếp, mối quan hệ đối địch và căng thẳng.",
+   "cach_goi": "gọi 'Shepherd of Manggot', lạnh lùng"
+  },
+  {
+   "a": "Notker",
+   "b": "Bartello",
+   "loai": "doi_thu",
+   "mo_ta": "Đối chất trực tiếp, mối quan hệ đối địch và căng thẳng.",
+   "cach_goi": "gọi 'Emperor', thô lỗ"
+  },
+  {
+   "a": "Bartello",
+   "b": "Edesion",
    "loai": "cap_tren",
-   "mo_ta": "Osprey báo cáo cho Frondier; mối quan hệ cấp trên - cấp dưới.",
-   "cach_goi": "gọi tên Frondier, lễ phép"
-  },
-  {
-   "a": "Frondier",
-   "b": "Elodie",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè; Elodie đi cùng Frondier.",
-   "cach_goi": "gọi tên Elodie, thân mật"
-  },
-  {
-   "a": "Elodie",
-   "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè; Elodie đi cùng Frondier.",
-   "cach_goi": "gọi tên Frondier, thân mật"
-  },
-  {
-   "a": "Frondier",
-   "b": "Sybil",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè; Sybil đi cùng Frondier.",
-   "cach_goi": "gọi tên Sybil, thân mật"
-  },
-  {
-   "a": "Sybil",
-   "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè; Sybil đi cùng Frondier.",
-   "cach_goi": "gọi tên Frondier, thân mật"
-  },
-  {
-   "a": "Frondier",
-   "b": "Robald Lieff",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè; Robald trêu chọc Frondier.",
-   "cach_goi": "gọi tên Robald, thân mật"
-  },
-  {
-   "a": "Robald Lieff",
-   "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Bạn bè; Robald trêu chọc Frondier.",
-   "cach_goi": "gọi tên Frondier, thân mật"
+   "mo_ta": "Đề cập đến người tiền nhiệm, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [],
  "stats": {
-  "tokens": 1106,
-  "seconds": 34.6
+  "tokens": 895,
+  "seconds": 28.1
  }
 }

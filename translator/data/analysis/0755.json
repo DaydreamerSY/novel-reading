@@ -1,0 +1,91 @@
+{
+ "number": 755,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với việc Frondier gặp lại Pielott trên tàu và chứng kiến cậu ta trốn sang lén đi cùng. Sau đó, Pielott bày tỏ mong muốn được theo Frondier để tu luyện, nhưng bị từ chối thẳng thừng. Cuối chương, khi tàu đối mặt với quái vật biển khổng lồ, Frondier đã sử dụng một đòn tấn công mạnh mẽ để tiêu diệt chúng.",
+ "boi_canh": "Trên một con tàu đang đi biển, giữa lúc gặp phải thời tiết khắc nghiệt.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Azier",
+  "Pielott",
+  "Dier",
+  "Arald",
+  "Ortel"
+ ],
+ "su_kien": [
+  "Pielott lén lên tàu để theo Frondier.",
+  "Frondier từ chối yêu cầu đi cùng của Pielott.",
+  "Elodie sử dụng phép thuật để giúp Pielott chống lại bệnh say sóng.",
+  "Quái vật biển tấn công con tàu.",
+  "Frondier tiêu diệt một quái vật biển khổng lồ bằng đòn tấn công đặc biệt."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học trò cũ, Frondier từ chối yêu cầu của Pielott.",
+   "cach_goi": "gọi tên Pielott, lạnh lùng"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò muốn được theo Frondier, bày tỏ sự tôn trọng.",
+   "cach_goi": "gọi 'Senior', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Frondier nhờ Elodie giúp đỡ Pielott.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Elodie hỗ trợ và góp ý với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, chỉ đứng gần Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đ cấp trên của Frondier, được Frondier ra lệnh.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Pielott đã thông báo cho Dier về việc mình rời đi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Elodie ủng hộ Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pielott: đang lén đi cùng Frondier trái phép.",
+  "Dier: đã biết ý định của Pielott và từ chối giúp đỡ."
+ ],
+ "stats": {
+  "tokens": 991,
+  "seconds": 30.2
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "number": 619,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mô tả tình hình sau chiến tranh của Đế chế, tập trung vào hai nhiệm vụ chính: tái thiết và mở rộng lãnh thổ sang Manggot. Sự bất đồng giữa hai đơn vị kỵ sĩ Roach Knight Order và Shroud Knight Order ngày càng gia tăng do sự khác biệt trong cách tiếp cận nhiệm vụ và những lời đồn đại về sự suy giảm của Shroud Knight Order. Sanders, chỉ huy của Shroud Knight Order, đã tức giận rời khỏi cuộc họp vì không đồng tình với lệnh chờ đợi kéo dài mà không có thêm quân tiếp viện.",
+ "boi_canh": "Trong phòng họp, thảo luận về việc mở rộng lãnh thổ sang Manggot.",
+ "nhan_vat": [
+  "Frondier",
+  "Enfer",
+  "Sylvain",
+  "Sanders"
+ ],
+ "su_kien": [
+  "Đế chế đang tái thiết sau chiến tranh và mở rộng lãnh thổ sang Manggot.",
+  "Hai đơn vị kỵ sĩ Roach Knight Order và Shroud Knight Order đang cùng nhau hoạt động.",
+  "Có sự bất đồng giữa hai đơn vị kỵ sĩ về cách tiếp cận nhiệm vụ.",
+  "Sanders phàn nàn về việc thiếu quân tiếp viện và nguy cơ cho các kỵ sĩ.",
+  "Sanders rời khỏi phòng họp vì tức giận."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Người thân, không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sylvain",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sanders",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Sanders",
+   "loai": "cap_tren",
+   "mo_ta": "Chỉ huy Roach Knight Order, cấp trên của Sanders, có sự bất đồng.",
+   "cach_goi": "gọi tên Sanders, lễ phép"
+  },
+  {
+   "a": "Sanders",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Chỉ huy Shroud Knight Order, cấp dưới của Sylvain, có sự bất đồng.",
+   "cach_goi": "gọi tên Sylvain, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Lord Enfer: Người lãnh đạo Roach Knight Order."
+ ],
+ "stats": {
+  "tokens": 703,
+  "seconds": 21.8
+ }
+}

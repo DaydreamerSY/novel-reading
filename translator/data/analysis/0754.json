@@ -1,0 +1,91 @@
+{
+ "number": 754,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi mọi người lên tàu, Quinie bày tỏ sự hối lỗi vì đã công khai đoạn phim WizerView của Frondier, dẫn đến những biến cố sau đó. Frondier trấn an cô và khẳng định hành động của cô đã giúp kết thúc chiến tranh nhanh hơn. Sau đó, một cơn bão lớn ập đến, nhưng nhờ có la bàn ma thuật và thiết kế đặc biệt của tàu mà mọi thứ vẫn ổn định. Cuối cùng, một người lạ mặt được phát hiện trên tàu - hóa ra là Pielott von Ribanche.",
+ "boi_canh": "Trên tàu hướng về vùng đất Agoris, giữa cơn bão lớn.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Quinie",
+  "Lily",
+  "Pielott",
+  "Mei",
+  "Arald",
+  "Odin",
+  "Pielott von Ribanche"
+ ],
+ "su_kien": [
+  "Quinie bày tỏ hối lỗi vì đã công khai đoạn phim WizerView.",
+  "Một cơn bão lớn ập đến khi tàu bắt đầu hành trình.",
+  "Arald sử dụng la bàn ma thuật để giữ hướng đi của tàu.",
+  "Tàu được tiết lộ là có thiết kế đặc biệt, không thể lật úp.",
+  "Pielott von Ribanche bị phát hiện là người lạ mặt trên tàu."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Quinie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân thiết, Frondier trấn an và động viên Quinie.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Quinie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bày tỏ sự hối lỗi và tìm kiếm sự trấn an từ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "nguoi_la",
+   "mo_ta": "Hỏi về khả năng điều khiển tàu của Arald.",
+   "cach_goi": "gọi tên Arald, lễ phép"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Trả lời câu hỏi của Frondier và tự hào về khả năng của mình.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott von Ribanche",
+   "loai": "ke_thu",
+   "mo_ta": "Bất ngờ phát hiện Pielott là người lạ mặt trên tàu, tỏ ra nghi ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott von Ribanche",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Cúi đầu trước mặt Frondier, van xin tha thứ.",
+   "cach_goi": "gọi tên Frondier, khẩn cầu"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Elodie cùng mọi người tham gia gọi Frondier là 'Captain'.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Cùng mọi người gọi Frondier là 'Captain'.",
+   "cach_goi": "gọi tên Captain, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier được mọi người trên tàu gọi là 'Captain'."
+ ],
+ "stats": {
+  "tokens": 1010,
+  "seconds": 31.8
+ }
+}

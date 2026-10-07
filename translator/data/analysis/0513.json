@@ -2,113 +2,79 @@
  "number": 513,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Belphegor và Hagley quan sát biển từ vách đá Manggot, thảo luận về kế hoạch tấn công Đế Chế bằng một trận thủy triều lửa. Belphegor bày tỏ lo ngại về Frondier, người mà ông coi là một biến số không thể đoán trước. Trong khi đó, tại phòng họp Hoàng cung, một cuộc họp khẩn cấp với sự tham gia của nhiều nhân vật quan trọng diễn ra dưới sự chủ trì của Belphegor thay vì Osprey.",
- "boi_canh": "Trên vách đá Manggot, lúc hoàng hôn.",
+ "tom_tat": "Trong chương này, Frondier trình bày bản đồ ba chiều về Đế quốc cho các lãnh đạo quyền lực nhất, tiết lộ vị trí của người Manggot và giải thích lý do họ sắp tấn công. Ông cũng chỉ ra rằng người Manggot yếu hơn Đế quốc, nhưng vẫn cảnh báo về những khó khăn phía trước. Osprey xác nhận việc nhìn thấy người Manggot từ bên ngoài thế giới, và Frondier đổ lỗi cho hành động của Osprey là nguyên nhân khiến người Manggot lộ vị trí.",
+ "boi_canh": "Trong phòng họp của Đế quốc, các lãnh đạo quyền lực nhất đang tham dự một cuộc họp quan trọng.",
  "nhan_vat": [
-  "Belphegor",
-  "Hagley",
   "Frondier",
+  "Philly",
+  "Renzo",
   "Osprey",
-  "Ellen",
-  "Hagley",
-  "Frondier de Roach",
-  "Ellen Evans",
-  "Emperor",
-  "Empress",
-  "Princess",
-  "Zodiac members",
-  "Roach family members",
-  "Rishae family members",
-  "Constel Institute instructors",
-  "Ellen Evans",
-  "Imperial Knights representatives",
-  "Shroud Knights representatives"
+  "Ludwig",
+  "Sanders"
  ],
  "su_kien": [
-  "Belphegor và Hagley quan sát biển từ vách đá Manggot.",
-  "Belphegor bày tỏ lo ngại về sự không thể đoán trước của Frondier.",
-  "Belphegor tiết lộ kế hoạch tấn công Đế Chế bằng một trận thủy triều lửa.",
-  "Một cuộc họp khẩn cấp diễn ra tại phòng họp Hoàng cung với sự chủ trì của Belphegor.",
-  "Belphegor thay thế Osprey trong vai trò chủ trì cuộc họp."
+  "Frondier trình bày bản đồ ba chiều về Đế quốc.",
+  "Osprey xác nhận đã nhìn thấy người Manggot từ bên ngoài thế giới.",
+  "Frondier tiết lộ vị trí của người Manggot.",
+  "Frondier chỉ ra rằng người Manggot yếu hơn Đế quốc.",
+  "Frondier giải thích lý do người Manggot vẫn quyết định tấn công."
  ],
  "quan_he": [
   {
-   "a": "Belphegor",
-   "b": "Hagley",
+   "a": "Frondier",
+   "b": "Philly",
    "loai": "cap_tren",
-   "mo_ta": "Belphegor là cấp trên của Hagley, đang thảo luận chiến lược.",
-   "cach_goi": "gọi tên Hagley, không rõ ràng"
+   "mo_ta": "Frondier trình bày thông tin cho Hoàng hậu, thể hiện sự tôn trọng.",
+   "cach_goi": "gọi tên Philly, lễ phép"
   },
   {
-   "a": "Hagley",
-   "b": "Belphegor",
-   "loai": "thay_tro",
-   "mo_ta": "Hagley là thuộc hạ của Belphegor, lắng nghe và phản hồi.",
-   "cach_goi": "gọi tên Belphegor-nim, lễ phép"
-  },
-  {
-   "a": "Belphegor",
+   "a": "Philly",
    "b": "Frondier",
-   "loai": "doi_thu",
-   "mo_ta": "Belphegor lo ngại về Frondier, xem anh như một yếu tố bất ngờ.",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu xác nhận thông tin của Frondier.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Hagley",
-   "b": "Frondier",
-   "loai": "doi_thu",
-   "mo_ta": "Hagley quan tâm đến Frondier theo chỉ đạo của Belphegor.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Belphegor",
+   "a": "Frondier",
    "b": "Osprey",
-   "loai": "doi_thu",
-   "mo_ta": "Belphegor xem Osprey là đối thủ tiềm năng.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Emperor",
-   "b": "Belphegor",
-   "loai": "cap_tren",
-   "mo_ta": "Emperor đã ra lệnh cho Belphegor chủ trì cuộc họp.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Empress",
-   "b": "Belphegor",
    "loai": "dong_minh",
-   "mo_ta": "Empress tham gia cuộc họp do Belphegor chủ trì.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Princess",
-   "b": "Belphegor",
-   "loai": "dong_minh",
-   "mo_ta": "Princess tham gia cuộc họp do Belphegor chủ trì.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "mo_ta": "Frondier giới thiệu Osprey lên sân khấu.",
+   "cach_goi": "gọi tên Osprey, thân mật"
   },
   {
    "a": "Osprey",
-   "b": "Belphegor",
-   "loai": "doi_thu",
-   "mo_ta": "Osprey là một thành viên quan trọng của Zodiac và có thể là đối thủ của Belphegor.",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Osprey trêu chọc Frondier.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Ellen Evans",
-   "b": "Belphegor",
-   "loai": "nguoi_la",
-   "mo_ta": "Ellen Evans đại diện cho học sinh tại cuộc họp.",
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp, Ludwig bày tỏ sự thất vọng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sanders",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp, Sanders có vẻ lo lắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp, Renzo đang ở một địa điểm được đề cập.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Frondier de Roach (tên đầy đủ của Frondier)",
-  "Ellen Evans (tên đầy đủ của Ellen)"
+  "Hitchcock (công ty chế tạo ma thuật)"
  ],
  "stats": {
-  "tokens": 1201,
-  "seconds": 35.7
+  "tokens": 852,
+  "seconds": 25.3
  }
 }

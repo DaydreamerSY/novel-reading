@@ -1,0 +1,87 @@
+{
+ "number": 644,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi kết thúc cuộc gọi, Frondier thông báo với Philly rằng Aten hiện đang an toàn. Tin tức này khiến Philly và Elysia tỏ ra nhẹ nhõm. Tuy nhiên, Frondier nghi ngờ về sự chân thành của Elysia vì quá khứ giả tạo của Selena. Sau đó, anh biết Lunia đã bị bắt cóc và tiết lộ cô là người quan trọng đối với Aster Evans, khiến mọi người căng thẳng. Cuối cùng, Frondier đến biệt thự của một quý tộc để gặp gỡ những con quỷ mà Bart triệu tập, nơi Elysia tỏ ra lo lắng và bất mãn vì phải tuân theo anh.",
+ "boi_canh": "Bên trong Cung điện Hoàng gia, sau khi nhận được tin tức về Aten.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aster",
+  "Philly Terst",
+  "Aten Terst",
+  "Elysia",
+  "Lunia",
+  "Arald",
+  "Frondier de Roach",
+  "Aster Evans",
+  "Bart",
+  "Mother"
+ ],
+ "su_kien": [
+  "Frondier thông báo Aten an toàn.",
+  "Lunia bị bắt cóc.",
+  "Frondier tiết lộ Lunia quan trọng với Aster Evans.",
+  "Frondier và Elysia đến biệt thự của một quý tộc.",
+  "Những con quỷ đã tập trung tại biệt thự."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "người báo tin cho cấp trên, tôn trọng",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "cấp trên lắng nghe báo cáo từ cấp dưới",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "anh ta ra lệnh cho cô, cô không thích điều đó",
+   "cach_goi": "gọi tên Elysia, lạnh lùng"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "cô ta phàn nàn về cách anh ta đối xử với cô",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "anh ta nhắc đến người bạn của Aster.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bart",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "người triệu tập quỷ và đối đầu với Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bart",
+   "loai": "doi_thu",
+   "mo_ta": "anh ta đối mặt với người triệu tập quỷ.",
+   "cach_goi": "gọi tên Bart, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)",
+  "Aster Evans (tên đầy đủ của Aster)"
+ ],
+ "stats": {
+  "tokens": 933,
+  "seconds": 27.8
+ }
+}

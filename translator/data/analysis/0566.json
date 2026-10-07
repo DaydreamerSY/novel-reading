@@ -2,81 +2,72 @@
  "number": 566,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Frondier bị Belphegor tấn công và gần như thất bại. Tuy nhiên, anh ta đã sử dụng Helheim mana và aura của mình để chống lại ngọn lửa ma quỷ, sau đó bất ngờ tạo ra Mjölnir bằng cách nào đó, khiến Belphegor kinh ngạc. Trong khi đó, Quinie de Viet đang thực hiện một kế hoạch bí mật liên quan đến Malia, phát sóng hình ảnh Frondier lên màn hình hologram trên toàn đế chế để tuyên bố kết thúc chiến tranh.",
- "boi_canh": "Một trận chiến ác liệt diễn ra giữa Frondier và Belphegor gần khu vực hoàng cung.",
+ "tom_tat": "Trong chương này, Frondier và Belphegor đối đầu trong một trận chiến quyết định. Các hiệp sĩ Roach chứng kiến trận đấu thông qua tầm nhìn của pháp sư theo kế hoạch của Quinie. Sau khi đánh bại Belphegor, Frondier phát hiện ra sự xuất hiện bất ngờ của Mjölnir từ Cung điện Hoàng gia và khám phá thêm về nguồn gốc của nó. Sự sụp đổ của quân đoàn xác chết và những lời tiết lộ cuối cùng của Belphegor về hệ thống quyền lực trong giới Quỷ dữ đã hé lộ nhiều bí mật.",
+ "boi_canh": "Một trận chiến diễn ra tại một địa điểm không rõ, có lẽ là trên chiến trường giữa các phe phái đối địch.",
  "nhan_vat": [
   "Frondier",
-  "Quinie de Viet",
-  "Malia",
+  "Quinie",
+  "Sylvain",
+  "Thor",
   "Belphegor",
-  "Enfer",
-  "Frondier de Roach",
-  "Quinie"
+  "Roach Knights"
  ],
  "su_kien": [
-  "Frondier bị ngọn lửa ma quỷ tấn công và mất phương hướng.",
-  "Belphegor định giết Frondier nhưng thay đổi ý định.",
-  "Frondier tạo ra Mjölnir một cách bất ngờ, khiến Belphegor kinh ngạc.",
-  "Quinie phát sóng hình ảnh của Frondier lên màn hình hologram trên toàn đế chế.",
-  "Mjölnir tấn công Belphegor và đẩy hắn ta xuống đất."
+  "Frondier và Belphegor giao chiến.",
+  "Các hiệp sĩ Roach chứng kiến trận đấu thông qua tầm nhìn của pháp sư.",
+  "Belphegor bị Frondier đánh bại và rơi xuống đất, tạo ra một hố lớn.",
+  "Sự xuất hiện bất ngờ của Mjölnir từ Cung điện Hoàng gia.",
+  "Quân đoàn xác chết bắt đầu tan rã sau khi Belphegor ngã xuống."
  ],
  "quan_he": [
   {
    "a": "Frondier",
    "b": "Belphegor",
-   "loai": "ke_thu",
-   "mo_ta": "Đối thủ đang chiến đấu với nhau, Belphegor có ý định giết Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Belphegor, lạnh lùng"
   },
   {
    "a": "Belphegor",
    "b": "Frondier",
-   "loai": "ke_thu",
-   "mo_ta": "Đối thủ đang chiến đấu với nhau, Belphegor có ý định giết Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
   },
   {
    "a": "Frondier",
-   "b": "Quinie de Viet",
+   "b": "Quinie",
    "loai": "nguoi_la",
-   "mo_ta": "Không có tương tác trực tiếp, nhưng Quinie đang lên kế hoạch liên quan đến Frondier.",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
    "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Quinie de Viet",
-   "b": "Malia",
-   "loai": "gia_dinh",
-   "mo_ta": "Đang liên lạc để nhận tín hiệu cho kế hoạch của mình.",
-   "cach_goi": "gọi tên Malia, thân mật"
-  },
-  {
-   "a": "Malia",
-   "b": "Quinie de Viet",
-   "loai": "gia_dinh",
-   "mo_ta": "Đang trả lời cuộc gọi của Quinie.",
-   "cach_goi": "gọi tên Quinie, thân mật"
   },
   {
    "a": "Frondier",
-   "b": "Obsidian",
-   "loai": "khac",
-   "mo_ta": "Sử dụng Obsidian để truyền tải năng lượng.",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Belphegor",
-   "b": "Frondier de Roach",
-   "loai": "ke_thu",
-   "mo_ta": "Đang tức giận và phán xét Frondier.",
+   "a": "Frondier",
+   "b": "Thor",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Roach Knights",
+   "b": "Sylvain",
+   "loai": "cap_tren",
+   "mo_ta": "Các hiệp sĩ Roach phục tùng Sylvain.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Frondier de Roach (tên đầy đủ của Frondier)",
-  "Quinie de Viet (tên đầy đủ của Quinie)"
+  "Mjölnir: Được Frondier cảm nhận và sử dụng, có vẻ như nó đến từ Cung điện Hoàng gia. Có khả năng liên quan đến Thor."
  ],
  "stats": {
-  "tokens": 925,
-  "seconds": 28.9
+  "tokens": 812,
+  "seconds": 25.4
  }
 }

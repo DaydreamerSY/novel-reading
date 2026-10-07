@@ -1,0 +1,75 @@
+{
+ "number": 805,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cuộc trò chuyện giữa Dier và Frondier về ý nghĩa của sự tốt bụng, cách mọi người nhìn nhận họ và những khó khăn mà Dier phải đối mặt vì danh tiếng 'tốt bụng' của mình. Dier cũng bày tỏ lo ngại về việc Baal có thể liên quan đến một cuộc chiến với các vị thần, khiến Marco nghi ngờ và bắt đầu thẩm vấn Dier.",
+ "boi_canh": "Trong phòng luyện tập tại Constel, vào một buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Dier",
+  "Baal",
+  "Marco",
+  "King of Hell",
+  "Dier Aiger"
+ ],
+ "su_kien": [
+  "Dier nhắc lại lời Elodie từng nói về sự tốt bụng của anh.",
+  "Frondier và Dier thảo luận về ý nghĩa của từ 'tốt bụng' và cách nó ảnh hưởng đến nhận thức của người khác.",
+  "Dier bày tỏ mong muốn có được hình ảnh tương tự như Frondier, một kẻ điên rồ.",
+  "Dier đặt câu hỏi cho Marco về Baal và những động cơ của hắn.",
+  "Marco nghi ngờ Dier đang che giấu thông tin và cố gắng thẩm vấn anh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học trò, Frondier quan tâm đến Dier nhưng cũng có chút khó chịu trước sự tò mò của anh.",
+   "cach_goi": "gọi tên 'Senior', lễ phép"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò tò mò và muốn hiểu rõ hơn về Frondier.",
+   "cach_goi": "gọi tên 'Senior', thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Marco",
+   "loai": "nguoi_la",
+   "mo_ta": "Marco nghi ngờ Dier và đang thẩm vấn anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Dier",
+   "loai": "nguoi_la",
+   "mo_ta": "Marco đang thẩm vấn Dier, nghi ngờ anh che giấu thông tin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học trò, Frondier quan tâm đến Dier nhưng cũng có chút khó chịu trước sự tò mò của anh.",
+   "cach_goi": "gọi tên 'Senior', lễ phép"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò tò mò và muốn hiểu rõ hơn về Frondier.",
+   "cach_goi": "gọi tên 'Senior', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính nhân vật."
+ ],
+ "stats": {
+  "tokens": 827,
+  "seconds": 24.9
+ }
+}

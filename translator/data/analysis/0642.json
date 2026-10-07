@@ -1,0 +1,109 @@
+{
+ "number": 642,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chia thành hai đội tìm kiếm, Dier và Pielott phát hiện Edwin đã tự trang bị rune để chiến đấu với quỷ dữ. Họ cũng nhận ra rằng kế hoạch của quỷ dữ có thể không chính xác như dự đoán ban đầu. Sau đó, họ cùng Elodie tập hợp mọi người liên quan đến Frondier tại phòng hòa nhạc, lo ngại về những gì sắp xảy đến.",
+ "boi_canh": "Trong một khu vực đang bị tấn công bởi quỷ dữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Pielott",
+  "Ellen",
+  "Dier",
+  "Edwin",
+  "Daud",
+  "Ellen Evans",
+  "Edwin von Behetorio",
+  "Daud Forte"
+ ],
+ "su_kien": [
+  "Hai đội tìm kiếm được thành lập: Dier và Pielott, Elodie.",
+  "Edwin đã tự trang bị rune lên người để chiến đấu với quỷ dữ.",
+  "Dier nhận ra kế hoạch của quỷ dữ có thể không chính xác như dự đoán ban đầu.",
+  "Mọi người liên quan đến Frondier được tập hợp tại phòng hòa nhạc.",
+  "Ellen phải đối mặt và đánh bại một con quỷ mạnh nhờ kỹ năng kiếm tuyệt vời."
+ ],
+ "quan_he": [
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tìm kiếm và lo lắng về tình hình.",
+   "cach_goi": "gọi tên Pielott, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tìm kiếm và lo lắng về tình hình.",
+   "cach_goi": "gọi tên Dier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tìm kiếm và lo lắng về tình hình.",
+   "cach_goi": "gọi tên Dier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, cùng tìm kiếm và lo lắng về tình hình.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Dier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được Dier tìm kiếm, có vẻ ngoài thân thiện và thông minh.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được Dier tìm kiếm, có vẻ ngoài thân thiện và thông minh.",
+   "cach_goi": "gọi tên Edwin, lễ phép"
+  },
+  {
+   "a": "Pielott",
+   "b": "Edwin",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được Dier tìm kiếm, có vẻ ngoài thân thiện và thông minh.",
+   "cach_goi": "gọi tên Edwin, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Edwin",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Người được Dier tìm kiếm, có vẻ ngoài thân thiện và thông minh.",
+   "cach_goi": "gọi tên Pielott, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Chị gái của Aster và bạn của Frondier.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Chị gái của Aster và bạn của Frondier.",
+   "cach_goi": "gọi tên Ellen, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ellen Evans (Ellen)",
+  "Edwin von Behetorio (Edwin)",
+  "Daud Forte (Daud)"
+ ],
+ "stats": {
+  "tokens": 1149,
+  "seconds": 35.0
+ }
+}

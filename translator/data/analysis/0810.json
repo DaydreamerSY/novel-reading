@@ -1,0 +1,78 @@
+{
+ "number": 810,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu bằng tiếng chuông cửa báo hiệu sự trở lại của Elodie. Cô ấy lo lắng về việc Frondier có thể đã bị cuốn vào rắc rối với Heracles, nhưng anh trấn an cô rằng mọi chuyện không như vậy. Sau đó, họ thảo luận về cuộc gặp gỡ giữa Frondier và Heracles, trong đó Heracles mô tả sức mạnh của Frondier bằng phép so sánh",
+ "boi_canh": "Một buổi chiều tại nhà của Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Sybil",
+  "Dier",
+  "Marco",
+  "Mei",
+  "Esther",
+  "Father",
+  "Heracles",
+  "Sybil Forte"
+ ],
+ "su_kien": [
+  "Tiếng chuông cửa báo hiệu sự xuất hiện của Elodie.",
+  "Frondier và Elodie trao đổi về cuộc gặp gỡ với Heracles.",
+  "Elodie nhận ra sức mạnh mana của Frondier đã bị giảm đi một nửa.",
+  "Marco bày tỏ sự nghi ngờ về tính cách tốt đẹp của Dier.",
+  "Sybil Forte rời khỏi nhà để thực hiện nhiệm vụ bí mật."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan tâm lẫn nhau.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan tâm lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Marco",
+   "b": "Esther",
+   "loai": "cap_tren",
+   "mo_ta": "Đôi bên có mối quan hệ công việc, Marco tỏ ra bất mãn.",
+   "cach_goi": "gọi 'Warden', lễ phép"
+  },
+  {
+   "a": "Esther",
+   "b": "Marco",
+   "loai": "cap_tren",
+   "mo_ta": "Đôi bên có mối quan hệ công việc, Esther là người quản lý.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Father",
+   "b": "Sybil Forte",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con gái, mối quan hệ có vẻ căng thẳng.",
+   "cach_goi": "gọi tên Sybil Forte, trang trọng"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Father",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con gái, mối quan hệ có vẻ căng thẳng.",
+   "cach_goi": "gọi 'Father', trang trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Sybil Forte là tên đầy đủ của Sybil."
+ ],
+ "stats": {
+  "tokens": 783,
+  "seconds": 23.6
+ }
+}

@@ -2,73 +2,71 @@
  "number": 534,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Frondier chứng kiến cuộc chiến giữa Cohen và Medart de Thebes tại một rào cản. Cohen, chỉ huy của Manggot, đánh giá cao sự mạnh mẽ của Medart nhưng cũng nhận thấy dấu hiệu tuổi tác trên cơ thể ông. Sau khi chiến đấu với Medart, Cohen chuyển sang đối đầu với Sybil Forte, người đã hỗ trợ Medart trong trận chiến. Cuộc đối đầu giữa Cohen và Sybil diễn ra đầy bất ngờ, với những lời lẽ trêu chọc và tấn công liên tục từ Cohen, nhưng Sybil luôn né tránh một cách kỳ lạ. Cuối cùng, Sybil tiết lộ suy nghĩ sâu kín của mình về việc chạy trốn để tự bảo toàn, khiến Cohen nhận ra sự nguy hiểm tiềm ẩn của cô.",
- "boi_canh": "Một rào cản chiến đấu, thời điểm hiện tại.",
+ "tom_tat": "Trong chương này, Cohen và quân Manggot bao vây Sybil, thể hiện sự nghi ngờ và thù địch đối với cô. Một cuộc chiến nổ ra, trong đó Sybil thể hiện khả năng đặc biệt khiến vũ khí của kẻ thù đau đớn khi chạm vào. Frondier đang kiểm tra cấu trúc rào cản, Sybil đề nghị được triển khai đến đó, nhưng Frondier tỏ ra do dự và lo lắng cho sự an toàn của cô.",
+ "boi_canh": "Một chiến trường căng thẳng giữa quân Manggot và Sybil.",
  "nhan_vat": [
   "Frondier",
+  "Elodie",
+  "Aster",
   "Sybil",
-  "Hagley",
-  "Cohen",
-  "Medart",
-  "Sybil Forte",
-  "Belphegor"
+  "Cohen"
  ],
  "su_kien": [
-  "Medart de Thebes sụp đổ trên rào cản.",
-  "Cohen đánh giá cao sự mạnh mẽ của Medart nhưng nhận thấy dấu hiệu tuổi tác.",
-  "Cohen và Sybil đối đầu sau trận chiến với Medart.",
-  "Sybil né tránh các đòn tấn công của Cohen một cách kỳ lạ.",
-  "Sybil tiết lộ suy nghĩ về việc chạy trốn để tự bảo toàn."
+  "Cohen và quân Manggot bao vây Sybil.",
+  "Quân Manggot tấn công Sybil, nhưng bị cô chặn lại bằng thanh kiếm.",
+  "Những người lính Manggot cảm thấy đau đớn khi chạm vào thanh kiếm của Sybil.",
+  "Cohen sử dụng aura để tăng cường sức mạnh cho thanh kiếm của mình.",
+  "Sybil đề nghị được triển khai đến rào cản, nhưng Frondier tỏ ra do dự."
  ],
  "quan_he": [
   {
    "a": "Cohen",
-   "b": "Medart",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ trên chiến trường, Cohen ngưỡng mộ sức mạnh của Medart.",
-   "cach_goi": "gọi tên Medart, lễ phép"
-  },
-  {
-   "a": "Medart",
-   "b": "Cohen",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ trên chiến trường, Medart bị Cohen tấn công.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Cohen",
    "b": "Sybil",
-   "loai": "nguoi_la",
-   "mo_ta": "Đối thủ trên chiến trường, Cohen nghi ngờ và chế giễu Sybil.",
-   "cach_goi": "gọi tên Sybil, trịch thượng"
+   "loai": "doi_thu",
+   "mo_ta": "Cohen căm ghét và muốn giết Sybil.",
+   "cach_goi": "gọi 'bitch', thô lỗ"
   },
   {
    "a": "Sybil",
    "b": "Cohen",
    "loai": "doi_thu",
-   "mo_ta": "Đối thủ trên chiến trường, Sybil né tránh các đòn tấn công của Cohen.",
+   "mo_ta": "Sybil đối đầu với Cohen trong chiến đấu.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Sybil Forte",
-   "b": "Cohen",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ trên chiến trường, Sybil bị Cohen chế giễu.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Frondier là bạn của Sybil và có vẻ lo lắng cho cô.",
+   "cach_goi": "gọi tên Sybil, không rõ tone"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Sybil đề nghị Frondier triển khai cô đến rào cản.",
+   "cach_goi": "gọi tên Frondier, không rõ tone"
   },
   {
    "a": "Cohen",
-   "b": "Sybil Forte",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ trên chiến trường, Cohen coi Sybil là mối đe dọa lớn nhất.",
-   "cach_goi": "gọi tên Sybil Forte, trịch thượng"
+   "b": "quân Manggot",
+   "loai": "cap_tren",
+   "mo_ta": "Cohen là chỉ huy của quân Manggot.",
+   "cach_goi": "gọi 'những người lính', trịch thượng"
+  },
+  {
+   "a": "quân Manggot",
+   "b": "Cohen",
+   "loai": "cap_tren",
+   "mo_ta": "Quân Manggot tuân theo mệnh lệnh của Cohen.",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Sybil Forte là tên đầy đủ của Sybil."
+  "Sybil được đồn đại là 'người con gái được số phận yêu thương'."
  ],
  "stats": {
-  "tokens": 828,
-  "seconds": 26.2
+  "tokens": 776,
+  "seconds": 23.9
  }
 }

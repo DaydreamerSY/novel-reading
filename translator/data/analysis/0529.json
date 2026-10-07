@@ -2,64 +2,81 @@
  "number": 529,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Chương này mô tả một cuộc tấn công bất ngờ của lũ Minotaur vào căn cứ phòng thủ. Các phép thuật và bẫy đều vô ích trước sức mạnh áp đảo của chúng. Frondier, hay còn gọi là Aster Evans, xuất hiện để đối phó với tình hình nguy cấp, nhưng hành động của anh ta lại khiến mọi người lo lắng về việc liệu anh ta có sử dụng sức mạnh thần thánh của Baldur hay không.",
- "boi_canh": "Một trận chiến ác liệt diễn ra tại một căn cứ phòng thủ đang bị lũ Minotaur tấn công.",
+ "tom_tat": "Trong chương này, cuộc thảo luận về thiết bị an ninh cho học sinh Constel diễn ra giữa Edwin và Ellen, xoay quanh lo ngại về các cuộc tấn công bất ngờ của Manggot. Aster đưa ra phân tích về khả năng sử dụng dịch chuyển bóng tối của kẻ thù, làm giảm bớt sự lo lắng của mọi người. Cuộc trò chuyện sau đó chuyển sang những nghi ngờ của Edwin về Hephaestus và ảnh hưởng của hắn lên Edwin, khiến Aster bộc lộ nỗi sợ hãi sâu kín. Frondier quan sát Aster và nhận ra một điều quan trọng liên quan đến việc bố trí rào chắn.",
+ "boi_canh": "Phòng học, vài ngày trước.",
  "nhan_vat": [
+  "Frondier",
+  "Elodie",
   "Aster",
+  "Ellen",
+  "Edwin",
   "Aster Evans",
-  "Hector",
-  "Ludwig (cha của Hector)",
-  "Minotaur"
+  "Ellen Evans"
  ],
  "su_kien": [
-  "Lũ Minotaur tấn công căn cứ phòng thủ.",
-  "Các pháp sư cố gắng sử dụng phép thuật để đẩy lùi chúng, nhưng vô ích.",
-  "Aster cắt đứt một loạt xác quái vật đang bay về phía rào chắn.",
-  "Hector nhận ra Aster có thể sử dụng sức mạnh thần thánh của Baldur.",
-  "Aster gọi tên Baldur và sau đó đột ngột tắt aura."
+  "Cuộc thảo luận về thiết bị an ninh cho học sinh Constel giữa Edwin và Ellen.",
+  "Aster phân tích khả năng sử dụng dịch chuyển bóng tối của Manggot.",
+  "Edwin bày tỏ sự nghi ngờ về Hephaestus.",
+  "Aster bộc lộ nỗi sợ hãi về việc bị kiểm soát.",
+  "Aster thể hiện kỹ thuật kiếm mới, đánh dấu một bước tiến trong luyện tập."
  ],
  "quan_he": [
   {
-   "a": "Hector",
+   "a": "Edwin",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, thảo luận về vấn đề an ninh.",
+   "cach_goi": "gọi tên Ellen, lễ phép"
+  },
+  {
+   "a": "Ellen",
+   "b": "Edwin",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, thảo luận về vấn đề an ninh.",
+   "cach_goi": "gọi tên Edwin, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, thảo luận về chiến thuật và Hephaestus.",
+   "cach_goi": "gọi tên Edwin, thân mật"
+  },
+  {
+   "a": "Edwin",
    "b": "Aster",
-   "loai": "cap_tren",
-   "mo_ta": "Hector là chỉ huy, Aster là người chiến đấu dưới sự chỉ dẫn của Hector.",
-   "cach_goi": "gọi 'Aster', thân mật"
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, thảo luận về chiến thuật và Hephaestus.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Ellen",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, thảo luận về chiến thuật và Hephaestus.",
+   "cach_goi": "gọi tên Aster, thân mật"
   },
   {
    "a": "Aster",
-   "b": "Hector",
-   "loai": "cap_tren",
-   "mo_ta": "Aster tuân theo mệnh lệnh của Hector nhưng cũng có thể đưa ra những quyết định độc lập.",
-   "cach_goi": "gọi tên Hector, lễ phép"
+   "b": "Ellen",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, thảo luận về chiến thuật và Hephaestus.",
+   "cach_goi": "gọi tên Ellen, thân mật"
   },
   {
-   "a": "Aster",
-   "b": "Minotaur",
-   "loai": "ke_thu",
-   "mo_ta": "Đối thủ nguy hiểm, Aster phải đối mặt với chúng để bảo vệ căn cứ.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Hector",
-   "b": "Minotaur",
-   "loai": "ke_thu",
-   "mo_ta": "Hector chỉ đạo quân đội chống lại lũ Minotaur.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Aster",
-   "b": "Baldur",
-   "loai": "thay_tro",
-   "mo_ta": "Aster có mối quan hệ đặc biệt với Baldur, có thể sử dụng sức mạnh của vị thần này.",
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Aster từ xa, suy nghĩ về những lời Aster nói.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Aster Evans (tên đầy đủ của Aster)"
+  "Aster Evans: Tên đầy đủ của Aster.",
+  "Ellen Evans: Tên đầy đủ của Ellen."
  ],
  "stats": {
-  "tokens": 701,
-  "seconds": 21.6
+  "tokens": 865,
+  "seconds": 26.8
  }
 }

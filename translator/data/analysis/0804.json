@@ -1,0 +1,105 @@
+{
+ "number": 804,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Esther gặp Aster cùng Dier để điều tra về việc Frondier bị vu tội là quỷ và rời khỏi lục địa. Dier đã mạo danh Aster để được phép gặp Esther, và họ muốn tìm hiểu lý do Marco, một con quỷ, rời bỏ 72 Quỷ và phục tùng Satan. Cuối cùng, Dier đặt câu hỏi trực tiếp với Marco về mối liên hệ giữa Baal và cuộc chiến chống lại các vị thần.",
+ "boi_canh": "Trong Obsidian, tại một buổi gặp gỡ chính thức.",
+ "nhan_vat": [
+  "Esther",
+  "Aster",
+  "Azier",
+  "Dier",
+  "Malia",
+  "Baal",
+  "Marco",
+  "Frondier",
+  "Enfer"
+ ],
+ "su_kien": [
+  "Aster và Dier đến gặp Esther với giấy tờ hợp lệ.",
+  "Dier tiết lộ anh ta đã mạo danh Aster để được gặp Esther.",
+  "Dier hỏi về việc Frondier bị vu tội là quỷ.",
+  "Dier đặt câu hỏi trực tiếp với Marco về lý do rời bỏ 72 Quỷ.",
+  "Dier hỏi Marco về mối liên hệ giữa Baal và cuộc chiến chống lại các vị thần."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Esther",
+   "loai": "cap_tren",
+   "mo_ta": "Aster là người được Esther tiếp đón, thái độ tôn trọng.",
+   "cach_goi": "gọi tên Aster, lễ phép"
+  },
+  {
+   "a": "Esther",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Esther tiếp đón Aster, đánh giá cao sự chuẩn mực của anh.",
+   "cach_goi": "gọi tên Aster, lịch sự"
+  },
+  {
+   "a": "Dier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Dier đi cùng Aster, được Aster bảo vệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Aster dẫn Dier đến gặp Esther, có vẻ tin tưởng vào Dier.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Esther",
+   "b": "Dier",
+   "loai": "nguoi_la",
+   "mo_ta": "Esther quan sát Dier, tò mò về cậu bé.",
+   "cach_goi": "gọi tên Dier, lịch sự"
+  },
+  {
+   "a": "Dier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Dier đi cùng Aster và nghe theo chỉ dẫn của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "Marco",
+   "loai": "ke_thu",
+   "mo_ta": "Esther đối xử lạnh lùng với Marco, không tin tưởng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Dier",
+   "loai": "nguoi_la",
+   "mo_ta": "Marco nhìn Dier với vẻ tò mò và ngạc nhiên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Esther",
+   "loai": "cap_tren",
+   "mo_ta": "Aster bày tỏ sự lo lắng của mình với Esther.",
+   "cach_goi": "gọi tên Esther, lịch sự"
+  },
+  {
+   "a": "Dier",
+   "b": "Esther",
+   "loai": "nguoi_la",
+   "mo_ta": "Dier trả lời câu hỏi của Esther một cách thẳng thắn.",
+   "cach_goi": "gọi tên Esther, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)",
+  "Dier Aiger (tên đầy đủ của Dier)"
+ ],
+ "stats": {
+  "tokens": 873,
+  "seconds": 26.5
+ }
+}

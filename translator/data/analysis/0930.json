@@ -1,0 +1,95 @@
+{
+ "number": 930,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra tại bờ biển Falind, nơi Đế chế đã thiết lập một trạm quân sự để tạo đường cho các tàu chiến. Quinie de Viet, một thương nhân và hiệp sĩ giàu có, đứng trên tàu đầu tiên trong hàng dài tàu chiến, chuẩn bị cho việc Frondier vượt qua biển Agoris. Aster Evans cũng đang ẩn mình trên bãi biển, chờ đợi thời cơ. Cuối cùng, Jormungandr xuất hiện và Sybil từ Palma City đến gặp hắn, tạo ra một khoảng trống để Aster có thể nhảy qua.",
+ "boi_canh": "Bờ biển Falind, lúc chuẩn bị cho việc vận chuyển Aster Evans vượt biển.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Sybil",
+  "Quinie",
+  "Malia",
+  "Kraken",
+  "Gregory",
+  "Ludovic",
+  "Aster Evans",
+  "Quinie de Viet",
+  "R",
+  "Jormungandr",
+  "Poseidon"
+ ],
+ "su_kien": [
+  "Các tàu chiến của Đế chế tạo ra một con đường trên biển.",
+  "Quinie de Viet đứng đầu hàng dài tàu chiến, chuẩn bị cho việc Aster vượt qua biển.",
+  "Aster và Ludovic ẩn mình trên bãi biển, chờ đợi thời cơ nhảy sang tàu của Quinie.",
+  "Jormungandr xuất hiện và gặp Sybil.",
+  "Aster chuẩn bị nhảy từ Agoris sang tàu của Quinie."
+ ],
+ "quan_he": [
+  {
+   "a": "Quinie",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Quinie là người đã sắp xếp mọi thứ để Aster có thể vượt qua biển.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Quinie",
+   "loai": "cap_tren",
+   "mo_ta": "Aster phụ thuộc vào sự hỗ trợ của Quinie để vượt qua biển.",
+   "cach_goi": "gọi tên Quinie, thân mật"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Ludovic là bạn đồng hành của Aster và bày tỏ sự lo lắng về kế hoạch.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Ludovic",
+   "loai": "ban_be",
+   "mo_ta": "Aster cố gắng trấn an Ludovic về kế hoạch vượt biển.",
+   "cach_goi": "gọi tên Ludovic, thân mật"
+  },
+  {
+   "a": "Jormungandr",
+   "b": "Poseidon",
+   "loai": "ke_thu",
+   "mo_ta": "Hai thực thể thần thánh đối đầu, Jormungandr có vẻ như đang thách thức quyền lực của Poseidon.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Jormungandr",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil có vẻ quen thuộc với Jormungandr và cưỡi trên lưng hắn.",
+   "cach_goi": "gọi tên Jormy, thân mật"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Jormungandr",
+   "loai": "ke_thu",
+   "mo_ta": "Hai thực thể thần thánh đối đầu, Poseidon tỏ ra bất ngờ và khó chịu trước sự xuất hiện của Jormungandr.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Sybil",
+   "loai": "ke_thu",
+   "mo_ta": "Poseidon nhận ra Sybil và tỏ ra bối rối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans (tên đầy đủ của Aster)",
+  "Quinie de Viet (tên đầy đủ của Quinie)"
+ ],
+ "stats": {
+  "tokens": 1034,
+  "seconds": 31.1
+ }
+}

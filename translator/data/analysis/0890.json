@@ -1,0 +1,61 @@
+{
+ "number": 890,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi gặp gỡ Liberto tại phòng tiếp khách, Frondier và ông bàn về tình hình của Zenita và việc điều tra Carla. Liberto khẳng định đã giải quyết mọi vấn đề liên quan đến Carla. Sau đó, họ chuyển sang chủ đề chính là yêu cầu của Frondier, và Liberto dẫn Frondier xuống tầng hầm để xem những cổ vật mà Frondier sẽ nhận được. Trong quá trình đó, Frondier vô tình kích hoạt một chiếc vòng cổ chứa đựng ký ức về Mistilteinn, khiến ông nhớ lại những sự kiện quan trọng trong quá khứ. Cuối cùng, Zenita gọi điện cho Frondier để báo tin mẹ cô đã khỏi bệnh, làm dấy lên nghi ngờ của cả hai về nguồn gốc và sức mạnh thực sự của Golden Apple.",
+ "boi_canh": "Phòng tiếp khách tại dinh thự Sandri vào buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Quinie",
+  "Carla",
+  "Athena",
+  "Zenita",
+  "Liberto",
+  "Sandri"
+ ],
+ "su_kien": [
+  "Frondier gặp gỡ Liberto tại phòng tiếp khách.",
+  "Cuộc trò chuyện về tình hình của Zenita và Carla.",
+  "Liberto khẳng định đã giải quyết mọi vấn đề liên quan đến Carla.",
+  "Frondier được dẫn xuống tầng hầm để xem cổ vật.",
+  "Frondier kích hoạt chiếc vòng cổ chứa ký ức về Mistilteinn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Liberto",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người được Liberto giao nhiệm vụ, mối quan hệ mang tính công việc.",
+   "cach_goi": "gọi 'Liberto', lễ phép"
+  },
+  {
+   "a": "Liberto",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Liberto là người có địa vị cao hơn, giao nhiệm vụ cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Zenita",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier quan tâm đến tình hình của Zenita.",
+   "cach_goi": "gọi tên Zenita, lễ phép"
+  },
+  {
+   "a": "Zenita",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Zenita báo cáo tình hình sức khỏe của mẹ cô cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Golden Apple: Có khả năng chữa bệnh và hấp thụ các yếu tố khác, có thể chứa đựng những bí mật sâu xa."
+ ],
+ "stats": {
+  "tokens": 731,
+  "seconds": 22.1
+ }
+}

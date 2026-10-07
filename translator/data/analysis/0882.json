@@ -1,0 +1,77 @@
+{
+ "number": 882,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trở về Atlas sau một thời gian dài vắng mặt, Frondier phải chuẩn bị cho lễ khai giảng sắp tới. Trong lúc tìm hiểu tin tức về những người không thể giúp đỡ được, anh đã bất ngờ gặp Carla trong phòng hiệu trưởng. Họ thảo luận về tình trạng của Athena và những lo ngại của Frondier. Cuối cùng, Aster Evans xuất hiện với vai trò giáo viên tạm thời tại Atlas, gây ra nhiều câu hỏi cho Frondier.",
+ "boi_canh": "Trong văn phòng hiệu trưởng trường Atlas vào ngày trước lễ khai giảng.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Carla",
+  "Ludovic",
+  "Athena",
+  "Basileo",
+  "Zeus",
+  "R",
+  "Aster Evans"
+ ],
+ "su_kien": [
+  "Frondier và đồng đội trở về Atlas.",
+  "Carla bất ngờ xuất hiện trong phòng hiệu trưởng, khiến Frondier ngạc nhiên.",
+  "Athena xác nhận đã rời khỏi cơ thể Carla.",
+  "Aster Evans được giới thiệu là giáo viên tạm thời tại Atlas.",
+  "Frondier phát hiện ra Aster và Carla có vẻ quen biết nhau."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier lo lắng về tình trạng của Carla sau khi Athena rời khỏi cơ thể.",
+   "cach_goi": "gọi tên Carla, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Carla bất ngờ gặp Frondier trong phòng hiệu trưởng.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người có vẻ quen biết nhau và có sự tương tác căng thẳng.",
+   "cach_goi": "gọi tên Aster, tôn trọng"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người có vẻ quen biết nhau và có sự tương tác căng thẳng.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Carla",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ quen biết nhau.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Carla",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ quen biết nhau.",
+   "cach_goi": "gọi tên Carla, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster."
+ ],
+ "stats": {
+  "tokens": 779,
+  "seconds": 23.5
+ }
+}

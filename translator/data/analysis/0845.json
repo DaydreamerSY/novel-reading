@@ -1,0 +1,86 @@
+{
+ "number": 845,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Carla/Athena lo lắng về việc Pielott muốn báo cáo tình hình cho Frondier sau khi chứng kiến giấc mơ về Satan. Athena quyết định sẽ tự mình thông báo để đảm bảo Pielott nghỉ ngơi và tránh gây cản trở. Đồng thời, Frondier đối mặt với Vishnu (sử dụng cơ thể Elodie), bị thách thức bởi sự an toàn của Elodie nếu sử dụng sức mạnh tà thuật. Cuối cùng, Elodie đã giành lại quyền kiểm soát cơ thể của mình và chuẩn bị đối phó với một vấn đề nào đó.",
+ "boi_canh": "Trong phòng bệnh viện, vào thời điểm Pielott đang hồi phục.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Pielott",
+  "Carla",
+  "Baal",
+  "Athena",
+  "Sale",
+  "Odin",
+  "Hera",
+  "Vishnu",
+  "Andro"
+ ],
+ "su_kien": [
+  "Carla/Athena lo lắng về sức khỏe của Pielott.",
+  "Pielott muốn báo cáo giấc mơ thấy Satan cho Frondier.",
+  "Athena quyết định sẽ tự mình thông báo cho Frondier.",
+  "Frondier đối mặt với Vishnu trong cơ thể Elodie.",
+  "Elodie giành lại quyền kiểm soát cơ thể của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Pielott",
+   "b": "Carla",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Pielott lo lắng cho Carla.",
+   "cach_goi": "gọi tên Carla, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Carla quan tâm đến sức khỏe của Pielott.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Vishnu",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier nghi ngờ động cơ của Vishnu.",
+   "cach_goi": "gọi tên Vishnu, lạnh lùng"
+  },
+  {
+   "a": "Vishnu",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Vishnu khiêu khích và chế giễu Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Elodie kính trọng và nhờ cậy sự giúp đỡ của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Frondier lo lắng cho sự an toàn của Elodie.",
+   "cach_goi": "gọi tên Elodie, lễ phép"
+  },
+  {
+   "a": "Athena",
+   "b": "Carla",
+   "loai": "khac",
+   "mo_ta": "Athena đang chiếm giữ cơ thể Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Athena đang chiếm giữ cơ thể Carla. Athena sử dụng Carla để thực hiện nhiệm vụ của mình.",
+  "Vishnu đang sử dụng cơ thể Elodie để giao tiếp với Frondier."
+ ],
+ "stats": {
+  "tokens": 931,
+  "seconds": 28.0
+ }
+}

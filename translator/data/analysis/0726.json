@@ -1,0 +1,58 @@
+{
+ "number": 726,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Philly đang chạy trốn trong cung điện hoàng gia, bị Robert truy đuổi. Trong lúc chạy, Pascal đề cập đến 'Shill', khiến Philly suy đoán về động cơ của anh ta. Philly tin tưởng Pascal nhưng vẫn nghi ngờ Robert, người có quyền truy cập vào thông tin của Frondier. Cuối cùng, họ nhận ra rằng Robert đang đánh giá quá cao bản thân và Philly kích hoạt khả năng 'Foresight'.",
+ "boi_canh": "Trong cung điện hoàng gia, lúc chạy trốn.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Pascal",
+  "Robert"
+ ],
+ "su_kien": [
+  "Pascal và Philly đang chạy trốn trong cung điện hoàng gia.",
+  "Pascal đề cập đến 'Shill', khiến Philly suy đoán về động cơ của anh ta.",
+  "Philly tin tưởng Pascal nhưng vẫn nghi ngờ Robert.",
+  "Họ nhận ra rằng Robert đang đánh giá quá cao bản thân.",
+  "Philly kích hoạt khả năng 'Foresight'."
+ ],
+ "quan_he": [
+  {
+   "a": "Pascal",
+   "b": "Philly Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Pascal và Philly đang chạy trốn cùng nhau, có vẻ như tin tưởng lẫn nhau nhưng vẫn còn nghi ngờ.",
+   "cach_goi": "gọi tên Philly, thân mật"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Pascal",
+   "loai": "nguoi_la",
+   "mo_ta": "Pascal và Philly đang chạy trốn cùng nhau, có vẻ như tin tưởng lẫn nhau nhưng vẫn còn nghi ngờ.",
+   "cach_goi": "gọi tên Pascal, thân mật"
+  },
+  {
+   "a": "Robert",
+   "b": "Philly Terst",
+   "loai": "cap_tren",
+   "mo_ta": "Robert là người đang truy đuổi Philly, có quyền truy cập vào thông tin của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Robert",
+   "loai": "doi_thu",
+   "mo_ta": "Robert là người đang truy đuổi Philly, có quyền truy cập vào thông tin của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pascal được xem xét là nghi phạm.",
+  "Robert có thể là thủ phạm."
+ ],
+ "stats": {
+  "tokens": 635,
+  "seconds": 18.8
+ }
+}

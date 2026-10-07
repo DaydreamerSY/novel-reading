@@ -1,0 +1,74 @@
+{
+ "number": 806,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier và Dier thẩm vấn Marco để tìm hiểu về kế hoạch của lũ quỷ. Dier sử dụng sự thân thiện giả tạo để khai thác thông tin từ Marco, khiến Marco nghi ngờ và lo lắng. Cuối cùng, Dier nhận ra rằng Marco đang cố gắng lừa dối anh ta và tiết lộ một số manh mối quan trọng liên quan đến Baal và Satan. Sau đó, Dier và Aster rời khỏi nhà tù và gặp một con quạ làm người đưa tin cho Frondier.",
+ "boi_canh": "Trong phòng thẩm vấn tại Agoris, vào buổi chiều.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Dier",
+  "Baal",
+  "Marco",
+  "Esther",
+  "Satan"
+ ],
+ "su_kien": [
+  "Marco phủ nhận việc biết bất cứ điều gì, khiến Dier phải tìm cách khai thác thông tin.",
+  "Dier hỏi về khả năng quỷ giả thần và nhận được phản ứng lo lắng từ Marco.",
+  "Marco tiết lộ rằng lũ quỷ không có vua và đang bị đại diện tạm thời quản lý.",
+  "Dier đặt câu hỏi về sự giao tiếp giữa quỷ và thần, dẫn đến việc Marco đề cập đến Seven Deadly Sins.",
+  "Dier nhận ra Marco đang cố gắng lừa dối anh ta và tiết lộ manh mối về Baal."
+ ],
+ "quan_he": [
+  {
+   "a": "Marco",
+   "b": "Dier",
+   "loai": "doi_thu",
+   "mo_ta": "Marco nghi ngờ và cảnh giác với Dier.",
+   "cach_goi": "gọi tên Dier, không rõ cảm xúc"
+  },
+  {
+   "a": "Dier",
+   "b": "Marco",
+   "loai": "doi_thu",
+   "mo_ta": "Dier cố gắng khai thác thông tin từ Marco bằng sự thân thiện.",
+   "cach_goi": "gọi tên Marco, thân thiện"
+  },
+  {
+   "a": "Aster",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Aster quan sát Dier và Marco, lo lắng về tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Baal",
+   "loai": "ke_thu",
+   "mo_ta": "Marco có vẻ không tôn trọng Baal.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Dier và Aster là bạn bè, tin tưởng lẫn nhau.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người có quyền lực hơn Marco.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Quạ: Có thể là người đưa tin cho Frondier, có khả năng giao tiếp bằng tiếng người."
+ ],
+ "stats": {
+  "tokens": 797,
+  "seconds": 24.0
+ }
+}

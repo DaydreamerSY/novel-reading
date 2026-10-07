@@ -2,87 +2,69 @@
  "number": 524,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Khi lũ quái vật đồng loạt tấn công, những người trên các rào chắn đều chuẩn bị tinh thần cho cái chết. Renzo xuất hiện và tiêu diệt chúng, khiến mọi người lấy lại tinh thần. Tuy nhiên, chỉ một phần nhỏ của Đế quốc được hưởng lợi từ sự can thiệp này. Tại rào chắn phía nam, các Hiệp sĩ Áo Choàng rơi vào trạng thái tuyệt vọng, Elodie sử dụng một phép thuật mới để vực dậy tinh thần họ bằng những lời đe dọa khắc nghiệt. Trong khi đó, ở Tyburn, Hector và Aster đang chiến đấu với lũ quái vật.",
- "boi_canh": "Trên các rào chắn của Đế quốc trong thời điểm chiến tranh với quái vật.",
+ "tom_tat": "Đại tá phó của Manggot tỏ ra bối rối khi cuộc tấn công được lên kế hoạch cho sau đó. Tình hình trở nên phức tạp hơn khi Notker muốn tấn công Aster giữa sự hỗn loạn, nhưng Aster đã ngăn chặn lũ quái vật một cách hiệu quả. Notker quyết định phải loại bỏ Aster để tạo cơ hội cho Manggot hành động, và cuối cùng bước ra khỏi rừng để đối đầu với Aster.",
+ "boi_canh": "Trên chiến tuyến, trong lúc trận chiến giữa quân đội nhân loại và lũ quái vật đang diễn ra.",
  "nhan_vat": [
-  "Frondier",
-  "Elodie",
   "Aster",
-  "Aten",
-  "Sybil",
-  "Quinie",
-  "Renzo",
-  "Malia",
-  "Lunia",
-  "Ludwig",
-  "Monty",
-  "Sanders",
+  "Hagley",
   "Notker",
-  "Hector"
+  "Hector",
+  "Berengar"
  ],
  "su_kien": [
-  "Lũ quái vật đồng loạt tấn công các rào chắn.",
-  "Renzo xuất hiện và tiêu diệt lũ quái vật, giúp mọi người lấy lại tinh thần.",
-  "Elodie vực dậy tinh thần các Hiệp sĩ Áo Choàng bằng những lời đe dọa.",
-  "Hector và Aster chiến đấu ở Tyburn.",
-  "Elodie sử dụng phép thuật 'Storm Arrow'."
+  "Đại tá phó của Manggot bày tỏ sự bối rối về thời điểm tấn công.",
+  "Notker quan sát Aster và nhận thấy kỹ năng chiến đấu của anh ta không đặc biệt xuất sắc.",
+  "Berengar báo cáo tình hình lũ quái vật tiến lên và cách chúng sử dụng xác chết làm đường đi.",
+  "Aster ngăn chặn lũ quái vật bằng những đòn tấn công chính xác, gây ra sự hỗn loạn trong đội hình của chúng.",
+  "Notker bước ra khỏi rừng để đối đầu với Aster."
  ],
  "quan_he": [
   {
-   "a": "Frondier",
-   "b": "Elodie",
-   "loai": "khac",
-   "mo_ta": "Elodie biết về hành động của Frondier và quyết định làm theo.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Elodie",
-   "b": "Sanders",
-   "loai": "ban_be",
-   "mo_ta": "Elodie và Sanders cùng chiến đấu trên rào chắn.",
-   "cach_goi": "gọi tên, thân mật"
-  },
-  {
-   "a": "Sanders",
-   "b": "Elodie",
-   "loai": "ban_be",
-   "mo_ta": "Elodie và Sanders cùng chiến đấu trên rào chắn.",
-   "cach_goi": "gọi tên, thân mật"
-  },
-  {
-   "a": "Hector",
-   "b": "Aster",
-   "loai": "thay_tro",
-   "mo_ta": "Hector là người chỉ huy và Aster là học sinh của ông.",
-   "cach_goi": "gọi tên, thân mật"
-  },
-  {
-   "a": "Aster",
-   "b": "Hector",
-   "loai": "thay_tro",
-   "mo_ta": "Aster là học sinh và Hector là người chỉ huy của ông.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "a": "Đại tá phó của Manggot",
+   "b": "Notker",
+   "loai": "ke_thu",
+   "mo_ta": "Người chỉ huy cấp cao hơn bày tỏ sự lo lắng về kế hoạch của Notker.",
+   "cach_goi": "gọi tên Notker, không nói chuyện trực tiếp"
   },
   {
    "a": "Notker",
    "b": "Aster",
-   "loai": "ke_thu",
-   "mo_ta": "Notker nhắm bắn Aster từ trong rừng.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "doi_thu",
+   "mo_ta": "Không thích Aster vì anh ta phá vỡ kế hoạch của Manggot.",
+   "cach_goi": "gọi tên Aster, lạnh lùng"
   },
   {
-   "a": "Aster",
+   "a": "Notker",
+   "b": "Hector",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Hector, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Berengar",
    "b": "Notker",
-   "loai": "ke_thu",
-   "mo_ta": "Notker nhắm bắn Aster từ trong rừng.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "cap_tren",
+   "mo_ta": "Người dưới trướng báo cáo tình hình chiến sự cho người chỉ huy.",
+   "cach_goi": "gọi tên Notker, thân mật"
+  },
+  {
+   "a": "Notker",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Người đối địch chuẩn bị tấn công.",
+   "cach_goi": "gọi tên Aster, thô lỗ"
+  },
+  {
+   "a": "Hector",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
   }
  ],
- "danh_tinh": [
-  "Hector Von Urfa được gọi là Hector"
- ],
+ "danh_tinh": [],
  "stats": {
-  "tokens": 892,
-  "seconds": 26.9
+  "tokens": 771,
+  "seconds": 23.1
  }
 }

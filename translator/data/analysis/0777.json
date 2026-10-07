@@ -1,0 +1,42 @@
+{
+ "number": 777,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier attends his first banquet and meets Carla, a noblewoman known for her seductive deals. He finds her behavior unusual and avoids trying to read into her actions, opting instead to be straightforward. Carla is thrown off by Frondier's lack of reaction to her usual tactics and becomes intensely curious about him, ultimately losing control of her cursed power and petrifying a mirror in frustration.",
+ "boi_canh": "Một buổi tiệc tại một địa điểm không xác định trên lục địa Agoris.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Carla",
+  "Lunia",
+  "Athena",
+  "Frondier de Roach",
+  "R"
+ ],
+ "su_kien": [
+  "Frondier gặp Carla tại buổi tiệc."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu tiên.",
+   "cach_goi": "gọi tên Carla, không rõ"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu tiên.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 304,
+  "seconds": 9.1
+ }
+}

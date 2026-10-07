@@ -1,0 +1,75 @@
+{
+ "number": 797,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở ra ngày thứ hai của Machia với sự náo nhiệt từ khán giả. Frondier, trong vai giáo viên chủ nhiệm, quan sát các đại diện lớp tham gia thi đấu. Basileo tìm đến Frondier để đòi lời hứa về việc dạy phép thuật nếu thắng trận. Sau đó, Carla xuất hiện dưới vỏ bọc kín đáo và cùng Frondier thảo luận về những nghi ngờ xung quanh thân phận của mình, đồng thời Frondier tiết lộ kế hoạch giả vờ là chủ mưu đứng sau Carla.",
+ "boi_canh": "Trong khán đài trường Machia, ngày thứ hai của sự kiện.",
+ "nhan_vat": [
+  "Frondier",
+  "Carla",
+  "Antero",
+  "Basileo",
+  "Hector",
+  "Aias",
+  "Medusa"
+ ],
+ "su_kien": [
+  "Ngày thứ hai của Machia bắt đầu với sự náo nhiệt từ khán giả.",
+  "Basileo tìm đến Frondier để đòi hứa dạy phép thuật nếu thắng trận.",
+  "Carla xuất hiện dưới vỏ bọc kín đáo, tránh bị nhận ra.",
+  "Frondier và Carla thảo luận về những nghi ngờ xung quanh thân phận của Carla.",
+  "Frondier tuyên bố giả vờ là chủ mưu đứng sau Carla."
+ ],
+ "quan_he": [
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò tìm giáo viên để đòi hứa.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên nhắc nhở học trò.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ gặp Frondier trong đám đông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ gặp Frondier trong đám đông.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Tiếp tục cuộc trò chuyện sau khi gặp gỡ ban đầu.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Tiếp tục cuộc trò chuyện sau khi gặp gỡ ban đầu.",
+   "cach_goi": "gọi tên, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Carla: Ẩn mình dưới lớp áo rộng và kính râm để tránh bị nhận ra.",
+  "Aias: Có tên mẹ trùng với nhân vật trong thần thoại Hy Lạp (Eriboia)."
+ ],
+ "stats": {
+  "tokens": 830,
+  "seconds": 24.9
+ }
+}

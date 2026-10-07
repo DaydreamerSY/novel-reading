@@ -2,76 +2,69 @@
  "number": 577,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Frondier được Lily triệu tập và giao nhiệm vụ hộ tống một nữ quý tộc tên là Ameline von Ellis đến Cung điện Hoàng gia bằng xe ngựa, đi theo lộ trình vòng vèo nguy hiểm. Anh phát hiện ra rằng đây không phải là một nhiệm vụ thực sự mà là một trò chơi của Ameline, người muốn tận hưởng cảm giác được hộ tống lãng mạn. Frondier nhận ra rằng Lily có thể đang nghi ngờ anh và những tưởng tượng của mình về vai trò mới của anh như một hiệp sĩ của Ria Lis.",
- "boi_canh": "Sáng sớm ngày hôm sau tại Cung điện Hoàng gia, chuẩn bị cho nhiệm vụ hộ tống.",
+ "tom_tat": "Frondier và Ameline đi trên cỗ xe ngựa qua một con đường núi hiểm trở. Họ bị một nhóm người giả dạng thành kẻ cướp chặn lại, nhưng Frondier nhận ra rằng chúng không phải là những kẻ cướp bình thường mà đã được chuẩn bị kỹ lưỡng. Anh ta nghi ngờ có ai đó đã cung cấp thông tin về chuyến hộ tống này và sự xuất hiện của bọn chúng không nằm trong kế hoạch ban đầu của gia đình Ellis.",
+ "boi_canh": "Trên một con đường núi hẻo lánh, khi mặt trời bắt đầu lặn.",
  "nhan_vat": [
   "Frondier",
-  "Elodie",
   "Selena",
-  "Lily",
-  "Cassian",
-  "Frondier de Roach",
-  "Ameline",
-  "Ria Lis",
-  "Ameline von Ellis",
-  "Lis"
+  "Ameline"
  ],
  "su_kien": [
-  "Lily giao cho Frondier nhiệm vụ hộ tống Ameline von Ellis.",
-  "Frondier nghi ngờ về lý do chọn lộ trình nguy hiểm và mất thời gian.",
-  "Anh nhận ra rằng mục đích thực sự của nhiệm vụ là để Ameline tận hưởng cảm giác lãng mạn.",
-  "Ameline tiết lộ cô đã yêu cầu Frondier trực tiếp.",
-  "Frondier nhận ra mình đang tham gia vào một trò chơi do Ameline tạo ra."
+  "Cỗ xe ngựa đi qua một con đường núi hiểm trở.",
+  "Một nhóm người giả dạng thành kẻ cướp chặn đường.",
+  "Frondier nhận ra bọn chúng không phải là những kẻ cướp bình thường.",
+  "Frondier đối mặt với tên thủ lĩnh và đánh chặn đòn tấn công của hắn.",
+  "Frondier kích hoạt aura và chuẩn bị chiến đấu."
  ],
  "quan_he": [
   {
-   "a": "Lily",
+   "a": "Frondier",
+   "b": "Ameline",
+   "loai": "gia_dinh",
+   "mo_ta": "Người bảo vệ và cô chủ trẻ, Frondier lo lắng cho sự an toàn của Ameline.",
+   "cach_goi": "gọi tên Ameline, thân mật"
+  },
+  {
+   "a": "Ameline",
    "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Lily là người giao nhiệm vụ cho Frondier, có vẻ như đang giữ anh ở một khoảng cách nhất định.",
-   "cach_goi": "gọi tên Frondier, thân mật"
+   "loai": "ban_be",
+   "mo_ta": "Cô gái trẻ tò mò và thích thú với những tình huống nguy hiểm.",
+   "cach_goi": "gọi 'Sir Knight', lễ phép"
   },
   {
    "a": "Frondier",
-   "b": "Lily",
-   "loai": "thay_tro",
-   "mo_ta": "Frondier là hiệp sĩ của Lily, tuân theo mệnh lệnh của cô.",
-   "cach_goi": "gọi tên Lily, lễ phép"
-  },
-  {
-   "a": "Ameline von Ellis",
-   "b": "Frondier",
+   "b": "Selena",
    "loai": "nguoi_la",
-   "mo_ta": "Ameline là người được Frondier hộ tống, có vẻ rất vui mừng khi được gặp anh.",
-   "cach_goi": "gọi tên Frondier, thân thiện"
-  },
-  {
-   "a": "Frondier",
-   "b": "Ameline von Ellis",
-   "loai": "nguoi_la",
-   "mo_ta": "Frondier là người hộ tống Ameline, tỏ ra lịch sự và hòa nhã.",
-   "cach_goi": "gọi tên Ameline, lịch sự"
-  },
-  {
-   "a": "Lily",
-   "b": "Ameline von Ellis",
-   "loai": "khac",
-   "mo_ta": "Lily không giao tiếp trực tiếp với Ameline trong chương này.",
+   "mo_ta": "Không tương tác trực tiếp trong chương này, nhưng Frondier so sánh phản ứng của Ameline với Selena.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
-   "b": "Cassian",
-   "loai": "khac",
-   "mo_ta": "Frondier không giao tiếp trực tiếp với Cassian trong chương này.",
+   "b": "Thủ lĩnh kẻ cướp",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier nghi ngờ đối phương có mục đích khác.",
+   "cach_goi": "gọi tên thủ lĩnh, lạnh lùng"
+  },
+  {
+   "a": "Thủ lĩnh kẻ cướp",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Tấn công và khiêu khích Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Ameline",
+   "b": "Thủ lĩnh kẻ cướp",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Ameline quan sát tình hình.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Frondier de Roach (tên đầy đủ của Frondier)"
+  "Những kẻ cướp không phải là những kẻ cướp bình thường mà đã được chuẩn bị kỹ lưỡng và có thông tin về Frondier và chuyến hộ tống."
  ],
  "stats": {
-  "tokens": 877,
-  "seconds": 27.6
+  "tokens": 824,
+  "seconds": 25.9
  }
 }

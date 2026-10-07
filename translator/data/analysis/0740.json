@@ -1,0 +1,151 @@
+{
+ "number": 740,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi được trả tự do, Frondier lại bị giam giữ trong cung điện Hoàng gia. Bartello đến giải thoát ông và tiết lộ rằng ông đã dàn dựng mọi chuyện để khiến Odin lộ diện và bảo vệ Frondier khỏi sự đe dọa của thần Odin. Frondier chấp nhận lưu exil và yêu cầu được gửi đến Manggot để nghiên cứu ngôn ngữ cổ, điều này làm Bartello ngạc nhiên.",
+ "boi_canh": "Trong phòng giam của Frondier, trước khi ông bị lưu exil.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Osprey",
+  "Hagley",
+  "Ludovic",
+  "Bartello",
+  "Monty",
+  "Esther",
+  "Ludvic",
+  "Robert",
+  "Sale",
+  "Ria Lis",
+  "Odin",
+  "Warden Esther",
+  "Lis"
+ ],
+ "su_kien": [
+  "Frondier bị đưa trở lại ngục giam.",
+  "Bartello đến giải thoát Frondier.",
+  "Bartello tiết lộ đã dàn dựng mọi chuyện để đối phó với Odin.",
+  "Frondier yêu cầu được gửi đến Manggot để nghiên cứu ngôn ngữ cổ.",
+  "Bartello bày tỏ sự kinh ngạc và chấp thuận yêu cầu của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "người cai trị, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hagley",
+   "loai": "nguoi_la",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludovic",
+   "loai": "cap_tren",
+   "mo_ta": "đồng minh, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "quốc vương, Frondier kính trọng Bartello.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Bartello",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "quốc vương, Bartello có vẻ lo lắng và quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Frondier, trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "nguoi_la",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludvic",
+   "loai": "nguoi_la",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Robert",
+   "loai": "nguoi_la",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sale",
+   "loai": "nguoi_la",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ria Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Odin",
+   "loai": "ke_thu",
+   "mo_ta": "đối thủ, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Warden Esther",
+   "loai": "nguoi_la",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1504,
+  "seconds": 44.9
+ }
+}

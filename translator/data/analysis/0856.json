@@ -1,0 +1,97 @@
+{
+ "number": 856,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Gregory đề nghị đến thủ đô, Frondier quyết định ghé thăm Poseidon trước. Cuộc gặp gỡ này được sắp đặt bởi Malia và dựa trên những thông tin Gregory đã biết. Trong lúc đó, Frondier báo cáo với Poseidon về việc không thể đưa Heracles đến và kể lại cuộc chiến ngắn ngủi của mình với Telephos và Heracles, khiến Poseidon vô cùng ngạc nhiên và bắt đầu có ý định thu hút Frondier.",
+ "boi_canh": "Trên tàu hướng tới Poseidon, trước khi đến gặp thần biển.",
+ "nhan_vat": [
+  "Frondier",
+  "Gregory",
+  "Poseidon",
+  "Malia",
+  "Thor",
+  "Hera",
+  "Heracles",
+  "Telephos",
+  "Aphrodite"
+ ],
+ "su_kien": [
+  "Gregory đề nghị đến thủ đô.",
+  "Frondier quyết định ghé thăm Poseidon trước.",
+  "Frondier báo cáo với Poseidon về việc không thể đưa Heracles đến.",
+  "Frondier kể lại cuộc chiến với Telephos và Heracles.",
+  "Poseidon bắt đầu có ý định thu hút Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Gregory đưa ra lời khuyên cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier trả lời Gregory.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Poseidon",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Frondier báo cáo với Poseidon.",
+   "cach_goi": "gọi 'Lord Poseidon', lễ phép"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Poseidon hỏi thăm và đánh giá Frondier.",
+   "cach_goi": "gọi tên Frondier, lịch sự"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ, Frondier được Malia hướng dẫn cách gặp Poseidon.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ, Gregory nhận thông tin từ Malia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Telephos",
+   "loai": "khac",
+   "mo_ta": "Đối thủ, Frondier đã chiến đấu với Telephos.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Heracles",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier đã chiến đấu với Heracles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Aphrodite",
+   "loai": "khac",
+   "mo_ta": "Một người muốn thu hút người kia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Telephos: con trai của Heracles, bị Frondier nhầm lẫn với cha mình trong trận chiến."
+ ],
+ "stats": {
+  "tokens": 994,
+  "seconds": 29.9
+ }
+}

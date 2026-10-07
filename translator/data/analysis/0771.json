@@ -1,0 +1,80 @@
+{
+ "number": 771,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Zenita thách đấu Frondier trong một trò chơi đố chữ dựa trên cuốn sách về thần thoại và quái vật. Ban đầu, Zenita dẫn trước nhờ kiến thức sâu rộng của mình, nhưng Frondier dần lật ngược tình thế bằng cách trả lời chính xác mọi câu hỏi. Cuối cùng, khi Zenita đặt câu hỏi không có trong sách, cô thua cuộc. Sau đó, Frondier lợi dụng chiến thắng để đòi một phần thưởng bất ngờ: một chuyến thăm nhà để kiểm tra xem Zenita có sống 'đúng mực' hay không.",
+ "boi_canh": "Trong phòng học, diễn ra một trận đấu đố chữ giữa Frondier và Zenita.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Pielott",
+  "Dier",
+  "Frondier de Roach",
+  "Aster Evans",
+  "Zenita",
+  "Aias",
+  "Heracles",
+  "Pielott von Ribanche",
+  "R",
+  "Dier Aiger"
+ ],
+ "su_kien": [
+  "Zenita thách đấu Frondier trong một trò chơi đố chữ.",
+  "Frondier trả lời chính xác 48 câu hỏi liên tiếp, khiến Zenita gặp khó khăn.",
+  "Zenita đặt câu hỏi không có trong sách, dẫn đến thất bại của cô.",
+  "Frondier đòi một chuyến thăm nhà làm phần thưởng.",
+  "Pielott cảm thấy áp lực khi được mọi người xung quanh ngưỡng mộ tại Atlas."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Zenita",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trò chơi đố chữ. Ban đầu Zenita tự tin nhưng sau đó bị Frondier áp đảo.",
+   "cach_goi": "gọi tên Zenita, không rõ ràng"
+  },
+  {
+   "a": "Zenita",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trò chơi đố chữ. Ban đầu tự tin nhưng sau đó bị Frondier áp đảo.",
+   "cach_goi": "gọi tên Frondier, không rõ ràng"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò của Frondier, cảm thấy áp lực và muốn được Frondier thúc đẩy.",
+   "cach_goi": "gọi 'Senior', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên của Pielott, quan sát và thúc đẩy sự phát triển của học trò.",
+   "cach_goi": "gọi tên Pielott, không rõ ràng"
+  },
+  {
+   "a": "Aias",
+   "b": "Pielott",
+   "loai": "khac",
+   "mo_ta": "Một học sinh khác tại Atlas, có vẻ ganh tị và khiêu khích với sự nổi tiếng của Pielott.",
+   "cach_goi": "gọi tên Pielott, thô lỗ"
+  },
+  {
+   "a": "Pielott",
+   "b": "Aias",
+   "loai": "khac",
+   "mo_ta": "Một học sinh khác tại Atlas, có vẻ ganh tị và khiêu khích với sự nổi tiếng của Pielott.",
+   "cach_goi": "gọi tên Aias, không rõ ràng"
+  }
+ ],
+ "danh_tinh": [
+  "Pielott von Ribanche được gọi là 'Pielott di Ribanche' ở lục địa Agoris."
+ ],
+ "stats": {
+  "tokens": 944,
+  "seconds": 28.6
+ }
+}

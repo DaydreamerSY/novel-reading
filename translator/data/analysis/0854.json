@@ -1,0 +1,101 @@
+{
+ "number": 854,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào hành trình của Aster sau trận chiến với Renzo, cùng những suy nghĩ và nhận thức sâu sắc hơn về thế giới xung quanh anh ta. Anh ta tìm thấy Ludovic bất tỉnh nhưng vẫn sống sót, đồng thời lo lắng về tình hình ở Đế Chế và sự xuất hiện của những người có Sức Mạnh Thần Thánh. Trong khi đó, Frondier kiểm tra tình trạng của Pielott và Basileo tại bệnh viện, và phát hiện ra Basileo đang bí mật chuẩn bị cho một điều gì đó lớn lao.",
+ "boi_canh": "Trên đường đến Agoris, sau trận chiến với Renzo.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Renzo",
+  "Pielott",
+  "Dier",
+  "Carla",
+  "Marco",
+  "Gregory",
+  "Ludovic",
+  "Nimue",
+  "Athena",
+  "Basileo"
+ ],
+ "su_kien": [
+  "Aster tìm thấy Ludovic bất tỉnh sau trận chiến.",
+  "Aster quyết định đi đến Agoris để đối phó với tình hình.",
+  "Frondier kiểm tra Pielott và phát hiện ra anh ta có một giấc mơ kỳ lạ liên quan đến mana của Lãnh Địa Quỷ.",
+  "Frondier tìm kiếm Basileo và phát hiện ra anh ta đang bí mật chuẩn bị cho một điều gì đó.",
+  "Basileo sử dụng phép thuật che giấu để trốn tránh Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Aster",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến vừa qua.",
+   "cach_goi": "gọi tên Renzo, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Aster đánh giá cao sự quan sát của Dier.",
+   "cach_goi": "gọi tên Dier, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Ludovic",
+   "loai": "cap_tren",
+   "mo_ta": "Zodiac bị thương, Aster kiểm tra tình trạng của anh ta.",
+   "cach_goi": "gọi tên Ludovic, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Apollo",
+   "loai": "khac",
+   "mo_ta": "Thần Apollo đã chiếm giữ cơ thể Ludovic.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "cap_tren",
+   "mo_ta": "Người đưa tin của Frondier.",
+   "cach_goi": "gọi tên Gregory, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội bị thương, Frondier kiểm tra tình trạng của anh ta.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò, Pielott bày tỏ lòng biết ơn và lo lắng cho Frondier.",
+   "cach_goi": "gọi 'Senior', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội đang che giấu điều gì đó.",
+   "cach_goi": "gọi tên Basileo, lễ phép"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng đội đang che giấu điều gì đó.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Ludovic bị chiếm giữ bởi Apollo, tạm thời mất ý thức.",
+  "Basileo sử dụng phép thuật che giấu để trốn tránh Frondier."
+ ],
+ "stats": {
+  "tokens": 1089,
+  "seconds": 32.8
+ }
+}

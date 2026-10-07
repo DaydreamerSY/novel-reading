@@ -1,0 +1,73 @@
+{
+ "number": 913,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier cố gắng tìm hiểu lý do Fenrir bị trói bằng một vật thể bí ẩn có tên là Gleipnir. Anh phát hiện ra rằng nó không phải là một vật phẩm thông thường mà là một dạng mana đặc biệt từ các thế giới khác. Cuộc trò chuyện giữa anh và những người xung quanh, cùng với sự quan sát tỉ mỉ về Fenrir, dẫn đến một quyết định táo bạo: hấp thụ lượng mana này để giải thoát Fenrir, bất chấp những nguy hiểm tiềm ẩn.",
+ "boi_canh": "Một không gian bí ẩn, nơi Frondier và Fenrir đang đối diện nhau.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Eden",
+  "Jeanne",
+  "Fenrir",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Frondier hỏi về Gleipnir, vật thể trói Fenrir.",
+  "Anh phát hiện ra Gleipnir không phải là một vật phẩm thông thường mà là mana.",
+  "Selena lo ngại khi Frondier định hấp thụ Gleipnir.",
+  "Belphegor khuyến khích hành động của Frondier.",
+  "Frondier chuẩn bị tiếp xúc với Gleipnir."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Fenrir",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu và thăm dò ý định của đối phương.",
+   "cach_goi": "gọi tên Fenrir, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Fenrir",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Bực bội và muốn thoát khỏi sự trói buộc.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Người đồng hành tin cậy, lo lắng về sự an toàn của Frondier.",
+   "cach_goi": "gọi tên Selena, lễ phép"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Người đồng hành tin cậy, lo lắng về sự an toàn của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Quan hệ cấp trên - cấp dưới, Belphegor có vẻ thích thú với hành động của Frondier.",
+   "cach_goi": "gọi tên Belphegor, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Quan hệ cấp trên - cấp dưới, Belphegor có vẻ thích thú với hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Gleipnir: Ban đầu được cho là một vật phẩm, sau đó được tiết lộ là dạng mana đặc biệt."
+ ],
+ "stats": {
+  "tokens": 841,
+  "seconds": 25.5
+ }
+}

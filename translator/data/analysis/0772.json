@@ -1,0 +1,124 @@
+{
+ "number": 772,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị Aias khiêu khích, Pielott đã chủ động tìm kiếm một trận đấu để 'sửa chữa' sự kiên định của mình. Trận đấu diễn ra vô cùng nhanh chóng và kết thúc bằng việc Aias bất tỉnh nhân sự. Sau đó, tại phòng của Frondier, mọi người thảo luận về tình hình của Aias và những rắc rối có thể xảy đến từ gia tộc của cậu ta. Cuối cùng, Frondier quyết định để Arald đóng vai cha của Pielott và Lily đóng vai mẹ để đối phó với bất kỳ khiếu nại nào từ gia tộc Achaea.",
+ "boi_canh": "Buổi tối tại phòng của Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Sybil",
+  "Lily",
+  "Pielott",
+  "Dier",
+  "Edwin",
+  "Mei",
+  "Arald",
+  "Ria Lis",
+  "Hector",
+  "Aias",
+  "Lis"
+ ],
+ "su_kien": [
+  "Pielott chủ động khiêu khích Aias để 'sửa chữa' sự kiên định của mình.",
+  "Aias bất tỉnh sau một cú đánh trực diện từ Pielott.",
+  "Mọi người thảo luận về tình trạng của Aias và khả năng gia tộc cậu ta sẽ khiếu nại.",
+  "Frondier quyết định để Arald đóng vai cha của Pielott.",
+  "Lily miễn cưỡng đồng ý đóng vai mẹ của Pielott."
+ ],
+ "quan_he": [
+  {
+   "a": "Pielott",
+   "b": "Aias",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận đấu, Pielott cố gắng khiêu khích và 'sửa chữa' Aias.",
+   "cach_goi": "gọi tên Aias, không thân mật"
+  },
+  {
+   "a": "Aias",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận đấu, Aias chủ động tấn công trước.",
+   "cach_goi": "gọi tên Pielott, không thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, Frondier quan sát và đánh giá Pielott.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học sinh và giáo viên, Pielott báo cáo tình hình với Frondier.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Frondier hỏi Elodie về tình trạng của Aias.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Elodie trả lời câu hỏi của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Frondier giao nhiệm vụ cho Lily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Lily phản đối nhiệm vụ được giao.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Frondier giao nhiệm vụ cho Arald.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Arald trả lời câu hỏi của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ria Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Frondier chỉ quan sát Ria Lis.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ria Lis",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng, Ria Lis chỉ lắng nghe cuộc trò chuyện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aias: Có thể là một Named, liên quan đến truyền thuyết.",
+  "Hector: Tên thật của Hector Von Urfa, được lấy từ nhân vật anh hùng trong chiến tranh Troy."
+ ],
+ "stats": {
+  "tokens": 1380,
+  "seconds": 41.4
+ }
+}

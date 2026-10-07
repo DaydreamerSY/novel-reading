@@ -1,0 +1,67 @@
+{
+ "number": 782,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra trong khuôn khổ sự kiện Machia tại Atlas, nơi các quý tộc quan sát các trận đấu. Lady Achaea và những người phụ nữ khác thảo luận về việc con trai bà, Aias, không tham gia do bị Pielott đánh bại. Đồng thời, họ lên kế hoạch vạch trần danh tính thật của Carla, nghi ngờ cô là một quỷ. Frondier xuất hiện bất ngờ, khiến Lady Achaea phải thay đổi kế hoạch và đối mặt với anh ta.",
+ "boi_canh": "Sự kiện diễn ra trong khuôn viên trường Atlas, tại khu vực xem các trận đấu Machia.",
+ "nhan_vat": [
+  "Frondier",
+  "Pielott",
+  "Carla",
+  "Frondier de Roach",
+  "Giotto",
+  "Aias",
+  "Lady Achaea"
+ ],
+ "su_kien": [
+  "Các quý tộc quan sát các trận đấu Machia.",
+  "Lady Achaea và những người phụ nữ khác thảo luận về việc Aias không tham gia.",
+  "Những người phụ nữ này nghi ngờ Carla là một quỷ và lên kế hoạch vạch trần danh tính của cô.",
+  "Frondier xuất hiện bất ngờ tại khu vực xem.",
+  "Frondier tìm thấy Giotto trong phòng chứa đồ và bắt đầu thẩm vấn."
+ ],
+ "quan_he": [
+  {
+   "a": "Lady Achaea",
+   "b": "Aias",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con trai, Lady Achaea lo lắng về việc Aias không tham gia trận đấu.",
+   "cach_goi": "gọi tên 'Aias', thân mật"
+  },
+  {
+   "a": "Lady Achaea",
+   "b": "Aias",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con trai, Lady Achaea muốn con trai mình tỏa sáng trước các quý tộc.",
+   "cach_goi": "gọi tên 'Aias', thân mật"
+  },
+  {
+   "a": "Lady Achaea",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ gián tiếp, Pielott đã đánh bại con trai của Lady Achaea.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lady Achaea",
+   "b": "Carla",
+   "loai": "ke_thu",
+   "mo_ta": "Đối thủ, Lady Achaea nghi ngờ Carla là một quỷ và muốn vạch trần cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Giotto",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên và học sinh, Frondier thẩm vấn Giotto.",
+   "cach_goi": "gọi tên 'Giotto', lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của nhân vật chính."
+ ],
+ "stats": {
+  "tokens": 783,
+  "seconds": 23.5
+ }
+}

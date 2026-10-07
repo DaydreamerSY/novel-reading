@@ -2,61 +2,79 @@
  "number": 592,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Frondier đối mặt với một lượng lớn quỷ dữ tấn công dinh thự. Anh sử dụng Obsidian và Void Weaving để tiêu diệt chúng, nhưng nhận thấy chúng có vẻ mạnh hơn dự kiến. Khi Frondier đang bối rối về hành động của lũ quỷ, Elodie kích hoạt một phép thuật không gian đặc biệt, giam cầm chúng trong một quả cầu vô hình mà chúng nghĩ là đang trốn thoát, dần dần đẩy chúng lại gần nhau cho đến khi bị dồn thành một đám đông lớn.",
- "boi_canh": "Bên trong dinh thự, giữa lúc cuộc chiến với quỷ dữ diễn ra.",
+ "tom_tat": "Trong chương này, Frondier và Elodie sử dụng ma thuật không gian để bắt giữ một nhóm quỷ. Qua đối thoại với chúng, Frondier phát hiện ra những con quỷ này không đến từ Cõi Quỷ mà bị bỏ rơi từ phương Tây, cụ thể là Agoris, và đang tìm cách trả thù vì sự sụp đổ của Manggot và cái chết của Belphegor.",
+ "boi_canh": "Trong một khu vực bí mật, Frondier và Elodie đang đối mặt với những con quỷ.",
  "nhan_vat": [
   "Frondier",
-  "Elodie"
+  "Elodie",
+  "Osprey",
+  "Jane",
+  "Chandra"
  ],
  "su_kien": [
-  "Frondier sử dụng Obsidian và Void Weaving để tiêu diệt lũ quỷ.",
-  "Frondier nhận thấy lũ quỷ có vẻ mạnh hơn trước.",
-  "Elodie kích hoạt phép thuật không gian, giam cầm lũ quỷ trong một quả cầu vô hình.",
-  "Lũ quỷ nghĩ rằng chúng đang trốn thoát nhưng thực tế bị đẩy lại gần nhau.",
-  "Lũ quỷ nhận ra mình đã bị mắc kẹt và cố gắng thoát ra."
+  "Elodie sử dụng ma thuật không gian để giam giữ quỷ.",
+  "Frondier triệu hồi Chandra để hỗ trợ.",
+  "Một con quỷ bị dịch chuyển đến phía đối diện của quả cầu ma thuật.",
+  "Quỷ tiết lộ họ không đến từ Cõi Quỷ mà là người bị bỏ rơi từ Agoris.",
+  "Frondier nhận ra những con quỷ này đang tìm cách trả thù."
  ],
  "quan_he": [
   {
    "a": "Frondier",
    "b": "Elodie",
-   "loai": "cap_tren",
-   "mo_ta": "Elodie là người cấp trên của Frondier, hỗ trợ anh trong chiến đấu.",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Frondier hỏi về ma thuật của Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Elodie trả lời câu hỏi của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, nhưng không tương tác trực tiếp trong chương này.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
-   "b": "quỷ dữ",
-   "loai": "ke_thu",
-   "mo_ta": "Frondier đang chiến đấu với lũ quỷ.",
+   "b": "Jane",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng nghiệp, nhưng không tương tác trực tiếp trong chương này.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "quỷ dữ",
+   "a": "Frondier",
+   "b": "Chandra",
+   "loai": "nguoi_la",
+   "mo_ta": "Triệu hồi, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "quỷ",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu, Frondier chất vấn quỷ.",
+   "cach_goi": "gọi 'thằng"
+  },
+  {
+   "a": "quỷ",
    "b": "Frondier",
-   "loai": "ke_thu",
-   "mo_ta": "Lũ quỷ tấn công Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Elodie",
-   "b": "quỷ dữ",
-   "loai": "ke_thu",
-   "mo_ta": "Elodie giam cầm lũ quỷ bằng phép thuật.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "quỷ dữ",
-   "b": "Elodie",
-   "loai": "ke_thu",
-   "mo_ta": "Lũ quỷ bị Elodie giam cầm.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu, quỷ đáp trả Frondier.",
+   "cach_goi": "gọi 'Human', thô lỗ"
   }
  ],
  "danh_tinh": [
-  "Mjölnir (tên một vũ khí)"
+  "Belphegor: Một thế lực mạnh mẽ từng đe dọa Đế quốc, đã bị đánh bại và quay trở lại Cõi Quỷ.",
+  "Agoris: Nơi mà những con quỷ này đến từ đó."
  ],
  "stats": {
-  "tokens": 686,
-  "seconds": 20.4
+  "tokens": 871,
+  "seconds": 26.2
  }
 }

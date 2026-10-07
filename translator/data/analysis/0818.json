@@ -1,0 +1,71 @@
+{
+ "number": 818,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào sự chuẩn bị kỹ lưỡng của Basileo cho kỳ thi cuối cùng về lý thuyết phép thuật, với mong muốn gây ấn tượng với Frondier. Kỳ thi diễn ra suôn sẻ, nhưng câu hỏi thưởng do chính Frondier đặt ra đã khiến Basileo phải đối mặt với một vấn đề hóc búa: một công thức phép thuật không hoạt động. Cuối cùng, kỳ họp của các giáo viên sau khi kiểm tra bài cũng đưa ra quyết định loại bỏ câu hỏi này khỏi điểm số chính thức.",
+ "boi_canh": "Trong phòng thi, vào thời điểm diễn ra kỳ thi cuối cùng về lý thuyết phép thuật tại Atlas.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Pielott",
+  "Carla",
+  "Basileo",
+  "Aias"
+ ],
+ "su_kien": [
+  "Basileo chuẩn bị kỹ lưỡng cho kỳ thi cuối cùng.",
+  "Basileo giải quyết các câu hỏi trong bài kiểm tra một cách trôi chảy.",
+  "Basileo phát hiện ra có một câu hỏi thưởng do Frondier viết.",
+  "Basileo nhận ra công thức phép thuật trong câu hỏi thưởng không hoạt động.",
+  "Các giáo viên tranh luận về tính khả thi và độ khó của câu hỏi thưởng."
+ ],
+ "quan_he": [
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Học sinh kính trọng và mong muốn gây ấn tượng với giáo viên.",
+   "cach_goi": "gọi 'Teacher Frondier', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên quan sát và đánh giá học sinh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hiệu trưởng đưa ra quyết định về bài thi.",
+   "cach_goi": "gọi tên 'Teacher Frondier', trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên chấp nhận quyết định của hiệu trưởng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Các giáo viên khác",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Các đồng nghiệp tranh luận về bài thi của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè quan sát tình hình từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 784,
+  "seconds": 23.7
+ }
+}

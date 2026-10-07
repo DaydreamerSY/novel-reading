@@ -1,0 +1,104 @@
+{
+ "number": 922,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe Belphegor nhắc đến Loki, Frondier nhận ra Mistilteinn là cây thương mà Loki đã tạo ra. Anh suy luận rằng Loki có thể đã từng là một người hùng và những trò lừa bịt của anh ta thực chất là hành động phản kháng chống lại các vị thần. Sau đó, họ tiếp tục cuộc hành trình đến thế giới khác, đối mặt với Hela và đội quân Naglfar của bà ta. Frondier nhận ra rằng Hela không thể đứng cùng phe với anh và một trận chiến bắt đầu.",
+ "boi_canh": "Niflheim, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Belphegor",
+  "Azier",
+  "Odin",
+  "Hela",
+  "Penelope",
+  "Loki"
+ ],
+ "su_kien": [
+  "Frondier nhận ra cây thương Loki đang làm là Mistilteinn.",
+  "Frondier suy luận Loki có thể đã từng là một người hùng và những trò lừa bịt của anh ta là hành động phản kháng.",
+  "Frondier và Belphegor tiếp tục cuộc hành trình đến thế giới khác.",
+  "Họ đối mặt với Hela và đội quân Naglfar.",
+  "Frondier nhận ra rằng Hela không thể đứng cùng phe với anh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, tin tưởng lẫn nhau.",
+   "cach_goi": "gọi tên Belphegor, thân mật"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, tin tưởng lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "chăm sóc và bảo vệ.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "tôn trọng và tuân theo.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, tin tưởng lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hela",
+   "loai": "ke_thu",
+   "mo_ta": "đối đầu, không tin tưởng.",
+   "cach_goi": "gọi tên Hela, lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Hela",
+   "loai": "ke_thu",
+   "mo_ta": "đối đầu, không tin tưởng.",
+   "cach_goi": "gọi tên Hela, lạnh lùng"
+  },
+  {
+   "a": "Hela",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "đối đầu, không tin tưởng.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Hela",
+   "b": "Belphegor",
+   "loai": "ke_thu",
+   "mo_ta": "đối đầu, không tin tưởng.",
+   "cach_goi": "gọi tên Belphegor, lạnh lùng"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "bảo vệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Loki: trước đây là một Jötunn, con trai của một người khổng lồ, và có thể đã từng là một người hùng.",
+  "Mistilteinn: cây thương mà Loki đã tạo ra."
+ ],
+ "stats": {
+  "tokens": 1104,
+  "seconds": 33.2
+ }
+}

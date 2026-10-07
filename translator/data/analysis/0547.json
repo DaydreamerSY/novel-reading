@@ -2,75 +2,71 @@
  "number": 547,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Đội quân của Belphegor cử Adela đi xác minh tiến độ phục hồi rào cản. Adela phát hiện Frondier đang đứng trên rào cản và bắt đầu quá trình phục hồi theo thứ tự chính xác. Sau khi bị Mei, với hình dạng của Frondier, đánh lừa bằng cách biến thành bản sao của cô ấy, Adela hoàn toàn bối rối và không thể hành động.",
- "boi_canh": "Trên rào cản phía bắc của Đế quốc, trong một trận chiến ác liệt giữa quân đội Đế quốc và quái vật.",
+ "tom_tat": "Trong chương này, Selena và Hagley giao chiến trong một hang động, sử dụng các kỹ năng đặc trưng của họ: Selena với kim tiễn và Hagley với bóng tối. Trận đấu diễn ra căng thẳng khi cả hai đều nắm rõ điểm mạnh yếu của đối phương. Selena dần rơi vào thế bất lợi do số lượng kim tiễn hạn chế và Hagley biết rõ các đòn tấn công của cô, nhưng cuối cùng cô sử dụng một kỹ thuật đặc biệt để hóa giải tình thế.",
+ "boi_canh": "Một hang động tối tăm, nơi diễn ra trận chiến giữa Selena và Hagley.",
  "nhan_vat": [
   "Frondier",
-  "Elodie",
-  "Aster",
+  "Selena",
   "Hagley",
-  "Malia",
-  "Mei",
-  "Adela",
-  "Shadow",
-  "Belphegor"
+  "Shadow"
  ],
  "su_kien": [
-  "Adela được cử đi xác minh tiến độ phục hồi rào cản.",
-  "Adela phát hiện Frondier đang thực hiện quá trình phục hồi rào cản theo thứ tự chính xác.",
-  "Mei, với hình dạng của Frondier, đánh lừa Adela bằng cách biến thành bản sao của cô ấy.",
-  "Adela bị bối rối và không thể hành động sau khi bị Mei đánh lừa.",
-  "Mei sử dụng Shadow Transfer để biến mất."
+  "Selena và Hagley giao chiến bằng kim tiễn và bóng tối.",
+  "Selena né tránh các đòn tấn công của Hagley bằng sự linh hoạt và trang phục đặc biệt.",
+  "Hagley nhận ra Selena đang gặp bất lợi do số lượng kim tiễn hạn chế.",
+  "Selena sử dụng kỹ thuật 'Hidden Weapon Throwing Technique' để tung kim tiễn theo tám hướng.",
+  "Selena sử dụng 'Spirit Sealing Needle' để phá giải một đòn tấn công của Hagley."
  ],
  "quan_he": [
   {
-   "a": "Adela",
+   "a": "Selena",
+   "b": "Hagley",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh trong trận chiến, Hagley là người đã huấn luyện Selena.",
+   "cach_goi": "gọi tên, không thân thiết"
+  },
+  {
+   "a": "Hagley",
+   "b": "Selena",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh trong trận chiến, Hagley là người đã huấn luyện Selena.",
+   "cach_goi": "gọi tên, không thân thiết"
+  },
+  {
+   "a": "Selena",
    "b": "Frondier",
-   "loai": "doi_thu",
-   "mo_ta": "Được cử đi xác minh hành động của Frondier, nghi ngờ và muốn ám sát.",
-   "cach_goi": "gọi tên Frondier, lạnh lùng"
-  },
-  {
-   "a": "Frondier",
-   "b": "Adela",
-   "loai": "doi_thu",
-   "mo_ta": "Không biết Adela đang theo dõi mình.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Mei",
-   "b": "Adela",
    "loai": "nguoi_la",
-   "mo_ta": "Đánh lừa và sau đó xin lỗi Adela.",
-   "cach_goi": "gọi tên Adela, thân mật"
-  },
-  {
-   "a": "Adela",
-   "b": "Mei",
-   "loai": "nguoi_la",
-   "mo_ta": "Cố gắng ám sát Mei, sau đó bối rối và hoảng loạn.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Belphegor",
-   "b": "Adela",
-   "loai": "cap_tren",
-   "mo_ta": "Cấp trên của Adela, giao nhiệm vụ cho cô ấy.",
+   "mo_ta": "Không giao tiếp trực tiếp, nhưng Selena nhận thấy sự quan tâm của Frondier đối với Hagley.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Hagley",
-   "b": "Adela",
+   "b": "Frondier",
    "loai": "nguoi_la",
-   "mo_ta": "Đưa ra nhận xét về Frondier.",
+   "mo_ta": "Không giao tiếp trực tiếp, nhưng Hagley nhận thấy sự quan tâm của Frondier đối với Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Shadow",
+   "loai": "nguoi_la",
+   "mo_ta": "Không giao tiếp trực tiếp, Shadow là một nhân vật được nhắc đến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Shadow",
+   "loai": "nguoi_la",
+   "mo_ta": "Không giao tiếp trực tiếp, Shadow là một nhân vật được nhắc đến.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Mei hiện đang ở trong hình dạng của Frondier theo yêu cầu của Frondier."
+  "Selena: Kẻ ám sát của 'Yeolgot', ít tài năng ma thuật hơn những người khác nhưng có kỹ năng cận chiến và sử dụng kim tiễn xuất sắc.",
+  "Hagley: Người đã huấn luyện Selena, biết rõ các kỹ thuật chiến đấu của cô."
  ],
  "stats": {
-  "tokens": 820,
-  "seconds": 25.6
+  "tokens": 864,
+  "seconds": 27.0
  }
 }

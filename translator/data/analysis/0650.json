@@ -1,0 +1,77 @@
+{
+ "number": 650,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier niệm thần chú 'Menosorpo', Elysia kích hoạt 'Rafflesia'. Marco lầm tưởng chỉ có rune của Frondier đang hoạt động và không hiểu tại sao quỷ dữ lại tập trung về phía Frondier. Trong lúc đó, Frondier nhận ra những đòn tấn công này nhằm hăm dọa chứ không phải giết mình, và tận dụng tình hình để phân tích. Cuối cùng, Frondier sử dụng búa Mjölnir được ban sức mạnh sấm sét để tiêu diệt lũ quỷ, đồng thời bảo vệ Elysia bằng Obsidian.",
+ "boi_canh": "Một trận chiến đang diễn ra giữa Frondier và một đám đông quỷ dữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Elysia",
+  "Lunia",
+  "Marco"
+ ],
+ "su_kien": [
+  "Elysia kích hoạt 'Rafflesia' sau khi Frondier niệm thần chú.",
+  "Marco tấn công lũ quỷ bằng phép thuật lửa, nhưng lầm tưởng chỉ có rune của Frondier đang hoạt động.",
+  "Frondier nhận ra mục đích của cuộc tấn công là hăm dọa chứ không phải giết mình.",
+  "Frondier sử dụng búa Mjölnir để tiêu diệt lũ quỷ.",
+  "Frondier bảo vệ Elysia bằng Obsidian."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Frondier bảo vệ Elysia.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Elysia cần sự bảo vệ từ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tạm thời, Frondier chế giễu Marco.",
+   "cach_goi": "gọi tên Marco, trêu chọc"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Marco đang đánh giá lại Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lunia",
+   "loai": "nguoi_la",
+   "mo_ta": "Con tin, Frondier quan tâm đến sự an toàn của Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Lunia",
+   "loai": "nguoi_la",
+   "mo_ta": "Con tin, Marco lo sợ lũ quỷ sẽ làm hại Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Lunia",
+   "loai": "gia_dinh",
+   "mo_ta": "Người thân, Aster có thể gây nguy hiểm nếu Lunia bị làm hại.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 877,
+  "seconds": 26.2
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "number": 839,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và nhóm đối mặt với một lượng lớn quái vật. Anh ta sử dụng 'Cung Thần' để tiêu diệt chúng bằng những mũi tên mưa tàn phá. Lily nhận ra sức mạnh của Frondier vượt xa logic chiến tranh thông thường, trong khi Selena chuẩn bị cho việc di chuyển tiếp theo sau chỉ thị của Frondier. Cuối cùng, Gregory (một con quạ) báo cáo rằng Pielott đã tiêu diệt một đám đông lớn quỷ dữ, khiến Frondier lo lắng và thay đổi kế hoạch.",
+ "boi_canh": "Một khu vực chiến trường đầy rẫy quái vật, thời điểm giữa trận chiến.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Pielott",
+  "Gregory",
+  "Basileo",
+  "Artemis"
+ ],
+ "su_kien": [
+  "Quái vật tiếp cận Frondier và nhóm của anh ta.",
+  "Frondier sử dụng 'Cung Thần' để tiêu diệt quái vật bằng mũi tên mưa.",
+  "Lily nhận ra sức mạnh đặc biệt của Frondier.",
+  "Selena chuẩn bị cho việc di chuyển tiếp theo sau chỉ thị của Frondier.",
+  "Gregory (con quạ) báo cáo rằng Pielott đã tiêu diệt một đám đông lớn quỷ dữ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Frondier ra lệnh cho Elodie",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "người lãnh đạo, Elodie tuân theo chỉ thị của Frondier",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Lily",
+   "b": "Basileo",
+   "loai": "gia_dinh",
+   "mo_ta": "chăm sóc Basileo trong xe ngựa",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội, Selena ra lệnh cho Lily",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "đồng đội, Lily tuân theo chỉ thị của Selena",
+   "cach_goi": "gọi tên Selena, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "cap_tren",
+   "mo_ta": "người lãnh đạo, Frondier lo lắng về Pielott",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "con quạ, đưa tin cho Frondier",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "nguoi_la",
+   "mo_ta": "con quạ, Frondier nhận ra Gregory là kẻ thù cũ",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 794,
+  "seconds": 23.9
+ }
+}

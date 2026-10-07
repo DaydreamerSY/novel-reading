@@ -1,0 +1,100 @@
+{
+ "number": 865,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chapter này tập trung vào cuộc trò chuyện của Satan và các thành viên khác trong Hội Tội Lỗi về việc Frondier sử dụng sức mạnh Ecleksis. Họ phân tích cách Frondier lợi dụng sự hiểu lầm về nguồn gốc sức mạnh của mình, đồng thời thảo luận về những tác động tiềm ẩn của sức mạnh này và vai trò của Arald. Cuối cùng, Frondier đối đầu với Paladin Charon, sử dụng một cây cung ma thuật để khiến anh ta quỳ gối.",
+ "boi_canh": "Một căn phòng bí mật trong Hội Tội Lỗi, nơi các thành viên đang theo dõi màn hình hiển thị sự kiện ở Palma Square.",
+ "nhan_vat": [
+  "Satan",
+  "Mammon",
+  "Lucifer",
+  "Asmodeus",
+  "Beelzebub",
+  "Astaroth",
+  "Frondier",
+  "Selena",
+  "Pielott",
+  "Baal",
+  "Arald",
+  "Athena",
+  "Artemis",
+  "Astaroth",
+  "Beelzebub",
+  "Lucifer",
+  "Asmodeus",
+  "Mammon",
+  "Charon"
+ ],
+ "su_kien": [
+  "Satan và các thành viên Hội Tội Lỗi quan sát Frondier sử dụng sức mạnh Ecleksis.",
+  "Họ thảo luận về nguồn gốc của sức mạnh Ecleksis và cách Frondier lợi dụng sự hiểu lầm về nó.",
+  "Mammon nhận xét rằng Frondier dường như không bị ảnh hưởng bởi 'Humanity Contract'.",
+  "Lucifer nghi ngờ có một yếu tố kích hoạt ẩn sau việc Frondier sử dụng sức mạnh Ecleksis.",
+  "Frondier đối đầu với Paladin Charon và khiến anh ta quỳ gối bằng một cây cung ma thuật."
+ ],
+ "quan_he": [
+  {
+   "a": "Satan",
+   "b": "Mammon",
+   "loai": "cap_tren",
+   "mo_ta": "Satan là người lãnh đạo, Mammon là thành viên cấp dưới.",
+   "cach_goi": "gọi tên Mammon, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Lucifer",
+   "loai": "cap_tren",
+   "mo_ta": "Satan và Lucifer đều là những thành viên quan trọng của Hội Tội Lỗi.",
+   "cach_goi": "gọi tên Lucifer, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mammon",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Mammon là thành viên cấp dưới, Satan là người lãnh đạo.",
+   "cach_goi": "gọi tên Satan, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lucifer",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Lucifer và Satan đều là những thành viên quan trọng của Hội Tội Lỗi.",
+   "cach_goi": "gọi tên Satan, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Satan",
+   "loai": "khac",
+   "mo_ta": "Frondier là đối tượng được quan sát bởi Satan, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Satan",
+   "loai": "nguoi_la",
+   "mo_ta": "Satan biết Arald nhưng không tương tác trực tiếp.",
+   "cach_goi": "gọi tên Arald, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Charon",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier có vẻ bề ngoài lạnh lùng và khinh miệt.",
+   "cach_goi": "gọi tên Charon, trịch thượng"
+  },
+  {
+   "a": "Charon",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Charon ban đầu tỏ ra khinh thường.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Slindelis’s Bow: Cây cung của demon Slindelis, hiện đang thuộc sở hữu của Frondier."
+ ],
+ "stats": {
+  "tokens": 1018,
+  "seconds": 31.1
+ }
+}

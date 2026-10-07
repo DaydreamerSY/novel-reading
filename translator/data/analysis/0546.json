@@ -2,78 +2,75 @@
  "number": 546,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Frondier phải đối mặt với sức mạnh của 'Sự Lười Biếng' từ Belphegor, gây ảnh hưởng lớn đến tinh thần và cơ thể anh. Anh kiên nhẫn phân tích tình hình, nhận ra Belphegor đang chờ đợi thời gian trôi qua để Manggot chiến thắng. Trong khi đó, Mei tuân theo chỉ dẫn của Frondier, di chuyển quanh rào cản và đặt câu hỏi về chiến lược kỳ lạ mà anh đã vạch ra.",
- "boi_canh": "Bên trong một khu vực bị ảnh hưởng bởi sức mạnh của Belphegor, thời điểm hiện tại là lúc cuộc đối đầu giữa Frondier và Belphegor đang diễn ra.",
+ "tom_tat": "Đội quân của Belphegor cử Adela đi xác minh tiến độ phục hồi rào cản. Adela phát hiện Frondier đang đứng trên rào cản và bắt đầu quá trình phục hồi theo thứ tự chính xác. Sau khi bị Mei, với hình dạng của Frondier, đánh lừa bằng cách biến thành bản sao của cô ấy, Adela hoàn toàn bối rối và không thể hành động.",
+ "boi_canh": "Trên rào cản phía bắc của Đế quốc, trong một trận chiến ác liệt giữa quân đội Đế quốc và quái vật.",
  "nhan_vat": [
   "Frondier",
   "Elodie",
-  "Enfer",
+  "Aster",
+  "Hagley",
+  "Malia",
   "Mei",
-  "Frondier de Roach",
   "Adela",
-  "Belphegor",
-  "Thanatos",
-  "Manggot",
-  "Yeranhes",
-  "Tyburn",
-  "The Gods"
+  "Shadow",
+  "Belphegor"
  ],
  "su_kien": [
-  "Belphegor tấn công Frondier bằng sức mạnh 'Sự Lười Biếng'.",
-  "Frondier phân tích chiến thuật của Belphegor và nhận ra anh đang chờ đợi thời gian trôi qua.",
-  "Mei di chuyển quanh rào cản theo chỉ dẫn của Frondier.",
-  "Mei đặt câu hỏi về chiến lược kỳ lạ mà Frondier đã vạch ra.",
-  "Adela xác nhận điều gì đó liên quan đến kế hoạch của Frondier."
+  "Adela được cử đi xác minh tiến độ phục hồi rào cản.",
+  "Adela phát hiện Frondier đang thực hiện quá trình phục hồi rào cản theo thứ tự chính xác.",
+  "Mei, với hình dạng của Frondier, đánh lừa Adela bằng cách biến thành bản sao của cô ấy.",
+  "Adela bị bối rối và không thể hành động sau khi bị Mei đánh lừa.",
+  "Mei sử dụng Shadow Transfer để biến mất."
  ],
  "quan_he": [
   {
-   "a": "Frondier",
-   "b": "Belphegor",
+   "a": "Adela",
+   "b": "Frondier",
    "loai": "doi_thu",
-   "mo_ta": "Đối thủ đang đối đầu trong một trận chiến.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "mo_ta": "Được cử đi xác minh hành động của Frondier, nghi ngờ và muốn ám sát.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
   },
   {
    "a": "Frondier",
-   "b": "Mei",
-   "loai": "thay_tro",
-   "mo_ta": "Người thầy hướng dẫn người học việc.",
-   "cach_goi": "gọi tên Mei, thân mật"
+   "b": "Adela",
+   "loai": "doi_thu",
+   "mo_ta": "Không biết Adela đang theo dõi mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Mei",
-   "b": "Frondier",
-   "loai": "thay_tro",
-   "mo_ta": "Người học việc đặt câu hỏi cho người thầy.",
-   "cach_goi": "gọi tên Frondier, tôn trọng"
-  },
-  {
-   "a": "Frondier",
-   "b": "Thanatos",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ, có vẻ như đã từng đối đầu.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Manggot",
-   "loai": "ke_thu",
-   "mo_ta": "Kẻ thù, đang chờ đợi chiến thắng.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "b": "Adela",
+   "loai": "nguoi_la",
+   "mo_ta": "Đánh lừa và sau đó xin lỗi Adela.",
+   "cach_goi": "gọi tên Adela, thân mật"
   },
   {
    "a": "Adela",
-   "b": "Frondier",
-   "loai": "ke_thu",
-   "mo_ta": "Xác nhận điều gì đó liên quan đến kế hoạch của Frondier.",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "Cố gắng ám sát Mei, sau đó bối rối và hoảng loạn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Adela",
+   "loai": "cap_tren",
+   "mo_ta": "Cấp trên của Adela, giao nhiệm vụ cho cô ấy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Adela",
+   "loai": "nguoi_la",
+   "mo_ta": "Đưa ra nhận xét về Frondier.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Frondier de Roach (Tên đầy đủ của nhân vật chính)"
+  "Mei hiện đang ở trong hình dạng của Frondier theo yêu cầu của Frondier."
  ],
  "stats": {
-  "tokens": 849,
-  "seconds": 26.5
+  "tokens": 820,
+  "seconds": 25.6
  }
 }

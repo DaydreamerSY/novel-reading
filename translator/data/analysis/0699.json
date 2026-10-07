@@ -1,0 +1,62 @@
+{
+ "number": 699,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Frondier đứng cạnh Elodie, Revet đã phản ứng gay gắt. Để giải quyết tình hình, Frondier đề nghị học nghề làm giáo đòn bẩy với Revet. Trong quá trình luyện tập, cuộc trò chuyện của họ dẫn đến một sự hiểu biết sâu sắc hơn về triết lý chiến đấu và tầm quan trọng của việc thích nghi từ Monty.",
+ "boi_canh": "Một khu vực không xác định, có lẽ là trong khuôn viên trường hoặc nơi huấn luyện quân sự, vào thời điểm Frondier đang học nghề làm giáo đòn bẩy với Revet.",
+ "nhan_vat": [
+  "Frondier",
+  "Revet",
+  "Elodie",
+  "Monty"
+ ],
+ "su_kien": [
+  "Revet phản ứng tiêu cực khi thấy Frondier đứng cạnh Elodie.",
+  "Frondier đề nghị học nghề làm giáo đòn bẩy với Revet để giải quyết sự căng thẳng.",
+  "Revet đồng ý dạy Frondier, nhưng với thái độ hung hăng.",
+  "Cuộc trò chuyện giữa Frondier và Revet xoay quanh tầm quan trọng của việc thích nghi trong chiến đấu.",
+  "Frondier nhớ lại lời khuyên của Monty về việc sử dụng bất kỳ thứ gì để sống sót trong chiến tranh."
+ ],
+ "quan_he": [
+  {
+   "a": "Revet",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Căng thẳng và thù địch do sự gần gũi của Frondier với Elodie.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Revet",
+   "loai": "doi_thu",
+   "mo_ta": "Cố gắng xoa dịu tình hình và học nghề từ Revet.",
+   "cach_goi": "gọi tên Revet, thân mật"
+  },
+  {
+   "a": "Revet",
+   "b": "Elodie",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em gái, mối quan hệ căng thẳng do sự xuất hiện của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân, sự gần gũi của họ gây ra sự khó chịu cho Revet.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "thay_tro",
+   "mo_ta": "Người cố vấn, Monty đã chia sẻ những lời khuyên quan trọng với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 730,
+  "seconds": 21.8
+ }
+}

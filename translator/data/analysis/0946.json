@@ -1,0 +1,109 @@
+{
+ "number": 946,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận được thông báo về việc các vị thần sẽ xuất hiện vượt qua Rào cản Tyburn, nhóm của Frondier tập hợp lại để thảo luận. Họ phát hiện ra rằng sự kiện này có thể báo hiệu một cuộc chiến tranh toàn diện đang đến gần. Trong khi đó, trên một con tàu, Quinie đã ngăn chặn được thảm họa khi biển rút xuống đột ngột, và sau đó phải sử dụng phép thuật để giữ cho con tàu đứng vững. Aster vội vã đến Falind sau sự kiện này.",
+ "boi_canh": "Trong phòng của Frondier tại một địa điểm không xác định, vào thời điểm các vị thần chuẩn bị xuất hiện.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Lily",
+  "Pielott",
+  "Arald",
+  "Gregory",
+  "Ludovic",
+  "Basileo",
+  "Aias",
+  "Ria Lis",
+  "Quinie",
+  "Glaukos"
+ ],
+ "su_kien": [
+  "Nhóm nhận được thông báo về sự xuất hiện của các vị thần vượt qua Rào cản Tyburn.",
+  "Họ phát hiện ra rằng việc này có thể loại bỏ quy trình 'hạ cánh' của các vị thần.",
+  "Pielott vẫn đang ngủ, dường như bị ảnh hưởng bởi Hypnos.",
+  "Zodiac Ludovic đến bằng cách sử dụng cổng và báo cáo về biển chìm.",
+  "Quinie ngăn chặn được thảm họa khi biển rút xuống đột ngột và giữ cho con tàu đứng vững."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier lắng nghe Gregory báo cáo về sự xuất hiện của các vị thần.",
+   "cach_goi": "gọi tên Gregory, lễ phép"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Arald bày tỏ sự ngạc nhiên về thông tin liên quan đến Tyburn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Gregory thông báo cho Frondier và những người khác về sự xuất hiện của các vị thần.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Gregory",
+   "loai": "cap_tren",
+   "mo_ta": "Ludovic đến và báo cáo về biển chìm.",
+   "cach_goi": "gọi tên Gregory, lễ phép"
+  },
+  {
+   "a": "Gregory",
+   "b": "Ludovic",
+   "loai": "cap_tren",
+   "mo_ta": "Gregory tiếp đón Ludovic và nhận thông tin từ ông ta.",
+   "cach_goi": "gọi tên Ludovic, lễ phép"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Ludovic bày tỏ sự khó chịu về việc Pielott vẫn còn ngủ.",
+   "cach_goi": "gọi 'bratt', trịch thượng"
+  },
+  {
+   "a": "Gregory",
+   "b": "Pielott",
+   "loai": "nguoi_la",
+   "mo_ta": "Gregory nhìn Pielott với sự lo lắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Thuyền trưởng",
+   "loai": "nguoi_la",
+   "mo_ta": "Quinie ngăn chặn thuyền trưởng ra lệnh nâng buồm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Quinie",
+   "b": "Thủy thủ",
+   "loai": "dong_minh",
+   "mo_ta": "Quinie ra lệnh cho thủy thủ ném hàng hóa xuống biển.",
+   "cach_goi": "gọi 'các bạn', thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Không ai",
+   "loai": "nguoi_la",
+   "mo_ta": "Aster chạy trên lục địa Falind.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Tyburn: Địa điểm nơi các vị thần sẽ xuất hiện.",
+  "Falind: Lục địa mà Pielott đến từ đó."
+ ],
+ "stats": {
+  "tokens": 1175,
+  "seconds": 35.3
+ }
+}

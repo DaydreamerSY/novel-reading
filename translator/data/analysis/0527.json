@@ -2,48 +2,73 @@
  "number": 527,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong một trận chiến căng thẳng với Notker, Frondier nhận ra rằng đối thủ của mình đã giữ lại sức mạnh thực sự. Sau khi Aster kích động, Notker sử dụng kỹ năng thật của mình và nhận thấy cuộc chiến diễn ra cân bằng kỳ lạ ngay từ đầu. Cuối cùng, Aster tiết lộ rằng anh ta đang điều chỉnh theo phong cách chiến đấu của Notker và nhìn thấu những gì Notker đang che giấu.",
- "boi_canh": "Một trận chiến giữa Frondier và Notker tại một địa điểm không xác định.",
+ "tom_tat": "Trong chương này, khi trận chiến diễn ra tại rào chắn Tyburn, Hector phải đối mặt với tình hình căng thẳng: quân địch liên tục tấn công bằng những quái vật cấp thấp, khiến nguồn cung cấp tên và phép thuật của người dần cạn kiệt. Sự xuất hiện đột ngột của một nhóm Minotaur khổng lồ báo hiệu một cuộc tấn công quy mô lớn hơn sắp tới, buộc Aster phải đối mặt với nguy hiểm cận kề và Frondier phải bày tỏ những cảm xúc phức tạp về sự bất lực và kỳ vọng.",
+ "boi_canh": "Rào chắn Tyburn, trong một trận chiến đang diễn ra.",
  "nhan_vat": [
   "Frondier",
   "Aster",
-  "Notker"
+  "Ludwig",
+  "Notker",
+  "Aster Evans",
+  "Hector",
+  "Manggot"
  ],
  "su_kien": [
-  "Notker nhận thấy sự kỳ lạ trong trận chiến.",
-  "Trận đấu giữa Aster và Notker diễn ra cân bằng.",
-  "Notker sử dụng kỹ năng thật của mình.",
-  "Aster tiết lộ anh ta đang điều chỉnh theo phong cách chiến đấu của Notker.",
-  "Aster chỉ trích Notker vì thiếu sự tuyệt vọng."
+  "Quái vật cấp thấp liên tục tấn công rào chắn Tyburn.",
+  "Hector sử dụng phép 'Chain Lightning' của Ludwig để tiêu diệt một nhóm quái vật chim.",
+  "Sự xuất hiện của một nhóm Minotaur khổng lồ được phát hiện.",
+  "Notker bỏ chạy khỏi Aster và kêu gọi lui vào trong rào chắn.",
+  "Aster nhận ra Frondier đã dự đoán trước tình hình này."
  ],
  "quan_he": [
   {
-   "a": "Notker",
-   "b": "Frondier",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ trong trận chiến, Notker nghi ngờ Frondier đang che giấu sức mạnh.",
+   "a": "Hector",
+   "b": "Quân lính trên tường",
+   "loai": "dong_minh",
+   "mo_ta": "Hector ra lệnh cho quân lính, thể hiện vai trò lãnh đạo.",
+   "cach_goi": "gọi 'Archers!', trịch thượng"
+  },
+  {
+   "a": "Quân lính trên tường",
+   "b": "Hector",
+   "loai": "dong_minh",
+   "mo_ta": "Quân lính tuân lệnh Hector.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Aster",
    "b": "Notker",
    "loai": "doi_thu",
-   "mo_ta": "Đối thủ trong trận chiến, Aster đang phân tích và điều chỉnh phong cách chiến đấu của Notker.",
-   "cach_goi": "gọi tên Notker, không rõ thái độ"
+   "mo_ta": "Cả hai đang đối đầu trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Notker",
    "b": "Aster",
    "loai": "doi_thu",
-   "mo_ta": "Đối thủ trong trận chiến, Notker cảm thấy bị hạ nhục bởi Aster.",
-   "cach_goi": "gọi tên Aster, thô lỗ"
+   "mo_ta": "Notker bỏ chạy khỏi Aster.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier đã đưa Aster đến Tyburn và bày tỏ sự bất lực.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Aster nhận ra Frondier đã dự đoán trước tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Aster Evans: Tên đầy đủ của Aster."
+  "Hector Von Urfa (tên thật của Hector)"
  ],
  "stats": {
-  "tokens": 514,
-  "seconds": 16.0
+  "tokens": 780,
+  "seconds": 24.3
  }
 }

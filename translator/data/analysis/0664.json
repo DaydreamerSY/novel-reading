@@ -1,0 +1,66 @@
+{
+ "number": 664,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đánh bại Baal và Marco, Frondier giải trừ rào chắn Obsidian bảo vệ Elysia. Elysia tỏ ra mệt mỏi nhưng không bị thương nặng. Frondier giữ lại Baal và Marco để khai thác thông tin từ chúng về cuộc chiến giữa các phe phái quỷ dữ, đặc biệt là những con quỷ phương Tây. Cô nghi ngờ có một cách khác để đưa quỷ tới thế giới loài người ngoài cổng dịch chuyển mà Satan đã sử dụng.",
+ "boi_canh": "Trong một trận chiến vừa kết thúc, với xác chết của vô số quỷ dữ nằm vây quanh.",
+ "nhan_vat": [
+  "Frondier",
+  "Elysia",
+  "Lily",
+  "Baal",
+  "Marco",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Frondier giải trừ rào chắn Obsidian bảo vệ Elysia.",
+  "Elysia bày tỏ sự mệt mỏi sau trận chiến.",
+  "Frondier giữ lại Baal và Marco để khai thác thông tin.",
+  "Frondier suy nghĩ về việc thống nhất các phe phái quỷ dữ.",
+  "Frondier nhận ra rằng những con quỷ phương Tây nắm giữ manh mối quan trọng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "ban_be",
+   "mo_ta": "Frondier giải cứu và bảo vệ Elysia sau trận chiến.",
+   "cach_goi": "gọi tên Elysia, thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Elysia bày tỏ sự mệt mỏi và hỏi về tương lai.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier giữ lại Baal để khai thác thông tin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier giữ lại Marco để khai thác thông tin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Elysia hỏi về lý do tại sao cô vẫn còn ở đó.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Shadow: thành viên Đội Bóng Tối của Đế Chế, có thể đã được triệu hồi thông qua giao kèo linh hồn và Dragonheart."
+ ],
+ "stats": {
+  "tokens": 727,
+  "seconds": 22.6
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "number": 904,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi phát hiện máu của Azier tại hiện trường vụ án, mọi người nghi ngờ đây là manh mối quan trọng. Họ suy luận rằng kẻ thủ ác đã cố tình tạo ra một trận chiến để che giấu phương pháp giết người thực sự. Frondier nhận ra rằng kẻ thủ ác có thể đang nhắm vào anh ta và sử dụng Azier như mồi nhử. Cuối cùng, Revet gọi điện cho Frondier với những lời cảnh báo khó hiểu, dẫn đến việc Frondier tới một hang động ở Tyburn, nơi anh gặp Elodie trong tình trạng nguy hiểm.",
+ "boi_canh": "Hiện trường vụ án của Azier, tại đế quốc.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Philly",
+  "Aten",
+  "Azier",
+  "Dier",
+  "Jane",
+  "Sale",
+  "Revet",
+  "Hector",
+  "Zeus",
+  "Agni",
+  "Chandra",
+  "Fron",
+  "Elysia",
+  "Thanatos",
+  "Inies"
+ ],
+ "su_kien": [
+  "Phát hiện máu của Azier tại hiện trường vụ án.",
+  "Suy luận về phương pháp giết người thực sự của kẻ thủ ác.",
+  "Frondier nhận ra kẻ thủ ác có thể đang nhắm vào anh ta.",
+  "Revet gọi điện cho Frondier với những lời cảnh báo khó hiểu.",
+  "Frondier gặp Elodie tại một hang động ở Tyburn, nơi cô sử dụng sức mạnh thần thánh."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người từng đối đầu nhau trong quá khứ.",
+   "cach_goi": "gọi tên Azier, không rõ cảm xúc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người cùng điều tra vụ án.",
+   "cach_goi": "gọi tên Dier, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly là người có địa vị cao hơn và quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người cùng quan tâm đến vụ án.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Revet",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người không quen biết nhau trước khi Revet gọi điện.",
+   "cach_goi": "gọi tên Frondier, thân mật nhưng vội vã"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Hai người có quan hệ tình cảm.",
+   "cach_goi": "gọi tên Fron, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Revet",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em gái.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Hector",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Fron: Tên thân mật của Frondier, gọi bởi Elodie.",
+  "Thanatos: Kẻ thủ ác được xác định là thần chết Thanatos."
+ ],
+ "stats": {
+  "tokens": 1025,
+  "seconds": 31.0
+ }
+}

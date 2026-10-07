@@ -1,0 +1,112 @@
+{
+ "number": 833,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận được thông tin từ Colin về việc Charon đang cố tình kích động chiến tranh nội bộ, Frondier và nhóm của anh ta lên đường truy tìm Charon. Trong quá trình di chuyển, Frondier nghi ngờ rằng cả Hera và Aphrodite cũng là giả mạo và những người đứng sau có thể là 72 Quỷ. Anh ta cũng nhận ra rằng Bruna và Lupina không phải vô tình gặp nhau mà đang cố tình tạo ra xung đột. Bất ngờ, chiếc xe của họ bị tấn công bởi một vụ nổ lớn, do Lily điều khiển để tránh tai họa.",
+ "boi_canh": "Trong xe hơi trên đường đến căn cứ của Charon.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Renzo",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Arald",
+  "Antero",
+  "Hera",
+  "Aphrodite",
+  "Charon",
+  "Bruna",
+  "Lupina",
+  "Colin"
+ ],
+ "su_kien": [
+  "Frondier nhận định Charon đang kích động chiến tranh nội bộ.",
+  "Frondier nghi ngờ Hera và Aphrodite là giả mạo.",
+  "Frondier suy luận Bruna và Lupina cố tình tạo ra xung đột.",
+  "Chiếc xe của nhóm bị tấn công bởi một vụ nổ lớn.",
+  "Lily điều khiển xe để tránh tai họa."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội tin tưởng lẫn nhau.",
+   "cach_goi": "gọi tên Carla, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội tin tưởng lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Colin",
+   "loai": "nguoi_la",
+   "mo_ta": "người cung cấp thông tin.",
+   "cach_goi": "gọi tên Colin, lễ phép"
+  },
+  {
+   "a": "Colin",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "người cung cấp thông tin.",
+   "cach_goi": "gọi tên Frondier, trung lập"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "lái xe và lắng nghe Frondier.",
+   "cach_goi": "gọi tên Frondier, tôn trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "ban_be",
+   "mo_ta": "lái xe và lắng nghe Frondier.",
+   "cach_goi": "gọi tên Arald, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "người trên nóc xe.",
+   "cach_goi": "gọi tên Frondier, trung lập"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "người trên nóc xe.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Selena",
+   "loai": "khac",
+   "mo_ta": "lái xe và báo động nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Lily",
+   "loai": "khac",
+   "mo_ta": "lái xe và báo động nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Charon (nghi là giả mạo)",
+  "Hera (nghi là giả mạo)",
+  "Aphrodite (nghi là giả mạo)"
+ ],
+ "stats": {
+  "tokens": 1120,
+  "seconds": 33.9
+ }
+}

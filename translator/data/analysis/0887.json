@@ -1,0 +1,77 @@
+{
+ "number": 887,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào những lo ngại của Bartello và Philly về sự thay đổi trong Đế quốc sau khi các Zodiacs trải qua sự kiện bị chiếm đoạt bởi thần thánh. Họ suy ngẫm về vai trò của Frondier, người đã từng là anh hùng nhưng sau đó trở thành quỷ dữ, và những ảnh hưởng sâu sắc mà việc trục xuất ông ta đã gây ra cho Đế quốc. Đồng thời, ở vùng Tyburn, Hector Dutoit đối mặt với cha mình, Ludwig von Urfa, người đang chìm trong rượu và che giấu một bí mật khủng khiếp liên quan đến Yggdrasil.",
+ "boi_canh": "Trong phòng làm việc của Bartello và Philly tại cung điện Hoàng gia Đế quốc.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly Terst",
+  "Malia",
+  "Bartello Tert",
+  "Ludovic",
+  "Hector Von Urfa (Hector Dutoit)",
+  "Dutoit",
+  "Ludwig von Urfa"
+ ],
+ "su_kien": [
+  "Các Zodiacs hoài nghi sâu sắc hơn sau sự kiện bị chiếm đoạt bởi thần thánh.",
+  "Bartello và Philly lo lắng về tương lai của Đế quốc và những hy sinh mà nó có thể phải gánh chịu.",
+  "Hector chất vấn Ludwig về bí mật mà ông ta đang che giấu.",
+  "Ludwig tiết lộ một tầm nhìn đáng sợ liên quan đến Yggdrasil.",
+  "Bartello và Philly suy ngẫm về vai trò của Frondier trong tương lai của Đế quốc."
+ ],
+ "quan_he": [
+  {
+   "a": "Bartello",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng, chia sẻ lo lắng về tình hình Đế quốc.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Bartello",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng, chia sẻ lo lắng về tình hình Đế quốc.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Hector",
+   "b": "Ludwig",
+   "loai": "cap_tren",
+   "mo_ta": "Con trai và cha, Hector chất vấn Ludwig.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Hector",
+   "loai": "cap_tren",
+   "mo_ta": "Cha và con trai, Ludwig né tránh câu hỏi của Hector.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Bartello",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng, cùng suy nghĩ về Frondier.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Malia",
+   "b": "Bartello",
+   "loai": "gia_dinh",
+   "mo_ta": "Vợ chồng, cùng suy nghĩ về Frondier.",
+   "cach_goi": "gọi tên, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Aster Evans: Tên đầy đủ của Aster.",
+  "Hector Dutoit: Tên thật là Hector Von Urfa."
+ ],
+ "stats": {
+  "tokens": 869,
+  "seconds": 26.3
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "number": 823,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hướng dẫn Pielott và Dier, Frondier nhận ra mỗi học trò là một cá thể riêng biệt với những trải nghiệm khác nhau. Ông nhận thấy việc kỳ vọng họ đạt được cùng mức độ nỗ lực như mình là không hợp lý. Trong buổi spar, ông đã vô tình khiến Basileo, Glaukos và Aias kiệt sức. Sau đó, Frondier giải thích về tầm quan trọng của việc chấp nhận hiện thực và đưa ra những lời khuyên cho từng học trò, đặc biệt nhấn mạnh sự cần thiết phải vượt qua giới hạn bản thân.",
+ "boi_canh": "Một khu vực luyện tập trong trường học, sau buổi spar.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Pielott",
+  "Dier",
+  "Lunia",
+  "Basileo",
+  "Glaukos",
+  "Aias"
+ ],
+ "su_kien": [
+  "Frondier nhận ra sự khác biệt giữa các học trò.",
+  "Buổi spar khiến Basileo, Glaukos và Aias kiệt sức.",
+  "Frondier giải thích lý do ông không tấn công trong buổi spar.",
+  "Ông đưa ra lời khuyên cho từng học trò về cách trở nên mạnh mẽ hơn.",
+  "Elodie đề xuất một phương pháp đặc biệt dành riêng cho Basileo."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "giáo viên và học sinh, Frondier là người hướng dẫn.",
+   "cach_goi": "gọi tên Pielott, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "thay_tro",
+   "mo_ta": "giáo viên và học sinh, Frondier là người hướng dẫn.",
+   "cach_goi": "gọi tên Dier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "cap_tren",
+   "mo_ta": "giáo viên và học sinh, Frondier là người có vị thế cao hơn.",
+   "cach_goi": "gọi tên Basileo, lễ phép"
+  },
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "học sinh và giáo viên, Basileo bày tỏ sự tôn trọng.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Glaukos",
+   "loai": "cap_tren",
+   "mo_ta": "giáo viên và học sinh, Frondier là người có vị thế cao hơn.",
+   "cach_goi": "gọi tên Glaukos, lễ phép"
+  },
+  {
+   "a": "Glaukos",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "học sinh và giáo viên, Glaukos bày tỏ sự tôn trọng.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aias",
+   "loai": "cap_tren",
+   "mo_ta": "giáo viên và học sinh, Frondier là người có vị thế cao hơn.",
+   "cach_goi": "gọi tên Aias, lễ phép"
+  },
+  {
+   "a": "Aias",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "học sinh và giáo viên, Aias bày tỏ sự tôn trọng.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè thân thiết.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè thân thiết.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1103,
+  "seconds": 33.5
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "number": 734,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi một vụ án được giải quyết, Frondier và Hoàng hậu Philly tranh cãi về cách xử lý dư luận. Frondier lo ngại việc công khai thông tin sẽ dẫn đến hỗn loạn và đổ máu, trong khi Philly cố gắng thuyết phục anh ta rằng tình hình có thể kiểm soát được. Cuối cùng, Frondier quyết định rời khỏi Đế quốc để chịu trách nhiệm cho những cáo buộc sai trái, giao phó vận mệnh của Đế quốc cho Philly và bày tỏ lòng biết ơn đối với sự giúp đỡ của cô.",
+ "boi_canh": "Trong phòng làm việc Hoàng hậu, vào một thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Lily",
+  "Ludovic",
+  "Robert",
+  "Odin"
+ ],
+ "su_kien": [
+  "Vụ án đã được giải quyết, nhưng dư luận vẫn còn bất ổn.",
+  "Philly cố gắng thuyết phục Frondier công khai thông tin về vụ án để xoa dịu dân chúng.",
+  "Frondier lo ngại việc công khai thông tin sẽ dẫn đến bạo lực và chia rẽ Đế quốc.",
+  "Frondier quyết định rời khỏi Đế quốc để chịu trách nhiệm cho những cáo buộc sai trái.",
+  "Frondier giao phó vận mệnh của Đế quốc cho Philly."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là người được giao phó trách nhiệm, Philly là cấp trên và người có quyền lực.",
+   "cach_goi": "gọi tên 'Philly', thân mật"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly là cấp trên, thể hiện sự quan tâm và trách nhiệm đối với Frondier.",
+   "cach_goi": "gọi tên 'Frondier', lễ phép nhưng đôi khi trịch thượng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Lily tránh né ánh mắt của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Aten",
+   "loai": "gia_dinh",
+   "mo_ta": "Không có tương tác trực tiếp, mối quan hệ gia đình không được đề cập trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Odin",
+   "loai": "doi_thu",
+   "mo_ta": "Không có tương tác trực tiếp, mối quan hệ đối địch không được đề cập trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier: Được biết đến với danh hiệu 'anh hùng của Đế quốc', 'hy vọng thứ hai' nhưng cảm thấy bị gán ghép sai lầm."
+ ],
+ "stats": {
+  "tokens": 794,
+  "seconds": 23.7
+ }
+}

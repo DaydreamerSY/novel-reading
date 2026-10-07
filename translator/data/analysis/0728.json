@@ -1,0 +1,77 @@
+{
+ "number": 728,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong phòng của mình, Lily nhận ra những kẻ xâm nhập là lính canh hoàng gia do Ludovic dẫn đầu, đến để bắt giữ cô vì bị nghi ngờ là quỷ dữ. Cô nhận ra rằng sự nghi ngờ đang lan rộng không chỉ đối với Frondier mà còn cả bản thân cô. Khi mọi thứ trở nên tồi tệ hơn, Frondier xuất hiện và yêu cầu Ria Lis quỳ trước mặt ông, tạo ra một tình huống bất ngờ và căng thẳng.",
+ "boi_canh": "Trong phòng của Lily, bị phá hủy bởi những kẻ xâm nhập, vào thời điểm sự nghi ngờ về mối liên hệ giữa cô và Frondier đang gia tăng.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Aten",
+  "Azier",
+  "Lily",
+  "Enfer",
+  "Monty",
+  "Ludovic",
+  "Ria Lis",
+  "Lis"
+ ],
+ "su_kien": [
+  "Những kẻ xâm nhập do Ludovic dẫn đầu đột nhập vào biệt thự của Lily.",
+  "Lily nhận ra rằng cô bị nghi ngờ là quỷ dữ.",
+  "Ludovic tiết lộ sự nghi ngờ của mình về việc Frondier rời gia đình Roach và có thể là một con quỷ.",
+  "Frondier xuất hiện và yêu cầu Ria Lis quỳ trước mặt ông.",
+  "Lily quỳ một chân trước mặt Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Ludovic",
+   "b": "Lily",
+   "loai": "doi_thu",
+   "mo_ta": "Ludovic muốn bắt giữ Lily vì nghi ngờ cô là quỷ dữ.",
+   "cach_goi": "gọi tên Lily, lạnh lùng"
+  },
+  {
+   "a": "Lily",
+   "b": "Ludovic",
+   "loai": "doi_thu",
+   "mo_ta": "Lily phản đối hành động của Ludovic và sự nghi ngờ của ông về cô.",
+   "cach_goi": "gọi tên Ludovic, không hài lòng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ria Lis",
+   "loai": "khac",
+   "mo_ta": "Frondier ra lệnh cho Ria Lis quỳ xuống trước mặt ông.",
+   "cach_goi": "gọi tên Ria Lis, lạnh lùng"
+  },
+  {
+   "a": "Ria Lis",
+   "b": "Ludovic",
+   "loai": "cap_tren",
+   "mo_ta": "Ria Lis là một trong những Zodiacs, phục tùng lệnh của Ludovic.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Ludovic cảnh báo Frondier về tình hình nguy hiểm và sự nghi ngờ của đế chế.",
+   "cach_goi": "gọi tên Frondier, cảnh báo"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Lily cảm thấy bối rối và lo lắng khi Frondier xuất hiện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính nhân vật trong chương này."
+ ],
+ "stats": {
+  "tokens": 846,
+  "seconds": 25.3
+ }
+}

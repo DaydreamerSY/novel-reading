@@ -1,0 +1,70 @@
+{
+ "number": 646,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi sử dụng sức mạnh quỷ dữ, Frondier khiến tất cả các quỷ dưới trướng đều bị tê liệt vì sợ hãi. Ông nhận ra mình có thể đã lạm dụng sức mạnh của mình và lo ngại về sự can thiệp của Arald, người đã dự đoán khả năng sử dụng sức mạnh quỷ dữ của ông. Với sự xuất hiện sắp tới của lũ quỷ phương tây, Frondier kêu gọi các quỷ dưới trướng phải chiến đấu để sống sót, nhấn mạnh rằng đây không phải là một trận chiến về số lượng mà là một thử thách đối với bản chất của lũ quỷ cấp thấp.",
+ "boi_canh": "Bên trong lâu đài, sau khi Frondier sử dụng sức mạnh quỷ dữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Arald",
+  "Bart"
+ ],
+ "su_kien": [
+  "Sức mạnh của Frondier khiến tất cả các quỷ đều tê liệt.",
+  "Frondier nhận ra mình có thể đã lạm dụng sức mạnh của mình.",
+  "Các quỷ dưới trướng bày tỏ sự lo lắng về sự xuất hiện sắp tới của lũ quỷ phương tây.",
+  "Frondier kêu gọi các quỷ phải chiến đấu để sống sót.",
+  "Frondier tuyên bố rằng trận chiến sẽ không dựa trên số lượng mà là một thử thách đối với bản chất của lũ quỷ cấp thấp."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Arald",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier lo ngại về những hành động của Arald và sự hiểu biết sâu sắc của ông ta.",
+   "cach_goi": "gọi tên Arald, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Arald đã dự đoán khả năng sử dụng sức mạnh quỷ dữ của Frondier và có thể đang thao túng ông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bart",
+   "loai": "dong_minh",
+   "mo_ta": "Bart là một trong những quỷ dưới trướng của Frondier và hỏi ý kiến ông về hành động tiếp theo.",
+   "cach_goi": "gọi tên Bart, lễ phép"
+  },
+  {
+   "a": "Bart",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Bart hỏi ý kiến của Frondier về hành động tiếp theo.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "các quỷ khác",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier phát biểu trước các quỷ dưới trướng, kêu gọi họ chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "các quỷ khác",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Các quỷ lắng nghe và phản hồi lại lời kêu gọi của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Arald được tiết lộ là đã biết về khả năng sử dụng sức mạnh Obsidian và sức mạnh quỷ dữ của Frondier từ trước."
+ ],
+ "stats": {
+  "tokens": 890,
+  "seconds": 26.6
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "number": 970,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đánh bại Thor, Thanatos cố gắng trốn thoát nhưng bị Jormungandr nuốt chửng. Frondier gặp lại Sybil và tiếp tục hành trình đến Tyburn, nơi Azier đã được giải thoát khỏi Tartarus. Cuộc tái ngộ giữa Frondier và Azier đầy cảm xúc, với những lời hứa hẹn và sự chia ly. Cuối cùng, Frondier và Sybil đến Tyburn, đối mặt với Mei và Selena, những người vừa lộ diện với một bí mật sốc: Selena cũng là Loki.",
+ "boi_canh": "Trận chiến giữa các vị thần và con người gần Yggdrasil, ngay trước khi Frondier đến Tyburn.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Azier",
+  "Pielott",
+  "Osprey",
+  "Aster Evans",
+  "Thor",
+  "Thanatos",
+  "Zeus",
+  "Sybil",
+  "Campe",
+  "Mei",
+  "Loki"
+ ],
+ "su_kien": [
+  "Thanatos bị Jormungandr nuốt chửng.",
+  "Frondier và Thor chiến đấu, khiến đất rung chuyển.",
+  "Azier được giải thoát khỏi Tartarus.",
+  "Mei và Selena lộ diện tại Tyburn với bí mật sốc.",
+  "Aster Evans đối đầu trực tiếp với Zeus."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Thanatos",
+   "loai": "ke_thu",
+   "mo_ta": "đối thủ, Frondier đánh bại Thanatos.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thor",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Frondier đánh bại Thor.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "bạn, Sybil vui mừng khi thấy Frondier.",
+   "cach_goi": "gọi tên 'Fron', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "bạn, Frondier trả lời Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai, Frondier và Azier có mối quan hệ cảm động.",
+   "cach_goi": "gọi tên 'anh trai', thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "em trai, Azier chia tay Frondier.",
+   "cach_goi": "gọi tên 'em trai', thân mật"
+  },
+  {
+   "a": "Campe",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "quan sát, Campe trêu chọc Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "hướng dẫn, Mei giúp Frondier hoàn thành nghi thức.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Mei",
+   "loai": "nguoi_la",
+   "mo_ta": "đồng minh, Selena và Mei cùng hành động.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster Evans",
+   "b": "Zeus",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, Aster đối đầu với Zeus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Selena là Loki (bên cạnh vai trò của cô ấy)."
+ ],
+ "stats": {
+  "tokens": 1115,
+  "seconds": 33.6
+ }
+}

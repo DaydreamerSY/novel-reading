@@ -1,0 +1,106 @@
+{
+ "number": 846,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi rời đi, Frondier lo lắng về Elodie nhưng cần xác nhận thông tin quan trọng. Trong lúc đó, Elodie đột ngột rời khỏi hiện trường sau khi trải qua một sự kiện kỳ lạ: việc bị một vị thần chiếm giữ cơ thể. Cô ấy tìm kiếm sự giúp đỡ từ Rudra và đối đầu với Vishnu, dẫn đến một cuộc xung đột căng thẳng.",
+ "boi_canh": "Elodie đang ở trong một địa điểm không xác định, có lẽ là một căn phòng hoặc khu vực kín đáo, vào thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Pielott",
+  "Edwin",
+  "Carla",
+  "Baal",
+  "Athena",
+  "Basileo",
+  "Sale",
+  "Odin",
+  "Thor",
+  "Zeus",
+  "Vishnu",
+  "Rudra",
+  "Hephaestus",
+  "Shiva",
+  "Brahma"
+ ],
+ "su_kien": [
+  "Frondier rời đi để xác minh thông tin.",
+  "Elodie trải qua việc bị một vị thần (Vishnu) chiếm giữ cơ thể trong 5 phút.",
+  "Elodie đột ngột rời khỏi hiện trường sau khi lấy lại quyền kiểm soát cơ thể.",
+  "Elodie liên hệ với Rudra để tìm kiếm sự giúp đỡ và thông tin.",
+  "Elodie đối đầu trực tiếp với Vishnu, dẫn đến một cuộc xung đột về quyền lực."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier lo lắng cho Elodie và cần thông tin từ cô ấy.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Baal",
+   "loai": "dong_minh",
+   "mo_ta": "Elodie phớt lờ Baal.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Andro",
+   "loai": "dong_minh",
+   "mo_ta": "Elodie phớt lờ Andro.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Edwin",
+   "loai": "thay_tro",
+   "mo_ta": "Elodie biết về việc Edwin bị Hephaestus kiểm soát gián tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Sale",
+   "loai": "ban_be",
+   "mo_ta": "Elodie biết về việc Sale bị Odin kiểm soát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Vishnu",
+   "loai": "nguoi_la",
+   "mo_ta": "Elodie vừa trải qua việc bị Vishnu chiếm giữ cơ thể.",
+   "cach_goi": "gọi tên Vishnu, lạnh lùng"
+  },
+  {
+   "a": "Elodie",
+   "b": "Rudra",
+   "loai": "thay_tro",
+   "mo_ta": "Elodie tìm kiếm sự giúp đỡ từ Rudra.",
+   "cach_goi": "gọi tên Rudra, thân mật"
+  },
+  {
+   "a": "Rudra",
+   "b": "Vishnu",
+   "loai": "ke_thu",
+   "mo_ta": "Rudra cảnh báo Elodie về Vishnu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vishnu",
+   "b": "Elodie",
+   "loai": "ke_thu",
+   "mo_ta": "Vishnu cảnh báo và khiển trách Elodie.",
+   "cach_goi": "gọi tên Elodie, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Elodie đã trải qua việc bị Vishnu chiếm giữ cơ thể, một sự kiện bất thường mà cô chưa từng trải nghiệm trước đây."
+ ],
+ "stats": {
+  "tokens": 1066,
+  "seconds": 32.0
+ }
+}

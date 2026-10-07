@@ -1,0 +1,56 @@
+{
+ "number": 747,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đi sâu vào khu vực phức tạp Manggot, Frondier nhận ra rằng nhóm của anh đã tiến quá xa so với dự kiến. Anh quyết định tách nhóm để tiếp tục khám phá một mình, nghi ngờ rằng bản thân có thể đã từng đến đây trước đó và đang được điều khiển bởi ký ức mơ hồ. Anh phát hiện ra rằng những ngôn ngữ cổ đại trên tường đóng vai trò như các biểu tượng mana, dẫn đường cho anh đi sâu vào trung tâm Manggot.",
+ "boi_canh": "Bên trong khu vực phức tạp Manggot, khi nhóm đang khám phá.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Lily"
+ ],
+ "su_kien": [
+  "Nhóm đi sâu vào Manggot hơn dự kiến.",
+  "Frondier tách nhóm để tiếp tục khám phá một mình.",
+  "Frondier nhận ra rằng anh có thể đã từng đến đây trước đó.",
+  "Anh phát hiện ra ngôn ngữ cổ đại trên tường đóng vai trò như các biểu tượng mana.",
+  "Anh nhận ra rằng con đường đang đi giống với cấu trúc rune."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, cùng nhau khám phá Manggot.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, cùng nhau khám phá Manggot.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành trong chuyến đi.",
+   "cach_goi": "gọi tên Lily, thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành trong chuyến đi.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính mới hoặc thay đổi tên gọi."
+ ],
+ "stats": {
+  "tokens": 595,
+  "seconds": 17.7
+ }
+}

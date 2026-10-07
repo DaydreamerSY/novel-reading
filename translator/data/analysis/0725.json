@@ -1,0 +1,64 @@
+{
+ "number": 725,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Pascal báo cáo với Hoàng hậu Philly về những tin đồn xung quanh Frondier và khả năng anh ta là quỷ dữ. Cuộc trò chuyện hé lộ một âm mưu nhằm bôi nhọ danh tiếng của Frondier, khiến công chúng coi anh ta là kẻ thù của đế quốc. Philly nghi ngờ Pascal liên quan đến âm mưu này, và cuối cùng đã tấn công bất ngờ vào Pascal để trốn thoát.",
+ "boi_canh": "Trong phòng làm việc của Hoàng hậu Philly tại cung điện hoàng gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Pascal",
+  "Robert"
+ ],
+ "su_kien": [
+  "Pascal báo cáo với Philly về những tin đồn Frondier là quỷ dữ.",
+  "Philly ra lệnh cho Pascal điều tra ảnh hưởng của Frondier lên đế quốc, không phải theo dõi trực tiếp anh ta.",
+  "Pascal nhận thấy có sự can thiệp vào việc lan truyền tin đồn về Frondier.",
+  "Philly nghi ngờ Pascal liên quan đến âm mưu bôi nhọ danh tiếng của Frondier.",
+  "Philly bất ngờ tấn công Pascal và trốn thoát, Robert cố gắng ngăn cản."
+ ],
+ "quan_he": [
+  {
+   "a": "Pascal",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Pascal báo cáo công việc cho Philly, thận trọng vì nghi ngờ bị theo dõi.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Pascal",
+   "loai": "cap_tren",
+   "mo_ta": "Philly nghi ngờ Pascal, quan sát phản ứng của anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Robert",
+   "b": "Pascal",
+   "loai": "dong_minh",
+   "mo_ta": "Robert là người bảo vệ Philly, có vẻ như đang theo dõi Pascal.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Robert",
+   "loai": "gia_dinh",
+   "mo_ta": "Philly và Robert có mối quan hệ thân thiết, Robert bảo vệ Philly.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Robert",
+   "loai": "dong_minh",
+   "mo_ta": "Pascal và Robert có vẻ như là đồng cấp, nhưng Pascal yếu thế hơn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier được đồn đại là con trai của gia đình Roach, nhưng đây là một tin giả."
+ ],
+ "stats": {
+  "tokens": 710,
+  "seconds": 21.2
+ }
+}

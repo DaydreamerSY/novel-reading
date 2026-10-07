@@ -1,0 +1,60 @@
+{
+ "number": 898,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi kiểm tra kỹ lưỡng môi trường xung quanh, Frondier phát hiện một người khổng lồ bị thương nặng và gần như chết trong Pandemonium. Anh suy luận về thời gian trôi qua khác biệt giữa thế giới bên ngoài và Pandemonium, dẫn đến sự lạc quan rằng người khổng lồ có thể hồi phục. Cuối cùng, anh đánh thức Sigurd bằng cách khắc nỗi sợ hãi vào linh hồn của anh ta và khám phá ra danh tính thật của người khổng lồ là một anh hùng Norse nổi tiếng. Họ trao đổi thông tin cơ bản về nhau và cuộc chiến Ragnarok thất bại.",
+ "boi_canh": "Trong Pandemonium, sau khi Frondier bước ra từ đó.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Athena",
+  "Frondier de Roach",
+  "Sigurd",
+  "R"
+ ],
+ "su_kien": [
+  "Frondier phát hiện một người khổng lồ bị thương nặng trong Pandemonium.",
+  "Anh suy luận về sự khác biệt của thời gian giữa thế giới bên ngoài và Pandemonium.",
+  "Frondier đánh thức Sigurd bằng cách khắc nỗi sợ hãi vào linh hồn anh ta.",
+  "Sigurd tiết lộ danh tính là một anh hùng Norse nổi tiếng, Sigurd.",
+  "Sigurd hỏi về kết quả của Ragnarok và Frondier trả lời rằng loài người đã thất bại."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Athena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sigurd",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ gặp gỡ và trao đổi thông tin.",
+   "cach_goi": "gọi tên Sigurd, thân mật"
+  },
+  {
+   "a": "Sigurd",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ gặp gỡ và trao đổi thông tin.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Sigurd: Một anh hùng Norse nổi tiếng, được Frondier biết đến qua truyền thuyết.",
+  "Frondier de Roach: Tên đầy đủ của nhân vật chính."
+ ],
+ "stats": {
+  "tokens": 693,
+  "seconds": 20.8
+ }
+}

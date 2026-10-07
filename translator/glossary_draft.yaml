@@ -1,1743 +1,915 @@
-# BẢN NHÁP GLOSSARY: trích tự động từ 828 chương, model gemma3:12b phân loại.
+# BẢN NHÁP GLOSSARY: trích tự động từ 971 chương, model gemma3:12b phân loại.
 # CẦN DUYỆT TAY: model có thể phân loại sai, đoán sai giới tính, gợi ý bản dịch chưa hay.
 # Dễ hơn: python novel.py edit  (công cụ chỉnh sửa trên trình duyệt, gom các mục trùng nhau).
 # - Cuối mỗi dòng: số lần xuất hiện, chương đầu-cuối; nhân vật có thêm số lần he/she đứng ngay sau tên.
 # - Mục nào để vi rỗng thì không được gửi cho model.
 
-nhan_vat:  # nhân vật: 236 mục
-  "Frondier":  # 9881 lần, ch1-828, he 1672 / she 326 | giới tính điền theo thống kê đại từ
-    vi: "Frondier"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam, được nhắc đến nhiều lần trong truyện. Có vẻ là con trai của Enfer và có người em trai tên Azier."
-  "Elodie":  # 1948 lần, ch2-816, he 44 / she 361
-    vi: "Elodie"
+nhan_vat:  # nhân vật: 69 mục
+  "Aphrodite":  # 307 lần, ch800-929, he 14 / she 45 | giới tính điền theo thống kê đại từ
+    vi: "Aphrodite"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một nhân vật nữ. Được mô tả là một người tài năng trong game Etius."
-  "Selena":  # 1472 lần, ch159-801, he 66 / she 315
-    vi: "Selena"
+    ghichu: "Một vị thần trao quyền cho con người; liên quan đến Palma và các vị thần khác. Được nhắc tới cùng với Zeus."
+  "Charon":  # 201 lần, ch800-880, he 43 / she 1 | giới tính điền theo thống kê đại từ
+    vi: "Charon"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một nhân vật sở hữu Sức mạnh Thần thánh của Poseidon. Có liên quan đến việc giải cứu Colin, có thể là ác quỷ hoặc liên kết với Frondier."
+  "Tyr":  # 154 lần, ch928-967, he 34 / she 0 | giới tính điền theo thống kê đại từ
+    vi: "Tyr"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một vị thần chiến tranh; có ảnh hưởng đến thế giới khi chết. Có vẻ là một vị thần cấp cao."
+  "Colin":  # 145 lần, ch831-881, he 37 / she 2
+    vi: "Colin"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một nhân vật đã gặp Frondier; khó thay đổi biểu cảm trên khuôn mặt. Biết về việc che giấu."
+  "Vishnu":  # 125 lần, ch490-969, he 12 / she 5
+    vi: "Vishnu"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một trong năm vị thần yêu Elodie. Có sức mạnh vượt trội và bị Rudra ngắt lời."
+  "Loki":  # 118 lần, ch846-971, he 14 / she 2
+    vi: "Loki"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một vị thần xảo quyệt và thích tinh nghịch. Được liệt kê cùng Odin và Thor."
+  "Glaukos":  # 116 lần, ch798-967, he 31 / she 0
+    vi: "Glaukos"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một học viên năm nhất. Đôi khi được nhắc đến trong các buổi giới thiệu."
+  "Bune":  # 86 lần, ch793-868, he 27 / she 0
+    vi: "Bune"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một nhân vật đang sở hữu một hiệp sĩ. Có liên quan đến Baal và Pururpur."
+  "Apollo":  # 79 lần, ch850-964, he 15 / she 0
+    vi: "Apollo"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một nhân vật có thứ hạng tương đương với người khác và được mô tả là lý tưởng."
+  "Hermes":  # 63 lần, ch862-961, he 15 / she 1 | giới tính điền theo thống kê đại từ
+    vi: "Hermes"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một vị thần. Xuất hiện cùng Hestia và được Zeus nhắc đến khi đi xuống thế giới người phàm trần."
+  "Baalzebub":  # 57 lần, ch910-956, he 18 / she 0 | giới tính điền theo thống kê đại từ
+    vi: "Baalzebub"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một vị thần từng tồn tại trong Pandemonium. Có sức mạnh vượt trội so với những người khác."
+  "Telephos":  # 53 lần, ch803-885, he 19 / she 0
+    vi: "Telephos"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một nhân vật nam. Có vẻ là một học sinh hoặc người theo dõi Frondier."
+  "Eriboia":  # 45 lần, ch797-864, he 3 / she 11
+    vi: "Eriboia"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một nhân vật nữ. Biểu cảm của cô ấy có thể tối sầm lại khi nói chuyện. Chi tiết về vai trò và mối quan hệ không được đề cập trong các đoạn trích."
-  "Aster":  # 1418 lần, ch6-827, he 277 / she 24
-    vi: "Aster"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam. Là anh trai của Ellen và có liên quan đến sự kiện Mistilteinn."
-  "Philly":  # 1410 lần, ch70-759, he 65 / she 247 | ⚠ KIỂM TRA: model đoán nam, thống kê đại từ nghiêng về nữ
-    vi: "Philly"
+    ghichu: "Một người phụ nữ được nhắc đến như là mẹ của Aias. Có vẻ có ảnh hưởng và trí tuệ."
+  "Evelina":  # 44 lần, ch880-968, he 2 / she 10
+    vi: "Evelina"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một nhân vật nam. Có vẻ có tính cách tươi sáng và quan sát được trạng thái kỳ lạ của người khác."
-  "Aten":  # 1244 lần, ch72-759, he 54 / she 196 | ⚠ KIỂM TRA: model đoán nam, thống kê đại từ nghiêng về nữ
-    vi: "Aten"
+    ghichu: "Một nhân vật nữ. Lãnh đạo của một nhóm tên là 'Nine' và có ảnh hưởng đến Vua Palma."
+  "Lupina":  # 36 lần, ch833-916, he 1 / she 7
+    vi: "Lupina"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một nhân vật nam. Là một người bạn đồng hành quan trọng của Aster."
-  "Sybil":  # 907 lần, ch19-792, he 22 / she 188
-    vi: "Sybil"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ. Có vẻ là một người quan trọng và có mối liên hệ với sự sống sót của ai đó."
-  "Azier":  # 906 lần, ch1-782, he 179 / she 8
-    vi: "Azier"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam. Con trai của Enfer và là một thành viên quan trọng trong gia đình Roach."
-  "Quinie":  # 753 lần, ch10-756, he 26 / she 156
-    vi: "Quinie"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ. Được Frondier tuyển mộ và có vẻ là một thành viên quan trọng."
-  "Renzo":  # 717 lần, ch86-819, he 133 / she 9
-    vi: "Renzo"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam. Được mô tả là 'Glutton of Chaos'."
-  "Elysia":  # 714 lần, ch83-799, he 19 / she 142
-    vi: "Elysia"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ. Có vẻ là công chúa và có thể không sẵn lòng giúp đỡ."
-  "Lily":  # 651 lần, ch446-815, he 30 / she 122
-    vi: "Lily"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ. Có vẻ như không có ký ức về việc kết luận một giao kèo."
-  "Enfer":  # 629 lần, ch1-797, he 107 / she 10
-    vi: "Enfer"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam. Cha của Frondier và người bảo vệ biên giới."
-  "Pielott":  # 604 lần, ch386-828, he 151 / she 3
-    vi: "Pielott"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam. Đã trải qua quá trình huấn luyện khắc nghiệt."
-  "Osprey":  # 524 lần, ch48-796, he 89 / she 10
-    vi: "Osprey"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật, có lẽ là một chức sắc quan trọng, được nhắc đến cùng với Zodiac."
-  "Ellen":  # 521 lần, ch8-707, he 27 / she 80
-    vi: "Ellen"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ. Có một người em trai tên Aster và tham gia học tại Constel."
-  "Dier":  # 491 lần, ch384-795, he 116 / she 3
-    vi: "Dier"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một học viên có khả năng quan sát và nhanh trí. Anh tìm thấy thuốc giải độc trong túi của Angus và được Pielott quan sát từ bên cạnh."
-  "Jane":  # 411 lần, ch7-772, he 7 / she 71
-    vi: "Jane"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ, được người khác đề cập và giao nhiệm vụ, có vẻ là một người quan trọng."
-  "Edwin":  # 408 lần, ch35-815, he 83 / she 11
-    vi: "Edwin"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam. Có vẻ là học sinh và có mối quan hệ với Gary."
-  "Carla":  # 374 lần, ch798-826, he 18 / she 82
-    vi: "Carla"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Hiệu trưởng Học viện Atlas. Cô có kiến thức mà Master Frondier cần và thường xuyên bị sốc."
-  "Hagley":  # 368 lần, ch134-746, he 77 / she 13
-    vi: "Hagley"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người đến từ Manggot. Bóng tối của anh chỉ gây hại cho sinh vật sống."
-  "Malia":  # 345 lần, ch47-799, he 16 / she 41
-    vi: "Malia"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một người hiếm khi cười, có giọng nói không có sự căng thẳng. (Malia).”, 0 lần dùng đại từ he, 3 lần she."
-  "Lunia":  # 339 lần, ch75-800, he 12 / she 72
-    vi: "Lunia"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một người có sức mạnh ma thuật đáng kể. Cô thường ăn kem dâu tây và được ngồi thô lỗ."
-  "Baal":  # 329 lần, ch655-823, he 63 / she 2
-    vi: "Baal"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một trong 72 Ác quỷ, được biết đến với danh hiệu Vua Địa ngục. Anh có lòng tự hào lớn."
-  "Marco":  # 324 lần, ch641-823, he 53 / she 3
-    vi: "Marco"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người sở hữu kiến thức mà ngay cả một ác quỷ mạnh mẽ cũng không có."
-  "Pascal":  # 308 lần, ch201-734, he 44 / she 5
-    vi: "Pascal"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người đứng ở trung tâm khán phòng và phát biểu. Anh ta thường nói chuyện một cách bình tĩnh."
-  "Laurie":  # 278 lần, ch330-611, he 8 / she 72
-    vi: "Laurie"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một người thường xuyên tập luyện tại doanh trại. Cô xin lỗi vì những hành động của mình."
-  "Sylvain":  # 272 lần, ch326-622, he 72 / she 0 | giới tính điền theo thống kê đại từ
-    vi: "Sylvain"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam được giới thiệu là con trai của ai đó và có liên quan đến dự đoán của Frondier. Vai trò chưa rõ ràng từ các đoạn trích."
-  "Eden":  # 265 lần, ch85-698, he 60 / she 5
-    vi: "Eden"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam sử dụng aura và có liên quan đến sự thật ẩn giấu nào đó. Có vẻ là một người mạnh mẽ."
-  "Kora":  # 251 lần, ch233-708, he 10 / she 52
-    vi: "Kora"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ có liên quan đến Frondier và Constel. Có tham vọng trở thành một pháp sư."
-  "Heldre":  # 248 lần, ch10-761, he 43 / she 2
-    vi: "Heldre"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người lớn tuổi với ánh mắt tinh nghịch, có vẻ quan tâm đến Enfer."
-  "Mei":  # 247 lần, ch471-792, he 4 / she 44
-    vi: "Mei"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ được đưa đến lục địa cùng với các quỷ dữ khác. Vai trò chưa rõ ràng."
-  "Cain":  # 242 lần, ch250-799, he 4 / she 38
-    vi: "Cain"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ có liên quan đến Indus và một sự kiện đột kích. Có vẻ là người được Frondier cứu."
-  "Roach":  # 239 lần, ch1-816, he 4 / she 5
-    vi: "Roach"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Con trai thứ của gia đình Roach, học sinh năm nhất tại Học viện Constel."
-  "Ludwig":  # 199 lần, ch10-741, he 47 / she 3 | giới tính điền theo thống kê đại từ
-    vi: "Ludwig"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật có giọng nói đặc trưng và tính cách nhẹ nhàng, có khả năng đưa ra những lời khuyên hữu ích vào thời điểm cần thiết. (Ludwig).”, 4 lần dùng đại từ he, 0 lần she."
-  "Bartello":  # 198 lần, ch124-743, he 34 / she 4 | giới tính điền theo thống kê đại từ
-    vi: "Bartello"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật được nhiều người đề cập đến. Có vẻ là một người đàn ông, nhưng cũng có thể là phụ nữ trong một số trường hợp."
-  "Arald":  # 191 lần, ch607-828, he 31 / she 1
-    vi: "Arald"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người đàn ông có vẻ thông minh và tự tin. Dự đoán về những báu vật mạnh mẽ."
-  "Monty":  # 191 lần, ch448-741, he 33 / she 4
-    vi: "Monty"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người làm việc cho Pros nhưng hành động như một lính đánh thuê. Có mối quan hệ với Osprey và Ludwig."
-  "Esther":  # 190 lần, ch283-741, he 5 / she 42
-    vi: "Esther"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ có chức danh 'Giám đốc'. Được mô tả là người trung thành và đáng tin cậy."
-  "Binkis":  # 184 lần, ch37-731, he 12 / she 21
-    vi: "Binkis"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một người có tính cách của nhà nghiên cứu, là một trong số ít đồng minh của Edwin, từng là một gia đình quý tộc suy tàn. (Binkis).”, 1 lần dùng đại từ he, 3 lần she."
-  "Merlin":  # 183 lần, ch176-751, he 28 / she 5
-    vi: "Merlin"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật được biết đến là 'Druid' trong game Etius. Liên quan đến King Arthur và Joan of Arc."
-  "Sanders":  # 181 lần, ch163-622, he 34 / she 3
-    vi: "Sanders"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Chỉ huy của Kỵ Bính Che Đậy (Shroud Knights). Có vẻ là một người đàn ông có quyền lực."
-  "Gregory":  # 172 lần, ch59-801, he 30 / she 1
-    vi: "Gregory"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một thành viên của Indus. Có liên quan đến việc tìm ra người ẩn náu trong Constel."
-  "Thompson":  # 150 lần, ch250-312, he 29 / she 2
-    vi: "Thompson"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người có vẻ không phải là pháp sư. Có liên quan đến Skyler."
-  "Paul":  # 148 lần, ch596-608, he 39 / she 0
-    vi: "Paul"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Trưởng ban nghiên cứu thứ nhất. Có thể là người của thế giới loài người, nhưng cũng có liên quan đến quỷ dữ."
-  "Ludovic":  # 143 lần, ch446-742, he 25 / she 3
-    vi: "Ludovic"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người trẻ tuổi có thể trở thành Hoàng đạo. Đồng ý với Lily."
-  "Serf":  # 142 lần, ch57-334, he 23 / she 1 | giới tính điền theo thống kê đại từ
-    vi: "Serf"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người có tiếng tăm trong đế chế trước một sự kiện nào đó. Có liên quan đến Hephaestus."
-  "Alex":  # 140 lần, ch18-482, he 25 / she 1
-    vi: "Alex"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người hướng dẫn, có vẻ là giáo viên dạy kỹ năng chiến đấu cơ bản."
-  "Antero":  # 130 lần, ch822-828, he 39 / she 4
-    vi: "Antero"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật có vẻ ngoài thay đổi. Đeo một chiếc vòng cổ."
-  "Cassian":  # 128 lần, ch123-577, he 17 / she 2
-    vi: "Cassian"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một thành viên của Constel. Rất thông minh."
-  "Robert":  # 124 lần, ch95-741, he 14 / she 6
-    vi: "Robert"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người đàn ông ngồi cạnh nhân vật chính. Có liên quan đến Ria Lis và Odin."
-  "Nimue":  # 116 lần, ch180-557, he 6 / she 17
-    vi: "Nimue"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật được Aster chào hỏi. Có vẻ ngoài bí ẩn."
-  "Athena":  # 115 lần, ch805-823, he 0 / she 36
-    vi: "Athena"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật có liên quan đến Medusa. Có vẻ ngoài đặc biệt."
-  "Armel":  # 111 lần, ch241-474, he 22 / she 1
-    vi: "Armel"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật bị Lethe bỏ rơi. Đã từng đối mặt với những kẻ mạnh hơn."
-  "Robald":  # 109 lần, ch106-709, he 24 / she 1
-    vi: "Robald"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật muốn trốn thoát. Có vẻ lo lắng khi gặp lại người khác."
-  "Frondier de Roach":  # 107 lần, ch2-818, he 2 / she 1
-    vi: "Frondier de Roach"
+    ghichu: "Một người phụ nữ được ban tặng Sức mạnh thiêng liêng bởi Aphrodite. Một trong những vẻ đẹp lớn nhất của Palma City, cùng với Bruna."
+  "Campe":  # 34 lần, ch944-970, he 0 / she 0
+    vi: "Campe"
     gioitinh: ""
     ngoi3: ""
-    ghichu: "Một học sinh nam, được nhắc đến trong các cuộc thi và cảnh báo."
-  "Basileo":  # 106 lần, ch773-788, he 27 / she 1 | giới tính điền theo thống kê đại từ
-    vi: "Basileo"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật có vẻ đang ăn uống một cách buồn bã. Liên quan đến ma thuật của Elodie và những sự kiện khác, không rõ vai trò cụ thể hơn nữa từ các đoạn trích."
-  "Sale":  # 100 lần, ch83-759, he 5 / she 7
-    vi: "Sale"
+    ghichu: "Một nhân vật được nhắc đến trong Tartarus. Ai đó đã hỏi Campe."
+  "Idun":  # 29 lần, ch921-939, he 0 / she 8
+    vi: "Idun"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một người dự kiến sẽ trở thành nữ hoàng. Đã bị một vị thần chiếm hữu."
-  "Notker":  # 98 lần, ch517-570, he 18 / she 0
-    vi: "Notker"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người thường xuyên tham gia các cuộc họp bàn tròn. Có vẻ có quan điểm khác với Belphegor."
-  "Giotto":  # 94 lần, ch771-813, he 24 / she 0
-    vi: "Giotto"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người có kiến thức và thông tin quan trọng. Đặt tay lên vai Frondier và chia sẻ thông tin."
-  "Revet":  # 94 lần, ch136-757, he 20 / she 7
-    vi: "Revet"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Anh trai của Elodie. Có vẻ có mối quan hệ phức tạp với nhân vật chính."
-  "Ameline":  # 90 lần, ch434-623, he 5 / she 14
-    vi: "Ameline"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một người phụ nữ đã tự giới thiệu bản thân. Có liên quan đến Frondier và Shadow Unit."
-  "Aster Evans":  # 88 lần, ch6-790, he 12 / she 0
-    vi: "Aster Evans"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Nhân vật chính của Etius, có một người chị gái tên Ellen Evans. (Aster Evans).”, 2 lần dùng đại từ he, 0 lần she."
-  "Cohen":  # 85 lần, ch508-559, he 23 / she 6
-    vi: "Cohen"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người bị Belphegor thẩm vấn. Có liên quan đến các binh lính và bóng tối."
-  "Angus":  # 83 lần, ch422-465, he 14 / she 0
-    vi: "Angus"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người biết về nghiên cứu. Có tiếng cười khó chịu."
-  "Isamaya":  # 81 lần, ch110-554, he 5 / she 17
-    vi: "Isamaya"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một người có vẻ mặt không hài lòng. Là một giảng viên và phản bác lại lời nói của người khác."
-  "Grobel":  # 74 lần, ch61-313, he 19 / she 0
-    vi: "Grobel"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một thành viên của băng đảng Indus. Hào hứng nói chuyện và kiểm tra cổ troll."
-  "Jeremy":  # 74 lần, ch594-606, he 22 / she 0
-    vi: "Jeremy"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người quan sát hành động của Frondier và Elodie. Có liên quan đến quỷ dữ."
-  "Ria Lis":  # 70 lần, ch447-802, he 2 / she 9
-    vi: "Ria Lis"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ; gửi báo cáo và được Frondier nhìn."
-  "Marchosias":  # 69 lần, ch635-680, he 10 / she 4
-    vi: "Marchosias"
+    ghichu: "Một người phụ nữ liên quan đến một cái cây khiến các vị thần già đi. Cô ấy được Frondier cảm ơn."
+  "Kh":  # 28 lần, ch767-969, he 0 / she 0
+    vi: "Kh"
     gioitinh: ""
     ngoi3: ""
-    ghichu: "Ác quỷ thứ hai mạnh nhất của sự giận dữ. Có vẻ là một nhân vật nghiêm khắc."
-  "Skyler":  # 69 lần, ch250-312, he 12 / she 0 | giới tính điền theo thống kê đại từ
-    vi: "Skyler"
+    ghichu: "Một âm thanh ngắn gọn, biểu thị sự khó chịu hoặc đau đớn."
+  "Lazor":  # 28 lần, ch935-955, he 4 / she 0
+    vi: "Lazor"
     gioitinh: "nam"
     ngoi3: ""
-    ghichu: "Một nhân vật nam/nữ. Không rõ giới tính. Có vẻ là người không phải pháp sư và có vẻ không thông minh lắm."
-  "Hector":  # 67 lần, ch166-792, he 16 / she 0
-    vi: "Hector"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật được ví như 'Báo Trắng'. Có vẻ là một người hùng."
-  "Zenita":  # 64 lần, ch788-798, he 3 / she 10
-    vi: "Zenita"
+    ghichu: "Một nhân vật nam. Có vẻ là một người lính hoặc thành viên của một nhóm thám hiểm, được giao nhiệm vụ báo cáo những điều bất thường."
+  "Bruna":  # 26 lần, ch833-916, he 0 / she 1
+    vi: "Bruna"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một nhân vật nữ; có vẻ ngạc nhiên và rút lui khi bị nhìn."
-  "Aias":  # 63 lần, ch790-828, he 16 / she 1
-    vi: "Aias"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật có vẻ là một người hùng. Có thể là một kẻ phản diện."
-  "Mizonas":  # 62 lần, ch452-673, he 14 / she 0
-    vi: "Mizonas"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam; có vẻ là một nhà lãnh đạo và khiến Azier bất ngờ."
-  "Ainen":  # 61 lần, ch7-261, he 4 / she 12 | giới tính điền theo thống kê đại từ
-    vi: "Ainen"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một giáo viên, người có thể rút đồ vật ra từ dưới bàn. (Ainen)."
-  "Arthur":  # 60 lần, ch162-750, he 8 / she 0 | giới tính điền theo thống kê đại từ
-    vi: "Arthur"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam. Có vẻ là một người quan trọng trong quá khứ, liên quan đến thanh kiếm và Merlin."
-  "Odin":  # 58 lần, ch1-816, he 7 / she 0
-    vi: "Odin"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một vị thần; cha của Baldur và có liên quan đến nhiều sự kiện."
-  "Pros":  # 57 lần, ch83-612, he 8 / she 0
-    vi: "Pros"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Những học viên giỏi, lính đánh thuê hoặc quý tộc có tiếng từ bên ngoài."
-  "Adolf":  # 55 lần, ch628-640, he 16 / she 0
-    vi: "Adolf"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam; có vẻ là một chiến binh và bị Elodie chứng kiến cái chết."
-  "Rokbel":  # 53 lần, ch61-204, he 8 / she 0
-    vi: "Rokbel"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam; mất tập trung và có anh trai là Grobel."
-  "Bart":  # 52 lần, ch614-662, he 17 / she 0
-    vi: "Bart"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam; có thể biến thành người hầu trung thành và chỉ định địa điểm."
-  "Jeanne":  # 52 lần, ch751-778, he 0 / she 11
-    vi: "Jeanne"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ; liên quan đến chủ đề 'bóng ma' và có thể đã sở hữu Frondier."
-  "Anne":  # 48 lần, ch15-373, he 0 / she 15
-    vi: "Anne"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một người có câu trả lời khiến người khác phải tái mặt, từng nhắc đến việc cha cô bị lừa. (Anne).”, 0 lần dùng đại từ he, 5 lần she."
-  "Theo":  # 48 lần, ch145-374, he 7 / she 2
-    vi: "Theo"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật thường xuyên tương tác với Elodie và Jane. Có vẻ quan tâm đến những hành động của người khác."
-  "Daud":  # 46 lần, ch55-643, he 11 / she 1
-    vi: "Daud"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người thợ rèn có kỹ năng tinh tế như một nhà điêu khắc."
-  "Roxy":  # 46 lần, ch389-408, he 2 / she 13
-    vi: "Roxy"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một cô gái chuyên về ma thuật và có khả năng điều khiển từ xa."
-  "Slevb":  # 45 lần, ch26-753, he 1 / she 9
-    vi: "Slevb"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ nguy hiểm, chạm vào là nguy hiểm, có khả năng tấn công."
-  "Gary":  # 42 lần, ch40-48, he 15 / she 0
-    vi: "Gary"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam. Có vẻ là học sinh và có mối quan hệ với Edwin."
-  "Hela":  # 39 lần, ch365-754, he 1 / she 12
-    vi: "Hela"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một vị thần. Có thể cảm nhận được Frondier và có liên quan đến các vị thần khác."
-  "Viet":  # 38 lần, ch10-566, he 2 / she 3
-    vi: "Viet"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Con gái duy nhất của gia đình Viet, học sinh năm thứ ba tại Constel, hiện là người đứng đầu gia đình."
-  "Ares":  # 37 lần, ch90-695, he 4 / she 0
-    vi: "Ares"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một vị thần. Sức mạnh của hắn/bà ta tăng lên khi có nguy cơ chiến đấu đến gần."
-  "Khryselakatos":  # 35 lần, ch67-523, he 1 / she 0
-    vi: "Khryselakatos"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một nhân vật được Lokhiera nắm giữ; gợi lại ký ức về một buổi biểu diễn."
-  "Mom":  # 35 lần, ch78-759, he 0 / she 0
-    vi: "Mẹ"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người phụ nữ có quan hệ gia đình thân thiết với nhân vật chính. Giọng nói nghiêm túc."
-  "Amelie":  # 34 lần, ch579-580, he 2 / she 9
-    vi: "Amelie"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một người phụ nữ bị nhiều thế lực theo dõi và muốn thủ tiêu."
-  "Adela":  # 33 lần, ch521-552, he 2 / she 5
-    vi: "Adela"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một người phụ nữ tham gia vào một cuộc họp quan trọng. Có vẻ quen thuộc với Selena."
-  "Daisy":  # 33 lần, ch448-471, he 0 / she 5
-    vi: "Daisy"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một người phụ nữ quan tâm đến Ludovic. Có lẽ là một thành viên của Zodiac."
-  "Ayas":  # 32 lần, ch780-781, he 7 / she 0
-    vi: "Ayas"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Nhân vật nam với tóc đỏ và mắt vàng. Có khả năng dự đoán tương lai."
-  "Eden Hamelot":  # 32 lần, ch85-612, he 4 / she 0
-    vi: "Eden Hamelot"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Nhân vật được Frondier coi là kẻ thù."
-  "Father":  # 32 lần, ch9-798, he 2 / she 0
-    vi: "Cha"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Người cha của nhân vật, thường được nhắc đến với sự tôn trọng và đôi khi là hối lỗi."
-  "Jei":  # 32 lần, ch159-545, he 2 / she 1
-    vi: "Jei"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Thủ lĩnh của Yeolgot. Một sát thủ từng sống ở Manggot."
-  "Rishae":  # 31 lần, ch5-757, he 1 / she 0
-    vi: "Rishae"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một gia tộc có quan hệ đồng minh và đối địch với gia tộc Roach. Có địa vị cao."
-  "Thor":  # 31 lần, ch80-764, he 1 / she 0
-    vi: "Thor"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một vị thần sở hữu vũ khí Mjölnir."
-  "Artemis":  # 30 lần, ch47-816, he 0 / she 5
-    vi: "Artemis"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật liên quan đến cung và tên. Có vẻ là một vị thần hoặc người có sức mạnh đặc biệt."
-  "Fron":  # 29 lần, ch64-498, he 0 / she 0
-    vi: "Frondier"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật được gọi bằng tên thân mật 'Fron'. Có vẻ là người mà người kể chuyện thường xuyên tương tác."
-  "Inies":  # 28 lần, ch5-762, he 1 / she 6
-    vi: "Inies"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một cái tên không phải là tên thật. Không cho phép một điều gì đó xảy ra."
-  "Aten Terst":  # 27 lần, ch72-632, he 0 / she 0
-    vi: "Aten Terst"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người có vẻ yếu nhất trong số những người liên kết với Frondier. Tên được nhắc đến khi tìm kiếm mục tiêu."
-  "Penelope":  # 26 lần, ch141-357, he 1 / she 0
-    vi: "Penelope"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật liên quan đến 'Shroud Weaving'. Có vẻ là người tạo ra một loại vải đặc biệt."
-  "Astaroth":  # 22 lần, ch571-609, he 5 / she 0
-    vi: "Astaroth"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật cấp cao, có vẻ nghiêm khắc và từng giữ chức vị của Bảy Tội lỗi. Có liên quan đến Belphegor."
-  "Dushang":  # 22 lần, ch229-231, he 2 / she 0
-    vi: "Dushang"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật có lời nói ẩn ý và thường phải cúi chào để xin lỗi. Có liên quan đến việc thẩm định đồ vật."
-  "Jacob":  # 22 lần, ch382-410, he 8 / she 1
-    vi: "Jacob"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người tự xưng là Manggot ngón tay thứ ba. Selena đã thấy anh ta tại một cửa hàng bách hóa."
-  "King of Hell":  # 22 lần, ch655-817, he 4 / she 0
-    vi: "Vua Địa Ngục"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một trong bảy mươi hai quỷ. Được nhắc đến liên quan đến 'Nastrond'."
-  "Mizonus":  # 22 lần, ch454-455, he 7 / she 0
-    vi: "Mizonus"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người đàn ông thay đổi biểu cảm và có vẻ như đang phòng thủ."
-  "Sophie":  # 22 lần, ch587-590, he 0 / she 5
-    vi: "Sophie"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một cô gái vui vẻ khi gặp Elodie và cử Frondier đi. Đứng cạnh Frondier một cách lặng lẽ."
-  "Serf Daniel":  # 21 lần, ch61-313, he 0 / she 0
-    vi: "Serf Daniel"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người hầu; có liên quan đến nhân vật chính trong quá khứ. Có vẻ là một kẻ thù tiềm năng."
-  "Vincent":  # 21 lần, ch200-205, he 6 / she 0
-    vi: "Vincent"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người có thể dự đoán trước được tình huống và sử dụng những quân cờ bỏ đi."
-  "Medusa":  # 20 lần, ch811-822, he 0 / she 3
-    vi: "Mê Du Sa"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ bí ẩn; Carla có lẽ là Mê Du Sa. Có khả năng gây ra những ảnh hưởng đặc biệt."
-  "Mother":  # 20 lần, ch73-793, he 0 / she 1
-    vi: "Mẫu thân"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Người mẹ của nhân vật chính; thường thể hiện sự hài lòng hoặc yêu cầu một điều gì đó."
-  "Olivier":  # 20 lần, ch610-616, he 4 / she 0
-    vi: "Olivier"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người trung gian. Có vẻ như đã từng là người kế vị của ai đó."
-  "Ellen Evans":  # 19 lần, ch38-706, he 0 / she 0
-    vi: "Ellen Evans"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Chị gái của Aster Evans. Chủ tịch hội học sinh và có vai trò quan trọng."
-  "Medart":  # 19 lần, ch458-770, he 5 / she 0
-    vi: "Medart"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người đưa ra lời khuyên cho Lily. Là một thành viên của Zodiac."
-  "Quinie de Viet":  # 19 lần, ch14-566, he 0 / she 2
-    vi: "Quinie de Viet"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người có liên quan đến việc trao đổi thông tin, được Ludwig quan sát với sự hứng thú. Vai trò không rõ ràng từ các đoạn trích."
-  "Frondier Obsidian":  # 18 lần, ch352-744, he 3 / she 0
-    vi: "Frondier Obsidian"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật có khả năng điều khiển Mana. Ông bay lên trời với Lily và Elodie."
-  "Neil":  # 18 lần, ch128-131, he 2 / she 0
-    vi: "Neil"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Người rèn vũ khí và cung cấp chúng cho người chơi. Có lò rèn riêng."
-  "Barnier":  # 17 lần, ch186-739, he 0 / she 1
-    vi: "Barnier"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một gia đình bị trục xuất khỏi Đế chế, mang tiếng xấu. Cha mẹ của nhân vật chính khó tìm vì điều này xảy ra."
-  "Kagris":  # 17 lần, ch614-619, he 5 / she 0
-    vi: "Kagris"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật bị giết. Ai đó nghĩ rằng cô ấy đã thấy Kagris chết."
-  "Liberto":  # 17 lần, ch797-799, he 4 / she 0
-    vi: "Liberto"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật có ấn tượng nhẹ nhàng. Ông đã cảnh báo Frondier."
-  "Ortel":  # 17 lần, ch10-142, he 0 / she 0
-    vi: "Ortel"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Người đứng đầu gia đình Rishae, có vẻ hơi ấn tượng. (Ortel)."
-  "Durga":  # 16 lần, ch701-704, he 0 / she 2
-    vi: "Durga"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một thực thể có quyền năng thiêng liêng. Người khác nhận được sức mạnh từ Durga và có vẻ như có ý định giết người nào đó, nhưng không hẳn là vậy."
-  "Fr":  # 16 lần, ch16-824, he 0 / she 0
+    ghichu: "Một người được ban sức mạnh thần thánh bởi Hera và Aphrodite."
+  "Fr":  # 26 lần, ch16-797, he 0 / she 0
     vi: "Fr"
     gioitinh: ""
     ngoi3: ""
     ghichu: "Một nhân vật. Có nhiều cách viết khác nhau và có vẻ là một biệt danh hoặc tên gọi."
-  "Philly Terst":  # 16 lần, ch70-690, he 2 / she 0
-    vi: "Philly Terst"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người đang tìm kiếm ai đó. Có vẻ như có thể trở thành đồng minh."
-  "Elodie de Inies Rishae":  # 15 lần, ch2-742, he 0 / she 0
-    vi: "Elodie de Inies Rishae"
+  "Die":  # 22 lần, ch65-963, he 0 / she 0
+    vi: "Die"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một người được nhắc đến tên đầy đủ nhiều lần. Cô ấy có vẻ là một nhân vật quan trọng."
-  "Sybil Forte":  # 15 lần, ch19-641, he 0 / she 1
-    vi: "Sybil Forte"
+    ghichu: "Một nhân vật nữ. Được Frondier gọi tên trong nhiều tình huống khác nhau, có vẻ là một người quen thuộc hoặc đối thủ tiềm năng."
+  "Purpur":  # 21 lần, ch878-879, he 6 / she 0
+    vi: "Purpur"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một nhân vật nam. Có vẻ là một người quan trọng, có liên quan đến Baal và các Demons khác."
+  "Brother":  # 20 lần, ch9-970, he 0 / she 0
+    vi: "Brother"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một người thân. Được gọi tên trong các tình huống căng thẳng hoặc nguy hiểm."
+  "Frondier Obsidian":  # 18 lần, ch352-743, he 3 / she 0
+    vi: "Frondier Obsidian"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một nhân vật có khả năng điều khiển Mana. Ông bay lên trời với Lily và Elodie."
+  "Aetius":  # 14 lần, ch943-945, he 0 / she 0
+    vi: "Aetius"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một thực thể cổ xưa đã trở thành lục địa Palind sau khi chống lại ý chí của các vị thần. Liên quan đến Agoris và một thảm họa nào đó."
+  "Frondier Ecleksis":  # 13 lần, ch874-932, he 0 / she 1
+    vi: "Frondier Ecleksis"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một người có vẻ may mắn. Cô ấy nhanh chóng đưa ra phán đoán."
-  "Alles":  # 14 lần, ch5-5, he 1 / she 1
-    vi: "Alles"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một giáo viên, quan sát việc đo lường của ai đó, khiến người đó trở nên tái mặt khi nói. (Alles).”, 1 lần dùng đại từ he, 1 lần she."
-  "Lunia Fricell":  # 14 lần, ch19-664, he 1 / she 1
-    vi: "Lunia Fricell"
+    ghichu: "Một chiến binh có kỹ thuật 'Ecleksis' gây chết người. Aphrodite quan tâm đến sức mạnh của cô."
+  "Atena":  # 12 lần, ch92-92, he 0 / she 0
+    vi: "Atena"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Nhân vật nữ chính của trò chơi. Ghen tị với Sybil và tham gia vào câu chuyện."
-  "Neil Jack":  # 14 lần, ch128-542, he 0 / she 0
-    vi: "Neil Jack"
+    ghichu: "Một nhân vật có vẻ ngoài lạnh lùng và hiểu rõ về tình trạng của người khác."
+  "Baldr":  # 12 lần, ch7-969, he 2 / she 0
+    vi: "Baldr"
     gioitinh: "nam"
     ngoi3: ""
-    ghichu: "Thợ rèn có tên Neil Jack. Sử dụng kiếm ngắn trong chiến đấu và ăn Trái Tim Rồng."
-  "Hera":  # 13 lần, ch306-306, he 0 / she 1
-    vi: "Hera"
+    ghichu: "Một vị thần được mô tả là 'hoàn hảo' trong thần thoại Bắc Âu."
+  "Orthros":  # 10 lần, ch840-841, he 0 / she 0
+    vi: "Orthros"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một sinh vật có hai đầu. Tên gọi khác là 'Ortos'."
+  "Cupid":  # 9 lần, ch866-867, he 1 / she 2
+    vi: "Cupid"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một nhân vật thần thoại. Thường đi cùng Aphrodite và có khả năng tấn công tinh thần."
+  "Paladin Charon":  # 8 lần, ch832-867, he 2 / she 0
+    vi: "Hiệp sĩ Charon"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một hiệp sĩ có tầm quan trọng đặc biệt. Có liên quan đến những người được chọn bởi các vị thần."
+  "Andro":  # 7 lần, ch843-846, he 0 / she 1
+    vi: "Andro"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một nhân vật. Baal và cô ấy ở ngay phía trước, nhưng cô ấy không để ý đến họ; Frondier định giết Andro."
+  "Azier Mk":  # 6 lần, ch143-824, he 0 / she 0
+    vi: "Azier Mk"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một loại golem hoặc máy móc. Được nhắc đến với số hiệu (Mk) sau tên, có vẻ là các phiên bản khác nhau của cùng một thiết kế."
+  "Chuk":  # 6 lần, ch757-876, he 0 / she 0
+    vi: "Chuk"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một nhân vật được nhắc đến ngắn gọn. Không có nhiều thông tin về vai trò hoặc tính cách của anh ta."
+  "Norn":  # 6 lần, ch895-945, he 0 / she 0
+    vi: "Norn"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một nhóm nữ thần định mệnh; đóng vai trò là người quan sát số phận và sự kiện lớn lao trong thế giới này, không thay đổi được nó dù ai van xin họ đi nữa. Họ liên quan đến Ragnarok."
+  "Paladin Antero":  # 6 lần, ch844-867, he 1 / she 0
+    vi: "Hiệp sĩ Antero"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một hiệp sĩ Atlas yếu đuối; bị quỷ Bune chiếm giữ. Được đề cập cùng với Hiệp sĩ Charon."
+  "Paride":  # 6 lần, ch829-829, he 2 / she 0
+    vi: "Paride"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một quỷ; dường như đang cố gắng phân biệt sự thật và lời nói dối của Frondier."
+  "Sister":  # 6 lần, ch98-855, he 1 / she 0
+    vi: "Tên em gái"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một nhân vật có liên quan đến một ngôi đền và mối quan hệ với Frondier."
-  "Lady of the Lake":  # 13 lần, ch179-533, he 1 / she 0
-    vi: "Nữ Thần Hồ"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một nhân vật bí ẩn liên quan đến thanh kiếm và truyền thuyết. Cô trao thanh kiếm cho King Arthur để tuyên bố anh là một người hùng."
-  "Mistletoe":  # 13 lần, ch1-54, he 0 / she 1
-    vi: "Mistletoe"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một loài cây, được nhắc đến khi nhân vật nhận dạng nó. Có vẻ quan trọng với một nhân vật nữ nào đó."
-  "Azier de Roach":  # 12 lần, ch9-717, he 1 / she 1
-    vi: "Azier de Roach"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Anh trai của Frondier; một người có vai trò quan trọng trong câu chuyện."
-  "Edwin von Behetorio":  # 12 lần, ch43-643, he 0 / she 0
-    vi: "Edwin von Behetorio"
+    ghichu: "Một cách xưng hô; phụ nữ thường không thích bị gọi như vậy."
+  "Aias di Achaea":  # 5 lần, ch772-875, he 1 / she 0
+    vi: "Aias di Achaea"
     gioitinh: "nam"
     ngoi3: ""
-    ghichu: "Một nhân vật đã ngã xuống, được biết đến bởi người kể chuyện."
-  "Hel":  # 12 lần, ch313-571, he 0 / she 2
-    vi: "Hel"
+    ghichu: "Một nhân vật nam. Con trai của Eriboia và sống ở Palma."
+  "Bellerophon":  # 5 lần, ch316-971, he 1 / she 0
+    vi: "Bellerophon"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một anh hùng vĩ đại trong quá khứ, được liệt kê cùng với các nhân vật huyền thoại khác như Arthur và Sigurd."
+  "Daisy Foster":  # 4 lần, ch447-914, he 0 / she 1
+    vi: "Daisy Foster"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một nhân vật có liên quan đến Helheim và mang tên giống như địa điểm đó."
-  "Homas":  # 12 lần, ch389-393, he 1 / she 0
-    vi: "Homas"
-    gioitinh: "nam"
+    ghichu: "Một trong hai người phụ nữ hiện tại thuộc Zodiac. Thường xuyên tranh cãi với Ludovic."
+  "Ludovic de Fabre":  # 4 lần, ch446-932, he 0 / she 0
+    vi: "Ludovic de Fabre"
+    gioitinh: ""
     ngoi3: ""
-    ghichu: "Một cậu bé được Dier giải thích điều gì đó. Sử dụng obsidian để phòng thủ trước các đòn tấn công."
-  "Madeline":  # 12 lần, ch394-394, he 0 / she 3
-    vi: "Madeline"
+    ghichu: "Một nhân vật đã tranh cãi ở phía trước. Được xưng tụng là 'Lord'."
+  "Roland":  # 4 lần, ch316-971, he 0 / she 0
+    vi: "Roland"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một anh hùng đã từng thống trị một thời đại, được liệt kê cùng Merlin và các nhân vật khác trong danh sách những người nổi tiếng."
+  "Woong":  # 4 lần, ch146-725, he 0 / she 0
+    vi: "Woong"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một golem. Nó vung trượng và được nhắc đến trong các trận chiến hoặc sự kiện khác nhau."
+  "Yor":  # 4 lần, ch968-968, he 0 / she 1
+    vi: "Yor"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một hầu gái chăm chỉ, phụ trách dọn dẹp nhà cửa. Cô giữ một đóa sen đen tỏa sáng."
-  "Prometheus":  # 12 lần, ch568-569, he 1 / she 0
-    vi: "Prometheus"
-    gioitinh: "nam"
+    ghichu: "Một nhân vật nữ. Có vẻ là một đồng minh hoặc người bạn của ai đó."
+  "[Elodie.]":  # 4 lần, ch846-950, he 0 / she 0
+    vi: "[Elodie.]"
+    gioitinh: ""
     ngoi3: ""
-    ghichu: "Một nhân vật nam. Có vẻ là một người có tên và đã rời đi cùng với năng lượng ma thuật."
-  "Shadow":  # 12 lần, ch442-443, he 0 / she 1
-    vi: "Bóng tối"
+    ghichu: "Một nhân vật. Được đề cập trong ngoặc vuông."
+  "[Frondier.]":  # 4 lần, ch217-970, he 0 / she 0
+    vi: "[Frondier.]"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một nhân vật. Được đề cập trong ngoặc vuông."
+  "Armel Colt":  # 3 lần, ch241-244, he 0 / she 0
+    vi: "Armel Colt"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một người đàn ông được gọi là 'Senior'. Được nhắc đến một cách ngắn gọn và trang trọng."
+  "Atalante":  # 3 lần, ch938-938, he 0 / she 1
+    vi: "Atalante"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một nhân vật bí ẩn cần được xác định. Liên quan đến kế hoạch Mana Injection."
-  "Student Frondier":  # 12 lần, ch1-710, he 0 / she 0
-    vi: "Học viên Frondier"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một học viên được nhắc đến nhiều lần trong các tình huống khác nhau. Đợi xe buýt cùng giáo viên."
-  "Beelzebub":  # 11 lần, ch571-804, he 1 / she 0
-    vi: "Beelzebub"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Quỷ của sự tham lam. Có vẻ là một nhân vật quyền lực và có khả năng nguyền rủa."
-  "Heracles":  # 11 lần, ch764-774, he 2 / she 0
-    vi: "Heracles"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật được tìm kiếm ở Agoris và có liên quan đến các vị thần khác."
-  "Isiah":  # 11 lần, ch793-794, he 3 / she 2
-    vi: "Isiah"
+    ghichu: "Một người phụ nữ được so sánh với nhân vật Atalante trong thần thoại Hy Lạp. Nói chuyện và mở miệng."
+  "Azzie":  # 3 lần, ch967-967, he 0 / she 1
+    vi: "Azzie"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một nhân vật đang được điều tra và có một người mẹ."
-  "Robald Lieff":  # 11 lần, ch106-684, he 1 / she 0
-    vi: "Robald Lieff"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật có nhiều đặc điểm tương đồng với những người khác. Có một cuộc xô xát ngắn."
-  "Byzant":  # 10 lần, ch374-374, he 1 / she 0
-    vi: "Byzant"
+    ghichu: "Một người con trai của Nữ hoàng Philie. Có liên quan đến một sự việc và được Frondier hứa sẽ đưa về an toàn."
+  "Belial":  # 3 lần, ch968-968, he 0 / she 0
+    vi: "Belial"
     gioitinh: ""
     ngoi3: ""
-    ghichu: "Một người nào đó, thường xuyên bị Theo phản đối và có vẻ là thành viên hội học sinh. Anh ấy xuất hiện cùng với Theo trong các cuộc trò chuyện."
-  "Lucifer":  # 10 lần, ch571-609, he 3 / she 0
-    vi: "Lucifer"
+    ghichu: "Một nhân vật. Được giới thiệu là một con quỷ và có vai trò quan trọng trong việc làm suy yếu đất nước."
+  "Ecleksis Frondier":  # 3 lần, ch865-878, he 0 / she 0
+    vi: "Ecleksis Frondier"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một nhân vật có sức mạnh đặc biệt. Athena và Aphrodite không thể đánh bại được ông ta."
+  "Elin":  # 3 lần, ch800-850, he 1 / she 0
+    vi: "Elin"
     gioitinh: "nam"
     ngoi3: ""
-    ghichu: "Quỷ của sự kiêu ngạo. Có vẻ là một nhân vật quyền lực và có liên quan đến các quỷ khác."
-  "Quentin":  # 10 lần, ch231-231, he 3 / she 0
-    vi: "Quentin"
+    ghichu: "Chị gái lớn hơn của Aster. Nổi tiếng trong lĩnh vực kiếm thuật."
+  "Grandpa":  # 3 lần, ch265-314, he 0 / she 0
+    vi: "Ông nội"
     gioitinh: "nam"
     ngoi3: ""
-    ghichu: "Một người nào đó có vẻ là một chuyên gia về đồ cổ và có thể dễ dàng nhận ra các vật phẩm."
-  "Sandri":  # 10 lần, ch788-798, he 0 / she 0
-    vi: "Sandri"
+    ghichu: "Một người thân thiết của nhân vật chính. Được gọi bằng những lời than thở và yêu cầu."
+  "Jormy":  # 3 lần, ch930-930, he 0 / she 0
+    vi: "Jormy"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một người được xưng tụng với sự vui mừng và cảm kích. Vai trò chưa rõ ràng trong các đoạn trích."
+  "Jujak Oruem":  # 3 lần, ch905-905, he 0 / she 0
+    vi: "Jujak Oruem"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một nhân vật va chạm với Jeong giữa không trung, tạo ra sóng xung kích."
+  "Medart de Thebes":  # 3 lần, ch458-573, he 0 / she 0
+    vi: "Medart de Thebes"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Một thành viên của Zodiacs và là cố vấn của Lily."
+  "Meno":  # 3 lần, ch208-874, he 0 / she 0
+    vi: "Meno"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một nhân vật. Các đoạn trích chỉ có tiếng kêu tên của anh ta, không rõ giới tính hoặc vai trò."
+  "Perseus":  # 3 lần, ch794-794, he 0 / she 1
+    vi: "Perseus"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Tên của một gia đình giàu có và quyền lực ở Atlas. Họ sở hữu nhiều tài sản và ảnh hưởng lớn."
-  "Terst":  # 10 lần, ch4-800, he 1 / she 0
-    vi: "Terst"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người đã qua đời. Người không thể hiện tình cảm và từng là một người sống nội tâm."
-  "Vikar":  # 10 lần, ch58-736, he 3 / she 0
-    vi: "Vikar"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một quản gia. Có vẻ là một người đáng tin cậy và có thể giao tiếp bằng mắt."
-  "Zeus":  # 10 lần, ch80-764, he 0 / she 0
-    vi: "Zeus"
+    ghichu: "Một anh hùng đã giết Medusa trong một thế giới trước đây. Có thể vẫn còn tồn tại."
+  "Pielott di Ribanche":  # 3 lần, ch771-782, he 0 / she 0
+    vi: "Pielott di Ribanche"
     gioitinh: ""
     ngoi3: ""
-    ghichu: "Một vị thần có sức mạnh lớn. Được so sánh với các vị thần khác trong nhiều nền văn hóa."
-  "Andika":  # 9 lần, ch553-554, he 4 / she 0
-    vi: "Andika"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người chăn cừu của Manggot. Có vẻ là một người có ảnh hưởng và bộc phát."
-  "Hercules":  # 9 lần, ch637-789, he 0 / she 0
-    vi: "Hercules"
+    ghichu: "Một nhân vật được bầu làm đại diện lớp. Tên của anh ta không phổ biến ở lục địa này, thay vì 'von'.”, 15 words."
+  "Purupuru":  # 3 lần, ch861-861, he 1 / she 0
+    vi: "Purupuru"
     gioitinh: ""
     ngoi3: ""
-    ghichu: "Một nhân vật có liên quan đến các vị thần và được tìm kiếm bởi Zenita."
-  "Senior Sloth":  # 9 lần, ch391-424, he 3 / she 0
-    vi: "Sloth Cao cấp"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người có vị trí cao trong một tổ chức hoặc nhiệm vụ. Có vẻ là một người mạnh mẽ và quan trọng."
-  "Sigurd":  # 9 lần, ch11-751, he 0 / she 0
-    vi: "Sigurd"
+    ghichu: "Một con quỷ đã cho nhân vật chính sức mạnh và giả vờ là Poseidon. Không có phản hồi."
+  "Selena de Vanier":  # 3 lần, ch543-572, he 0 / she 0
+    vi: "Selena de Vanier"
     gioitinh: ""
     ngoi3: ""
-    ghichu: "Một anh hùng nổi tiếng trong thần thoại Bắc Âu. Một thanh kiếm được sử dụng bởi Sigurd."
-  "Ludwig von Urfa":  # 8 lần, ch142-503, he 1 / she 0
-    vi: "Ludwig von Urfa"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam có địa vị cao. Ông đã giao gia sản của mình cho con trai."
-  "Piellot":  # 8 lần, ch384-699, he 1 / she 0
-    vi: "Piellot"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một sinh viên năm nhất có tài năng vượt trội. Anh ấy sử dụng kiếm và được so sánh với Aster."
-  "Ellis":  # 7 lần, ch577-581, he 0 / she 0
-    vi: "Gia tộc Ellis"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một gia đình quý tộc giàu có và danh giá. Có vẻ như họ rất được kính trọng trong xã hội, với người hầu hạ cũng được trang bị vũ khí để bảo vệ một cô gái của nhà Ellis."
-  "Enfer de Roach":  # 7 lần, ch9-375, he 1 / she 0
-    vi: "Enfer de Roach"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam. Có vẻ là một người cha yêu con trai và lãnh đạo một gia tộc."
-  "Hugo":  # 7 lần, ch174-174, he 3 / she 0
-    vi: "Hugo"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người lính canh. Anh ta bị sốc khi nhìn thấy một cảnh tượng nào đó và không thể di chuyển."
-  "Pielott von Ribanche":  # 7 lần, ch389-790, he 2 / she 0
-    vi: "Pielott von Ribanche"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam. Có vẻ là một học trò hoặc đệ tử của ai đó và có tên khác trên lục địa."
-  "Bartello Terst":  # 6 lần, ch124-435, he 1 / she 0
-    vi: "Bartello Terst"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật hoàng gia. Có liên quan đến cuộc cách mạng và Philly Terst."
-  "Behetorio":  # 6 lần, ch36-396, he 1 / she 0
-    vi: "Behetorio"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật, có liên quan đến Osprey và có thời kỳ đỉnh cao."
-  "Evans":  # 6 lần, ch40-150, he 0 / she 0
-    vi: "Evans"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một gia đình thường dân nổi tiếng nhờ em trai Aster. Ellen không có sức mạnh thần thánh."
-  "Ludwig Urfa":  # 6 lần, ch32-517, he 0 / she 0
-    vi: "Ludwig Urfa"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Người đứng đầu gia tộc Urfa. Ông ta gặp khó khăn và từng canh giữ một nơi nào đó."
-  "Malia de Roach":  # 6 lần, ch48-738, he 0 / she 0
-    vi: "Malia de Roach"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Nhân viên y tế của trường học. Được gọi bằng cả tên đầy đủ và ngắn gọn."
-  "Pascal Schlitz":  # 6 lần, ch448-725, he 0 / she 0
-    vi: "Pascal Schlitz"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một hiệp sĩ của gia tộc Hoàng gia. Có vẻ ngoài lúng túng."
-  "Roderick":  # 6 lần, ch83-124, he 0 / she 1
-    vi: "Roderick"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Con trai của một người thiếp; hoàng tử xếp thứ hai trong dòng dõi thừa kế sau các con gái của Philly."
-  "Solomon":  # 6 lần, ch637-674, he 0 / she 0
-    vi: "Solomon"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người có liên quan đến 72 quỷ của Solomon; một nhân vật bí ẩn và quyền lực."
-  "Warden Esther":  # 6 lần, ch312-741, he 0 / she 1
-    vi: "Người quản ngục Esther"
+    ghichu: "Thành viên của gia tộc House of Vanier. Được nhắc đến như một người có quá khứ bí ẩn và tiềm năng trở thành quý tộc mới."
+  "Sis":  # 3 lần, ch8-529, he 0 / she 0
+    vi: "Sis"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một người có trách nhiệm và nắm giữ thông tin về mảnh vỡ của Helheim."
-  "Adam":  # 5 lần, ch472-819, he 1 / she 1
-    vi: "Adam (khản giọng)"
+    ghichu: "Một người thân thiết, được xưng là 'chị'. Có vẻ như một thành viên trong gia đình."
+  "Student Basileo":  # 3 lần, ch797-819, he 0 / she 0
+    vi: "Học sinh Basileo"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một học sinh được nhắc đến trong các tình huống khác nhau. Không rõ giới tính hoặc vai trò cụ thể hơn."
+  "U":  # 3 lần, ch803-814, he 0 / she 0
+    vi: "U"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một nhân vật có vẻ đau khổ hoặc đang bị đe dọa. Có thể là một người phụ nữ hoặc nam giới, không rõ giới tính từ các đoạn trích cung cấp."
+  "White Lion Hector":  # 3 lần, ch194-816, he 1 / she 0
+    vi: "White Lion Hector (Sư Tử Trắng Hector)"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Hector Dutoit với danh hiệu 'White Lion'. Một chiến binh mạnh mẽ và đáng gờm."
+  "Woooong-":  # 3 lần, ch730-748, he 0 / she 0
+    vi: "Woooong-"
+    gioitinh: ""
+    ngoi3: ""
+    ghichu: "Một nhân vật được nhắc đến trong các chương từ 730 đến 748. Không có thông tin giới tính rõ ràng từ ngữ cảnh."
+  "Zenita di Sandri":  # 3 lần, ch770-888, he 0 / she 1
+    vi: "Zenita di Sandri"
     gioitinh: "nữ"
     ngoi3: ""
-    ghichu: "Một đặc điểm sinh lý của Aten và Athena: một khối thịt nổi lên khi nuốt."
-  "Albaito":  # 5 lần, ch184-509, he 0 / she 0
-    vi: "Albaito"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người dùng Ko-fi đóng góp vào chương truyện bonus."
-  "Berengar":  # 5 lần, ch525-531, he 1 / she 0
-    vi: "Berengar"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người phụ trách. Có phán đoán xuất sắc."
-  "Beso":  # 5 lần, ch553-554, he 1 / she 0
-    vi: "Beso"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người chăn cừu. Đã trả lời và nắm lấy một ai đó."
-  "Dier Eiger":  # 5 lần, ch385-422, he 1 / she 0
-    vi: "Dier Eiger"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam. Có vẻ là một người có trách nhiệm và quan trọng trong một thử thách nào đó."
-  "Gisele":  # 5 lần, ch50-50, he 0 / she 2
-    vi: "Gisele"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một học sinh, bạn cùng lớp của Ellen. Có vẻ hơi khó chịu và thân thiện."
-  "Kaferi":  # 5 lần, ch117-117, he 2 / she 0
-    vi: "Kaferi"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một học sinh năm nhất. Bị tấn công bởi quái vật."
-  "Kian":  # 5 lần, ch250-251, he 0 / she 1
-    vi: "Kian"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một nhân vật nam hoặc nữ. Được trêu chọc và trả lời nhanh chóng trong các tình huống khác nhau, khả năng của anh/cô ấy được công nhận."
-  "Lilith":  # 5 lần, ch447-611, he 0 / she 1
-    vi: "Lilith"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ được so sánh với ác quỷ Lilith. Cô ấy có lính canh và thường được đối xử như một phụ kiện."
-  "Nether":  # 5 lần, ch389-391, he 1 / she 0
-    vi: "Nether"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một học sinh chuyên về phép thuật. Hỗ trợ ai đó."
-  "Pierrot":  # 5 lần, ch781-781, he 2 / she 0
-    vi: "Pierrot"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người có liên quan đến quá khứ của nhân vật chính. Đã thay đổi sau sự giúp đỡ."
-  "Seirra":  # 5 lần, ch348-509, he 0 / she 0
-    vi: "Seirra"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người đóng góp cho các chương truyện bonus thông qua Ko-fi."
-  "Shepherd of Manggot":  # 5 lần, ch529-570, he 2 / she 0
-    vi: "Người Chăn Dắt Manggot"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một sinh vật mạnh mẽ bị Aster đánh bại; có những kẻ đi theo."
-  "Ameline von Ellis":  # 4 lần, ch434-581, he 0 / she 0
-    vi: "Ameline von Ellis"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật đã gặp gỡ tại một bữa tiệc. Thông tin về cô ấy được tìm kiếm."
-  "Armel de Viet":  # 4 lần, ch241-474, he 0 / she 0
-    vi: "Armel de Viet"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người có quyền năng thần thánh. Là cha đẻ sinh học của Quinie."
-  "Asmodeus":  # 4 lần, ch676-676, he 0 / she 0
-    vi: "Asmodeus"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một trong bảy vị chúa quỷ. Mạnh hơn một số người khác nhưng yếu hơn Baal."
-  "Daud Forte":  # 4 lần, ch55-643, he 0 / she 0
-    vi: "Daud Forte"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Cha của Sybil. Xuất hiện cùng con gái và được nhắc đến với vai trò người cha."
-  "Dier Aigar":  # 4 lần, ch511-707, he 1 / she 1
-    vi: "Dier Aigar"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một trong những môn đệ của nhân vật chính. Cứu người khác và cảm thấy hân hoan."
-  "Edward":  # 4 lần, ch445-445, he 1 / she 0
-    vi: "Edward"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Vua trước đây. Cha của Bartello và có liên quan đến chiến tranh với quái vật."
-  "Elodie de Rishae":  # 4 lần, ch58-589, he 0 / she 0
-    vi: "Elodie de Rishae"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một người bạn cũ. Thường xuyên chơi đùa cùng nhân vật chính khi còn nhỏ."
-  "Frondeir":  # 4 lần, ch11-71, he 1 / she 0
-    vi: "Frondeir"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người có giọng nói bình tĩnh, Ludwig tỏ ra không hài lòng với anh."
-  "Glutton of Chaos":  # 4 lần, ch86-282, he 0 / she 0
-    vi: "Glutton of Chaos (Kẻ nuốt chửng hỗn loạn)"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật mạnh mẽ có sức mạnh của thần chiến Alex và được coi là một kẻ phản diện."
-  "Hector Dutoit":  # 4 lần, ch166-518, he 1 / she 0
-    vi: "Hector Dutoit"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật nam. Anh ta quan sát người khác và có vẻ như đang bảo vệ một khu vực."
-  "Leah Lis":  # 4 lần, ch687-688, he 1 / she 0
-    vi: "Leah Lis"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ. Được người khác gọi bằng danh xưng 'ngươi'. Có ký ức được khôi phục lại."
-  "Lord of Roach":  # 4 lần, ch11-621, he 0 / she 0
-    vi: "Lord of Roach (Lãnh chúa Roach)"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một lãnh chúa. Enfer là một trong số đó."
-  "Maria":  # 4 lần, ch111-148, he 0 / she 1
-    vi: "Maria"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ được các giáo sư khác kính trọng. Có vẻ như Enfer có thể nghe thấy suy nghĩ của cô ấy."
-  "Marlia":  # 4 lần, ch152-153, he 0 / she 0
-    vi: "Marlia"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ. Cố gắng ngăn cản người khác nói chuyện với Enfer."
-  "Mop":  # 4 lần, ch82-362, he 0 / she 0
-    vi: "Mop"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người dùng Ko-fi hỗ trợ tài chính cho tác giả thông qua các chương bonus. Được nhắc đến trong phần cảm ơn của tác giả."
-  "R":  # 4 lần, ch22-707, he 0 / she 0
-    vi: "R"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một nhân vật được nhắc đến ngắn gọn. Vai trò không rõ."
-  "Roderick Terst":  # 4 lần, ch83-119, he 1 / she 0
-    vi: "Roderick Terst"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người đứng đầu một thế lực. Ảnh hưởng của ông ấy đang gia tăng trong Cung điện Hoàng gia."
-  "Serena":  # 4 lần, ch245-361, he 0 / she 1
-    vi: "Serena"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ có vẻ ngoài ngạc nhiên và quan sát mọi thứ một cách im lặng."
-  "Thane":  # 4 lần, ch13-13, he 1 / she 0
-    vi: "Thane"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Bạn của Aster, có tính cách hòa đồng, gần gũi. Thể hiện sự phấn khích khi gặp Aster."
-  "Thomson":  # 4 lần, ch250-267, he 3 / she 0
-    vi: "Thomson"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật có biểu cảm khó đọc. Vị trí của anh ta được tiết lộ."
-  "Agni":  # 3 lần, ch137-490, he 0 / she 1
-    vi: "Agni (Apgnee)"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một trong năm vị thần yêu Elodie, liên quan đến lửa và ánh sáng."
-  "Alan":  # 3 lần, ch336-444, he 0 / she 0
-    vi: "Alan"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người đóng góp cho chương truyện thông qua Ko-fi."
-  "Alberto Montes":  # 3 lần, ch175-450, he 0 / she 0
-    vi: "Alberto Montes"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người đóng góp cho chương truyện thông qua Ko-fi."
-  "Angus Mason":  # 3 lần, ch422-429, he 1 / she 0
-    vi: "Angus Mason"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Lãnh đạo đội nghiên cứu về tiêm Mana. Chơi vai trò quan trọng trong việc nghiên cứu."
-  "Chandra":  # 3 lần, ch490-593, he 0 / she 0
-    vi: "Chandra"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một trong năm vị thần yêu mến Elodie."
-  "Dier Aiger":  # 3 lần, ch384-790, he 2 / she 0
-    vi: "Dier Aiger"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một học sinh năm nhất. Đồng thời là đối thủ cạnh tranh của Aster Evans."
-  "Dutoit":  # 3 lần, ch166-375, he 2 / she 0
-    vi: "Dutoit"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một nhân vật sử dụng tên này thay vì Ludwig von Urfa. Có vẻ có tranh chấp gia đình."
-  "Edesion":  # 3 lần, ch445-570, he 0 / she 0
-    vi: "Edesion"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một cựu hoàng đế bị coi là vô năng. Ông nội của Hoàng đế Bartello."
-  "Excali":  # 3 lần, ch80-319, he 0 / she 0
-    vi: "Excali"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người được nhắc đến trong các phần thưởng từ Ko-fi. Vai trò không rõ ràng qua các trích dẫn."
-  "F-Frondier":  # 3 lần, ch199-810, he 0 / she 0
-    vi: "Frondier"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người được Selena gọi là 'nim'. Có vẻ như là một chức danh hoặc cách xưng hô tôn trọng, nhưng không rõ ai/cái gì cụ thể. (Selena's bodyguard.)"
-  "Frontier":  # 3 lần, ch16-17, he 1 / she 0
-    vi: "Frontier"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một người có vẻ mặt cau có khi nghe một câu nói nào đó."
-  "Geoffrey":  # 3 lần, ch366-522, he 0 / she 0
-    vi: "Geoffrey"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người được nhắc đến trong các phần thưởng từ Ko-fi. Vai trò không rõ ràng qua các trích dẫn."
-  "Gingerth":  # 3 lần, ch272-414, he 0 / she 0
-    vi: "Gingerth"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người được nhắc đến trong các phần thưởng từ Ko-fi. Vai trò không rõ ràng qua các trích dẫn."
-  "Greg":  # 3 lần, ch108-321, he 0 / she 0
-    vi: "Greg"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người dùng Ko-fi hỗ trợ tác giả. Xuất hiện trong các thông báo về chương bonus được tài trợ."
-  "GwhoisJ":  # 3 lần, ch230-480, he 0 / she 0
-    vi: "GwhoisJ"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người dùng Ko-fi hỗ trợ tác giả. Xuất hiện trong các thông báo về chương bonus được tài trợ."
-  "Huy":  # 3 lần, ch94-462, he 0 / she 0
-    vi: "Huy"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người dùng Ko-fi hỗ trợ tác giả. Xuất hiện trong các thông báo về chương bonus được tài trợ."
-  "I-I'm":  # 3 lần, ch71-409, he 1 / she 0
-    vi: "Tôi"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một nhân vật sử dụng đại từ ngôi thứ nhất. Thường xuyên bày tỏ sự bối rối hoặc xin lỗi trong các tình huống khác nhau."
-  "Kevin":  # 3 lần, ch742-742, he 2 / she 0
-    vi: "Kevin"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một đứa trẻ tin rằng Frondier là quỷ dữ và thực thi công lý."
-  "Lis":  # 3 lần, ch576-683, he 0 / she 1
-    vi: "Lis"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Tên của một gia đình hoặc bộ tộc. Ria Lis có thể đã tự tạo ra nó."
-  "Mammon":  # 3 lần, ch571-571, he 1 / she 0
-    vi: "Mammon"
-    gioitinh: "nam"
-    ngoi3: ""
-    ghichu: "Một vị ác quỷ đại diện cho sự tham lam. Ông có vẻ ngoài của một cậu bé và thích trang sức."
-  "Pascal Schilitz":  # 3 lần, ch201-710, he 0 / she 0
-    vi: "Pascal Schilitz"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Giảng viên kỹ năng chiến đấu cơ bản tại Constel. Một người tinh nghịch."
-  "Quinnie":  # 3 lần, ch11-16, he 0 / she 0
-    vi: "Quinnie"
-    gioitinh: "nữ"
-    ngoi3: ""
-    ghichu: "Một người thở dài, có suy nghĩ khác trong một khoảnh khắc ngắn ngủi."
-  "RainEday":  # 3 lần, ch90-319, he 0 / she 0
-    vi: "RainEday"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một người ủng hộ hoặc tài trợ cho tác giả thông qua Ko-fi."
-  "Revet de Rishae":  # 3 lần, ch136-497, he 0 / she 0
-    vi: "Revet de Rishae"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Anh trai của Elodie. Một thành viên trong gia đình Rishae."
-  "Selena de Barnier":  # 3 lần, ch186-360, he 0 / she 0
-    vi: "Selena de Barnier"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một nhân vật nữ. Được nhắc đến trong các đoạn hội thoại và có tên được khẳng định rõ ràng."
-  "Theo de Blanc":  # 3 lần, ch142-374, he 0 / she 0
-    vi: "Theo de Blanc"
-    gioitinh: ""
-    ngoi3: ""
-    ghichu: "Một nhân vật nam. Trước đây là chủ tịch hội học sinh và hiện đang làm việc với giấy tờ."
+    ghichu: "Một học sinh của người kể chuyện, ngồi cạnh Basileo. Được mô tả là một đứa trẻ."
 
-kinh_ngu:  # kính ngữ: 15 mục
-  "Mr": "ông / anh"  # 114 lần, ch49-819 | kính ngữ
-  "Lord": "ngài / lãnh chúa"  # 113 lần, ch1-767 | kính ngữ
-  "Senior": "tiền bối"  # 113 lần, ch16-815 | kính ngữ
-  "Majesty": "Bệ hạ"  # 104 lần, ch69-745 | kính ngữ
-  "Lady": "tiểu thư / phu nhân (quý tộc)"  # 96 lần, ch73-813 | kính ngữ
-  "-nim": "ngài / anh / chị... tùy quan hệ (có thể lược bỏ)"  # 90 lần, ch199-794 | kính ngữ
-  "Miss": "cô / tiểu thư (quý tộc)"  # 57 lần, ch17-798 | kính ngữ
-  "Sir": "ngài / hiệp sĩ"  # 39 lần, ch134-822 | kính ngữ
-  "Ms": "cô"  # 33 lần, ch69-801 | kính ngữ
-  "Highness": "Điện hạ"  # 28 lần, ch98-711 | kính ngữ
-  "Master": "chủ nhân / sư phụ (tùy ngữ cảnh)"  # 15 lần, ch1-811 | kính ngữ
-  "Madam": "phu nhân / bà"  # 10 lần, ch590-815 | kính ngữ
-  "-ssi": "anh / chị / cô... lịch sự (có thể lược bỏ)"  # 7 lần, ch77-740 | kính ngữ
-  "Mrs": "bà"  # 6 lần, ch793-824 | kính ngữ
-  "-sunbae": "tiền bối"  # 5 lần, ch227-234 | kính ngữ
+kinh_ngu:  # kính ngữ: 4 mục
+  "Mister": "ông / anh"  # 12 lần, ch208-954 | kính ngữ
+  "Hyung": "anh"  # 10 lần, ch950-952 | kính ngữ
+  "Young Master": "thiếu gia"  # 10 lần, ch902-940 | kính ngữ
+  "-sensei": "thầy / cô"  # 6 lần, ch820-889 | kính ngữ
 
-danh_hieu:  # danh hiệu: 40 mục
-  "Zodiac": ""  # 255 lần, ch12-826 | chức danh
-  "Emperor": "Hoàng đế"  # 167 lần, ch73-743 | chức danh
-  "Empress": "Hoàng hậu / Nữ hoàng"  # 116 lần, ch70-787 | chức danh
-  "Headmaster": "hiệu trưởng"  # 102 lần, ch259-802 | chức danh
-  "Teacher": "thầy / cô (tùy giới tính)"  # 100 lần, ch1-803 | chức danh
-  "King": "Quốc vương"  # 59 lần, ch162-824 | chức danh
-  "Professor": "giáo sư"  # 37 lần, ch19-810 | chức danh
-  "Archmage": "Đại pháp sư"  # 34 lần, ch179-744 | chức danh
-  "Princess": "Công chúa"  # 25 lần, ch83-736 | chức danh
-  "Instructor": "giảng viên"  # 21 lần, ch18-809 | chức danh
-  "Commander": "chỉ huy"  # 20 lần, ch167-552 | chức danh
-  "Wizard": "Pháp Sư"  # 20 lần, ch4-770 | Một người có kiến thức và khả năng phép thuật. Thường là một giáo viên hoặc chuyên gia.
-  "Majesty the Empress": "Nữ Hoàng Hậu"  # 19 lần, ch409-770 | Tước hiệu cao quý dành cho một nữ hoàng. Có quyền lực và ảnh hưởng lớn trong triều đình.
-  "Iron Wall": "Tường Sắt"  # 16 lần, ch99-737 | Một biệt danh cho một người mạnh mẽ và kiên cố. Enfer được biết đến với biệt hiệu này.
-  "Joan of Arc": "Nữ anh hùng Jeanne d'Arc"  # 12 lần, ch751-776 | Một biểu tượng của sự anh hùng và hy vọng. Cờ hiệu của bà mang lại những tác động đặc biệt.
-  "Paladin": "Hiệp sĩ Thánh"  # 12 lần, ch824-828 | Một chiến binh thánh thiện với sức mạnh lớn. Antero là một hiệp sĩ Thánh.
-  "Legendary": "Huyền thoại"  # 9 lần, ch52-782 | Một cấp bậc hoặc danh hiệu của vũ khí và sức mạnh. Thấp hơn Divine.
-  "Principal": "hiệu trưởng"  # 9 lần, ch226-808 | chức danh
-  "Headmaster of Atlas": "Hiệu trưởng Atlas"  # 8 lần, ch796-824 | Người đứng đầu Học viện Atlas. Có liên quan đến hình ảnh của Osprey và Carla có thể mất vị trí, 8 lần xuất hiện. Chương 796-824.
-  "Headmistress": "hiệu trưởng"  # 8 lần, ch800-819 | chức danh
-  "Devil King": "Vua Ác Quỷ"  # 7 lần, ch666-745 | Một danh hiệu cao quý. Liên quan đến việc tìm kiếm quỷ dữ và sự ép buộc.
-  "Weapon Master": "Thợ Rèn Vũ Khí"  # 7 lần, ch694-701 | Một danh hiệu chỉ những người có kỹ năng chế tạo vũ khí điêu luyện. Monty đã đạt được danh hiệu này.
-  "Chancellor": "Chánh Lý"  # 6 lần, ch48-277 | Một chức vụ quan trọng. Osprey giữ chức Chánh Lý và được gọi là 'Zodiac'.
-  "Emperor of the Empire": "Hoàng Đế của Đế Chế"  # 6 lần, ch83-741 | Tước hiệu của người đứng đầu một đế chế. Luôn là nam giới và có quyền quyết định quan trọng.
-  "Imperial Knight": "Hiệp Sĩ Hoàng Gia"  # 6 lần, ch450-729 | Một danh hiệu cao quý. Pascal và Azier đều mang danh hiệu này.
-  "Goddess of Wisdom": "Nữ thần Trí tuệ"  # 5 lần, ch818-823 | Một vị nữ thần có liên quan đến trí tuệ và chiến tranh. Được gọi là Athena.
-  "Lord Commander": "Lord Commander (Tổng Tư Lệnh)"  # 5 lần, ch342-342 | Một chức danh quân sự cao cấp. Có biệt hiệu là 'Tường Sắt'.
-  "Sage": "Thánh Nhân"  # 5 lần, ch280-523 | Một danh hiệu được gán cho Osprey; người có kiến thức và sức mạnh đáng kể.
-  "Captain": "đội trưởng"  # 4 lần, ch343-756 | chức danh
-  "Dike": "Thần Dike"  # 4 lần, ch671-672 | Một vị thần tượng trưng cho công lý và sự cân bằng. Có thể trừng phạt ngay cả những kẻ phạm tội.
-  "Headmaster of Constel": "Hiệu trưởng của Constel"  # 4 lần, ch474-477 | Người đứng đầu Học viện Constel. Vai trò và danh tính của người này là một bí ẩn.
-  "Librarian": "thủ thư"  # 4 lần, ch7-261 | chức danh
-  "Sir Knight": "Hiệp Sĩ"  # 4 lần, ch578-582 | Một tước vị hoặc chức danh được sử dụng để xưng hô với một người đàn ông. Thường được gọi là 'Sir Knight'.
-  "Dragon Slayer": "Sát Rồng"  # 3 lần, ch14-116 | Một biệt danh hoặc chức năng của một người/thực thể có khả năng giết chết rồng và hấp thụ máu của chúng.
-  "Empress of the Empire": "Nữ hoàng Đế quốc"  # 3 lần, ch207-735 | Một tước hiệu cao quý. Philly được yêu cầu giải quyết vấn đề như thể cô là Nữ hoàng.
-  "Hero": "Anh Hùng"  # 3 lần, ch555-696 | Một danh hiệu được dùng để chỉ một người nào đó. Có liên quan đến sự kết hợp với Thần.
-  "Iron Wall of the North": "Tường Sắt Phương Bắc"  # 3 lần, ch1-375 | Một biệt danh dành cho Enfer De Roach. Được coi là một 'Quân Một Người'.
-  "Justice": "Công Lý"  # 3 lần, ch117-305 | Một phẩm chất được liên kết với Lord of Radiance và Guardian. Sự công lý từ các vị thần sẽ phán xét.
-  "Wordsmith": "Người thợ chữ / Người viết giỏi"  # 3 lần, ch286-444 | Một người có tài năng về ngôn ngữ. Được nhắc đến trong phần cảm ơn của chương.
-  "Young Lord": "Lãnh Chúa Trẻ"  # 3 lần, ch330-330 | Một tước vị được sử dụng để chỉ một người đàn ông trẻ tuổi. Anh trai của nhân vật có tước hiệu này.
+danh_hieu:  # danh hiệu: 20 mục
+  "King of Demons": "Vua Quỷ"  # 50 lần, ch841-949 | Một danh hiệu dành cho Satan. Arald mong muốn có được Vua Quỷ và Frondier đã hiểu rõ ý nghĩa của sự thiếu vắng đó.
+  "Nine": "Chín"  # 16 lần, ch836-968 | Một nhóm hoặc tổ chức có quyền lực và ảnh hưởng lớn. Có liên quan đến Paladin Charon.
+  "Common": "thường/phổ thông"  # 15 lần, ch1-858 | Đánh dấu cấp bậc hoặc phẩm chất trung bình, không đặc biệt nổi bật.
+  "Hope of Humanity": "Hy vọng của nhân loại"  # 9 lần, ch850-879 | Một người được coi là biểu tượng của sự cứu rỗi. Đối lập với vị thần tối cao Olympus.
+  "Primary God": "Thần Nguyên Thủy"  # 8 lần, ch846-847 | Một vị thần có địa vị cao cấp. Vishnu và Rudra được nhắc đến là những ví dụ.
+  "Warden": "Người bảo vệ (Warden)"  # 7 lần, ch312-810 | Một chức danh hoặc vị trí. Một người được tìm kiếm và có vẻ quan trọng.
+  "Head of House": "Đứng Đầu Gia Tộc"  # 6 lần, ch887-960 | Một vị trí quyền lực trong một gia tộc hoặc tổ chức. Có vẻ là người có thẩm quyền cao nhất.
+  "Protect Frondier": "Bảo vệ Frondier"  # 6 lần, ch299-950 | Một mệnh lệnh hoặc mục tiêu quan trọng; đòi hỏi sự hy sinh lớn lao để bảo vệ Frondier.
+  "Demon King": "Demon King"  # 5 lần, ch1-956 | Một nhân vật phản diện mạnh mẽ có thể mang lại đặc quyền cho người nắm giữ.
+  "Legend": "Huyền thoại"  # 5 lần, ch563-888 | Một cấp bậc hoặc phẩm chất cao quý của vật phẩm. Thường được dùng để chỉ những thứ đặc biệt.
+  "Director": "Giám đốc"  # 4 lần, ch283-631 | Một chức danh hoặc vị trí nào đó. Người giữ chức vụ này được xưng tụng bằng 'Director'.
+  "Grand Mage": "Đại Pháp Sư"  # 4 lần, ch463-962 | Một chức danh cao cấp trong giới phép thuật. Người giữ chức vụ này có sức mạnh rất lớn.
+  "Imperial Majesty": "Trái Tim Đế Quốc (Imperial Majesty)"  # 4 lần, ch916-917 | Một cách xưng hô tôn kính dành cho hoàng đế. Thể hiện sự sợ hãi và lo ngại.
+  "Imperial Princess": "Công chúa Hoàng gia thứ nhất"  # 3 lần, ch120-901 | Một thành viên hoàng gia có địa vị cao. Được bảo vệ bởi quyền lực của mình.
+  "Lower-rank": "Hạng thấp"  # 3 lần, ch839-839 | Mô tả những kẻ yếu hơn hoặc kém kinh nghiệm.
+  "PROs": "PROs"  # 3 lần, ch913-914 | Một nhóm người hứa hẹn. Thường là học sinh hoặc những người có tiềm năng.
+  "Shepherd": "Shepherd"  # 3 lần, ch536-886 | Một vai trò lãnh đạo trong tổ chức Manggot. Người Shepherd dẫn dắt các thành viên và có quyền lực nhất định.
+  "Twelve Gods of Olympus": "Mười hai vị thần Olympus"  # 3 lần, ch962-967 | Một nhóm các vị thần quyền năng. Có sức mạnh vượt trội và ảnh hưởng lớn.
+  "Twelve of Olympus": "Mười hai vị thần Olympus"  # 3 lần, ch869-870 | Một nhóm các vị thần quyền năng. Tương tự như 'Twelve Gods of Olympus'.
+  "White Lion": "White Lion (Sư Tử Trắng)"  # 3 lần, ch166-887 | Danh hiệu của Hector Dutoit. Một chiến binh mạnh mẽ và đáng gờm.
 
-dia_danh:  # địa danh: 45 mục
-  "Constel": "Constel"  # 1073 lần, ch1-828 | Một học viện hoặc trường đại học nơi các nhân vật theo học và tham gia câu lạc bộ.
-  "Empire": "Đế chế"  # 844 lần, ch7-824 | Một quốc gia hoặc lãnh thổ lớn. Có liên quan đến các hiệp hội và sự kiện khác nhau.
-  "Imperial Palace": "Hoàng cung"  # 327 lần, ch80-787 | Nơi ở của hoàng gia. Có những sát thủ ẩn nấp bảo vệ Nữ Hoàng.
-  "Tyburn": "Tyburn"  # 222 lần, ch32-797 | Một khu vực biên giới thuộc Đế chế Terst. Liên quan đến nhiều sự kiện và nhân vật khác nhau.
-  "Yeranhes": "Vùng Yeranhes"  # 85 lần, ch1-797 | Một lãnh thổ của đế chế Terst, nơi chưa từng có quái vật xâm nhập. Có rào cản và liên quan đến nhiều sự kiện.
-  "Agoris": "Lục địa Agoris"  # 78 lần, ch593-824 | Một lục địa lớn với chỉ một quốc gia duy nhất là Palma. Có liên quan đến quỷ dữ.
-  "Demon Realm": "Giới Quỷ (Demon Realm)"  # 68 lần, ch567-768 | Một chiều không gian nơi các quỷ dữ sinh sống.
-  "Achaea": "Achaea"  # 58 lần, ch792-824 | Tên gia tộc của Aias và là người có ảnh hưởng lớn tại Atlas. Cô ấy tươi cười rạng rỡ.
-  "Morion": "Morion"  # 51 lần, ch281-741 | Một nhà tù nơi giam giữ những người như Renzo và Robert.
-  "Cropolis": "Cropolis"  # 45 lần, ch257-309 | Một thành phố bên hồ. Nơi có hoạt động trao đổi danh thiếp và có liên quan đến nhiều nhân vật.
-  "Falind": "Lục địa Falind"  # 42 lần, ch30-828 | Một lục địa có sử dụng ô tô làm phương tiện di chuyển phổ biến. Có sự khác biệt về quái vật so với Agoris.
-  "Terst Empire": "Đế chế Terst"  # 24 lần, ch1-824 | Một đế chế có lãnh thổ biên giới là Tyburn, đã từng chuyển đô từ nhiều lần.
-  "Nastrond": "Nastrond"  # 18 lần, ch498-747 | Một địa điểm. Nơi giam giữ Belphegor và có liên quan đến một cuộc tấn công bất ngờ.
-  "Outside": "Bên ngoài (Outside)"  # 17 lần, ch21-394 | Một nơi có những sinh vật vượt trội hơn con người và quái vật.
-  "Terst Department Store": "Cửa hàng bách hóa Terst (Terst Department Store)"  # 17 lần, ch69-715 | Một địa điểm. Nơi diễn ra các cuộc gặp gỡ và có voucher trúng thưởng.
-  "West": "Tây (phía Tây)"  # 17 lần, ch593-712 | Một khu vực địa lý. Nơi đến từ của một số nhân vật và nơi có quỷ.
-  "Sacred Forest": "Rừng thiêng"  # 14 lần, ch171-561 | Một khu rừng huyền thoại nơi có một thanh kiếm ngủ yên. Một người đã đến đó để lấy Aster.
-  "Machia": "Machia"  # 10 lần, ch804-811 | Một sự kiện hoặc hoạt động quan trọng trong học viện. Bắt đầu với việc bầu chọn đại diện lớp, 8 lần xuất hiện. Chương 804-811.
-  "Olympus": "Olympus"  # 9 lần, ch47-764 | Nơi ở của các vị thần. Có liên quan đến Mjölnir và Asgard.
-  "Palma": "Palma"  # 9 lần, ch814-827 | Một vương quốc hoặc đế chế. Có lẽ là nơi cai trị của một vị vua và có liên quan đến các hiệp sĩ.
-  "Imperial Armory": "Khu Vũ Khí Hoàng Gia"  # 8 lần, ch118-759 | Một địa điểm chứa vũ khí. Philly dẫn đường và nhân vật chính sao chép vũ khí từ đây.
-  "Lokhiera": "Lokhiera"  # 8 lần, ch221-523 | Một địa điểm hoặc khu vực tên là Lokhiera. Được nhắc đến cùng với Khryselakatos, 8 lần xuất hiện. Chương 221-523.
-  "Miller": "Miller"  # 8 lần, ch10-20 | Gia đình Miller, chủ sở hữu của một trang viên, nơi diễn ra các cuộc gặp gỡ.
-  "Constel Academy": "Constel Academy"  # 7 lần, ch1-472 | Một học viện nơi các nhân vật chính theo học. Có quy định về trang phục và đã từng bị đình chỉ.
-  "Krasmere": "Krasmere"  # 7 lần, ch521-521 | Một địa điểm nơi diễn ra 'sự phục hồi'. Nằm ở phía đối diện của Manggot.
-  "Agoris Continent": "Lục địa Agoris"  # 6 lần, ch781-808 | Một lục địa có nhiều trường học và vũ khí được chế tạo bằng ma thuật.
-  "Arkre": "Thành phố Arkre"  # 6 lần, ch138-577 | Một thành phố có một khu chợ đấu giá nổi tiếng và là nơi ở của gia đình Ellis.
-  "Asgard": "Asgard"  # 6 lần, ch609-761 | Một thế giới quyền lực sánh ngang với Olympus. Poseidon giao tiếp với Asgard.
-  "Mage Tower": "Tháp Pháp Sư"  # 6 lần, ch152-391 | Một tòa tháp nơi các pháp sư làm việc và nghiên cứu. Elodie từng từ chối công việc ở đây.
-  "River Lethe": "Sông Lethe"  # 6 lần, ch238-238 | Một dòng sông trong thần thoại Hy Lạp; uống nước của nó khiến người ta quên đi quá khứ.
-  "Western": "Phương Tây"  # 6 lần, ch609-683 | Một vùng đất có quỷ dữ và Satan. Có mối quan hệ đối địch với Đế quốc.
-  "Milky Way": "Đại lộ Ngân Hà"  # 5 lần, ch146-489 | Một dải sáng trên bầu trời đêm. Được mô tả như một đường cong ánh sáng và liên kết với những ký ức mơ hồ về một thế giới khác.
-  "Akaia": "Gia tộc Akaia"  # 4 lần, ch793-793 | Một gia tộc đã phản bội Ria Lis và đến Atlas.
-  "Casian": "Casian (Ngựa chiến Casian)"  # 4 lần, ch30-162 | Loài ngựa chiến tuyệt vời được sử dụng cho mục đích quân sự tại Constel.
-  "Niflheim": "Niflheim, Niếu Hel"  # 4 lần, ch367-571 | Một địa điểm trong thế giới này, có liên quan đến thần thoại Bắc Âu.
-  "Remuze Museum": "Bảo tàng Remuze"  # 4 lần, ch16-16 | Một bảo tàng nơi Quinie thường xuyên đến để nghiên cứu và mua sắm.
-  "Valhalla": "Valhalla"  # 4 lần, ch341-367 | Một địa điểm trong thần thoại Bắc Âu, nơi các chiến binh tử trận được đưa đến.
-  "Avril": "Avril (Gia tộc Avril)"  # 3 lần, ch113-113 | Một gia tộc có kỹ năng huyết thống được truyền lại qua nhiều thế hệ.
-  "Babia": "Babia"  # 3 lần, ch446-446 | Một khu vực ở phía nam Đế Chế. Được bảo vệ bởi một rào cản.
-  "Edrium": "Edrium"  # 3 lần, ch765-765 | Một quốc gia nơi có nhiều quỷ. Địa điểm mà nhân vật được yêu cầu đến.
-  "Howald": "Howald"  # 3 lần, ch173-173 | Một khu vực rộng lớn. Nơi diễn ra hội đồng quý tộc và có liên quan đến Mistilteinn giả mạo.
-  "Red Land": "Đất Đỏ"  # 3 lần, ch505-514 | Một vùng đất không thuộc về ai. Nơi Renzo đang ở.
-  "Roach Mansion": "Biệt thự Roach"  # 3 lần, ch196-576 | Một nơi ở. Có một căn phòng nhỏ hơn so với phòng của nhân vật chính.
-  "Silvester": "Silvester"  # 3 lần, ch114-577 | Thủ đô của một khu vực. Nằm ở phía tây thành phố và là nơi đông dân nhất trên lục địa.
-  "Tartarus": "Tartarus"  # 3 lần, ch658-674 | Một địa điểm nào đó. Có khoảng cách tương đương với Nastrond.
+dia_danh:  # địa danh: 21 mục
+  "Yggdrasil": "Yggdrasil"  # 84 lần, ch887-970 | Một cây thế giới nơi có các cõi khác nhau và Asgard.
+  "King of Palma": "Vương quốc Palma"  # 28 lần, ch847-968 | Một vương quốc có quan hệ với giới quý tộc cao cấp và các thế lực tà ác.
+  "Bifrost": "Cầu Bifrost"  # 24 lần, ch948-967 | Một cây cầu kết nối các thế giới. Zeus và các vị thần sử dụng nó để di chuyển.
+  "Hell": "Địa ngục"  # 19 lần, ch126-968 | Một địa điểm đáng sợ; nơi ở của một vị vua và là đối thủ của Baal. Một thế giới đầy rẫy những âm mưu.
+  "Trojan War": "Chiến Tranh Troy"  # 15 lần, ch772-858 | Một cuộc chiến tranh nổi tiếng trong lịch sử, được dùng để so sánh với các sự kiện hiện tại.
+  "Nine Worlds": "Chín Thế giới"  # 13 lần, ch913-944 | Một vùng đất rộng lớn chứa đựng nguồn mana mạnh mẽ và có liên quan đến sức mạnh của nhân vật chính.
+  "Naglfar": "Naglfar"  # 10 lần, ch922-965 | Một lực lượng quân sự hoặc một địa điểm liên quan đến các binh lính.
+  "Barrier": "Rào chắn"  # 9 lần, ch945-952 | Một khu vực được bảo vệ. Một cột sáng đã được nhìn thấy vượt qua nó.
+  "Kingdom of Palma": "Vương quốc Palma"  # 7 lần, ch802-944 | Một vương quốc. Có dấu hiệu của một cuộc chiến tranh civile; có người nhận được sức mạnh thần thánh.
+  "Palma City": "Thành phố Palma"  # 7 lần, ch916-930 | Một thành phố. Nơi diễn ra cuộc thi sắc đẹp và nơi Sybil được gửi đến.
+  "Tyburn Barrier": "Hàng rào Tyburn"  # 7 lần, ch197-948 | Một khu vực hoặc công trình được nhắc đến như một giới hạn địa lý; có hang động và ánh sáng kỳ lạ.
+  "Parthenon Temple": "Đền Parthenon"  # 6 lần, ch324-961 | Một ngôi đền cổ kính và hoàn hảo trên lục địa; không được xây dựng để tôn thờ Mistilteinn.
+  "Wall": "Tường thành"  # 5 lần, ch924-924 | Một bức tường bảo vệ lãnh thổ của con người. Đánh dấu ranh giới giữa khu vực an toàn và vùng đất bị quấy nhiễu bởi quái vật.
+  "Hades": "Địa ngục (Hades)"  # 4 lần, ch757-970 | Thế giới của người chết trong thần thoại Hy Lạp. Nơi cai quản bởi vị thần Hades.
+  "Portals": "Portals"  # 4 lần, ch313-337 | Một loại phép thuật có thể sử dụng với ma pháp thuần khiết và các thiết bị.
+  "Abyss": "Vực Thẳm (Abyss)"  # 3 lần, ch841-909 | Một địa điểm nguy hiểm. Nơi sinh sống của quái vật và có liên quan đến các thế lực tà ác.
+  "Gladsheim": "Gladsheim"  # 3 lần, ch924-945 | Trụ sở của Odin và là hội trường hội đồng các vị thần. Nằm ở Asgard.
+  "Morion Prison": "Nhà tù Morion"  # 3 lần, ch308-719 | Một nhà tù. Nhân vật chính có kiến thức về nó.
+  "Mount Olympus": "Núi Olympus"  # 3 lần, ch957-958 | Một ngọn núi nơi có tiếng nói của thần thánh và kết nối với Yggdrasil.
+  "Obsidian Prison": "Nhà tù Obsidian"  # 3 lần, ch505-810 | Một nhà tù nơi Renzo từng trốn thoát. Người dân tin rằng anh ta đã chết.
+  "Sky": "Sky"  # 3 lần, ch259-259 | Một loại phương tiện giao thông công cộng, có vẻ là tàu hoặc xe di chuyển trên không.
 
-to_chuc:  # tổ chức: 42 mục
-  "Manggot": "Manggot"  # 757 lần, ch134-797 | Một tổ chức hoặc nhóm. Các thành viên của nó ẩn náu trong rừng.
-  "Indus": "Indus"  # 394 lần, ch57-799 | Một tổ chức được tạo ra để chống lại ý thức về sự ưu tú của giới quý tộc.
-  "Zodiacs": "Thiên Bình (Zodiacs)"  # 184 lần, ch1-826 | Một nhóm người có khả năng đặc biệt. Liên quan đến Indus và việc kiểm soát khí chất.
-  "Shadow Unit": "Đội Bóng Đêm (Shadow Unit)"  # 179 lần, ch438-756 | Một tổ chức bí mật. Khó hoạt động khi Frondier là hiệp sĩ của Lily.
-  "Atlas": "Atlas"  # 112 lần, ch769-828 | Một tổ chức có địa vị ngang hàng với Constel trên lục địa Falind.
-  "Hitchcock": "Hitchcock"  # 77 lần, ch77-794 | Một tổ chức có biểu tượng là đại bàng. Được thành lập với một mục tiêu cụ thể.
-  "Imperial": "Triều Đình Hoàng Gia"  # 50 lần, ch131-799 | Một tổ chức quyền lực, có quân đội và banquets. Đóng vai trò quan trọng trong các sự kiện chính trị.
-  "Ednet": "Ednet"  # 38 lần, ch612-689 | Một người có khả năng ẩn mình. Được cảnh báo vì những sai lầm trong quá khứ.
-  "Roach Knights": "Kỵ binh Roach"  # 37 lần, ch170-624 | Một đội quân có vai trò quan trọng trong việc ngăn chặn kẻ thù.
-  "Class": "Lớp"  # 33 lần, ch9-806 | Một hệ thống phân cấp, nơi các nhân vật như Frondier và Elodie được xếp hạng.
-  "Shepherds": "Những Người Chăn Dắt"  # 25 lần, ch533-718 | Một nhóm người có vai trò gì đó liên quan đến đức tin hoặc sự cân bằng. Liên quan đến Belphegor và những tín đồ.
-  "Shroud": "Shroud"  # 24 lần, ch169-691 | Một tổ chức hoặc nhóm người. Có liên quan đến Sanders và Roach.
-  "Shroud Knights": "Hiệp Sĩ Áo Choàng (Shroud Knights)"  # 18 lần, ch163-524 | Một tổ chức có tinh thần mạnh mẽ. Elodie cảm nhận được họ.
-  "Knights": "Hiệp hội Kỵ sĩ (Knights)"  # 17 lần, ch93-647 | Một tổ chức. Được giao cho Philly và có liên quan đến việc bảo vệ.
-  "Urfa": "Urfa"  # 13 lần, ch32-515 | Một gia tộc có ảnh hưởng. Người đứng đầu Urfa biết vị trí của liên minh.
-  "Yeolgot": "'Yeolgot'"  # 12 lần, ch299-548 | Một nhóm ám sát bí mật. Selena là một trong những người ít tài năng nhất trong tổ chức này.
-  "Imperial Knights": "Kỵ binh Đế quốc"  # 11 lần, ch83-746 | Một lực lượng quân sự bảo vệ và điều tra các sự kiện.
-  "October": "October"  # 10 lần, ch40-112 | Một tổ chức hoặc một nhóm người. Liên quan đến một sự kiện cụ thể.
-  "Roach Knight Order": "Đội Kỵ Sĩ Roach"  # 9 lần, ch346-620 | Một đơn vị quân sự chuyên đối phó với quái vật. Có vẻ là một lực lượng phòng thủ quan trọng.
-  "Knight Order": "Đội Kỵ Sĩ"  # 8 lần, ch346-622 | Một tổ chức quân sự có nhiệm vụ bảo vệ và thực thi công lý. Họ có thể đánh giá sức mạnh của kẻ thù.
-  "Chancellor Osprey": "Chancellor Osprey"  # 7 lần, ch93-683 | Một người có chức vụ cao cấp. Ông ấy sở hữu ma thuật và được Frondier nhớ đến.
-  "Shadow Agency": "Shadow Agency"  # 7 lần, ch580-580 | Một tổ chức bí mật. Có liên quan đến việc sử dụng Mana và có thể đã gây ra những kế hoạch nguy hiểm.
-  "Ambu": "Ambu"  # 6 lần, ch364-369 | Một nhóm người đã chứng kiến Frondier nâng một tòa nhà.
-  "House of Vanier": "Ngôi nhà Vanier"  # 6 lần, ch544-544 | Một gia tộc hoặc dòng dõi. Selena de Vanier là một thành viên của nó.
-  "House": "Ngôi nhà (gia tộc)"  # 5 lần, ch203-203 | Một gia đình hoặc tổ chức có quyền lực và ảnh hưởng. Có thể có kỵ sĩ riêng.
-  "Imperial Family": "Gia đình Hoàng gia"  # 5 lần, ch310-770 | Một dòng dõi hoàng tộc có quyền lực và tài sản lớn.
-  "Knight Commander": "Thống Đốc Kỵ Bính"  # 5 lần, ch326-357 | Một chỉ huy cấp cao trong quân đội. Sylvain Serdo là một Thống đốc Kỵ Bính của 'Roach Knights'.
-  "Mangott": "Mangott"  # 5 lần, ch192-236 | Một tổ chức mà người ta được yêu cầu không phản bội hoặc tiết lộ thông tin cho.
-  "Paladins": "Paladins"  # 5 lần, ch824-828 | Một nhóm hiệp sĩ dưới sự cai trị của Vương quốc Palma. Có quyền kiểm soát các cổ vật.
-  "Shroud Knight Order": "Đội Kỵ Binh Áo Choàng"  # 5 lần, ch620-620 | Một tổ chức quân sự; có tranh chấp với Đội Kỵ Binh Roach.
-  "Unit": "Đội"  # 5 lần, ch135-691 | Một nhóm người làm việc cùng nhau. Có vẻ như có nhiều đội khác nhau với các kỹ năng khác nhau.
-  "ConspiracyPizza": "Pizza Hội Đồng (ConspiracyPizza)"  # 4 lần, ch60-292 | Một nhóm người đóng góp tài chính cho tác giả thông qua Ko-fi. Đóng vai trò hỗ trợ sản xuất nội dung.
-  "Empire Shadow Unit": "Đội Bóng Tối Đế Quốc (Empire Shadow Unit)"  # 4 lần, ch439-665 | Một đơn vị của đế quốc. Có liên quan đến việc triệu hồi quỷ thông qua giao kèo.
-  "Hitchcock Company": "Công ty Hitchcock"  # 4 lần, ch605-612 | Một tổ chức đang hỗn loạn. Có vẻ như họ đã chào đón một số người nhưng lại đối xử lạnh nhạt khi những người đó rời đi.
-  "Ribanche": "Gia tộc Ribanche"  # 4 lần, ch757-802 | Một gia tộc có tầm ảnh hưởng lớn trên lục địa Falind.
-  "Student Council President": "Chủ Tịch Hội Học Sinh"  # 4 lần, ch405-405 | Một vị trí lãnh đạo trong hội học sinh. Có quyền quyết định và ảnh hưởng đến các thay đổi.
-  "Viet Trading Company": "Công ty Thương mại Viet"  # 4 lần, ch17-32 | Một công ty có giá cổ phiếu cao, xử lý các vật phẩm chất lượng cao.
-  "Academy": "Học Viện"  # 3 lần, ch424-809 | Một cơ sở giáo dục nơi các nhân vật được đào tạo và học tập. Có nhiều phe phái khác nhau.
-  "House Roach": "House Roach"  # 3 lần, ch434-791 | Một gia tộc có tầm quan trọng. Con trai của họ phải cư xử đúng mực.
-  "President": "Chủ tịch"  # 3 lần, ch405-510 | Một vị trí lãnh đạo cấp cao. Được hỗ trợ bởi đa số học sinh Constel để chính thức giữ chức vụ này.
-  "Secret Service": "Dịch vụ Bí mật"  # 3 lần, ch337-337 | Một tổ chức hoạt động bí mật. Không nhận lệnh từ Philly.
-  "Shepherds of the Round Table": "Những Người Chăn Bầy Bàn Tròn"  # 3 lần, ch517-527 | Một nhóm người tự gọi mình là 'Shepherds of the Round Table'. Mạnh ngang với Zodiac.
+to_chuc:  # tổ chức: 13 mục
+  "Ahop": "Ahop"  # 27 lần, ch880-881 | Một tổ chức mà Gregory và Colin là thành viên. Một người đứng đầu Ahop.
+  "Dark Division": "Đội quân Bóng tối"  # 12 lần, ch855-855 | Một tổ chức được Ellicia chỉ huy và có vai trò quan trọng trong một số tình huống.
+  "Yeolgots": "Yeolgots"  # 9 lần, ch885-886 | Một nhóm ám sát viên. Họ được gọi bằng chữ cái trong bảng chữ cái và Selena là 'J'.
+  "War Combined Training": "Huấn luyện kết hợp Chiến tranh"  # 6 lần, ch824-825 | Một chương trình huấn luyện đặc biệt liên quan đến ma thuật và chiến tranh.
+  "Weapon Combined Use": "Sử dụng kết hợp Vũ khí"  # 6 lần, ch915-915 | Một lớp học hoặc chương trình liên quan đến việc sử dụng vũ khí và ma thuật.
+  "House of Achaea": "Ngôi nhà Achaea"  # 5 lần, ch772-847 | Một gia tộc có tầm ảnh hưởng lớn, liên quan đến việc điều tra và các mong muốn của nhân vật khác. Được nhắc tới với sự kính trọng.
+  "PRO": "PRO"  # 5 lần, ch901-914 | Một tổ chức có vẻ như liên quan đến các nhiệm vụ và quyền lực. Có trụ sở tại Constel.
+  "Black Thread Frondier": "Dòng Đen Frondier (Black Thread Frondier)"  # 4 lần, ch793-913 | Một công cụ đa năng mà Frondier sử dụng để phòng thủ và tấn công.
+  "Four Knights": "Bốn Hiệp Sĩ"  # 4 lần, ch956-957 | Một nhóm gồm bốn người. Họ đang đối đầu với 'Seven Deadly Sins'.
+  "Seventy-Two": "Bảy Mươi Hai"  # 4 lần, ch868-868 | Một nhóm người có quyền lực lớn, mỗi người chỉ huy một thế lực quỷ dữ và che giấu điều gì đó.
+  "Group B": "Nhóm B"  # 3 lần, ch35-35 | Một nhóm học sinh. Có một người còn lại từ năm thứ hai trong Nhóm B.
+  "House Ribanche": "Ngôi nhà Ribanche"  # 3 lần, ch755-778 | Một ngôi nhà có liên quan đến các vấn đề của nhân vật chính. Có vẻ quyền lực.
+  "House of Roach": "Ngôi nhà Roach"  # 3 lần, ch434-827 | Một ngôi nhà bảo vệ con người khỏi quái vật. Có truyền thống và quy tắc.
 
-vu_khi:  # vũ khí: 10 mục
-  "Excalibur": "Excalibur"  # 171 lần, ch162-754 | Thanh kiếm của King Arthur. Một vũ khí mạnh mẽ được đề cập cùng với Gram và Mjölnir.
-  "Mj": "Mjöllnir (Mjölnir)"  # 168 lần, ch80-784 | Vũ khí thần thánh của Thor. Có khả năng dẫn đường cho Mana.
-  "Gram": "Gram"  # 88 lần, ch11-754 | Một thanh kiếm nổi tiếng, được mô tả là thanh kiếm của anh hùng Sigurd.
-  "Spears": "Đao (Spears)"  # 9 lần, ch164-653 | Vũ khí được sử dụng để tấn công quái vật. Thường xuất hiện xung quanh người dùng.
-  "Viper": "Viper thép"  # 7 lần, ch129-524 | Một loại thép đặc biệt dùng để chế tạo vũ khí. Đòi hỏi sự thành thạo cao để sử dụng hiệu quả, giá trị tương đương với kiếm Viper thép đã có sẵn của Elodie.
-  "Trident": "Tridente"  # 6 lần, ch281-281 | Một cổ vật thần thánh được xếp hạng 'Thần', tương tự như Mjölnir; liên quan đến Poseidon.
-  "Exo": "Exo"  # 4 lần, ch825-827 | Một thanh kiếm được chế tạo bằng ma thuật. Nó trở nên mạnh mẽ hơn khi kết hợp với khí chất.
-  "Eternal Edge": "Lưỡi kiếm vĩnh cửu (Eternal Edge)"  # 3 lần, ch129-202 | Một thuộc tính của vũ khí khiến nó không bao giờ cùn.
-  "Iokheira": "Iokheira"  # 3 lần, ch90-125 | Một vũ khí có thể điều khiển trong không trung. Aten đã thấy nó tách ra khi Renzo chiến đấu.
-  "Kyriothites": "Kyriothites"  # 3 lần, ch200-200 | Một ngọn giáo được cho là do các thiên thần sở hữu. Nó đã biến mất theo thời gian, và có liên quan đến những truyền thuyết cổ xưa.
+vu_khi:  # vũ khí: 12 mục
+  "Mjölnir": "Mjölnir"  # 278 lần, ch80-969 | Vũ khí thần thánh của Thor. Được sử dụng để dẫn truyền lượng lớn Mana.
+  "Shield": "Khiên"  # 12 lần, ch3-559 | Một loại vũ khí phòng thủ. Có các biến thể như 'Iron Shield' và 'Large Shield'.
+  "Excaliburs": "Excaliburs"  # 10 lần, ch297-964 | Một loại vũ khí mạnh mẽ, được sao chép và sử dụng rộng rãi trong các trận chiến.
+  "Spear": "đao thương"  # 10 lần, ch45-935 | Một loại vũ khí dài có mũi nhọn. Có thể được nhân bản nhiều lần.
+  "Azier Spear": "Trọng Thương Azier"  # 8 lần, ch692-824 | Một cây trượng mà nhân vật sử dụng. Nó được tạo ra và phá vỡ trong quá trình Weaving.
+  "Spear of Black Lightning": "Ngọn giáo Sấm sét Đen"  # 7 lần, ch812-963 | Một vũ khí. Frondier có năng khiếu chiến đấu hơn là phép thuật.
+  "Gungnir": "Gungnir"  # 6 lần, ch837-969 | Một vũ khí mạnh mẽ, có lẽ là một cây cung. Được coi là thuộc cấp bậc Divine.
+  "Alpha": "Alpha"  # 5 lần, ch188-872 | Một vũ khí hoặc thực thể có khả năng hấp thụ mana của người dùng và phát ra tiếng gầm mạnh mẽ. Nó liên quan đến Excalibur.
+  "Shot": "Bắn trúng"  # 5 lần, ch64-837 | Một loại mũi tên đặc biệt có độ chính xác cao. Được mô tả là tương đương với sức mạnh của các vị thần.
+  "Sword": "Kiếm"  # 4 lần, ch523-912 | Một loại vũ khí. Được đề cập cùng với 'Viper steel Sword' và được sử dụng bởi Pielott trong một số tình huống chiến đấu.
+  "Beta": "Beta"  # 3 lần, ch532-872 | Một thanh kiếm Excalibur. Có khả năng ngưng tụ khí chất của Aster và tỏa ra hơi lạnh.
+  "Sure-Hit": "Cung Bắn Trúng"  # 3 lần, ch295-834 | Một loại cung đặc biệt. Có vẻ là một vũ khí mạnh mẽ được sử dụng bởi kẻ thù.
 
-ky_nang:  # kỹ năng: 41 mục
-  "Weaving": "Weaving"  # 211 lần, ch1-794 | Một kỹ năng phép thuật phòng thủ, có thể bị xuyên thủng và gây chết người.
-  "Aura": "Aura"  # 124 lần, ch5-828 | Một kỹ năng mà Sybil có thể sử dụng. Có thể giúp đánh bại golem.
-  "Falling": "Rơi tự do"  # 46 lần, ch189-694 | Một kỹ năng hoặc động tác liên quan đến việc rơi từ độ cao lớn.
-  "Falling Edge": "Falling Edge"  # 44 lần, ch39-543 | Một kỹ thuật của Azier, được golem sử dụng để tấn công.
-  "Description": "Mô tả"  # 33 lần, ch1-751 | Một kỹ năng lưu trữ và nhân bản hình ảnh của một vật thể. Được đề cập trong bối cảnh thương mại.
-  "Mana Injection": "Truyền Ma Pháp"  # 27 lần, ch405-580 | Một kỹ thuật liên quan đến ma pháp. Có vẻ là một phương pháp để tăng cường sức mạnh.
-  "Rafflesia": "Rafflesia"  # 26 lần, ch109-689 | Một phép thuật dùng để dụ dỗ quái vật. Có khả năng thu hút sinh vật đến gần.
-  "Flash": "Chớp Sáng (Flash)"  # 24 lần, ch531-698 | Một kỹ năng nhanh chóng và khó theo dõi. Anh trai của Aster đã hoàn thành nó.
-  "Restoration": "Phục hồi"  # 21 lần, ch103-620 | Một kỹ năng có chức năng phục hồi. Có thể được sử dụng để ngăn chặn sự sụp đổ của rào cản.
-  "Clang": "Clang"  # 20 lần, ch23-731 | Âm thanh va chạm kim loại, thường đi kèm với phòng thủ hoặc tấn công.
-  "Charm": "Thu hút"  # 19 lần, ch583-799 | Một kỹ năng để điều khiển hoặc ảnh hưởng đến người khác.
-  "Shadow Transfer": "Chuyển Đổi Bóng Tối"  # 16 lần, ch515-559 | Một phương pháp di chuyển độc đáo của người Manggot. Yêu cầu một kết nối đã được thiết lập trước.
-  "Sixth Sense": "Sixth Sense"  # 14 lần, ch387-694 | Một khả năng đặc biệt. Giúp người dùng nhận biết được điều gì đó mà người khác không thể.
-  "Analyze": "Phân tích"  # 13 lần, ch129-497 | Một kỹ năng được sử dụng để xác nhận suy nghĩ hoặc thu thập thông tin.
-  "Hit": "Đòn đánh trúng/Bắt trúng"  # 8 lần, ch67-653 | Một kỹ năng hoặc hiệu ứng đảm bảo người dùng trúng mục tiêu. Liên quan đến các mũi tên và sức mạnh.
-  "Sense Sharing": "Chia sẻ Giác quan"  # 8 lần, ch263-738 | Một kỹ năng cho phép người dùng nhìn thấy qua giác quan của một người khác.
-  "Strike": "'One Strike'"  # 8 lần, ch110-791 | Một kỹ năng đặc biệt có thể được sử dụng trong trận chiến. Có nhiều biến thể khác nhau.
-  "Whisper of the Wind": "Lời Thì Thầm Của Gió"  # 8 lần, ch21-750 | Một kỹ năng phép thuật mà một nhân vật nữ sử dụng. Có vẻ như có thể nghe thấy nó sau khi vô hiệu hóa.
-  "Bombing": "Bão phá"  # 7 lần, ch189-703 | Một kỹ thuật kiếm thuật giống với kỹ năng ban đầu của nhân vật chính.
-  "Gather Wind": "Thu thập Gió"  # 7 lần, ch773-774 | Một kỹ năng được Elodie sử dụng và giải thích. Liên quan đến việc tạo ra một quả cầu.
-  "Mana Care": "Chăm Sóc Mana"  # 7 lần, ch192-634 | Một kỹ năng quan trọng để chữa lành. Aten có thể sử dụng nó từ xa.
-  "Eyes": "Mắt"  # 6 lần, ch13-816 | Một khả năng đặc biệt cho phép nhìn thấy quá khứ. Liên quan đến những điều cấm kỵ và con người.
-  "Mana Detection": "Phát Hiện Mana"  # 6 lần, ch442-794 | Một kỹ năng để phát hiện sự hiện diện của mana. Một thiết bị có thể tránh được nó.
-  "Auras": "Linh Khí"  # 5 lần, ch357-589 | Một dạng năng lượng mà các cá nhân có thể sử dụng. Có sự khác biệt lớn giữa mọi người.
-  "Gathering Wind Arrow": "Tên mũi tên Gió Tập Hợp"  # 5 lần, ch775-786 | Một kỹ năng phép thuật mà Frondier sử dụng. Nó có thể chặn các đòn tấn công và được kích hoạt bằng một đoạn tụng chú.
-  "Throw": "'Throw'"  # 5 lần, ch6-589 | Một kỹ năng liên quan đến việc ném đồ vật để tấn công mục tiêu. Mô tả hành động đơn giản.
-  "Throwing": "'Throwing'"  # 5 lần, ch6-694 | Một kỹ năng liên quan đến việc sử dụng vũ khí ném. Không hiệu quả với các vật thể bay.
-  "Aster One Flash": "Chớp Tia Ánh Sáng Một"  # 4 lần, ch531-695 | Một kỹ năng của Aster. Là một biến thể của 'Đòn Búa' của Ellen.
-  "Basic Combat Skills": "Kỹ Năng Chiến Đấu Cơ Bản"  # 4 lần, ch125-201 | Một môn học về kỹ năng chiến đấu cơ bản tại Học Viện Constel.
-  "Enhancement": "Tăng cường"  # 4 lần, ch310-310 | Một kỹ thuật cho phép truyền khả năng đặc biệt vào một vật thể. Ngược lại với 'Suy giảm'.
-  "Named": "Named', kỹ năng đặc biệt"  # 4 lần, ch115-792 | Một loại kỹ năng có tên riêng. Có vẻ là một thuật ngữ quan trọng trong thế giới.
-  "Storm Poetry": "Thơ Bão Tố"  # 4 lần, ch475-490 | Một phép thuật mạnh mẽ kết hợp ma pháp gió và lửa. Được tạo ra bởi Elodie.
-  "Azier Falling": "Phong Ấn Azier"  # 3 lần, ch452-454 | Một kỹ thuật hoặc sức mạnh mà các thực thể khác đang cố gắng hiểu và hấp thụ.
-  "Duplication": "Nhân bản"  # 3 lần, ch1-131 | Kỹ năng sao chép các vật phẩm trong xưởng thủ công.
-  "Flame Spell": "Bùa Cháy"  # 3 lần, ch233-233 | Một loại phép thuật lửa mà Elodie sử dụng. Một phép thuật được thử nghiệm để sử dụng mà không cần niệm chú.
-  "Form": "Form"  # 3 lần, ch371-592 | Một cấp độ hoặc hình thức của phép thuật. Ví dụ: Form thứ 2 của Ma Thuật Tia Chớp.
-  "Instantaneous Weaving": "Dệt Lưới Tức Thời"  # 3 lần, ch494-494 | Một kỹ năng mạnh mẽ kết hợp với Obsidian để gây khó khăn cho đối thủ, thậm chí cả quỷ.
-  "Mana Barrier": "Rào Cản Mana (Mana Barrier)"  # 3 lần, ch542-542 | Một lớp bảo vệ phép thuật được sử dụng để chống lại các cuộc tấn công.
-  "Shadow Transference": "Chuyển Đổi Bóng Tối"  # 3 lần, ch540-555 | Một kỹ năng hoặc phép thuật liên quan đến bóng tối. Được sử dụng trong chiến đấu và hạn chế bởi các thiết bị.
-  "Skill": "Kỹ Năng"  # 3 lần, ch52-131 | Một khả năng hoặc phép thuật mà nhân vật có thể sử dụng. Có các tùy chọn và mục tiêu khác nhau.
-  "Whispers of the Wind": "Lời Thì Thầm Gió"  # 3 lần, ch81-228 | Một loại ma thuật phòng ngừa âm thanh. Không hoàn toàn đáng tin cậy.
+ky_nang:  # kỹ năng: 44 mục
+  "Clang": "Clang"  # 155 lần, ch3-875 | Âm thanh va chạm kim loại, thường đi kèm với phòng thủ hoặc tấn công.
+  "Combat Combined": "Kết hợp Chiến đấu và Ma thuật"  # 34 lần, ch811-822 | Một môn học kết hợp chiến đấu với sử dụng ma thuật. Có thể bị loại bỏ.
+  "Try": "Thử"  # 30 lần, ch14-926 | Một hành động để kiểm tra hoặc cố gắng làm điều gì đó. Một lời thách thức.
+  "Slash": "Chém ngang"  # 28 lần, ch39-960 | Một đòn tấn công đặc trưng của Azier.
+  "Hellfire": "Hellfire"  # 21 lần, ch115-965 | Một kỹ năng hoặc phép thuật. Có liên quan đến lửa và có thể gây sát thương.
+  "Will-o’-the-Wisp": "Will-o’-the-Wisp"  # 20 lần, ch765-789 | Một phép thuật. Một phép tạo ra ánh sáng nhỏ để chiếu sáng những nơi tối tăm.
+  "Found": "Tìm thấy"  # 18 lần, ch6-851 | Một hành động tìm kiếm và phát hiện ra ai đó hoặc thứ gì đó. Thường được sử dụng để mô tả việc tìm người.
+  "Nakjang": "Nakjang"  # 18 lần, ch809-897 | Một kỹ năng đặc biệt mà Frondier đã học được từ Azier. Có thể dùng để tấn công và phòng thủ.
+  "Blink": "Chớp mắt"  # 17 lần, ch449-962 | Một hành động nhanh chóng; có thể liên quan đến tốc độ của Zeus.
+  "Chain Lightning": "Điện Chân Lôi"  # 15 lần, ch104-965 | Một loại phép thuật gây sát thương bằng điện, có khả năng lan truyền đến nhiều mục tiêu.
+  "Hit": "Đòn đánh trúng/Bắt trúng"  # 15 lần, ch67-866 | Một kỹ năng hoặc hiệu ứng đảm bảo người dùng trúng mục tiêu. Liên quan đến các mũi tên và sức mạnh.
+  "Strike": "'One Strike'"  # 14 lần, ch43-697 | Một kỹ năng đặc biệt có thể được sử dụng trong trận chiến. Có nhiều biến thể khác nhau.
+  "Fire": "Lửa (Fire)"  # 13 lần, ch103-922 | Một kỹ năng hoặc trạng thái liên quan đến lửa. Thường được kêu gọi bằng tiếng 'Fire!!!'
+  "Four-Element Combination": "Kết hợp Bốn Nguyên Tố (Four-Element Combination)"  # 13 lần, ch493-951 | Một kỹ năng mạnh mẽ mà Elodie đang cố gắng thực hiện. Nó có thể gây ra sự ngủ đông.
+  "Ten": "Mười"  # 12 lần, ch177-965 | Một số lượng cụ thể. Liên quan đến bản sao khiên và các phép thuật.
+  "Frondier Black Thread": "Dòng Tơ Nhện Đen của Frondier"  # 11 lần, ch791-874 | Một kỹ năng hoặc khả năng đặc biệt của nhân vật Frondier. Có thể dùng để tấn công.
+  "Swiish": "Swiish"  # 11 lần, ch834-963 | Một âm thanh di chuyển nhanh. Có thể là tiếng vũ khí hoặc người.
+  "Fallen Spear": "Fallen Spear"  # 10 lần, ch958-959 | Một kỹ thuật đặc biệt được coi là gần với ma pháp độc nhất.
+  "Falling Rain": "Falling Rain"  # 10 lần, ch87-969 | Một kỹ năng mạnh mẽ được so sánh với nhiều cung thủ.
+  "Wind Whisper": "Lời thì thầm gió (Wind Whisper)"  # 7 lần, ch560-797 | Một phép thuật phòng thủ. Osprey sử dụng nó để cách âm; Carla có thể niệm một bài kinh.
+  "Diagonal Cut": "Cắt Xéo"  # 6 lần, ch150-554 | Một kỹ năng hoặc động tác nào đó. Có vẻ liên quan đến việc sử dụng móng tay.
+  "Strong": "Mạnh mẽ"  # 6 lần, ch43-967 | Đặc điểm của một người có sức mạnh lớn; những người mạnh mẽ thường dựa vào sức mạnh của họ.
+  "Flight": "Flight"  # 5 lần, ch476-953 | Một loại ma thuật cho phép bay. Jane sử dụng nó để trốn thoát.
+  "Weave": "Dệt (Weave)"  # 5 lần, ch764-912 | Một kỹ năng cho phép thao túng các kỹ năng hoặc phép thuật khác. Cần để tạo ra vũ khí có cấp bậc cao, như Divine hoặc Legendary.
+  "Allure": "Hấp Dẫn (Allure)"  # 4 lần, ch842-875 | Một kỹ năng mà Lily sử dụng. Có thể khiến người khác không di chuyển được.
+  "Control": "Kiểm Soát (Control)"  # 4 lần, ch62-670 | Khả năng điều khiển tâm trí hoặc sức mạnh của người khác.
+  "Double": "Kép"  # 4 lần, ch118-962 | Một thuật ngữ liên quan đến phép thuật không gian hoặc một kỹ năng đặc biệt nào đó.
+  "Guaranteed Hit": "Đòn đánh chắc chắn"  # 4 lần, ch969-969 | Một kỹ năng đặc biệt có khả năng trúng đích. Liên quan đến vũ khí và thần thánh.
+  "Jujak Ascent": "Thăng Tiến Jujak"  # 4 lần, ch876-876 | Một kỹ năng bí mật. Liên quan đến việc che giấu phép thuật và vượt qua nhanh chóng.
+  "Short Step": "Bước Ngắn"  # 4 lần, ch960-963 | Một kỹ năng cho phép di chuyển nhanh chóng; một người dùng là con người.
+  "Simultaneous": "Đồng Thời"  # 4 lần, ch461-962 | Một loại phép thuật cho phép nhân bản chính xác và đồng thời.
+  "Technique": "Kỹ thuật"  # 4 lần, ch88-655 | Một kỹ năng hoặc phương pháp. Pascal đã dạy một kỹ thuật liên quan đến aura.
+  "Aster-like": "Aster-like"  # 3 lần, ch473-871 | Một tính cách hoặc hành động đặc trưng của một nhân vật. Thường liên quan đến sự xin lỗi và những quyết định khó hiểu.
+  "Bottom": "Từ trên xuống"  # 3 lần, ch507-928 | Một kỹ thuật tấn công theo đường thẳng đứng từ trên xuống. Mô tả một đòn chém đơn giản nhưng hiệu quả.
+  "Chase": "Đuổi theo"  # 3 lần, ch245-868 | Một hành động đuổi bắt hoặc xua đuổi ai đó. Có thể dùng để bảo vệ hoặc loại bỏ người lạ.
+  "Crossfire Barrage": "Đạn mưa chéo"  # 3 lần, ch964-964 | Một kỹ năng tấn công mạnh mẽ. Kết hợp với Mana của Chín Thế giới.
+  "Defense": "Phòng thủ"  # 3 lần, ch483-870 | Một kỹ năng hoặc khả năng bảo vệ bản thân khỏi tấn công. Quan trọng để sống sót.
+  "Dual": "Song Kiếm"  # 3 lần, ch541-815 | Một kỹ thuật chiến đấu sử dụng hai thanh kiếm cùng lúc. Mạnh mẽ hơn trong ảo ảnh so với thực tế.
+  "Flutter": "Vỗ Bay"  # 3 lần, ch37-379 | Một động tác vẫy tay nhẹ nhàng. Sybil dùng để tiễn Frondier ra đi.
+  "Ground-Shrinking": "Thu nhỏ đất"  # 3 lần, ch969-969 | Một kỹ năng được các vị thần sử dụng để di chuyển nhanh chóng. Ưu tiên đối tượng Zodiac.
+  "Impact": "Tác động (Impact)"  # 3 lần, ch115-965 | Một kỹ năng ma thuật. Cần chỉ định tọa độ để sử dụng.
+  "Inferno": "Hỏa ngục (Inferno)"  # 3 lần, ch488-549 | Một kỹ năng ma thuật. Được tin tưởng bởi một số nhân vật.
+  "Instant": "Nhất thời (Instant)"  # 3 lần, ch87-962 | Một thành phần của phép thuật không gian. Liên quan đến kích hoạt nhanh chóng.
+  "Verse": "Verse (Khúc)"  # 3 lần, ch591-788 | Một phần của một bài hát hoặc phép thuật. Có vẻ là một đoạn văn trong một nghi thức.
 
-vat_pham:  # vật phẩm: 22 mục
-  "Obsidian": "Obsidian"  # 419 lần, ch13-826 | Một loại vật liệu được sử dụng trong phép thuật, có thể được lưu trữ trong vòng cổ.
-  "Dragon Heart": "Dragon Heart"  # 220 lần, ch54-784 | Một báu vật quý hiếm mà ít người từng thấy hoặc sử dụng. Tăng cường sức mạnh của người dùng.
-  "Menosorpo": "Menosorpo"  # 159 lần, ch29-776 | Một vật phẩm được sử dụng để tạo ra ảo ảnh. Có vẻ là một loại phép thuật đặc biệt.
-  "Mistilteinn": "Mistilteinn"  # 81 lần, ch1-530 | Một vật phẩm quan trọng liên quan đến sự kiện và có ảnh hưởng đến Aster.
-  "Black Lotus": "Hoa sen đen"  # 44 lần, ch47-826 | Một chiếc vòng cổ ma thuật. Là phương tiện để Frondier mang Obsidian.
-  "Dragonheart": "Trái Tim Rồng"  # 26 lần, ch177-665 | Một vật phẩm quý giá và mạnh mẽ. Ngay cả Satan cũng không thể sử dụng nó.
-  "Viper Steel": "Thép Rắn (Viper Steel)"  # 24 lần, ch129-321 | Một loại vật liệu được dùng để chế tạo vũ khí hoặc đồ vật quý giá. Được một người trân trọng tặng cho em gái.
-  "Fragment of Helheim": "Mảnh vỡ Helheim (Fragment of Helheim)"  # 17 lần, ch312-549 | Một mảnh vỡ cổ xưa. Nguồn gốc của quái vật Obsidian và có liên quan đến Ragnarok.
-  "Fabric of Penelope": "Vải Penelope"  # 16 lần, ch141-562 | Một loại vải đặc biệt cần kết hợp với Trái Tim Rồng để tạo ra một thứ gì đó. Có vẻ như có nhiều phiên bản khác nhau.
-  "Wisp": "Ngọn Lửa Tinh Thần (Wisp)"  # 13 lần, ch784-823 | Một vật thể được tạo ra từ tinh hoa. Có thể hoạt động như một mạch điện.
-  "Lynotoros": "Khiên Lynotoros"  # 11 lần, ch295-695 | Một chiếc khiên có sức mạnh lớn. Có vẻ như nó rất quan trọng và khó tìm.
-  "WizardGram": "WizardGram"  # 10 lần, ch72-219 | Một vật dụng có thể được sử dụng để xem và sao chép phép thuật hoặc kỹ năng. Có biểu tượng đại bàng.
-  "SagePhone": "SagePhone"  # 9 lần, ch20-264 | Một thiết bị tương tự như điện thoại thông minh, cần thiết để giúp Aster.
-  "Sagephone": "Sagephone"  # 8 lần, ch21-632 | Một thiết bị công nghệ ma thuật. Sử dụng Mana và có thể rung lên để thông báo.
-  "Enkephalos": "Enkephalos"  # 6 lần, ch294-506 | Một ngọn giáo được coi là vật báu của thần. Renzo đang giữ nó.
-  "Pegasus": "Bằng Nghĩa Pegasus"  # 6 lần, ch827-828 | Một tạo vật có khả năng tăng cường tốc độ và sức mạnh. Frondier đã nghiền nát nó.
-  "Magic Tool": "Công Cụ Ma Thuật"  # 5 lần, ch826-827 | Một vật phẩm ma thuật có giá trị. Pegasus là một Công cụ Ma thuật trên lưng của ai đó.
-  "Mana of Helheim": "Mana Hỗn Độn (Mana of Helheim)"  # 5 lần, ch431-599 | Một loại mana đặc biệt giúp người dùng trở nên gần như bất khả chiến bại trong cận chiến.
-  "Heart": "Trái tim (Human Heart/Frondier Heart)"  # 4 lần, ch440-783 | Một vật phẩm quan trọng mà nhân vật có thể mất đi nếu thất bại.
-  "Black Thread": "Dây Tơ Đen"  # 3 lần, ch828-828 | Một loại dây trói buộc người. Gây khó khăn cho việc thoát ra.
-  "Iokeira": "Iokeira"  # 3 lần, ch67-147 | Một mũi tên. Được sử dụng kết hợp với cây cung 'Khryselakatos'.
-  "Weaving Dragon Heart": "Trái Tim Rồng Dệt"  # 3 lần, ch89-141 | Một vật phẩm tăng cường mana cho người dùng. Có tác dụng tương tự như bản gốc.
+vat_pham:  # vật phẩm: 9 mục
+  "Golden Apple": "Táo Vàng"  # 84 lần, ch830-921 | Một vật phẩm quan trọng liên quan đến số phận và có lẽ là sự tham gia của Athena.
+  "Gleipnir": "Gleipnir"  # 30 lần, ch911-917 | Một sợi dây không thể phá vỡ được sử dụng để trói Fenrir. Frondier đã hấp thụ nó.
+  "Astrape": "Astrape"  # 26 lần, ch80-970 | Một cây thương sét của thần Zeus. Không ai từng nhìn thấy nó trước đây.
+  "Jeong": "Jeong"  # 12 lần, ch794-912 | Một lưỡi kiếm mana có sức mạnh hủy diệt và liên quan đến sự sống còn của nhân vật chính.
+  "Prototypes": "Nguyên mẫu"  # 9 lần, ch825-825 | Một loại thiết kế hoặc thử nghiệm ban đầu. Có vẻ rất mạnh mẽ và khó bị phá hủy.
+  "Hestia Hearth": "Lò Sưởi Hestia (Hestia Hearth)"  # 4 lần, ch276-288 | Một vật phẩm thiêng liêng của nữ thần Hestia, có cấp bậc 'Thần thánh'.
+  "Ambrosia": "Ambroia (Nectar)"  # 3 lần, ch880-881 | Một loại thức ăn hoặc đồ uống quý giá. Có liên quan đến các vị thần Hy Lạp.
+  "Chrysaor": "Cung Chrysaor"  # 3 lần, ch52-52 | Một cây cung do Hephaestus tạo ra cho Artemis. Một vũ khí mạnh mẽ chỉ có thể sử dụng bởi thần hoặc Artemis.
+  "Nectar": "Nectar"  # 3 lần, ch880-881 | Một loại thức uống thần thánh. Được liên kết với táo vàng và Ambrosia.
 
-chung_toc:  # chủng tộc: 34 mục
-  "Kraken": "Kraken"  # 267 lần, ch215-711 | Một con quái vật mạnh mẽ được nhắc đến trong nhiều tình huống nguy hiểm và có liên quan đến các sự kiện lớn.
-  "Poseidon": "Poseidon (Thần Poseidon)"  # 95 lần, ch281-823 | Một vị thần có liên quan đến biển cả và các hiện vật thiêng. Nhân vật chính không thích ông ta.
-  "Sloth": "Sloth (Sự Lười Biếng)"  # 87 lần, ch375-804 | Một loại trạng thái hoặc lời nguyền liên quan đến sự lười biếng.
-  "Devils": "Ác quỷ"  # 59 lần, ch541-814 | Một chủng tộc; không phân biệt con người bằng khuôn mặt và khó bị thương.
-  "Cyclops": "Cyclops (Người khổng lồ độc nhãn)"  # 50 lần, ch354-621 | Một sinh vật hung dữ. Có thể bị đánh bại bởi các chiến binh.
-  "Metamorph": "Metamorph"  # 42 lần, ch459-584 | Một loại thảm họa hoặc hiện tượng. Có thể liên quan đến cảm xúc và sự bắt giữ.
-  "Humans": "Loài người"  # 36 lần, ch1-814 | Một chủng tộc thường đối địch với quỷ dữ. Một số có sức mạnh thần thánh.
-  "Monsters": "Quái Vật"  # 28 lần, ch123-766 | Một chủng tộc có thù hằn với con người. Thường tấn công và gây nguy hiểm.
-  "White Tiger": "Hổ Trắng"  # 26 lần, ch234-267 | Một sinh vật có bản năng hoang dã, từng bị khuất phục. Có liên quan đến một người mặc đồng phục Constel.
-  "Norse": "Norse"  # 25 lần, ch1-761 | Một nền văn hóa hoặc thần thoại, được so sánh với Hy Lạp và được nhắc đến liên quan đến các vị thần.
-  "Human Sloth": "Người Lười Biếng Loài Người"  # 21 lần, ch36-697 | Một chủng tộc hoặc biệt danh của Frondier. Được biết đến với sự lười biếng.
-  "Greek": "Hy Lạp"  # 18 lần, ch8-819 | Một nền văn minh có liên quan đến thần chết Thanatos và thần rèn Hephaestus.
-  "Minotaur": "Minotaur (Người Toro)"  # 18 lần, ch233-695 | Một loại quái vật. Bị chia cắt bởi một đòn và được mô tả là mạnh mẽ.
-  "Chimera": "Chimera (chimera)"  # 15 lần, ch116-615 | Một loại quái vật. Được kết hợp bởi một nhân vật và gây ra những vết thương.
-  "Demons": "Quỷ dữ"  # 14 lần, ch418-768 | Sinh vật mạnh mẽ và đáng sợ, được nhắc đến trong các sự kiện khác nhau. Baal là một trong số chúng.
-  "Vala": "Vala"  # 13 lần, ch82-733 | Những phù thủy nữ trong thần thoại Bắc Âu. Philly, Elysia và Aten là hậu duệ của Vala.
-  "Human Sloth Frondier": "Người Lười Biếng Nhân Tạo Frondier"  # 11 lần, ch1-376 | Một biệt danh hoặc tên gọi. Có vẻ là một sự so sánh với người lười biếng.
-  "Minotaurs": "Minotaurs"  # 9 lần, ch529-529 | Một chủng tộc quái vật có vẻ ngoài xấu xí và sức mạnh đáng kể. Chúng thường xuất hiện trong các trận chiến.
-  "Red Bear": "Gấu Đỏ"  # 8 lần, ch36-38 | Một loại quái vật gấu, được mô tả là có khả năng theo dõi và tấn công.
-  "Devil": "Ác quỷ"  # 7 lần, ch235-684 | Một chủng tộc hoặc thực thể tà ác. Liên quan đến quyền lực và sự che giấu.
-  "Ratmen": "Ratmen"  # 6 lần, ch25-26 | Một chủng tộc hoặc quái vật, bị tiêu diệt trong một trận chiến. Có vẻ yếu ớt.
-  "Shepherds of Manggot": "Những Người Chăn Dắt Manggot"  # 6 lần, ch524-755 | Một nhóm các sinh vật; lực lượng của họ đã đầu hàng sau khi nhìn thấy quan điểm của Wizard.
-  "Manggot Shepherds": "Những Người Chăn Bầy Manggot"  # 5 lần, ch554-574 | Một loại quái vật yếu trong chiến đấu một đối một. Một người bị thương bởi họ.
-  "Seven Great Demons": "Bảy Đại Ma Vương"  # 5 lần, ch376-376 | Một nhóm các sinh vật mạnh mẽ và đáng sợ trong thế giới game.
-  "Demon of Sloth": "Quỷ Trì Đạo (Demon of Sloth)"  # 4 lần, ch509-564 | Một trong những quỷ đại diện cho các điều tội lỗi. Thích sự lười biếng của chính mình.
-  "Devil of Sloth": "Ác Quỷ Trì Đạo (Devil of Sloth)"  # 4 lần, ch436-565 | Một trong những quỷ đại diện cho các điều tội lỗi. Được biết đến với tên gọi Belphegor.
-  "Five": "Năm"  # 4 lần, ch223-490 | Một số lượng hoặc một nhóm gồm năm thành viên/yếu tố.
-  "Indra": "Indra"  # 4 lần, ch137-512 | Một trong năm vị thần yêu Elodie. Được coi là một thực thể mạnh mẽ.
-  "Lich": "Lich"  # 4 lần, ch641-641 | Một loại sinh vật có khả năng cất giữ bản thân vào đồ vật ma thuật.
-  "V": "Völva / Vala"  # 4 lần, ch64-696 | Một loại pháp sư nữ trong thần thoại Norse. Lily là một người thừa kế.
-  "Chimeras": "Chimera"  # 3 lần, ch116-116 | Sinh vật được tổng hợp tại Elysia. Rất hiếm và quý giá.
-  "Golem": "Golem"  # 3 lần, ch43-429 | Một sinh vật nhân tạo. Ellen hỏi về một sự cố liên quan đến Golem.
-  "Golems": "Golems"  # 3 lần, ch77-418 | Nhiều sinh vật nhân tạo giống nhau. Xuất hiện từ mọi hướng.
-  "Mage": "Pháp Sư (Mage)"  # 3 lần, ch420-420 | Một người có khả năng phép thuật. Sự vắng mặt của họ đôi khi gây bất tiện.
+chung_toc:  # chủng tộc: 21 mục
+  "Among": "Giữa"  # 129 lần, ch1-971 | Một từ chỉ vị trí hoặc sự bao gồm. Thường dùng để giới thiệu một nhóm người hoặc vật thể.
+  "Jormungandr": "Jormungandr"  # 114 lần, ch920-970 | Một sinh vật có lời nói gây sốc. Khiến Poseidon phải sững người.
+  "Fenrir": "Fenrir"  # 112 lần, ch746-965 | Một sinh vật mạnh mẽ. Bị bảo vệ thất bại và sử dụng kiếm 'Jeong'.
+  "Giants": "Người khổng lồ/Huyền thoại"  # 39 lần, ch316-922 | Một chủng tộc hoặc nhóm người có sức mạnh và lịch sử lâu đời. Có liên quan đến các vị thần.
+  "Nidhogg": "Nidhogg"  # 30 lần, ch498-917 | Một con rồng đáng sợ. Fenrir đã cắn Nidhogg.
+  "Ortos": "Ortos"  # 28 lần, ch841-841 | Một sinh vật có nhiều đầu và khả năng sử dụng Aura.
+  "Caw": "Caw"  # 23 lần, ch59-916 | Tiếng kêu của một loài chim hoặc sinh vật tương tự.
+  "Demon": "Quỷ (Demon)"  # 13 lần, ch781-955 | Một sinh vật được nhắc đến trong một nhiệm vụ chính. Một số nhân vật có vẻ liên quan.
+  "White": "Trắng"  # 13 lần, ch79-968 | Mô tả về ngoại hình: tóc trắng và mắt đỏ của một nhân vật.
+  "Seventy-Two Demons": "Thập Nhị Ma Vương"  # 12 lần, ch868-868 | Một nhóm ma quỷ có quan điểm khác nhau và liên quan đến sự sống còn của chúng.
+  "Olympian": "Thần Olympus"  # 11 lần, ch757-969 | Một nhóm thần có liên quan đến Poseidon và Asgard. Có sức mạnh lớn.
+  "Giant": "Người khổng lồ"  # 9 lần, ch29-969 | Một chủng tộc lớn và mạnh mẽ. Các mảnh vỡ của họ rơi xuống đất.
+  "Pururpur": "Pururpur"  # 7 lần, ch867-868 | Một thực thể tà ác. Nó chiếm giữ một hiệp sĩ và có liên quan đến việc gây ra thương tích cho Pielott.
+  "Shadows": "Bóng tối"  # 6 lần, ch174-955 | Một đội quân quái vật; có vẻ rất nguy hiểm và khó thoát khỏi.
+  "Abyssal": "Dưới Hư Không (Abyssal)"  # 4 lần, ch620-840 | Một loại quái vật nguy hiểm sống ở vùng sâu thẳm.
+  "Leviathan": "Leviathan"  # 4 lần, ch949-956 | Một trong Bảy Tội Lỗi chết người. Có liên quan đến Asmodeus và Satan.
+  "Tiyachi": "Tiyachi"  # 4 lần, ch921-921 | Một sinh vật khổng lồ đã bắt cóc Idun. Liên quan đến các truyền thuyết và Loki.
+  "Beasts": "Beasts"  # 3 lần, ch131-839 | Một loại sinh vật. Có thể bị ảnh hưởng bởi 'Outsider Beasts'. Được coi là không có tầm quan trọng.
+  "Kee": "Kee"  # 3 lần, ch328-457 | Sinh vật phát ra tiếng gầm và những âm thanh kỳ lạ như 'Keekeekkeek'.
+  "Norns": "Norns"  # 3 lần, ch958-958 | Một nhóm thần thánh. Liên quan đến số phận và có thể gây ra sự thù hận.
+  "Titans": "Người khổng lồ Titan"  # 3 lần, ch681-918 | Một chủng tộc cổ xưa và mạnh mẽ. Được đề cập cùng với các sinh vật huyền thoại khác.
 
-thuat_ngu:  # thuật ngữ: 113 mục
-  "Belphegor": "Belphegor"  # 546 lần, ch376-817 | Một con quỷ tương ứng với tội lỗi lười biếng. Có sức mạnh vượt trội hơn nhiều vị thần.
-  "Mana": "Mana"  # 508 lần, ch5-828 | Một loại năng lượng thiết yếu cho sự sống. Liên quan đến 'qi' và Aura.
-  "Satan": "Satan"  # 337 lần, ch452-768 | Một thế lực mạnh mẽ với những con quỷ của mình. Mong muốn trả thù Satan vẫn còn.
-  "Ko-fi": "Ko-fi"  # 161 lần, ch19-522 | Một nền tảng hỗ trợ tác giả, nơi người đọc có thể ủng hộ để nhận thêm chương.
-  "Bonus": "Bonus"  # 158 lần, ch19-522 | Các chương truyện bổ sung được cung cấp như một phần của hỗ trợ trên Ko-fi.
-  "Etius": "Etius"  # 133 lần, ch1-789 | Một thế giới hoặc trò chơi mà nhân vật chính từng thử thách và thất bại.
-  "Helheim": "Helheim"  # 130 lần, ch8-783 | Một địa điểm trong truyền thuyết cổ đại. Nơi chứa đựng Mana.
-  "God": "Thần"  # 116 lần, ch29-823 | Một khái niệm liên quan đến sự tồn tại của thần linh trong thế giới.
-  "Pandemonium": "Pandemonium"  # 83 lần, ch658-823 | Một hiện tượng xảy ra khi sức mạnh của quỷ dữ xung đột. Có thể thay đổi nhận thức và ngăn chặn sự can thiệp.
-  "Hephaestus": "Hephaestus"  # 74 lần, ch35-816 | Một thế lực được Edwin yêu thích, có khả năng hiển thị những cảnh tượng và đưa ra lời khiển trách. (Hephaestus).”, 3 lần dùng đại từ he, 0 lần she.
-  "D": "D (Mô hình 3D)"  # 73 lần, ch1-783 | Một mô hình được tạo ra bằng máy in 3D và sắp xếp lại. Được sử dụng để tái tạo Obsidian.
-  "Gods": "Các Vị Thần"  # 72 lần, ch276-823 | Những thực thể có khả năng biết trước phẩm chất và số phận của con người. Có liên quan đến sự nghi ngờ và niềm tin.
-  "Ancient Language": "Ngôn Ngữ Cổ (Ancient Language)"  # 70 lần, ch56-723 | Một ngôn ngữ cổ xưa được sử dụng để lưu trữ thông tin và vật phẩm quý giá.
-  "Workshop": "Xưởng (Workshop)"  # 66 lần, ch1-816 | Một nơi để lưu trữ các vật phẩm đã tạo ra.
-  "Baldur": "Baldur"  # 63 lần, ch1-816 | Một thực thể có khả năng ban sức mạnh, có thể liên quan đến một vị thần hoặc linh hồn.
-  "Being": "Sự tồn tại"  # 59 lần, ch6-804 | Một khái niệm trừu tượng; có thể đề cập đến trạng thái của một người hoặc sự kiện.
-  "Seven Deadly Sins": "Bảy Tội Lỗi"  # 56 lần, ch376-817 | Một nhóm các thực thể mạnh mẽ, được nhắc đến với sức mạnh vượt trội so với nhiều vị thần khác. Liên quan đến Belphegor.
-  "Rudra": "Rudra"  # 46 lần, ch64-816 | Một vị thần có khả năng bắn tên bão tố. Liên quan đến Elodie và các vị thần khác.
-  "Rune": "Châm khắc"  # 45 lần, ch208-350 | Một loại ký hiệu ma thuật được sử dụng để kích hoạt hoặc tạo ra các hiệu ứng. Có thể liên quan đến Azier và Philly trong một tình huống nào đó.
-  "Hypnos": "Hypnos"  # 42 lần, ch394-672 | Thần ngủ trong thần thoại Hy Lạp. Có liên quan đến các sự kiện và nhân vật khác như Thanatos, Frondier.
-  "Hestia": "Hestia"  # 40 lần, ch276-816 | Một vị thần. Có liên quan đến ngọn lửa và các sự kiện khác.
-  "Pro": "Pro"  # 40 lần, ch21-702 | Một người có thể phát hiện kẻ địch từ xa.
-  "Seven Sins": "Bảy Tội Lỗi"  # 39 lần, ch567-719 | Một thế lực mạnh mẽ, có thể phá hủy hoặc bị sử dụng để tăng cường sức mạnh.
-  "Fireworks": "Pháo Hoa"  # 38 lần, ch123-317 | Một hiện tượng ánh sáng rực rỡ. Có thể liên quan đến một kỹ thuật hoặc sự kiện nào đó.
-  "Thanatos": "Thanatos"  # 38 lần, ch15-733 | Thần chết, một vị thần được nhắc đến trong bối cảnh tránh bị phát hiện.
-  "Back": "Quá khứ"  # 27 lần, ch74-782 | Đề cập đến thời điểm trước đây. Thường dùng để mô tả sự kiện đã xảy ra trong quá trình kể chuyện.
-  "Analysis": "Phân tích"  # 22 lần, ch125-610 | Một kỹ năng cho phép người dùng thu thập thông tin về mục tiêu của họ.
-  "Advanced": "Advanced"  # 21 lần, ch19-40 | Một cấp độ hoặc gói hỗ trợ trên nền tảng Ko-fi, cung cấp nội dung độc quyền.
-  "Void Weaving": "Dệt Hư Không"  # 21 lần, ch91-731 | Một kỹ thuật phép thuật liên quan đến việc thao túng không gian. Được sử dụng kết hợp với các kỹ năng khác.
-  "Divine": "Sức mạnh thiêng (Divine power)"  # 19 lần, ch1-782 | Một loại sức mạnh được ban cho bởi các vị thần. Liên quan đến những điều huyền bí và quyền năng.
-  "Simultaneous Replication": "Nhân Bản Đồng Thời"  # 19 lần, ch52-653 | Một kỹ thuật phép thuật cho phép nhân bản đồng thời. Thường được sử dụng với Dệt Hư Không.
-  "Unique": "Độc nhất"  # 18 lần, ch1-752 | Một cấp bậc đặc biệt của kỹ năng hoặc vật phẩm, có một thuộc tính khác biệt.
-  "Ragnarok": "Ragnarok"  # 16 lần, ch312-772 | Sự kiện định trước trong thần thoại Bắc Âu; một sự kiện quan trọng liên quan đến các vị thần.
-  "Internal Energy": "Năng lượng Nội tại"  # 14 lần, ch383-719 | Một loại năng lượng mà nhân vật chính có thể sử dụng. Liên quan đến việc điều khiển và lưu thông.
-  "Phenomenon": "Hiện tượng"  # 14 lần, ch410-597 | Một tổ chức hoặc sự kiện quan trọng. Eden là người lãnh đạo của nó.
-  "Frondier Mana": "Năng lượng Frondier"  # 12 lần, ch352-599 | Một loại năng lượng đặc biệt liên quan đến nhân vật Frondier. Nó có giới hạn và đôi khi biến mất.
-  "Lethe": "Lethe"  # 12 lần, ch238-474 | Nữ thần 망각 (quên). Liên quan đến sự xóa bỏ tồn tại của Quinie và Armel de Viet.
-  "Pantemonium": "Pantemonium"  # 12 lần, ch767-781 | Một nơi mà người thua cuộc bị giam cầm trong sức mạnh của kẻ chiến thắng. Có thể tiết lộ thần nào họ phục vụ.
-  "Wizard View": "Nhìn xuyên phép thuật"  # 12 lần, ch1-280 | Một phép thuật cho phép nhìn thấy những thứ khác, thường được sử dụng bởi giáo viên.
-  "Ancient": "Cổ xưa"  # 11 lần, ch60-749 | Một ngôn ngữ hoặc kiến thức từ quá khứ xa xôi.
-  "Main Quest": "Nhiệm vụ chính"  # 11 lần, ch1-756 | Một nhiệm vụ quan trọng được hệ thống giao cho nhân vật. Liên quan đến sự thay đổi số phận và các nhiệm vụ thế giới.
-  "Objective": "Mục tiêu"  # 11 lần, ch1-501 | Một mục tiêu cần đạt được. Liên quan đến thứ hạng học tập và loại bỏ kẻ thù.
-  "Rumors": "Tin đồn"  # 11 lần, ch30-728 | Những câu chuyện lan truyền về một người nào đó. Đã đến tai hầu hết học sinh và cả cung điện hoàng gia.
-  "Wrath": "Sức Tức Giận (Wrath)"  # 11 lần, ch452-649 | Một trạng thái cảm xúc mạnh mẽ hoặc một tổ chức liên quan đến quỷ dữ. Marchosias là thành viên của nó.
-  "Monster War": "Monster War"  # 10 lần, ch505-772 | Một cuộc chiến lớn giữa con người và quái vật trong quá khứ. Nó đã ảnh hưởng đến lục địa Falind.
-  "Reversion": "Sự đảo ngược"  # 10 lần, ch191-636 | Một kỹ thuật đặc biệt có thể biến đổi sinh vật sống thành vật chất. Chỉ Aten mới sử dụng được sau khi trở thành chuyên gia.
-  "Reward": "Reward"  # 10 lần, ch1-501 | Phần thưởng cho việc hoàn thành nhiệm vụ. Có thể bị giảm nếu không tìm thấy mục tiêu.
-  "Divine Power": "Quyền năng thiêng liêng"  # 9 lần, ch22-701 | Một loại sức mạnh đặc biệt được ban tặng bởi thần linh. Liên quan đến việc trở thành Zodiac và Weapon Master.
-  "Manggot War": "Chiến tranh Manggot"  # 9 lần, ch552-792 | Một sự kiện lịch sử quan trọng. Selena ít tiếp cận Frondier trong thời gian này.
-  "Qi": "Qi"  # 9 lần, ch13-385 | Một loại năng lượng mà người có khả năng sử dụng nó có thể cảm nhận được. Nó liên quan đến việc giải phóng và điều khiển.
-  "Replication": "Nhân bản"  # 9 lần, ch297-782 | Một kỹ thuật tạo ra các bản sao giống hệt. Có thể được sử dụng để tạo công thức phép thuật.
-  "War": "Chiến tranh"  # 9 lần, ch468-819 | Một cuộc xung đột lớn giữa các nhóm hoặc quốc gia. Liên quan đến nữ thần Athena.
-  "Helheim Mana": "Ma Na Helheim"  # 8 lần, ch403-784 | Một loại ma năng đặc biệt mà Frondier sử dụng. Nó được kiểm soát như các chi của anh ta và có thể tăng cường sức mạnh.
-  "Modification": "Sửa Đổi"  # 8 lần, ch52-310 | Một chức năng của Weaving. Có thể được sử dụng để thay đổi hoặc cải thiện một cái gì đó.
-  "Raid": "Tấn công hạm đội/Đột kích"  # 8 lần, ch38-478 | Một nhiệm vụ chính của Constel liên quan đến tiêu diệt quái vật.
-  "World Quest": "Nhiệm vụ thế giới"  # 8 lần, ch590-756 | Một nhiệm vụ quan trọng; hoàn thành nó có thể liên quan đến việc xác định một thế giới.
-  "Calamity of Metamorph": "Thảm họa Biến đổi"  # 7 lần, ch460-580 | Một sự kiện hoặc một nhóm người. Mei từng được gọi là Thảm họa Biến đổi.
-  "Degradation": "Suy giảm"  # 7 lần, ch102-310 | Một chức năng loại bỏ các tùy chọn khỏi một vật phẩm. Nó được dùng để loại bỏ những hiệu ứng xấu trên vũ khí ban đầu.
-  "Disaster": "Thảm họa (Disaster)"  # 7 lần, ch452-452 | Một thuật toán được quái vật sử dụng để trở nên mạnh mẽ hơn. Mong muốn có được 'Azier's Falling edge'.
-  "King of Devils": "Vua Quỷ"  # 7 lần, ch609-712 | Một tước vị hoặc vai trò quan trọng. Người giữ chức vụ này được nhắc đến trong các cuộc thảo luận và yêu cầu về việc đảm nhận nó.
-  "Magitech": "Ma Pháp Kỹ Thuật"  # 7 lần, ch420-767 | Một loại công nghệ sử dụng ma năng. Nó là đỉnh cao của những gì một nhân vật có thể đạt được.
-  "Runes": "Runes"  # 7 lần, ch232-643 | Một loại phép thuật hoặc công cụ ma thuật. Có thể được sử dụng với ma pháp thuần khiết và các thiết bị.
-  "Target": "Target"  # 7 lần, ch102-669 | Một mục tiêu hoặc đối tượng cần nhắm đến. Có thể là một người hoặc một kỹ năng.
-  "Mana I": "Mana I"  # 6 lần, ch471-800 | Đề cập đến lượng Mana mà một người có. Có sự khác biệt giữa Mana ban đầu và Mana hiện tại.
-  "Mana Injections": "Tiêm Ma Na"  # 6 lần, ch405-405 | Một phương pháp được đồn đại để tăng cường sức mạnh. Một số người tin vào sự tồn tại của nó.
-  "Transcendental": "'Transcendental'"  # 6 lần, ch309-461 | Một loại phần thưởng đặc biệt. Có sự khác biệt giữa tưởng tượng và thực tế.
-  "Deadly Sin": "Nguyên Tội"  # 5 lần, ch543-555 | Một loại sức mạnh đặc biệt hoặc lời nguyền. Người sở hữu nó phải đối mặt với những thử thách lớn.
-  "Extrasensory Perception": "Nhận Thức Siêu Giác"  # 5 lần, ch787-787 | Một khả năng đặc biệt cho phép cảm nhận được những điều mà người khác không thể.
-  "Fate": "Số Phận"  # 5 lần, ch22-536 | Một khái niệm về những sự kiện đã được định trước. Thường liên quan đến một nhân vật nữ.
-  "Five Gods": "Năm Vị Thần"  # 5 lần, ch490-743 | Một nhóm các vị thần có sức mạnh lớn. Một nhân vật nữ được ban phước bởi họ.
-  "Frondier Weaving": "Dệt Frondier"  # 5 lần, ch150-750 | Một loại kỹ thuật hoặc phép thuật tạo ra vũ khí và ảo ảnh. Được sử dụng bởi một số nhân vật trong truyện.
-  "P": "P."  # 5 lần, ch8-358 | Một ký hiệu hoặc tên viết tắt. Xuất hiện lặp đi lặp lại.
-  "Rewards": "Phần thưởng"  # 5 lần, ch262-502 | Số tiền hoặc vật phẩm được trao để bù đắp cho những người bị ảnh hưởng. Không quan trọng lắm.
-  "Sub-quest": "Nhiệm vụ phụ"  # 5 lần, ch439-501 | Một nhiệm vụ nhỏ hơn trong game; có thể được tạo hoặc hoàn thành.
-  "J": "J"  # 4 lần, ch159-405 | Một ký hiệu hoặc tên gọi liên quan đến các vị thần và truyền thuyết.
-  "Kzeither": "Kzeither"  # 4 lần, ch330-505 | Tên người ủng hộ tác giả thông qua Ko-fi.
-  "Name": "Tên"  # 4 lần, ch1-459 | Được dùng để chỉ tên nhân vật hoặc một mục nhập trên trang web.
-  "Option": "Option', lựa chọn"  # 4 lần, ch52-310 | Một tùy chọn hoặc một khả năng có thể được chọn. Thường liên quan đến các kỹ năng.
-  "Sin": "Sin"  # 4 lần, ch563-563 | Một thuật ngữ liên quan đến sức mạnh và tác động của nó lên người khác. Có vẻ là một loại phép thuật hoặc kỹ năng.
-  "Transfer": "Chuyển giao"  # 4 lần, ch548-550 | Một kỹ năng hoặc phép thuật cho phép di chuyển tức thời. Được sử dụng để tấn công và trốn thoát.
-  "Void": "Hư Không"  # 4 lần, ch304-592 | Một khái niệm liên quan đến việc dệt và sao chép. Chỉ có thể thực hiện được ở một địa điểm cụ thể.
-  "WizardView": "WizardView"  # 4 lần, ch8-282 | Một thiết bị trong thế giới, tương tự như TV, được sử dụng để xem tin tức.
-  "Women Only": "Chỉ dành cho nữ giới"  # 4 lần, ch67-102 | Một hạn chế hoặc tùy chọn chỉ áp dụng cho phụ nữ khi sử dụng cung tên.
-  "[Main Quest: Operation Suppress Indus]": "[Nhiệm Vụ Chính: Hoạt Động Kìm Chế Indus]"  # 4 lần, ch262-309 | Một nhiệm vụ quan trọng mà nhân vật phải hoàn thành. Liên quan đến việc kìm chế một khu vực hoặc tổ chức.
-  "Arch-magic": "Ma Thuật Cổ Thần"  # 3 lần, ch477-477 | Một loại ma thuật mạnh mẽ và có quy mô lớn. Có vẻ rất khó kiểm soát.
-  "Current": "Hiệu Suất Hiện Tại"  # 3 lần, ch6-158 | Một chỉ số hiện tại về một khả năng hoặc trạng thái nào đó.
-  "Devil War": "Chiến Tranh Quỷ Dữ"  # 3 lần, ch609-667 | Một cuộc chiến tranh lớn. Có liên quan đến việc cứu người và đạt được công trạng.
-  "Dragon Hearts": "Hạt Tim Rồng"  # 3 lần, ch54-749 | Một vật phẩm quý giá mà nhân vật có thể hấp thụ. Liên quan đến sức mạnh và năng lượng của Frondier, được sử dụng để tăng cường khả năng mana của anh ta.
-  "Formula": "Formula"  # 3 lần, ch187-821 | Một công thức hoặc cấp độ của phép thuật. Ví dụ: Formula thứ 3 của Ma Thuật Băng Giá.
-  "Gulp": "Gulp"  # 3 lần, ch439-786 | Một tiếng kêu hoặc hành động nuốt nước bọt. Thường được sử dụng để diễn tả sự căng thẳng.
-  "Haak": "Haak"  # 3 lần, ch370-614 | Một tiếng kêu ngắn. Ý nghĩa không rõ ràng từ các đoạn trích.
-  "Hahahahaha": "Hahahahaha"  # 3 lần, ch425-717 | Một tiếng cười lớn hơn. Thường được dùng để thể hiện sự thích thú mạnh mẽ.
-  "Hehehe": "Hehehe"  # 3 lần, ch83-599 | Một tiếng cười nhẹ nhàng. Thường được dùng để thể hiện sự tinh nghịch hoặc vui vẻ.
-  "Ho": "Ho"  # 3 lần, ch15-774 | Một tiếng kêu ngạc nhiên hoặc kinh hãi. Thường được dùng để diễn tả sự bất ngờ.
-  "Huu": "Huu"  # 3 lần, ch354-635 | Một tiếng kêu thể hiện sự chịu đựng hoặc khó khăn. Liên quan đến một quy tắc.
-  "Iamdaven": "Iamdaven"  # 3 lần, ch354-493 | Tên người dùng trên Ko-fi. Đóng góp vào các chương truyện thưởng.
-  "Joe Mama": "Joe Mama"  # 3 lần, ch160-319 | Tên người dùng trên Ko-fi. Đóng góp vào các chương truyện thưởng.
-  "Joe Smith": "Joe Smith"  # 3 lần, ch177-370 | Tên người dùng trên Ko-fi. Đóng góp vào các chương truyện thưởng.
-  "Keu": "Keu"  # 3 lần, ch507-717 | Một tiếng kêu hoặc biểu cảm. Thường được sử dụng để thể hiện sự mong đợi hoặc ngạc nhiên.
-  "Kuh": "Kuh"  # 3 lần, ch610-632 | Một tiếng kêu hoặc biểu cảm. Thường thể hiện sự đồng tình hoặc khó chịu.
-  "Life Vessel": "Tàu Chứa Sự Sống (Life Vessel)"  # 3 lần, ch641-641 | Trung tâm của một Lich. Nó kiểm soát cơ thể và là nguồn gốc thực sự của nó.
-  "Mana Frondier": "Cột Mốc Mana (Mana Frondier)"  # 3 lần, ch403-803 | Một lượng mana mà các pháp sư có thể sử dụng. Nó được dùng để thăm dò bản chất thật của Pielott.
-  "NU": "NU"  # 3 lần, ch200-204 | Một nền tảng hoặc trang web nơi tiểu thuyết được đăng tải. Liên quan đến đánh giá và quyên góp.
-  "Noctis": "Noctis"  # 3 lần, ch381-522 | Một người dùng hoặc một tài khoản trên nền tảng quyên góp.
-  "Pure Mana": "Thuần Mộc"  # 3 lần, ch141-783 | Một loại năng lượng đặc biệt. Không thể điều chỉnh nhưng có giá trị.
-  "Range": "Tầm xa"  # 3 lần, ch87-592 | Một thuộc tính hoặc chỉ số liên quan đến khả năng tấn công từ xa.
-  "Rejection": "Từ Chối"  # 3 lần, ch22-532 | Một khái niệm không quen thuộc và khó chịu. Liên quan đến sự phát triển.
-  "Shill": "Shill"  # 3 lần, ch727-727 | Một câu chuyện được Pascal kể ra. Có thể liên quan đến việc xoa dịu nghi ngờ.
-  "Success": "Thành Công"  # 3 lần, ch106-616 | Một trạng thái hoặc kết quả mong muốn. Liên quan đến danh tiếng trong Constel.
-  "Transference": "Chuyển giao"  # 3 lần, ch540-548 | Một kỹ thuật hoặc khả năng cho phép di chuyển tức thời đến một vị trí khác. Liên quan đến chiến đấu và tốc độ.
-  "Will-o'-the-Wisp": "Ánh Sáng Ma Thuật"  # 3 lần, ch777-823 | Một loại phép thuật được gọi là 'Will-o'-the-Wisp', thường bị rút gọn thành 'wisp'. Nó có tên đầy đủ là Ánh Sáng Ma Thuật.
-  "X-ray": "X-quang"  # 3 lần, ch68-322 | Một phương pháp chẩn đoán hình ảnh. Được sử dụng để kiểm tra vết thương.
-  "[Sub-quest: Weeding Out]": "[Nhiệm vụ phụ: Loại bỏ]"  # 3 lần, ch439-501 | Một nhiệm vụ cụ thể trong game hoặc hệ thống.
+thuat_ngu:  # thuật ngữ: 129 mục
+  "Everyone": "Mọi người"  # 268 lần, ch1-967 | Dùng để chỉ những người có mặt hoặc biết về một sự kiện nào đó. Thường liên quan đến Frondier.
+  "Thud": "Thud"  # 224 lần, ch27-968 | Một âm thanh mô tả hành động rơi hoặc va chạm; thường đi kèm với sự đau khổ của nhân vật.
+  "Something": "Something"  # 175 lần, ch3-968 | Đề cập đến một thứ gì đó không xác định xuất hiện hoặc xảy ra; thường liên quan đến nguy hiểm.
+  "Seeing": "Seeing"  # 174 lần, ch1-968 | Hành động nhìn thấy điều gì đó bất ngờ hoặc đáng kinh ngạc. Thường liên quan đến công nghệ ma thuật.
+  "Ecleksis": "Ecleksis"  # 171 lần, ch864-963 | Một loại sức mạnh của quỷ; Frondier sử dụng nó một cách vụng về. Liên quan đến 'sức mạnh của quỷ'.
+  "Moirai": "Moirai"  # 166 lần, ch857-970 | Một thực thể nào đó; có vẻ liên quan đến tội lỗi và sự hối lỗi. Được đề cập trong các cuộc trò chuyện.
+  "Someone": "Someone"  # 160 lần, ch7-971 | Một người không xác định; có thể là kẻ cung cấp thông tin hoặc cứu Frondier. Không rõ danh tính.
+  "Magic": "Ma thuật"  # 118 lần, ch3-971 | Một hiện tượng ở Etius. Liên quan đến chiến đấu và không phải là vật chất.
+  "Rank": "Xếp hạng"  # 94 lần, ch1-969 | Một hệ thống phân cấp. Có các loại như Unique, Divine và Giant.
+  "Iight": "Ánh sáng"  # 55 lần, ch7-956 | Một thuật ngữ được dùng trong bối cảnh liên quan đến Obsidian và một hợp đồng. Có vẻ là tên của một trang web.
+  "Kill": "giết/xử lý"  # 46 lần, ch120-970 | Một hành động bạo lực. Thường được sử dụng để mô tả việc loại bỏ một đối tượng hoặc kẻ thù.
+  "Thwack": "bật/rè rì"  # 46 lần, ch150-919 | Một âm thanh đột ngột và ngắn gọn. Thường mô tả một hành động hoặc sự kiện.
+  "Crackle": "nứt/lách tách"  # 42 lần, ch88-936 | Một âm thanh nhỏ và giòn. Thường mô tả một vật liệu bị vỡ hoặc nứt ra.
+  "Grade": "cấp/xếp hạng"  # 40 lần, ch13-969 | Một hệ thống phân loại hoặc đánh giá. Có thể liên quan đến sức mạnh hoặc kỹ năng.
+  "Using": "sử dụng/dùng"  # 40 lần, ch5-960 | Hành động tận dụng một nguồn lực hoặc kỹ năng. Thường liên quan đến phép thuật.
+  "Gate": "cổng/lối vào"  # 37 lần, ch629-950 | Một lối đi hoặc điểm kết nối giữa các không gian khác nhau. Thường được sử dụng cho du hành tức thời.
+  "Time": "thời gian"  # 37 lần, ch46-955 | Một khái niệm đo lường sự trôi qua của các sự kiện. Có thể bị ảnh hưởng bởi phép thuật.
+  "Swoosh-": "Swoosh-"  # 31 lần, ch113-737 | Một tiếng động mô tả sự di chuyển nhanh chóng.
+  "Killing": "Killing"  # 21 lần, ch63-957 | Một hành động hoặc ý định. Có vẻ là một chiến thuật được sử dụng để đạt được mục tiêu nào đó.
+  "Creak-": "Creak-"  # 20 lần, ch53-889 | Một âm thanh. Có thể là tiếng động của một vật gì đó đang di chuyển hoặc bị hư hỏng.
+  "Crash": "Crash"  # 19 lần, ch11-902 | Một âm thanh lớn. Mô tả một sự va chạm mạnh hoặc đổ vỡ.
+  "Reservation": "Đặt chỗ"  # 18 lần, ch823-965 | Một hệ thống hoặc cơ chế nào đó liên quan đến việc giữ lại một lựa chọn cuối cùng.
+  "Combat Theory": "Lý thuyết chiến đấu"  # 16 lần, ch766-915 | Một môn học hoặc lĩnh vực kiến thức liên quan đến chiến thuật và kỹ năng chiến đấu.
+  "Use": "sử dụng/dùng"  # 15 lần, ch30-838 | Hành động khai thác hoặc tận dụng một vật phẩm, kỹ năng hoặc sức mạnh nào đó.
+  "Rare": "Độ hiếm (Rare)"  # 14 lần, ch29-692 | Một cấp độ đánh dấu chất lượng của vũ khí hoặc vật phẩm. Các vật phẩm 'Unique' vượt trội hơn Rare.
+  "KWAANG": "KWAANG!"  # 12 lần, ch853-960 | Một tiếng nổ lớn. Không có thêm thông tin trong các đoạn trích.
+  "Quest": "Nhiệm vụ"  # 11 lần, ch1-955 | Một hoạt động hoặc thử thách cần hoàn thành. Được theo dõi trên đồng hồ thông minh.
+  "Frondier Weaving": "Dệt Frondier"  # 10 lần, ch150-919 | Một loại kỹ thuật hoặc phép thuật tạo ra vũ khí và ảo ảnh. Được sử dụng bởi một số nhân vật trong truyện.
+  "Twelve Gods": "Mười hai vị thần"  # 10 lần, ch937-963 | Một nhóm các vị thần có quyền lực lớn. Athena là một trong số họ.
+  "Kyaa": "Kyaa!"  # 9 lần, ch20-839 | Một tiếng kêu ngạc nhiên hoặc phấn khích. Thường được sử dụng khi có điều gì đó bất ngờ xảy ra.
+  "Puk": "Puk!"  # 9 lần, ch332-673 | Một tiếng động ngắn gọn và đột ngột. Có thể là âm thanh của một vật gì đó vỡ hoặc nổ.
+  "Screech": "Tiếng rít"  # 9 lần, ch176-798 | Một âm thanh chói tai và sắc bén. Có thể là tiếng của một con quái vật hoặc vũ khí.
+  "Speak": "Nói"  # 9 lần, ch28-868 | Một lệnh để phát ngôn điều gì đó. Có thể là một câu thần chú hoặc lời thề.
+  "Sss": "Sss..."  # 9 lần, ch765-965 | Một âm thanh rít nhẹ. Có thể là tiếng của một con rắn hoặc sự căng thẳng.
+  "Tang": "Tang!"  # 9 lần, ch43-883 | Một âm thanh va chạm hoặc tiếng động lớn. Có thể là một đòn tấn công.
+  "Aegis": "Aegis"  # 8 lần, ch794-882 | Một nhóm người quan trọng trong trận chiến ở Palma. Họ có những nơi cần quay về.
+  "Bam": "Bam!"  # 8 lần, ch127-700 | Một tiếng động mạnh khi có va chạm. Có thể là một đòn tấn công hoặc sự phá hủy.
+  "Clang-": "Clang-"  # 8 lần, ch3-627 | Một âm thanh hoặc hiệu ứng. Xuất hiện như một tiếng động ngắn gọn và đột ngột trong các trận chiến hoặc tình huống căng thẳng.
+  "Mana of the Nine Worlds": "Mana của Chín Thế Giới"  # 8 lần, ch939-971 | Một loại mana đặc biệt hoặc nguồn năng lượng mạnh mẽ. Liên quan đến các thế giới khác nhau.
+  "Bzzzt": "Bzzzt"  # 7 lần, ch565-905 | Một âm thanh hoặc hiệu ứng. Xuất hiện như một tiếng động ngắn gọn và đột ngột.
+  "Calamity": "Tai họa (Calamity)"  # 7 lần, ch460-954 | Một thuật ngữ bí ẩn. Có liên quan đến Metamorph và có ai đó ra lệnh không để nó gặp Frondier.
+  "Kwang": "Kwang"  # 7 lần, ch333-743 | Một âm thanh hoặc hiệu ứng. Thường đi kèm với các tiếng động khác như 'Clang' và 'Kaaang'.
+  "Whack": "Whack"  # 7 lần, ch107-575 | Một âm thanh hoặc hiệu ứng. Mô tả một cú đánh mạnh.
+  "Genuine": "Chính Thức/Thực Tế"  # 6 lần, ch229-795 | Một trạng thái hoặc phẩm chất của một vật thể. Có giá trị riêng, không hoàn toàn phù hợp với tưởng tượng.
+  "Normal": "Bình Thường/Thông Thường"  # 6 lần, ch13-521 | Một cấp bậc hoặc trạng thái tiêu chuẩn. Được sử dụng để mô tả thứ hạng của một vật phẩm.
+  "Thump-": "Thump-"  # 6 lần, ch405-658 | Một tiếng động hoặc âm thanh được mô tả bằng từ Thump-. Không rõ ý nghĩa cụ thể.
+  "Top": "Top"  # 6 lần, ch33-928 | Đề cập đến thứ hạng cao nhất. Có thể dùng để chỉ bảng xếp hạng hoặc vị trí.
+  "Vroom-": "Vroom-"  # 6 lần, ch113-631 | Một tiếng động hoặc âm thanh được mô tả bằng từ Vroom-. Không rõ ý nghĩa cụ thể.
+  "Wizerview": "Wizerview"  # 6 lần, ch842-961 | Một thiết bị công nghệ ma thuật có chức năng liên lạc và xem hình ảnh. Người dùng là nam.
+  "World of Salvation": "Thế giới Cứu rỗi"  # 6 lần, ch801-950 | Một thế giới nơi các vị thần ban quyền năng cho con người và có mối liên hệ với các sự kiện lớn.
+  "Combat": "Combat"  # 5 lần, ch377-812 | Một môn học lý thuyết được giảng dạy trong trường học và liên quan đến việc sử dụng ma thuật.
+  "KAAANG": "KAAANG"  # 5 lần, ch853-928 | Một âm thanh lớn, có lẽ là tiếng va chạm hoặc nổ. Được sử dụng để mô tả một sự kiện mạnh mẽ.
+  "KWA-AAAAANG": "KWA-AAAAANG"  # 5 lần, ch926-929 | Một âm thanh lớn hơn KAAANG, mô tả một sự kiện mạnh mẽ và có thể là nổ.
+  "KWAAAAANG": "KWAAAAANG"  # 5 lần, ch851-970 | Một âm thanh lớn, có lẽ là tiếng va chạm hoặc nổ. Được sử dụng để mô tả một sự kiện mạnh mẽ.
+  "Kaaang": "Kaaang"  # 5 lần, ch332-905 | Một âm thanh lớn, có lẽ là tiếng va chạm hoặc nổ. Được sử dụng để mô tả một sự kiện mạnh mẽ.
+  "Kkaang": "Kkaang"  # 5 lần, ch703-876 | Một âm thanh lớn, có lẽ là tiếng va chạm hoặc nổ. Được sử dụng để mô tả một sự kiện mạnh mẽ.
+  "Magic Theory": "Lý thuyết ma thuật"  # 5 lần, ch766-769 | Một môn học hoặc lĩnh vực nghiên cứu liên quan đến phép thuật. Được giảng dạy tại Atlas.
+  "Number": "Số"  # 5 lần, ch52-811 | Đại diện cho một lượng hoặc thứ tự. Được sử dụng để đếm và xác định.
+  "Pride": "Kiêu ngạo"  # 5 lần, ch639-865 | Một đặc điểm tính cách tiêu cực. Liên quan đến Lucifer và một nhân vật khác.
+  "Prototype": "Nguyên mẫu"  # 5 lần, ch425-959 | Một thuật ngữ chỉ một phiên bản ban đầu hoặc thử nghiệm của thứ gì đó. Được sử dụng để gọi tên các đối tượng không xác định rõ ràng.
+  "Rise": "Trỗi dậy"  # 5 lần, ch38-876 | Sự trỗi dậy hoặc hồi sinh. Liên quan đến Phoenix Rise và một sự kiện tái hiện.
+  "Simultaneously": "Đồng thời"  # 5 lần, ch52-841 | Xảy ra cùng một lúc. Liên quan đến việc tạo ra nhiều vật thể và hành động của các nhân vật.
+  "Stasis": "Băng giá tĩnh"  # 5 lần, ch820-821 | Một công thức cơ bản tạo ra sự bất động. Liên quan đến việc che giấu các mạch điện.
+  "[……]": "[……]"  # 5 lần, ch794-937 | Một ký hiệu được sử dụng trong văn bản, có thể là một đoạn bị lược bỏ hoặc một lời nói.
+  "Caution": "Cảnh Báo (Caution)"  # 4 lần, ch68-457 | Một thông báo hoặc lời nhắc nhở về sự nguy hiểm tiềm ẩn.
+  "Curse of Sloth": "Lời Nguyền Trễ Nhát (Curse of Sloth)"  # 4 lần, ch765-780 | Một lời nguyền khiến Frondier trì trệ và không thể hoàn thành công việc.
+  "Ding-dong": "Ding-dong"  # 4 lần, ch57-889 | Một âm thanh hoặc hiệu ứng nào đó được nhắc đến trong truyện. Không rõ ý nghĩa cụ thể của nó là gì.
+  "Goetia": "Goetia"  # 4 lần, ch795-795 | Một thuật ngữ bí ẩn. Có thể liên quan đến một loại sức mạnh hoặc kiến thức đặc biệt.
+  "Kwaak": "Kwaak!"  # 4 lần, ch507-807 | Một tiếng kêu ngắn gọn. Không rõ nguồn gốc hoặc ý nghĩa cụ thể trong bối cảnh.
+  "Kwaang": "Kwaang!"  # 4 lần, ch559-897 | Một tiếng động lớn. Không rõ nguồn gốc hoặc ý nghĩa cụ thể trong bối cảnh.
+  "Kyaaaak": "Kyaaaak!"  # 4 lần, ch354-591 | Một tiếng kêu lớn. Không rõ nguồn gốc hoặc ý nghĩa cụ thể trong bối cảnh.
+  "Kyaaah": "Kyaaah!"  # 4 lần, ch117-707 | Một tiếng kêu lớn. Không rõ nguồn gốc hoặc ý nghĩa cụ thể trong bối cảnh.
+  "Metamorph Catastrophe": "Metamorph Catastrophe"  # 4 lần, ch957-957 | Một dự án của Satan. Mei là sản phẩm thành công duy nhất.
+  "Piiing": "Piiing!"  # 4 lần, ch834-837 | Một tiếng động nhỏ. Không rõ nguồn gốc hoặc ý nghĩa cụ thể trong bối cảnh.
+  "Quests": "Quests"  # 4 lần, ch1-955 | Một hệ thống nhiệm vụ. Có thông báo và liên quan đến {N•o•v•e•l•i•g•h•t}.
+  "Shhhk": "Shhhk"  # 4 lần, ch365-828 | Một âm thanh lặp đi lặp lại, không rõ ý nghĩa hoặc nguồn gốc.
+  "Shwick": "Shwick"  # 4 lần, ch342-935 | Một âm thanh lặp đi lặp lại, không rõ ý nghĩa hoặc nguồn gốc.
+  "Shwiik": "Shwiik"  # 4 lần, ch870-931 | Một âm thanh lặp đi lặp lại, không rõ ý nghĩa hoặc nguồn gốc.
+  "Slice-": "Slice-"  # 4 lần, ch244-530 | Một âm thanh lặp đi lặp lại, không rõ ý nghĩa hoặc nguồn gốc.
+  "Splash": "Splash"  # 4 lần, ch8-946 | Âm thanh của nước bắn tung tóe; làm dao động chất lỏng trong cốc.
+  "Srrrk": "Srrrk"  # 4 lần, ch827-908 | Một âm thanh lặp đi lặp lại, không rõ ý nghĩa hoặc nguồn gốc.
+  "Sshk": "Sshk"  # 4 lần, ch782-915 | Một âm thanh lặp đi lặp lại, không rõ ý nghĩa hoặc nguồn gốc.
+  "Start": "Bắt Đầu"  # 4 lần, ch839-969 | Một lệnh để khởi động một cái gì đó; tên của một thứ gì đó từ 'bắt đầu đến kết thúc'.
+  "THUNK": "ĐỘNG - THUNK"  # 4 lần, ch927-969 | Một tiếng động mạnh. Không có thông tin thêm từ các đoạn trích.
+  "THWACK": "ĐỘNG - THWACK"  # 4 lần, ch851-927 | Một tiếng động mạnh. Không có thông tin thêm từ các đoạn trích.
+  "Ting": "ĐỘNG - Ting"  # 4 lần, ch3-938 | Một tiếng động nhỏ. Không có thông tin thêm từ các đoạn trích.
+  "Triune Primary Gods": "Ba Vị Thần Sơ Nguyên"  # 4 lần, ch846-847 | Một nhóm các vị thần quan trọng. Vishnu là một trong số đó.
+  "Vroom": "ĐỘNG - Vroom"  # 4 lần, ch37-896 | Một tiếng động lớn. Liên quan đến chuyển động của một con gấu.
+  "Wham": "ĐỘNG - Wham"  # 4 lần, ch400-970 | Một tiếng động mạnh. Không có thông tin thêm từ các đoạn trích.
+  "Whiiish": "ĐỘNG - Whiiish"  # 4 lần, ch756-964 | Một tiếng động nhanh. Không có thông tin thêm từ các đoạn trích.
+  "Whish": "ĐỘNG - Whish"  # 4 lần, ch343-949 | Một tiếng động nhẹ. Mô tả âm thanh của gió.
+  "World Quests": "Nhiệm vụ Thế giới"  # 4 lần, ch754-943 | Một loại nhiệm vụ đặc biệt. Có thể liên quan đến khái niệm sâu sắc hoặc được các thế lực lớn dự đoán trước.
+  "AM": "AM (Giờ)"  # 3 lần, ch191-239 | Đại diện cho giờ trong ngày. Một nhân vật nữ có thể đã làm việc từ sáng sớm.
+  "Age": "Độ tuổi (Age)"  # 3 lần, ch1-575 | Một chỉ số về thời gian đã trôi qua. Có thể ảnh hưởng đến cơ thể hoặc ngoại hình của một người.
+  "April": "Ngày 1 tháng Tư"  # 3 lần, ch847-847 | Một ngày cụ thể được đề cập trong một sự kiện bầu chọn và nhắc đến một cách vô thức. Có vẻ là một ngày quan trọng.
+  "BOOOM": "BOOOM"  # 3 lần, ch802-946 | Một tiếng nổ lớn. Được sử dụng để mô tả các sự kiện hoặc hành động mạnh mẽ.
+  "BOOOOM": "BOOOOM"  # 3 lần, ch834-923 | Một tiếng nổ lớn hơn. Được sử dụng để mô tả các sự kiện hoặc hành động mạnh mẽ.
+  "Bang-": "Bang-"  # 3 lần, ch208-296 | Một tiếng nổ nhỏ. Được sử dụng để mô tả các sự kiện hoặc hành động mạnh mẽ.
+  "Boom-": "Tiếng nổ"  # 3 lần, ch220-271 | Một âm thanh hoặc hiệu ứng đặc biệt, thường đi kèm với sự phá hủy hoặc năng lượng lớn. Không rõ nguồn gốc của nó là gì.
+  "Craft": "Nghề thủ công/Sản xuất"  # 3 lần, ch793-833 | Một hệ thống hoặc quy trình để xử lý và nhập dữ liệu. Người dùng đọc nội dung với tốc độ đáng kinh ngạc.
+  "Divinity Against Gods": "Chống lại Thần"  # 3 lần, ch969-969 | Một khả năng đặc biệt, tăng cường sức mạnh khi đối đầu với các vị thần. Gây sát thương và đau đớn cho họ ngay cả khi chỉ tiếp xúc nhẹ.
+  "Hii": "Hii"  # 3 lần, ch756-937 | Một tiếng kêu ngắn. Thường được lặp lại nhiều lần.
+  "Humanity Contract": "Hiệp ước Nhân loại"  # 3 lần, ch865-937 | Một hiệp ước giữa các vị thần và con người. Liên quan đến sự phụ thuộc của nhân loại vào các vị thần.
+  "KLANG": "KLANG"  # 3 lần, ch927-963 | Tiếng động mạnh, thường đi kèm với các âm thanh khác như KAKANG.
+  "KWA-BOOM": "KWA-BOOM"  # 3 lần, ch835-935 | Một tiếng nổ lớn, thường đi kèm với các âm thanh khác như KWAANG.
+  "KWA-DRRRRK": "KWA-DRRRRK"  # 3 lần, ch929-949 | Một âm thanh kéo dài và căng thẳng.
+  "KWA-THUD": "KWA-THUD"  # 3 lần, ch927-927 | Một tiếng động mạnh và nặng nề.
+  "KWOONG": "KWOONG"  # 3 lần, ch947-967 | Một tiếng động lớn và vang vọng.
+  "Kieeeeek": "Kieeeeek"  # 3 lần, ch342-370 | Một âm thanh kêu lớn và sắc nét.
+  "Kieeek": "Kieeek"  # 3 lần, ch342-430 | Một âm thanh kêu tương tự như Kieeeeek.
+  "Knock-knock-": "Knock-knock-"  # 3 lần, ch94-253 | Tiếng gõ cửa lặp đi lặp lại.
+  "Kr": "Kr"  # 3 lần, ch294-936 | Một âm thanh hoặc tiếng kêu ngắn gọn và có vẻ đau đớn.
+  "Lily Charm": "Lời Nguyện Ước Lily"  # 3 lần, ch687-885 | Một loại ảnh hưởng bí mật mà người bị ảnh hưởng không nhận ra.
+  "Link": "Liên Kết"  # 3 lần, ch389-966 | Một kết nối được tạo ra bởi một pháp sư để thực hiện điều gì đó.
+  "Mana Theory": "Lý Thuyết Mana"  # 3 lần, ch883-915 | Một môn học về mana và cách sử dụng nó.
+  "NPC": "NPC"  # 3 lần, ch381-884 | Một nhân vật không phải người chơi trong một trò chơi. Một giáo viên và người bảo vệ.
+  "Poseidon Divine Power": "Sức mạnh thần thánh của Poseidon"  # 3 lần, ch825-833 | Một sức mạnh đặc biệt mà Charon sở hữu. Người ta tin rằng nó liên quan đến vị thần Poseidon.
+  "Q": "Q"  # 3 lần, ch141-852 | Đề cập đến một buổi hỏi đáp. Nó nhằm làm rõ vị trí của các bên liên quan.
+  "Seogeok": "Seogeok"  # 3 lần, ch877-877 | Một từ được thốt lên trong các tình huống căng thẳng hoặc ngạc nhiên. Ý nghĩa không rõ ràng.
+  "Srak": "Srak"  # 3 lần, ch853-934 | Một từ được thốt lên trong các tình huống căng thẳng hoặc ngạc nhiên. Ý nghĩa không rõ ràng.
+  "Sssst": "Sssst"  # 3 lần, ch599-755 | Một thuật ngữ liên quan đến Obsidian. Có vẻ như nó thu hút một lượng lớn Obsidian.
+  "THOOM": "Ầm!"  # 3 lần, ch922-967 | Một tiếng động lớn, thường đi kèm với các sự kiện mạnh mẽ hoặc nổ.
+  "THOOOM": "Ầm!"  # 3 lần, ch942-955 | Một tiếng động lớn khác. Tương tự như 'THOOM'.
+  "Taang": "Xoảng!"  # 3 lần, ch540-883 | Một tiếng động ngắn và sắc. Có thể là âm thanh của một vật va chạm.
+  "Tatatat": "Tatatat—!"  # 3 lần, ch273-802 | Một tiếng động lặp đi lặp lại nhanh chóng. Có thể là âm thanh của nhiều mũi tên hoặc vũ khí.
+  "Tatatatang": "Tatatatang!"  # 3 lần, ch106-652 | Một tiếng động lặp đi lặp lại nhanh chóng và mạnh mẽ hơn. Tương tự như 'Tatatat'.
+  "Tok": "Đoảng!"  # 3 lần, ch780-852 | Một tiếng động ngắn và sắc. Có thể là âm thanh của một vật rơi hoặc va chạm.
+  "Veda": "Veda"  # 3 lần, ch846-878 | Một thuật ngữ liên quan đến thần thoại Ấn Độ, có lẽ là một nhóm các vị thần.
+  "[Error occurred.]": "[Lỗi xảy ra]"  # 3 lần, ch954-955 | Một thông báo lỗi xuất hiện trong các chương từ 954 đến 955. Không có ngữ cảnh cụ thể.
 
-# KHÔNG PHẢI TÊN RIÊNG theo model (90 mục). Có tên bị loại nhầm thì chép lên mục đúng:
-#   "N"  (39 lần) Ghi chú biên dịch. Sử dụng đại từ nữ tính cho Mei.
-#   "Hahaha"  (37 lần) Một tiếng cười thể hiện sự thích thú hoặc trêu chọc. Thường đi kèm với những lời khen ngợi ai đó.
-#   "Furthermore"  (30 lần) Một từ nối câu; được dùng để bổ sung thêm thông tin về một sự kiện hoặc đối tượng nào đó.
-#   "Hmph"  (29 lần) Một tiếng xì than thể hiện sự khinh thường hoặc không đồng tình.
+# KHÔNG PHẢI TÊN RIÊNG theo model (186 mục). Có tên bị loại nhầm thì chép lên mục đúng:
+#   "N"  (937 lần) Ghi chú biên dịch. Sử dụng đại từ nữ tính cho Mei.
+#   "Like"  (139 lần) Một từ so sánh dùng để mô tả sự tương đồng hoặc ví von giữa các thứ.
+#   "Stop"  (90 lần) Một mệnh lệnh hoặc yêu cầu. Thường được lặp đi lặp lại để nhấn mạnh.
+#   "Go"  (88 lần) Một hướng dẫn hoặc mệnh lệnh. Thường đi kèm với lời khuyên hoặc trách nhiệm.
+#   "Damn"  (85 lần) Một thán từ thể hiện sự thất vọng hoặc tức giận.
+#   "Whatever"  (82 lần) Một cụm từ thể hiện sự thờ ơ hoặc chấp nhận một tình huống.
+#   "Nothing"  (80 lần) Một cụm từ thể hiện sự thiếu hụt hoặc phủ định.
+#   "Mm"  (73 lần) Một tiếng đáp lại ngắn gọn thể hiện sự đồng ý hoặc suy nghĩ.
+#   "Hahaha"  (69 lần) Một tiếng cười thể hiện sự thích thú hoặc trêu chọc. Thường đi kèm với những lời khen ngợi ai đó.
+#   "Hmph"  (64 lần) Một tiếng xì than thể hiện sự khinh thường hoặc không đồng tình.
+#   "Thump"  (64 lần) Tiếng động thể hiện sự rơi hoặc va chạm.
+#   "Get"  (58 lần) Một mệnh lệnh hoặc lời thúc giục để di chuyển nhanh chóng. Thường được dùng với giọng điệu tức giận.
+#   "Up"  (57 lần) Diễn tả sự thay đổi vị trí từ dưới lên trên. Thường dùng để diễn tả một nhận thức hoặc hy vọng.
+#   "Fine"  (51 lần) Một sự chấp thuận hoặc đồng ý với điều gì đó. Thường được dùng để kết thúc một cuộc tranh luận.
+#   "Understood"  (49 lần) Một sự xác nhận rằng một điều gì đó đã được hiểu rõ. Thường dùng để kết thúc một cuộc trò chuyện.
+#   "Heh"  (48 lần) Một tiếng cười khúc khích hoặc chế giễu. Thường được dùng để thể hiện sự thích thú hoặc mỉa mai.
+#   "Huff"  (48 lần) Tiếng thở hổn hển của ai đó khi đang gắng sức hoặc khó chịu.
+#   "Shut"  (48 lần) Một câu cảm thán được sử dụng để ngăn chặn ai đó nói.
+#   "Regardless"  (35 lần) Một cụm từ diễn tả sự miễn cưỡng hoặc chấp nhận một điều gì đó bất kể tình hình.
+#   "Pardon"  (34 lần) Một câu hỏi ngắn thể hiện sự ngạc nhiên hoặc không hiểu.
+#   "Phew"  (31 lần) Một tiếng thở phào nhẹ nhõm hoặc mệt mỏi.
+#   "Think"  (29 lần) Một mệnh lệnh để suy ngẫm về một điều gì đó.
+#   "yes"  (29 lần) Một câu trả lời ngắn gọn, thường được sử dụng để xác nhận thông tin hoặc sự đồng ý.
+#   "Trying"  (28 lần) Một hành động nỗ lực để đạt được một mục tiêu nào đó.
+#   "Am I"  (27 lần) Một câu hỏi tự vấn về khả năng hoặc tình cảm của nhân vật. Thể hiện sự nghi ngờ.
+#   "Tch"  (27 lần) Một tiếng rên hoặc biểu hiện sự khó chịu.
+#   "Looks"  (26 lần) Sự xuất hiện bên ngoài của một người hoặc vật thể.
 #   "Currently"  (23 lần) Mô tả tình hình hoặc trạng thái hiện tại. Thường được sử dụng để giới thiệu một sự kiện đang diễn ra.
-#   "Plus"  (23 lần) Một từ được sử dụng để bổ sung thêm thông tin, biết rõ về quái vật.
-#   "Shut"  (18 lần) Một câu cảm thán được sử dụng để ngăn chặn ai đó nói.
-#   "Dad"  (15 lần) Một người thân. Có vẻ là cha của một nhân vật và được mong muốn gặp gỡ.
-#   "Failure"  (15 lần) Một khái niệm tiêu cực có thể dẫn đến hậu quả nghiêm trọng. Không nhất thiết phải chết vì thất bại.
-#   "Remember"  (15 lần) Một lời kêu gọi để gợi lại ký ức về một sự kiện hoặc thông tin quan trọng.
-#   "Huff"  (14 lần) Tiếng thở hổn hển của ai đó khi đang gắng sức hoặc khó chịu.
-#   "Th"  (14 lần) Một tiếng kêu hoặc lời than thở ngắn gọn.
-#   "Think"  (14 lần) Một mệnh lệnh để suy ngẫm về một điều gì đó.
+#   "Th"  (23 lần) Một tiếng kêu hoặc lời than thở ngắn gọn.
+#   "Dad"  (22 lần) Một người thân. Có vẻ là cha của một nhân vật và được mong muốn gặp gỡ.
+#   "Nonsense"  (22 lần) Một câu cảm thán hoặc lời phủ nhận. Thường được sử dụng để bác bỏ một tuyên bố nào đó.
+#   "Hehe"  (21 lần) Một tiếng cười nhẹ nhàng. Thể hiện sự hài hước hoặc trêu chọc, 8 lần xuất hiện. Chương 52-788.
+#   "Remember"  (21 lần) Một lời kêu gọi để gợi lại ký ức về một sự kiện hoặc thông tin quan trọng.
+#   "Aha"  (20 lần) Một tiếng kêu ngạc nhiên hoặc nhận ra.
+#   "Gasp"  (20 lần) Một tiếng thốt lên ngạc nhiên hoặc khó chịu. Thường được sử dụng để diễn tả sự bất ngờ.
+#   "Make"  (20 lần) Một động từ chỉ hành động tạo ra hoặc thực hiện điều gì đó. Thường liên quan đến việc giúp đỡ người khác.
+#   "Failure"  (19 lần) Một khái niệm tiêu cực có thể dẫn đến hậu quả nghiêm trọng. Không nhất thiết phải chết vì thất bại.
+#   "Urgh"  (19 lần) Một tiếng kêu đau đớn hoặc khó chịu. Thường được sử dụng để diễn tả sự bất ngờ, sợ hãi.
+#   "Whenever"  (19 lần) Một trạng từ chỉ thời gian; thường liên quan đến Selena và những tình huống bị khiển trách.
+#   "Hup"  (18 lần) Một tiếng kêu ngắn gọn thể hiện sự ngạc nhiên hoặc nỗ lực.
+#   "Kugh"  (18 lần) Một tiếng kêu đau đớn hoặc khó chịu. Thường được sử dụng để diễn tả sự bất ngờ, sợ hãi.
+#   "Sometimes"  (18 lần) Một trạng từ chỉ thời gian; có thể liên quan đến việc thuê địa điểm hoặc thu thập thông tin.
+#   "Hence"  (16 lần) Một từ nối để chỉ nguyên nhân hoặc kết quả của một hành động. Thường được dùng khi nói về Quinie.
+#   "Move"  (16 lần) Một hành động di chuyển hoặc nhường chỗ cho người khác.
+#   "Someday"  (16 lần) Một thời điểm không xác định trong tương lai. Liên quan đến việc Mei rời khỏi xưởng của người kể chuyện.
+#   "Strictly"  (16 lần) Một trạng từ chỉ mức độ nghiêm ngặt hoặc chính xác trong một tình huống nào đó, thường dùng để nhấn mạnh.
+#   "Tat"  (16 lần) Một tiếng động ngắn gọn, thường dùng để biểu thị sự chú ý hoặc một hành động nhanh chóng.
+#   "Fwoosh"  (15 lần) Một tiếng động mô tả sự di chuyển nhanh chóng của một vật thể trong không khí.
+#   "Kwaaang"  (15 lần) Một tiếng động lớn mô tả một vụ nổ hoặc va chạm mạnh.
+#   "Thunk"  (15 lần) Một tiếng động nhỏ mô tả một vật thể va chạm vào bề mặt.
+#   "Whew"  (15 lần) Một câu cảm thán thể hiện sự nhẹ nhõm sau một tình huống nguy hiểm.
+#   "Left"  (14 lần) Một trạng thái bị bỏ rơi và quên lãng. Một người phụ nữ biến mất sau khi bị bỏ lại.
+#   "Pfft"  (14 lần) Một tiếng cười khúc khích hoặc chế nhạo. Thường được sử dụng để thể hiện sự bất ngờ.
+#   "W"  (14 lần) Một tiếng kêu ngạc nhiên hoặc bối rối. Thường được sử dụng khi bất ngờ.
+#   "[…….]"  (14 lần) Một phần văn bản bị lược bỏ hoặc chưa được dịch. Không có thông tin để mô tả.
 #   "Additionally"  (13 lần) Một từ để thêm thông tin hoặc chi tiết.
-#   "Sometimes"  (13 lần) Một trạng từ chỉ thời gian; có thể liên quan đến việc thuê địa điểm hoặc thu thập thông tin.
-#   "Whenever"  (13 lần) Một trạng từ chỉ thời gian; thường liên quan đến Selena và những tình huống bị khiển trách.
-#   "Am I"  (12 lần) Một câu hỏi tự vấn về khả năng hoặc tình cảm của nhân vật. Thể hiện sự nghi ngờ.
-#   "Wh-what"  (12 lần) Một câu hỏi hoặc thán phục thường được sử dụng để thể hiện sự ngạc nhiên hoặc không hiểu.
+#   "Caw-"  (13 lần) Tiếng kêu của quạ. Thường được sử dụng để xua đuổi chúng.
+#   "Gah"  (13 lần) Một tiếng kêu ngắn gọn thể hiện sự ngạc nhiên hoặc khó chịu.
+#   "Hahahaha"  (13 lần) Một tiếng cười lớn. Thể hiện sự vui vẻ hoặc chế giễu, 8 lần xuất hiện. Chương 106-696.
+#   "Sst"  (13 lần) Một tiếng kêu ngắn gọn thể hiện sự ngạc nhiên hoặc khó chịu.
+#   "Aside"  (12 lần) Một cụm từ được sử dụng để bổ sung thông tin hoặc giới thiệu một điều gì đó khác.
+#   "[……!]"  (12 lần) Một biểu thức cảm xúc. Không có thêm thông tin trong các đoạn trích.
 #   "Assuming"  (11 lần) Một cụm từ diễn tả một tình huống giả định hoặc một khả năng.
-#   "Congratulations"  (11 lần) Lời chúc tụng cho một thành tựu hoặc sự kiện may mắn.
-#   "Phew"  (11 lần) Một tiếng thở phào nhẹ nhõm hoặc mệt mỏi.
-#   "Pop"  (11 lần) Một tiếng động nhỏ hoặc tên của một người đóng góp.
-#   "Wh"  (11 lần) Một câu hỏi hoặc thán phục ngắn gọn.
-#   "Hm"  (10 lần) Một tiếng kêu biểu thị sự suy nghĩ hoặc ngập ngừng. Thường được sử dụng khi nói về phụ nữ.
-#   "B"  (9 lần) Phân loại lớp học hoặc một cách gọi thô tục. Có thể là chủ tịch lớp, 8 lần xuất hiện. Chương 60-806.
-#   "Hence"  (9 lần) Một từ nối để chỉ nguyên nhân hoặc kết quả của một hành động. Thường được dùng khi nói về Quinie.
-#   "Hoo"  (9 lần) Một tiếng kêu biểu thị sự ngạc nhiên hoặc suy tư. Thường được dùng khi lo lắng về mana.
-#   "Make"  (9 lần) Một động từ chỉ hành động tạo ra hoặc thực hiện điều gì đó. Thường liên quan đến việc giúp đỡ người khác.
-#   "W-what"  (9 lần) Một câu cảm thán thể hiện sự ngạc nhiên hoặc bối rối. Thường được sử dụng khi đối mặt với điều bất ngờ.
-#   "Hahahaha"  (8 lần) Một tiếng cười lớn. Thể hiện sự vui vẻ hoặc chế giễu, 8 lần xuất hiện. Chương 106-696.
-#   "Hehe"  (8 lần) Một tiếng cười nhẹ nhàng. Thể hiện sự hài hước hoặc trêu chọc, 8 lần xuất hiện. Chương 52-788.
+#   "Correct"  (11 lần) Một khẳng định. Thường được dùng để xác nhận hoặc đồng ý.
+#   "Drop"  (11 lần) Mô tả hành động rơi hoặc buông bỏ. Liên quan đến việc từ bỏ vũ khí và một kỹ thuật đặc biệt.
+#   "Mmm"  (11 lần) Một tiếng kêu hoặc một biểu cảm ngắn gọn.
+#   "Fwoooosh"  (10 lần) Một tiếng động lớn, thường đi kèm với các hành động mạnh mẽ.
+#   "Help"  (10 lần) Lời kêu cứu. Thường được sử dụng trong những tình huống nguy hiểm.
+#   "KWA-AANG"  (10 lần) Một tiếng động lớn, thường mô tả một va chạm mạnh.
+#   "Kwaaak"  (10 lần) Tiếng kêu của một sinh vật nào đó.
+#   "Shh"  (10 lần) Một tiếng xì nhẹ để ngăn ai đó nói hoặc làm điều gì đó. Thường được dùng để yêu cầu im lặng.
+#   "Wha"  (10 lần) Một câu cảm thán thể hiện sự ngạc nhiên hoặc bối rối.
+#   "Eek"  (9 lần) Một tiếng kêu ngắn thể hiện sự sợ hãi hoặc ngạc nhiên.
+#   "F"  (9 lần) Một câu chửi thề. Thể hiện sự bực tức hoặc thất vọng.
+#   "Ghh"  (9 lần) Một tiếng rên hoặc kêu đau ngắn.
+#   "Greetings"  (9 lần) Một cách để bắt đầu một cuộc trò chuyện hoặc thể hiện sự tôn trọng.
+#   "KRAAANG"  (9 lần) Một âm thanh lớn và vang vọng. Thường đi kèm với các sự kiện mạnh mẽ.
+#   "Kaboom"  (9 lần) Một tiếng nổ lớn. Thường được dùng để mô tả một vụ nổ.
+#   "Guh"  (8 lần) Một tiếng rên hoặc biểu lộ sự đau đớn. Thường được sử dụng để diễn tả khó chịu hoặc bất lực.
 #   "Huhu"  (8 lần) Một tiếng khóc hoặc than thở. Thể hiện sự buồn bã hoặc thất vọng, 8 lần xuất hiện. Chương 244-745.
-#   "Nickyname"  (8 lần) Tên người dùng trên một nền tảng hỗ trợ tác giả. Cung cấp các chương truyện thưởng.
-#   "Guys"  (7 lần) Một cách xưng hô thân mật giữa những người quen biết. Thường được dùng để gọi một nhóm nam giới.
-#   "I-I"  (7 lần) Một câu nói biểu lộ sự ngạc nhiên hoặc bối rối. Thường được sử dụng bởi một nhân vật nữ.
-#   "Truthfully"  (7 lần) Một trạng thái cảm xúc hoặc sự thật được tiết lộ. Thường đi kèm với sự mất mát tự tin.
-#   "Aha"  (6 lần) Một tiếng kêu ngạc nhiên hoặc nhận ra.
-#   "Ahahaha"  (6 lần) Một tiếng cười lớn thể hiện sự vui vẻ hoặc chế giễu.
-#   "Focusing"  (6 lần) Hành động tập trung tầm nhìn. Edwin sử dụng nó để quan sát và phát hiện mùi.
-#   "Pfft"  (6 lần) Một tiếng cười khúc khích hoặc chế nhạo. Thường được sử dụng để thể hiện sự bất ngờ.
-#   "Wh-What"  (6 lần) Một câu cảm thán thể hiện sự ngạc nhiên hoặc không hiểu.
-#   "Wha"  (6 lần) Một câu cảm thán thể hiện sự ngạc nhiên hoặc bối rối.
-#   "Become"  (5 lần) Một mệnh lệnh hoặc một sự biến đổi. Có thể trở thành đồ đệ, vua quỷ...
-#   "Consequently"  (5 lần) Một từ nối chỉ nguyên nhân và kết quả. Thường được dùng để giải thích một sự kiện hoặc tình huống.
-#   "F"  (5 lần) Một câu chửi thề. Thể hiện sự bực tức hoặc thất vọng.
-#   "H-How"  (5 lần) Một câu hỏi hoặc thán từ thể hiện sự ngạc nhiên hoặc tò mò.
-#   "HotJava"  (5 lần) Tên người ủng hộ truyện trên Ko-fi. Đóng góp vào chương bonus.
-#   "Ideally"  (5 lần) Một mong muốn hoặc mục tiêu mà người nói hy vọng đạt được.
-#   "Imagine"  (5 lần) Một lời kêu gọi để hình dung một tình huống hoặc cảnh tượng.
-#   "Keuk"  (5 lần) Một tiếng kêu hoặc thốt lên thể hiện sự khó chịu hoặc đau đớn.
-#   "Left"  (5 lần) Một trạng thái bị bỏ rơi và quên lãng. Một người phụ nữ biến mất sau khi bị bỏ lại.
-#   "Liar"  (5 lần) Một người bị cáo buộc là nói dối. Một lời khẳng định hoặc một sự tố giác.
-#   "N-no"  (5 lần) Một câu trả lời hoặc phản đối ngắn gọn và thường được lặp lại.
-#   "Swallowing"  (5 lần) Hành động nuốt; Edwin đã làm điều này khi nhìn Metal Golem.
-#   "W-What"  (5 lần) Một câu cảm thán thể hiện sự ngạc nhiên hoặc sốc.
-#   "Y-yes"  (5 lần) Một câu trả lời khẳng định. Thường được sử dụng để đáp lại mệnh lệnh hoặc yêu cầu.
+#   "Shiiik"  (8 lần) Một âm thanh hoặc hiệu ứng. Xuất hiện như một tiếng động ngắn gọn và đột ngột.
+#   "Slash-"  (8 lần) Một âm thanh hoặc hiệu ứng. Thường liên quan đến các đòn tấn công nhanh và sắc bén.
+#   "Swish-"  (8 lần) Một âm thanh hoặc hiệu ứng. Thường mô tả sự di chuyển nhanh nhẹn.
+#   "Thoom"  (8 lần) Một âm thanh hoặc hiệu ứng. Thường mô tả một tiếng động lớn và mạnh mẽ.
+#   "Whoosh-"  (8 lần) Một âm thanh hoặc hiệu ứng. Mô tả sự di chuyển nhanh chóng của một vật thể.
+#   "Yo"  (8 lần) Một lời chào thân mật hoặc cách bắt chuyện thông thường.
+#   "Aaagh"  (7 lần) Một tiếng thét hoặc biểu lộ sự đau đớn tột độ.
+#   "B"  (7 lần) Phân loại lớp học hoặc một cách gọi thô tục. Có thể là chủ tịch lớp, 8 lần xuất hiện. Chương 60-806.
+#   "Focusing"  (7 lần) Hành động tập trung tầm nhìn. Edwin sử dụng nó để quan sát và phát hiện mùi.
+#   "Swallowing"  (7 lần) Hành động nuốt; Edwin đã làm điều này khi nhìn Metal Golem.
+#   "Ding"  (6 lần) Tiếng thông báo đơn điệu từ đồng hồ thông minh.
+#   "Hoh"  (6 lần) Một từ hoặc âm thanh không rõ nghĩa. Có vẻ là một dạng bộc bạch hoặc cảm xúc.
+#   "Hooh"  (6 lần) Một từ thán phục hoặc câu hỏi ngắn gọn. Thể hiện sự ngạc nhiên hoặc nghi ngờ.
+#   "KWA-ANG"  (6 lần) Tiếng động lớn. Có thể là tiếng va chạm hoặc nổ.
+#   "Making"  (6 lần) Một động từ diễn tả hành động đang xảy ra. Khiến cho một số người không thể hành động.
+#   "Oops"  (6 lần) Một tiếng kêu ngạc nhiên hoặc hối lỗi ngắn gọn.
+#   "Shhh"  (6 lần) Một tiếng thì thầm để ngăn ai đó nói hoặc làm gì.
+#   "Sssk"  (6 lần) Một tiếng động ngắn gọn; có thể biểu thị sự ngạc nhiên hoặc khó chịu.
+#   "Ssssk"  (6 lần) Một tiếng động ngắn gọn; có thể biểu thị sự ngạc nhiên hoặc khó chịu.
+#   "Uh-huh"  (6 lần) Một tiếng đồng ý ngắn gọn. Thường được sử dụng khi lắng nghe hoặc đáp lại ai đó.
+#   "[What do you mean?]"  (6 lần) Một câu hỏi hoặc thắc mắc được sử dụng để yêu cầu giải thích rõ hơn.
+#   "[What?]"  (6 lần) Một câu hỏi hoặc thắc mắc thể hiện sự ngạc nhiên hoặc không hiểu.
+#   "BZZZT"  (5 lần) Một tiếng động ngắn gọn và lặp đi lặp lại, có lẽ là âm thanh của ma thuật hoặc một thiết bị.
+#   "Clench"  (5 lần) Một từ được lặp lại nhiều lần, có lẽ biểu thị sự căng thẳng hoặc quyết tâm.
+#   "Dammit"  (5 lần) Một câu cảm thán thể hiện sự thất vọng hoặc đau đớn. Thường được sử dụng bởi một nhân vật nữ.
+#   "Done"  (5 lần) Một từ ngắn gọn được sử dụng để báo hiệu sự hoàn thành của một hành động hoặc nhiệm vụ.
+#   "Shwik"  (5 lần) Một tiếng động ngắn gọn và sắc sảo. Có thể là âm thanh của một vật gì đó vỡ hoặc va chạm.
+#   "Shwish"  (5 lần) Một tiếng động nhẹ nhàng và nhanh chóng. Có thể là âm thanh của một vật gì đó di chuyển hoặc cắt xuyên qua không khí.
+#   "Squelch"  (5 lần) Một tiếng động ẩm ướt và dính. Có thể là âm thanh của một vật gì đó đè lên chất lỏng.
+#   "Ssshhh"  (5 lần) Một tiếng thì thầm hoặc một yêu cầu im lặng. Thường được sử dụng để ngăn chặn ai đó nói.
+#   "Various"  (5 lần) Chỉ nhiều thứ khác nhau. Được sử dụng để mô tả các mặt hàng và vết thương.
+#   "Waaah"  (5 lần) Tiếng khóc lớn. Thường được sử dụng để thể hiện sự đau khổ hoặc cảm xúc mạnh mẽ.
+#   "Aaargh"  (4 lần) Một tiếng kêu thể hiện sự đau đớn hoặc khó chịu.
+#   "Ahahahaha"  (4 lần) Một tiếng cười thể hiện sự chế giễu hoặc mỉa mai.
 #   "Atention"  (4 lần) Một từ chỉ sự tập trung của mọi người. Thường được dùng trong bối cảnh trò chơi.
-#   "Bear"  (4 lần) Một người dùng Ko-fi đóng góp cho các chương truyện.
-#   "Bismarck"  (4 lần) Một người dùng Ko-fi đóng góp cho các chương truyện.
+#   "Become"  (4 lần) Một mệnh lệnh hoặc một sự biến đổi. Có thể trở thành đồ đệ, vua quỷ...
+#   "Beware"  (4 lần) Một cảnh báo hoặc lời nhắc nhở về nguy hiểm tiềm ẩn.
 #   "Bu"  (4 lần) Một từ được sử dụng như một tiếng kêu hoặc để thể hiện sự phản đối.
-#   "Chapters"  (4 lần) Đề cập đến các chương truyện được phát hành.
+#   "Consequently"  (4 lần) Một từ nối chỉ nguyên nhân và kết quả. Thường được dùng để giải thích một sự kiện hoặc tình huống.
+#   "Dong"  (4 lần) Một âm thanh hoặc tiếng động nào đó được nhắc đến trong truyện. Có vẻ là một biến thể của 'Ding-dong'.
 #   "Firstly"  (4 lần) Một từ dùng để mở đầu một câu hoặc danh sách. Đề cập đến sự hiện diện của Enfer.
-#   "Haah"  (4 lần) Một tiếng thở dài hoặc một câu cảm thán được sử dụng để thể hiện sự mệt mỏi, thất vọng hoặc suy tư.
+#   "Forty-nine"  (4 lần) Một con số được nhắc đến trong truyện. Ý nghĩa cụ thể chưa rõ.
+#   "Ghhk"  (4 lần) Một tiếng kêu hoặc biểu cảm. Thường đi kèm với sự tức giận.
+#   "Ghk"  (4 lần) Một tiếng kêu hoặc biểu cảm. Thường thể hiện sự đau đớn hoặc ngạc nhiên.
+#   "Graaagh"  (4 lần) Một tiếng gầm hoặc kêu thét. Thể hiện sự giận dữ hoặc đau khổ.
+#   "Grrr"  (4 lần) Một tiếng gầm hoặc kêu. Thường được dùng để diễn tả sự nguy hiểm hoặc tức giận của một sinh vật nào đó.
+#   "Hmmm"  (4 lần) Một tiếng ngâm nga hoặc biểu lộ sự suy nghĩ. Thường dùng để thể hiện do dự.
+#   "I’ve"  (4 lần) Một cụm từ diễn tả sự hoàn thành hoặc đã làm điều gì đó.
 #   "Join"  (4 lần) Một lời kêu gọi hoặc một hành động được đề nghị cho người đọc hoặc các nhân vật.
-#   "Making"  (4 lần) Một động từ diễn tả hành động đang xảy ra. Khiến cho một số người không thể hành động.
-#   "N-No"  (4 lần) Một câu phủ định thường được sử dụng để bày tỏ sự phản đối hoặc ngạc nhiên.
+#   "KWA-AAAAAA"  (4 lần) Một tiếng thét lớn hoặc kêu rên. Thường diễn tả sự đau đớn hoặc sợ hãi.
+#   "KWAAANG"  (4 lần) Tiếng nổ lớn hoặc tiếng va chạm mạnh. Mô tả một sự kiện có sức tàn phá.
+#   "Kekeke"  (4 lần) Tiếng cười khúc khích hoặc chế giễu. Thể hiện sự vui vẻ hoặc mỉa mai.
+#   "Keugh"  (4 lần) Tiếng rên hoặc tiếng kêu đau đớn. Thường diễn tả sự chịu đựng.
+#   "Krrrk"  (4 lần) Một tiếng kêu khó chịu hoặc rên rỉ. Thường diễn tả sự đau đớn hoặc bất mãn.
 #   "Numerous"  (4 lần) Được dùng để chỉ một số lượng lớn. Thường được sử dụng trong các mô tả.
-#   "Uh-huh"  (4 lần) Một tiếng đồng ý ngắn gọn. Thường được sử dụng khi lắng nghe hoặc đáp lại ai đó.
-#   "Various"  (4 lần) Chỉ nhiều thứ khác nhau. Được sử dụng để mô tả các mặt hàng và vết thương.
-#   "W"  (4 lần) Một tiếng kêu ngạc nhiên hoặc bối rối. Thường được sử dụng khi bất ngờ.
-#   "W-Wait"  (4 lần) Một câu cảm thán để ngăn chặn ai đó hoặc trì hoãn một hành động.
-#   "Whichever"  (4 lần) Một cụm từ được sử dụng để chỉ ra rằng một điều kiện nào đó là không quan trọng.
-#   "A-Are"  (3 lần) Một câu hỏi hoặc sự ngạc nhiên được mở đầu bằng 'A'. Thường dùng để thể hiện sự bối rối.
+#   "Quit"  (4 lần) Một câu chửi hoặc yêu cầu dừng lại. Thường được dùng để thể hiện sự khó chịu.
+#   "Turn"  (4 lần) Một hành động thay đổi tình hình hoặc hướng đi. Cũng có thể là tắt đèn.
+#   "[...!]"  (4 lần) Một dấu chấm than được đặt trong ngoặc vuông. Có thể là một sự ngạc nhiên hoặc phản ứng.
+#   "[Yes.]"  (4 lần) Một câu trả lời khẳng định. Được đề cập trong ngoặc vuông.
+#   "Aaack"  (3 lần) Một tiếng kêu đau đớn hoặc sợ hãi.
 #   "Act"  (3 lần) Một mệnh lệnh hoặc hướng dẫn để nhân vật thể hiện một hành vi nhất định.
-#   "B-But"  (3 lần) Một câu hỏi hoặc sự phản đối được mở đầu bằng 'B'. Thể hiện sự nghi ngờ.
-#   "Beware"  (3 lần) Một cảnh báo hoặc lời nhắc nhở về nguy hiểm tiềm ẩn.
-#   "Broke"  (3 lần) Một từ được dùng trong tên người dùng Ko-fi. Có thể liên quan đến cảm xúc tiêu cực.
-#   "DK"  (3 lần) Một từ được dùng trong tên người dùng Ko-fi.
-#   "Drip"  (3 lần) Mô tả hành động rơi hoặc nhỏ giọt. Liên quan đến sự di chuyển của một nhân vật và cảm giác trên da.
-#   "Drop"  (3 lần) Mô tả hành động rơi hoặc buông bỏ. Liên quan đến việc từ bỏ vũ khí và một kỹ thuật đặc biệt.
-#   "Eeeeerrr"  (3 lần) Tên người dùng trên Ko-fi đóng góp chương truyện.
-#   "Friendly"  (3 lần) Một người được nhắc đến trong các phần thưởng từ Ko-fi. Vai trò không rõ ràng qua các trích dẫn.
-#   "Gasp"  (3 lần) Một tiếng thốt lên ngạc nhiên hoặc khó chịu. Thường được sử dụng để diễn tả sự bất ngờ.
-#   "Ha-ha"  (3 lần) Một tiếng cười ngắn. Thường được dùng để thể hiện sự thích thú hoặc trêu chọc.
-#   "Mmm"  (3 lần) Một tiếng kêu hoặc một biểu cảm ngắn gọn.
-#   "Th-That"  (3 lần) Một cụm từ hoặc câu mở đầu. Thường được sử dụng để diễn tả sự ngập ngừng.
-#   "Th-that"  (3 lần) Một cụm từ hoặc câu mở đầu. Thường được sử dụng để diễn tả sự ngập ngừng.
-#   "Turn"  (3 lần) Một hành động thay đổi tình hình hoặc hướng đi. Cũng có thể là tắt đèn.
-#   "W-Well"  (3 lần) Một câu mở đầu hoặc đáp lại ngắn gọn. Thường được sử dụng khi ngập ngừng.
-#   "W-Why"  (3 lần) Một câu hỏi thể hiện sự ngạc nhiên hoặc không đồng ý.
+#   "Caaaw"  (3 lần) Tiếng kêu của một loài chim. Không có thông tin thêm về nguồn gốc hoặc ý nghĩa của nó.
+#   "Clack-"  (3 lần) Một âm thanh ngắn, dứt khoát. Không rõ nguồn gốc hoặc ý nghĩa của nó.
+#   "Clink"  (3 lần) Tiếng leng keng nhỏ. Thường liên quan đến âm thanh của tiền xu.
+#   "Crackle-"  (3 lần) Một âm thanh nổ lách tách. Không rõ nguồn gốc hoặc ý nghĩa của nó.
+#   "Creeeak"  (3 lần) Tiếng rít hoặc kêu cót két. Thường liên quan đến đồ vật cũ kỹ.
+#   "Drip-"  (3 lần) Một âm thanh hoặc hiệu ứng không rõ nghĩa. Xuất hiện lặp lại trong các đoạn văn.
+#   "End"  (3 lần) Một từ chỉ điểm thời gian hoặc sự hoàn thành. Xuất hiện trong cụm 'Từ đầu đến cuối'.
+#   "FWAAAAT"  (3 lần) Một tiếng kêu hoặc thốt lên thể hiện sự ngạc nhiên hoặc sốc.
+#   "Fwip"  (3 lần) Một âm thanh nhanh chóng và sắc bén. Thường dùng để mô tả chuyển động.
+#   "Fwish"  (3 lần) Một âm thanh nhanh nhẹn và du dương. Thường dùng để mô tả chuyển động.
+#   "Gk"  (3 lần) Một tiếng kêu đau đớn hoặc khó chịu. Thường đi kèm với những biểu hiện khác.
+#   "Kwaaaaaaaaang"  (3 lần) Một tiếng động lớn, thường dùng để mô tả một vụ nổ hoặc va chạm mạnh.
+#   "Kwaaaang"  (3 lần) Một tiếng động lớn, thường dùng để mô tả một vụ nổ hoặc va chạm mạnh.
+#   "Kwoong"  (3 lần) Một tiếng động lớn, thường dùng để mô tả một vụ nổ hoặc va chạm mạnh.
+#   "Kwooooo"  (3 lần) Một tiếng động lớn, thường dùng để mô tả một vụ nổ hoặc va chạm mạnh.
+#   "Kyaaaah"  (3 lần) Một tiếng thét hoảng hốt hoặc sợ sệt của phụ nữ.
+#   "Madman"  (3 lần) Một biệt danh được dùng để gọi một người hành động điên rồ hoặc bất thường.
+#   "Ooh"  (3 lần) Một tiếng kêu ngạc nhiên hoặc cổ vũ.
+#   "Pat"  (3 lần) Một tiếng kêu ngắn gọn. Có thể là một tín hiệu hoặc lời cảnh báo.
+#   "Poof"  (3 lần) Một tiếng động ngắn gọn. Thường được dùng để diễn tả sự xuất hiện hoặc biến mất đột ngột.
+#   "Protect"  (3 lần) Một mệnh lệnh hoặc lời kêu gọi để bảo vệ ai đó. Thường được dùng trong các tình huống nguy hiểm.
+#   "ROOOOAR"  (3 lần) Một tiếng gầm lớn. Thường được dùng để diễn tả sự tức giận hoặc sức mạnh.
+#   "Rumble-"  (3 lần) Một âm thanh rung động. Thường được dùng để diễn tả sự chuyển động hoặc tiếng động lớn.
+#   "Rustle"  (3 lần) Tiếng xào xạc. Thường được dùng để diễn tả tiếng lá cây hoặc vải vóc.
+#   "SHEENK"  (3 lần) Một tiếng động lớn. Thường được dùng để diễn tả sự ngạc nhiên hoặc sốc.
+#   "Screech-"  (3 lần) Một tiếng kêu chói tai. Thường được dùng để diễn tả sự khó chịu hoặc đau đớn.
+#   "Screeeech"  (3 lần) Một tiếng kêu chói tai kéo dài. Thường được dùng để diễn tả sự đau đớn hoặc sợ hãi.
+#   "Squeeze-"  (3 lần) Một âm thanh hoặc tiếng kêu ngắn. Ý nghĩa không rõ ràng.
+#   "Sss-"  (3 lần) Một âm thanh hoặc tiếng kêu ngắn. Ý nghĩa không rõ ràng.
+#   "Ssshh"  (3 lần) Một âm thanh hoặc tiếng kêu ngắn. Thường được dùng để ra hiệu im lặng.
+#   "Ssshhk"  (3 lần) Một âm thanh hoặc tiếng kêu ngắn. Ý nghĩa không rõ ràng.
+#   "Sssht"  (3 lần) Một âm thanh hoặc tiếng kêu ngắn. Thường được dùng để ra hiệu im lặng.
+#   "Umm"  (3 lần) Một tiếng thở dài hoặc do dự. Thường được sử dụng khi trả lời hoặc suy nghĩ.
+#   "Uwah"  (3 lần) Một tiếng kêu ngạc nhiên hoặc sợ hãi. Thường được sử dụng để thể hiện sự kinh hoàng.
+#   "Vmmm"  (3 lần) Một tiếng động khó xác định. Có thể là một âm thanh thỏa mãn hoặc không thoải mái.
+#   "Vwoom"  (3 lần) Tiếng động của một vật thể di chuyển nhanh hoặc máy móc hoạt động. Liên quan đến Pegasus.
+#   "Whooooosh"  (3 lần) Tiếng động của gió hoặc một vật thể di chuyển rất nhanh.
+#   "Whoooosh"  (3 lần) Tiếng động của gió hoặc một vật thể di chuyển rất nhanh.
+#   "Whooosh"  (3 lần) Tiếng động của gió hoặc một vật thể di chuyển rất nhanh.
+#   "Ye"  (3 lần) Một câu trả lời ngắn gọn, thường được sử dụng để xác nhận hoặc đồng ý với điều gì đó.
+#   "[Hm?]"  (3 lần) Một câu hỏi ngắn gọn, biểu thị sự ngạc nhiên hoặc không chắc chắn.
+#   "[Huh?]"  (3 lần) Một câu hỏi ngắn gọn, biểu thị sự ngạc nhiên hoặc không hiểu.
+#   "[What did you say?]"  (3 lần) Một câu hỏi để yêu cầu ai đó lặp lại điều họ vừa nói.
+#   "[What is it?]"  (3 lần) Một câu hỏi để yêu cầu ai đó giải thích điều gì đó.
+#   "[……?]"  (3 lần) Một câu hỏi ngắn gọn, biểu thị sự suy tư hoặc ngập ngừng.
 
 xung_ho:
   # Các cặp nhân vật hay cùng xuất hiện trong cảnh có hội thoại, nhiều nhất trước.
   # Bỏ dấu # và điền "tự xưng / gọi". Quan hệ thay đổi theo thời gian: dùng khoảng chương (xem glossary.yaml).
-  # "Elodie > Frondier": ""    # 353 cảnh chung, từ ch2
+  # "Elodie > Frondier": ""    # 537 cảnh chung, từ ch2
   # "Frondier > Elodie": ""
-  # "Aten > Frondier": ""    # 273 cảnh chung, từ ch73
-  # "Frondier > Aten": ""
-  # "Aster > Frondier": ""    # 267 cảnh chung, từ ch7
+  # "Aster > Frondier": ""    # 410 cảnh chung, từ ch6
   # "Frondier > Aster": ""
-  # "Frondier > Roach": ""    # 266 cảnh chung, từ ch1
-  # "Roach > Frondier": ""
-  # "Frondier > Selena": ""    # 247 cảnh chung, từ ch159
+  # "Frondier > Selena": ""    # 367 cảnh chung, từ ch159
   # "Selena > Frondier": ""
-  # "Frondier > Philly": ""    # 234 cảnh chung, từ ch70
-  # "Philly > Frondier": ""
-  # "Azier > Frondier": ""    # 195 cảnh chung, từ ch1
+  # "Frondier > Roach": ""    # 362 cảnh chung, từ ch1
+  # "Roach > Frondier": ""
+  # "Azier > Frondier": ""    # 311 cảnh chung, từ ch1
   # "Frondier > Azier": ""
-  # "Enfer > Frondier": ""    # 168 cảnh chung, từ ch1
+  # "Aten > Frondier": ""    # 303 cảnh chung, từ ch73
+  # "Frondier > Aten": ""
+  # "Frondier > Philly": ""    # 257 cảnh chung, từ ch70
+  # "Philly > Frondier": ""
+  # "Enfer > Frondier": ""    # 211 cảnh chung, từ ch1
   # "Frondier > Enfer": ""
-  # "Frondier > Lily": ""    # 152 cảnh chung, từ ch446
+  # "Frondier > Lily": ""    # 204 cảnh chung, từ ch446
   # "Lily > Frondier": ""
-  # "Frondier > Sybil": ""    # 149 cảnh chung, từ ch20
+  # "Frondier > Sybil": ""    # 201 cảnh chung, từ ch19
   # "Sybil > Frondier": ""
-  # "Aster > Elodie": ""    # 128 cảnh chung, từ ch9
-  # "Elodie > Aster": ""
-  # "Frondier > Osprey": ""    # 124 cảnh chung, từ ch48
-  # "Osprey > Frondier": ""
-  # "Frondier > Quinie": ""    # 114 cảnh chung, từ ch13
-  # "Quinie > Frondier": ""
-  # "Aten > Philly": ""    # 114 cảnh chung, từ ch72
-  # "Philly > Aten": ""
-  # "Elysia > Frondier": ""    # 113 cảnh chung, từ ch85
-  # "Frondier > Elysia": ""
-  # "Frondier > Renzo": ""    # 107 cảnh chung, từ ch86
-  # "Renzo > Frondier": ""
-  # "Aster > Aten": ""    # 103 cảnh chung, từ ch73
-  # "Aten > Aster": ""
-  # "Frondier > Malia": ""    # 99 cảnh chung, từ ch47
-  # "Malia > Frondier": ""
-  # "Enfer > Roach": ""    # 97 cảnh chung, từ ch1
-  # "Roach > Enfer": ""
-  # "Ellen > Frondier": ""    # 95 cảnh chung, từ ch8
-  # "Frondier > Ellen": ""
-  # "Aten > Sybil": ""    # 91 cảnh chung, từ ch74
-  # "Sybil > Aten": ""
-  # "Azier > Enfer": ""    # 89 cảnh chung, từ ch1
-  # "Enfer > Azier": ""
-  # "Frondier > Jane": ""    # 89 cảnh chung, từ ch22
-  # "Jane > Frondier": ""
-  # "Frondier > Pielott": ""    # 89 cảnh chung, từ ch386
+  # "Frondier > Pielott": ""    # 190 cảnh chung, từ ch386
   # "Pielott > Frondier": ""
-  # "Elodie > Sybil": ""    # 88 cảnh chung, từ ch55
-  # "Sybil > Elodie": ""
-  # "Aten > Elodie": ""    # 87 cảnh chung, từ ch97
-  # "Elodie > Aten": ""
-  # "Dier > Frondier": ""    # 80 cảnh chung, từ ch384
-  # "Frondier > Dier": ""
-  # "Azier > Roach": ""    # 77 cảnh chung, từ ch1
+  # "Frondier > Osprey": ""    # 162 cảnh chung, từ ch48
+  # "Osprey > Frondier": ""
+  # "Aster > Elodie": ""    # 158 cảnh chung, từ ch9
+  # "Elodie > Aster": ""
+  # "Frondier > Renzo": ""    # 151 cảnh chung, từ ch87
+  # "Renzo > Frondier": ""
+  # "Frondier > Malia": ""    # 135 cảnh chung, từ ch47
+  # "Malia > Frondier": ""
+  # "Aten > Philly": ""    # 133 cảnh chung, từ ch72
+  # "Philly > Aten": ""
+  # "Enfer > Roach": ""    # 129 cảnh chung, từ ch1
+  # "Roach > Enfer": ""
+  # "Carla > Frondier": ""    # 127 cảnh chung, từ ch776
+  # "Frondier > Carla": ""
+  # "Baal > Frondier": ""    # 126 cảnh chung, từ ch654
+  # "Frondier > Baal": ""
+  # "Frondier > Quinie": ""    # 125 cảnh chung, từ ch13
+  # "Quinie > Frondier": ""
+  # "Azier > Roach": ""    # 117 cảnh chung, từ ch1
   # "Roach > Azier": ""
-  # "Aster > Sybil": ""    # 75 cảnh chung, từ ch19
-  # "Sybil > Aster": ""
-  # "Aster > Lunia": ""    # 75 cảnh chung, từ ch19
-  # "Lunia > Aster": ""
-  # "Frondier > Lunia": ""    # 75 cảnh chung, từ ch75
-  # "Lunia > Frondier": ""
-  # "Elysia > Philly": ""    # 73 cảnh chung, từ ch83
-  # "Philly > Elysia": ""
-  # "Edwin > Frondier": ""    # 68 cảnh chung, từ ch35
-  # "Frondier > Edwin": ""
-  # "Dier > Pielott": ""    # 67 cảnh chung, từ ch386
-  # "Pielott > Dier": ""
-  # "Frondier > Hagley": ""    # 66 cảnh chung, từ ch134
-  # "Hagley > Frondier": ""
-  # "Frondier > Ludwig": ""    # 64 cảnh chung, từ ch10
-  # "Ludwig > Frondier": ""
-  # "Elodie > Selena": ""    # 64 cảnh chung, từ ch197
-  # "Selena > Elodie": ""
-  # "Frondier > Marco": ""    # 62 cảnh chung, từ ch642
-  # "Marco > Frondier": ""
-  # "Bartello > Frondier": ""    # 60 cảnh chung, từ ch170
-  # "Frondier > Bartello": ""
-  # "Arald > Frondier": ""    # 57 cảnh chung, từ ch607
+  # "Elysia > Frondier": ""    # 117 cảnh chung, từ ch83
+  # "Frondier > Elysia": ""
+  # "Arald > Frondier": ""    # 115 cảnh chung, từ ch606
   # "Frondier > Arald": ""
+  # "Dier > Frondier": ""    # 112 cảnh chung, từ ch386
+  # "Frondier > Dier": ""
+  # "Elodie > Selena": ""    # 111 cảnh chung, từ ch197
+  # "Selena > Elodie": ""
+  # "Azier > Enfer": ""    # 110 cảnh chung, từ ch1
+  # "Enfer > Azier": ""
+  # "Aster > Aten": ""    # 106 cảnh chung, từ ch73
+  # "Aten > Aster": ""
+  # "Ellen > Frondier": ""    # 103 cảnh chung, từ ch8
+  # "Frondier > Ellen": ""
+  # "Elodie > Sybil": ""    # 102 cảnh chung, từ ch55
+  # "Sybil > Elodie": ""
+  # "Frondier > Gregory": ""    # 101 cảnh chung, từ ch59
+  # "Gregory > Frondier": ""
+  # "Aster > Sybil": ""    # 96 cảnh chung, từ ch19
+  # "Sybil > Aster": ""
+  # "Aten > Elodie": ""    # 96 cảnh chung, từ ch76
+  # "Elodie > Aten": ""
+  # "Frondier > Jane": ""    # 93 cảnh chung, từ ch22
+  # "Jane > Frondier": ""
+  # "Aten > Sybil": ""    # 90 cảnh chung, từ ch74
+  # "Sybil > Aten": ""
+  # "Basileo > Frondier": ""    # 85 cảnh chung, từ ch763
+  # "Frondier > Basileo": ""
+  # "Edwin > Frondier": ""    # 83 cảnh chung, từ ch35
+  # "Frondier > Edwin": ""
+  # "Elodie > Pielott": ""    # 83 cảnh chung, từ ch391
+  # "Pielott > Elodie": ""
+  # "Elodie > Lily": ""    # 81 cảnh chung, từ ch480
+  # "Lily > Elodie": ""
+  # "Frondier > Lunia": ""    # 80 cảnh chung, từ ch19
+  # "Lunia > Frondier": ""
+  # "Frondier > Marco": ""    # 79 cảnh chung, từ ch641
+  # "Marco > Frondier": ""

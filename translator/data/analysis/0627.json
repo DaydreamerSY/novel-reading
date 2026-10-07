@@ -1,0 +1,75 @@
+{
+ "number": 627,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra tại một không gian mở ở Constel, nơi Pielott von Ribanche đang tập luyện để khắc phục những thiếu sót của mình sau khi Frondier rời đi. Anh ta gặp lại Dier và cùng nhau đối mặt với một kẻ thù mới là Adolf, một con quỷ thừa kế Lời Nguyền. Cả hai đã nhận được một bài kiểm tra bất ngờ từ Adolf thông qua các kỹ thuật tấn công độc đáo của hắn.",
+ "boi_canh": "Một không gian mở ở Constel, thời điểm mùa thu đang đến.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Pielott von Ribanche",
+  "Dier",
+  "Adolf",
+  "Pielott",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Pielott tập luyện một mình vì Frondier vắng mặt.",
+  "Pielott và Dier gặp lại nhau tại bãi tập.",
+  "Adolf tấn công Pielott và Dier bằng những quả cầu nhỏ được điều khiển bởi sợi dây.",
+  "Adolf tự giới thiệu là con quỷ thừa kế Lời Nguyền, thứ năm mạnh nhất.",
+  "Pielott và Dier quyết tâm không để Frondier thất vọng."
+ ],
+ "quan_he": [
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò, ngưỡng mộ và mong muốn được tin tưởng.",
+   "cach_goi": "gọi 'Senior', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy, đang đánh giá và hướng dẫn Pielott.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè đồng thời là đối thủ trong việc học hỏi từ Frondier.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Dier",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè đồng thời là đối thủ trong việc học hỏi từ Frondier.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Adolf",
+   "b": "Pielott",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù mới, tấn công bất ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Adolf",
+   "b": "Dier",
+   "loai": "ke_thu",
+   "mo_ta": "Kẻ thù mới, tấn công bất ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Pielott von Ribanche: Học viên năm nhất của Constel.",
+  "Adolf: Con quỷ thừa kế Lời Nguyền thứ năm."
+ ],
+ "stats": {
+  "tokens": 802,
+  "seconds": 24.1
+ }
+}

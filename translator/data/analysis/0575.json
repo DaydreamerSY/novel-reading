@@ -2,96 +2,66 @@
  "number": 575,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Frondier đến dinh thự của Ria Lis để làm kỵ sĩ theo lời hứa với Lily. Anh gặp phải sự đón tiếp lạnh nhạt và nghi ngờ từ các kỵ sĩ khác, những người tỏ ra không tin anh là Frondier de Roach thật. Bằng cách sử dụng Obsidian của mình một cách khéo léo, Frondier đã chứng minh sức mạnh vượt trội của mình mà không cần phải chiến đấu trực tiếp.",
- "boi_canh": "Trước dinh thự của Ria Lis, vào buổi sáng.",
+ "tom_tat": "Frondier, sau khi bị một hiệp sĩ tấn công bất ngờ, đã đáp trả bằng vũ lực. Sự việc được can thiệp bởi Lily, người đã sắp xếp cho Frondier ở lại trong phủ của mình với tư cách là một hiệp sĩ trong vòng một tháng. Frondier nhận ra rằng Lily có lẽ không phải là con người bình thường và nghi ngờ về danh tính thật sự của cô.",
+ "boi_canh": "Trong khuôn viên dinh thự, vào thời điểm Frondier được sắp xếp ở lại với tư cách là một hiệp sĩ.",
  "nhan_vat": [
   "Frondier",
-  "Aster",
+  "Selena",
   "Lily",
-  "Enfer",
   "Frondier de Roach",
-  "Aster Evans",
   "Ria Lis",
+  "Lilith",
   "Lis"
  ],
  "su_kien": [
-  "Người đưa xe hành động bất thường, chúc Frondier may mắn.",
-  "Cổng dinh thự mở tự động mà không có chuông báo.",
-  "Frondier cảm nhận được sự cảnh giác từ những người bên trong dinh thự.",
-  "Các kỵ sĩ của Ria Lis nghi ngờ danh tính của Frondier.",
-  "Frondier sử dụng Obsidian để ngăn các kỵ sĩ rút kiếm."
+  "Một hiệp sĩ tấn công Frondier từ phía sau.",
+  "Frondier đáp trả bằng vũ lực, đánh bại hiệp sĩ.",
+  "Lily can thiệp và ra lệnh cho các hiệp sĩ quỳ xuống.",
+  "Lily sắp xếp cho Frondier ở lại dinh thự với tư cách là một hiệp sĩ trong vòng một tháng.",
+  "Frondier suy đoán về danh tính thật sự của Lily."
  ],
  "quan_he": [
   {
-   "a": "Người đưa xe",
-   "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "người làm công, hành động bất thường để chúc may mắn.",
-   "cach_goi": "gọi 'Frondier-nim', lễ phép"
-  },
-  {
    "a": "Frondier",
-   "b": "Người đưa xe",
-   "loai": "nguoi_la",
-   "mo_ta": "người lái xe được thuê bởi cha Frondier.",
+   "b": "Selena",
+   "loai": "khac",
+   "mo_ta": "Frondier cảm thấy mình giống Selena khi quỳ trước Lily.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
    "b": "Lily",
-   "loai": "nguoi_la",
-   "mo_ta": "đã hứa làm kỵ sĩ cho Lily.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là hiệp sĩ mới của Lily, đang tuân theo mệnh lệnh của cô.",
+   "cach_goi": "gọi tên 'Lily', thân mật"
+  },
+  {
+   "a": "Lily",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Lily là người ra lệnh cho Frondier, quan sát và kiểm tra anh.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
   },
   {
    "a": "Frondier",
    "b": "Ria Lis",
    "loai": "nguoi_la",
-   "mo_ta": "đến làm kỵ sĩ cho Ria Lis.",
+   "mo_ta": "Frondier suy đoán Ria Lis có thể là tên giả của Lily.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Kỵ sĩ 1",
-   "b": "Frondier",
-   "loai": "doi_thu",
-   "mo_ta": "nghi ngờ danh tính của Frondier.",
-   "cach_goi": "gọi 'Who are you?', lạnh lùng"
-  },
-  {
-   "a": "Frondier",
-   "b": "Kỵ sĩ 1",
-   "loai": "doi_thu",
-   "mo_ta": "xác nhận danh tính và tuyên bố làm kỵ sĩ.",
-   "cach_goi": "gọi 'You', lạnh lùng"
-  },
-  {
-   "a": "Kỵ sĩ 2",
-   "b": "Frondier",
-   "loai": "doi_thu",
-   "mo_ta": "nhận ra Frondier.",
+   "a": "Lily",
+   "b": "Lilith",
+   "loai": "khac",
+   "mo_ta": "Frondier liên tưởng đến Lilith khi suy đoán về danh tính của Lily.",
    "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Kỵ sĩ 3",
-   "b": "Frondier",
-   "loai": "doi_thu",
-   "mo_ta": "đòi chứng minh năng lực của Frondier.",
-   "cach_goi": "gọi 'You', thô lỗ"
-  },
-  {
-   "a": "Frondier",
-   "b": "Kỵ sĩ 3",
-   "loai": "doi_thu",
-   "mo_ta": "không muốn chứng minh năng lực.",
-   "cach_goi": "gọi 'You', lạnh lùng"
   }
  ],
  "danh_tinh": [
-  "Frondier de Roach: tên đầy đủ của Frondier.",
-  "Aster Evans: tên đầy đủ của Aster."
+  "Ria Lis có thể là tên giả của Lily."
  ],
  "stats": {
-  "tokens": 1008,
-  "seconds": 31.6
+  "tokens": 710,
+  "seconds": 22.2
  }
 }

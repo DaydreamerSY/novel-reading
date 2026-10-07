@@ -1,0 +1,63 @@
+{
+ "number": 929,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào trận chiến giữa Renzo và Tyr. Renzo sử dụng sức mạnh thuần túy để đối đầu với Tyr, nhưng bị áp đảo bởi tốc độ và sức mạnh của đối thủ. Sau khi mất một cánh tay giả, Renzo gỡ bỏ nó hoàn toàn và tiếp tục chiến đấu với sự điên cuồng tăng cao. Trong khi đó, Poseidon quan sát trận chiến từ xa và suy nghĩ về Frondier, đồng thời phát hiện ra một sinh vật bí ẩn trồi lên từ đáy biển sâu.",
+ "boi_canh": "Trận chiến giữa Renzo và Tyr diễn ra tại Palma City.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Renzo",
+  "Monty",
+  "Ares",
+  "Daisy",
+  "Heracles",
+  "Tyr",
+  "Poseidon"
+ ],
+ "su_kien": [
+  "Renzo tấn công Tyr bằng một thanh kiếm.",
+  "Tyr né tránh đòn tấn công của Renzo và phá hủy cánh tay giả của Renzo.",
+  "Renzo tự ý gỡ bỏ cánh tay giả của mình.",
+  "Renzo tung ra một đòn tấn công aura, khiến Tyr bị thương nhẹ.",
+  "Một sinh vật giống như rắn trồi lên từ đáy biển sâu."
+ ],
+ "quan_he": [
+  {
+   "a": "Renzo",
+   "b": "Tyr",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Tyr, không có thái độ đặc biệt"
+  },
+  {
+   "a": "Tyr",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Renzo, không có thái độ đặc biệt"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Quan sát và suy nghĩ về vai trò của Frondier trong các sự kiện gần đây.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Aster",
+   "loai": "ke_thu",
+   "mo_ta": "Cảm thấy thù địch và muốn trừng phạt Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Renzo sử dụng cánh tay giả siêu hợp kim, nhưng bị hỏng sau khi bị Tyr đấm.",
+  "Aster là người đã mạo danh một vị thần."
+ ],
+ "stats": {
+  "tokens": 662,
+  "seconds": 19.9
+ }
+}

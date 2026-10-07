@@ -1,0 +1,96 @@
+{
+ "number": 924,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier suy nghĩ về nguồn gốc của quái vật bên ngoài Tường và chất vấn Hela về vai trò của các vị thần trong việc tạo ra chúng. Anh phát hiện ra rằng các vị thần đã tạo ra quái vật để kiềm chế sự tiến bộ của nhân loại, khiến họ phụ thuộc vào sức mạnh thần thánh. Sau đó, Frondier nhận ra Hela đang cố tình dẫn dắt anh và tìm hiểu lý do đằng sau điều này. Cuối cùng, câu chuyện chuyển đến một cuộc họp của các vị thần Asgard, nơi họ thảo luận về hành động của Frondier và kế hoạch của họ để sử dụng anh ta.",
+ "boi_canh": "Trong hội trường Gladsheim, tại Asgard.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Azier",
+  "Baal",
+  "Arald",
+  "Athena",
+  "Ria Lis",
+  "Odin",
+  "Father",
+  "Thor",
+  "Heracles",
+  "Lucifer",
+  "Lis",
+  "Hela",
+  "Baldur"
+ ],
+ "su_kien": [
+  "Frondier suy nghĩ về nguồn gốc của quái vật bên ngoài Tường.",
+  "Frondier chất vấn Hela về vai trò của các vị thần trong việc tạo ra quái vật.",
+  "Hela tiết lộ rằng các vị thần đã tạo ra quái vật để kiềm chế sự tiến bộ của nhân loại.",
+  "Frondier nhận ra Hela đang cố tình dẫn dắt anh.",
+  "Các vị thần Asgard thảo luận về hành động của Frondier và kế hoạch của họ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hela",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier chất vấn Hela.",
+   "cach_goi": "gọi 'Hela', lạnh lùng"
+  },
+  {
+   "a": "Hela",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu trực tiếp, Hela trả lời chất vấn của Frondier.",
+   "cach_goi": "gọi 'Frondier', lạnh lùng"
+  },
+  {
+   "a": "Baldur",
+   "b": "Odin",
+   "loai": "cap_tren",
+   "mo_ta": "Con trai của Odin, bày tỏ lo ngại.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Thor",
+   "b": "Odin",
+   "loai": "cap_tren",
+   "mo_ta": "Con trai của Odin, bày tỏ sự bất mãn.",
+   "cach_goi": "gọi 'Father', không tôn trọng"
+  },
+  {
+   "a": "Odin",
+   "b": "Baldur",
+   "loai": "cap_tren",
+   "mo_ta": "Cha của Baldur, hỏi ý kiến.",
+   "cach_goi": "gọi tên Baldur, trung lập"
+  },
+  {
+   "a": "Odin",
+   "b": "Thor",
+   "loai": "cap_tren",
+   "mo_ta": "Cha của Thor, hỏi ý kiến.",
+   "cach_goi": "gọi tên Thor, trung lập"
+  }
+ ],
+ "danh_tinh": [
+  "Hela: Có thể không phải là một vị thần thực sự, có liên quan đến Loki."
+ ],
+ "stats": {
+  "tokens": 1007,
+  "seconds": 30.3
+ }
+}

@@ -2,87 +2,108 @@
  "number": 558,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi Frondier từ chối trả lời Belphegor, hắn ta giải phóng một đội quân xác sống khổng lồ tiến về phía Đế Chế. Frondier nhận ra sự vô nghĩa của những nỗ lực chiến đấu của mình trước sức mạnh áp đảo của Belphegor. Trong lúc đó, Aster đang trên đường đến Rào Cản phía Bắc theo chỉ dẫn của Merlin, và gặp Selena cùng Mei trên đường đi. Họ tiết lộ rằng Mei sống với Frondier.",
- "boi_canh": "Địa điểm: Một vùng đất hoang tàn, gần Đế Chế. Thời gian: Trong chiến tranh.",
+ "tom_tat": "Sau khi nhận được chỉ thị từ Cassian, Selena và Aster đã gặp nhau. Để đến được nơi Frondier đang gặp nguy hiểm, họ sử dụng Shadow Transfer với sự giúp đỡ của Mei. Sau đó, Sybil, Elodie và Aten gia nhập nhóm. Cuối cùng, Osprey xuất hiện, tiết lộ rằng việc giải phóng anh ta và khả năng dịch chuyển tức thời của anh ta là một kế hoạch được Frondier vạch ra từ trước.",
+ "boi_canh": "Tại Tyburn, khi các nhân vật chuẩn bị di chuyển đến Manggot.",
  "nhan_vat": [
   "Frondier",
-  "Belphegor",
+  "Elodie",
   "Selena",
   "Aster",
+  "Aten",
+  "Sybil",
+  "Osprey",
+  "Hagley",
   "Mei",
   "Merlin",
-  "Cassian"
+  "Cassian",
+  "Cohen",
+  "Shadow"
  ],
  "su_kien": [
-  "Belphegor giải phóng đội quân xác sống.",
-  "Đội quân xác sống tiến về phía Đế Chế.",
-  "Aster cưỡi ngựa đi đến Rào Cản phía Bắc.",
-  "Aster gặp Selena và Mei trên đường.",
-  "Selena tiết lộ rằng Mei sống với Frondier."
+  "Selena và Aster gặp nhau theo chỉ thị của Frondier.",
+  "Aster, Selena và Mei sử dụng Shadow Transfer để di chuyển nhanh chóng.",
+  "Sybil, Elodie và Aten gia nhập nhóm.",
+  "Osprey xuất hiện, tiết lộ kế hoạch được Frondier vạch ra trước.",
+  "Osprey giải thích về khả năng dịch chuyển tức thời của mình thông qua các cổng không gian."
  ],
  "quan_he": [
-  {
-   "a": "Frondier",
-   "b": "Belphegor",
-   "loai": "ke_thu",
-   "mo_ta": "Địch thủ, Belphegor chế nhạo sự bất lực của Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Belphegor",
-   "b": "Frondier",
-   "loai": "ke_thu",
-   "mo_ta": "Kẻ thù, Belphegor chế nhạo và khiêu khích Frondier.",
-   "cach_goi": "gọi 'You', trịch thượng"
-  },
   {
    "a": "Aster",
    "b": "Selena",
    "loai": "ban_be",
-   "mo_ta": "Bạn bè, Aster vui mừng khi gặp lại Selena.",
+   "mo_ta": "đồng minh, cùng nhau giúp Frondier.",
    "cach_goi": "gọi tên Selena, thân mật"
   },
   {
    "a": "Selena",
    "b": "Aster",
    "loai": "ban_be",
-   "mo_ta": "Bạn bè, Selena giải thích tình hình cho Aster.",
+   "mo_ta": "đồng minh, cùng nhau giúp Frondier.",
    "cach_goi": "gọi tên Aster, thân mật"
   },
   {
    "a": "Aster",
    "b": "Mei",
    "loai": "nguoi_la",
-   "mo_ta": "Người lạ, Aster tò mò về Mei.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Mei",
-   "b": "Aster",
-   "loai": "nguoi_la",
-   "mo_ta": "Người lạ, Mei giới thiệu bản thân với Aster.",
+   "mo_ta": "Aster quan sát Mei, không có tương tác trực tiếp.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Selena",
-   "b": "Cassian",
-   "loai": "nguoi_la",
-   "mo_ta": "Người lạ, Selena đang cưỡi Cassian.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "hợp tác sử dụng Shadow Transfer.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "hợp tác sử dụng Shadow Transfer.",
+   "cach_goi": "gọi tên Selena, thân mật"
   },
   {
    "a": "Aster",
-   "b": "Cassian",
-   "loai": "nguoi_la",
-   "mo_ta": "Người lạ, Aster nhận ra Cassian.",
+   "b": "Sybil",
+   "loai": "dong_minh",
+   "mo_ta": "Aster chào Sybil khi gặp lại.",
    "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Aster",
+   "loai": "dong_minh",
+   "mo_ta": "Sybil chào Aster khi gặp lại.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Osprey",
+   "b": "Aster",
+   "loai": "cap_tren",
+   "mo_ta": "Osprey giải thích kế hoạch của Frondier cho Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Osprey",
+   "loai": "nguoi_la",
+   "mo_ta": "Selena bày tỏ sự ngạc nhiên về khả năng của Osprey.",
+   "cach_goi": "gọi tên Osprey, lễ phép"
+  },
+  {
+   "a": "Osprey",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Osprey trấn an Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
   }
  ],
  "danh_tinh": [
-  "Mei: Tên được đặt bởi Frondier cho dạng nữ của Metamorp."
+  "Aster Evans (tên đầy đủ của Aster)",
+  "Aten Terst (tên đầy đủ của Aten, tam công chúa)"
  ],
  "stats": {
-  "tokens": 903,
-  "seconds": 28.3
+  "tokens": 1084,
+  "seconds": 34.0
  }
 }

@@ -1,0 +1,73 @@
+{
+ "number": 670,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Lunia tiến vào chiến trường hỗn loạn với những chiếc cân bằng bị nghiêng, không gặp phải sự cản trở nào từ quỷ dữ. Elodie lo lắng về việc sử dụng mana của mình để bắt giữ quỷ và băn khoăn liệu hành động của Lunia có thể gây ra sự phẫn nộ của các vị thần hay không. Cuối cùng, Rudra, một trong những vị thần mà Elodie gần gũi nhất, trả lời những lo ngại của cô.",
+ "boi_canh": "Trên chiến trường hỗn loạn, giữa trận chiến với quỷ dữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Lunia",
+  "Rudra"
+ ],
+ "su_kien": [
+  "Lunia đi qua chiến trường mà không bị quỷ dữ cản trở.",
+  "Elodie lo lắng về việc sử dụng mana của mình để bắt giữ quỷ.",
+  "Elodie quan sát Lunia sử dụng những chiếc cân bằng và lo ngại về sức mạnh ngày càng tăng của chúng.",
+  "Rudra trả lời câu hỏi của Elodie về khả năng các vị thần sẽ trừng phạt Lunia.",
+  "Rudra bày tỏ sự thích thú với việc Lunia cố gắng mô phỏng sức mạnh của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Lunia",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie lo lắng cho Lunia.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Lunia",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie quan sát và lo lắng cho Lunia.",
+   "cach_goi": "gọi tên Lunia, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Aster giao nhiệm vụ cho Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aster",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Elodie nhận nhiệm vụ từ Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Rudra",
+   "loai": "cap_tren",
+   "mo_ta": "Elodie tìm kiếm lời khuyên từ Rudra.",
+   "cach_goi": "gọi tên Rudra, lễ phép"
+  },
+  {
+   "a": "Rudra",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "Rudra trả lời câu hỏi của Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Dike: vị thần công lý và sự cân bằng, là hình mẫu cho những chiếc cân mà Lunia tạo ra. Không phải là một vật phẩm thực tế mà là nguồn cảm hứng.",
+  "Rudra: vị thần mà Elodie gần gũi nhất."
+ ],
+ "stats": {
+  "tokens": 829,
+  "seconds": 25.9
+ }
+}

@@ -2,75 +2,129 @@
  "number": 550,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi Selena lau đi nước mắt, cô tiếp cận Hagley bị liệt và sử dụng một kỹ thuật cấm của Manggot để liên kết với bóng tối của anh ta. Cô tiết lộ rằng mình đã phải trả giá đắt để làm chủ kỹ thuật này và giờ đây có thể can thiệp vào các bóng tối khác. Selena rời đi sau khi bày tỏ sự thất vọng về Hagley, và ngay lập tức một trận chiến lớn nổ ra tại rào cản phía bắc. Frondier thông báo rằng rào cản sẽ sụp đổ theo kế hoạch, và mọi người phải chuẩn bị cho khả năng đó.",
- "boi_canh": "Trong phòng họp của Manggot, thời điểm trước khi rào cản phía bắc sụp đổ.",
+ "tom_tat": "Frondier đề xuất một chiến lược mới để đối phó với Manggot, trong đó ông sẽ trở thành 'Cửa sổ' mà toàn bộ Đế quốc tập trung tấn công. Ông sử dụng phép thuật 'Phục hồi' được khắc vào rune để đánh lừa và dụ dỗ kẻ thù đến phía bắc, tạo cơ hội cho Selena và Mei thực hiện cuộc tấn công bất ngờ. Cuối cùng, Kỵ binh Roach, lực lượng tinh nhuệ nhất của Đế quốc, tham chiến.",
+ "boi_canh": "Trong phòng họp chiến lược của Đế quốc, thời điểm quan trọng trước khi rào cản sụp đổ.",
  "nhan_vat": [
   "Frondier",
   "Selena",
-  "Enfer",
+  "Philly",
+  "Aten",
   "Osprey",
-  "Hagley",
   "Malia",
+  "Sylvain",
   "Mei",
-  "Cassian",
-  "Shadow"
+  "Ludwig"
  ],
  "su_kien": [
-  "Selena tiếp cận Hagley bị liệt.",
-  "Selena sử dụng kỹ thuật Transfer cấm để kết nối với bóng tối của Hagley.",
-  "Selena tiết lộ về những khó khăn trong quá trình làm chủ kỹ thuật Transfer.",
-  "Một trận chiến lớn nổ ra tại rào cản phía bắc.",
-  "Frondier thông báo về sự sụp đổ sắp tới của rào cản."
+  "Frondier đề xuất chiến lược mới, biến mình thành mục tiêu tập trung của Đế quốc.",
+  "Ông sử dụng phép 'Phục hồi' được khắc vào rune để đánh lừa kẻ thù.",
+  "Selena và Mei thực hiện cuộc tấn công bất ngờ lên Manggot ở phía bắc.",
+  "Kỵ binh Roach tham chiến, tạo nên một làn sóng tấn công mạnh mẽ.",
+  "Rào cản phía bắc sắp sụp đổ."
  ],
  "quan_he": [
   {
-   "a": "Selena",
-   "b": "Hagley",
-   "loai": "doi_thu",
-   "mo_ta": "Selena sử dụng Hagley để thực hiện Transfer.",
-   "cach_goi": "gọi tên Hagley, lạnh lùng"
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier trình bày chiến lược cho cấp trên.",
+   "cach_goi": "gọi tên Aten, lễ phép"
   },
   {
-   "a": "Hagley",
-   "b": "Selena",
-   "loai": "doi_thu",
-   "mo_ta": "Hagley bị Selena thao túng.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Enfer",
+   "a": "Aten",
    "b": "Frondier",
    "loai": "cap_tren",
-   "mo_ta": "Enfer báo cáo tình hình chiến sự cho Frondier.",
-   "cach_goi": "gọi tên Frondier, không rõ"
+   "mo_ta": "Aten lắng nghe và đặt câu hỏi cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
   },
   {
    "a": "Frondier",
-   "b": "Enfer",
+   "b": "Philly",
    "loai": "cap_tren",
-   "mo_ta": "Frondier thông báo kế hoạch cho Enfer.",
-   "cach_goi": "gọi tên Enfer, không rõ"
+   "mo_ta": "Frondier trình bày chiến lược cho cấp trên.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Philly thể hiện sự ngạc nhiên và hiểu ra ý tưởng của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Osprey",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier trình bày chiến lược, Osprey thể hiện sự ngạc nhiên.",
+   "cach_goi": "gọi tên Osprey, không nói chuyện trực tiếp"
   },
   {
    "a": "Osprey",
    "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Osprey bày tỏ sự ngạc nhiên về việc Frondier khắc rune cho phép 'Phục hồi'.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludwig",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier nhắc đến kinh nghiệm của Ludwig về phép 'Phục hồi'.",
+   "cach_goi": "gọi tên Ludwig, lễ phép"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Ludwig gật đầu đồng ý với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
    "loai": "ban_be",
-   "mo_ta": "Osprey đưa Frondier đến một căn phòng.",
+   "mo_ta": "Frondier lên kế hoạch cho Selena tham gia tấn công.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Hai người đối diện nhau trong chiến trường.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
    "b": "Mei",
    "loai": "ban_be",
-   "mo_ta": "Mei rời đi mà không dùng Restoration.",
+   "mo_ta": "Frondier lên kế hoạch cho Mei tham gia tấn công.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Hai người đối diện nhau trong chiến trường.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "gia_dinh",
+   "mo_ta": "Malia ra lệnh cho Kỵ binh Roach tham chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sylvain",
+   "b": "Malia",
+   "loai": "cap_tren",
+   "mo_ta": "Sylvain nhận lệnh từ Malia.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
- "danh_tinh": [
-  "Selena đã từng sử dụng Transfer với Malia và Cassian, gây ra ảnh hưởng lớn đến sức khỏe của cô."
- ],
+ "danh_tinh": [],
  "stats": {
-  "tokens": 822,
-  "seconds": 25.8
+  "tokens": 1386,
+  "seconds": 43.4
  }
 }

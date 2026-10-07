@@ -2,81 +2,64 @@
  "number": 586,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi Lily bảo vệ Ameline, Frondier cố gắng hiểu động cơ của cô ta. Anh nhận ra Lily hành động vì lợi ích bản thân và có thể bị điều khiển bằng cách khai thác mong muốn của cô ta. Cuộc trò chuyện giữa họ tiết lộ quá khứ cô đơn của cả hai, khiến Lily cảm thấy đồng cảm với Frondier. Cuối cùng, Lily chấp nhận trở thành hiệp sĩ của Frondier trong một tháng, nhưng đưa ra những điều kiện khắc nghiệt và ám chỉ về việc anh cũng có thể bị ảnh hưởng bởi 'Charm' mà không hề hay biết.",
- "boi_canh": "Trong xưởng rèn, vào thời điểm Frondier và Lily đang tranh luận về động cơ của nhau.",
+ "tom_tat": "Sau khi kết thúc nhiệm vụ hầu cận cho Lily, Frondier tiếp tục nhận các nhiệm vụ tương tự như những hiệp sĩ khác nhưng lại gặp nhiều rắc rối hơn do địa vị của anh. Anh cũng phải đối mặt với sự chú ý và kỳ vọng từ những người xung quanh về cách cư xử. Trong một cuộc trò chuyện riêng tư với Lily, Frondier bắt đầu khám phá bí ẩn về nguồn gốc của cô, đặc biệt là khả năng cô không thể quay trở lại thế giới Demon Realm.",
+ "boi_canh": "Một buổi tiệc của các quý tộc cao cấp, thời điểm hiện tại.",
  "nhan_vat": [
   "Frondier",
   "Lily",
-  "Ludwig",
-  "Gregory",
   "Ameline",
-  "Ria Lis",
-  "Lis"
+  "Sophie",
+  "Shadow"
  ],
  "su_kien": [
-  "Lily bảo vệ Ameline.",
-  "Frondier cố gắng hiểu động cơ của Lily.",
-  "Lily tiết lộ quá khứ cô đơn và thiếu ký ức về Vương quốc Quỷ.",
-  "Lily chấp nhận trở thành hiệp sĩ của Frondier trong một tháng với những điều kiện khắc nghiệt.",
-  "Frondier kích hoạt xưởng rèn, kết thúc cuộc trò chuyện."
+  "Frondier tiếp tục nhận các nhiệm vụ như một hiệp sĩ sau khi kết thúc nhiệm vụ cho Lily.",
+  "Sophie von Meyer thuê Frondier làm hiệp sĩ để tăng thêm sự uy tín cho gia đình bà.",
+  "Frondier phải học cách cư xử phù hợp trong các buổi tiệc của quý tộc, bao gồm cả việc mỉm cười theo yêu cầu.",
+  "Frondier bắt đầu đặt câu hỏi về nguồn gốc của Lily và khả năng cô không thể quay trở lại thế giới Demon Realm.",
+  "Lily tiết lộ rằng cô không có ký ức về thời gian ở thế giới Demon Realm."
  ],
  "quan_he": [
   {
    "a": "Frondier",
    "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đặt câu hỏi về quá khứ của Lily, cô trả lời một cách bí ẩn.",
+   "cach_goi": "gọi tên 'Lily-nim', lễ phép"
+  },
+  {
+   "a": "Sophie",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Sophie là người thuê Frondier, đánh giá cao vẻ ngoài và khí chất của anh.",
+   "cach_goi": "gọi tên 'Sir Frondier', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ameline",
    "loai": "doi_thu",
-   "mo_ta": "Frondier cố gắng phân tích và điều khiển Lily.",
-   "cach_goi": "gọi tên Lily, lạnh lùng"
+   "mo_ta": "Frondier quan tâm đến Ameline và những rủi ro liên quan đến cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Lily",
-   "b": "Frondier",
-   "loai": "nguoi_la",
-   "mo_ta": "Lily tò mò và có phần đồng cảm với Frondier.",
-   "cach_goi": "gọi tên Frondier, thân mật"
-  },
-  {
-   "a": "Frondier",
+   "a": "Shadow",
    "b": "Ameline",
-   "loai": "dong_minh",
-   "mo_ta": "Frondier quan tâm đến sự an toàn của Ameline.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Lily",
-   "b": "Ameline",
-   "loai": "nguoi_la",
-   "mo_ta": "Lily bảo vệ Ameline vì động cơ cá nhân.",
+   "loai": "ke_thu",
+   "mo_ta": "Shadow Unit đang theo dõi Ameline.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
-   "b": "Gregory",
-   "loai": "thay_tro",
-   "mo_ta": "Gregory là người cố vấn cho Frondier.",
+   "b": "Sophie",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier là hiệp sĩ của Sophie, tuân theo mệnh lệnh của bà.",
    "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Ria Lis",
-   "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Lily (dưới danh nghĩa Ria Lis) chấp nhận điều kiện của Frondier.",
-   "cach_goi": "gọi tên Frondier, trịch thượng"
-  },
-  {
-   "a": "Frondier",
-   "b": "Ria Lis",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier chấp nhận Lily (dưới danh nghĩa Ria Lis) làm hiệp sĩ của mình.",
-   "cach_goi": "gọi tên Ria Lis, lạnh lùng"
   }
  ],
  "danh_tinh": [
-  "Lily sử dụng tên Ria Lis.",
-  "Lis là một cách gọi khác của Lily."
+  "Biệt danh 'human sloth' của Frondier trong Constel."
  ],
  "stats": {
-  "tokens": 899,
-  "seconds": 28.2
+  "tokens": 756,
+  "seconds": 23.8
  }
 }

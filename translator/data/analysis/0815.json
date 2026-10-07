@@ -1,0 +1,57 @@
+{
+ "number": 815,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cuộc trò chuyện giữa Frondier và Aias về khái niệm anh hùng. Frondier giải thích rằng trở thành một anh hùng đòi hỏi sự quyết định chủ động, không phải là số phận. Sau đó, Frondier sử dụng Black Thread để minh họa cho sự khác biệt giữa một cuộc sống thụ động (như nước chảy) và một cuộc đời đã đưa ra quyết định (tạo thành tinh thể). Cuối cùng, Frondier bắt đầu chuẩn bị cho việc dạy Elodie về ma thuật kết hợp với chiến đấu, tiết lộ Workshop bí mật của mình.",
+ "boi_canh": "Một không gian huấn luyện, có lẽ là trong lâu đài hoặc một địa điểm tương tự.",
+ "nhan_vat": [
+  "Frondier",
+  "Aias",
+  "Elodie",
+  "Jeanne (đề cập)"
+ ],
+ "su_kien": [
+  "Frondier và Aias tranh luận về định nghĩa của một anh hùng.",
+  "Frondier sử dụng Black Thread để minh họa sự khác biệt giữa cuộc sống thụ động và một cuộc đời có quyết định.",
+  "Aias nhận ra rằng sự do dự của mình khiến anh ấy tụt lại phía sau.",
+  "Frondier tiết lộ Workshop bí mật của mình cho Elodie.",
+  "Elodie bày tỏ sự kinh ngạc trước sức mạnh và tính độc đáo của Workshop."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aias",
+   "loai": "thay_tro",
+   "mo_ta": "Giảng viên và học trò; Frondier cố gắng giúp Aias hiểu rõ hơn về bản thân.",
+   "cach_goi": "gọi tên Aias, thân mật"
+  },
+  {
+   "a": "Aias",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò, đang tìm kiếm sự hướng dẫn từ người thầy của mình.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết; Frondier đang chia sẻ một bí mật quan trọng với Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết; Elodie tò mò và thông minh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Workshop: Một không gian đặc biệt được tạo ra bởi kỹ năng 'Weaving' của Frondier, có thể tái tạo vũ khí và thậm chí cả chính nó."
+ ],
+ "stats": {
+  "tokens": 711,
+  "seconds": 21.5
+ }
+}

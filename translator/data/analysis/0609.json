@@ -2,73 +2,63 @@
  "number": 609,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Frondier bị Arald đề nghị trở thành Vua Quỷ và tham gia vào các sự kiện liên quan đến Chiến tranh Quỷ. Arald giải thích rằng việc Frondier lãnh đạo quỷ của Đế Chế sẽ giúp ngăn chặn chiến tranh và có thể là một bước đệm để đạt được mục tiêu lớn hơn. Cuộc trò chuyện xoay quanh tầm quan trọng của việc quỷ có một người lãnh đạo và những lý do sâu xa hơn đằng sau đề nghị kỳ lạ này.",
- "boi_canh": "Trong phòng làm việc, thời điểm hiện tại.",
+ "tom_tat": "Sau khi Arald tiết lộ thông tin về mana của Helheim và mạng lưới tình báo của mình, Frondier đã truy lùng và bắt giữ một quản lý liên quan đến các hoạt động tội phạm của quỷ dữ. Olivier, kẻ chủ mưu, bị Frondier đối mặt và sử dụng sức mạnh bí ẩn để khiến hắn bất tỉnh trong trạng thái kinh hoàng. Cuối cùng, Frondier suy ngẫm về nguồn gốc sức mạnh của quỷ dữ và cách anh đã từng đánh bại linh hồn ma quái ở Helheim.",
+ "boi_canh": "Trong một căn phòng chứa đầy bằng chứng tội phạm dưới lòng đất của Tyburn.",
  "nhan_vat": [
   "Frondier",
+  "Laurie",
   "Arald",
-  "Odin",
-  "Astaroth",
-  "Lucifer",
-  "Zeus"
+  "Olivier"
  ],
  "su_kien": [
-  "Arald đề nghị Frondier trở thành Vua Quỷ.",
-  "Frondier hỏi về vai trò của Bảy Tội Lỗi và vị trí của Astaroth.",
-  "Arald giải thích lý do tại sao Frondier nên lãnh đạo quỷ của Đế Chế.",
-  "Cuộc thảo luận xoay quanh tầm quan trọng của việc có một người lãnh đạo cho thế giới quỷ.",
-  "Frondier đặt câu hỏi về cách anh ta có thể lãnh đạo quỷ mà không phải là một con quỷ."
+  "Arald tiết lộ thông tin về mana của Helheim và mạng lưới tình báo.",
+  "Frondier bắt giữ một quản lý liên quan đến các hoạt động tội phạm của quỷ dữ.",
+  "Olivier bị Frondier sử dụng sức mạnh bí ẩn khiến bất tỉnh trong trạng thái kinh hoàng.",
+  "Frondier suy ngẫm về nguồn gốc sức mạnh của quỷ dữ.",
+  "Olivier bị tê liệt hoàn toàn, biểu hiện sự kinh hãi trên khuôn mặt."
  ],
  "quan_he": [
   {
    "a": "Frondier",
    "b": "Arald",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier là cấp dưới của Arald, lắng nghe và đặt câu hỏi về đề nghị của Arald.",
-   "cach_goi": "gọi tên Arald, không nói chuyện trực tiếp"
+   "loai": "thay_tro",
+   "mo_ta": "Frondier hỏi Arald về thông tin và kiến thức của anh ta.",
+   "cach_goi": "gọi tên Arald, lễ phép"
   },
   {
    "a": "Arald",
    "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Arald là người đưa ra đề nghị và giải thích cho Frondier.",
+   "loai": "thay_tro",
+   "mo_ta": "Arald cung cấp thông tin cho Frondier.",
    "cach_goi": "gọi tên Frondier, thân mật"
   },
   {
    "a": "Frondier",
-   "b": "Odin",
-   "loai": "khac",
-   "mo_ta": "Đề cập đến Odin trong bối cảnh quyền lực của các vị thần.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "b": "Olivier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier buộc tội Olivier.",
+   "cach_goi": "gọi tên Olivier, lạnh lùng"
+  },
+  {
+   "a": "Olivier",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Olivier phản đối và thách thức Frondier.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
   },
   {
    "a": "Frondier",
-   "b": "Astaroth",
-   "loai": "khac",
-   "mo_ta": "Đề cập đến Astaroth trong bối cảnh Bảy Tội Lỗi.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Lucifer",
-   "loai": "khac",
-   "mo_ta": "Đề cập đến Lucifer trong bối cảnh Bảy Tội Lỗi và vị trí Vua Quỷ.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
-   "b": "Zeus",
-   "loai": "khac",
-   "mo_ta": "Đề cập đến Zeus trong bối cảnh quyền lực của các vị thần.",
+   "b": "Laurie",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhắc lại ký ức về Laurie, không tương tác trực tiếp.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Bảy Tội Lỗi: Các quỷ có tên và vai trò tương ứng với những tội lỗi, không liên quan đến Kinh Thánh.",
-  "Astaroth: Quỷ đang nắm giữ vị trí 'Sloth' (Lười Biếng) trong Bảy Tội Lỗi."
+  "Olivier: Quản lý liên quan đến các hoạt động tội phạm của quỷ dữ."
  ],
  "stats": {
-  "tokens": 884,
-  "seconds": 27.3
+  "tokens": 730,
+  "seconds": 22.6
  }
 }

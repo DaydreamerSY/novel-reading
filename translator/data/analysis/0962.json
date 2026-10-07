@@ -1,0 +1,216 @@
+{
+ "number": 962,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mô tả một trận chiến căng thẳng giữa các vị thần Olympus và quân đội của Frondier. Osprey sử dụng phép thuật khó đoán để tấn công, buộc quân lính phải liên tục di chuyển. Athena và Artemis tham gia trận chiến với sức mạnh đáng kinh ngạc, nhưng Jane và các thành viên Zodiac đã xuất hiện để hỗ trợ, tạo ra một cuộc hỗn loạn trên chiến trường. Dier Aiger quan sát tình hình và lo lắng về khả năng của Zodiac khi đối mặt với các vị thần cấp cao.",
+ "boi_canh": "Một trận chiến ác liệt giữa quân đội của Frondier và các vị thần Olympus.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Dier",
+  "Jane",
+  "Edwin",
+  "Sanders",
+  "Athena",
+  "Daisy",
+  "Artemis",
+  "Zeus",
+  "Dier Aiger"
+ ],
+ "su_kien": [
+  "Osprey tấn công bằng phép thuật khó đoán, buộc quân lính phải liên tục di chuyển.",
+  "Athena và Artemis tham gia trận chiến với sức mạnh đáng kinh ngạc.",
+  "Jane và các thành viên Zodiac xuất hiện để hỗ trợ.",
+  "Các thành viên Zodiac tấn công các vị thần Olympus.",
+  "Dier Aiger lo lắng về khả năng của Zodiac khi đối mặt với các vị thần cấp cao."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "khac",
+   "mo_ta": "Một người quan sát trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Giáo viên Constel, từng là người tạm quyền hiệu trưởng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "khac",
+   "mo_ta": "Nghiên cứu viên về phép thuật tăng cường thể chất.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sanders",
+   "loai": "cap_tren",
+   "mo_ta": "Chỉ huy quân đội.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Athena",
+   "loai": "doi_thu",
+   "mo_ta": "Một trong mười hai vị thần Olympus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Artemis",
+   "loai": "doi_thu",
+   "mo_ta": "Một trong mười hai vị thần Olympus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Zeus",
+   "loai": "doi_thu",
+   "mo_ta": "Một trong mười hai vị thần Olympus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Người có phép thuật mạnh mẽ, người thầy của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Elodie",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Dier",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Edwin",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Sanders",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Athena",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến.",
+   "cach_goi": "thô lỗ"
+  },
+  {
+   "a": "Athena",
+   "b": "Osprey",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến.",
+   "cach_goi": "lạnh lùng"
+  },
+  {
+   "a": "Osprey",
+   "b": "Artemis",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến.",
+   "cach_goi": "thô lỗ"
+  },
+  {
+   "a": "Artemis",
+   "b": "Osprey",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến.",
+   "cach_goi": "lạnh lùng"
+  },
+  {
+   "a": "Osprey",
+   "b": "Zeus",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến.",
+   "cach_goi": "thô lỗ"
+  },
+  {
+   "a": "Zeus",
+   "b": "Osprey",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ trong trận chiến.",
+   "cach_goi": "lạnh lùng"
+  },
+  {
+   "a": "Jane",
+   "b": "Osprey",
+   "loai": "thay_tro",
+   "mo_ta": "Người từng được Frondier giúp đỡ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Dier Aiger",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jane",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè và đồng nghiệp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier Aiger",
+   "b": "Edwin",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè và đồng nghiệp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier Aiger",
+   "b": "Daisy",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Daisy",
+   "b": "Dier Aiger",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội trong trận chiến.",
+   "cach_goi": "thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 2072,
+  "seconds": 62.3
+ }
+}

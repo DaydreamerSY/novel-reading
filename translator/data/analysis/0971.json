@@ -1,0 +1,110 @@
+{
+ "number": 971,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi sử dụng hết mana trong một trận chiến, Frondier bất ngờ được Arthur giải cứu và đưa đến một bãi chiến trường với sự hiện diện của những người hùng vĩ đại từ quá khứ. Jeanne d'Arc yêu cầu Frondier ra lệnh cho họ, nhưng anh quyết định tuyên bố thay vì ra lệnh, khiến mọi người xung quanh kinh ngạc. Cuộc chiến giữa các vị thần và người khổng lồ bắt đầu, và sự xuất hiện của Azier cùng với những ký ức ngắn ngủi về Mei đã mang lại một tia hy vọng cho phe nhân loại.",
+ "boi_canh": "Một bãi chiến trường hỗn loạn, nơi diễn ra cuộc chiến giữa các vị thần và người hùng.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Azier",
+  "Osprey",
+  "Merlin",
+  "Arthur",
+  "Jeanne",
+  "Zeus",
+  "Sigurd",
+  "Bellerophon",
+  "Roland",
+  "Mei",
+  "Loki",
+  "Enfer"
+ ],
+ "su_kien": [
+  "Frondier sử dụng hết mana và gần như chết.",
+  "Arthur giải cứu Frondier khỏi bãi chiến trường.",
+  "Sự xuất hiện của những người hùng vĩ đại: Bellerophon, Sigurd, Roland,...",
+  "Jeanne d'Arc yêu cầu Frondier ra lệnh cho các vị anh hùng.",
+  "Frondier tuyên bố thay vì ra lệnh và Jeanne d’Arc dẫn đầu cuộc tấn công vào các vị thần."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Arthur",
+   "loai": "nguoi_la",
+   "mo_ta": "Arthur giải cứu Frondier khỏi hiểm nguy.",
+   "cach_goi": "gọi tên Arthur, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arthur",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Arthur giải cứu và đưa Frondier đến một nơi an toàn.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jeanne",
+   "loai": "dong_minh",
+   "mo_ta": "Jeanne yêu cầu Frondier ra lệnh cho các vị anh hùng.",
+   "cach_goi": "gọi tên Jeanne, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jeanne",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Jeanne thúc giục Frondier ra lệnh và bày tỏ sự thất vọng khi anh yếu ớt.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Hai anh em gặp lại nhau trên chiến trường.",
+   "cach_goi": "gọi tên Azier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Hai anh em gặp lại nhau trên chiến trường.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Mei đến bên Frondier với những ký ức ngắn ngủi.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Frondier gặp lại Mei với những ký ức ngắn ngủi.",
+   "cach_goi": "gọi tên Mei, thân mật"
+  },
+  {
+   "a": "Zeus",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Zeus lo lắng về Aster và ra lệnh tấn công Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Enfer nhìn Frondier với vẻ mặt ngạc nhiên và lo lắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Dragon Heart: Một vật phẩm do Frondier tạo ra, được Mei trao cho anh."
+ ],
+ "stats": {
+  "tokens": 1200,
+  "seconds": 36.1
+ }
+}

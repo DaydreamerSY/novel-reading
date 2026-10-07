@@ -1,0 +1,172 @@
+{
+ "number": 938,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier, thông qua thị giác của Hestia, chứng kiến một cuộc trò chuyện bí mật giữa các anh hùng vĩ đại như Jeanne d'Arc, Arthur Pendragon và Sigurd. Họ đang lên kế hoạch triệu hồi một người từ thế giới khác để cứu lấy nhân loại, nhưng lại giấu diếm sự thật về mục đích thực sự của phép thuật này từ những người khác. Loki xuất hiện và tiết lộ rằng Merlin đã biết về kế hoạch này và cố tình giữ bí mật. Cuối cùng, họ thảo luận về những tiêu chuẩn mà người được triệu hồi phải đáp ứng, bao gồm cả khả năng chịu đựng những khó khăn tột độ. Frondier nhận ra rằng cuộc trò chuyện này có lẽ là về anh.",
+ "boi_canh": "Bên trong Workshop bí mật, vào một thời điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Merlin",
+  "Frondier de Roach",
+  "Arthur",
+  "Jeanne",
+  "Sigurd",
+  "Atalante",
+  "Loki"
+ ],
+ "su_kien": [
+  "Các anh hùng thảo luận về việc triệu hồi một người từ thế giới khác để cứu nhân loại.",
+  "Loki tiết lộ rằng Merlin đã biết về kế hoạch và giữ bí mật.",
+  "Jeanne d'Arc bày tỏ sự lo lắng về những rủi ro liên quan đến phép thuật này.",
+  "Sigurd đưa ra các tiêu chuẩn mà người được triệu hồi phải đáp ứng.",
+  "Loki đặt cược về đôi mắt của người được triệu hồi, dự đoán anh ta sẽ có vẻ ngoài tuyệt vọng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không biết nhau, Frondier quan sát Elodie từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Merlin",
+   "loai": "nguoi_la",
+   "mo_ta": "Không biết nhau, Frondier quan sát Merlin từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Arthur",
+   "loai": "nguoi_la",
+   "mo_ta": "Không biết nhau, Frondier quan sát Arthur từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jeanne",
+   "loai": "nguoi_la",
+   "mo_ta": "Không biết nhau, Frondier quan sát Jeanne từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Sigurd",
+   "loai": "nguoi_la",
+   "mo_ta": "Không biết nhau, Frondier quan sát Sigurd từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Atalante",
+   "loai": "nguoi_la",
+   "mo_ta": "Không biết nhau, Frondier quan sát Atalante từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Loki",
+   "loai": "nguoi_la",
+   "mo_ta": "Không biết nhau, Frondier quan sát Loki từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jeanne",
+   "b": "Atalante",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Atalante an ủi Jeanne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Merlin",
+   "b": "Arthur",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng minh, Merlin đồng ý với quan điểm của Arthur.",
+   "cach_goi": "gọi tên Arthur, lễ phép"
+  },
+  {
+   "a": "Arthur",
+   "b": "Merlin",
+   "loai": "cap_tren",
+   "mo_ta": "Đồng minh, Arthur bày tỏ sự đồng tình với Merlin.",
+   "cach_goi": "gọi tên Merlin, lễ phép"
+  },
+  {
+   "a": "Sigurd",
+   "b": "Jeanne",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Sigurd phản đối Jeanne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jeanne",
+   "b": "Sigurd",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Jeanne phản đối Sigurd.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jeanne",
+   "b": "Merlin",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu, Jeanne chất vấn Merlin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Merlin",
+   "b": "Jeanne",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu, Merlin trả lời câu hỏi của Jeanne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Loki",
+   "b": "Merlin",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu, Loki chỉ trích Merlin.",
+   "cach_goi": "gọi tên Merlin, lạnh lùng"
+  },
+  {
+   "a": "Merlin",
+   "b": "Loki",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu, Merlin trả lời Loki.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Loki",
+   "b": "Jeanne",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Loki đặt câu hỏi cho Jeanne.",
+   "cach_goi": "gọi tên Jeanne, thân mật"
+  },
+  {
+   "a": "Jeanne",
+   "b": "Loki",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Jeanne phản ứng với Loki.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Loki",
+   "b": "Arthur",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Loki nói chuyện với Arthur.",
+   "cach_goi": "gọi tên Arthur, thân mật"
+  },
+  {
+   "a": "Arthur",
+   "b": "Loki",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Arthur trả lời Loki.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1750,
+  "seconds": 52.8
+ }
+}

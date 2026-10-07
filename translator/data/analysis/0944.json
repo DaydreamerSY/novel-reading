@@ -1,0 +1,105 @@
+{
+ "number": 944,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tiêm mana vào ba nữ thần Moirai chín lần, Frondier xác nhận họ đã chết. Selena lo lắng về linh hồn của Azier và sử dụng đá mana để ổn định sức mạnh của mình. Một trận động đất lớn xảy ra, báo hiệu một sự kiện quan trọng liên quan đến những lời tiên tri cổ xưa và sự trỗi dậy của một đế chế.",
+ "boi_canh": "Một đoạn đường dẫn vào Tartarus, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Sybil",
+  "Azier",
+  "Penelope",
+  "Shadow",
+  "Zeus",
+  "King of Palma",
+  "Retainer"
+ ],
+ "su_kien": [
+  "Frondier tiêm mana vào ba nữ thần Moirai chín lần, khiến họ chết.",
+  "Selena sử dụng đá mana để ổn định sức mạnh của mình sau khi hấp thụ nó.",
+  "Một trận động đất lớn xảy ra, làm rung chuyển mặt đất và gây hoang mang cho mọi người.",
+  "Biển bắt đầu rút nước, lộ ra lục địa Agoris cổ đại.",
+  "Vua Palma tiết lộ một câu chuyện về Etius/Falind và sự kiện thảm khốc trong quá khứ."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh tin cậy, Frondier lo lắng cho sức khỏe của Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh tin cậy, Selena quan tâm đến sức khỏe của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, Frondier lo lắng cho linh hồn của Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Penelope hỗ trợ Frondier bằng vải của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Đồng minh, Selena sử dụng vải của Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "King of Palma",
+   "b": "Retainer",
+   "loai": "cap_tren",
+   "mo_ta": "Vua và tùy tùng thân cận, vua đang chia sẻ một câu chuyện bí mật.",
+   "cach_goi": "gọi tên Retainer, lễ phép"
+  },
+  {
+   "a": "Retainer",
+   "b": "King of Palma",
+   "loai": "cap_tren",
+   "mo_ta": "Tùy tùng và vua, Retainer lắng nghe câu chuyện của vua.",
+   "cach_goi": "gọi tên Vua, lễ phép"
+  },
+  {
+   "a": "Jormungandr",
+   "b": "Sybil",
+   "loai": "khac",
+   "mo_ta": "Sybil đang cưỡi trên Jormungandr, họ có mối quan hệ hợp tác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Jormungandr",
+   "loai": "doi_thu",
+   "mo_ta": "Hai đối thủ đang chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Sybil",
+   "loai": "doi_thu",
+   "mo_ta": "Poseidon muốn bắt giữ Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Etius (Falind): Một lục địa cổ đại, có lẽ là tiền thân của Agoris.",
+  "Agoris: Lục địa hiện tại, nơi Frondier đang ở."
+ ],
+ "stats": {
+  "tokens": 1129,
+  "seconds": 34.4
+ }
+}

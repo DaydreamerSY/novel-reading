@@ -1,0 +1,80 @@
+{
+ "number": 622,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Hoàng hậu Philly nhận được thư từ Frondier thông báo về chuyến thăm Cung điện Hoàng gia, kèm theo lời đề nghị Elysia sẽ đi cùng. Bà tỏ ra khó chịu với Ednet vì những nghi ngờ của Đội Bóng Tối về mối quan hệ giữa Frondier và quỷ dữ, cũng như liên quan đến sự biến mất của Elysia. Ednet phải đối mặt với tình thế tiến thoái lưỡng nan khi phải báo cáo thông tin này cho Philly, vừa sợ bị Đội Bóng Tối trừng phạt, vừa sợ giận dữ của Hoàng hậu. Cuối cùng, Philly quyết định theo dõi Frondier và Elysia để tìm hiểu sự thật.",
+ "boi_canh": "Trong phòng làm việc của Hoàng hậu Philly tại Cung điện Hoàng gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Elysia",
+  "Ameline",
+  "Shadow",
+  "Ednet"
+ ],
+ "su_kien": [
+  "Philly nhận được thư từ Frondier thông báo về chuyến thăm.",
+  "Đội Bóng Tối nghi ngờ Frondier có quan hệ với quỷ dữ và liên quan đến sự biến mất của Elysia.",
+  "Ednet phải báo cáo những nghi ngờ này cho Philly.",
+  "Philly cảnh báo Ednet về hậu quả nếu vu oan cho bà.",
+  "Philly quyết định theo dõi Frondier và Elysia."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly",
+   "b": "Ednet",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu Philly là cấp trên của Ednet, thể hiện sự tức giận và cảnh cáo.",
+   "cach_goi": "gọi tên Ednet, lạnh lùng"
+  },
+  {
+   "a": "Ednet",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Ednet là thuộc hạ của Hoàng hậu Philly, cúi đầu và xin lỗi.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  },
+  {
+   "a": "Philly",
+   "b": "Shadow",
+   "loai": "doi_thu",
+   "mo_ta": "Philly có mối quan hệ đối địch với Đội Bóng Tối, nghi ngờ và cảnh giác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ednet",
+   "b": "Shadow",
+   "loai": "nguoi_la",
+   "mo_ta": "Ednet là người liên lạc giữa Philly và Đội Bóng Tối, nhưng không thuộc về họ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Philly",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier và Philly có mối quan hệ phức tạp, chưa rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Philly",
+   "loai": "gia_dinh",
+   "mo_ta": "Elysia là con gái của Philly, mối quan hệ mẹ con.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ameline",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đã từng bảo vệ Ameline, tạo ra một mối liên kết ngầm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Shadow Unit: Đội Bóng Tối (tên gọi chung)"
+ ],
+ "stats": {
+  "tokens": 927,
+  "seconds": 28.9
+ }
+}

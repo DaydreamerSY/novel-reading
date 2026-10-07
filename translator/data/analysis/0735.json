@@ -1,0 +1,89 @@
+{
+ "number": 735,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị bắt vì những cáo buộc sai trái, Frondier được Zodiac Ludovic bí mật thả ra để nói lời tạm biệt. Trong lúc đó, anh ta nhận ra rằng Ludovic đã làm điều đúng đắn và bày tỏ sự tôn trọng của mình. Sau đó, Frondier trở về dinh thự Roach, nơi anh phải đối mặt với cha mẹ tức giận của mình, Enfer và Azier, những người đang có ý định phá hủy cung điện Hoàng gia.",
+ "boi_canh": "Trong một nhà tù tại Cung điện Hoàng gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Lily",
+  "Enfer",
+  "Malia",
+  "Ludovic",
+  "Frondier de Roach",
+  "Vikar"
+ ],
+ "su_kien": [
+  "Frondier bị bắt và cáo buộc là quỷ.",
+  "Zodiac Ludovic bí mật thả Frondier ra.",
+  "Frondier bày tỏ sự tôn trọng đối với Ludovic.",
+  "Enfer và Azier có ý định phá hủy Cung điện Hoàng gia.",
+  "Frondier tuyên bố anh ta sẽ rời khỏi Đế chế."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Ludovic",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, nhưng Frondier tôn trọng hành động của Ludovic.",
+   "cach_goi": "gọi tên Ludovic, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, nhưng Ludovic cảm thấy tội lỗi và sự tôn trọng đối với Frondier.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier, tức giận và có ý định trả thù.",
+   "cach_goi": "gọi tên Enfer, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Frondier, tức giận và có ý định trả thù.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, tức giận và có ý định trả thù.",
+   "cach_goi": "gọi tên Azier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai của Frondier, tức giận và có ý định trả thù.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Vikar",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu, truyền đạt thông tin cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vikar",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu, truyền đạt thông tin cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach: Tên đầy đủ của nhân vật chính."
+ ],
+ "stats": {
+  "tokens": 975,
+  "seconds": 29.2
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "number": 719,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tiết lộ với Azier rằng anh ta có thể giải mã ngôn ngữ cổ, và nguồn gốc kiến thức này là từ Hagley. Cuộc trò chuyện dẫn đến những nghi ngờ của Azier về động cơ của Frondier trong việc chia sẻ kiến thức này cho Manggot và việc che giấu tài năng của mình. Sau đó, Frondier thăm Esther tại nhà tù Morion để yêu cầu được gặp Hagley, nhưng bị từ chối.",
+ "boi_canh": "Đêm khuya tại biệt thự Roach.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Hagley",
+  "Cain",
+  "Esther",
+  "Manggot",
+  "Selena"
+ ],
+ "su_kien": [
+  "Frondier tiết lộ với Azier khả năng giải mã ngôn ngữ cổ.",
+  "Azier bày tỏ sự nghi ngờ về nguồn gốc kiến thức của Frondier và động cơ chia sẻ cho Manggot.",
+  "Frondier đề nghị đi gặp Hagley trước khi đến Manggot.",
+  "Frondier thăm Esther tại nhà tù Morion để yêu cầu được gặp Hagley.",
+  "Esther từ chối yêu cầu của Frondier, viện lý do Hagley là tội phạm nguy hiểm."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh em ruột thịt, Frondier có phần trêu chọc và thách thức.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, có vẻ lo lắng và thất vọng về hành động của em trai.",
+   "cach_goi": "gọi tên Frondier, nghiêm túc"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hagley",
+   "loai": "nguoi_la",
+   "mo_ta": "Có mối liên hệ gián tiếp thông qua Azier, Frondier muốn gặp để tìm hiểu thêm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Hagley",
+   "loai": "doi_thu",
+   "mo_ta": "Có vẻ như có một mối quan hệ phức tạp, Azier đang che giấu điều gì đó.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè cũ, mối quan hệ có phần căng thẳng.",
+   "cach_goi": "gọi tên Esther, thân mật"
+  },
+  {
+   "a": "Esther",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Có vẻ khó chịu với sự xuất hiện của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Manggot",
+   "loai": "khac",
+   "mo_ta": "Frondier đã chia sẻ kiến thức cho Manggot, nhưng không phải toàn bộ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Manggot",
+   "loai": "khac",
+   "mo_ta": "Azier có vẻ không thích Manggot.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 950,
+  "seconds": 28.4
+ }
+}

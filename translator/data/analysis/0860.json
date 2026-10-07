@@ -1,0 +1,91 @@
+{
+ "number": 860,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Elodie đến dự cuộc bỏ phiếu chọn người đẹp nhất thủ đô Palma. Trong khi đó, Aphrodite, nữ thần tình yêu, đang âm mưu thao túng kết quả để giành lấy trái Tim Vàng, sử dụng một con quỷ tên Baal và một người phụ nữ được chỉ định tên Lupina. Tuy nhiên, sự xuất hiện bất ngờ của Sybil Forte đã làm thay đổi mọi thứ, khiến Frondier và Elodie phải đối mặt với những diễn biến khó lường.",
+ "boi_canh": "Trong phòng riêng của Aphrodite tại cung điện hoàng gia Palma vào một buổi sáng trước cuộc bỏ phiếu.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Carla",
+  "Baal",
+  "Arald",
+  "Gregory",
+  "Athena",
+  "Astaroth",
+  "Sybil Forte",
+  "Hera",
+  "Zeus",
+  "Aphrodite",
+  "Bruna",
+  "Lupina",
+  "Charon"
+ ],
+ "su_kien": [
+  "Aphrodite bày tỏ sự chán nản và tiết lộ kế hoạch thao túng cuộc bỏ phiếu để giành trái Tim Vàng.",
+  "Baal được giao nhiệm vụ tiếp cận các Paladin tiềm năng thông qua các con quỷ khác.",
+  "Frondier và Elodie đến dự cuộc bỏ phiếu, nhận thấy sự hiện diện của những người có sức mạnh thần thánh.",
+  "Sybil Forte xuất hiện bất ngờ tại quảng trường, thu hút mọi ánh nhìn.",
+  "Elodie phát hiện ra Aphrodite đang sử dụng sức mạnh thần thánh để thao túng Lupina."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, cùng quan sát tình hình.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Aphrodite",
+   "b": "King of Palma",
+   "loai": "cap_tren",
+   "mo_ta": "Nữ thần tình yêu thao túng vị vua.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Baal",
+   "b": "Aphrodite",
+   "loai": "ke_thu",
+   "mo_ta": "Con quỷ làm theo lệnh Aphrodite.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arald",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Người báo cáo tình hình cho Frondier.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Bruna",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Bruna và Lupina.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Lupina",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Lupina.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, cùng quan sát tình hình.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Aphrodite: Nữ thần tình yêu, đang bị thương và bị giam cầm tại thủ đô Palma.",
+  "Lupina: Người phụ nữ được Aphrodite chỉ định để thao túng kết quả bỏ phiếu."
+ ],
+ "stats": {
+  "tokens": 961,
+  "seconds": 29.0
+ }
+}

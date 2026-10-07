@@ -1,0 +1,70 @@
+{
+ "number": 920,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Sybil gặp Jormungandr, một con rắn khổng lồ. Ban đầu, Sybil tỏ ra bình tĩnh khi đối mặt với nó, nhưng sau đó phát hiện ra rằng Jormungandr có thể nghe thấy 'tiếng kêu' kỳ lạ mà cô thường xuyên nghe thấy - dấu hiệu của Ecleksis của cô. Cuối cùng, Sybil kích hoạt Ecleksis và tạo ra một miền đất đai màu mỡ, khiến Jormungandr nhận ra rằng cô là một demigod.",
+ "boi_canh": "Một cuộc gặp gỡ bất ngờ giữa Sybil và Jormungandr trong Pandemonium.",
+ "nhan_vat": [
+  "Frondier",
+  "Sybil",
+  "Odin",
+  "Sybil Forte",
+  "Jormungandr"
+ ],
+ "su_kien": [
+  "Sybil gặp Jormungandr, một con rắn khổng lồ.",
+  "Jormungandr tiết lộ danh tính của mình là Jormungandr.",
+  "Jormungandr nhận ra Sybil có thể nghe thấy tiếng kêu kỳ lạ của cô.",
+  "Sybil kích hoạt Ecleksis và tạo ra một miền đất đai màu mỡ.",
+  "Jormungandr kết luận rằng Sybil là một demigod."
+ ],
+ "quan_he": [
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn, Frondier đánh giá cao Sybil.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Odin",
+   "loai": "doi_thu",
+   "mo_ta": "Không tương tác trực tiếp, nhưng liên quan đến Ragnarok.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Jormungandr",
+   "loai": "nguoi_la",
+   "mo_ta": "Ban đầu là đối diện, sau đó trở thành kẻ thù.",
+   "cach_goi": "gọi tên 'Jormungandr', không trang trọng"
+  },
+  {
+   "a": "Jormungandr",
+   "b": "Sybil",
+   "loai": "ke_thu",
+   "mo_ta": "Ban đầu tò mò, sau đó muốn giết Sybil.",
+   "cach_goi": "gọi tên 'Sybil', không trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jormungandr",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp, nhưng liên quan đến việc Frondier đi đánh bại các vị thần.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Jormungandr",
+   "loai": "nguoi_la",
+   "mo_ta": "Sau khi Sybil biết danh tính của Jormungandr, mối quan hệ trở nên căng thẳng.",
+   "cach_goi": "gọi tên 'Mr. Jormungandr', trang trọng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 692,
+  "seconds": 20.9
+ }
+}

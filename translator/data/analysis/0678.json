@@ -1,0 +1,60 @@
+{
+ "number": 678,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Marco chứng kiến Frondier dường như tái nhập Pandemonium và rơi vào trạng thái bất động. Anh ta cân nhắc việc giết Frondier khi anh yếu thế nhưng cuối cùng lại quyết định quan sát để xem liệu Frondier có thể thực sự làm chủ Pandemonium hay không. Elysia sau đó can thiệp bằng cách điều khiển Obsidian, bảo vệ Frondier khỏi Marco.",
+ "boi_canh": "Một nơi nào đó trong địa ngục, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Elysia",
+  "Baal",
+  "Marco",
+  "King of Hell",
+  "Adam"
+ ],
+ "su_kien": [
+  "Marco chứng kiến Frondier dường như tái nhập Pandemonium.",
+  "Frondier rơi vào trạng thái bất động, giống như một con búp bê.",
+  "Marco cân nhắc việc giết Frondier khi anh ta hoàn toàn không phòng bị.",
+  "Elysia sử dụng Obsidian để chặn Marco lại.",
+  "Marco nhận ra Elysia đang điều khiển Obsidian."
+ ],
+ "quan_he": [
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Marco cân nhắc giết Frondier vì coi anh ta là mối đe dọa.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier bất động, không tương tác với Marco.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Marco nhận ra Elysia đang điều khiển Obsidian.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Elysia bảo vệ Frondier bằng cách sử dụng Obsidian.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính nhân vật trong chương này."
+ ],
+ "stats": {
+  "tokens": 607,
+  "seconds": 18.2
+ }
+}

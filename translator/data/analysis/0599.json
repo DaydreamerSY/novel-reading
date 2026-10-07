@@ -2,73 +2,84 @@
  "number": 599,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Frondier bị Paul và Jeremy thẩm vấn về việc tham gia một bữa tiệc và những thông tin anh ta có được từ các quỷ dữ. Họ nghi ngờ Frondier đang làm việc cho lũ quỷ phương Tây hoặc cố gắng phân biệt giữa người và quỷ. Sau khi giả vờ mất hết Mana, Frondier bộc lộ khả năng sử dụng 'Mana của Helheim', khiến Paul và Jeremy kinh ngạc và hoảng sợ.",
- "boi_canh": "Một căn phòng thẩm vấn bí mật, thời điểm hiện tại.",
+ "tom_tat": "Sau khi đối đầu với Jeremy và Paul, Frondier sử dụng 'súng phun gió' do Elodie tạo ra. Anh ta sau đó triệu hồi một golem Obsidian dựa trên hình mẫu Azier để đối phó với Jeremy. Trong lúc đuổi theo Paul, Frondier tạm thời tạo ra đôi cánh Obsidian để tăng tốc độ, cuối cùng tóm được Paul và khiến anh ta bất tỉnh.",
+ "boi_canh": "Bên trong một tòa nhà của công ty Hitchcock, vào thời điểm hiện tại.",
  "nhan_vat": [
   "Frondier",
   "Elodie",
+  "Azier",
+  "Lily",
+  "Osprey",
+  "Jane",
+  "Eden",
+  "Binkis",
   "Paul",
-  "Frondier de Roach",
-  "Jeremy",
-  "Neil",
-  "Neil Jack"
+  "Jeremy"
  ],
  "su_kien": [
-  "Paul và Jeremy thẩm vấn Frondier về việc tham gia bữa tiệc.",
-  "Frondier bị Paul đá vào mặt khi đang suy yếu do mất Mana.",
-  "Jeremy tố cáo Frondier đã nói chuyện với quỷ Agoris để tìm hiểu cách phân biệt người và quỷ.",
-  "Frondier giả vờ mất hết Mana bằng thiết bị của Paul.",
-  "Frondier bộc lộ khả năng sử dụng 'Mana của Helheim' và tạo ra các vật phẩm."
+  "Paul và Jeremy triển khai aura và cầm vũ khí.",
+  "Frondier tạo ra 'súng phun gió' dựa trên thiết kế của Elodie.",
+  "Frondier triệu hồi một golem Obsidian mô phỏng Azier.",
+  "Frondier tạm thời tạo ra đôi cánh Obsidian để đuổi theo Paul.",
+  "Paul bị Frondier tóm được và bất tỉnh."
  ],
  "quan_he": [
   {
    "a": "Paul",
    "b": "Frondier",
    "loai": "doi_thu",
-   "mo_ta": "Paul thẩm vấn và tra tấn Frondier để lấy thông tin.",
-   "cach_goi": "gọi tên Frondier, lạnh lùng"
+   "mo_ta": "Đối thủ, Paul cố gắng trốn thoát khỏi Frondier.",
+   "cach_goi": "gọi tên 'Frondier', không có cảm xúc đặc biệt"
   },
   {
    "a": "Frondier",
    "b": "Paul",
    "loai": "doi_thu",
-   "mo_ta": "Frondier phản kháng lại sự thẩm vấn của Paul.",
-   "cach_goi": "gọi tên Paul, thô lỗ"
+   "mo_ta": "Đối thủ, Frondier đuổi theo Paul để lấy thông tin.",
+   "cach_goi": "gọi tên 'Paul', không có cảm xúc đặc biệt"
   },
   {
    "a": "Jeremy",
    "b": "Frondier",
    "loai": "doi_thu",
-   "mo_ta": "Jeremy tham gia thẩm vấn Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "mo_ta": "Đối thủ, Jeremy tức giận với Frondier.",
+   "cach_goi": "gọi tên 'Frondier', thô lỗ"
   },
   {
    "a": "Frondier",
    "b": "Jeremy",
    "loai": "doi_thu",
-   "mo_ta": "Frondier bị Jeremy thẩm vấn.",
+   "mo_ta": "Đối thủ, Frondier đối phó với Jeremy.",
+   "cach_goi": "gọi tên 'Jeremy', không có cảm xúc đặc biệt"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân, Elodie tạo ra 'súng phun gió' mà Frondier sử dụng.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Paul",
-   "b": "Jeremy",
-   "loai": "cap_tren",
-   "mo_ta": "Paul là người có vị trí cao hơn Jeremy.",
-   "cach_goi": "gọi tên Jeremy, thân mật"
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai, golem Obsidian được tạo ra dựa trên hình mẫu của Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Jeremy",
-   "b": "Paul",
-   "loai": "cap_tren",
-   "mo_ta": "Jeremy là cấp dưới của Paul.",
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Người tạo ra golem, Binkis quan tâm đến công nghệ của Hitchcock.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Frondier de Roach (Tên đầy đủ của Frondier)"
+  "Súng phun gió: Tên gọi do Frondier đặt cho một thiết bị có khả năng bắn khí nén.",
+  "Golem Obsidian: Một tạo vật mô phỏng Azier, được tạo ra bởi Binkis."
  ],
  "stats": {
-  "tokens": 762,
-  "seconds": 23.8
+  "tokens": 910,
+  "seconds": 28.8
  }
 }

@@ -1,0 +1,58 @@
+{
+ "number": 750,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier đang xem xét Cờ của Jeanne d’Arc và đọc mô tả về nó. Anh gặp Jeanne, người xuất hiện một cách bất ngờ và giải thích rằng cô là một bản sao được tạo ra bởi Menosorpo. Cô ấy không phải là sự hồi sinh thực sự mà là một hình ảnh thu nhỏ của Jeanne ban đầu, bị giới hạn trong việc sử dụng sức mạnh của mình.",
+ "boi_canh": "Trong khu vực có liên quan đến Cờ của Jeanne d'Arc, thời điểm hiện tại chưa rõ.",
+ "nhan_vat": [
+  "Frondier",
+  "Merlin",
+  "Arthur",
+  "Jeanne",
+  "Sigurd"
+ ],
+ "su_kien": [
+  "Frondier đọc mô tả về Cờ của Jeanne d’Arc.",
+  "Jeanne xuất hiện bất ngờ trước Frondier.",
+  "Jeanne tự giới thiệu và bắt tay với Frondier.",
+  "Jeanne giải thích rằng cô là một bản sao được tạo ra bởi Menosorpo.",
+  "Jeanne tiết lộ những hạn chế về khả năng của cô."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Jeanne",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ lần đầu, Frondier bối rối và bất ngờ trước sự xuất hiện của Jeanne.",
+   "cach_goi": "gọi tên Jeanne, không rõ (có vẻ hơi ngạc nhiên)"
+  },
+  {
+   "a": "Jeanne",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Giới thiệu bản thân và bắt tay với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân thiện"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jeanne",
+   "loai": "nguoi_la",
+   "mo_ta": "Hỏi về sự xuất hiện của cô.",
+   "cach_goi": "gọi tên Jeanne, lịch sự"
+  },
+  {
+   "a": "Jeanne",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Trả lời câu hỏi của Frondier và đưa ra một số nhận xét.",
+   "cach_goi": "gọi tên Frondier, thân thiện"
+  }
+ ],
+ "danh_tinh": [
+  "Jeanne: Cô ấy là một bản sao được tạo ra bởi Menosorpo, không phải sự hồi sinh thực sự của Jeanne d'Arc ban đầu. Cô ấy chỉ có ký ức và ngoại hình của người trước."
+ ],
+ "stats": {
+  "tokens": 663,
+  "seconds": 19.8
+ }
+}

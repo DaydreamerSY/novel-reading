@@ -1,0 +1,108 @@
+# Tên viết khác trong bản novelight.
+# Từ chương novelight 754 (chương gốc 385) trở đi là người dịch khác, phiên âm tên riêng khác bản novellunar.
+# Dạng:   tên trong novelight: tên chuẩn (khoá trong glossary.yaml)
+# Khi dựng nguồn từ novelight, các tên bên trái được đổi thành tên bên phải TRƯỚC khi tóm tắt / dịch,
+# để glossary, xưng hô và kiểm tra tráo tên vẫn dùng một tên duy nhất. data/en_novelight giữ nguyên bản gốc.
+# Số trong ghi chú: số lần xuất hiện ở novelight 754–971.
+
+doi_ten_moi_chuong:     # áp dụng cho mọi chương
+  Hercules: Heracles    # 1 lần trước ch754; novelight dùng Heracles (đã bỏ mục Hercules khỏi glossary)
+
+tu_chuong: 754          # mục doi_ten bên dưới chỉ áp dụng từ chương novelight này trở đi
+
+doi_ten:
+  # --- nhân vật (đã kiểm tra ngữ cảnh) ---
+  Atjie: Azier          # 473
+  Cybel: Sybil          # 333
+  Riri: Lily            # 189 (từ ch783)
+  Lirih: Lily           # 61 (ch754–782)
+  Liri: Lily            # 13
+  Ria Liss: Ria Lis     # 23
+  Liss: Lis
+  Pielot: Pielott       # 858
+  Vasileo: Basileo      # 434
+  Jenita: Zenita        # 115
+  Sindri: Sandri        # 7  (Jenita di Sindri = Zenita di Sandri)
+  Ias: Aias             # 377 (bản novelight cũng có 17 chỗ viết "Aias")
+  Achaia: Achaea        # 75  (Ias di Achaia, House of Achaia)
+  Dierre: Dier          # 307 (Dierre Aiger = Dier Aiger)
+  Salle: Sale           # 36
+  Amper: Enfer          # 11  (cha của Frondier)
+  Livanche: Ribanche    # 8   (Pielot von Livanche)
+  Makia: Machia         # 37
+  Bael: Baal            # 305 (bản novelight cũng có 66 chỗ viết "Baal")
+  Atena: Athena         # 214 (cũng có 36 chỗ "Athena")
+  # --- vũ khí / vật phẩm / kỹ năng ---
+  Heukcheon: Black Thread   # 216 (흑천)
+  Exzo: Exo                 # 4
+  Ragnarök: Ragnarok        # 5
+
+  # --- đợt 2 (2026-10-06): dò trên toàn bộ ch754–971, đã kiểm tra ngữ cảnh ---
+  Ospreet: Osprey           # 152
+  Ospreit: Osprey           # 9
+  Ospret: Osprey            # 2
+  Angfer: Enfer             # 74
+  Angper: Enfer             # 23
+  Ampere: Enfer             # 10 ("vượt cả Zodiac", chỉ huy kỵ sĩ đoàn mạnh nhất)
+  Anfer: Enfer              # 3
+  Ellicia: Elysia           # 32
+  Elicia: Elysia            # 3 (con gái cả của Philly)
+  Sybel: Sybil              # 38
+  Quinnie: Quinie           # 4
+  Ridwi: Ludwig             # 122 (Ludwig von Urfa, cha của Hector)
+  Lidwi: Ludwig
+  Lydwi: Ludwig
+  Urpa: Urfa                # 7
+  Sylvine: Sylvain          # 15 (chỉ huy kỵ sĩ đoàn nhà Roach)
+  Vinkis: Binkis            # 3
+  Bikar: Vikar              # 12 (quản gia nhà Roach)
+  Runia: Lunia              # 2
+  Marcosias: Marchosias     # 2
+  Jay: Jei                  # 2 (tên của Selena ở Manggot)
+  Dawud: Daud               # 5 (cha của Sybil)
+  Yeranhess: Yeranhes       # 3
+  Beherteo: Behetorio       # 4
+  Lishaera: Rishae          # 1 (Elodie de Inies ...)
+  Lishae: Rishae            # 4
+  Lishaé: Rishae            # 2
+  Palind: Falind            # 14
+  Teiven: Tyburn            # 19 (vùng đông bắc, lãnh địa nhà Urfa; cùng Yeranhes là nơi dùng Menosorpo)
+  Teivon: Tyburn            # 11
+  Teben: Tyburn             # 6
+  Taevan: Tyburn            # 2
+  Taven: Tyburn             # 3 (bản novellunar cũng từng viết nhầm "Tavern")
+  Black Heaven: Black Thread    # 31 (cùng chữ 흑천 với Heukcheon)
+  Ilseom: One Flash             # 89 (일섬, kỹ thuật của Aster; bản cũ viết "One Flash")
+  Chryselakatos: Khryselakatos  # 6
+  Criselachatos: Khryselakatos  # 4
+  Kriselacatos: Khryselakatos   # 3
+  Hella: Hela                   # 102 (glossary dùng Hela)
+  # chính bản novelight viết một tên nhiều kiểu → gộp về kiểu hay gặp nhất (đổi được nếu bạn muốn kiểu khác)
+  Karon: Charon             # 61 (Charon 92, Caron 56)
+  Caron: Charon
+  Enkespahlos: Enkephalos   # 13 (giáo của Ares; glossary đã có Enkephalos)
+  Enkesphalos: Enkephalos   # 7
+  Mjolnir: Mjölnir          # 58
+  Bifröst: Bifrost          # 11
+  Telephus: Telephos        # 12
+  Glaucos: Glaukos          # 17
+  Evlina: Evelina           # 4
+  Lajor: Lazor              # 5
+  Jormungand: Jormungandr   # 21
+  Astrafe: Astrape          # 8
+  Astraphe: Astrape         # 5
+  Tartaros: Tartarus        # 7 (Tartarus 37)
+  # --- bạn đã quyết (2026-10-07) ---
+  Nakjang: Fallen Spear     # 19; kỹ thuật của Azier (낙창)
+  Aetius: Etius             # 14; lục địa cổ / World Quest, cùng chữ với game "Etius"
+
+theo_khoang:            # chỉ an toàn khi giới hạn trong khoảng chương
+  "970-971":
+    May: Mei            # ở các chương khác "May" là "May I..."
+
+# Đã quyết (2026-10-06), xử lý trong glossary.yaml thay vì đổi tên:
+#  Pandemonium   novelight luôn viết Pandemonium; đã bỏ mục "Pantemonium" (lỗi chính tả của bản novellunar)
+#  Gathering Wind  thêm vào glossary = "Gió Tụ", cùng skill với Gather Wind / Gathering Wind Arrow
+#  WizerView     thêm vào glossary, giữ nguyên tên
+#  Nakjang, Aetius  chuyển lên mục doi_ten ở trên (2026-10-07)
+#  Ecleksis        khái niệm mới, xử lý trong glossary

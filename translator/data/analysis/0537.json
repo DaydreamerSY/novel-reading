@@ -2,78 +2,90 @@
  "number": 537,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Frondier (Sybil) thể hiện một kỹ thuật kết hợp ma pháp và hào quang chưa từng có, khiến Cohen kinh ngạc. Các binh lính của Manggot tấn công Sybil nhưng bị tiêu diệt bởi ngọn lửa kỳ lạ từ thanh kiếm của cô. Cohen nhận ra sức mạnh vượt trội của Sybil và chuẩn bị đối đầu với cô, trong khi phân tích điểm yếu trong kỹ năng kiếm thuật của cô.",
- "boi_canh": "Một chiến trường không xác định, nơi diễn ra một cuộc đối đầu giữa Frondier (Sybil) và Cohen cùng các binh lính Manggot.",
+ "tom_tat": "Trong chương này, Sybil giả vờ yếu kém để đánh lừa Cohen trong trận chiến, sau đó sử dụng 'Petal' để hạ gục hắn. Frondier đứng trên đồi quan sát tình hình và liên lạc với Mother để nắm bắt diễn biến chiến sự. Cuối cùng, Frondier kích hoạt một rune lớn, tấn công trực tiếp vào nơi ở của Manggot, thể hiện ý định tiêu diệt kẻ thù ngay tại căn cứ.",
+ "boi_canh": "Một trận chiến đang diễn ra trên bức tường thành của Đế Chế.",
  "nhan_vat": [
-  "Frondier (Sybil)",
+  "Frondier",
+  "Sybil",
+  "Osprey",
+  "Malia",
+  "Lunia",
+  "Mei",
   "Cohen",
-  "Hector",
-  "Ludwig",
-  "Manggot soldiers"
+  "Mother",
+  "Medart",
+  "Lunia Fricell"
  ],
  "su_kien": [
-  "Sybil thể hiện kỹ thuật kết hợp ma pháp và hào quang, tạo ra ngọn lửa bốc cháy trên thanh kiếm.",
-  "Các binh lính Manggot tấn công Sybil nhưng bị tiêu diệt bởi ngọn lửa từ thanh kiếm của cô.",
-  "Cohen nhận ra sức mạnh vượt trội của Sybil và cảm thấy kinh hãi.",
-  "Cohen cố gắng phân tích điểm yếu trong kỹ năng kiếm thuật của Sybil.",
-  "Sybil phản công bằng một đòn tấn công kết hợp hào quang và ma pháp, tạo ra sấm sét."
+  "Sybil giả vờ yếu kém trong trận chiến với Cohen.",
+  "Sybil sử dụng 'Petal' để hạ gục Cohen.",
+  "Frondier liên lạc với Mother qua điện thoại để nắm bắt tình hình chiến sự.",
+  "Frondier kích hoạt rune tấn công trực tiếp vào nơi ở của Manggot.",
+  "Excalibur bắn ra kiếm khí phá hủy vách đá, gây chấn động lớn."
  ],
  "quan_he": [
   {
-   "a": "Cohen",
-   "b": "Sybil",
-   "loai": "doi_thu",
-   "mo_ta": "Cohen phải giết Sybil theo lệnh, nhưng bị ấn tượng bởi sức mạnh của cô.",
-   "cach_goi": "gọi tên Sybil, lạnh lùng"
-  },
-  {
    "a": "Sybil",
    "b": "Cohen",
    "loai": "doi_thu",
-   "mo_ta": "Sybil thách thức Cohen và chuẩn bị đối đầu với anh.",
-   "cach_goi": "gọi tên Cohen, lạnh lùng"
-  },
-  {
-   "a": "Manggot soldiers",
-   "b": "Cohen",
-   "loai": "cap_tren",
-   "mo_ta": "Các binh lính Manggot tuân lệnh Cohen, nhưng không hiểu rõ sức mạnh của Sybil.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "mo_ta": "Sybil giả vờ yếu kém để đánh lừa Cohen trong trận chiến.",
+   "cach_goi": "gọi tên Cohen, không nói chuyện trực tiếp"
   },
   {
    "a": "Cohen",
-   "b": "Manggot soldiers",
-   "loai": "cap_tren",
-   "mo_ta": "Cohen ra lệnh cho các binh lính Manggot tấn công Sybil.",
-   "cach_goi": "gọi 'Lord', lễ phép"
-  },
-  {
-   "a": "Manggot soldiers",
    "b": "Sybil",
    "loai": "doi_thu",
-   "mo_ta": "Các binh lính Manggot tấn công Sybil, nhưng bị tiêu diệt.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "mo_ta": "Cohen đánh giá thấp Sybil và bị cô ta hạ gục.",
+   "cach_goi": "gọi tên Sybil, không nói chuyện trực tiếp"
   },
   {
-   "a": "Sybil",
-   "b": "Cohen",
-   "loai": "doi_thu",
-   "mo_ta": "Sybil thách thức Cohen bằng hành động và lời nói.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "a": "Frondier",
+   "b": "Mother",
+   "loai": "gia_dinh",
+   "mo_ta": "Frondier liên lạc với Mother để nắm bắt tình hình chiến sự.",
+   "cach_goi": "gọi 'Mother', thân mật"
   },
   {
-   "a": "Cohen",
-   "b": "Hector",
-   "loai": "nguoi_la",
-   "mo_ta": "Không có tương tác trực tiếp, chỉ được nhắc đến trong ngữ cảnh.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "a": "Mother",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mother báo cáo tình hình chiến sự cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Malia",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier liên lạc với Malia để nắm bắt tình hình chiến sự.",
+   "cach_goi": "gọi tên Malia, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Malia báo cáo tình hình chiến sự cho Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Frondier nhận được thông tin về vị trí của Mei từ Malia.",
+   "cach_goi": "gọi tên Mei, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Malia",
+   "b": "Lunia Fricell",
+   "loai": "dong_minh",
+   "mo_ta": "Malia đề cập đến sự tham gia của Lunia Fricell trong việc xây dựng rune.",
+   "cach_goi": "gọi tên Lunia Fricell, không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Hector Von Urfa (tên thật của Hector)"
+  "Lunia được gọi là Lunia Fricell, tên đầy đủ của cô ấy."
  ],
  "stats": {
-  "tokens": 883,
-  "seconds": 27.3
+  "tokens": 993,
+  "seconds": 30.7
  }
 }

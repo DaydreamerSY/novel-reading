@@ -2,65 +2,69 @@
  "number": 543,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi Frondier sử dụng kiếm song thủ để tấn công Belphegor, một trận chiến nảy sinh. Frondier thể hiện kỹ thuật 'Weaving' bí mật và áp đảo Belphegor bằng thanh kiếm Excalibur và một thanh kiếm ngắn đặc biệt. Belphegor nhận ra sức mạnh của Frondier và tiết lộ rằng Frondier không phải là con người bình thường mà còn sở hữu sức mạnh từ Helheim. Trong khi đó, Selena trở về nhà ở Manggot và phát hiện ra có thêm một cây kim cắm trong quần áo của mình. Cô quan sát thấy nghi lễ triệu hồi thần linh đang diễn ra tại Manggot và lo lắng cho Frondier.",
- "boi_canh": "Trong trận chiến giữa Frondier và Belphegor tại một địa điểm không xác định.",
+ "tom_tat": "Trong chương này, Selena phát hiện ra sự thật đau lòng về quá khứ của mình thông qua lời khai của Hagley: cô bị trục xuất khỏi gia tộc Vanier và được Hagley mang đến Manggot để nuôi dưỡng. Cô phải đối mặt với sự giằng xé giữa niềm tin vào Frondier và những gì Hagley nói, cuối cùng rơi vào trạng thái hoang mang và nghi ngờ. Cuối chương, Selena đột ngột biến mất sau khi bị tấn công bởi một vật thể bí ẩn từ bóng của Hagley.",
+ "boi_canh": "Trong phòng luyện tập ở Manggot, thời điểm chiến tranh đang diễn ra.",
  "nhan_vat": [
   "Frondier",
   "Selena",
-  "Belphegor",
-  "Azier",
-  "Hagley",
-  "Frondier de Roach"
+  "Hagley"
  ],
  "su_kien": [
-  "Frondier sử dụng kiếm song thủ tấn công Belphegor.",
-  "Belphegor bị thương bởi thanh kiếm ngắn của Frondier.",
-  "Frondier thể hiện kỹ thuật 'Weaving' bí mật.",
-  "Belphegor nhận ra sức mạnh đặc biệt của Frondier và nguồn gốc từ Helheim.",
-  "Selena phát hiện có thêm một cây kim trong quần áo của mình."
+  "Hagley tiết lộ Selena bị trục xuất khỏi gia tộc Vanier.",
+  "Selena biết được tên thật của mình là 'Selena de Vanier'.",
+  "Selena nghi ngờ Frondier đã nói dối cô về quá khứ.",
+  "Selena giằng xé giữa niềm tin vào Hagley và Frondier.",
+  "Selena đột ngột biến mất sau khi bị tấn công bởi một vật thể bí ẩn."
  ],
  "quan_he": [
   {
-   "a": "Frondier",
-   "b": "Belphegor",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ trực tiếp trong trận chiến, Belphegor tỏ ra tức giận và nghi ngờ.",
-   "cach_goi": "gọi 'Belphegor', lạnh lùng"
-  },
-  {
-   "a": "Belphegor",
-   "b": "Frondier",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ trực tiếp trong trận chiến, Belphegor tỏ ra tức giận và nghi ngờ.",
-   "cach_goi": "gọi tên Frondier, lạnh lùng"
-  },
-  {
-   "a": "Selena",
-   "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Đồng minh, Selena lo lắng cho Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
    "a": "Hagley",
    "b": "Selena",
-   "loai": "nguoi_la",
-   "mo_ta": "Người lạ, Hagley tiết lộ một bí mật về quá khứ của Selena.",
-   "cach_goi": "gọi tên Selena, thân mật"
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy dạy nghề sát thủ của Selena, tiết lộ sự thật về quá khứ của cô.",
+   "cach_goi": "gọi tên Selena, lạnh lùng"
   },
   {
    "a": "Selena",
    "b": "Hagley",
+   "loai": "thay_tro",
+   "mo_ta": "Học trò của Hagley, đang cố gắng hiểu sự thật về quá khứ của mình.",
+   "cach_goi": "gọi tên Hagley, nghi ngờ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
    "loai": "nguoi_la",
-   "mo_ta": "Người lạ, Selena tỏ ra cảnh giác với Hagley.",
-   "cach_goi": "gọi tên Hagley, lạnh lùng"
+   "mo_ta": "Người đã tiết lộ tên thật của Selena, gây ra sự hoang mang cho cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Người mà Selena có tình cảm, nhưng đang nghi ngờ sự thật lời nói của anh.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Hagley",
+   "b": "Selena",
+   "loai": "chu_to",
+   "mo_ta": "Người kiểm soát tình hình và cố gắng thuyết phục Selena.",
+   "cach_goi": "gọi tên Selena, trịch thượng"
+  },
+  {
+   "a": "Selena",
+   "b": "Hagley",
+   "loai": "chu_to",
+   "mo_ta": "Người đang nghi ngờ Hagley và cố gắng tìm kiếm sự thật.",
+   "cach_goi": "gọi tên Hagley, thô lỗ"
   }
  ],
  "danh_tinh": [
-  "Frondier de Roach (Tên đầy đủ của Frondier)"
+  "Tên thật của Selena là 'Selena de Vanier'."
  ],
  "stats": {
-  "tokens": 777,
-  "seconds": 25.0
+  "tokens": 810,
+  "seconds": 25.3
  }
 }

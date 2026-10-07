@@ -1,0 +1,93 @@
+{
+ "number": 958,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chứng kiến Thanatos mất một cánh tay trong trận chiến với các vị thần, Frondier tiếp tục cuộc chiến. Thanatos sau đó biến mất vào Yggdrasil và đến Asgard để trốn tránh Frondier. Thor gặp Thanatos và nghe lời cầu cứu của hắn, nhưng bị Frondier ngăn chặn. Cuối cùng, Frondier đối mặt với Azier, người đã chấp nhận vai trò bảo vệ anh trai mình, bất kể điều đó có nghĩa là hy sinh ước mơ của bản thân.",
+ "boi_canh": "Trận chiến giữa các vị thần diễn ra tại một nơi không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Odin",
+  "Thor",
+  "Zeus",
+  "Thanatos",
+  "Hestia"
+ ],
+ "su_kien": [
+  "Thanatos xuất hiện với một cánh tay bị thiếu.",
+  "Thanatos biến mất vào Yggdrasil.",
+  "Zeus và Hestia trao đổi ánh mắt khi một tia sáng bí ẩn lóe lên từ đỉnh Olympus.",
+  "Thanatos đến Asgard để trốn tránh Frondier.",
+  "Thor ngăn chặn Thanatos theo yêu cầu của hắn, nhưng bị Frondier can thiệp."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Thanatos",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier là mục tiêu trốn chạy của Thanatos.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thanatos",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Thanatos căm ghét và sợ hãi Frondier.",
+   "cach_goi": "thô lỗ, khinh miệt"
+  },
+  {
+   "a": "Zeus",
+   "b": "Hestia",
+   "loai": "dong_minh",
+   "mo_ta": "Hai vị thần đang chiến đấu với nhau, nhưng quan tâm đến kết quả của trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thor",
+   "b": "Thanatos",
+   "loai": "nguoi_la",
+   "mo_ta": "Thor ngăn chặn Thanatos theo yêu cầu của hắn.",
+   "cach_goi": "lạnh lùng, cảnh cáo"
+  },
+  {
+   "a": "Thanatos",
+   "b": "Thor",
+   "loai": "nguoi_la",
+   "mo_ta": "Thanatos tìm kiếm sự giúp đỡ từ Thor.",
+   "cach_goi": "thân mật, nài nỉ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Thor",
+   "loai": "khac",
+   "mo_ta": "Frondier ngăn chặn Thor khỏi việc giúp Thanatos.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Azier",
+   "b": "Thanatos",
+   "loai": "dong_minh",
+   "mo_ta": "Aizer là anh trai của Frondier và đang bảo vệ anh trai mình.",
+   "cach_goi": "lạnh lùng, xa cách"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Frondier trêu chọc Azier về sự hy sinh của anh ấy.",
+   "cach_goi": "khinh miệt, chế giễu"
+  },
+  {
+   "a": "Thanatos",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Thanatos chế nhạo Azier vì đã từ bỏ ước mơ của mình.",
+   "cach_goi": "thô lỗ, chế giễu"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 868,
+  "seconds": 26.1
+ }
+}

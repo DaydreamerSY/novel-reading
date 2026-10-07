@@ -1,0 +1,100 @@
+{
+ "number": 742,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Elodie đột ngột tuyên bố rời khỏi buổi lễ và đề nghị Frondier đi cùng nàng ta. Hành động này gây ra sự hỗn loạn trong quảng trường, khiến người dân nghi ngờ hơn về mối quan hệ giữa Frondier và các thế lực hắc ám. Các Zodiacs tranh cãi, còn Hoàng đế Bartello đưa ra những lời nhận xét khó hiểu, đẩy tình hình vào một bước ngoặt nguy hiểm.",
+ "boi_canh": "Quảng trường hoàng cung, trong buổi lễ công khai.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Osprey",
+  "Bartello"
+ ],
+ "su_kien": [
+  "Elodie đột ngột tuyên bố rời khỏi buổi lễ và mời Frondier đi cùng.",
+  "Hoàng đế Bartello không tỏ ra bất ngờ trước hành động của Elodie.",
+  "Elodie khẳng định sẽ đứng về phía Frondier, chấp nhận bị coi là đồng minh của quỷ dữ.",
+  "Các Zodiacs tranh cãi gay gắt về hành động của Elodie và sự liên quan của Inies.",
+  "Osprey đưa ra những lời bình luận gây sốc, ám chỉ Elodie có thể bị quỷ dữ điều khiển."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Mối quan hệ tình cảm phức tạp, Frondier băn khoăn về hành động của Elodie.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Đề nghị đi cùng Frondier một cách vô tư.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Mối quan hệ cấp dưới - bề trên, Frondier đối diện với sự phán xét của Hoàng đế.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Bartello",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng đế quan sát và đưa ra những nhận xét khó hiểu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Tỏ ra tự tin và cung kính trước mặt Hoàng đế.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Bartello",
+   "b": "Elodie",
+   "loai": "cap_tren",
+   "mo_ta": "Quan sát Elodie một cách thận trọng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Zodiacs",
+   "loai": "thay_tro",
+   "mo_ta": "Mối quan hệ thầy trò, Osprey có vẻ đứng về phía Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Zodiacs",
+   "b": "Osprey",
+   "loai": "thay_tro",
+   "mo_ta": "Bất mãn với hành động của Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Osprey",
+   "b": "Bartello",
+   "loai": "cap_tren",
+   "mo_ta": "Đưa ra những nhận xét gây tranh cãi.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Bartello",
+   "b": "Osprey",
+   "loai": "cap_tren",
+   "mo_ta": "Hiểu ý đồ của Osprey.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Bartello Tert (quốc vương)"
+ ],
+ "stats": {
+  "tokens": 1096,
+  "seconds": 32.6
+ }
+}

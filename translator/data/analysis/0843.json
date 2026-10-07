@@ -1,0 +1,86 @@
+{
+ "number": 843,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi rời khỏi Lily và Arald, Frondier cùng Elodie bay đến một địa điểm bí ẩn. Trong lúc đó, Lily, Arald và Selena đang bận rộn với công việc riêng của họ, còn Basileo và Carla ở lại bệnh viện chăm sóc Pielott bị thương. Khi đến nơi, Frondier đột ngột tấn công Andromalius, khiến mọi người bất ngờ. Sau đó, anh đề nghị nói chuyện với Baal.",
+ "boi_canh": "Trên không trung, giữa Frondier và Elodie khi họ bay đến một ngôi làng xa xôi.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Baal",
+  "Arald",
+  "Gregory",
+  "Basileo",
+  "Beelzebub",
+  "Andromalius"
+ ],
+ "su_kien": [
+  "Frondier và Elodie bay đến một địa điểm bí ẩn.",
+  "Lily, Arald và Selena rời đi bằng xe riêng.",
+  "Pielott được chăm sóc tại bệnh viện cùng Carla và Basileo.",
+  "Frondier tấn công Andromalius bất ngờ.",
+  "Frondier đề nghị nói chuyện với Baal."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, bay cùng nhau và chia sẻ suy nghĩ.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, bay cùng nhau và chia sẻ suy nghĩ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, Frondier muốn xác minh thông tin từ Baal.",
+   "cach_goi": "gọi tên Baal, lạnh lùng"
+  },
+  {
+   "a": "Baal",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ tiềm năng, đang đối mặt với sự đe dọa từ Frondier.",
+   "cach_goi": "gọi tên Frondier, thận trọng"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, quan tâm đến hành động của Frondier.",
+   "cach_goi": "gọi tên Frondier, lo lắng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Andromalius",
+   "loai": "ke_thu",
+   "mo_ta": "Tấn công bất ngờ, đối tượng tiềm năng để thu thập thông tin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baal",
+   "b": "Andromalius",
+   "loai": "dong_minh",
+   "mo_ta": "Một thành viên của 72 Demons, mối quan hệ chưa rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Andromalius (No. 72 demon)"
+ ],
+ "stats": {
+  "tokens": 907,
+  "seconds": 27.3
+ }
+}

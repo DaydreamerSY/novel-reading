@@ -1,0 +1,67 @@
+{
+ "number": 748,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tiếp tục hành trình vào sâu trong Menosorpo, nhận ra rằng địa hình phức tạp của Manggot chính là hình dạng rune của nó. Anh ta khám phá ra một căn phòng bí mật và tìm thấy một dòng chữ cổ mà anh ta có thể giải mã nhờ smartwatch của mình - tên của rune đó. Sau khi kích hoạt rune, Frondier nhận ra nó đang ở trạng thái không hoàn chỉnh do sự tàn phá trước đây và sử dụng Dragon Heart để tiếp tục khôi phục nó.",
+ "boi_canh": "Bên trong Menosorpo, tại một căn phòng bí mật sâu trong lòng Manggot.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten",
+  "Renzo",
+  "Mei",
+  "Belphegor",
+  "Shepherds of Manggot"
+ ],
+ "su_kien": [
+  "Frondier nhận ra địa hình của Manggot là rune của Menosorpo.",
+  "Anh ta tìm thấy một căn phòng bí mật với bàn tròn ở giữa.",
+  "Frondier giải mã được dòng chữ cổ bằng smartwatch của mình, xác định tên của rune.",
+  "Anh kích hoạt rune, khiến toàn bộ khu vực Manggot sáng lên.",
+  "Frondier nhận ra rune đang ở trạng thái không hoàn chỉnh và sử dụng Dragon Heart để tiếp tục khôi phục."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aten",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "thay_tro",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Belphegor",
+   "loai": "ke_thu",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Shepherds of Manggot",
+   "loai": "dong_minh",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Manggot: Được tiết lộ là hình dạng rune của Menosorpo.",
+  "Menosorpo: Được tiết lộ là một rune, và Manggot là biểu hiện vật lý của nó."
+ ],
+ "stats": {
+  "tokens": 733,
+  "seconds": 21.9
+ }
+}

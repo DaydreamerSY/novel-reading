@@ -1,0 +1,74 @@
+{
+ "number": 790,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Antero, một hiệp sĩ Palma, đến gặp Carla với ý định lợi dụng cô, nhưng bị Frondier ngăn chặn. Sau khi Frondier tỉnh lại, anh ta và Antero đối đầu, kết thúc bằng việc Frondier bất ngờ áp chế được hiệp sĩ mạnh mẽ này mà không giải thích được.",
+ "boi_canh": "Một buổi chiều tại một địa điểm không xác định, nơi Antero đang theo dõi Carla.",
+ "nhan_vat": [
+  "Frondier",
+  "Carla",
+  "Antero",
+  "F-Frondier",
+  "Lady Achaea",
+  "Nobles aligned with Lady Achaea"
+ ],
+ "su_kien": [
+  "Antero theo dõi Carla với sự khinh miệt.",
+  "Frondier tỉnh lại và đối mặt với Antero.",
+  "Antero cố gắng tấn công Frondier nhưng bị áp chế.",
+  "Carla lo lắng bảo vệ Frondier.",
+  "Frondier đặt câu hỏi về danh tính và vai trò của Antero."
+ ],
+ "quan_he": [
+  {
+   "a": "Antero",
+   "b": "Carla",
+   "loai": "doi_thu",
+   "mo_ta": "Antero muốn lợi dụng Carla để đạt được mục đích của mình.",
+   "cach_goi": "gọi tên Carla, lạnh lùng"
+  },
+  {
+   "a": "Carla",
+   "b": "Antero",
+   "loai": "doi_thu",
+   "mo_ta": "Carla cố gắng bảo vệ Frondier khỏi Antero.",
+   "cach_goi": "gọi tên Antero, lo lắng"
+  },
+  {
+   "a": "Antero",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Antero coi Frondier là một mối đe dọa và muốn loại bỏ anh ta.",
+   "cach_goi": "gọi tên Frondier, thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Antero",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier quan sát và đánh giá Antero một cách khách quan.",
+   "cach_goi": "gọi tên Antero, bình tĩnh"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Carla quan tâm và lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "gia_dinh",
+   "mo_ta": "Frondier quan tâm đến Carla.",
+   "cach_goi": "gọi tên Carla, bình tĩnh"
+  }
+ ],
+ "danh_tinh": [
+  "Paladin: Một loại hiệp sĩ thuộc vương quốc Palma. Có thể là một danh hiệu hoặc một chức danh đặc biệt.",
+  "Exo: Tên của thanh kiếm magitech mà Antero sử dụng."
+ ],
+ "stats": {
+  "tokens": 783,
+  "seconds": 23.4
+ }
+}

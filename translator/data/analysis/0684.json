@@ -1,0 +1,86 @@
+{
+ "number": 684,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra một cuộc đối đầu căng thẳng giữa Frondier và Aster về việc sử dụng quỷ dữ. Selena chuẩn bị tấn công nhưng không thể vì tốc độ của Aster quá nhanh. Elodie cảnh báo Aster, còn Frondier khẳng định niềm tin vào quỷ dữ và quyết tâm bảo vệ họ. Cuối cùng, Aster thực hiện chiêu 'One Flash' nhằm vào Frondier nhưng dừng lại sát nút, khiến Frondier bị thương nhẹ và rời đi với sự chấp nhận của Aster.",
+ "boi_canh": "Một địa điểm không rõ ràng, có lẽ là một căn cứ hoặc khu vực hoạt động chung giữa con người và quỷ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Sybil",
+  "Dier",
+  "Shadow"
+ ],
+ "su_kien": [
+  "Aster chuẩn bị tấn công Frondier bằng thanh kiếm có ý định giết người.",
+  "Selena không thể hành động vì tốc độ của Aster vượt quá khả năng bắn kim của cô.",
+  "Elodie cảnh báo Aster về việc sử dụng quỷ dữ, với ánh mắt 'Inies'.",
+  "Aster thực hiện chiêu 'One Flash' nhưng dừng lại sát trán Frondier.",
+  "Frondier bị thương nhẹ do ảnh hưởng của aura khi 'One Flash' dừng lại."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu về quan điểm sử dụng quỷ dữ.",
+   "cach_goi": "gọi tên Aster, lạnh lùng"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Lo ngại hành động của Frondier và cố gắng ngăn cản.",
+   "cach_goi": "gọi tên Frondier, lo lắng"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Sẵn sàng bảo vệ Frondier nhưng bị giới hạn bởi tốc độ của Aster.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Cảnh báo Aster về hành động nguy hiểm và bảo vệ Frondier.",
+   "cach_goi": "gọi tên Aster, nghiêm khắc"
+  },
+  {
+   "a": "Aster",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Không thể thay đổi quyết định của Frondier, dù có lo lắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Quan sát và nhận ra sự khác biệt trong tư duy của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Không thể ngăn cản Frondier rời đi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Shadow",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 791,
+  "seconds": 23.8
+ }
+}

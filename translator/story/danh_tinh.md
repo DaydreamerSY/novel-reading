@@ -4,7 +4,1063 @@ Model ghi lại khi một chương có chi tiết về danh tính. Có thể sai
 
 - ch1: Frondier De Roach (tên mới)
 - ch1: Human Sloth (biệt danh)
+- ch2: Frondier de Roach (Tên đầy đủ của nhân vật chính)
+- ch2: Elodie de Inies Rishae (Tên đầy dủ của Elodie sau khi tức tỉnh thần tính)
+- ch4: Edesion Terst: Ông nội của hoàng đế hiện tại của Đế chế Terst.
+- ch5: Elodie de Inies Rishaé (biệt danh 'Inies', do nhận được tình yêu của năm vị thần)
+- ch6: Aster Evans: Tên đầy đủ của Aster.
+- ch7: Mistilteinn: Một nhánh cây được cho là có liên quan đến thần Baldr, hiện đang gây tranh cãi về hình dáng thật sự của nó.
+- ch8: Aster Evans: Tên đầy đủ của Aster.
+- ch9: Aster Evans: Tên đầy đủ của Aster.
+- ch9: Azier de Roach: Anh trai của Frondier.
+- ch10: Enfer de Roach: Gia chủ nhà Roach, cha của Frondier và Azier, chồng của Malia.
+- ch11: Frondeir (tên gọi khác của Frondier)
+- ch12: Vật thể được cho là 'Mistilteinn' hóa ra là kim loại nhớ hình (viscoelastic metal) giả mạo.
+- ch13: Mistilteinn (ban đầu được cho là thanh kiếm thật, sau đó hóa ra là giả)
+- ch13: Obsidian (tên mới của vật thể mà Frondier chế tạo)
+- ch14: Thanh kiếm 'Gram' được sao chép từ thanh kiếm của Sigurd.
+- ch15: Thanatos: Vị thần chết của Etius, thường được miêu tả là 'death itself' trong truyền thuyết Hy Lạp, nhưng ở Etius lại có thể chết và không phải là cái chết tuyệt đối.
+- ch16: Frondier (nhân vật chính)
+- ch16: Frontier (tên trùng lặp)
+- ch17: Bức tranh 'The Girl's Prayer' của Alain Bouchon: Có cả bản gốc và bản sao chất lượng cao hơn.
+- ch19: Aster Evans (tên đầy đủ của Aster)
+- ch19: Sybil Forte (tên đầy đủ của Sybil)
+- ch19: Lunia Fricell (tên đầy đủ của Lunia)
+- ch20: SagePhone: thiết bị tương tự điện thoại thông minh.
+- ch22: Quinie de Viet (tên đầy đủ của Quinie)
+- ch22: Sybil Forte (tên đầy đủ của Sybil)
+- ch24: Frondier: Nhân vật chính, có kiến thức về bẫy và tính cách lười biếng.
+- ch24: Sybil: Có khả năng thao túng số phận, quan tâm đến Aster.
+- ch26: Thanatos: Được nhắc đến như một vị thần đã từng tìm cách giết Frondier.
+- ch26: Slevb: Một kẻ thù bí ẩn, được mô tả là 'heretic' (kẻ dị giáo) và có khả năng gây độc chết người.
+- ch27: Slevb: Hồn ma, hình dạng ban đầu là phụ nữ gầy gò gần như không đủ vải che thân.
+- ch28: Frondier de Roach (Tên đầy đủ của Frondier)
+- ch30: Frondier de Roach (Tên đầy đủ của Frondier)
+- ch30: Aster Evans (Tên đầy đủ của Aster)
+- ch31: Elodie de Inies Rishae (Tên đầy đủ của Elodie sau khi tỉnh lại)
+- ch32: Tên đầy đủ của Quinie là Quinie de Viet.
+- ch33: Mistilteinn: Có vẻ như là một vật thể hoặc khái niệm quan trọng mà Frondier biết rõ hơn những người khác.
+- ch34: Frondier (đang đóng vai Aster Evans)
+- ch35: Edwin von Beherti: Một nhân vật có sức mạnh thần thánh, thuộc gia tộc Behrtio, từng là một quý tộc suy tàn.
+- ch37: Không có thông tin mới về danh tính nhân vật.
+- ch38: Aster Evans: Tên đầy đủ của Aster.
+- ch38: Ellen Evans: Tên đầy đủ của Ellen.
+- ch39: Frondier không phải là Frondier thật sự (ẩn danh)
+- ch40: Con dao mà Frondier cầm là một vật phẩm 'dệt' giả.
+- ch40: Nhóm người chế giễu Edwin được gọi là 'October'.
+- ch41: Nhóm học sinh được Gary gọi là 'Tháng Mười' (October).
+- ch43: Edwin = Edwin von Behetorio
+- ch43: Ellen = Ellen Evans
+- ch44: Frondier de Roach (tên đầy đủ của nhân vật chính)
+- ch44: Edwin von Behetorio (tên đầy đủ của Edwin)
+- ch45: Edwin von Behetorio (tên đầy đủ của Edwin)
+- ch46: Vòng cổ Obsidian: Được trao bởi Quinie, có khả năng hấp thụ chất lỏng và mở rộng không gian.
+- ch46: Kiếm Gram: Thuộc về Sigurd, Frondier tạm thời sử dụng.
+- ch47: Black Lotus (tên chiếc vòng cổ do Quinie tặng)
+- ch48: Edwin von Behetorio (tên đầy đủ của Edwin)
+- ch49: Frondier de Roach: Tên đầy đủ của Frondier.
+- ch50: Ellen đã bị thương bởi ngọn giáo của golem, nhưng hồi phục nhanh chóng.
+- ch52: Chrysaor (cây cung do Hephaestus ban cho Artemis)
+- ch53: Aster Evans: Tên đầy đủ của Aster.
+- ch53: Doud Forte: Chuyên gia khắc rune ma thuật, cha của Sybil.
+- ch54: Frondier đang giả vờ là Aster Evans trong tưởng tượng.
+- ch56: Menosorpho (tên của vòng tròn ma thuật)
+- ch57: Indus: Tổ chức đấu tranh cho quyền lợi của dân thường, có thể có động cơ ngầm.
+- ch57: October: Tổ chức liên quan đến Edwin von Behetorio và sự kiện golem.
+- ch58: Elodie de Inies Rishae (trước đây là Elodie de Rishae)
+- ch59: Gregory (thành viên của Indus, sử dụng hình dạng quạ để báo cáo)
+- ch60: Nhật ký tiết lộ những sự kiện và cảm xúc mà trước đây Frondier che giấu.
+- ch63: Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi tỉnh thần tính)
+- ch64: Fron: Tên thân mật của Frondier được Elodie gọi.
+- ch65: Frondier de Roach (Tên đầy đủ của nhân vật chính)
+- ch66: Menosorpo: Một rune mà Frondier đã thử nghiệm trước đây và kích hoạt lại trong chương này.
+- ch67: Khryselakatos, Iokeira: Được Frondier tạo ra để phục vụ mục đích của anh ta.
+- ch69: SagePhone: thiết bị liên lạc cá nhân
+- ch70: Philly Terst là Hoàng hậu của đế quốc.
+- ch71: Tyburn được dịch thành 'Tavern' trong bản gốc, cần kiểm tra lại tên chính xác.
+- ch73: Frondier de Roach (tên đầy đủ của Frondier)
+- ch73: Human Sloth Frondier (biệt danh của Frondier)
+- ch74: Aten Terst: Công chúa thứ ba của đế quốc, được chuyển đến trường Constel.
+- ch75: Frondier de Roach (tên đầy đủ của Frondier)
+- ch75: Aten Terst (tên đầy đủ của Aten)
+- ch75: Sybil Forte (tên đầy đủ của Sybil)
+- ch75: Lunia Fricell (tên đầy đủ của Lunia)
+- ch76: Aten Terst (được tiết lộ là tam công chúa)
+- ch76: Aster Evans (tên đầy đủ của Aster)
+- ch77: WizardGram: thiết bị mới lạ, Frondier chưa từng thấy trong game.
+- ch77: Hitchcock: công ty sản xuất đồ phép thuật chất lượng cao.
+- ch78: Constel (trường học)
+- ch78: sagephone (điện thoại thông minh)
+- ch79: Terst Imperial Ritual Dagger: Dao nghi lễ hoàng gia Terst, không gây chết người.
+- ch80: Mjölnir: vũ khí thần thoại của Thor
+- ch81: Philly Terst: Hoàng hậu của đế quốc.
+- ch81: Aten Terst: Tam công chúa.
+- ch82: Philly Terst là hậu duệ của Völva, một dòng tộc pháp sư cổ xưa trong thần thoại Bắc Âu.
+- ch85: Eden Hamelot (Eden)
+- ch85: Frondier de Roach (Frondier)
+- ch86: Glutton of Chaos: Tên thật là Renzo.
+- ch86: [Copy of Constel's Manufactured Filming Drone]: Một chiếc drone giả mạo.
+- ch87: Khryselakatos: Cung chỉ có thể sử dụng bởi nữ giới, Frondier phải dùng sức mạnh của Menosorpo để kích hoạt tạm thời.
+- ch89: Aten Terst (tam công chúa)
+- ch90: Mjölnir: vũ khí giả làm từ Weaving, nằm trong phạm vi của Menosorpo’s Eye.
+- ch91: Ellen Evans là chị của Aster (chưa xuất hiện trong chương này).
+- ch92: Frondier de Roach (tên đầy đủ của nhân vật chính)
+- ch93: Frondier de Roach (tên đầy đủ của nhân vật chính)
+- ch94: Aster Evans (đầy đủ tên của Aster)
+- ch95: Robert: Hiệp sĩ dưới quyền Hoàng hậu Philly, giả dạng thám tử.
+- ch96: Eden Hamelot: Tên đầy đủ của Eden.
+- ch96: Enfer de Roach: Gia chủ nhà Roach, cha của Frondier và Azir, chồng của Malia.
+- ch97: Aten Terst: Tam công chúa của đế quốc, con gái của Philly.
+- ch98: Frondier de Roach: Tên đầy đủ của nhân vật chính.
+- ch99: Enfer: 'Iron Wall' (Biệt danh)
+- ch100: Renzo: Tên thật của kẻ bắt cóc là Renzo. Anh ta không ngốc nghếch như mọi người nghĩ.
+- ch101: Philly Terst: Hoàng hậu của đế quốc.
+- ch101: Aten Terst: Tam công chúa.
+- ch102: Khryselakatos: Cây cung được Hephaestus tạo ra và trao cho Artemis, ban đầu chỉ dành cho nữ.
+- ch102: Aten Terst: Tam công chúa (không được đề cập trực tiếp trong chương này).
+- ch103: Frondier de Roach (tên đầy đủ của Frondier)
+- ch105: Malia de Roach (được Frondier gọi là mẹ của anh ấy)
+- ch106: Aster Evans (tên đầy đủ của Aster)
+- ch106: Robald Lieff (tên đầy đủ của Robald)
+- ch107: Frondier de Roach (Tên đầy đủ của Frondier)
+- ch107: Robald Lieff (Tên đầy đủ của Robald)
+- ch108: Frondier de Roach (tên đầy đủ của Frondier)
+- ch108: Philly Terst (hoàng hậu đế quốc)
+- ch108: Aten Terst (tam công chúa)
+- ch109: Alex có thể đã bị thay thế bằng một người khác.
+- ch109: Eden Hamelot là Eden.
+- ch111: Aten Terst: Tam công chúa
+- ch113: Malia: trước đây từng sử dụng tên 'Malia Avril'.
+- ch113: Avril family: có kỹ năng gia truyền chia sẻ giác quan.
+- ch114: Không có thông tin về danh tính mới hoặc bí mật nào được tiết lộ trong chương này.
+- ch115: Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi tức tỉnh thần tính)
+- ch116: Rafflesia: Một phép thuật dùng để dụ dỗ quái vật.
+- ch116: Chimera: Sinh vật được Elysia tổng hợp từ nhiều loài khác nhau.
+- ch118: Philly Terst (Hoàng hậu)
+- ch118: Aten Terst (Tam công chúa)
+- ch119: Elysia: Có thể đang sử dụng danh tính giả hoặc che giấu mục đích thực sự của mình.
+- ch119: Chimera: Được tạo ra như một thí nghiệm cho Rafflesia, có lẽ là một vũ khí bí mật.
+- ch120: Elysia: Công chúa hoàng gia, bị cáo buộc cố gắng ám sát Philly.
+- ch121: Slevb đã cung cấp độc dược cho Philly.
+- ch121: Philly đã giết Elysia, con gái mình.
+- ch122: Philly Terst: Hoàng hậu của đế quốc
+- ch123: Cassian: Tên con ngựa mà Aster cưỡi.
+- ch123: Philly Terst: Hoàng hậu của đế quốc.
+- ch124: Frondier: người đã cứu Chimera và được Philly giấu diếm sự tồn tại.
+- ch124: Philly: người lên kế hoạch giấu Frondier.
+- ch125: Alex: Bị đuổi khỏi Constel Academy.
+- ch128: Neil Jack: Thợ rèn được Frondier giới thiệu cho Ellen.
+- ch129: Neil Jack (được biết đến với vai trò thợ rèn)
+- ch129: Daud Forte (cha của Sybil)
+- ch130: Aster Evans: Tên đầy đủ của Aster.
+- ch131: Frondier de Roach: Tên đầy đủ của nhân vật chính.
+- ch132: Eden Hamelot (tên đầy đủ của Eden)
+- ch134: Hagley được xác định là 'Head of the Roach Clan' (nhưng sau đó sửa lại).
+- ch134: Hagley tiết lộ mình đến từ Manggot và làm việc cho Enfer.
+- ch135: Quinie de Viet (tên đầy đủ của Quinie)
+- ch136: Không có thông tin mới về danh tính nhân vật trong chương này.
+- ch137: Viper Steel (kim loại huyền thoại)
+- ch137: Hitchcock (công ty chế tạo thiết bị ma thuật)
+- ch138: Elodie de 'Inies' Rishae (sửa sai tên)
+- ch138: Revet de Rishae (tên đầy đủ)
+- ch139: Không có thông tin về danh tính khác của nhân vật trong chương này.
+- ch140: Quinie: tên đầy đủ là Quinie (không có thêm thông tin)
+- ch141: Aten Terst (tam công chúa)
+- ch141: Neil Jack (một nhân vật)
+- ch143: Edwin von Behetorio (tên đầy đủ của Edwin)
+- ch144: Frondier de Roach: Tên đầy đủ của nhân vật chính.
+- ch145: Eden Hamelot (Eden)
+- ch145: Ellen Evans (Ellen)
+- ch146: Frondier: Được biết đến là 'Pro' để cứu nạn nhân khỏi quái vật.
+- ch146: Drone giám sát: Binkis thay thế bằng bản sao giả.
+- ch147: Khryselakatos: Cung tên có khả năng đặc biệt.
+- ch147: Iokeira: Tên mũi tên đi kèm với cung Khryselakatos.
+- ch150: Quinie de Viet (tên đầy đủ của Quinie)
+- ch151: Không có thông tin mới về danh tính nhân vật trong chương này.
+- ch152: Wild Amuse: Tên một nhà hàng nổi tiếng thuộc lãnh địa của gia đình Roach (Yeranhes).
+- ch153: Frondier de Roach (tên đầy đủ của Frondier)
+- ch153: Ludwig von Urfa (tên đầy đủ của Ludwig)
+- ch156: Neil Jack: Người chế tạo thanh kiếm ngắn mà Frondier đang sử dụng.
+- ch158: Hầu gái (maid): Có thể là người được cử đến từ gia tộc Roach với mục đích bí ẩn.
+- ch159: Jei được đổi tên thành Selena.
+- ch160: Không có thông tin mới về danh tính của bất kỳ nhân vật nào.
+- ch163: Aten Terst: Tam công chúa
+- ch164: Aten Terst (tam công chúa)
+- ch165: Indus: Tổ chức đấu tranh chống lại sự phân biệt đối xử.
+- ch165: Grobel: Kẻ chịu trách nhiệm chính trong vụ việc tại túp lều.
+- ch166: Hector Dutoit là con trai của Ludwig von Urfa, và sẽ kế vị Tyburn.
+- ch166: Hector được gọi là 'White Lion' (Sư tử Trắng).
+- ch167: Hector Von Urfa (tên thật của Hector)
+- ch169: Frondier được cho là đã đưa ra những nhận xét về Sybil, khiến Aten băn khoăn về nguồn gốc thông tin của anh ấy.
+- ch170: Frondier de Roach: Con trai thứ hai của Enfer de Roach, trước đây không được biết đến là con trai của ông ta.
+- ch171: Kỹ thuật bắn tên lửa của Frondier được gọi là 'Pháo Hoa' (Fireworks).
+- ch171: Khu rừng thiêng được gọi là 'Sacred Forest'.
+- ch172: Cassian: Ngựa chiến tinh nhuệ vùng trung tâm.
+- ch173: Cassian: Con ngựa thông minh, thuộc sở hữu của Sybil.
+- ch173: Penelope's Cloth: Một loại vải ấm áp.
+- ch174: Người thay thế Frondier: Một người đóng vai Frondier để che giấu sự thật.
+- ch175: Grobel: Tù nhân đang mặc trang phục của Frondier.
+- ch176: Merlin: Được biết đến trong truyền thuyết về King Arthur, là một pháp sư vĩ đại, tiên tri và nhà hiền triết. Trong Etius, ông được biết đến với vai trò 'Druid'.
+- ch177: Dragonheart: Được Frondier dệt và sử dụng, có vẻ như là một bản sao của Dragonheart thật.
+- ch177: Penelope's fabric: Một loại vải đặc biệt có khả năng tự phục hồi.
+- ch178: Merlin: Được tiết lộ là một người đã chết và hiện đang tạo ra thực tại từ giấc mơ của mình.
+- ch179: Khu rừng được gọi là 'Sacred Forest' (Rừng thiêng) nhưng thực chất là một giấc mơ của Merlin.
+- ch179: Manggot: nơi bị bỏ rơi bởi đất nước, nơi tích tụ sự phẫn nộ và thù hận.
+- ch180: Lady of the Lake được các game thủ Etius gọi là 'The Witch of the Lake'.
+- ch181: Aster Evans: Tên đầy đủ của Aster.
+- ch181: Menosorpo: Một loại phép thuật được Frondier sử dụng để tạo kiếm giả.
+- ch182: Merlin hiện tại là một ảo ảnh được tạo ra từ giấc mơ của Merlin quá khứ, để bảo vệ thanh kiếm Excalibur cho King Arthur đã qua đời.
+- ch183: Excalibur: Hiện tại chỉ là ảo ảnh do Merlin tạo ra, nhưng Nimue đang nắm giữ thanh Excalibur thật sự.
+- ch184: Aster Evans: Tên đầy đủ của Aster.
+- ch185: Frondier được gửi đến từ Manggot vì khả năng giải mã tiếng cổ, hé lộ nguồn gốc của anh.
+- ch186: Selena de Barnier (Tên đầy đủ của Selena)
+- ch187: Selena có thể có những ký ức bị lãng quên liên quan đến cái chết của cha cô.
+- ch187: ’Manggot’ là kẻ đã giết cha Selena.
+- ch188: Mjölnir: Búa phép của Frondier.
+- ch188: Excalibur: Thanh kiếm huyền thoại, được Frondier sử dụng.
+- ch189: Excalibur: thanh kiếm gây ra vụ nổ lớn và hấp thụ mana của Frondier.
+- ch190: Selena de Barnier (tên đầy đủ của Selena)
+- ch190: Ludwig von Urfa (được Hagley nhắc đến liên quan đến vụ tiêu diệt quái vật)
+- ch191: Penelope: Tên đầy đủ là Penelope Terst.
+- ch191: Philly: Tên đầy đủ là Philly Terst, hoàng hậu của đế quốc.
+- ch191: Aten: Tên đầy đủ là Aten Terst, tam công chúa.
+- ch192: Tên đầy đủ của Aten là Aten Terst, tam công chúa.
+- ch192: Frondier tiết lộ tên thật của mình là 'Frondier De Roach'.
+- ch193: Philly: Hoàng hậu đế quốc.
+- ch193: Aten: Tam công chúa Terst.
+- ch194: Hector Von Urfa (tên thật của Hector)
+- ch194: Hector Dutoit (tên gọi thay thế của Hector)
+- ch195: Lokbel: Em trai của Grobel, đang bị giam giữ.
+- ch197: Frondier de Roach (Tên đầy đủ của Frondier)
+- ch197: Aster Evans (Tên đầy đủ của Aster)
+- ch197: Eden Hamelot (Tên đầy đủ của Eden)
+- ch198: Elodie de Inies Rishae (tên đầy đủ trước khi tức tỉnh thần tính)
+- ch198: Elodie de Rishae (tên đầy đủ sau khi tức tỉnh thần tính)
+- ch199: Aten Terst (Tam công chúa)
+- ch199: Sybil Forte (Tên đầy đủ của Sybil)
+- ch199: Lunia Fricell (Tên đầy đủ của Lunia)
+- ch199: Robald Lieff (Tên đầy đủ của Robald)
+- ch200: Vincent von Coleman: Chủ dinh thự, bị bắt giữ.
+- ch200: Kyriothites: Món trượng bịt mà Vincent phô trương, được cho là của các thiên thần.
+- ch201: Pascal Schilitz: Hiệp sĩ từ cung điện hoàng gia (tên đầy đủ)
+- ch202: Thanh Kiếm Ngắn Neil Jack: Thanh kiếm thực sự mà Frondier sử dụng, không phải bản sao.
+- ch203: Quinie de Viet (tên đầy đủ của Quinie)
+- ch204: Pascal: Hiện tại là giáo viên chiến đấu cơ bản ở Constel.
+- ch205: Azier de Roach: Tên đầy đủ của Azier, cũng là một hiệp sĩ.
+- ch206: Indus: Tổ chức cung cấp thông tin cho Pascal.
+- ch206: Selena: Có vẻ như đang được huấn luyện theo một khuôn mẫu cứng nhắc.
+- ch207: Gregory: trước đây là thành viên của Indus, hiện đang giả làm thành viên để lan truyền tin đồn.
+- ch207: Indus: tổ chức bề ngoài hoạt động vì quyền lợi của người dân thường, nhưng thực chất có những hành vi đen tối.
+- ch208: Tài xế thực chất là Serf Daniel, người mà Frondier đã từng gặp trước đó.
+- ch209: Fron (biệt danh của Frondier)
+- ch209: Aster Evans (tên đầy đủ của Aster)
+- ch210: Aster Evans (tên đầy đủ của Aster)
+- ch211: Serf Daniel: Người điều khiển học sinh Constel bằng thẻ bài, giọng nói vang lên trong bản tin của trường.
+- ch212: Serf Daniel: Có vẻ như Serf đã bị tái hiện hoặc kiểm soát bởi một người khác.
+- ch213: Aten Terst (tam công chúa)
+- ch214: Serf Daniel đã chết, nhưng 'thẻ kinh doanh' của ông ta vẫn còn hiệu lực và chứa giọng nói của ông ta.
+- ch215: Kraken: Tự xưng là 'người không liên quan đến Indus', sau đó tiết lộ tên thật là Kraken.
+- ch216: Enfer de Roach: Cha của Frondier, gia chủ nhà Roach.
+- ch217: Pascal Schilitz (tên đầy đủ của Pascal)
+- ch217: Quinie de Viet (tên đầy đủ của Quinie)
+- ch218: Quinie bị nhầm là Frondier do kỹ năng đặc biệt của cô.
+- ch221: Indus: Người đứng sau mọi việc, có vẻ là kẻ thù của 'Manggot'.
+- ch221: 'Manggot': Tổ chức hoặc nhóm mà Selena có liên quan đến.
+- ch222: Kraken được tiết lộ là có ba lõi năng lượng, mà hắn gọi là 'hearts'.
+- ch223: Quinie de Viet là tên đầy đủ của Quinie.
+- ch225: Indus (giả): Một học sinh giả mạo Indus đã rò rỉ thông tin cho Kraken và lan truyền tin đồn sai lệch.
+- ch226: Gregory (xuất hiện dưới hình dạng một con quạ)
+- ch227: Serf Daniel: Người có mặt trong Indus từ đầu và liên quan đến kế hoạch của họ.
+- ch227: Quinie de Viet: Tên đầy đủ của Quinie, được tiết lộ qua áp phích.
+- ch229: Frondier: được giới thiệu là một chuyên gia thẩm định đồ vật bởi Quinie.
+- ch231: Roach (đề cập đến nhưng không xuất hiện)
+- ch233: Kora: Beastkin có dòng máu bạch hổ, ban đầu được cho là chỉ là một cô gái bình thường nhưng thực chất có sức mạnh tiềm ẩn.
+- ch234: Kora sử dụng phép ẩn thân để che giấu tai và đuôi của mình.
+- ch235: Aster: biệt danh 'Little Devil'.
+- ch236: Kora: Có thể là một nhân vật quan trọng liên quan đến việc tìm ra kẻ phạm tội và điểm yếu của Quinie.
+- ch237: Người đàn ông đeo mặt nạ: Có khả năng liên quan đến việc xóa ký ức của Frondier và viết bảng tin phép thuật Constel.
+- ch238: Kora: Một nhân vật bị xóa khỏi ký ức của mọi người.
+- ch238: River Lethe: Sông Lethe, nơi những linh hồn uống để quên đi quá khứ trước khi tái sinh.
+- ch239: Không có thông tin mới về danh tính nhân vật.
+- ch241: Armel de Viet (tên đầy đủ của Armel)
+- ch241: Senior Armel Colt (biệt danh mà Frondier nhắc đến)
+- ch242: Armel de Viet (tên đầy đủ của Armel)
+- ch243: Frondier (có thể đang giả mạo danh tính)
+- ch244: Neil Jack là tên của Neil.
+- ch246: Indus (đề cập): Người gây ra sự cố, không rõ danh tính hoặc động cơ.
+- ch247: Con quạ: Được Frondier huấn luyện.
+- ch248: Frondier (giả dạng Enfer)
+- ch249: Người đàn ông sử dụng khuôn mặt của Enfer: chưa rõ danh tính thật sự.
+- ch249: Kora: trước đây là một con sói, có dòng máu bạch hổ.
+- ch251: Serf: Đã qua đời, người tạo ra thẻ bài.
+- ch251: Manggot: Tổ chức có liên hệ với Frondier và giới quý tộc cao cấp.
+- ch252: Người đàn ông đối đầu với Kora khi biến hình có khuôn mặt giống Enfer.
+- ch253: Frondier de Roach (Tên đầy đủ của nhân vật chính)
+- ch254: Aster Evans: Tên đầy đủ của Aster.
+- ch254: Arthur: Được nhắc đến trong cuốn sách mà Osprey đang đọc.
+- ch255: Frondier de Roach: Tên đầy đủ của Frondier.
+- ch255: Aster Evans: Tên đầy đủ của Aster. Cậu đã mượn thanh kiếm Excalibur từ Aster.
+- ch256: Frondier de Roach (tên đầy đủ của nhân vật chính)
+- ch256: Robald Lieff (tên đầy đủ)
+- ch257: Cropolis: Thành phố nghỉ dưỡng ven hồ.
+- ch257: Indus: Đối tượng mà Frondier đang bí mật truy lùng.
+- ch258: Student Frondier: học sinh Frondier
+- ch259: Frondier de Roach: Tên đầy đủ của Frondier.
+- ch260: Heldre: Thủ lĩnh của Indus và là một trong mười hai Zodiac.
+- ch260: Glutton of Chaos: Tương tự Heldre về tính cách trước khi trở thành Zodiac.
+- ch262: Nhiệm vụ 'Operation Suppress Indus' được tiết lộ.
+- ch262: Manggot được nhắc đến lần đầu tiên với Frondier và Isamaya.
+- ch265: Không có thay đổi đáng kể nào trong danh tính nhân vật được tiết lộ trong chương này.
+- ch266: Isamaya được tiết lộ là giáo viên của Constel.
+- ch268: Pointer của Isamaya: Ban đầu được cho là bút chỉ trong lớp học, nhưng thực chất là một loại vũ khí có thể thay đổi độ dài.
+- ch269: Có thể có người giả trang thành Frondier.
+- ch270: Tên lửa 'fireworks' được nhắc đến như một sự kiện đã xảy ra ở Constel trước đây.
+- ch271: Kraken tiết lộ thông tin cho Frondier về việc anh ta có thể trở thành 'nạn nhân' trong cuộc cách mạng của Indus.
+- ch272: Kraken: Lãnh đạo Indus có mối thù với Frondier và muốn sử dụng anh ta làm vật tế.
+- ch272: Dummy Cain: Một bản sao làm từ nhện được Frondier dùng để kiểm tra Cain.
+- ch273: Cain: Có vẻ như đang sử dụng một hình dạng hoặc thân phận giả.
+- ch276: Heldre: Trước đây được miêu tả là một đối thủ mạnh mẽ trong game, nhưng hiện tại đang cầu xin sự tha thứ.
+- ch276: Hestia: Nữ thần của gia đình, người đã ban cho Heldre Divine Power và tiết lộ những thông tin quan trọng.
+- ch277: Excalibur: vũ khí mà Frondier đang sử dụng.
+- ch277: Mjölnir: một vật phẩm khác mà Frondier đang sử dụng.
+- ch279: Công việc tình nguyện của Frondier có thể là hình phạt cho một hành động xấu ở Constel.
+- ch280: Sybil Forte (tên đầy đủ của Sybil)
+- ch281: Gregory: Hiện đang hoạt động dưới hình dạng một con quạ.
+- ch281: Morion (trước đây gọi là Obsidian): Tên nhà tù đã được thay đổi.
+- ch282: Renzo được biết đến với biệt danh 'Glutton of Chaos'.
+- ch283: Eden Hamelot: Tên đầy đủ của Eden.
+- ch284: Người phụ nữ bí ẩn là Kraken, có thể biến đổi hình dạng.
+- ch286: Kẻ đột nhập có khả năng thay đổi khuôn mặt, có thể là một sinh vật bên ngoài.
+- ch287: Ares: Được tiết lộ là có liên quan đến việc hồi sinh Renzo và cung cấp 'sức mạnh thích hợp' cho anh ta.
+- ch288: Hearth của Hestia: Vật phẩm Divine, có khả năng ban phước cho các vật thể khác.
+- ch288: Mjölnir: Búa của Thor, được ban tặng sức mạnh của Sấm chớp.
+- ch290: Frondier: Người cung cấp thông tin cho kẻ thù của Indus.
+- ch290: Kraken: Có một quá khứ và cái chết trước đó liên quan đến cuộc cách mạng.
+- ch291: Renzo: Có vẻ là một nhân vật nguy hiểm và khó đoán.
+- ch291: Kraken: Có thể là người giám sát hoặc chỉ huy của Renzo, nhưng đang gặp khó khăn trong việc kiểm soát anh ta.
+- ch293: Bartello Terst: Quốc vương (hoàng gia)
+- ch294: Cánh tay giả của Renzo được làm bởi Thompson.
+- ch295: Vũ khí 'Enkephalos' và 'Lynotoros' thuộc về Ares.
+- ch295: Chiếc vòng cổ mà Frondier luôn đeo, được giấu kín bên trong quần áo.
+- ch296: Lynotoros: khiên mà Frondier đang cố gắng tìm hiểu danh tính thật sự.
+- ch296: Ares: Thần xuất hiện bên trong Renzo, được cảnh báo về việc Frondier điều tra các vị thần.
+- ch297: Neil Jack: Tên đầy đủ của Neil (không có thêm chi tiết).
 - ch298: Skyler đang mặc áo giáp tấm (plate mail).
 - ch299: Selena: Có vẻ là người bảo vệ bí mật của Frondier.
 - ch299: Hagley: Thành viên cốt cán của Manggot, từng tiếp cận Frondier trước đó.
 - ch300: Jei: Tên thật của Selena khi còn sống trong tổ chức Manggot.
+- ch301: Selena được gọi là 'J', sát thủ thứ mười của Manggot.
+- ch301: Yeolgol là đội tinh nhuệ dưới quyền Selena.
+- ch302: Heldre là Zodiac
+- ch303: Kraken: bị tố đã tấn công đồng đội để trốn thoát.
+- ch303: Heldre: được nhắc đến như người gây ra việc Frondier mất mana.
+- ch304: Kraken: biến đổi thành hình dạng người để trốn thoát, có thể thay đổi khuôn mặt.
+- ch305: Kraken: Được tiết lộ là một quái vật giả dạng con người.
+- ch306: Khả năng huyết mạch 'Sensory Sharing' của Malia có thể là khả năng tiềm ẩn của Frondier.
+- ch307: Esther: Người cai ngục nhà tù Morion, được Frondier gọi là 'người cai ngục'.
+- ch309: Tên đầy đủ của Frondier là Frondier de Roach.
+- ch309: Renzo sử dụng 'Enkephalos' và 'Rinotoros', hai vũ khí có thông tin chi tiết bị che giấu.
+- ch310: Khryselakatos: vũ khí ban đầu có tùy chọn 'Female Only' đã bị loại bỏ bằng Degradation.
+- ch310: Neil Jack’s dagger: vũ khí mạnh mẽ được cân nhắc để thử nghiệm Enhancement.
+- ch312: Frondier de Roach (Tên đầy đủ của Frondier)
+- ch313: Mistilteinn (đã bị chứng minh là giả mạo, chứa Obsidian)
+- ch314: Aster Evans (Aster)
+- ch314: Eden Hamelot (Eden)
+- ch315: Aster Evans: Tên đầy đủ của Aster.
+- ch317: Warden Esther: Người cung cấp manh mối về mảnh vỡ Helheim.
+- ch318: Không có thông tin về danh tính mới hoặc thay đổi tên gọi trong chương này.
+- ch319: Edwin von Behetorio: Tên đầy đủ của Edwin.
+- ch319: Hephaestus: Sức mạnh thần thánh của Hephaestus đã bị rút lui khỏi Edwin.
+- ch321: Vòng tay của Elodie: Được thiết kế để kiểm soát sức mạnh Mana của cô ấy.
+- ch323: Ellen Evans (tên đầy đủ của Ellen)
+- ch325: Manggot (được thay thế bằng 'there' để tránh sự chú ý)
+- ch326: Aster Evans: Tên đầy đủ của Aster.
+- ch329: Không có thông tin mới về danh tính nhân vật.
+- ch330: Lord Frondier: Con thứ của Lord Roach, được cho là 'Young Lord' bởi Laurie (nhưng thực tế là anh trai của Young Lord).
+- ch331: Laurie: Ban đầu được cho là Laurie, sau đó tiết lộ là một gián điệp có diện mạo giả.
+- ch331: Laurie: Sử dụng mặt nạ và tóc giả để che giấu thân phận thật.
+- ch332: Laurie: Sử dụng tên giả, không có danh tính thực sự được đăng ký.
+- ch332: Selena: Có thể là danh tính thật của Laurie, nhưng đã bị quên lãng.
+- ch333: Frondier là con trai của Enfer, thành viên gia tộc Roach.
+- ch334: Frondier de Roach (tên đầy đủ của Frondier)
+- ch335: Laurie có thể là một đặc vụ được cử đi ám sát Enfer.
+- ch336: Laurie đang che giấu danh tính của mình.
+- ch337: Gregory hiện đang bị giam giữ trong tù.
+- ch338: Cassian: Con ngựa đặc biệt do Penelope tạo ra, có liên quan đến những sự kiện trước đó tại Tyburn.
+- ch339: Biệt danh của Frondier: 'Human Sloth' (Người Lười Biếng)
+- ch341: Helheim: Ban đầu được gọi là 'Hel', sau đó được đổi tên để tránh nhầm lẫn với nữ thần Hel.
+- ch341: Fabric of Penelope: Đã được Frondier trao cho Selena.
+- ch343: Không có thông tin về danh tính khác.
+- ch344: Không có thông tin về danh tính mới hoặc thay đổi tên gọi trong chương này.
+- ch345: Con quạ được Frondier huấn luyện để thu thập thông tin và giao tiếp bằng tiếng người.
+- ch347: Frondier de Roach: Tên đầy đủ của Frondier.
+- ch348: Malia de Roach (tên cũ của Malia)
+- ch349: Frondier: Sử dụng mặt nạ và mũ trùm để che giấu danh tính trong trận chiến.
+- ch350: Không có thông tin về danh tính mới hoặc bí mật nào được tiết lộ trong chương này.
+- ch351: Khryselakatos (được nhắc đến thông qua một chiếc vòng cổ mà Frondier đang sở hữu)
+- ch352: Obsidian: Chất đen được Frondier thu thập, ban đầu là một phần của Khryselakatos và sau đó từ quái vật bóng tối. Nó chứa Mana.
+- ch353: Obsidian (được sử dụng để hấp thụ Mana của quái vật bóng tối)
+- ch354: Frondier: Danh tính thật của thực thể đen bí ẩn, được quân lính phát hiện ra.
+- ch356: Black Lotus: Một hiện vật quan trọng được Sybil gửi đến cho Frondier.
+- ch359: Không có thông tin về danh tính mới trong chương này.
+- ch360: Selena de Barnier (tên đầy đủ của Selena)
+- ch361: Laurie: Đặc vụ bí mật hoàng gia (Imperial secret agent)
+- ch362: Không có thông tin về danh tính khác.
+- ch363: Frondier: Người đã từng giam giữ Laurie, tra tấn cô.
+- ch364: Ambu: Một tổ chức bí mật. Họ đang che giấu thân phận của mình.
+- ch365: Hel: Tên khác của Hera, nữ thần cai quản âm ti.
+- ch366: Hel là tên khác của Hera, nữ thần cai quản âm ti.
+- ch367: Hel là một tên khác của Hera, nữ thần cai quản âm ti.
+- ch368: Frondier de Roach: Tên đầy đủ của nhân vật chính.
+- ch369: Mảnh vỡ của Helheim biến thành obsidian và được đặt vào hoa sen đen.
+- ch372: Frondier de Roach (Tên đầy đủ của Frondier)
+- ch373: Quinie de Viet (tên đầy đủ của Quinie)
+- ch374: Ellen Evans là tên đầy đủ của Ellen.
+- ch375: Aster Evans (tên đầy đủ của Aster)
+- ch375: Ellen Evans (tên đầy đủ của Ellen)
+- ch375: Enfer de Roach (gia chủ nhà Roach, cha của Frondier và Azir)
+- ch375: Hector Dutoit (con trai Ludwig, tên thật là Hector Von Urfa)
+- ch375: Fron (tên thân mật của Frondier)
+- ch376: Frondier được gọi là 'Sloth' (Lười Biếng).
+- ch377: Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi tức tỉnh thần tính)
+- ch380: Selena đang thực hiện nhiệm vụ bí mật theo lệnh của Hagley, giả vờ yêu Frondier để đánh lạc hướng sự nghi ngờ của anh.
+- ch381: Frondier: biệt danh 'Sloth' (lười biếng)
+- ch381: Selena: trước đây là người cố gắng quyến rũ Frondier, hiện tại có mối quan hệ phức tạp hơn.
+- ch382: Jacob tự xưng là 'Manggot third finger'.
+- ch383: Jacob tự xưng là 'third finger'.
+- ch384: Aster Evans (tên đầy đủ của Aster)
+- ch385: Ellen = Ellen Evans
+- ch385: Lunia = Lunia Fricell
+- ch385: Dier = Dier Eiger
+- ch386: Frondier (giám khảo vòng hai, có vẻ ngoài mệt mỏi)
+- ch387: Alberto Montes: Người tài trợ cho chương này thông qua Ko-fi.
+- ch389: Pielott von Ribanche (tên đầy đủ)
+- ch391: Sloth: Người hướng dẫn bài kiểm tra thứ hai, có vẻ như sức mạnh của anh ta đã được điều chỉnh để phù hợp với độ khó của bài kiểm tra.
+- ch392: Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi thức tỉnh thần tính)
+- ch393: Obsidian: chất lỏng đen được sử dụng bởi Frondier để tạo ra các bài kiểm tra kỹ năng.
+- ch394: Hypnos: Thần ngủ, anh trai của Thanatos (người đã từng đe dọa Frondier).
+- ch395: Aster Evans: Tên đầy đủ của Aster.
+- ch396: Edwin von Behetorio (tên đầy đủ của Edwin)
+- ch398: Người đàn ông đeo mặt nạ: Có thể là một thành viên của tổ chức bí mật đang tuyển mộ học sinh Constel.
+- ch399: Frondier de Roach: Tên đầy đủ của nhân vật chính.
+- ch399: Dier Eiger: Tên đầy đủ của Dier.
+- ch400: Frondier được biết đến với biệt danh 'Senior Sloth'.
+- ch401: Không có thông tin về danh tính khác hoặc thay đổi tên gọi trong chương này.
+- ch402: Azier de Roach: Trước đây được biết đến với tên Azier.
+- ch402: Bartello Terst: Hiện tại là Vua Bartello.
+- ch403: Aten Terst (tam công chúa)
+- ch403: Helheim Mana (Mana mà Frondier nhận được)
+- ch404: Dier Eiger: Tên đầy đủ của một nhân vật.
+- ch405: Ellen Evans là tên đầy đủ của Ellen.
+- ch406: Ellen Evans: Tên đầy đủ của Ellen.
+- ch407: Aster Evans: Tên đầy đủ của Aster.
+- ch407: Ellen Evans: Tên đầy đủ của Ellen.
+- ch408: Eden Hamelot: Pro, số một.
+- ch408: Ellen: Có thể đang bị Eden Hamelot đe dọa và điều khiển.
+- ch409: Học sinh tố giác: Được thuê làm người kích động (agitator).
+- ch410: Người lái xe cũ của Azier đã qua đời trong một nhiệm vụ, không rõ danh tính cụ thể.
+- ch411: Frondier de Roach (tên đầy đủ của Frondier)
+- ch411: Eden Hamelot (tên đầy đủ của Eden)
+- ch412: Eden Hamelot (tên đầy đủ của Eden)
+- ch416: Constel: Cơ sở đào tạo trẻ trở thành chuyên gia (pro).
+- ch418: Các golem được mô phỏng theo kỹ năng chiến đấu của Azier, được tinh chỉnh bởi Binkis.
+- ch419: Eden Hamelot: Tên đầy đủ của Eden.
+- ch420: Eden Hamelot: Tên đầy đủ của Eden.
+- ch421: Eden Hamelot: Tên đầy đủ của Eden.
+- ch422: Eden Hamelot (tên đầy đủ của Eden)
+- ch422: Dier Eiger (tên đầy đủ của Dier)
+- ch422: Angus Mason (tên đầy đủ của Angus)
+- ch424: Frondier de Roach được gọi là 'Senior Sloth'.
+- ch425: Angus đã chuẩn bị sẵn giải độc trong cơ thể mình để đối phó với việc bị tiêm huyết thanh mana.
+- ch426: Nguyên mẫu (prototype): đối tượng thử nghiệm đã bị tiêm Mana nhiều lần và có những biến đổi đáng kể.
+- ch428: Không có thông tin mới về danh tính.
+- ch429: Eden Hamelot (tên đầy đủ của Eden)
+- ch429: Angus Mason (tên đầy đủ của Angus)
+- ch431: Bartello Tert (Quốc vương)
+- ch431: Philly Terst (Hoàng hậu)
+- ch432: Frondier de Roach: Tên đầy đủ của nhân vật chính.
+- ch432: Philly Terst: Hoàng hậu của đế quốc.
+- ch432: Bartello Tert: Quốc vương.
+- ch433: Frondier de Roach (tên đầy đủ của nhân vật chính)
+- ch434: Frondier de Roach (tên đầy đủ)
+- ch435: Frondier de Roach (tên đầy đủ của nhân vật chính)
+- ch436: Frondier de Roach (tên đầy đủ của Frondier)
+- ch436: Eden Hamelot (tên đầy đủ của Eden)
+- ch438: Đội Bóng Tối (Shadow Unit): Một tổ chức bí mật trong cung điện.
+- ch439: Eden Hamelot là tên đầy đủ của Eden.
+- ch440: Philly Terst (Hoàng hậu)
+- ch440: Aten Terst (Tam công chúa)
+- ch442: Joseph von Wexler: kẻ đứng sau kế hoạch Mana Injection, chưa rõ thân phận thực sự.
+- ch443: Bartello Tert (Quốc vương)
+- ch443: Frondier de Roach (Tên đầy đủ của nhân vật chính)
+- ch444: Alan (người đã tài trợ chương này)
+- ch444: Wordsmith (người đã tài trợ chương này)
+- ch445: Bartello Tert (tên đầy đủ của quốc vương Bartello)
+- ch446: Frondier de Roach (tên đầy đủ của nhân vật chính)
+- ch447: Ria Lis được gọi là 'Lily' bởi những người chơi và một số người khác.
+- ch447: Lily gợi nhớ đến quỷ Lilith.
+- ch448: Pascal Schlitz (tên đầy đủ của Pascal)
+- ch449: Pascal Schlitz (tên đầy đủ của Pascal)
+- ch451: Lính canh bị phơi bày là Azier đang cải trang.
+- ch452: Kẻ địch: Mizonas, người thừa kế sự giận dữ và quỷ hàng đầu trong hệ thống thứ bậc của sự giận dữ.
+- ch452: Con quái vật: ban đầu có hình dạng Pascal.
+- ch453: Con quạ do Frondier huấn luyện có thể nói chuyện.
+- ch454: Không có thông tin về danh tính mới hoặc bí mật nào được tiết lộ trong chương này.
+- ch457: Quái vật (Monster) biến thành Azier de Roach để thử nghiệm kỹ thuật. Không rõ danh tính thật của quái vật.
+- ch459: Quái vật nhớ lại mình là 'một tai họa' do Metamorph tạo ra, và là một đối tượng thử nghiệm.
+- ch460: Mizonas có thể là một sinh vật lai giữa người và quỷ, hoặc là sản phẩm của thí nghiệm.
+- ch460: Satan trong game Etius có đặc điểm nhận dạng là đôi cánh giống chim, khác biệt so với các quỷ khác.
+- ch461: Philly Terst (hoàng hậu của đế quốc)
+- ch461: Bartello Tert (quốc vương)
+- ch463: Người đàn ông mà Lily tìm thấy trông giống Frondier, nhưng thực chất là một quỷ dữ có hình dạng của Frondier.
+- ch464: Fron: Biệt danh thân mật của Frondier, được Philly biết đến.
+- ch465: Trái Tim Rồng (Dragon Heart): Một vật quan trọng, bí mật trong lâu đài.
+- ch465: Đơn vị Bóng tối (Shadow Unit): Một tổ chức có mục đích và động cơ riêng biệt.
+- ch466: Calamity of Metamorph: Ban đầu là thí nghiệm nhằm loại bỏ tác dụng phụ của việc tiêm năng lượng mana, sau đó bị quỷ biến thành một con quái vật bắt chước hoàn hảo.
+- ch467: Satan: Demon of Wrath, có cánh chim đen như quạ, khác biệt so với các demon khác.
+- ch468: Philly Terst (hoàng hậu đế quốc)
+- ch468: Satan (demon of wrath)
+- ch469: Metamorph: Hiện tại không có hình dạng người, biến thành một khối chất nhờn (slime).
+- ch471: Metamorph được đặt tên là Mei.
+- ch471: ‘Calamity of Metamorph’ là biệt danh cũ của Metamorph.
+- ch473: Osprey: Có thể đã biến mất hoặc bị thay thế mà không ai hay biết.
+- ch474: Osprey: Có thể đã bị xóa khỏi mọi hồ sơ và ký ức.
+- ch474: Armel de Viet: Tên đầy đủ của cha Quinie, có liên quan đến sức mạnh Lethe.
+- ch476: Osprey: Tên của một người mất tích, có vẻ như đã để lại thư cho Jane.
+- ch476: Jane: Có thể không phải là Jane thật sự mà là một hình dạng khác đang giả mạo.
+- ch477: Osprey: Headmaster của Constel, hiện đang ẩn mình khỏi thế giới.
+- ch477: Jane: Hiện tại giữ chức Headmaster thay cho Osprey.
+- ch479: Jane là Hiệu trưởng (Headmaster)
+- ch480: Hector Von Urfa được biết là Hector, con trai của Ludwig von Urfa.
+- ch481: Mei hiện tại có hình dạng giống Frondier.
+- ch482: Elodie de Inies Rishae: Tên đầy đủ của Elodie sau khi thức tỉnh thần tính.
+- ch483: Frondier: Hiện tại là một đứa trẻ, có lẽ khoảng 6-8 tuổi.
+- ch483: Fron: Tên thân mật mà Elodie gọi Frondier.
+- ch485: Fron: Tên thân mật của Frondier được Elodie gọi.
+- ch486: Không có
+- ch488: Frondier đang giả làm chính mình.
+- ch488: Elodie de Inies Rishae là tên đầy đủ của Elodie sau khi tỉnh táo lại.
+- ch489: Elodie sử dụng phép 'Eternal Slumber' để tránh bị xóa khỏi thế giới, biến cô thành một học sinh năm thứ hai tại Etius trước khi trở về hình dạng hiện tại.
+- ch490: Frondier de Roach (Tên đầy đủ của Frondier)
+- ch490: Fron (Biệt danh của Frondier)
+- ch491: Mei: Có vẻ ngoài giống Frondier và Elodie, có thể đang bắt chước cách nói chuyện của ai đó.
+- ch492: Mei: Tên được Frondier đặt cho Metamorph, có ý nghĩa 'tháng Năm'.
+- ch493: Mei: Dạng nữ của Metamorp, được Frondier đặt tên.
+- ch493: Elodie và Frondier: Mei có ngoại hình giống cả hai người.
+- ch494: Pielott có tài năng Aura bẩm sinh, ngang ngửa với hầu hết các yêu tinh.
+- ch494: Kỹ năng 'Iaijutsu' của Pielott được anh luyện tập khi còn trẻ vì nghĩ nó trông 'ngầu'.
+- ch496: Aster Evans: Tên đầy đủ của Aster.
+- ch497: Fron: Biệt danh của Frondier do Elodie gọi.
+- ch498: Mei (dạng nữ của Metamorp)
+- ch498: Fron (tên thân mật của Frondier)
+- ch498: Hel (tên khác của Hera)
+- ch499: Osprey: Zodiac, người gần như là một Archmage.
+- ch499: Selena: Có liên quan đến Manggot, có thể đang che giấu thân phận.
+- ch500: Selena: Ban đầu được giao nhiệm vụ theo dõi và báo cáo về Frondier, sau đó trở thành người hộ tống của anh. Vai trò thực tế là để thu thập thông tin cho Manggot.
+- ch501: Eden Hamelot (tên đầy đủ của Eden)
+- ch501: Bartello Tert (quốc vương)
+- ch501: Philly Terst (hoàng hậu)
+- ch501: Aten Terst (tam công chúa)
+- ch503: Frondier de Roach (tên đầy đủ của nhân vật chính)
+- ch503: Ludwig von Urfa (tên đầy đủ Ludwig)
+- ch505: Renzo: Trốn thoát khỏi Obsidian Prison, được cho là đã chết nhưng thực tế vẫn còn sống.
+- ch505: Kraken: Đã giúp Renzo trốn thoát khỏi Obsidian Prison và tạo tin đồn về cái chết của anh ta.
+- ch506: Aster Evans: Tên đầy đủ của Aster.
+- ch508: Frondier de Roach (Tên đầy đủ của nhân vật chính)
+- ch508: Aster Evans (Tên đầy đủ của Aster)
+- ch509: Selena được biết đến là một sát thủ của 'Mười Sát Thủ' dưới sự chỉ huy của Hagley.
+- ch510: Aster Evans (tên đầy đủ của Aster)
+- ch510: Ellen Evans (tên đầy đủ của Ellen)
+- ch510: Sybil Forte (tên đầy đủ của Sybil)
+- ch510: Lunia Fricell (tên đầy đủ của Lunia)
+- ch510: Edwin von Behetorio (tên đầy đủ của Edwin)
+- ch510: Robald Lieff (tên đầy đủ của Robald)
+- ch510: Pielott von Ribanche (tên đầy đủ của Pielott)
+- ch510: Dier Aigar (tên đầy đủ của Dier)
+- ch512: Frondier de Roach (tên đầy đủ của Frondier)
+- ch512: Ellen Evans (tên đầy đủ của Ellen)
+- ch513: Hitchcock (công ty chế tạo ma thuật)
+- ch514: Philly Terst (hoàng hậu)
+- ch514: Bartello Tert (quốc vương)
+- ch515: Aster Evans: Tên đầy đủ của Aster.
+- ch515: Elodie de Inies Rishae: Tên đầy đủ của Elodie sau khi tức tỉnh thần tính.
+- ch516: Aster Evans: Tên đầy đủ của Aster.
+- ch516: Hector Von Urfa: Tên thật của Hector.
+- ch517: Aster Evans: Tên đầy đủ của Aster.
+- ch517: Hector Von Urfa: Tên thật của Hector Dutoit.
+- ch519: Elodie de Inies Rishae (trước đây chỉ là Elodie)
+- ch520: Mei: Dạng nữ của Metamorp, được Frondier đặt tên. Cô ấy có thể mô phỏng kỹ năng của Frondier.
+- ch521: Dier Aigar (thực chất là Eiger)
+- ch522: Renzo được xác định là một thành viên của Manggot.
+- ch523: Hector Von Urfa được gọi là Hector
+- ch525: Aster Evans là tên đầy đủ của Aster.
+- ch525: Hector là con trai Ludwig, tên thật là Hector Von Urfa.
+- ch526: Aster Evans: Tên đầy đủ của Aster.
+- ch527: Hector Von Urfa (tên thật của Hector)
+- ch528: Aster Evans (tên đầy đủ của Aster)
+- ch529: Aster Evans: Tên đầy đủ của Aster.
+- ch529: Ellen Evans: Tên đầy đủ của Ellen.
+- ch530: Kỹ thuật 'One Flash' là sự cải tiến của Aster dựa trên kỹ thuật 'One Strike' của Ellen.
+- ch531: Hector Von Urfa (tên thật của Hector)
+- ch532: Excalibur: Thanh kiếm thứ hai mà King Arthur nhận từ Lady of the Lake, chứng minh sự hoàn thiện của anh ta.
+- ch533: Sybil Forte là tên đầy đủ của Sybil.
+- ch534: Sybil được đồn đại là 'người con gái được số phận yêu thương'.
+- ch535: Sybil từng được Frondier nhìn nhận như một 'kẻ phản bội' của Đế quốc.
+- ch536: Hector Von Urfa (tên thật của Hector)
+- ch537: Lunia được gọi là Lunia Fricell, tên đầy đủ của cô ấy.
+- ch538: Jei là tên của Selena.
+- ch539: Selena: tiết lộ đã được Frondier đưa đến cửa hàng bách hóa để tìm hiểu về vòng xiềng phép thuật.
+- ch540: Belphegor: Thủ lĩnh của Manggot, ban đầu nghĩ Frondier là Osprey. Sau đó phát hiện ra Frondier không phải con người thật mà là vật chủ của quỷ.
+- ch542: Frondier de Roach (Tên đầy đủ của Frondier)
+- ch543: Tên thật của Selena là 'Selena de Vanier'.
+- ch545: Frondier de Roach (Tên đầy đủ của nhân vật chính)
+- ch546: Mei hiện đang ở trong hình dạng của Frondier theo yêu cầu của Frondier.
+- ch547: Selena: Kẻ ám sát của 'Yeolgot', ít tài năng ma thuật hơn những người khác nhưng có kỹ năng cận chiến và sử dụng kim tiễn xuất sắc.
+- ch547: Hagley: Người đã huấn luyện Selena, biết rõ các kỹ thuật chiến đấu của cô.
+- ch548: Chiếc kim bí ẩn trên người Selena được tiết lộ là làm từ 'Obsidian', tẩm độc của Slevb.
+- ch549: Selena đã từng sử dụng Transfer với Malia và Cassian, gây ra ảnh hưởng lớn đến sức khỏe của cô.
+- ch551: Mei: Ban đầu cải trang thành Adela, một người chăn cừu của Manggot.
+- ch552: Frondier được gọi là Azier trong chương này.
+- ch554: Quinie de Viet (tên đầy đủ của Quinie)
+- ch555: Belphegor: Một trong Bảy Tội Lỗi.
+- ch556: Excalibur: thanh kiếm mà Aster nhận được từ Nimue, sau đó được tiết lộ là Excalibur.
+- ch556: King Arthur: hình ảnh người hùng được Merlin sử dụng để minh họa vai trò của Aster.
+- ch557: Mei: Tên được đặt bởi Frondier cho dạng nữ của Metamorp.
+- ch558: Aster Evans (tên đầy đủ của Aster)
+- ch558: Aten Terst (tên đầy đủ của Aten, tam công chúa)
+- ch560: Mei (dạng nữ của Metamorp)
+- ch561: Tinh thể mana được tạo ra bởi Frondier và Mei ban đầu được gọi là 'Dragon Heart' giả nhưng sau đó được đặt tên là 'Frondier Heart', tuy nhiên Frondier từ chối cái tên này vì cho rằng nó quá sến súa.
+- ch562: Frondier de Roach (tên đầy đủ của nhân vật chính)
+- ch563: Excalibur: vũ khí được King Arthur từng sử dụng, giờ đây chứa đựng tất cả các câu chuyện liên quan đến nó.
+- ch563: Obsidian: vật liệu ban đầu hoạt động bằng mana của Helheim, nhưng đã biến đổi sau khi Frondier truyền năng lượng mana của mình vào.
+- ch564: Belphegor: Quỷ dữ, đối thủ của Frondier.
+- ch565: Frondier de Roach (tên đầy đủ của Frondier)
+- ch565: Quinie de Viet (tên đầy đủ của Quinie)
+- ch566: Mjölnir: Được Frondier cảm nhận và sử dụng, có vẻ như nó đến từ Cung điện Hoàng gia. Có khả năng liên quan đến Thor.
+- ch567: Belphegor: Một Sát Thủ của Bảy Tội Lỗi.
+- ch567: Prometheus: Nhân vật liên quan đến thần thoại cổ đại, được tôn thờ vì đã bảo vệ và giúp đỡ con người.
+- ch570: Belphegor: Đã từng là một trong Bảy Tội lỗi, hiện đã bị luận tội và trục xuất.
+- ch570: Astaroth: Người kế nhiệm Belphegor trong vai trò 'Sloth'.
+- ch571: Belphegor đã từng giữ vị trí 'Sloth' trước khi chuyển giao cho Astaroth.
+- ch572: Selena đã tái kết nối bóng tối của mình với Frondier.
+- ch573: Frondier de Roach: Tên đầy đủ của nhân vật chính.
+- ch574: Frondier de Roach: tên đầy đủ của Frondier.
+- ch574: Aster Evans: tên đầy đủ của Aster.
+- ch575: Ria Lis có thể là tên giả của Lily.
+- ch576: Frondier de Roach (tên đầy đủ của Frondier)
+- ch577: Những kẻ cướp không phải là những kẻ cướp bình thường mà đã được chuẩn bị kỹ lưỡng và có thông tin về Frondier và chuyến hộ tống.
+- ch579: Joseph von Wexler: Chú của Amelie, liên quan đến Shadow Agency và 'Mana Injection'.
+- ch580: Laurie có một nhân cách thứ hai, đóng vai trò thư ký tại cung điện hoàng gia với vẻ ngoài trí thức hơn và không có nốt ruồi.
+- ch581: Không có thông tin mới về danh tính của bất kỳ nhân vật nào.
+- ch582: Frondier: Hiện đang là người bảo vệ của Ameline theo yêu cầu của Lily.
+- ch584: Các vệ binh của Lily có hồ sơ tội phạm được Shadow Unit che đậy.
+- ch585: Lily sử dụng tên Ria Lis.
+- ch585: Lis là một cách gọi khác của Lily.
+- ch586: Biệt danh 'human sloth' của Frondier trong Constel.
+- ch587: Belphegor: đã chiếm giữ một xác chết, nguồn gốc của xác chết là một ẩn số.
+- ch587: Lily: có thể là một quỷ dữ hoặc có liên quan đến các quỷ dữ.
+- ch588: Elodie de Rishae (trước đây là Elodie)
+- ch589: Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi tức tỉnh thần tính)
+- ch589: Frondier de Roach (tên đầy đủ của nhân vật chính)
+- ch589: Aster Evans (tên đầy đủ của Aster)
+- ch590: Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi tức tỉnh thần tính)
+- ch591: Mjölnir (tên một vũ khí)
+- ch592: Belphegor: Một thế lực mạnh mẽ từng đe dọa Đế quốc, đã bị đánh bại và quay trở lại Cõi Quỷ.
+- ch592: Agoris: Nơi mà những con quỷ này đến từ đó.
+- ch593: Belphegor: Một con quỷ đã chặn đứng cuộc tấn công của những con quỷ khác.
+- ch593: Jeremy de Hitchcock: Có thể là một con quỷ trá hình, chủ sở hữu của công ty kỹ thuật ma thuật Hitchcock.
+- ch594: Thiết bị trên người Frondier có vẻ tương tự sản phẩm của công ty Hitchcock.
+- ch595: Bản thiết kế 3D của Frondier được dựa trên bản thiết kế của Elodie.
+- ch596: Bản đồ hologram của Hitchcock: Bản đồ hologram được phát triển bởi công ty Hitchcock.
+- ch598: Frondier de Roach (Tên đầy đủ của Frondier)
+- ch599: Súng phun gió: Tên gọi do Frondier đặt cho một thiết bị có khả năng bắn khí nén.
+- ch599: Golem Obsidian: Một tạo vật mô phỏng Azier, được tạo ra bởi Binkis.
+- ch600: Không có thông tin mới về danh tính nhân vật.
+- ch601: Belphegor: Một quỷ đã bị giết.
+- ch601: Satan: Đề cập đến khả năng Satan đã cài đặt những con quỷ vào Đế quốc.
+- ch602: Bartello Tert (quốc vương)
+- ch603: Không có thông tin về danh tính mới hoặc thay đổi.
+- ch605: Hitchcock là tên của một người đàn ông, đồng thời cũng là tên công ty mà Frondier đang ở.
+- ch606: Arald Lemer: Chủ tịch Hội đồng quản trị của Hitchcock Corporation.
+- ch608: Bảy Tội Lỗi: Các quỷ có tên và vai trò tương ứng với những tội lỗi, không liên quan đến Kinh Thánh.
+- ch608: Astaroth: Quỷ đang nắm giữ vị trí 'Sloth' (Lười Biếng) trong Bảy Tội Lỗi.
+- ch609: Olivier: Quản lý liên quan đến các hoạt động tội phạm của quỷ dữ.
+- ch610: Olivier: ban đầu được cho là có thể kiểm soát, sau đó bị giết.
+- ch610: Shadow Unit: đơn vị đặc biệt, đang trong tình trạng hỗn loạn do mất lãnh đạo.
+- ch611: Eden Hamelot là tên đầy đủ của Eden.
+- ch612: Elysia: Trước đây là một công chúa, hiện đang sống ẩn dật với thân phận thường dân.
+- ch613: Olivier: đã bị Frondier giết.
+- ch613: Bart: quản lý hành lang bí mật.
+- ch614: Elysia Terst: Trước đây là công chúa lớn, hiện đang sống ẩn dật với danh tính giả.
+- ch614: Frondier: Đã sử dụng một loại độc dược có thể chữa trị để cứu Elysia.
+- ch615: Olivier là người tiền nhiệm của Bart.
+- ch617: Elysia: Tên đầy đủ là Elysia Terst, trước đây là công chúa.
+- ch618: Kagris: Một tên quỷ đã bị Frondier khuất phục.
+- ch618: Bart: Một tên quỷ khác đã bị Frondier khuất phục.
+- ch619: Lord Enfer: Người lãnh đạo Roach Knight Order.
+- ch621: Ác quỷ bị bỏ rơi (Abandoned Devils): Những kẻ được cho là đến từ một lục địa khác, liên quan đến các vụ án mạng.
+- ch621: Roach: Tên gọi của Frondier, có lẽ là biệt danh hoặc tên thân mật.
+- ch622: Shadow Unit: Đội Bóng Tối (tên gọi chung)
+- ch623: Elysia từng là người trị vì của đế quốc, nhưng đã lui vương.
+- ch624: Ednet: lính canh của Philly, sử dụng kỹ thuật ẩn mình.
+- ch625: Lady Zodiac Ria Lis: Người mà Frondier từng làm kỵ sĩ, thực chất là một quỷ.
+- ch626: Shadow Unit: Đơn vị Bóng Tối (đã được đề cập trong glossary)
+- ch626: Satan: Mục đích ban đầu của hắn là để các nhóm quỷ chia cắt nhau chiến đấu trên lãnh thổ Đế quốc.
+- ch627: Pielott von Ribanche: Học viên năm nhất của Constel.
+- ch627: Adolf: Con quỷ thừa kế Lời Nguyền thứ năm.
+- ch629: Devil (1) - thuộc hạ của Satan.
+- ch629: Devil (2) - một trong những quỷ khác phục vụ mục đích của Satan.
+- ch630: Aster Evans: Tên đầy đủ của Aster.
+- ch631: Aten Terst: Tên đầy đủ của Aten là Aten Terst.
+- ch632: Aten: Ban đầu là một pháp sư băng giá, sau này học phép thuật chữa bệnh do ảnh hưởng của Frondier và Aster (theo kiến thức về game).
+- ch633: Aten Terst: Tam công chúa
+- ch634: Aten Terst (tam công chúa)
+- ch634: Bartello Tert (quốc vương)
+- ch635: Philly Terst (hoàng hậu)
+- ch635: Aten Terst (tam công chúa)
+- ch635: Sybil Forte (tên đầy đủ của Sybil)
+- ch636: Marchosias: Thứ hạng hai của sự giận dữ (second rank of wrath)
+- ch637: Dier đã từng được Frondier chỉ dẫn về cách phân tích đối thủ và sử dụng tâm lý chiến trong trận đấu.
+- ch638: Adolf: Lord Adolf (tên gọi sau khi bị giết)
+- ch639: Pascal Schlitz (Pascal)
+- ch640: Marchosias = Marco
+- ch641: Aten Terst (tên đầy đủ)
+- ch642: Ellen Evans (Ellen)
+- ch642: Edwin von Behetorio (Edwin)
+- ch642: Daud Forte (Daud)
+- ch644: Frondier de Roach (tên đầy đủ của Frondier)
+- ch644: Aster Evans (tên đầy đủ của Aster)
+- ch645: Frondier de Roach (tên đầy đủ của Frondier)
+- ch645: Tin đồn về việc Frondier không phải là con ruột của gia đình Roach.
+- ch646: Arald được tiết lộ là đã biết về khả năng sử dụng sức mạnh Obsidian và sức mạnh quỷ dữ của Frondier từ trước.
+- ch647: Rafflesia (rune)
+- ch648: Philly Terst (Hoàng hậu)
+- ch648: Aten Terst (Tam công chúa)
+- ch649: Frondier de Roach (tên đầy đủ của Frondier)
+- ch649: Lunia Fricell (tên đầy đủ của Lunia)
+- ch652: Rafflesia: Tên một thứ gì đó được dùng để thu hút lũ quỷ, nhưng không được giải thích chi tiết trong chương này.
+- ch653: Mật danh của Marco là 'Marchosias'.
+- ch654: Baal được tiết lộ có một biệt danh khác là Beelzebub, liên quan đến Seven Sins.
+- ch656: Frondier: Sử dụng chiến thuật 'Falling edge' để đánh lừa đối thủ.
+- ch656: Baal: Có sức mạnh tà ác tiềm ẩn, được kích hoạt sau khi bị thương.
+- ch659: Frondier: Nhân vật chính, có sức mạnh tà ma đặc biệt.
+- ch659: Selena: Escort của Frondier, cảm thấy bị bỏ rơi vì không được thông báo trước.
+- ch660: Mei: Hiện đang ở trạng thái thuần khiết, không tham gia vào cuộc chiến và có thể trở nên tốt hoặc xấu trong tương lai.
+- ch662: Hitchcock: Một công ty sản xuất dụng cụ ma thuật, có chủ tịch là một quỷ.
+- ch663: Lunia Fricell (tên đầy đủ của Lunia)
+- ch664: Shadow: thành viên Đội Bóng Tối của Đế Chế, có thể đã được triệu hồi thông qua giao kèo linh hồn và Dragonheart.
+- ch665: Không có thông tin về danh tính mới hoặc bí danh nào được tiết lộ trong chương này.
+- ch666: Elysia: trước đây là một thường dân, sắp trở lại Cung điện Hoàng gia.
+- ch668: Aster Evans (tên đầy đủ của Aster)
+- ch669: Tên đầy đủ của Aten là Aten Terst, tam công chúa.
+- ch670: Dike: vị thần công lý và sự cân bằng, là hình mẫu cho những chiếc cân mà Lunia tạo ra. Không phải là một vật phẩm thực tế mà là nguồn cảm hứng.
+- ch670: Rudra: vị thần mà Elodie gần gũi nhất.
+- ch671: Không có thông tin về danh tính mới hoặc bí mật nào được tiết lộ trong chương này.
+- ch672: Marco (có thể là Marchosias)
+- ch674: Baal: Số 1 trong 72 Quỷ (The 72 Devils' number one)
+- ch676: Frondier: Có khả năng sử dụng sức mạnh quỷ dữ tương đương hoặc vượt qua Bảy Tội Lỗi.
+- ch678: Không có thông tin mới về danh tính nhân vật trong chương này.
+- ch679: Obsidian: ban đầu là chất lỏng, trở thành kim loại khi có mana của Helheim, sau đó lại trở về dạng cũ khi mana bị rút đi.
+- ch681: Người khổng lồ (Giants): Được hiểu là những kẻ thù của thần thánh, không nhất thiết phải lớn về kích thước.
+- ch681: King Arthur: Có vẻ như đã ủng hộ Người khổng lồ và để lại một thông điệp cổ xưa.
+- ch682: Lily từng là thuộc hạ của Satan và có thể đã mất trí nhớ do giao kèo.
+- ch685: Lily: trước đây là thuộc hạ của Satan
+- ch686: Lily có thể là Leah Lis, một thuộc hạ của Satan với ký ức bị mất.
+- ch687: Lily được biết đến với hai danh tính: Lily và Leah Lis. Cô ấy đã mất ký ức về Satan sau khi bị Frondier khuất phục.
+- ch688: Elysia Terst: Công chúa Elysia được biết đến với tên đầy đủ là Elysia Terst.
+- ch689: Elysia: Trước đây là tội phạm, hiện tại trở lại làm công chúa.
+- ch689: Sale: Ứng cử viên kế vị hoàng đế.
+- ch690: Đội Bóng Tối (Shadow Unit): Đơn vị đặc biệt, bí mật của Đế Quốc.
+- ch691: Monty = Zodiac
+- ch692: Azier de Roach: Anh trai của Frondier
+- ch693: Falling edge là một kỹ thuật ban đầu của giáo nhưng Frondier sử dụng với kiếm.
+- ch694: Selena: từ người bảo vệ ẩn danh trở thành người bảo vệ chính thức.
+- ch694: Marco: hiện đang được Aster và các đồng nghiệp điều trị.
+- ch695: Selena: Người quen cũ từ Tyburn, từng có mục đích dụ dỗ Frondier.
+- ch697: Eden Pro: Một tổ chức pro, có vẻ như đang tìm kiếm Frondier để đánh giá tiềm năng của anh.
+- ch700: Durga: Nữ thần Hindu được Monty triệu hồi và có giao kèo để chiếm giữ cơ thể anh.
+- ch701: Binkis từng là giáo viên chủ nhiệm của Azier.
+- ch703: Không có thông tin mới về danh tính nhân vật.
+- ch707: Cain là cháu gái của Heldre, cựu Zodiac.
+- ch707: Cain giả làm nữ sinh Constel.
+- ch709: Heldre: Trước đây là một tội phạm trước khi trở thành Zodiac. Tên thật của Pascal là Pascal Schilitz.
+- ch710: Sale được tiết lộ là đang cân nhắc việc bãi bỏ hệ thống đẳng cấp nếu lên ngôi hoàng đế.
+- ch711: Frondier được biết đến với biệt danh 'Roach', một thành viên của gia tộc Roach.
+- ch711: Có tin đồn Frondier không phải là người nhà của Roach từ đầu.
+- ch712: Gregory có khả năng thu thập thông tin qua chim và chuột.
+- ch713: Philly Terst (Hoàng hậu)
+- ch713: Aten Terst (Tam công chúa)
+- ch713: Bartello Tert (Quốc vương)
+- ch714: Frondier: Nhân vật chính, đang bị dính líu đến những tin đồn thất thiệt.
+- ch714: Philly: Hoàng hậu, có khả năng 'tiên tri' dựa trên kiến thức sâu rộng của dòng máu Vala.
+- ch715: Philly Terst được biết đến với tước hiệu Hoàng hậu của Đế quốc.
+- ch718: Aster Evans: Tên đầy đủ của Aster được tiết lộ.
+- ch720: Esther là người giám ngục (warden) tại nhà tù.
+- ch722: Hagley: Trước đây đã sử dụng ảo thuật để đánh lừa người khác về khả năng nhận biết tài năng của họ.
+- ch723: Người tự xưng là nhà báo có vẻ ngoài của một hiệp sĩ (có thể là người được thuê bởi ai đó).
+- ch724: Pascal Schlitz là tên đầy đủ của Pascal.
+- ch725: Frondier được đồn đại là con trai của gia đình Roach, nhưng đây là một tin giả.
+- ch726: Pascal được xem xét là nghi phạm.
+- ch726: Robert có thể là thủ phạm.
+- ch727: Ria Lis bị nghi là quỷ dữ.
+- ch728: Không có thông tin mới về danh tính nhân vật trong chương này.
+- ch729: Frondier: Bị cáo buộc là quỷ (devil) và kẻ thù của Đế quốc.
+- ch729: Lily: Được Frondier bảo vệ và có thể liên quan đến một âm mưu lớn hơn.
+- ch730: Golems được tạo ra bởi Frondier ban đầu mô phỏng Azier, sau đó thay đổi chiến thuật theo Binkis.
+- ch731: Sale là Odin
+- ch732: Odin đang chiếm giữ cơ thể Sale, tạo ra sự nhập vai giả mạo.
+- ch734: Frondier: Được biết đến với danh hiệu 'anh hùng của Đế quốc', 'hy vọng thứ hai' nhưng cảm thấy bị gán ghép sai lầm.
+- ch735: Frondier de Roach: Tên đầy đủ của nhân vật chính.
+- ch736: Enfer từng được mời gia nhập Zodiac nhưng đã từ chối.
+- ch737: Malia de Roach (là Malia)
+- ch738: Frondier de Roach (tên đầy đủ của Frondier)
+- ch741: Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi tức tỉnh thần tính)
+- ch742: Bartello Tert (quốc vương)
+- ch743: Manggot: Địa điểm chiến đấu trước đây, giờ có cửa do quân đội Hoàng gia xây dựng.
+- ch744: Mei: Ban đầu được chăm sóc bởi Frondier và Elodie trong cabin, hiện tại muốn đi cùng Frondier.
+- ch746: Ragnarok: Sự kiện kết thúc thần thoại Norse, được tiết lộ là một cuộc chiến giữa người và thần.
+- ch746: Người khổng lồ (Giants): Có thể thực chất là con người trong quá khứ.
+- ch747: Không có thông tin về danh tính mới hoặc thay đổi tên gọi.
+- ch748: Manggot: Được tiết lộ là hình dạng rune của Menosorpo.
+- ch748: Menosorpo: Được tiết lộ là một rune, và Manggot là biểu hiện vật lý của nó.
+- ch749: Menosorpo: Được tiết lộ là một rune có mục đích sử dụng ban đầu khác với cách Frondier đang sử dụng.
+- ch750: Jeanne: Cô ấy là một bản sao được tạo ra bởi Menosorpo, không phải sự hồi sinh thực sự của Jeanne d'Arc ban đầu. Cô ấy chỉ có ký ức và ngoại hình của người trước.
+- ch751: Frondier de Roach (tên đầy đủ của Frondier)
+- ch752: Không có thông tin mới về danh tính.
+- ch753: Frondier de Roach (Tên đầy đủ của nhân vật chính)
+- ch754: Frondier được mọi người trên tàu gọi là 'Captain'.
+- ch755: Pielott: đang lén đi cùng Frondier trái phép.
+- ch755: Dier: đã biết ý định của Pielott và từ chối giúp đỡ.
+- ch756: Mjölnir: vũ khí mạnh nhất của Đế quốc, đã bay đến Frondier.
+- ch757: Poseidon: Vị thần bị Frondier gặp gỡ lần đầu tiên nhưng không nhận ra.
+- ch757: Mjölnir: Ban đầu Frondier nghĩ là giả, sau đó xác nhận là thật và được Mjölnir chấp nhận.
+- ch758: Heracles: Một nhân vật được nhắc đến trong truyền thuyết, có thể là một demigod hoặc một người có sức mạnh của thần.
+- ch758: Zeus, Odin, Thor, Poseidon: Các vị thần đã từng tham gia chiến tranh.
+- ch759: Frondier sử dụng đôi cánh làm từ Black Thread để giả dạng thành quỷ.
+- ch761: Frondier de Roach: Tên đầy đủ của nhân vật chính.
+- ch761: Pielott: Danh tính giả.
+- ch762: Frondier: Được biết đến là 'human sloth' (kẻ lười biếng) bởi Jane và Elodie.
+- ch765: Frondier: Có những ký ức mơ hồ về việc học phép thuật khi còn nhỏ, nhưng không nhớ rõ chi tiết. Ký ức này có thể liên quan đến sự ảnh hưởng của Curse of Sloth trước đây.
+- ch766: Aster Evans: Tên đầy đủ của Aster
+- ch767: Aias: Có thể sử dụng sức mạnh thần thánh.
+- ch767: Mei: Dường như đang dần trở nên giống người hơn.
+- ch768: Dragon Heart: Một loại mana condensate có mật độ cao do Frondier và Mei tạo ra.
+- ch768: Black Thread: Vật liệu được sử dụng để tạo biểu tượng công thức mới.
+- ch771: Pielott von Ribanche được gọi là 'Pielott di Ribanche' ở lục địa Agoris.
+- ch772: Aias: Có thể là một Named, liên quan đến truyền thuyết.
+- ch772: Hector: Tên thật của Hector Von Urfa, được lấy từ nhân vật anh hùng trong chiến tranh Troy.
+- ch773: Không có thông tin về danh tính khác.
+- ch775: Frondier de Roach: Tên đầy đủ của nhân vật chính.
+- ch775: Carla Ilse: Hiệu trưởng Atlas.
+- ch776: Eden Hamelot (Eden)
+- ch778: Carla: Có thể là người ngoài hành tinh hoặc chính là một con quỷ.
+- ch779: Carla: Người sáng lập Atlas, có thể là một yêu tinh hoặc đang che giấu động cơ bí mật.
+- ch779: Pielott: Một học sinh tại Atlas, có vẻ như liên quan đến Carla theo cách nào đó.
+- ch780: Carla có thể đang sử dụng một danh tính giả hoặc che giấu thân phận thật của mình.
+- ch782: Frondier de Roach: Tên đầy đủ của nhân vật chính.
+- ch783: Carla có thể là Medusa.
+- ch784: Giotto bị tống tiền bởi Carla vì một bí mật đen tối trong quá khứ.
+- ch785: Vua Palma: Tên Vua của quốc gia mà Frondier đang ở.
+- ch785: Carla: Có thể là một người có sức mạnh đặc biệt, có lẽ là Sức Mạnh Thần Thánh.
+- ch787: Athena: Goddess of Wisdom and War. Có vẻ như cô ấy đã không nhận ra Frondier.
+- ch787: Renzo: Được nhắc đến trong một câu chuyện của Athena, có lẽ là thông tin sai lệch hoặc bị nhầm lẫn.
+- ch788: Không có thông tin về danh tính mới hoặc thay đổi tên trong chương này.
+- ch790: Paladin: Một loại hiệp sĩ thuộc vương quốc Palma. Có thể là một danh hiệu hoặc một chức danh đặc biệt.
+- ch790: Exo: Tên của thanh kiếm magitech mà Antero sử dụng.
+- ch791: Antero: Paladin số một (tự xưng)
+- ch792: Antero: Paladin, có thể đang che giấu một bí mật hoặc sức mạnh tiềm ẩn.
+- ch793: Bune: Được xác định là một trong 72 Quỷ, không phải là một vị thần.
+- ch793: Antero: Sức mạnh của anh ta đến từ sự kết hợp giữa quyền năng thần thánh và quỷ dữ.
+- ch794: Carla: Medusa (bí mật)
+- ch795: Goetia: Một cuốn sách ghi lại thông tin về 72 quỷ, không phải là một cuốn sách hoàn chỉnh như lời đồn đại.
+- ch795: Antero: Sử dụng Goetia để triệu hồi Bune và kết giao kèo.
+- ch796: Antero đã ký hợp đồng với Bune, trao quyền kiểm soát cơ thể cho quỷ dữ.
+- ch796: Carla đang thu thập thông tin về quỷ dữ theo yêu cầu của Antero.
+- ch797: Carla: Ẩn mình dưới lớp áo rộng và kính râm để tránh bị nhận ra.
+- ch797: Aias: Có tên mẹ trùng với nhân vật trong thần thoại Hy Lạp (Eriboia).
+- ch800: Charon: Người đàn ông được Poseidon ban tặng sức mạnh thần thánh. Điều này mâu thuẫn với những gì đã biết trước đó.
+- ch801: Charon: Có thể đã nhận được sức mạnh thần thánh từ một vị thần giả mạo.
+- ch801: Poseidon (giả): Một con quỷ đang giả dạng thành Poseidon để ban phát sức mạnh thần thánh.
+- ch802: Heracles: Được biết đến với danh hiệu 'Thần'
+- ch802: Artemis's bow and arrow: Mũi tên được Frondier mạo danh là của Artemis.
+- ch803: Telephos: Một nhân vật từ thần thoại Hy Lạp, con trai của Heracles, xuất hiện trong câu chuyện.
+- ch804: Aster Evans (tên đầy đủ của Aster)
+- ch804: Dier Aiger (tên đầy đủ của Dier)
+- ch805: Không có thông tin mới về danh tính nhân vật.
+- ch806: Quạ: Có thể là người đưa tin cho Frondier, có khả năng giao tiếp bằng tiếng người.
+- ch808: Gregory: Có lẽ đang hoạt động bí mật và hỗ trợ Frondier mà không ai biết.
+- ch808: Con quạ: Được Gregory điều khiển để gửi thông tin đến Frondier, nhưng Malia đã nhận ra sự thật.
+- ch809: Nakjang: Kỹ thuật của Azier mà Frondier có thể sử dụng.
+- ch810: Sybil Forte là tên đầy đủ của Sybil.
+- ch811: Hector Von Urfa (tên thật của Hector)
+- ch813: Magic–Combat Combined: Lớp học kết hợp phép thuật và chiến đấu.
+- ch815: Workshop: Một không gian đặc biệt được tạo ra bởi kỹ năng 'Weaving' của Frondier, có thể tái tạo vũ khí và thậm chí cả chính nó.
+- ch816: Hector Von Urfa (tên thật của Hector)
+- ch824: Azier Mk.2: Golem mô phỏng Azier, được lập trình với các kỹ năng chiến đấu và hành vi của anh ta.
+- ch825: Pielott: Sự phát triển kỹ năng vượt ngoài mong đợi của Frondier, có thể là do một sự kiện bí ẩn nào đó.
+- ch829: Tên đầy đủ của Frondier là Frondier de Roach. Anh đã từng dùng tên 'Frondier di Roach' khi còn ở Agoris.
+- ch829: Astaroth có thể là một trong Bảy Tội Lỗi, nhưng hiện tại đang được che giấu.
+- ch832: Charon: Paladin, người cung cấp thông tin cho Colin về Frondier và tình hình thủ đô.
+- ch833: Charon (nghi là giả mạo)
+- ch833: Hera (nghi là giả mạo)
+- ch833: Aphrodite (nghi là giả mạo)
+- ch836: Gregory: Hiện đang đóng vai trò là một con quạ, dưới sự giám sát của Malia.
+- ch837: Sure Shot: Khả năng đặc biệt của vũ khí, được Frondier giải thích chi tiết về các cấp độ khác nhau.
+- ch837: Khryselakatos: Vũ khí của Frondier, được Pielott so sánh với vũ khí của demon.
+- ch838: Pielott được Hypnos ban cho những khả năng đặc biệt, có lẽ là một dạng sức mạnh thần thánh.
+- ch840: Orthros: Một con quái vật thần thoại với hai đầu, được mô tả là mạnh hơn Minotaur nhưng yếu hơn Cerberus. Nó được Frondier và nhóm của anh đối mặt.
+- ch841: Ortos: Có biệt danh là Orthros, nghĩa là 'nhanh'.
+- ch842: Gregory: Một con quạ được Frondier điều khiển.
+- ch842: Pielott: Có vẻ như đã bị Satan sử dụng để thu thập thông tin.
+- ch843: Andromalius (No. 72 demon)
+- ch844: Vishnu: Một vị thần đang chiếm giữ cơ thể Elodie, tự xưng là 'một trong những vị thần yêu Elodie ít nhất'.
+- ch845: Athena đang chiếm giữ cơ thể Carla. Athena sử dụng Carla để thực hiện nhiệm vụ của mình.
+- ch845: Vishnu đang sử dụng cơ thể Elodie để giao tiếp với Frondier.
+- ch846: Elodie đã trải qua việc bị Vishnu chiếm giữ cơ thể, một sự kiện bất thường mà cô chưa từng trải nghiệm trước đây.
+- ch847: Rudra: Thần gió bão.
+- ch847: Vishnu: Một trong ba vị thần tối thượng (Triune Primary Gods).
+- ch848: Carla là Athena.
+- ch848: Athena sử dụng nhiều lớp ngụy trang.
+- ch849: Aster Evans: Tên đầy đủ của Aster.
+- ch849: Frondier de Roach: Tên đầy đủ của Frondier.
+- ch850: Ludovic là Apollo, Thần Chân Lý.
+- ch851: Aster Evans (tên đầy đủ của Aster)
+- ch851: Renzo (có thể là Ares)
+- ch853: Excalibur: Có hai thanh kiếm Excalibur khác nhau, một nằm trong đá và một ở hồ nước.
+- ch853: Aster Evans: Tên đầy đủ của Aster.
+- ch854: Ludovic bị chiếm giữ bởi Apollo, tạm thời mất ý thức.
+- ch854: Basileo sử dụng phép thuật che giấu để trốn tránh Frondier.
+- ch855: Elysia: Đã từng là người dân thường, hiện tại là con gái của Philly và đang chỉ huy Phân bộ Bóng tối.
+- ch856: Telephos: con trai của Heracles, bị Frondier nhầm lẫn với cha mình trong trận chiến.
+- ch857: Aphrodite: Được xác nhận là vị thần thực sự chứ không phải quỷ giả dạng.
+- ch857: Baal: Được tiết lộ là kẻ xúi giục cuộc chiến giữa các vị thần và quỷ.
+- ch858: Gregory tin tưởng Frondier một cách dễ dàng.
+- ch858: Sybil Forte là tên đầy đủ của Sybil.
+- ch859: Colin: Thành viên của tổ chức 'Nine'.
+- ch859: Gregory: Xuất hiện dưới hình dạng quạ trước đây.
+- ch860: Aphrodite: Nữ thần tình yêu, đang bị thương và bị giam cầm tại thủ đô Palma.
+- ch860: Lupina: Người phụ nữ được Aphrodite chỉ định để thao túng kết quả bỏ phiếu.
+- ch861: Athena đang chiếm giữ thân xác của Carla.
+- ch863: Frondier de Roach: Tên đầy đủ của Frondier.
+- ch864: Eriboia: Mẹ của Aias, đang ngủ say trong đám đông.
+- ch865: Slindelis’s Bow: Cây cung của demon Slindelis, hiện đang thuộc sở hữu của Frondier.
+- ch866: Selena và Elodie: Che mặt, sau đó lộ diện.
+- ch867: Frondier de Roach (tên đầy đủ của nhân vật chính)
+- ch867: Ria Lis (có thể là Lilith)
+- ch868: Athena đang ẩn mình dưới hình dạng Carla.
+- ch869: Aster có thể bị nhầm là Ares.
+- ch869: Aster có thể bị nhầm là Renzo.
+- ch870: Aster Evans (tên đầy đủ của Aster)
+- ch871: Aster Evans: Tên đầy đủ của Aster.
+- ch872: Aster Evans: Tên đầy đủ của Aster.
+- ch872: Excalibur•Alpha: Một loại kiếm Excalibur khác biệt với thanh kiếm mà Aster đang cầm.
+- ch873: Aster Evans (tên đầy đủ của Aster)
+- ch875: Aias được tiết lộ là con trai của House Achaea.
+- ch876: Không có thông tin mới về danh tính nhân vật trong chương này.
+- ch877: Frondier: Tên nhân vật chính.
+- ch877: Zeus: Hiện tại đang chiếm giữ cơ thể của một người khác.
+- ch879: Satan tự xưng là Vua Quỷ
+- ch881: Evelina đang che giấu danh tính thật của mình bằng một mặt nạ.
+- ch882: Aster Evans: Tên đầy đủ của Aster.
+- ch883: Aster Evans (tên đầy đủ của Aster)
+- ch884: Chiếc nhẫn vàng của Evelina: Có lẽ là một món đồ thần thánh với tác dụng chưa rõ.
+- ch887: Aster Evans: Tên đầy đủ của Aster.
+- ch887: Hector Dutoit: Tên thật là Hector Von Urfa.
+- ch888: Ludwig: Có thể là một người có sức mạnh thần thánh, bị một vị thần chiếm giữ.
+- ch888: Zenita di Sandri: Học sinh của Frondier, có vẻ đang gặp vấn đề về sức khỏe.
+- ch889: Không có thông tin về danh tính mới hoặc thay đổi tên gọi trong chương này.
+- ch890: Golden Apple: Có khả năng chữa bệnh và hấp thụ các yếu tố khác, có thể chứa đựng những bí mật sâu xa.
+- ch891: Aias sử dụng spear thay vì kiếm, cho thấy sự thay đổi trong phong cách chiến đấu của anh ấy.
+- ch894: Ecleksis: Sức mạnh mà trước đây được coi là 'sức mạnh của quỷ'
+- ch894: Arald: Một con quỷ cổ xưa đã chứng kiến Ragnarok.
+- ch895: Frondier de Roach (tên đầy đủ của Frondier)
+- ch896: Aster Evans (tên đầy đủ của Aster)
+- ch897: Vị thần được một tổ chức nào đó triệu hồi để nhắm vào Frondier theo lệnh của người khác.
+- ch898: Sigurd: Một anh hùng Norse nổi tiếng, được Frondier biết đến qua truyền thuyết.
+- ch898: Frondier de Roach: Tên đầy đủ của nhân vật chính.
+- ch899: Menosorpo: Một vòng phép thuật mà Frondier sở hữu.
+- ch899: Weaving: Một kỹ năng đặc biệt mà Frondier sở hữu, liên quan đến workshop và các di vật cổ.
+- ch899: Workshop: Nơi lưu trữ thông tin về những thứ đã được 'dệt' bằng Weaving, chứa đựng những bí mật về quá khứ.
+- ch901: Azier de Roach: Được xác nhận đã qua đời.
+- ch901: Philly Terst: Có khả năng nhìn thấy tương lai, nhưng không thể thay đổi nó.
+- ch904: Fron: Tên thân mật của Frondier, gọi bởi Elodie.
+- ch904: Thanatos: Kẻ thủ ác được xác định là thần chết Thanatos.
+- ch905: Elodie de Inies Rishae (Tên đầy đủ của Elodie)
+- ch906: Yggdrasil: Được tiết lộ là một cây, không phải cột.
+- ch906: Tartarus: Được tiết lộ là địa ngục của người Hy Lạp cổ đại.
+- ch907: Frondier de Roach (Tên đầy đủ của Frondier)
+- ch909: Selena được gọi là 'Jei' bởi Belphegor, cho thấy một quá khứ bí ẩn.
+- ch912: Black Thread: Có vẻ là một loại trói buộc, tương tự như Gleipnir trong thần thoại.
+- ch913: Gleipnir: Ban đầu được cho là một vật phẩm, sau đó được tiết lộ là dạng mana đặc biệt.
+- ch914: Frondier de Roach (tên đầy đủ của nhân vật chính)
+- ch914: Elodie de Inies Rishae (tên đầy đủ của Elodie)
+- ch914: Aten Terst (tên đầy đủ của Aten)
+- ch915: Ludovic: Được biết đến với vai trò là giáo viên thay thế cho lớp Kết hợp Vũ khí - Ma thuật.
+- ch915: Pielott: Có nguồn gốc từ một đế chế xa lạ, có kỹ năng sử dụng aura đáng kinh ngạc.
+- ch916: Sybil Forte (tên đầy đủ của Sybil)
+- ch918: Những người đàn ông đóng băng trong Niflheim: Có thể là những người đã từng kháng chiến chống lại các vị thần, được gọi là 'Giants'.
+- ch919: Loki: Được tiết lộ là một con rắn sử dụng Weaving.
+- ch919: Jeanne d’Arc: Đã từng xuất hiện trước Frondier nhờ Weaving.
+- ch921: Idun: Nữ thần canh giữ trái cây vàng, mẹ ruột của Sybil.
+- ch921: Loki: Cha của Jormungandr, có liên quan đến sự tự do của Idun.
+- ch922: Loki: trước đây là một Jötunn, con trai của một người khổng lồ, và có thể đã từng là một người hùng.
+- ch922: Mistilteinn: cây thương mà Loki đã tạo ra.
+- ch923: Hel (tên khác của Hera)
+- ch924: Hela: Có thể không phải là một vị thần thực sự, có liên quan đến Loki.
+- ch926: Elodie de Inies Rishae: Tên đầy đủ của Elodie sau khi thức tỉnh thần tính.
+- ch927: Renzo: Có thể là một thực thể khác, đang chiến đấu để ngăn chặn Ares chiếm hữu cơ thể anh ta.
+- ch927: Manggot: Nhóm lính mà Renzo đã nhận ra sau khi nhìn thấy họ.
+- ch928: Tyr được tiết lộ là thần chiến tranh.
+- ch928: Ares tồn tại dưới dạng sức mạnh thần thánh bên trong Renzo.
+- ch929: Renzo sử dụng cánh tay giả siêu hợp kim, nhưng bị hỏng sau khi bị Tyr đấm.
+- ch929: Aster là người đã mạo danh một vị thần.
+- ch930: Aster Evans (tên đầy đủ của Aster)
+- ch930: Quinie de Viet (tên đầy đủ của Quinie)
+- ch931: Aster Evans (tên đầy đủ của Aster)
+- ch931: Sybil Forte (tên đầy đủ của Sybil)
+- ch932: Không có thông tin mới về danh tính nhân vật.
+- ch933: Astaroth: người kế nhiệm của Belphegor trong vai trò Sloth.
+- ch934: Belphegor: Trước đây đã từng mơ ước một cuộc sống nhàn hạ và hoàn hảo như Astaroth. Anh ta cũng từng có những người hầu ghi lại ký ức của mình để tránh phải làm mọi việc.
+- ch935: Lazor: Tên thật của một thuộc hạ của Astaroth, trước đó không được biết đến.
+- ch935: Ngựa của Hestia: Một con ngựa một sừng, có vẻ ngoài khác thường.
+- ch936: Pielott von Ribanche: Tên đầy đủ được sử dụng khi đề cập đến Pielott, nhấn mạnh dòng dõi quý tộc của anh ta.
+- ch939: Người phụ nữ giống Sybil: Một người phụ nữ có mái tóc hồng và đôi mắt xanh lá cây, được giới thiệu bởi Loki với tên gọi Idun. Cô ấy trông rất giống Sybil nhưng không phải là cô ấy.
+- ch940: Khryselakatos
+- ch940: Ioecheira
+- ch940: Mana of the Nine Worlds (Rank - Divine)
+- ch941: Mana crystal: Selena đã bí mật nuốt một mana crystal mạnh mẽ để tăng cường sức mạnh của mình.
+- ch942: Philly Terst (hoàng hậu)
+- ch942: Aten Terst (tam công chúa)
+- ch943: Fron (biệt danh của Frondier)
+- ch944: Aetius (Falind): Một lục địa cổ đại, có lẽ là tiền thân của Agoris.
+- ch944: Agoris: Lục địa hiện tại, nơi Frondier đang ở.
+- ch945: Aetius đổi thành Falind
+- ch945: Agoris vẫn là Agoris
+- ch945: Moirai được thay thế bằng Norn (Urd, Verdandi, Skuld)
+- ch946: Tyburn: Địa điểm nơi các vị thần sẽ xuất hiện.
+- ch946: Falind: Lục địa mà Pielott đến từ đó.
+- ch947: Enfer de Roach: Người mà Renzo vô tình sao chép kỹ thuật của.
+- ch947: Enkephalos: Ngọn giáo mà Aster đang cầm, trước đó thuộc về Frondier và có liên quan đến Ares.
+- ch948: Heldre: Formerly an atrocious criminal, now a Zodiac.
+- ch948: Loki: His past actions and messages are revealed through Belphegor.
+- ch949: Baal (còn liên kết với Baalzebub)
+- ch950: Frondier de Roach (Tên đầy đủ của nhân vật chính)
+- ch950: Fron (Tên thân mật của Frondier)
+- ch951: Frondier de Roach (tên đầy đủ của Frondier)
+- ch951: Fron (biệt danh thân mật của Frondier)
+- ch952: Nhật ký của Frondier tiết lộ những bí mật đen tối về hành động và động cơ của anh ta.
+- ch954: Frondier de Roach: Tên đầy đủ của nhân vật chính.
+- ch954: Metamorph’s Calamity: Dự án bí mật của Satan, liên quan đến việc tạo ra một loại 'Calamity'.
+- ch956: Weaving skill: Kỹ năng truyền lại được, liên quan đến Loki và tương lai.
+- ch956: Giao kèo giữa Belphegor và Loki: Một giao kèo phức tạp với những điều khoản ẩn giấu.
+- ch957: Metamorph Catastrophe: Được tiết lộ là sản phẩm của Satan từ tàn tích của Loki, và Mei là một trong số ít thành công.
+- ch959: Fallen Spear: Kỹ thuật mà Binkis đã dạy cho Azier và sau đó được golem sử dụng.
+- ch960: Aster Evans: Tên đầy đủ của Aster.
+- ch961: Mistilteinn: ban đầu được cho là một cành cây tầm gửi, nhưng thực tế là một ngọn giáo.
+- ch963: Hector Von Urfa (tên thật của Hector)
+- ch964: Hector Von Urfa (tên thật của Hector)
+- ch965: Fenrir: Được tiết lộ là một con sói khổng lồ, có khả năng chặn đứng Baldur và can thiệp vào trận chiến.
+- ch966: Kỹ thuật 'From Start to End' được Renzo sử dụng lần đầu tiên trong chương này.
+- ch968: Arald tự xưng là Belial để lừa dối cả Palma và các Demon, tạo ra một sự ngụy trang phức tạp.
+- ch970: Selena là Loki (bên cạnh vai trò của cô ấy).
+- ch971: Dragon Heart: Một vật phẩm do Frondier tạo ra, được Mei trao cho anh.

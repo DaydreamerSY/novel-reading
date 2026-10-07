@@ -1,0 +1,86 @@
+{
+ "number": 902,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau một thời gian dài suy tư về cái chết của Azier, Frondier quyết định trở về dinh thự. Tại đó, ông cảm nhận được sự bức bối từ bên trong và phát hiện ra những người hầu đang bị Enfer áp lực. Khi đến gần, Frondier vô tình sử dụng ý chí giết người khiến họ ngất xỉu. Sau khi đối chất với Vikar và Father, Frondier tuyên bố sẽ cứu Azier.",
+ "boi_canh": "Dinh thự Roach, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Dier",
+  "Father",
+  "Dier Aiger",
+  "Enfer",
+  "Vikar"
+ ],
+ "su_kien": [
+  "Frondier rời khỏi nơi suy tư về cái chết của Azier.",
+  "Những người hầu tại dinh thự Roach bị áp lực từ Enfer.",
+  "Frondier vô tình khiến những người hầu ngất xỉu bằng ý chí giết người.",
+  "Dier Aiger đột ngột tuyên bố sẽ cứu Azier giữa buổi lễ tưởng niệm.",
+  "Frondier đối chất với Father và tuyên bố sẽ cứu Azier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai đã mất, Frondier đang tìm cách cứu Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Father",
+   "loai": "cap_tren",
+   "mo_ta": "Con trai và cha, mối quan hệ căng thẳng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier",
+   "loai": "ban_be",
+   "mo_ta": "Đồng niên, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Dier Aiger",
+   "loai": "ban_be",
+   "mo_ta": "Đồng niên, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "cap_tren",
+   "mo_ta": "Con trai và cha, mối quan hệ căng thẳng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Vikar",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Enfer",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, mối quan hệ căng thẳng.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Vikar",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên, không rõ"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 882,
+  "seconds": 26.6
+ }
+}

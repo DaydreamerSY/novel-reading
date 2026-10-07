@@ -1,0 +1,77 @@
+{
+ "number": 730,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Khi Ludovic cố gắng ngăn Lily rời đi, aura của anh ta bùng nổ phá vỡ Obsidian. Frondier tận dụng thời cơ này để sử dụng Void Weaving và chiến đấu với Ludovic cùng các Zodiac khác. Trong trận chiến căng thẳng, Frondier nhận ra điểm yếu trong cách di chuyển của đối thủ và tạo ra golems hỗ trợ. Đồng thời, Philly và Pascal trốn trong một đường hầm bí mật của cung điện Hoàng gia, theo dõi tình hình thông qua tin nhắn từ Frondier.",
+ "boi_canh": "Trong vũ khí phòng Arsenal Cung Điện Hoàng Gia.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Azier",
+  "Lily",
+  "Pascal",
+  "Binkis",
+  "Ludovic",
+  "Robert",
+  "Ria Lis",
+  "Lis"
+ ],
+ "su_kien": [
+  "Ludovic giải phóng aura phá vỡ Obsidian.",
+  "Frondier sử dụng Void Weaving và chiến đấu với Ludovic.",
+  "Các Zodiac xông vào trận chiến.",
+  "Frondier tạo ra golems hỗ trợ.",
+  "Philly và Pascal trốn trong đường hầm bí mật của cung điện Hoàng gia."
+ ],
+ "quan_he": [
+  {
+   "a": "Ludovic",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Frondier, không có cảm xúc đặc biệt"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ludovic",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ trực tiếp trong trận chiến.",
+   "cach_goi": "gọi tên Ludovic, không có cảm xúc đặc biệt"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Ludovic phản ứng với việc Lily rời đi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly",
+   "b": "Pascal",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ bảo vệ lẫn nhau trong tình huống nguy hiểm.",
+   "cach_goi": "gọi tên Pascal, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ria Lis",
+   "loai": "nguoi_la",
+   "mo_ta": "Đề cập đến Ria Lis trong tin nhắn, có ý định giải cứu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pascal",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Pascal tuân theo chỉ dẫn của Philly.",
+   "cach_goi": "gọi tên Philly, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Golems được tạo ra bởi Frondier ban đầu mô phỏng Azier, sau đó thay đổi chiến thuật theo Binkis."
+ ],
+ "stats": {
+  "tokens": 806,
+  "seconds": 24.1
+ }
+}

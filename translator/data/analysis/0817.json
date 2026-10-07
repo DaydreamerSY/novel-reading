@@ -1,0 +1,70 @@
+{
+ "number": 817,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi dành nhiều thời gian hơn trong Xưởng (Workshop), Frondier khiến Elodie lo lắng vì cô nghĩ rằng ảnh hưởng của Sloth có thể vẫn còn. Tuy nhiên, sau khi chứng kiến cách Frondier làm bài thi cuối cùng với những tờ giấy bay lơ lửng và một câu hỏi hóc búa về lý thuyết phép thuật, Elodie nhận ra sự lo lắng của mình là vô căn cứ. Cuối cùng, bà hiệu trưởng Carla cũng xem xét bài thi và nhận ra độ sâu thực sự của câu hỏi đó.",
+ "boi_canh": "Trong Xưởng (Workshop) của Frondier, vào một ngày làm việc.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Carla",
+  "Mei",
+  "Antero"
+ ],
+ "su_kien": [
+  "Elodie lo lắng về tình trạng của Frondier.",
+  "Frondier làm bài thi cuối cùng bằng cách sử dụng những tờ giấy bay lơ lửng.",
+  "Elodie chứng kiến cách Frondier tổ chức công việc và nhận ra sự lo lắng của mình là vô căn cứ.",
+  "Các giáo viên xem xét bài thi cuối cùng do Frondier tạo ra.",
+  "Bà hiệu trưởng Carla phát hiện ra độ sâu thực sự của câu hỏi cuối cùng."
+ ],
+ "quan_he": [
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, lo lắng cho tình trạng của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn thân từ thuở nhỏ, đang làm bài thi và tổ chức công việc.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Hiệu trưởng của Atlas, quan tâm đến sự phát triển của học sinh và đánh giá cao công việc của Frondier.",
+   "cach_goi": "gọi tên Frondier, trang trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên, báo cáo công việc cho hiệu trưởng.",
+   "cach_goi": "gọi tên Carla, lễ phép"
+  },
+  {
+   "a": "Mei",
+   "b": "Elodie",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Antero",
+   "b": "Carla",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 791,
+  "seconds": 23.9
+ }
+}

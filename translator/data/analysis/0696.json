@@ -1,0 +1,70 @@
+{
+ "number": 696,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nói chuyện với Monty, Frondier đến trang nhà của anh ta để tập luyện. Qua buổi sparring, Monty nhận xét kỹ năng của Frondier thiên về phòng thủ và thiếu sự kết nối giữa phòng thủ và tấn công. Anh ta cũng chỉ ra rằng việc dựa quá nhiều vào 'dự đoán' có thể nguy hiểm. Cuối cùng, Monty đề xuất một phương pháp huấn luyện khắc nghiệt hơn để giúp Frondier tiến bộ nhanh chóng, đồng thời Selena quan sát buổi tập với vẻ mặt ngày càng lo lắng.",
+ "boi_canh": "Sân tập luyện tại trang nhà của Monty, vào một ngày sau khi nói chuyện với Monty.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Azier",
+  "Renzo",
+  "Monty"
+ ],
+ "su_kien": [
+  "Frondier và Monty bắt đầu buổi sparring.",
+  "Monty đánh giá kỹ năng của Frondier với nhiều loại vũ khí khác nhau.",
+  "Monty chỉ trích sự phụ thuộc quá mức vào 'dự đoán' của Frondier.",
+  "Monty đề xuất một phương pháp huấn luyện khắc nghiệt hơn.",
+  "Selena quan sát buổi tập và tỏ ra lo lắng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "thay_tro",
+   "mo_ta": "học trò và sư phụ, Frondier tôn trọng Monty.",
+   "cach_goi": "gọi tên Monty-nim, lễ phép"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "sư phụ và học trò, Monty đánh giá cao tiềm năng của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, Frondier nhận thấy sự lo lắng của Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, Selena quan sát và lo lắng cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "không có mối quan hệ rõ ràng, Monty nhận xét Selena.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Monty",
+   "loai": "nguoi_la",
+   "mo_ta": "không có mối quan hệ rõ ràng, Selena đồng ý với Monty.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 766,
+  "seconds": 22.9
+ }
+}

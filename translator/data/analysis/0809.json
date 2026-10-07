@@ -1,0 +1,76 @@
+{
+ "number": 809,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tung ra một đòn tấn công mạnh mẽ nhưng không hiệu quả vào Heracles, Frondier chứng kiến cảnh Telephos ngã xuống đất và nhận thấy những vết thương nhỏ trên cơ thể Heracles. Anh suy ngẫm về sức mạnh của Heracles và cách anh sử dụng kết hợp các kỹ năng khác nhau. Sau đó, Frondier trở về nhà và trò chuyện với Mei, thảo luận về sức mạnh của Heracles và ý nghĩa của lời nhận xét 'arithmetic' của Heracles.",
+ "boi_canh": "Một chiến trường không xác định, sau một trận chiến ngắn.",
+ "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Renzo",
+  "Heldre",
+  "Mei",
+  "Father",
+  "Heracles",
+  "Telephos",
+  "Belphegor"
+ ],
+ "su_kien": [
+  "Frondier tung ra một đòn tấn công mạnh mẽ bằng aura hình lưỡi kiếm vào Heracles.",
+  "Heracles chịu được đòn tấn công mà không hề lay chuyển.",
+  "Telephos ngã xuống đất sau khi chứng kiến cảnh chiến đấu.",
+  "Heracles chỉ trích cách Frondier kết hợp các kỹ năng, gọi nó là 'arithmetic'.",
+  "Frondier suy ngẫm về những hạn chế của mình và tìm kiếm một giải pháp để trở nên mạnh mẽ hơn."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Heracles",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier cố gắng đánh giá và vượt qua sức mạnh của Heracles.",
+   "cach_goi": "gọi 'Sir', lễ phép"
+  },
+  {
+   "a": "Heracles",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Heracles đánh giá sức mạnh của Frondier và đưa ra lời nhận xét.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Telephos",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, quan sát Telephos.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Telephos",
+   "b": "Heracles",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai, lo lắng cho sức khỏe của cha.",
+   "cach_goi": "gọi 'Father', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mei",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier trò chuyện và tâm sự với Mei.",
+   "cach_goi": "gọi tên 'Mei', thân mật"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Mei đặt câu hỏi và đưa ra những nhận xét ngây thơ.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Fallen Spear: Kỹ thuật của Azier mà Frondier có thể sử dụng."
+ ],
+ "stats": {
+  "tokens": 844,
+  "seconds": 25.4
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "number": 955,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier nhận được một loạt thông báo nhiệm vụ từ smartwatch của mình, bao gồm cả những nhiệm vụ đã hoàn thành trong quá khứ. Anh phát hiện ra rằng anh sẽ phải đối mặt với một Main Quest cuối cùng: 'Fate Shift', liên quan đến việc cứu nhân loại và thay đổi số phận. Trong khi đó, Belphegor và Lazor đang theo dõi một sự kiện bí ẩn liên quan đến Baal ở Pandemonium, nơi Baal và Baalzebub chuẩn bị cho một trận chiến quyết định để hợp nhất lại thành một.",
+ "boi_canh": "Trong căn phòng tối tăm, Frondier đọc thông báo nhiệm vụ trên smartwatch của mình.",
+ "nhan_vat": [
+  "Frondier",
+  "Sybil",
+  "Renzo",
+  "Lily",
+  "Baal",
+  "Heldre",
+  "Frondier de Roach",
+  "Jeanne",
+  "Belphegor",
+  "Lazor",
+  "Baalzebub"
+ ],
+ "su_kien": [
+  "Frondier nhận được một loạt thông báo nhiệm vụ đã hoàn thành.",
+  "Thông báo về sự thức tỉnh của Sybil và việc gia nhập của Hestia xuất hiện.",
+  "Thông báo về cái chết của Moirai và việc mở ra Thế giới Cứu độ.",
+  "Main Quest cuối cùng 'Fate Shift' được tiết lộ.",
+  "Baal và Baalzebub chuẩn bị đối mặt nhau trong Pandemonium."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "smartwatch",
+   "loai": "khac",
+   "mo_ta": "Frondier đọc thông báo từ smartwatch.",
+   "cach_goi": "gọi 'smartwatch', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Lazor",
+   "loai": "cap_tren",
+   "mo_ta": "Belphegor là cấp trên của Lazor.",
+   "cach_goi": "gọi tên Lazor, trịch thượng"
+  },
+  {
+   "a": "Baal",
+   "b": "Baalzebub",
+   "loai": "doi_thu",
+   "mo_ta": "Hai nhân vật chuẩn bị đối đầu trong trận chiến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier de Roach",
+   "b": "Baal",
+   "loai": "khac",
+   "mo_ta": "Frondier đã từng tương tác với Baal trong quá khứ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 661,
+  "seconds": 19.9
+ }
+}

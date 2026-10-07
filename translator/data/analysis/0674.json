@@ -1,0 +1,66 @@
+{
+ "number": 674,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đá vào đầu Baal bất tỉnh, Frondier lo lắng về ảnh hưởng của Pandemonium và cách thức để đánh thức hắn. Marco tỉnh lại và nhận ra tình hình nguy hiểm, hoảng sợ bỏ chạy. Frondier yêu cầu Marco giúp đỡ đánh thức Baal và tìm hiểu thêm về Pandemonium.",
+ "boi_canh": "Một nơi không xác định, thời điểm hiện tại trong cuộc chiến giữa con người và quỷ.",
+ "nhan_vat": [
+  "Frondier",
+  "Elysia",
+  "Baal",
+  "Marco",
+  "Arald",
+  "King of Hell"
+ ],
+ "su_kien": [
+  "Frondier đá vào đầu Baal bất tỉnh.",
+  "Marco tỉnh lại sau khi bị ảnh hưởng bởi Pandemonium.",
+  "Marco hoảng sợ bỏ chạy.",
+  "Một tòa nhà lớn đột ngột xuất hiện do Frondier tạo ra.",
+  "Frondier yêu cầu Marco giúp đỡ đánh thức Baal."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Baal",
+   "loai": "doi_thu",
+   "mo_ta": "Frondier đá vào đầu Baal bất tỉnh; mối quan hệ đối địch.",
+   "cach_goi": "gọi tên Baal, không thân thiết"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Elysia chứng kiến hành động của Frondier; mối quan hệ xa cách.",
+   "cach_goi": "gọi tên Frondier, không thân thiết"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier ra lệnh cho Elysia; mối quan hệ xa cách.",
+   "cach_goi": "gọi tên Elysia, không thân thiết"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Marco hoảng sợ và bỏ chạy khỏi Frondier; mối quan hệ đối địch.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier yêu cầu sự giúp đỡ của Marco; mối quan hệ cấp trên - cấp dưới.",
+   "cach_goi": "gọi tên Marco, không thân thiết"
+  }
+ ],
+ "danh_tinh": [
+  "Baal: Số 1 trong 72 Quỷ (The 72 Devils' number one)"
+ ],
+ "stats": {
+  "tokens": 692,
+  "seconds": 21.6
+ }
+}

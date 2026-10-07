@@ -1,0 +1,73 @@
+{
+ "number": 711,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Frondier bày tỏ mong muốn cải thiện thế giới và xóa bỏ hệ thống đẳng cấp. Cuộc trò chuyện với Pascal về vấn đề này dẫn đến sự bất đồng quan điểm, đặc biệt là về lòng trung thành với Hoàng hậu Philly. Pascal tiết lộ anh ta là người báo cáo trực tiếp thông tin về Frondier cho Philly và cảnh báo về những nguy hiểm đang rình rập xung quanh Frondier.",
+ "boi_canh": "Trong phòng làm việc, một cuộc trò chuyện nghiêm túc diễn ra giữa Frondier và Pascal.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Philly",
+  "Azier",
+  "Enfer",
+  "Pascal",
+  "Cain",
+  "Monty",
+  "Robert",
+  "Aster Evans",
+  "Ria Lis",
+  "Lis"
+ ],
+ "su_kien": [
+  "Frondier bày tỏ mong muốn cải thiện thế giới và xóa bỏ hệ thống đẳng cấp.",
+  "Pascal đặt câu hỏi về việc Hoàng hậu Philly có bị ảnh hưởng bởi sự thay đổi này không.",
+  "Pascal tiết lộ anh ta là người báo cáo trực tiếp thông tin về Frondier cho Philly.",
+  "Pascal cảnh báo Frondier về những nguy hiểm đang rình rập xung quanh anh.",
+  "Frondier nhận ra mình có thể đã bỏ qua nhiều dấu hiệu quan trọng."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Pascal",
+   "loai": "nguoi_la",
+   "mo_ta": "Trải qua một cuộc trò chuyện nghiêm túc và Pascal tiết lộ thông tin quan trọng về việc báo cáo cho Philly.",
+   "cach_goi": "gọi tên Pascal, không trang trọng"
+  },
+  {
+   "a": "Pascal",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Báo cáo trực tiếp thông tin về Frondier cho Philly và cảnh báo anh.",
+   "cach_goi": "gọi tên Frondier, không trang trọng"
+  },
+  {
+   "a": "Pascal",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Lòng trung thành tuyệt đối và ưu tiên bảo vệ Philly.",
+   "cach_goi": "gọi 'Her Majesty', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Enfer",
+   "loai": "gia_dinh",
+   "mo_ta": "Hiểu rõ quá khứ và động cơ của cha mình.",
+   "cach_goi": "gọi tên Enfer, thân mật"
+  },
+  {
+   "a": "Pascal",
+   "b": "Robert",
+   "loai": "ban_be",
+   "mo_ta": "Pascal ghen tị với Robert vì sự gần gũi của anh ta với Philly.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier được biết đến với biệt danh 'Roach', một thành viên của gia tộc Roach.",
+  "Có tin đồn Frondier không phải là người nhà của Roach từ đầu."
+ ],
+ "stats": {
+  "tokens": 796,
+  "seconds": 23.8
+ }
+}

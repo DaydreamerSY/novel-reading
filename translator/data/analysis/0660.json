@@ -1,0 +1,103 @@
+{
+ "number": 660,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Selena bày tỏ sự tức giận vì Frondier không thông báo cho cô về vai trò của mình, Sybil giải thích rằng hành động đó có thể là một cách để Frondier tạo cơ hội cho cô rời đi. Các thành viên khác trong nhóm thảo luận về tình hình nguy hiểm của Lunia và chiến lược bảo vệ cô, cũng như những suy nghĩ của họ về cách Frondier đối phó với khó khăn. Cuối cùng, Aster đưa ra chỉ thị ưu tiên an toàn và tìm kiếm một con đường bí mật để Selena tiếp cận Lunia.",
+ "boi_canh": "Trong phòng họp, các thành viên đang thảo luận về tình hình chiến sự và vai trò của Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Sybil",
+  "Aster",
+  "Aten",
+  "Lunia",
+  "Elodie",
+  "Mei"
+ ],
+ "su_kien": [
+  "Selena bày tỏ sự tức giận vì Frondier không thông báo cho cô về vai trò của mình.",
+  "Sybil giải thích rằng Frondier có thể đã tạo cơ hội để Selena rời đi.",
+  "Các thành viên thảo luận về tình hình nguy hiểm của Lunia và chiến lược bảo vệ cô.",
+  "Aster đưa ra chỉ thị ưu tiên an toàn và tìm kiếm một con đường bí mật để Selena tiếp cận Lunia.",
+  "Đề cập đến việc Mei không tham gia vào cuộc chiến vì sự ảnh hưởng của cô là khó lường."
+ ],
+ "quan_he": [
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Selena cảm thấy thất vọng và tức giận vì sự thiếu minh bạch của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier đã tạo ra một tình huống để Selena có thể rời đi.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sybil",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Sybil cố gắng an ủi và giải thích hành động của Frondier cho Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Sybil",
+   "loai": "ban_be",
+   "mo_ta": "Selena lắng nghe lời giải thích của Sybil.",
+   "cach_goi": "gọi tên Sybil, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Aster quan sát và lắng nghe những gì Selena nói.",
+   "cach_goi": "gọi tên Selena, lễ phép"
+  },
+  {
+   "a": "Selena",
+   "b": "Aster",
+   "loai": "dong_minh",
+   "mo_ta": "Selena trả lời những câu hỏi của Aster.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Aster",
+   "loai": "dong_minh",
+   "mo_ta": "Aten đồng ý với những gì Aster nói.",
+   "cach_goi": "gọi tên Aster, lễ phép"
+  },
+  {
+   "a": "Aster",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Aster lắng nghe ý kiến của Aten.",
+   "cach_goi": "gọi tên Aten, lễ phép"
+  },
+  {
+   "a": "Elodie",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Elodie đồng cảm với sự tức giận của Selena.",
+   "cach_goi": "gọi tên Selena, thân mật"
+  },
+  {
+   "a": "Selena",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Selena lắng nghe những gì Elodie nói.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mei: Hiện đang ở trạng thái thuần khiết, không tham gia vào cuộc chiến và có thể trở nên tốt hoặc xấu trong tương lai."
+ ],
+ "stats": {
+  "tokens": 1163,
+  "seconds": 36.3
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "number": 864,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi sử dụng sức mạnh kết hợp ánh sáng và bóng tối để vô hiệu hóa những người xung quanh, Frondier nhận ra rằng nhiều người đã ngất xỉu, bao gồm cả cả người thường lẫn quỷ. Athena can thiệp để ngăn chặn các vị thần đang tức giận tấn công Frondier, tiết lộ sự hiểu biết sâu sắc của cô về sức mạnh và bản chất thực sự của anh ta. Frondier thách thức bằng cách đề nghị giết một Paladin để chứng minh mình là quỷ.",
+ "boi_canh": "Trong quảng trường, sau khi Frondier sử dụng sức mạnh kết hợp ánh sáng và bóng tối.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Renzo",
+  "Carla",
+  "Antero",
+  "Athena",
+  "Frondier de Roach",
+  "Aias",
+  "Ares",
+  "Mother",
+  "Aphrodite",
+  "Charon",
+  "Belphegor",
+  "Hephaestus",
+  "Apollo",
+  "Hestia",
+  "Paladins"
+ ],
+ "su_kien": [
+  "Frondier sử dụng sức mạnh kết hợp ánh sáng và bóng tối, khiến nhiều người ngất xỉu.",
+  "Athena ngăn chặn các vị thần tấn công Frondier.",
+  "Aias giả vờ ngất xỉu để kiểm tra tình hình của mẹ anh ta (Eriboia).",
+  "Frondier thách thức bằng cách đề nghị giết Paladin Charon.",
+  "Athena tiết lộ sự hiểu biết sâu sắc về sức mạnh và bản chất thực sự của Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội, không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Renzo",
+   "loai": "cap_tren",
+   "mo_ta": "Người có sức mạnh ngang ngửa Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "dong_minh",
+   "mo_ta": "Không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Antero",
+   "loai": "dong_minh",
+   "mo_ta": "Không tương tác trong chương này, đã ngất xỉu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Athena",
+   "loai": "khac",
+   "mo_ta": "Athena can thiệp để ngăn chặn các vị thần tấn công Frondier, có vẻ như hiểu rõ về anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aias",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Aias giả vờ ngất xỉu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Mother",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ của Aias, đang ngủ say.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aphrodite",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Quan sát và đánh giá Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Athena",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Cố gắng ngăn chặn hành động của Frondier, có vẻ như hiểu rõ về anh ta.",
+   "cach_goi": "lễ phép"
+  },
+  {
+   "a": "Aias",
+   "b": "Mother",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai đang kiểm tra tình trạng của mẹ.",
+   "cach_goi": "thân mật"
+  },
+  {
+   "a": "Athena",
+   "b": "Aphrodite",
+   "loai": "ban_be",
+   "mo_ta": "Trao đổi quan điểm về Frondier.",
+   "cach_goi": "lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Eriboia: Mẹ của Aias, đang ngủ say trong đám đông."
+ ],
+ "stats": {
+  "tokens": 1057,
+  "seconds": 31.8
+ }
+}

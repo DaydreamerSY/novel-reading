@@ -1,0 +1,90 @@
+{
+ "number": 858,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier bay cách Poseidon và trên đường trở về kinh đô, anh suy tư về sự tồn tại của Táo Vàng và định mệnh. Anh được Gregory tin tưởng một cách dễ dàng, nhưng vẫn hoài nghi về các vị thần và định mệnh. Cuộc trò chuyện với quạ bên cạnh nhắc lại những sự kiện liên quan đến Táo Vàng, khiến Frondier lo ngại về một cuộc chiến tranh Trojan tương tự. Trong khi đó, tại biển cả, Poseidon gặp Sybil Forte, người tự xưng là bạn gái của Frondier và phải trải qua thử thách để được phép đi tiếp.",
+ "boi_canh": "Frondier đang bay trên không trung, trên đường trở về kinh đô.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Sybil",
+  "Malia",
+  "Marco",
+  "Gregory",
+  "Sybil Forte",
+  "Poseidon"
+ ],
+ "su_kien": [
+  "Frondier suy nghĩ về sự tồn tại của Táo Vàng.",
+  "Gregory tin lời Frondier nói về giấc mơ tiên tri một cách dễ dàng.",
+  "Frondier hoài nghi về các vị thần và định mệnh.",
+  "Sybil Forte gặp Poseidon và tự xưng là bạn gái của Frondier.",
+  "Poseidon tạo ra cột nước xoáy để thử thách Sybil Forte."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Gregory",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier giải thích về giấc mơ của mình cho Gregory.",
+   "cach_goi": "gọi tên Gregory, không rõ"
+  },
+  {
+   "a": "Gregory",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Gregory tin lời Frondier nói về giấc mơ của mình.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  },
+  {
+   "a": "Frondier",
+   "b": "quạ",
+   "loai": "nguoi_la",
+   "mo_ta": "Quạ bay cùng Frondier và đặt câu hỏi cho anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "quạ",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Quạ bay cùng Frondier và đặt câu hỏi cho anh.",
+   "cach_goi": "gọi tên Frondier, không rõ"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Sybil Forte",
+   "loai": "nguoi_la",
+   "mo_ta": "Poseidon chất vấn Sybil về lý do cô đến đây.",
+   "cach_goi": "gọi tên Sybil, lễ phép"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Poseidon",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil trả lời Poseidon và tự giới thiệu.",
+   "cach_goi": "gọi tên Poseidon, lễ phép"
+  },
+  {
+   "a": "Poseidon",
+   "b": "Sybil Forte",
+   "loai": "nguoi_la",
+   "mo_ta": "Poseidon nghi ngờ về sự thật của Sybil.",
+   "cach_goi": "gọi tên Sybil, lạnh lùng"
+  },
+  {
+   "a": "Sybil Forte",
+   "b": "Poseidon",
+   "loai": "nguoi_la",
+   "mo_ta": "Sybil trả lời Poseidon và tự giới thiệu.",
+   "cach_goi": "gọi tên Poseidon, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Gregory tin tưởng Frondier một cách dễ dàng.",
+  "Sybil Forte là tên đầy đủ của Sybil."
+ ],
+ "stats": {
+  "tokens": 991,
+  "seconds": 29.8
+ }
+}

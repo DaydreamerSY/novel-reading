@@ -1,0 +1,79 @@
+{
+ "number": 847,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với nỗ lực xâm chiếm Elodie của Vishnu, nhưng bị Rudra ngăn chặn kịp thời. Rudra tiết lộ một lời hứa liên quan đến Frondier và đặt câu hỏi về giới hạn mà Elodie sẵn sàng hy sinh để bảo vệ anh. Cuối cùng, Rudra rời đi, để lại Elodie suy ngẫm về những gì đã xảy ra và chuẩn bị cho tương lai. Trong khi đó, Aias và mẹ anh, Eriboia, đang ở thủ đô Palma, nơi diễn ra các cuộc duyệt binh liên quan đến cuộc thi sắc đẹp giữa hai nữ thần.",
+ "boi_canh": "Một địa điểm không xác định, trong một trận chiến giữa các vị thần.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Lily",
+  "Carla",
+  "Arald",
+  "Athena",
+  "Aias",
+  "Mother",
+  "Vishnu",
+  "Rudra",
+  "Eriboia"
+ ],
+ "su_kien": [
+  "Vishnu cố gắng xâm chiếm Elodie.",
+  "Rudra can thiệp, ngăn chặn Vishnu và Elodie.",
+  "Rudra nhắc lại lời hứa bảo vệ Frondier với Elodie.",
+  "Vishnu rời đi sau cuộc đối đầu ngắn ngủi.",
+  "Aias và Eriboia quan sát các cuộc duyệt binh ở Palma."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "nguoi_la",
+   "mo_ta": "Elodie lo lắng cho Frondier, chuẩn bị bảo vệ anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vishnu",
+   "b": "Elodie",
+   "loai": "ke_thu",
+   "mo_ta": "Cố gắng xâm chiếm Elodie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Rudra",
+   "b": "Vishnu",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu và ngăn chặn Vishnu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Rudra",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Nhắc lại lời hứa bảo vệ Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Eriboia",
+   "b": "Aias",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ con đang đi dạo và Eriboia cố gắng giới thiệu Aias với các quý tộc.",
+   "cach_goi": "gọi tên Aias, thân mật"
+  },
+  {
+   "a": "Aias",
+   "b": "Eriboia",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và mẹ đang đi dạo, Aias cảm thấy bối rối với cách Eriboia thao túng anh.",
+   "cach_goi": "gọi 'Mother', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Rudra: Thần gió bão.",
+  "Vishnu: Một trong ba vị thần tối thượng (Triune Primary Gods)."
+ ],
+ "stats": {
+  "tokens": 849,
+  "seconds": 25.6
+ }
+}

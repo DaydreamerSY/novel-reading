@@ -1,0 +1,83 @@
+{
+ "number": 935,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Astaroth bị tiêu diệt, Belphegor lên nắm quyền và tiết lộ rằng các Lục Tử Thần sẽ sụp đổ do sự xuất hiện của Frondier. Anh ta giao nhiệm vụ cho bốn hiệp sĩ để gây ra thảm họa và hứa hẹn một lời hứa cổ xưa liên quan đến Loki. Trong khi đó, Frondier đối mặt với những vị thần đang chiến đấu ở Olympus và được Hestia giải cứu trên lưng ngựa một sừng.",
+ "boi_canh": "Olympus, thời điểm Belphegor lên nắm quyền sau cái chết của Astaroth.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Artemis",
+  "Astaroth",
+  "Belphegor",
+  "Lazor",
+  "Satan",
+  "Hestia"
+ ],
+ "su_kien": [
+  "Astaroth bị tiêu diệt bởi một đòn chí mạng.",
+  "Belphegor lên nắm quyền Lục Tử Thần và tiết lộ sự sụp đổ của chúng.",
+  "Lazor, một thuộc hạ của Astaroth, có thể kháng lại sợi chỉ điều khiển.",
+  "Belphegor giao nhiệm vụ cho bốn hiệp sĩ gây ra thảm họa.",
+  "Frondier được Hestia giải cứu trên lưng ngựa một sừng."
+ ],
+ "quan_he": [
+  {
+   "a": "Astaroth",
+   "b": "Belphegor",
+   "loai": "cap_tren",
+   "mo_ta": "Astaroth là cấp trên của Belphegor, thể hiện lòng trung thành tuyệt đối.",
+   "cach_goi": "gọi 'My king', lễ phép"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Astaroth",
+   "loai": "ke_thu",
+   "mo_ta": "Belphegor giết Astaroth và chiếm đoạt vị trí của hắn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Belphegor",
+   "b": "Lazor",
+   "loai": "nguoi_la",
+   "mo_ta": "Belphegor thẩm vấn Lazor về thông tin tình báo.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Lazor",
+   "b": "Belphegor",
+   "loai": "chu_to",
+   "mo_ta": "Lazor là một thuộc hạ của Belphegor, thể hiện lòng trung thành và sự tôn kính.",
+   "cach_goi": "gọi 'Belphegor-nim', lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "ban_be",
+   "mo_ta": "Selena bảo vệ Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hestia",
+   "loai": "nguoi_la",
+   "mo_ta": "Hestia cứu Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hestia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Hestia cứu Frondier.",
+   "cach_goi": "gọi tên, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Lazor: Tên thật của một thuộc hạ của Astaroth, trước đó không được biết đến.",
+  "Ngựa của Hestia: Một con ngựa một sừng, có vẻ ngoài khác thường."
+ ],
+ "stats": {
+  "tokens": 926,
+  "seconds": 28.0
+ }
+}

@@ -2,72 +2,88 @@
  "number": 553,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Andika và Beso, những người chăn cừu của Manggot, chứng kiến sự hỗn loạn trên chiến trường do Roach knights gây ra. Họ phải đối mặt với quyết định khó khăn: cứu lấy đàn cừu hay vượt qua rào chắn đang sụp đổ để bảo toàn lực lượng. Cuối cùng, họ quyết định vượt rào và gặp phải Frondier (Azier) sử dụng kỹ thuật 'Drop' bí ẩn khiến tất cả các chiến binh chăn cừu đều vô thức buông vũ khí.",
- "boi_canh": "Trên chiến trường hỗn loạn, ngay sau khi Roach knights tấn công.",
+ "tom_tat": "Sau khi Azier lên tiếng, Shepherd Andika thể hiện sự tức giận và tấn công. Azier đáp trả bằng cách sử dụng kỹ thuật thu hồi vũ khí từ xa và bắn trả lại các Shepherds. Sau đó, Frondier xuất hiện cùng với các giáo viên Constel khác để hỗ trợ Azier, bao vây các Shepherds. Cuộc chiến trở nên căng thẳng hơn khi Jane tung ra phép thuật mạnh mẽ.",
+ "boi_canh": "Một trận chiến giữa Azier và các Shepherd tại một địa điểm không xác định.",
  "nhan_vat": [
+  "Frondier",
+  "Azier",
+  "Enfer",
+  "Osprey",
+  "Jane",
+  "Pascal",
+  "Isamaya",
   "Andika",
-  "Beso",
-  "Frondier (Azier)",
-  "Shadow",
-  "Andika",
+  "Pascal Schlitz",
   "Beso"
  ],
  "su_kien": [
-  "Roach knights tấn công, gây ra hỗn loạn trên chiến trường.",
-  "Andika muốn trả thù Roach knights nhưng bị Beso ngăn lại.",
-  "Các người chăn cừu quyết định vượt qua rào chắn đang sụp đổ.",
-  "Frondier (Azier) sử dụng kỹ thuật 'Drop' khiến các người chăn cừu buông vũ khí.",
-  "Các người chăn cừu nhận ra Frondier (Azier)."
+  "Shepherd Andika thể hiện sự tức giận và tấn công Azier.",
+  "Azier sử dụng kỹ thuật thu hồi vũ khí từ xa để bắn trả các Shepherds.",
+  "Frondier cùng với các giáo viên Constel khác xuất hiện hỗ trợ Azier.",
+  "Jane tung ra phép thuật mạnh mẽ, bao phủ khu vực xung quanh.",
+  "Andika tuyên bố rằng Manggot sẽ thiêu rụi người dân của Đế quốc."
  ],
  "quan_he": [
   {
    "a": "Andika",
-   "b": "Beso",
-   "loai": "ban_be",
-   "mo_ta": "Đồng đội, cùng là người chăn cừu. Beso thuyết phục Andika vượt rào chắn.",
-   "cach_goi": "gọi tên Beso, thân mật"
+   "b": "Azier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Andika khiêu khích và tấn công Azier.",
+   "cach_goi": "gọi tên Azier, lạnh lùng"
   },
   {
    "a": "Beso",
    "b": "Andika",
-   "loai": "ban_be",
-   "mo_ta": "Đồng đội, cùng là người chăn cừu. Beso thuyết phục Andika vượt rào chắn.",
-   "cach_goi": "gọi tên Andika, thân mật"
+   "loai": "doi_thu",
+   "mo_ta": "Đồng minh của Andika, thể hiện sự tức giận đối với Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Frondier (Azier)",
+   "a": "Azier",
    "b": "Andika",
    "loai": "doi_thu",
-   "mo_ta": "Đối thủ, Frondier sử dụng kỹ thuật 'Drop' khiến Andika và những người chăn cừu khác buông vũ khí.",
+   "mo_ta": "Đáp trả khiêu khích của Andika.",
+   "cach_goi": "gọi tên Andika, lạnh lùng"
+  },
+  {
+   "a": "Jane",
+   "b": "Azier",
+   "loai": "cap_tren",
+   "mo_ta": "Giáo viên Constel, đưa ra lời khuyên và quan sát.",
+   "cach_goi": "gọi tên Azier, lễ phép"
+  },
+  {
+   "a": "Frondier",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Được Jane nhắc đến, Frondier đã đưa ra nhận xét về Shepherds.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Andika",
-   "b": "Frondier (Azier)",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ, Frondier sử dụng kỹ thuật 'Drop' khiến Andika và những người chăn cừu khác buông vũ khí.",
+   "a": "Pascal Schlitz",
+   "b": "Isamaya",
+   "loai": "ban_be",
+   "mo_ta": "Đồng nghiệp, tranh luận về chiến lược.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Beso",
-   "b": "Frondier (Azier)",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ, Frondier sử dụng kỹ thuật 'Drop' khiến Beso và những người chăn cừu khác buông vũ khí.",
+   "a": "Isamaya",
+   "b": "Pascal Schlitz",
+   "loai": "ban_be",
+   "mo_ta": "Đồng nghiệp, tranh luận về chiến lược.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Frondier (Azier)",
-   "b": "Beso",
-   "loai": "doi_thu",
-   "mo_ta": "Đối thủ, Frondier sử dụng kỹ thuật 'Drop' khiến Beso và những người chăn cừu khác buông vũ khí.",
+   "a": "Jane",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Đề cập đến Frondier, thừa nhận sự đóng góp của anh ấy.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
- "danh_tinh": [
-  "Frondier được gọi là Azier trong chương này."
- ],
+ "danh_tinh": [],
  "stats": {
-  "tokens": 896,
-  "seconds": 27.9
+  "tokens": 931,
+  "seconds": 29.0
  }
 }

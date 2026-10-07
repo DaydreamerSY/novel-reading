@@ -1,0 +1,71 @@
+{
+ "number": 720,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier và Esther có một cuộc đối đầu căng thẳng khi Esther nghi ngờ sự thân thiện bất thường của Frondier với cô. Sau đó, Frondier tiết lộ anh ta biết về khả năng tạo bản sao của Esther và những bí mật khác của cô. Cuối cùng, họ triệu tập Hagley để thẩm vấn, nhưng Frondier phá vỡ quy tắc bằng cách xông vào phòng giam.",
+ "boi_canh": "Trong phòng thẩm vấn tại nhà tù, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Hagley",
+  "Esther"
+ ],
+ "su_kien": [
+  "Esther nghi ngờ sự thân thiện của Frondier.",
+  "Frondier khẳng định mình thích những người tốt.",
+  "Frondier tiết lộ anh biết về khả năng tạo bản sao của Esther.",
+  "Esther triệu tập Hagley để thẩm vấn.",
+  "Frondier xông vào phòng giam và lật đổ ghế của Hagley."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Esther",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người có mối quan hệ căng thẳng, Esther nghi ngờ Frondier.",
+   "cach_goi": "gọi tên Esther, không rõ cảm xúc"
+  },
+  {
+   "a": "Esther",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Esther nghi ngờ động cơ của Frondier.",
+   "cach_goi": "gọi tên Frondier, cảnh giác"
+  },
+  {
+   "a": "Frondier",
+   "b": "Hagley",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier quan sát Hagley.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hagley",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Hagley không biết Frondier đang quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Esther",
+   "b": "Hagley",
+   "loai": "cap_tren",
+   "mo_ta": "Esther là người có quyền lực hơn và ra lệnh cho Hagley.",
+   "cach_goi": "gọi tên Hagley, ra lệnh"
+  },
+  {
+   "a": "Hagley",
+   "b": "Esther",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp, Hagley không biết Esther đang quan sát.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Esther là người giám ngục (warden) tại nhà tù."
+ ],
+ "stats": {
+  "tokens": 755,
+  "seconds": 22.7
+ }
+}

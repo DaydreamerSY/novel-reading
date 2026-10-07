@@ -1,0 +1,92 @@
+{
+ "number": 949,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này giới thiệu bốn Hiệp Sĩ của Belphegor, những người bí ẩn và mạnh mẽ hơn cả Bảy Tội Lỗi. Mammon bị giết bởi một trong số họ, khiến Satan ra lệnh ngăn chặn các hiệp sĩ này. Lucifer tiết lộ rằng Belphegor biến kẻ mạnh thành thuộc hạ của mình, gây kinh ngạc cho Asmodeus. Cuối cùng, Belphegor xuất hiện và tấn công Satan bằng một thủ đoạn bất ngờ, đẩy nhanh cuộc chiến giữa Bảy Tội Lỗi và bốn hiệp sĩ.",
+ "boi_canh": "Trong thế giới Demon Realm, khi các hiệp sĩ của Belphegor tiến hành tấn công.",
+ "nhan_vat": [
+  "Frondier",
+  "Baal",
+  "Astaroth",
+  "Lucifer",
+  "Zeus",
+  "Asmodeus",
+  "Mammon",
+  "Leviathan",
+  "Satan",
+  "Belphegor",
+  "Baalzebub"
+ ],
+ "su_kien": [
+  "Mammon bị giết bởi một trong bốn hiệp sĩ của Belphegor.",
+  "Satan ra lệnh cho tất cả các lực lượng ngăn chặn các hiệp sĩ.",
+  "Lucifer tiết lộ rằng các hiệp sĩ mạnh hơn Bảy Tội Lỗi và Belphegor biến kẻ mạnh thành thuộc hạ.",
+  "Belphegor bất ngờ xuất hiện và tấn công Satan bằng một mũi tên độc.",
+  "Bốn hiệp sĩ của Belphegor tấn công Bảy Tội Lỗi."
+ ],
+ "quan_he": [
+  {
+   "a": "Asmodeus",
+   "b": "Mammon",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Asmodeus bị sốc khi Mammon chết.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Asmodeus",
+   "loai": "cap_tren",
+   "mo_ta": "Sự cấp trên, Satan ra lệnh cho Asmodeus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lucifer",
+   "b": "Asmodeus",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Lucifer giải thích cho Asmodeus.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Leviathan",
+   "b": "Lucifer",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng minh, Leviathan đặt câu hỏi cho Lucifer.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Kẻ thù, Satan tấn công Belphegor.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Asmodeus",
+   "b": "Belphegor",
+   "loai": "doi_thu",
+   "mo_ta": "Kẻ thù, Asmodeus ngạc nhiên khi thấy Belphegor.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Satan",
+   "b": "Baalzebub",
+   "loai": "doi_thu",
+   "mo_ta": "Kẻ thù, Satan tấn công Baalzebub.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baalzebub",
+   "b": "Satan",
+   "loai": "doi_thu",
+   "mo_ta": "Kẻ thù, Baalzebub trốn chạy khỏi Satan.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Baal (còn liên kết với Baalzebub)"
+ ],
+ "stats": {
+  "tokens": 978,
+  "seconds": 29.5
+ }
+}

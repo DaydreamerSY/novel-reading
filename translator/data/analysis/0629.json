@@ -1,0 +1,74 @@
+{
+ "number": 629,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một quỷ dữ tấn công vào Constel nhằm nhắm mục tiêu Dier và Pielott. Hiệu trưởng Osprey đã đối mặt với quỷ dữ và bắt giữ nó. Thông qua cuộc thẩm vấn, ông phát hiện ra rằng sự kiện này có liên quan đến Frondier và Aten, và mục đích của quỷ dữ là bắt cóc người thân thiết nhất của Frondier để gây đau khổ cho anh ta.",
+ "boi_canh": "Trong khuôn viên Constel, vào thời điểm xảy ra một cuộc tấn công của quỷ dữ.",
+ "nhan_vat": [
+  "Frondier",
+  "Aten Terst",
+  "Lily",
+  "Pielott",
+  "Osprey",
+  "Dier"
+ ],
+ "su_kien": [
+  "Một quỷ dữ tấn công Dier và Pielott tại Constel.",
+  "Hiệu trưởng Osprey bắt giữ được quỷ dữ.",
+  "Osprey thẩm vấn quỷ dữ, khám phá ra sự liên quan đến Frondier.",
+  "Quỷ dữ bị chặt đầu bởi Osprey.",
+  "Một quỷ dữ khác xuất hiện sau khi quỷ dữ đầu tiên bị tiêu diệt."
+ ],
+ "quan_he": [
+  {
+   "a": "Osprey",
+   "b": "Devil (1)",
+   "loai": "ke_thu",
+   "mo_ta": "Osprey bắt giữ và thẩm vấn quỷ dữ.",
+   "cach_goi": "gọi 'devil', lạnh lùng"
+  },
+  {
+   "a": "Devil (1)",
+   "b": "Osprey",
+   "loai": "ke_thu",
+   "mo_ta": "Quỷ dữ chống lại Osprey và cố gắng khiêu khích ông.",
+   "cach_goi": "gọi 'Headmaster', thô lỗ"
+  },
+  {
+   "a": "Osprey",
+   "b": "Devil (2)",
+   "loai": "ke_thu",
+   "mo_ta": "Osprey đối mặt với quỷ dữ thứ hai sau khi tiêu diệt quỷ dữ đầu tiên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Devil (2)",
+   "b": "Osprey",
+   "loai": "ke_thu",
+   "mo_ta": "Quỷ dữ thứ hai phục tùng Osprey và giải thích kế hoạch của chúng.",
+   "cach_goi": "gọi 'you', không tôn trọng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aten Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Liên quan đến việc Frondier vắng mặt và Aten có mặt tại Constel.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Devil (1)",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Quỷ dữ bày tỏ sự căm ghét đối với Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Devil (1) - thuộc hạ của Satan.",
+  "Devil (2) - một trong những quỷ khác phục vụ mục đích của Satan."
+ ],
+ "stats": {
+  "tokens": 820,
+  "seconds": 24.5
+ }
+}

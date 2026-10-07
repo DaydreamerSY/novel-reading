@@ -1,0 +1,84 @@
+{
+ "number": 796,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cuộc trò chuyện giữa Frondier và Bune về sự tha hóa linh hồn và các điều khoản của hợp đồng. Frondier khám phá ra những chi tiết đáng lo ngại về Antero, bao gồm cả việc anh ta sử dụng Carla để thu thập thông tin về quỷ dữ và thỏa thuận với Bune trao đổi quyền kiểm soát cơ thể. Cuối cùng, Frondier phát hiện ra một sự thật kinh hoàng về một giao kèo cổ xưa giữa con người và thần thánh, khiến anh cảm thấy ghê tởm và nhận ra rằng mình đã bước vào một tình thế không thể quay đầu lại.",
+ "boi_canh": "Trong phòng làm việc tối tăm của Frondier, đêm xuống.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Edwin",
+  "Carla",
+  "Antero",
+  "Bune",
+  "Giotto"
+ ],
+ "su_kien": [
+  "Frondier và Bune thảo luận về sự tha hóa linh hồn.",
+  "Frondier phát hiện ra Antero đã sử dụng Carla để thu thập thông tin về quỷ dữ.",
+  "Antero trao quyền kiểm soát cơ thể cho Bune trong hợp đồng.",
+  "Frondier khám phá ra một giao kèo cổ xưa giữa con người và thần thánh.",
+  "Frondier rời khỏi lục địa Falind, đối diện với một tình thế không thể quay đầu lại."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Bune",
+   "loai": "ke_thu",
+   "mo_ta": "Đối đầu, trao đổi thông tin về sự tha hóa và hợp đồng.",
+   "cach_goi": "gọi 'Bune', lạnh lùng"
+  },
+  {
+   "a": "Bune",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Cung cấp thông tin cho Frondier với sự dè chừng.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Antero",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Frondier không có ý định cứu Antero.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bune",
+   "b": "Antero",
+   "loai": "chu_to",
+   "mo_ta": "Bune là chủ nhân của Antero thông qua hợp đồng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Frondier quan sát hành động của Carla.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Antero",
+   "b": "Carla",
+   "loai": "nguoi_la",
+   "mo_ta": "Antero sử dụng Carla để thu thập thông tin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Quan tâm đến tình trạng của Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Antero đã ký hợp đồng với Bune, trao quyền kiểm soát cơ thể cho quỷ dữ.",
+  "Carla đang thu thập thông tin về quỷ dữ theo yêu cầu của Antero."
+ ],
+ "stats": {
+  "tokens": 944,
+  "seconds": 28.3
+ }
+}

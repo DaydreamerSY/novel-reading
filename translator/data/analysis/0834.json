@@ -1,0 +1,102 @@
+{
+ "number": 834,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Đoàn xe của Frondier bị phục kích bởi bom tự chế không sử dụng mana. Sau khi thoát khỏi vụ nổ, họ phát hiện ra mình đang bị theo dõi từ xa. Một mũi tên bắn trúng Selena nhưng cô ta đã dùng khả năng chuyển dịch bóng tối để tránh được. Pielott hy sinh thân mình để chặn mũi tên đó và bị thương nặng. Frondier nhận ra đây là một bẫy được chuẩn bị kỹ lưỡng, nhắm vào chính anh ta.",
+ "boi_canh": "Trên đường đi bằng xe hơi, giữa một trận phục kích.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Lily",
+  "Pielott",
+  "Carla",
+  "Arald",
+  "Basileo",
+  "Artemis"
+ ],
+ "su_kien": [
+  "Xe của Frondier bị phục kích bằng bom không sử dụng mana.",
+  "Selena tránh được mũi tên nhờ khả năng chuyển dịch bóng tối.",
+  "Pielott chặn mũi tên thay cho Selena và bị thương nặng.",
+  "Frondier nhận ra họ đang bị theo dõi từ xa.",
+  "Elodie cảnh báo Frondier về nguy cơ mắc bẫy."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, bảo vệ lẫn nhau.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, bảo vệ lẫn nhau.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đồng đội.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, đồng đội.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Elodie",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "gọi tên Elodie, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elodie",
+   "b": "Selena",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội.",
+   "cach_goi": "gọi tên Selena, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "Đệ tử và sư phụ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Đệ tử và sư phụ.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Carla",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Carla",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè.",
+   "cach_goi": "gọi tên Carla, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1033,
+  "seconds": 31.0
+ }
+}

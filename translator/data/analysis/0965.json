@@ -1,0 +1,108 @@
+{
+ "number": 965,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Cuộc chiến giữa quân đội của Hela và các vị thần diễn ra ác liệt, với sự sụp đổ của một chiếc Naglfar. Baldur tấn công Hela nhưng bị Fenrir chặn lại. Các vị thần tiếp tục tiến về Bifrost dưới sự chỉ huy của Odin. Trong khi đó, tại nhà của Elodie, Mei cảm thấy buồn chán và bắt đầu tìm kiếm mục đích của mình sau lời dặn dò của Frondier. Cuối cùng, Basileo và Aias tham gia trận chiến, được Jane hướng dẫn cách sử dụng phép thuật hiệu quả hơn.",
+ "boi_canh": "Một trận chiến đang diễn ra trên một chiếc Naglfar giữa các vị thần và quân đội của Hela.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Pielott",
+  "Jane",
+  "Mei",
+  "Basileo",
+  "Aias",
+  "Odin",
+  "Hela",
+  "Baldur",
+  "Fenrir",
+  "Atlas",
+  "Glaukos"
+ ],
+ "su_kien": [
+  "Một chiếc Naglfar bị đánh chìm, khiến quân đội của Hela suy yếu.",
+  "Baldur tấn công Hela nhưng bị Fenrir can thiệp.",
+  "Odin ra lệnh cho các vị thần tiến về Bifrost.",
+  "Mei cảm thấy buồn chán và tìm kiếm mục đích sau lời dặn dò của Frondier.",
+  "Jane hướng dẫn Basileo cách sử dụng phép thuật hiệu quả hơn, giúp anh ta tăng cường sức mạnh."
+ ],
+ "quan_he": [
+  {
+   "a": "Odin",
+   "b": "Hela",
+   "loai": "doi_thu",
+   "mo_ta": "Odin ra lệnh cho các vị thần tấn công Hela.",
+   "cach_goi": "gọi chung 'gods', trịch thượng"
+  },
+  {
+   "a": "Hela",
+   "b": "Baldur",
+   "loai": "doi_thu",
+   "mo_ta": "Hela đối đầu với Baldur trong trận chiến.",
+   "cach_goi": "gọi tên 'Baldur', lạnh lùng"
+  },
+  {
+   "a": "Baldur",
+   "b": "Hela",
+   "loai": "doi_thu",
+   "mo_ta": "Baldur tấn công Hela.",
+   "cach_goi": "gọi tên 'Hela', thô lỗ"
+  },
+  {
+   "a": "Fenrir",
+   "b": "Baldur",
+   "loai": "ke_thu",
+   "mo_ta": "Fenrir chặn đứng Baldur.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Odin",
+   "b": "Baldur",
+   "loai": "cap_tren",
+   "mo_ta": "Odin ra lệnh cho Baldur.",
+   "cach_goi": "gọi tên 'Baldur', lễ phép"
+  },
+  {
+   "a": "Fenrir",
+   "b": "Hela",
+   "loai": "ke_thu",
+   "mo_ta": "Fenrir bảo vệ Hela.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Mei",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Mei đang nhà trông coi theo yêu cầu của Frondier.",
+   "cach_goi": "gọi tên 'Frondier', thân mật"
+  },
+  {
+   "a": "Aias",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Hai người đồng hành cùng nhau trong trận chiến.",
+   "cach_goi": "gọi tên 'Pielott', thân mật"
+  },
+  {
+   "a": "Jane",
+   "b": "Basileo",
+   "loai": "thay_tro",
+   "mo_ta": "Jane đang hướng dẫn Basileo về phép thuật.",
+   "cach_goi": "gọi tên 'Basileo', thân mật"
+  },
+  {
+   "a": "Basileo",
+   "b": "Jane",
+   "loai": "thay_tro",
+   "mo_ta": "Basileo bày tỏ lòng biết ơn đối với Jane.",
+   "cach_goi": "gọi tên 'Master', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Fenrir: Được tiết lộ là một con sói khổng lồ, có khả năng chặn đứng Baldur và can thiệp vào trận chiến."
+ ],
+ "stats": {
+  "tokens": 1157,
+  "seconds": 34.8
+ }
+}

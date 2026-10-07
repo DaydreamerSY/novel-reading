@@ -1,0 +1,76 @@
+{
+ "number": 649,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier gặp Marco và Elysia trong một tình huống căng thẳng. Marco đề nghị một thỏa thuận liên quan đến Lunia Fricell để Frondier hợp tác, nhưng Frondier tỏ ra chấp nhận một cách đáng ngờ. Một báo cáo về sự xuất hiện của quỷ phương tây khiến mọi thứ trở nên phức tạp hơn, và Frondier chuẩn bị chiến đấu thay vì tuân theo yêu cầu của Marco.",
+ "boi_canh": "Một căn cứ bí mật, thời điểm không rõ.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly",
+  "Elysia",
+  "Lunia",
+  "Marco",
+  "Marchosias",
+  "Solomon",
+  "Lunia Fricell"
+ ],
+ "su_kien": [
+  "Frondier giới thiệu bản thân với Marchosias và Elysia.",
+  "Marco đề nghị một thỏa thuận liên quan đến Lunia Fricell để Frondier hợp tác.",
+  "Frondier chấp nhận yêu cầu của Marco một cách đáng ngờ.",
+  "Một báo cáo về sự xuất hiện của quỷ phương tây được gửi tới Frondier.",
+  "Frondier kích hoạt một rune và chuẩn bị chiến đấu."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Marchosias",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Marco nghi ngờ Frondier.",
+   "cach_goi": "gọi tên Marchosias, không rõ"
+  },
+  {
+   "a": "Marchosias",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Marco cố gắng thao túng và thăm dò ý đồ của Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elysia",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Elysia bị Frondier coi là người hầu của Marco.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Elysia",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Elysia bị giam giữ bởi Marco.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Marco cố gắng ép buộc và thao túng Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu trực tiếp, Frondier tỏ ra chấp nhận một cách đáng ngờ.",
+   "cach_goi": "gọi tên Marco, không rõ"
+  }
+ ],
+ "danh_tinh": [
+  "Frondier de Roach (tên đầy đủ của Frondier)",
+  "Lunia Fricell (tên đầy đủ của Lunia)"
+ ],
+ "stats": {
+  "tokens": 820,
+  "seconds": 24.5
+ }
+}

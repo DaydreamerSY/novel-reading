@@ -2,77 +2,81 @@
  "number": 585,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi Lily bị workshop nuốt chửng, trang viên của cô trở nên hoang tàn. Frondier đến trang viên để đối mặt với Lily và bị vệ binh của cô tấn công. Trong quá trình đó, ông phát hiện ra những thông tin đáng lo ngại về các vệ binh này và mối liên hệ của họ với Shadow Unit. Cuối cùng, sau khi cân nhắc kỹ lưỡng và nghe báo cáo từ Gregory, Frondier quyết định chưa hành động ngay lập tức và đối chất với một trong số vệ binh của Lily.",
- "boi_canh": "Trang viên của Lily, vào đêm khuya.",
+ "tom_tat": "Sau khi Lily bảo vệ Ameline, Frondier cố gắng hiểu động cơ của cô ta. Anh nhận ra Lily hành động vì lợi ích bản thân và có thể bị điều khiển bằng cách khai thác mong muốn của cô ta. Cuộc trò chuyện giữa họ tiết lộ quá khứ cô đơn của cả hai, khiến Lily cảm thấy đồng cảm với Frondier. Cuối cùng, Lily chấp nhận trở thành hiệp sĩ của Frondier trong một tháng, nhưng đưa ra những điều kiện khắc nghiệt và ám chỉ về việc anh cũng có thể bị ảnh hưởng bởi 'Charm' mà không hề hay biết.",
+ "boi_canh": "Trong xưởng rèn, vào thời điểm Frondier và Lily đang tranh luận về động cơ của nhau.",
  "nhan_vat": [
   "Frondier",
-  "Elodie",
   "Lily",
-  "Laurie",
-  "Kraken",
+  "Ludwig",
   "Gregory",
-  "Frondier de Roach",
   "Ameline",
   "Ria Lis",
-  "Shadow",
   "Lis"
  ],
  "su_kien": [
-  "Trang viên của Lily bị phá hoại sau khi cô bị workshop nuốt chửng.",
-  "Vệ binh của Lily tấn công Frondier.",
-  "Frondier hạ gục tất cả vệ binh của Lily.",
-  "Gregory báo cáo về nguồn gốc tội phạm của các vệ binh và sự liên quan của họ với Shadow Unit.",
-  "Frondier đối chất với một vệ binh để tìm hiểu thêm."
+  "Lily bảo vệ Ameline.",
+  "Frondier cố gắng hiểu động cơ của Lily.",
+  "Lily tiết lộ quá khứ cô đơn và thiếu ký ức về Vương quốc Quỷ.",
+  "Lily chấp nhận trở thành hiệp sĩ của Frondier trong một tháng với những điều kiện khắc nghiệt.",
+  "Frondier kích hoạt xưởng rèn, kết thúc cuộc trò chuyện."
  ],
  "quan_he": [
   {
    "a": "Frondier",
    "b": "Lily",
    "loai": "doi_thu",
-   "mo_ta": "Đối đầu trực tiếp, Frondier đang cân nhắc hành động của mình.",
-   "cach_goi": "gọi tên Lily, không rõ cảm xúc"
+   "mo_ta": "Frondier cố gắng phân tích và điều khiển Lily.",
+   "cach_goi": "gọi tên Lily, lạnh lùng"
   },
   {
    "a": "Lily",
    "b": "Frondier",
-   "loai": "doi_thu",
-   "mo_ta": "Lily đang quan sát và thử thách Frondier.",
-   "cach_goi": "gọi tên Frondier, thân mật và có vẻ thích thú"
+   "loai": "nguoi_la",
+   "mo_ta": "Lily tò mò và có phần đồng cảm với Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ameline",
+   "loai": "dong_minh",
+   "mo_ta": "Frondier quan tâm đến sự an toàn của Ameline.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lily",
+   "b": "Ameline",
+   "loai": "nguoi_la",
+   "mo_ta": "Lily bảo vệ Ameline vì động cơ cá nhân.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
    "b": "Gregory",
    "loai": "thay_tro",
-   "mo_ta": "Frondier nhận báo cáo từ Gregory.",
-   "cach_goi": "gọi tên Gregory, lễ phép"
+   "mo_ta": "Gregory là người cố vấn cho Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Gregory",
+   "a": "Ria Lis",
    "b": "Frondier",
    "loai": "cap_tren",
-   "mo_ta": "Gregory báo cáo cho Frondier và đưa ra lời khuyên.",
-   "cach_goi": "gọi tên Frondier, trung lập"
+   "mo_ta": "Lily (dưới danh nghĩa Ria Lis) chấp nhận điều kiện của Frondier.",
+   "cach_goi": "gọi tên Frondier, trịch thượng"
   },
   {
    "a": "Frondier",
-   "b": "Một vệ binh của Lily",
-   "loai": "nguoi_la",
-   "mo_ta": "Đối chất để tìm hiểu thêm thông tin.",
-   "cach_goi": "gọi tên vệ binh, lạnh lùng"
-  },
-  {
-   "a": "Một vệ binh của Lily",
-   "b": "Frondier",
-   "loai": "nguoi_la",
-   "mo_ta": "Vệ binh đang bị giam giữ và phản kháng.",
-   "cach_goi": "gọi tên Frondier, thô lỗ"
+   "b": "Ria Lis",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier chấp nhận Lily (dưới danh nghĩa Ria Lis) làm hiệp sĩ của mình.",
+   "cach_goi": "gọi tên Ria Lis, lạnh lùng"
   }
  ],
  "danh_tinh": [
-  "Các vệ binh của Lily có hồ sơ tội phạm được Shadow Unit che đậy."
+  "Lily sử dụng tên Ria Lis.",
+  "Lis là một cách gọi khác của Lily."
  ],
  "stats": {
-  "tokens": 831,
-  "seconds": 26.2
+  "tokens": 899,
+  "seconds": 28.2
  }
 }

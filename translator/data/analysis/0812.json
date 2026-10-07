@@ -1,0 +1,57 @@
+{
+ "number": 812,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Basileo của Bộ Phận Ma Thuật tham gia một lớp học tự chọn về “Hiểu Rõ Cách Đơn Giản Hóa Công Thức”. Anh ta ngưỡng mộ tốc độ biểu hiện phép thuật của Frondier và Elodie và khao khát được học hỏi từ Frondier. Sau khi thua Pielott trong trận bán kết, Basileo chứng kiến Frondier luyện tập một phép thuật mới lạ với một cây thương và tinh thể lấp lánh. Cuối cùng, Frondier tạo ra “Thương Sấm Chớp Đen” và phóng nó lên trời, phá tan bầu trời.",
+ "boi_canh": "Phòng học lớp tự chọn về 'Hiểu Rõ Cách Đơn Giản Hóa Công Thức' tại trường học.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Pielott",
+  "Basileo",
+  "Aias"
+ ],
+ "su_kien": [
+  "Basileo tham gia lớp học về đơn giản hóa công thức phép thuật.",
+  "Basileo thua Pielott trong trận bán kết và không thể được Frondier dạy phép thuật.",
+  "Basileo nhìn thấy Frondier luyện tập một phép thuật mới lạ với thương và tinh thể lấp lánh.",
+  "Frondier tạo ra “Thương Sấm Chớp Đen” và phóng nó lên trời.",
+  "“Thương Sấm Chớp Đen” phá tan bầu trời."
+ ],
+ "quan_he": [
+  {
+   "a": "Basileo",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Basileo khao khát được học phép thuật từ Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Basileo",
+   "loai": "nguoi_la",
+   "mo_ta": "Frondier không biết Basileo đang mong muốn được học phép thuật từ anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Basileo",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người là đối thủ trong trận đấu.",
+   "cach_goi": "gọi tên Pielott, lạnh lùng"
+  },
+  {
+   "a": "Aias",
+   "b": "Pielott",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người là đối thủ trong trận đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 686,
+  "seconds": 20.5
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "number": 667,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào sự chuẩn bị cho trận chiến giữa Frondier và Aster, cùng với cuộc giải cứu Lunia khỏi ngục tù của quỷ dữ. Các nhân vật thảo luận về chiến thuật và điểm mạnh/yếu của đối phương. Một đội quân giải cứu do Aster dẫn đầu đã đột kích vào nhà ngục, đối mặt với sự kháng cự của lũ quỷ và Selena xuất hiện để giúp đỡ. Lunia bày tỏ sự thất vọng nhẹ nhõm khi Aster không nói những lời hoa mỹ như trong tiểu thuyết.",
+ "boi_canh": "Bên trong một căn phòng, chuẩn bị cho trận chiến giữa Frondier và Aster.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Selena",
+  "Aster",
+  "Aten",
+  "Sybil",
+  "Pielott",
+  "Dier",
+  "Hagley",
+  "Lunia"
+ ],
+ "su_kien": [
+  "Các nhân vật thảo luận về cách Aster có thể áp đảo Frondier bằng 'One Flash'.",
+  "Aster cảnh báo đội quân của mình về sự hiểu biết của đối phương về sức mạnh của họ.",
+  "Pielott bày tỏ sự sẵn sàng hợp tác với Dier.",
+  "Một đội giải cứu đột kích vào nhà ngục, do Aster và Aten dẫn đầu.",
+  "Selena xuất hiện và nhanh chóng vô hiệu hóa một số quỷ dữ bằng kim."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie quan sát và lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Elodie, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ, Elodie quan sát và lo lắng cho Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh, Aster cố tình khiêu khích Frondier.",
+   "cach_goi": "gọi tên Frondier, đối thủ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ cạnh tranh, Frondier nhận thức được sự khiêu khích của Aster.",
+   "cach_goi": "gọi tên Aster, đối thủ"
+  },
+  {
+   "a": "Aster",
+   "b": "Aten",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Aster và Aten cùng nhau lên kế hoạch chiến lược.",
+   "cach_goi": "gọi tên Aten, đồng minh"
+  },
+  {
+   "a": "Aten",
+   "b": "Aster",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Aster và Aten cùng nhau lên kế hoạch chiến lược.",
+   "cach_goi": "gọi tên Aster, đồng minh"
+  },
+  {
+   "a": "Sybil",
+   "b": "Pielott",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Sybil cảnh báo Pielott về sự kiêu ngạo của anh ta.",
+   "cach_goi": "gọi tên Pielott, đồng đội"
+  },
+  {
+   "a": "Sybil",
+   "b": "Dier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng đội, Sybil cảnh báo Pielott và Dier về sự kiêu ngạo của họ.",
+   "cach_goi": "gọi tên Dier, đồng đội"
+  },
+  {
+   "a": "Elodie",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Pielott, Elodie thúc giục anh ta hợp tác.",
+   "cach_goi": "gọi tên Pielott, bạn bè"
+  },
+  {
+   "a": "Pielott",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Elodie, Pielott chấp nhận lời khuyên của cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Lunia",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Aster quan sát Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Lunia",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, Selena giải cứu Lunia.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Selena",
+   "b": "Quỷ dữ",
+   "loai": "ke_thu",
+   "mo_ta": "Không có tương tác trực tiếp, Selena tiêu diệt quỷ dữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1377,
+  "seconds": 42.9
+ }
+}

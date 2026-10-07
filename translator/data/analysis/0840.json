@@ -1,0 +1,59 @@
+{
+ "number": 840,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Pielott cắt xẻ lũ quỷ một cách không ngừng nghỉ, tình hình trở nên nguy cấp vì nguồn năng lượng của anh bắt đầu cạn kiệt. Một sự kiện kỳ lạ xảy ra khi năng lượng của anh được bổ sung từ mana thế giới bên ngoài thông qua mũi tên, nhưng điều này gây ra những tác động tiêu cực đến cơ thể anh. Bất ngờ, lũ quỷ rút lui mà không cần phải giao chiến thêm, khiến Hypnos bối rối. Cuối cùng, Pielott chỉ trích sự thiếu hiểu biết của Hypnos về con người và lũ quỷ.",
+ "boi_canh": "Trận chiến ác liệt giữa Pielott và lũ quỷ tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Pielott",
+  "Edwin",
+  "Basileo",
+  "Hypnos"
+ ],
+ "su_kien": [
+  "Pielott sử dụng năng lượng đặc biệt để cắt xẻ lũ quỷ.",
+  "Năng lượng của Pielott bắt đầu cạn kiệt, khiến cơ thể anh chịu áp lực lớn.",
+  "Mana thế giới bên ngoài được chuyển hóa vào cơ thể Pielott thông qua mũi tên.",
+  "Lũ quỷ đột ngột rút lui khỏi chiến trường.",
+  "Pielott chỉ trích Hypnos vì không hiểu con người và lũ quỷ."
+ ],
+ "quan_he": [
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Pielott là người được Frondier hỗ trợ, ngưỡng mộ và có phần chỉ trích.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hypnos",
+   "b": "Pielott",
+   "loai": "cap_tren",
+   "mo_ta": "Hypnos là một vị thần quan sát và hỗ trợ Pielott, nhưng không hiểu rõ anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Hypnos",
+   "loai": "cap_tren",
+   "mo_ta": "Pielott chỉ trích Hypnos vì không hiểu con người và lũ quỷ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Frondier là người hỗ trợ Pielott, nhưng không có mặt trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Orthros: Một con quái vật thần thoại với hai đầu, được mô tả là mạnh hơn Minotaur nhưng yếu hơn Cerberus. Nó được Frondier và nhóm của anh đối mặt."
+ ],
+ "stats": {
+  "tokens": 719,
+  "seconds": 21.8
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "number": 706,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, mọi người thảo luận về việc ai sẽ kế nhiệm vị trí Chủ tịch Hội học sinh sau khi Ellen tạm thời đảm nhận vai trò đó. Cuộc trò chuyện dẫn đến việc Frondier được đề xuất là ứng cử viên tiềm năng, gây ra sự ngạc nhiên và tranh cãi nhẹ nhàng. Trong khi đó, Dier Aigar háo hức chuẩn bị cho năm học mới với những đàn em, và tìm kiếm Pielott để cùng nhau báo cáo tình hình với Frondier.",
+ "boi_canh": "Trong phòng học của Học viện Constel, vào thời điểm bắt đầu một kỳ học mới.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Aster",
+  "Aten",
+  "Pielott",
+  "Ellen",
+  "Dier",
+  "Lunia",
+  "Dier Aigar"
+ ],
+ "su_kien": [
+  "Thảo luận về việc ai sẽ kế nhiệm vị trí Chủ tịch Hội học sinh.",
+  "Lunia đề xuất Frondier là ứng cử viên tiềm năng.",
+  "Aster bày tỏ sự tò mò về mức độ chăm chỉ của Frondier.",
+  "Dier Aigar háo hức chuẩn bị cho năm học mới và tìm kiếm Pielott.",
+  "Pielott nhận được nhiều quà tặng thay mặt cho Frondier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Cạnh tranh về sự chăm chỉ và thành tích.",
+   "cach_goi": "gọi tên Aster, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Cạnh tranh về sự chăm chỉ và thành tích.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn từ thuở nhỏ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "dong_minh",
+   "mo_ta": "Đồng môn, quan hệ bình thường.",
+   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lunia",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, có vẻ quan tâm đến Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Lunia",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè.",
+   "cach_goi": "gọi tên Aster, thân mật"
+  },
+  {
+   "a": "Dier Aigar",
+   "b": "Pielott",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Dier Aigar",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò.",
+   "cach_goi": "gọi tên Dier Aigar, thân mật"
+  },
+  {
+   "a": "Dier Aigar",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đệ tử của Frondier.",
+   "cach_goi": "gọi 'Senior', lễ phép"
+  },
+  {
+   "a": "Pielott",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Đệ tử của Frondier.",
+   "cach_goi": "gọi 'Senior', lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1057,
+  "seconds": 31.5
+ }
+}

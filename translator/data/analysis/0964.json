@@ -1,0 +1,110 @@
+{
+ "number": 964,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier sử dụng Mjölnir và Excalibur giả để tấn công Thor, nhưng không thể giết được hắn. Trong khi đó, Apollo gặp khó khăn với Hector, người đã làm chủ cả kiếm và sét. Dier Aiger cố gắng cầm chân các vị thần Asgard bằng cách thu hút sự chú ý của chúng, tạo cơ hội cho Pielott can thiệp.",
+ "boi_canh": "Một trận chiến ác liệt diễn ra trên một chiến trường không xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Pielott",
+  "Dier",
+  "Jane",
+  "Edwin",
+  "Ludovic",
+  "Basileo",
+  "Hector",
+  "Thor",
+  "Zeus",
+  "Apollo",
+  "Ludwig",
+  "Osprey",
+  "Dier Aiger"
+ ],
+ "su_kien": [
+  "Frondier sử dụng Mjölnir và Excalibur giả để tấn công Thor.",
+  "Apollo gặp khó khăn khi chiến đấu với Hector, người đã làm chủ cả kiếm và sét.",
+  "Dier Aiger cố gắng cầm chân các vị thần Asgard bằng cách thu hút sự chú ý của chúng.",
+  "Pielott bất ngờ xuất hiện và tham gia trận chiến.",
+  "Dier giao notebook cho Edwin trước khi lao vào trận chiến."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Thor",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "gọi tên Thor, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Thor",
+   "b": "Frondier",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Apollo",
+   "b": "Hector",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "gọi tên Hector, thô lỗ"
+  },
+  {
+   "a": "Hector",
+   "b": "Apollo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang chiến đấu với nhau.",
+   "cach_goi": "gọi tên Apollo, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ludwig",
+   "b": "Hector",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội hỗ trợ lẫn nhau trong chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Hector",
+   "b": "Ludwig",
+   "loai": "ban_be",
+   "mo_ta": "Đồng đội hỗ trợ lẫn nhau trong chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Dier Aiger",
+   "b": "Edwin",
+   "loai": "thay_tro",
+   "mo_ta": "Người thầy giao nhiệm vụ cho học trò.",
+   "cach_goi": "gọi tên Edwin, lễ phép"
+  },
+  {
+   "a": "Edwin",
+   "b": "Dier Aiger",
+   "loai": "thay_tro",
+   "mo_ta": "Người học trò nhận nhiệm vụ từ người thầy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Basileo",
+   "b": "Pielott",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè.",
+   "cach_goi": "gọi tên Pielott, thân mật"
+  },
+  {
+   "a": "Pielott",
+   "b": "Basileo",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hector Von Urfa (tên thật của Hector)"
+ ],
+ "stats": {
+  "tokens": 1047,
+  "seconds": 31.5
+ }
+}

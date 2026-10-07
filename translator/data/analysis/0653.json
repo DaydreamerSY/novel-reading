@@ -1,0 +1,71 @@
+{
+ "number": 653,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Một quỷ cấp cao quát mắng đám quỷ cấp thấp vì lãng phí thời gian tấn công Frondier. Sau đó, hắn dẫn chúng rời đi để tìm kiếm quỷ ẩn náu trong Đế Chế. Frondier lo lắng về việc này và cân nhắc sử dụng sức mạnh của quỷ, nhưng lại sợ hãi hậu quả đối với Lunia và Marco. Cuối cùng, Frondier gọi Marco bằng mật danh 'Marchosias', khiến quỷ cấp cao vô cùng vui mừng khi nhận ra Marco, hé lộ mối quan hệ bí ẩn giữa họ.",
+ "boi_canh": "Một trận chiến đang diễn ra tại một địa điểm không rõ ràng, thời gian chưa xác định.",
+ "nhan_vat": [
+  "Frondier",
+  "Lunia",
+  "Marco",
+  "Marchosias"
+ ],
+ "su_kien": [
+  "Quỷ cấp cao quát mắng đám quỷ cấp thấp tấn công Frondier.",
+  "Frondier cảm nhận được áp lực từ quỷ cấp cao.",
+  "Quỷ cấp cao dẫn đám quỷ cấp thấp rời đi để tìm kiếm quỷ ẩn náu trong Đế Chế.",
+  "Frondier gọi Marco bằng mật danh 'Marchosias'.",
+  "Quỷ cấp cao vô cùng vui mừng khi nhận ra Marco."
+ ],
+ "quan_he": [
+  {
+   "a": "quỷ cấp cao",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Quỷ cấp cao tức giận vì Frondier cản đường.",
+   "cach_goi": "gọi 'kẻ ngu ngốc', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "quỷ cấp cao",
+   "loai": "ke_thu",
+   "mo_ta": "Quan sát và cảm nhận sức mạnh của đối phương.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Marco",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Frondier quan sát Marco.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Marco",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Quan sát Frondier, có vẻ lo lắng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "quỷ cấp cao",
+   "b": "Marco",
+   "loai": "cap_tren",
+   "mo_ta": "Quỷ cấp cao vui mừng khi gặp lại Marco.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Marco",
+   "b": "quỷ cấp cao",
+   "loai": "cap_tren",
+   "mo_ta": "Thân thiện và thoải mái với quỷ cấp cao.",
+   "cach_goi": "không sử dụng kính ngữ, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Mật danh của Marco là 'Marchosias'."
+ ],
+ "stats": {
+  "tokens": 784,
+  "seconds": 23.3
+ }
+}

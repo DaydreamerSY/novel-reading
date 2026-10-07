@@ -2,69 +2,55 @@
  "number": 578,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Frondier và Ameline đi trên cỗ xe ngựa qua một con đường núi hiểm trở. Họ bị một nhóm người giả dạng thành kẻ cướp chặn lại, nhưng Frondier nhận ra rằng chúng không phải là những kẻ cướp bình thường mà đã được chuẩn bị kỹ lưỡng. Anh ta nghi ngờ có ai đó đã cung cấp thông tin về chuyến hộ tống này và sự xuất hiện của bọn chúng không nằm trong kế hoạch ban đầu của gia đình Ellis.",
- "boi_canh": "Trên một con đường núi hẻo lánh, khi mặt trời bắt đầu lặn.",
+ "tom_tat": "Trong chương này, Amelie hồi hộp chờ đợi sự trở lại của Frondier và tưởng tượng ra những trận chiến anh hùng của anh ta. Trong khi đó, Hoàng hậu Philly lo ngại về việc Frondier liên quan đến Lily và yêu cầu báo cáo về anh ta được gửi trực tiếp cho bà. Cuối cùng, Frondier suy nghĩ về động cơ của kẻ tấn công, nhận ra rằng họ biết rõ danh tính của anh ta và Amelie.",
+ "boi_canh": "Trong xe ngựa, buổi chiều.",
  "nhan_vat": [
   "Frondier",
-  "Selena",
-  "Ameline"
+  "Amelie",
+  "Philly",
+  "Lily",
+  "Robert"
  ],
  "su_kien": [
-  "Cỗ xe ngựa đi qua một con đường núi hiểm trở.",
-  "Một nhóm người giả dạng thành kẻ cướp chặn đường.",
-  "Frondier nhận ra bọn chúng không phải là những kẻ cướp bình thường.",
-  "Frondier đối mặt với tên thủ lĩnh và đánh chặn đòn tấn công của hắn.",
-  "Frondier kích hoạt aura và chuẩn bị chiến đấu."
+  "Amelie hồi hộp chờ đợi sự trở lại của Frondier.",
+  "Frondier trở về và bước vào xe ngựa.",
+  "Hoàng hậu Philly yêu cầu báo cáo về Frondier được gửi trực tiếp cho bà.",
+  "Những tiếng động lạ và sạt lở đất xảy ra bên ngoài xe ngựa.",
+  "Frondier suy nghĩ về động cơ của kẻ tấn công."
  ],
  "quan_he": [
   {
-   "a": "Frondier",
-   "b": "Ameline",
-   "loai": "gia_dinh",
-   "mo_ta": "Người bảo vệ và cô chủ trẻ, Frondier lo lắng cho sự an toàn của Ameline.",
-   "cach_goi": "gọi tên Ameline, thân mật"
-  },
-  {
-   "a": "Ameline",
+   "a": "Amelie",
    "b": "Frondier",
-   "loai": "ban_be",
-   "mo_ta": "Cô gái trẻ tò mò và thích thú với những tình huống nguy hiểm.",
-   "cach_goi": "gọi 'Sir Knight', lễ phép"
+   "loai": "nguoi_la",
+   "mo_ta": "Amelie ngưỡng mộ và tò mò về Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
   },
   {
    "a": "Frondier",
-   "b": "Selena",
+   "b": "Amelie",
    "loai": "nguoi_la",
-   "mo_ta": "Không tương tác trực tiếp trong chương này, nhưng Frondier so sánh phản ứng của Ameline với Selena.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "mo_ta": "Frondier duy trì một khoảng cách lịch sự với Amelie.",
+   "cach_goi": "gọi tên Amelie, lịch sự"
   },
   {
-   "a": "Frondier",
-   "b": "Thủ lĩnh kẻ cướp",
-   "loai": "doi_thu",
-   "mo_ta": "Đối đầu trực tiếp, Frondier nghi ngờ đối phương có mục đích khác.",
-   "cach_goi": "gọi tên thủ lĩnh, lạnh lùng"
+   "a": "Philly",
+   "b": "Robert",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng hậu Philly là cấp trên của Robert.",
+   "cach_goi": "gọi tên Robert, trang trọng"
   },
   {
-   "a": "Thủ lĩnh kẻ cướp",
-   "b": "Frondier",
-   "loai": "doi_thu",
-   "mo_ta": "Tấn công và khiêu khích Frondier.",
-   "cach_goi": "gọi tên Frondier, thô lỗ"
-  },
-  {
-   "a": "Ameline",
-   "b": "Thủ lĩnh kẻ cướp",
-   "loai": "nguoi_la",
-   "mo_ta": "Không tương tác trực tiếp, nhưng Ameline quan sát tình hình.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "a": "Robert",
+   "b": "Philly",
+   "loai": "cap_tren",
+   "mo_ta": "Robert là một cận vệ của Philly.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
   }
  ],
- "danh_tinh": [
-  "Những kẻ cướp không phải là những kẻ cướp bình thường mà đã được chuẩn bị kỹ lưỡng và có thông tin về Frondier và chuyến hộ tống."
- ],
+ "danh_tinh": [],
  "stats": {
-  "tokens": 824,
-  "seconds": 25.9
+  "tokens": 582,
+  "seconds": 18.3
  }
 }

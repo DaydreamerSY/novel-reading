@@ -2,70 +2,77 @@
  "number": 589,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Sau khi Lily giải thích về cách nhận biết quỷ, Frondier suy luận về sự tồn tại của những con quỷ ẩn mình trong xã hội loài người và những động cơ của chúng. Anh ta bắt đầu nghi ngờ rằng Satan có thể đã để lại một số quỷ cấp cao hơn sau trận chiến trước đó. Cuối cùng, anh ta nhìn thấy Elodie de Rishae xuất hiện bất ngờ tại một buổi tiệc và nhận ra điều gì đó quan trọng.",
- "boi_canh": "Một buổi tiệc của giới quý tộc trong lâu đài Hoàng gia.",
+ "tom_tat": "Sophie gặp gỡ Elodie và nhận ra mối liên hệ giữa họ với Frondier, khiến cô ta lợi dụng cơ hội để nâng cao địa vị gia đình. Sau đó, Sophie đuổi Frondier đi để anh có thời gian riêng tư nói chuyện với Elodie. Hai người cùng nhau bước ra ban công, nơi họ trò chuyện về sự vắng mặt của Frondier và những tin tức từ Constel, hé lộ một chút căng thẳng trong mối quan hệ của họ.",
+ "boi_canh": "Trong phòng khách dinh thự của gia đình Rishae, vào buổi tối.",
  "nhan_vat": [
-  "Frondier",
-  "Lily",
-  "Elodie",
   "Sophie",
-  "Ria Lis",
-  "Mizonas",
-  "Satan",
-  "Belphegor",
-  "Lucifer",
-  "Elodie de Rishae",
-  "Lis"
+  "Elodie",
+  "Frondier",
+  "Aster",
+  "Aten",
+  "Lily",
+  "Father",
+  "Selena",
+  "Ria Lis"
  ],
  "su_kien": [
-  "Lily giải thích cách nhận biết quỷ dựa trên cánh và hào quang.",
-  "Frondier suy đoán về sự tồn tại của những con quỷ cấp cao ẩn mình trong xã hội loài người.",
-  "Frondier nhớ lại những lời nói đơn giản, lặp đi lặp lại của những con quỷ cấp thấp mà anh ta đã từng đối mặt.",
-  "Lily tiết lộ rằng những con quỷ không thể thỏa mãn được mong muốn của chúng sẽ không chết.",
-  "Elodie de Rishae xuất hiện bất ngờ tại buổi tiệc và chào Sophie."
+  "Sophie nhận ra Elodie và bày tỏ sự vui mừng khi gặp lại.",
+  "Sophie nhận xét về mối liên hệ giữa Frondier và Elodie, cũng như địa vị của họ trong xã hội.",
+  "Sophie đuổi Frondier đi để anh có thời gian riêng tư với Elodie.",
+  "Frondier và Elodie cùng nhau bước ra ban công.",
+  "Elodie hỏi về những tin tức từ Constel và bày tỏ sự tò mò về việc Frondier đứng cạnh Madam Meyer."
  ],
  "quan_he": [
   {
-   "a": "Frondier",
-   "b": "Lily",
-   "loai": "thay_tro",
-   "mo_ta": "Frondier hỏi Lily về cách nhận biết quỷ và suy luận từ những gì cô nói.",
-   "cach_goi": "gọi tên Lily, thân mật"
+   "a": "Sophie",
+   "b": "Elodie",
+   "loai": "dong_minh",
+   "mo_ta": "Sophie là một người có địa vị xã hội và muốn lợi dụng mối quan hệ của Frondier để nâng cao địa vị gia đình.",
+   "cach_goi": "gọi tên Elodie, lễ phép"
   },
   {
-   "a": "Lily",
+   "a": "Elodie",
+   "b": "Sophie",
+   "loai": "dong_minh",
+   "mo_ta": "Elodie lịch sự chào hỏi Sophie.",
+   "cach_goi": "gọi tên Sophie, lễ phép"
+  },
+  {
+   "a": "Sophie",
    "b": "Frondier",
-   "loai": "thay_tro",
-   "mo_ta": "Lily giải thích và trả lời các câu hỏi của Frondier.",
+   "loai": "cap_tren",
+   "mo_ta": "Sophie là người đã thuê Frondier để nâng cao địa vị gia đình.",
    "cach_goi": "gọi tên Frondier, thân mật"
   },
   {
    "a": "Frondier",
    "b": "Sophie",
-   "loai": "dong_minh",
-   "mo_ta": "Frondier là hiệp sĩ bảo vệ Sophie.",
+   "loai": "cap_tren",
+   "mo_ta": "Frondier không trực tiếp giao tiếp với Sophie.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Elodie de Rishae",
-   "b": "Sophie",
-   "loai": "dong_minh",
-   "mo_ta": "Elodie chào Sophie tại buổi tiệc.",
-   "cach_goi": "gọi tên Sophie, lễ phép"
+   "a": "Elodie",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn từ thuở nhỏ.",
+   "cach_goi": "gọi tên Frondier, thân mật"
   },
   {
    "a": "Frondier",
-   "b": "Elodie de Rishae",
-   "loai": "nguoi_la",
-   "mo_ta": "Frondier nhìn thấy Elodie và nhận ra điều gì đó.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn từ thuở nhỏ.",
+   "cach_goi": "gọi tên Elodie, thân mật"
   }
  ],
  "danh_tinh": [
-  "Elodie de Rishae (trước đây là Elodie)"
+  "Elodie de Inies Rishae (tên đầy đủ của Elodie sau khi tức tỉnh thần tính)",
+  "Frondier de Roach (tên đầy đủ của nhân vật chính)",
+  "Aster Evans (tên đầy đủ của Aster)"
  ],
  "stats": {
-  "tokens": 767,
-  "seconds": 23.3
+  "tokens": 851,
+  "seconds": 25.6
  }
 }

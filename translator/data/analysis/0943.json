@@ -1,0 +1,68 @@
+{
+ "number": 943,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier xem lại đồng hồ thông minh và nhận ra nó có nhiều điểm không khớp với giả thuyết về việc Moirai tạo ra nó. Anh ta suy luận rằng thiết bị này được tạo ra bởi những người khổng lồ, nhằm hỗ trợ anh ta trong một trò chơi. Sau khi chiến thắng cuộc Chiến tranh Manggot, đồng hồ thông minh gần như ngừng hoạt động, ngoại trừ các nhiệm vụ thế giới. Frondier bắt đầu tấn công Moirai bằng mana từ các thế giới khác nhau để tìm cách tiêu diệt họ.",
+ "boi_canh": "Bên trong xưởng của Frondier.",
+ "nhan_vat": [
+  "Frondier",
+  "Selena",
+  "Aster",
+  "Azier",
+  "Elysia",
+  "Pielott",
+  "Fron",
+  "Moirai (3)"
+ ],
+ "su_kien": [
+  "Frondier xem lại đồng hồ thông minh và nhận ra nó có nhiều điểm không khớp.",
+  "Anh ta suy luận rằng thiết bị này được tạo ra bởi những người khổng lồ.",
+  "Frondier tấn công Moirai bằng mana từ các thế giới khác nhau.",
+  "Moirai sử dụng phép thuật để phá vỡ rào cản của xưởng.",
+  "Selena xuất hiện và quan sát tình hình."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "đồng hồ thông minh",
+   "loai": "khac",
+   "mo_ta": "Frondier quan sát và suy luận về đồng hồ thông minh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Moirai (3)",
+   "loai": "ke_thu",
+   "mo_ta": "Frondier đối đầu và tấn công Moirai.",
+   "cach_goi": "gọi 'Moirai', lạnh lùng"
+  },
+  {
+   "a": "Selena",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "Selena quan sát và đặt câu hỏi cho Frondier.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Moirai (3)",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Moirai đối đầu và bị Frondier tấn công.",
+   "cach_goi": "gọi 'wretch', thô lỗ"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "Frondier đang tìm kiếm linh hồn của Azier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Fron (biệt danh của Frondier)"
+ ],
+ "stats": {
+  "tokens": 732,
+  "seconds": 22.2
+ }
+}

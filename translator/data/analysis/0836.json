@@ -1,0 +1,66 @@
+{
+ "number": 836,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Một con quạ đưa ra thông điệp trước khi chết, khiến Charon nghi ngờ có ai đó điều khiển nó. Colin cố gắng trốn thoát nhưng bị chặn lại. Một giọng nói bí ẩn từ sau cánh cửa thách thức Charon và tiết lộ những điều về hiệp ước giữa Paladin và 'Nine'. Gregory, một con quạ đóng vai trò là người bảo trợ của Colin, được mời vào phòng, nhưng từ chối vì lo ngại về sự phơi bày danh tính. Pielott bị bắn trúng tên và bỏ rơi, sau đó gặp một demon.",
+ "boi_canh": "Trong phòng tiếp khách tại lâu đài Charon, vào thời điểm căng thẳng giữa Paladin và 'Nine'.",
+ "nhan_vat": [
+  "Frondier",
+  "Pielott",
+  "Malia",
+  "Gregory",
+  "Charon",
+  "Colin"
+ ],
+ "su_kien": [
+  "Một con quạ chết sau khi đưa ra thông điệp bí ẩn.",
+  "Charon nghi ngờ có ai đó điều khiển con quạ.",
+  "Colin cố gắng trốn thoát khỏi phòng.",
+  "Một giọng nói bí ẩn thách thức Charon và tiết lộ về hiệp ước.",
+  "Gregory từ chối vào phòng vì lo ngại bị phơi bày danh tính."
+ ],
+ "quan_he": [
+  {
+   "a": "Charon",
+   "b": "Colin",
+   "loai": "doi_thu",
+   "mo_ta": "Charon muốn bắt giữ Colin; Colin cố gắng trốn thoát.",
+   "cach_goi": "gọi tên Colin, lạnh lùng"
+  },
+  {
+   "a": "Colin",
+   "b": "Charon",
+   "loai": "doi_thu",
+   "mo_ta": "Colin cố gắng trốn thoát; Charon muốn bắt giữ Colin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Charon",
+   "b": "Gregory",
+   "loai": "nguoi_la",
+   "mo_ta": "Charon nghi ngờ Gregory; Gregory quan sát Charon.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Gregory",
+   "b": "Charon",
+   "loai": "nguoi_la",
+   "mo_ta": "Gregory quan sát Charon; Charon nghi ngờ Gregory.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pielott",
+   "b": "Demon",
+   "loai": "nguoi_la",
+   "mo_ta": "Pielott gặp một demon sau khi bị bắn trúng tên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Gregory: Hiện đang đóng vai trò là một con quạ, dưới sự giám sát của Malia."
+ ],
+ "stats": {
+  "tokens": 715,
+  "seconds": 21.5
+ }
+}

@@ -2,79 +2,75 @@
  "number": 514,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Frondier trình bày bản đồ ba chiều về Đế quốc cho các lãnh đạo quyền lực nhất, tiết lộ vị trí của người Manggot và giải thích lý do họ sắp tấn công. Ông cũng chỉ ra rằng người Manggot yếu hơn Đế quốc, nhưng vẫn cảnh báo về những khó khăn phía trước. Osprey xác nhận việc nhìn thấy người Manggot từ bên ngoài thế giới, và Frondier đổ lỗi cho hành động của Osprey là nguyên nhân khiến người Manggot lộ vị trí.",
- "boi_canh": "Trong phòng họp của Đế quốc, các lãnh đạo quyền lực nhất đang tham dự một cuộc họp quan trọng.",
+ "tom_tat": "Trong một cuộc họp quan trọng, Frondier tiết lộ thông tin đáng lo ngại về Manggot: họ có thể sử dụng 'Shadow Transfer' để di chuyển tức thời và có thể liên kết với những người khác thông qua bóng tối. Ông cũng cảnh báo rằng nếu chỉ một thành viên của Manggot vượt qua được rào cản của Đế quốc, chúng sẽ nhân lên hàng trăm. Cuối cùng, Frondier tiết lộ rằng Manggot sống bên ngoài bức tường bảo vệ và am hiểu về quái vật bên ngoài hơn bất kỳ ai khác, có khả năng điều chỉnh thời điểm tấn công vào Đế quốc.",
+ "boi_canh": "Trong một phòng họp của Đế quốc, tại một cuộc họp quan trọng.",
  "nhan_vat": [
   "Frondier",
-  "Philly",
-  "Renzo",
+  "Selena",
+  "Philly Terst",
   "Osprey",
   "Ludwig",
-  "Sanders"
+  "Bartello Tert",
+  "Sanders",
+  "Shadow"
  ],
  "su_kien": [
-  "Frondier trình bày bản đồ ba chiều về Đế quốc.",
-  "Osprey xác nhận đã nhìn thấy người Manggot từ bên ngoài thế giới.",
-  "Frondier tiết lộ vị trí của người Manggot.",
-  "Frondier chỉ ra rằng người Manggot yếu hơn Đế quốc.",
-  "Frondier giải thích lý do người Manggot vẫn quyết định tấn công."
+  "Frondier tiết lộ kỹ thuật 'Shadow Transfer' của Manggot.",
+  "Philly tái mặt khi Frondier nói chuyện, nhận ra ý nghĩa ẩn sau lời nói của ông.",
+  "Osprey nhắm mắt lại với vẻ mặt đau khổ.",
+  "Ludwig bày tỏ sự kinh hoàng khi hiểu ra điều Frondier đang ám chỉ.",
+  "Frondier hiển thị bản đồ cho thấy vị trí của Manggot bên ngoài rào cản của Đế quốc."
  ],
  "quan_he": [
   {
    "a": "Frondier",
-   "b": "Philly",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier trình bày thông tin cho Hoàng hậu, thể hiện sự tôn trọng.",
-   "cach_goi": "gọi tên Philly, lễ phép"
+   "b": "Selena",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Frondier nhận ra Selena đã cắt đứt bóng tối của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
   },
   {
-   "a": "Philly",
-   "b": "Frondier",
-   "loai": "cap_tren",
-   "mo_ta": "Hoàng hậu xác nhận thông tin của Frondier.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "a": "Frondier",
+   "b": "Philly Terst",
+   "loai": "dong_minh",
+   "mo_ta": "Philly hiểu ý nghĩa ẩn sau lời nói của Frondier và phản ứng mạnh mẽ.",
+   "cach_goi": "gọi tên Philly, không rõ tone"
   },
   {
    "a": "Frondier",
    "b": "Osprey",
    "loai": "dong_minh",
-   "mo_ta": "Frondier giới thiệu Osprey lên sân khấu.",
-   "cach_goi": "gọi tên Osprey, thân mật"
-  },
-  {
-   "a": "Osprey",
-   "b": "Frondier",
-   "loai": "dong_minh",
-   "mo_ta": "Osprey trêu chọc Frondier.",
+   "mo_ta": "Osprey hiểu ý nghĩa ẩn sau lời nói của Frondier và phản ứng đau khổ.",
    "cach_goi": "không nói chuyện trực tiếp"
   },
   {
    "a": "Frondier",
    "b": "Ludwig",
-   "loai": "khac",
-   "mo_ta": "Không có tương tác trực tiếp, Ludwig bày tỏ sự thất vọng.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "cap_tren",
+   "mo_ta": "Ludwig bày tỏ sự kinh hoàng khi hiểu ra điều Frondier đang ám chỉ.",
+   "cach_goi": "gọi tên Ludwig, không rõ tone"
+  },
+  {
+   "a": "Bartello Tert",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Yêu cầu Frondier nói lý do thứ hai.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
   },
   {
    "a": "Frondier",
    "b": "Sanders",
-   "loai": "cap_tren",
-   "mo_ta": "Không có tương tác trực tiếp, Sanders có vẻ lo lắng.",
-   "cach_goi": "không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Renzo",
-   "b": "Frondier",
-   "loai": "khac",
-   "mo_ta": "Không có tương tác trực tiếp, Renzo đang ở một địa điểm được đề cập.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "thay_tro",
+   "mo_ta": "Đề cập đến câu trả lời của Sanders là 'câu trả lời đúng đầu tiên'.",
+   "cach_goi": "gọi tên Sanders, không rõ tone"
   }
  ],
  "danh_tinh": [
-  "Hitchcock (công ty chế tạo ma thuật)"
+  "Philly Terst (hoàng hậu)",
+  "Bartello Tert (quốc vương)"
  ],
  "stats": {
-  "tokens": 852,
-  "seconds": 25.3
+  "tokens": 881,
+  "seconds": 26.4
  }
 }

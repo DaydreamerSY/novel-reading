@@ -2,55 +2,68 @@
  "number": 579,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, Amelie hồi hộp chờ đợi sự trở lại của Frondier và tưởng tượng ra những trận chiến anh hùng của anh ta. Trong khi đó, Hoàng hậu Philly lo ngại về việc Frondier liên quan đến Lily và yêu cầu báo cáo về anh ta được gửi trực tiếp cho bà. Cuối cùng, Frondier suy nghĩ về động cơ của kẻ tấn công, nhận ra rằng họ biết rõ danh tính của anh ta và Amelie.",
- "boi_canh": "Trong xe ngựa, buổi chiều.",
+ "tom_tat": "Trong chương này, Frondier chất vấn Amelie về lý do cô ấy tiếp cận anh trong một buổi tiệc hoàng gia. Cuộc trò chuyện dẫn đến việc Amelie tiết lộ rằng chú của cô, Joseph von Wexler, đã giới thiệu Frondier cho cô như một 'viên ngọc ẩn' và đề xuất một giải pháp thay đổi nền tảng nhân loại liên quan đến Mana. Frondier nhận ra mối nguy hiểm tiềm ẩn khi Amelie vô tình tiết lộ thông tin bí mật về Shadow Agency, khiến anh quyết định rút lui để bảo vệ cả Amelie và Đế quốc.",
+ "boi_canh": "Một buổi tiệc hoàng gia, thời điểm không rõ.",
  "nhan_vat": [
   "Frondier",
   "Amelie",
   "Philly",
   "Lily",
-  "Robert"
+  "Eden",
+  "Mei",
+  "Metamorph",
+  "Joseph von Wexler",
+  "Shadow"
  ],
  "su_kien": [
-  "Amelie hồi hộp chờ đợi sự trở lại của Frondier.",
-  "Frondier trở về và bước vào xe ngựa.",
-  "Hoàng hậu Philly yêu cầu báo cáo về Frondier được gửi trực tiếp cho bà.",
-  "Những tiếng động lạ và sạt lở đất xảy ra bên ngoài xe ngựa.",
-  "Frondier suy nghĩ về động cơ của kẻ tấn công."
+  "Frondier chất vấn Amelie về lý do cô ấy tiếp cận anh tại buổi tiệc hoàng gia.",
+  "Amelie tiết lộ rằng chú của cô, Joseph von Wexler, đã giới thiệu Frondier cho cô.",
+  "Amelie vô tình tiết lộ thông tin bí mật về Shadow Agency và 'Mana Injection' từ lời giới thiệu của chú mình.",
+  "Frondier nhận ra sự nguy hiểm tiềm ẩn khi Amelie tiết lộ thông tin này.",
+  "Frondier quyết định rút lui để bảo vệ Amelie và Đế quốc."
  ],
  "quan_he": [
-  {
-   "a": "Amelie",
-   "b": "Frondier",
-   "loai": "nguoi_la",
-   "mo_ta": "Amelie ngưỡng mộ và tò mò về Frondier.",
-   "cach_goi": "gọi tên Frondier, thân mật"
-  },
   {
    "a": "Frondier",
    "b": "Amelie",
    "loai": "nguoi_la",
-   "mo_ta": "Frondier duy trì một khoảng cách lịch sự với Amelie.",
-   "cach_goi": "gọi tên Amelie, lịch sự"
+   "mo_ta": "Frondier chất vấn Amelie về quá khứ; mối quan hệ ban đầu còn xa lạ.",
+   "cach_goi": "gọi tên Amelie, không rõ (có vẻ tôn trọng)"
   },
   {
-   "a": "Philly",
-   "b": "Robert",
-   "loai": "cap_tren",
-   "mo_ta": "Hoàng hậu Philly là cấp trên của Robert.",
-   "cach_goi": "gọi tên Robert, trang trọng"
+   "a": "Amelie",
+   "b": "Frondier",
+   "loai": "nguoi_la",
+   "mo_ta": "Amelie trả lời câu hỏi của Frondier; có vẻ bối rối và vui mừng.",
+   "cach_goi": "gọi tên Frondier, thân mật (có vẻ hơi ngượng ngùng)"
   },
   {
-   "a": "Robert",
+   "a": "Frondier",
    "b": "Philly",
    "loai": "cap_tren",
-   "mo_ta": "Robert là một cận vệ của Philly.",
-   "cach_goi": "gọi 'Your Majesty', lễ phép"
+   "mo_ta": "Mối quan hệ cấp trên - cấp dưới, Frondier đã làm việc cùng Philly về Shadow Agency.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Amelie",
+   "b": "Joseph von Wexler",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ chú - cháu, Amelie tin tưởng và kính trọng Joseph.",
+   "cach_goi": "gọi 'chú', thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Lily",
+   "loai": "thay_tro",
+   "mo_ta": "Lily giao nhiệm vụ cho Frondier, có vẻ như cô ấy đang thử nghiệm anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
- "danh_tinh": [],
+ "danh_tinh": [
+  "Joseph von Wexler: Chú của Amelie, liên quan đến Shadow Agency và 'Mana Injection'."
+ ],
  "stats": {
-  "tokens": 582,
-  "seconds": 18.3
+  "tokens": 824,
+  "seconds": 25.9
  }
 }

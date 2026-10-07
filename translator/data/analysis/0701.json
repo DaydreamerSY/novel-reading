@@ -1,0 +1,90 @@
+{
+ "number": 701,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Frondier tìm đến Binkis để học cách sử dụng vũ khí khác ngoài giáo, và phát hiện ra rằng golem của Binkis đã được huấn luyện với nhiều mẫu khác nhau. Thông qua cuộc trò chuyện với Binkis, Frondier hiểu thêm về quá khứ của Azier và những khó khăn anh trai từng gặp phải khi thử nghiệm nhiều loại vũ khí. Sau đó, Frondier tập luyện cùng nhiều người như Monty, Revet, Ellen,... và nhận ra một số điểm chung trong lời khuyên của họ. Cuối cùng, cuộc trò chuyện với Revet khiến Frondier suy nghĩ về kế hoạch tương lai của Azier.",
+ "boi_canh": "Trong phòng thí nghiệm nghiên cứu của Binkis.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Ellen",
+  "Eden",
+  "Monty",
+  "Binkis",
+  "Revet",
+  "Durga"
+ ],
+ "su_kien": [
+  "Frondier đến phòng thí nghiệm của Binkis để học cách sử dụng vũ khí.",
+  "Binkis tiết lộ golem của mình đã được huấn luyện với nhiều mẫu khác nhau, không chỉ Azier.",
+  "Frondier tập luyện với golem và những người khác như Monty, Revet,...",
+  "Revet đưa ra lời khuyên về việc Frondier nên tập trung vào một loại vũ khí.",
+  "Cuộc trò chuyện giữa Frondier và Revet xoay quanh kế hoạch tương lai của Azier."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Binkis",
+   "loai": "thay_tro",
+   "mo_ta": "học trò và giáo viên, Frondier tìm đến Binkis để học hỏi.",
+   "cach_goi": "gọi 'Teacher', lễ phép"
+  },
+  {
+   "a": "Binkis",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "giáo viên và học trò, Binkis hướng dẫn Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh em ruột thịt, Frondier và Azier có mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Azier, thân mật"
+  },
+  {
+   "a": "Azier",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh em ruột thịt, Azier và Frondier có mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Revet",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, Frondier và Revet tập luyện cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Revet",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, Frondier và Revet tập luyện cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, Frondier và Monty tập luyện cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "ban_be",
+   "mo_ta": "bạn bè, Frondier và Monty tập luyện cùng nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Binkis từng là giáo viên chủ nhiệm của Azier."
+ ],
+ "stats": {
+  "tokens": 1024,
+  "seconds": 30.7
+ }
+}

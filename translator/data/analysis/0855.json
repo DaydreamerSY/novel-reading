@@ -1,0 +1,86 @@
+{
+ "number": 855,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Hoàng hậu Philly trải qua một tiên tri đáng lo ngại về cái chết của ai đó, có thể là Frondier. Để giải quyết vấn đề này và giải quyết các mối quan hệ gia đình căng thẳng, bà triệu tập Aten và Elysia đến phòng. Trong khi đó, Sale tiết lộ thông tin quan trọng liên quan đến việc dự đoán thời tiết, cho thấy một manh mối tiềm năng để xác định thời điểm xảy ra sự kiện trong tiên tri.",
+ "boi_canh": "Phòng của Hoàng hậu Philly tại cung điện đế quốc.",
+ "nhan_vat": [
+  "Frondier",
+  "Philly Terst",
+  "Aten Terst",
+  "Azier",
+  "Renzo",
+  "Malia",
+  "Ludovic",
+  "Sale",
+  "Odin",
+  "Mother",
+  "Elysia",
+  "Ednet"
+ ],
+ "su_kien": [
+  "Hoàng hậu Philly trải qua một tiên tri đáng lo ngại.",
+  "Philly triệu tập Aten và Elysia đến phòng của bà.",
+  "Elysia đang chỉ huy Phân bộ Bóng tối.",
+  "Sale tiết lộ thông tin về dự đoán thời tiết.",
+  "Các chị em bắt đầu giải quyết tiên tri."
+ ],
+ "quan_he": [
+  {
+   "a": "Philly Terst",
+   "b": "Frondier",
+   "loai": "gia_dinh",
+   "mo_ta": "Lo lắng về sự an toàn của Frondier.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Aten Terst",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con gái, Philly muốn Aten giúp giải quyết tiên tri.",
+   "cach_goi": "gọi 'con gái', thân mật"
+  },
+  {
+   "a": "Philly Terst",
+   "b": "Elysia",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con gái, Philly muốn Elysia giúp giải quyết tiên tri.",
+   "cach_goi": "gọi 'con gái', thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Aten Terst",
+   "loai": "ban_be",
+   "mo_ta": "Hai chị em, đang cố gắng hòa giải mối quan hệ.",
+   "cach_goi": "gọi 'chị', thân mật"
+  },
+  {
+   "a": "Elysia",
+   "b": "Sale",
+   "loai": "dong_minh",
+   "mo_ta": "Lo lắng về Sale và tình trạng của cô.",
+   "cach_goi": "gọi tên, lễ phép"
+  },
+  {
+   "a": "Ednet",
+   "b": "Elysia",
+   "loai": "cap_tren",
+   "mo_ta": "Nhân viên dưới quyền Elysia, hoan nghênh sự lãnh đạo của cô.",
+   "cach_goi": "gọi tên, lễ phép"
+  },
+  {
+   "a": "Sale",
+   "b": "Philly Terst",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ, Sale đưa ra một thông tin quan trọng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Elysia: Đã từng là người dân thường, hiện tại là con gái của Philly và đang chỉ huy Phân bộ Bóng tối."
+ ],
+ "stats": {
+  "tokens": 896,
+  "seconds": 26.9
+ }
+}

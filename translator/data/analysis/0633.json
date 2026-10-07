@@ -1,0 +1,57 @@
+{
+ "number": 633,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Một quỷ dữ không thể tin Aten có khả năng Mana Care từ xa và phân biệt được quỷ với người. Sau khi bị cô ta đánh bại một cách bất ngờ, hắn nhận ra Aten đang cố gắng hút sức mạnh của mình để giúp đỡ ai đó khác. Cô ta giả vờ hợp tác để dụ hắn vào bẫy, đồng thời hạ thấp nhiệt độ trong lãnh địa của mình, khiến việc xâm nhập trở nên khó khăn hơn cho các quỷ dữ khác.",
+ "boi_canh": "Trong một trận chiến giữa Aten và một tên quỷ.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Aten",
+  "Devil"
+ ],
+ "su_kien": [
+  "Aten tuyên bố có thể thực hiện Mana Care từ xa.",
+  "Quỷ dữ nghi ngờ Aten có thể phân biệt quỷ và người.",
+  "Quỷ dữ tấn công Aten, nhưng bị đánh bại một cách bất ngờ.",
+  "Aten tiết lộ rằng cô đang cố gắng hút sức mạnh của quỷ dữ.",
+  "Aten hạ thấp nhiệt độ trong lãnh địa của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Devil",
+   "b": "Aten",
+   "loai": "doi_thu",
+   "mo_ta": "Quỷ dữ nghi ngờ và tấn công Aten.",
+   "cach_goi": "gọi 'Aten', lạnh lùng"
+  },
+  {
+   "a": "Aten",
+   "b": "Devil",
+   "loai": "doi_thu",
+   "mo_ta": "Aten đối đầu và đánh bại quỷ dữ.",
+   "cach_goi": "gọi 'quỷ', lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Aster",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè, không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aten",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Aten Terst: Tam công chúa"
+ ],
+ "stats": {
+  "tokens": 583,
+  "seconds": 17.6
+ }
+}

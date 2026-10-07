@@ -2,75 +2,64 @@
  "number": 581,
  "model": "gemma3:12b",
  "version": 3,
- "tom_tat": "Trong chương này, đoàn xe của Frondier buộc phải dừng lại cắm trại giữa đường núi do ngựa mệt mỏi. Frondier nghi ngờ có điều gì đó bất thường trong hành trình này và cảnh giác với người lái xe. Đồng thời, Laurie đang làm việc tại cung điện hoàng gia và nhận được thông điệp bí mật từ một con quạ liên quan đến Ameline von Ellis và Ria Lis.",
- "boi_canh": "Đoàn xe cắm trại giữa đường núi vào buổi tối.",
+ "tom_tat": "Sau khi rời khỏi nơi ẩn náu, Frondier và Ameline tiếp tục hành trình đến Cung điện Hoàng gia. Trong suốt đêm dài, Frondier phải đối phó với nhiều cuộc tấn công của quái vật và những kẻ tấn công bí ẩn để bảo vệ Ameline. Sau đó, Lily phát hiện ra báo cáo về nhiệm vụ của Frondier và nghi ngờ rằng Frondier đang cho các sát thủ một cơ hội để suy nghĩ lại. Cuối cùng, Frondier đối mặt với Lily, hé lộ sự phức tạp trong mối quan hệ giữa họ và những bí mật liên quan đến Shadow Unit và Ria Lis.",
+ "boi_canh": "Trong xe ngựa, vào buổi sáng sau khi rời khỏi nơi ẩn náu.",
  "nhan_vat": [
   "Frondier",
   "Lily",
-  "Laurie",
   "Ameline",
   "Ria Lis",
-  "Shadow",
-  "Ameline von Ellis",
-  "Lis",
-  "Coachman"
+  "Shadow"
  ],
  "su_kien": [
-  "Đoàn xe buộc phải cắm trại giữa đường núi.",
-  "Frondier nghi ngờ người lái xe và cảnh báo về việc bảo vệ Ameline.",
-  "Laurie nhận được thông điệp bí mật từ một con quạ liên quan đến Ameline và Ria Lis.",
-  "Laurie đang làm việc tại cung điện hoàng gia với vai trò thư ký.",
-  "Con quạ nói chuyện với Laurie, truyền đạt tin nhắn từ Frondier."
+  "Xe ngựa tiếp tục hành trình đến Cung điện Hoàng gia.",
+  "Frondier phải đối phó với nhiều cuộc tấn công của quái vật và những kẻ tấn công bí ẩn.",
+  "Ameline tỏ ra lo lắng về những âm thanh đáng ngại xung quanh xe ngựa.",
+  "Lily đọc báo cáo về nhiệm vụ của Frondier và nghi ngờ về hành động của anh.",
+  "Frondier đối mặt với Lily, hé lộ sự phức tạp trong mối quan hệ giữa họ."
  ],
  "quan_he": [
   {
    "a": "Frondier",
-   "b": "Coachman",
-   "loai": "nguoi_la",
-   "mo_ta": "Frondier nghi ngờ người lái xe và cảnh báo ông ta.",
-   "cach_goi": "gọi 'người lái xe', lạnh lùng"
-  },
-  {
-   "a": "Coachman",
-   "b": "Frondier",
-   "loai": "nguoi_la",
-   "mo_ta": "Người lái xe im lặng và tuân theo hướng dẫn của Frondier.",
-   "cach_goi": "gọi tên Frondier, không nói chuyện trực tiếp"
-  },
-  {
-   "a": "Frondier",
    "b": "Ameline",
-   "loai": "cap_tren",
-   "mo_ta": "Frondier bảo vệ và giám sát Ameline.",
-   "cach_goi": "gọi tên Ameline, không nói chuyện trực tiếp"
+   "loai": "gia_dinh",
+   "mo_ta": "Người bảo vệ và người được bảo vệ, Frondier cố gắng trấn an Ameline.",
+   "cach_goi": "gọi tên Ameline, thân mật"
   },
   {
-   "a": "Laurie",
+   "a": "Ameline",
    "b": "Frondier",
-   "loai": "thay_tro",
-   "mo_ta": "Laurie làm việc dưới sự chỉ đạo của Frondier, chuyển giao tài liệu.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "cap_tren",
+   "mo_ta": "Người được bảo vệ, Ameline lo lắng và cảm kích sự bảo vệ của Frondier.",
+   "cach_goi": "gọi tên Frondier, lễ phép"
   },
   {
    "a": "Frondier",
    "b": "Lily",
-   "loai": "nguoi_yeu",
-   "mo_ta": "Frondier suy nghĩ về mục đích của Lily khi giao nhiệm vụ bảo vệ Ameline.",
-   "cach_goi": "không nói chuyện trực tiếp"
+   "loai": "nguoi_la",
+   "mo_ta": "Đối đầu trực tiếp, Frondier nghi ngờ và thăm dò Lily.",
+   "cach_goi": "gọi tên Lily, lạnh lùng"
   },
   {
-   "a": "Con quạ",
-   "b": "Laurie",
+   "a": "Lily",
+   "b": "Frondier",
    "loai": "nguoi_la",
-   "mo_ta": "Con quạ truyền đạt thông điệp từ Frondier đến Laurie.",
+   "mo_ta": "Đối đầu trực tiếp, Lily nghi ngờ và đối chất với Frondier.",
+   "cach_goi": "gọi tên Frondier, lạnh lùng"
+  },
+  {
+   "a": "Frondier",
+   "b": "Ria Lis",
+   "loai": "ke_thu",
+   "mo_ta": "Nghi ngờ Ria Lis có liên quan đến Shadow Unit.",
    "cach_goi": "không nói chuyện trực tiếp"
   }
  ],
  "danh_tinh": [
-  "Laurie có một nhân cách thứ hai, đóng vai trò thư ký tại cung điện hoàng gia với vẻ ngoài trí thức hơn và không có nốt ruồi."
+  "Không có thông tin mới về danh tính của bất kỳ nhân vật nào."
  ],
  "stats": {
-  "tokens": 827,
-  "seconds": 26.0
+  "tokens": 767,
+  "seconds": 24.1
  }
 }

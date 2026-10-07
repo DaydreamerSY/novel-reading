@@ -1,0 +1,62 @@
+{
+ "number": 852,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Renzo tấn công Aster bằng nắm đấm trần, gây bất ngờ cho cả hai bên vì sức mạnh vượt trội của Renzo. Cuộc đối đầu giữa họ diễn ra căng thẳng với những đòn tấn công nhanh và mạnh mẽ. Sau khi tranh luận về cách tiếp cận chiến đấu và sự thiếu hứa hẹn của Frondier, Renzo sử dụng sức mạnh thần thánh từ Ares và cuối cùng đã dẫn Aster đến một hồ nước, nơi Aster triệu hồi một thanh kiếm huyền thoại.",
+ "boi_canh": "Một trận chiến đang diễn ra giữa Renzo và Aster gần một hồ nước.",
+ "nhan_vat": [
+  "Frondier",
+  "Aster",
+  "Renzo",
+  "Ares"
+ ],
+ "su_kien": [
+  "Renzo tấn công Aster bằng nắm đấm trần, gây bất ngờ cho cả hai.",
+  "Aster chặn đòn tấn công của Renzo bằng kiếm nhưng bị đẩy lùi mạnh mẽ.",
+  "Renzo và Aster tranh cãi về cách tiếp cận chiến đấu và sự thiếu hứa hẹn của Frondier.",
+  "Renzo sử dụng sức mạnh thần thánh từ Ares.",
+  "Aster triệu hồi một thanh kiếm huyền thoại từ hồ nước."
+ ],
+ "quan_he": [
+  {
+   "a": "Renzo",
+   "b": "Aster",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang tranh đấu, có sự ganh đua và bất đồng về cách tiếp cận chiến đấu.",
+   "cach_goi": "gọi tên Aster, không thân mật"
+  },
+  {
+   "a": "Aster",
+   "b": "Renzo",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ đang tranh đấu, có sự ganh đua và bất đồng về cách tiếp cận chiến đấu.",
+   "cach_goi": "gọi tên Renzo, không thân mật"
+  },
+  {
+   "a": "Renzo",
+   "b": "Frondier",
+   "loai": "ke_thu",
+   "mo_ta": "Cảm thấy tức giận và muốn trả thù Frondier vì sự lừa dối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Aster",
+   "b": "Frondier",
+   "loai": "cap_tren",
+   "mo_ta": "Aster có vẻ tôn trọng Frondier, nhưng cũng có sự thất vọng về hành động của anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Renzo",
+   "b": "Ares",
+   "loai": "khac",
+   "mo_ta": "Renzo đang sử dụng sức mạnh của Ares, nhưng không rõ mối quan hệ chính xác giữa họ là gì.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 714,
+  "seconds": 21.4
+ }
+}

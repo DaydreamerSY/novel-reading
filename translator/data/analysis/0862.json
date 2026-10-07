@@ -1,0 +1,121 @@
+{
+ "number": 862,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu bằng sự ngạc nhiên và hoang mang khi Carla được công nhận là người được chọn của Lady Athena, gây ra xáo trộn trong số các Paladin và dân chúng. Athena tự mình xuất hiện, tố cáo Hera và Aphrodite đã thúc đẩy quá trình này một cách vội vàng và khẳng định quyền tham gia của mình. Sau đó, cô ấy đề nghị Lupina và Bruna phải có tiếng nói trong vấn đề này. Trong khi đó, Baal triệu hồi Beelzebub để tìm hiểu về tình hình chiến tranh với các vị thần, nhưng lại phát hiện ra những sự thật đáng lo ngại: các vị thần đã đến cả Agoris lẫn Realm Quỷ, và Realm Quỷ đã quyết định bỏ rơi 72 Quỷ và những con quỷ ở Agoris. Cuối cùng, Satan tự xưng là Vua Quỷ trước mặt Zeus và các vị thần Olympus.",
+ "boi_canh": "Quảng trường công cộng, trong một sự kiện quan trọng liên quan đến việc chọn lựa.",
+ "nhan_vat": [
+  "Frondier",
+  "Sybil",
+  "Carla",
+  "Baal",
+  "Athena",
+  "Odin",
+  "Father",
+  "Hera",
+  "Beelzebub",
+  "Zeus",
+  "Charon",
+  "Lupina",
+  "Bruna",
+  "Hermes"
+ ],
+ "su_kien": [
+  "Carla được công nhận là người được chọn của Lady Athena, gây xáo trộn.",
+  "Athena tự mình xuất hiện và tố cáo Hera và Aphrodite.",
+  "Baal triệu hồi Beelzebub để tìm hiểu về tình hình chiến tranh với các vị thần.",
+  "Realm Quỷ quyết định bỏ rơi 72 Quỷ và những con quỷ ở Agoris.",
+  "Satan tự xưng là Vua Quỷ trước mặt Zeus và các vị thần Olympus."
+ ],
+ "quan_he": [
+  {
+   "a": "Athena",
+   "b": "Frondier",
+   "loai": "khac",
+   "mo_ta": "Athena đã xuất hiện trước mặt Frondier, chuẩn bị cho cái chết.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Athena",
+   "b": "Carla",
+   "loai": "ke_thu",
+   "mo_ta": "Cả hai cạnh tranh để chứng minh sự sai lầm của các vị thần.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Athena",
+   "b": "Sybil",
+   "loai": "doi_thu",
+   "mo_ta": "Athena và Sybil cạnh tranh về vẻ đẹp, một phần để chứng minh sự sai lầm của các vị thần.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Athena",
+   "b": "Hera",
+   "loai": "doi_thu",
+   "mo_ta": "Athena tố cáo Hera đã thúc đẩy quá trình chọn lựa một cách vội vàng.",
+   "cach_goi": "lạnh lùng"
+  },
+  {
+   "a": "Athena",
+   "b": "Aphrodite",
+   "loai": "doi_thu",
+   "mo_ta": "Athena tố cáo Aphrodite đã thúc đẩy quá trình chọn lựa một cách vội vàng.",
+   "cach_goi": "lạnh lùng"
+  },
+  {
+   "a": "Athena",
+   "b": "Lupina",
+   "loai": "dong_minh",
+   "mo_ta": "Athena yêu cầu Lupina phải có tiếng nói trong vấn đề này.",
+   "cach_goi": "trịch thượng"
+  },
+  {
+   "a": "Athena",
+   "b": "Bruna",
+   "loai": "dong_minh",
+   "mo_ta": "Athena yêu cầu Bruna phải có tiếng nói trong vấn đề này.",
+   "cach_goi": "trịch thượng"
+  },
+  {
+   "a": "Baal",
+   "b": "Beelzebub",
+   "loai": "nguoi_la",
+   "mo_ta": "Baal triệu hồi Beelzebub để tìm hiểu về tình hình chiến tranh với các vị thần.",
+   "cach_goi": "thân mật"
+  },
+  {
+   "a": "Baal",
+   "b": "Satan",
+   "loai": "cap_tren",
+   "mo_ta": "Baal phàn nàn với Satan về việc khởi động một cuộc chiến với các vị thần.",
+   "cach_goi": "thô lỗ"
+  },
+  {
+   "a": "Beelzebub",
+   "b": "Baal",
+   "loai": "cap_tren",
+   "mo_ta": "Beelzebub cảnh báo Baal về những hậu quả của hành động của mình.",
+   "cach_goi": "lạnh lùng"
+  },
+  {
+   "a": "Zeus",
+   "b": "Satan",
+   "loai": "doi_thu",
+   "mo_ta": "Zeus bày tỏ sự không hài lòng với việc Satan tự xưng là Vua Quỷ.",
+   "cach_goi": "trịch thượng"
+  },
+  {
+   "a": "Hermes",
+   "b": "Zeus",
+   "loai": "gia_dinh",
+   "mo_ta": "Hermes nhắc nhở Zeus về tầm quan trọng của Satan.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1184,
+  "seconds": 35.9
+ }
+}

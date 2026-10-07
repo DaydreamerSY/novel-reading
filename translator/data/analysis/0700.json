@@ -1,0 +1,81 @@
+{
+ "number": 700,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hoàn thành khóa huấn luyện với Revet, Frondier đến gặp Monty để tiếp tục luyện tập. Anh nhận được một hạt ngọc từ Monty, là một phần của giao kèo giữa Monty và nữ thần Durga, theo đó Monty sẽ hiến thân thể cho Durga để quan sát thế giới loài người. Sau đó, Monty bắt đầu một bài huấn luyện khắc nghiệt với các manơcan gỗ được điều khiển bởi sức mạnh của Durga, buộc Frondier phải đối mặt với nhiều loại vũ khí cùng lúc.",
+ "boi_canh": "Sân tập luyện tại chỗ làm việc của Monty, vào thời điểm hiện tại.",
+ "nhan_vat": [
+  "Frondier",
+  "Elodie",
+  "Azier",
+  "Edwin",
+  "Monty",
+  "Revet",
+  "Durga"
+ ],
+ "su_kien": [
+  "Frondier nhận một hạt ngọc từ Monty.",
+  "Monty giải thích về giao kèo với nữ thần Durga và việc anh sẽ hiến thân thể cho bà.",
+  "Các manơcan gỗ bắt đầu di chuyển và tấn công Frondier.",
+  "Durga điều khiển các manơcan gỗ, mỗi người cầm một loại vũ khí khác nhau.",
+  "Frondier nhận ra cách Monty đã trở thành Thợ Rèn Vũ Khí."
+ ],
+ "quan_he": [
+  {
+   "a": "Frondier",
+   "b": "Monty",
+   "loai": "thay_tro",
+   "mo_ta": "học trò và thầy, Frondier đang được huấn luyện bởi Monty.",
+   "cach_goi": "gọi tên Monty, thân mật"
+  },
+  {
+   "a": "Monty",
+   "b": "Frondier",
+   "loai": "thay_tro",
+   "mo_ta": "thầy và học trò, Monty đang huấn luyện Frondier.",
+   "cach_goi": "gọi tên Frondier, thân mật"
+  },
+  {
+   "a": "Frondier",
+   "b": "Revet",
+   "loai": "nguoi_la",
+   "mo_ta": "chưa từng tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Elodie",
+   "loai": "ban_be",
+   "mo_ta": "bạn thân, nhưng không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Azier",
+   "loai": "gia_dinh",
+   "mo_ta": "anh em, nhưng không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Frondier",
+   "b": "Edwin",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Monty",
+   "b": "Durga",
+   "loai": "ke_thu",
+   "mo_ta": "có giao kèo với Durga, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Durga: Nữ thần Hindu được Monty triệu hồi và có giao kèo để chiếm giữ cơ thể anh."
+ ],
+ "stats": {
+  "tokens": 865,
+  "seconds": 25.9
+ }
+}
