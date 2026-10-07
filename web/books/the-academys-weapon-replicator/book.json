@@ -3,7 +3,7 @@
  "title": "Thiên Tài Sao Chép Vũ Khí Học Viện",
  "author": "서쪽",
  "model": "gemma3:12b",
- "updated": "2026-10-07T14:01:46Z",
+ "updated": "2026-10-07T14:30:27Z",
  "bilingual": false,
  "chapters": [
   {
@@ -509,6 +509,30 @@
   {
    "n": 756,
    "title": "Chương 756: Khởi Hành (3)"
+  },
+  {
+   "n": 757,
+   "title": "Chương 757: Khởi Hành (4)"
+  },
+  {
+   "n": 758,
+   "title": "Chương 758: Hành hương"
+  },
+  {
+   "n": 759,
+   "title": "Chương 759: Lục địa Agoris"
+  },
+  {
+   "n": 760,
+   "title": "Chương 760: Lục địa Agoris (2)"
+  },
+  {
+   "n": 761,
+   "title": "Chương 761: Atlas (tổ chức)"
+  },
+  {
+   "n": 762,
+   "title": "Chương 762: Atlas (tổ chức) (2)"
   }
  ]
 }
