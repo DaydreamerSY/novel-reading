@@ -15,3 +15,6 @@ translator/glossary.yaml.bak*
 translator/data/en/
 translator/data/en_novelight/
 translator/data/novellunar/
+
+# translations embed the English source line by line: never publish
+translator/data/vi/
