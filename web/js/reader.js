@@ -285,7 +285,7 @@ export class Reader {
   }
 
   buildStrips(W) {
-    const n = W > 500 ? 24 : 16;
+    const n = W > 500 ? 28 : 20;
     this.stripsFor = W;
     this.stripW = W / n;
     this.bend.textContent = "";
