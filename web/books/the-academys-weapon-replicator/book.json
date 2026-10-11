@@ -3,7 +3,7 @@
  "title": "Thiên Tài Sao Chép Vũ Khí Học Viện",
  "author": "서쪽",
  "model": "gemma3:12b",
- "updated": "2026-10-07T14:30:27Z",
+ "updated": "2026-10-11T05:59:03Z",
  "bilingual": false,
  "chapters": [
   {
@@ -533,6 +533,502 @@
   {
    "n": 762,
    "title": "Chương 762: Atlas (tổ chức) (2)"
+  },
+  {
+   "n": 763,
+   "title": "Chương 763: Atlas (tổ chức) (3)"
+  },
+  {
+   "n": 764,
+   "title": "Chương 764: Atlas (tổ chức) (4)"
+  },
+  {
+   "n": 765,
+   "title": "Chương 765: Thiết kế Ma thuật"
+  },
+  {
+   "n": 766,
+   "title": "Chương 766: Thiết kế Ma thuật (2)"
+  },
+  {
+   "n": 767,
+   "title": "Chương 767: Thiết kế Ma thuật (3)"
+  },
+  {
+   "n": 768,
+   "title": "Chương 768: Thiết kế Ma thuật (4)"
+  },
+  {
+   "n": 769,
+   "title": "Chương 769: Thiết kế Ma thuật (5)"
+  },
+  {
+   "n": 770,
+   "title": "Chương 770: Chủ Nhân và Đệ Tử"
+  },
+  {
+   "n": 771,
+   "title": "Chương 771: Chủ Nhân và Đệ Tử (2)"
+  },
+  {
+   "n": 772,
+   "title": "Chương 772: Chủ Nhân và Đệ Tử (3)"
+  },
+  {
+   "n": 773,
+   "title": "Chương 773: Giăng Bẫy"
+  },
+  {
+   "n": 774,
+   "title": "Chương 774: Giăng Bẫy (2)"
+  },
+  {
+   "n": 775,
+   "title": "Chương 775: Giăng Bẫy (3)"
+  },
+  {
+   "n": 776,
+   "title": "Chương 776: Carla"
+  },
+  {
+   "n": 777,
+   "title": "Chương 777: Carla (2)"
+  },
+  {
+   "n": 778,
+   "title": "Chương 778: Carla (3)"
+  },
+  {
+   "n": 779,
+   "title": "Chương 779: Carla (4)"
+  },
+  {
+   "n": 780,
+   "title": "Chương 780: Carla (5)"
+  },
+  {
+   "n": 781,
+   "title": "Chương 781: Machia"
+  },
+  {
+   "n": 782,
+   "title": "Chương 782: Machia (2)"
+  },
+  {
+   "n": 783,
+   "title": "Chương 783: Machia (3)"
+  },
+  {
+   "n": 784,
+   "title": "Chương 784: Machia (4)"
+  },
+  {
+   "n": 785,
+   "title": "Chương 785: Machia (5)"
+  },
+  {
+   "n": 786,
+   "title": "Chương 786: Machia (6)"
+  },
+  {
+   "n": 787,
+   "title": "Chương 787: Machia (7)"
+  },
+  {
+   "n": 788,
+   "title": "Chương 788: Machia (8)"
+  },
+  {
+   "n": 789,
+   "title": "Chương 789: Machia (9)"
+  },
+  {
+   "n": 790,
+   "title": "Chương 790: Machia (10)"
+  },
+  {
+   "n": 791,
+   "title": "Chương 791: Machia (11)"
+  },
+  {
+   "n": 792,
+   "title": "Chương 792: Hợp Đồng"
+  },
+  {
+   "n": 793,
+   "title": "Chương 793: Hợp Đồng (2)"
+  },
+  {
+   "n": 794,
+   "title": "Chương 794: Hợp Đồng (3)"
+  },
+  {
+   "n": 795,
+   "title": "Chương 795: Hợp Đồng (4)"
+  },
+  {
+   "n": 796,
+   "title": "Chương 796: Hợp Đồng (5)"
+  },
+  {
+   "n": 797,
+   "title": "Chương 797: Hợp Đồng (6)"
+  },
+  {
+   "n": 798,
+   "title": "Chương 798: Vị Trí"
+  },
+  {
+   "n": 799,
+   "title": "Chương 799: Vị Trí (2)"
+  },
+  {
+   "n": 800,
+   "title": "Chương 800: Vị Trí (3)"
+  },
+  {
+   "n": 801,
+   "title": "Chương 801: Vị Trí (4)"
+  },
+  {
+   "n": 802,
+   "title": "Chương 802: Vị Trí (5)"
+  },
+  {
+   "n": 803,
+   "title": "Chương 803: Vị Trí (6)"
+  },
+  {
+   "n": 804,
+   "title": "Chương 804: Phố"
+  },
+  {
+   "n": 805,
+   "title": "Chương 805: Phố (2)"
+  },
+  {
+   "n": 806,
+   "title": "Chương 806: Phố (3)"
+  },
+  {
+   "n": 807,
+   "title": "Chương 807: Phố (4)"
+  },
+  {
+   "n": 808,
+   "title": "Chương 808: Phố (5)"
+  },
+  {
+   "n": 809,
+   "title": "Chương 809: Vận Mệnh"
+  },
+  {
+   "n": 810,
+   "title": "Chương 810: Vận Mệnh (2)"
+  },
+  {
+   "n": 811,
+   "title": "Chương 811: Xây Dựng"
+  },
+  {
+   "n": 812,
+   "title": "Chương 812: Xây Dựng (2)"
+  },
+  {
+   "n": 813,
+   "title": "Chương 813: Xây Dựng (3)"
+  },
+  {
+   "n": 814,
+   "title": "Chương 814: Kết hợp Ma thuật và Chiến đấu"
+  },
+  {
+   "n": 815,
+   "title": "Chương 815: Kết hợp Ma thuật và Chiến đấu (2)"
+  },
+  {
+   "n": 816,
+   "title": "Chương 816: Kết hợp Ma thuật và Chiến đấu (3)"
+  },
+  {
+   "n": 817,
+   "title": "Chương 817: Kết hợp Ma thuật và Chiến đấu (4)"
+  },
+  {
+   "n": 818,
+   "title": "Chương 818: Kết hợp Ma thuật và Chiến đấu (5)"
+  },
+  {
+   "n": 819,
+   "title": "Chương 819: Kết hợp Ma thuật và Chiến đấu (6)"
+  },
+  {
+   "n": 820,
+   "title": "Chương 820: Kết hợp Ma thuật và Chiến đấu (7)"
+  },
+  {
+   "n": 821,
+   "title": "Chương 821: Lựa Chọn Quyết Định"
+  },
+  {
+   "n": 822,
+   "title": "Chương 822: Lựa Chọn Quyết Định (2)"
+  },
+  {
+   "n": 823,
+   "title": "Chương 823: Lựa Chọn Quyết Định (3)"
+  },
+  {
+   "n": 824,
+   "title": "Chương 824: Lựa Chọn Quyết Định (4)"
+  },
+  {
+   "n": 825,
+   "title": "Chương 825: Lựa Chọn Quyết Định (5)"
+  },
+  {
+   "n": 826,
+   "title": "Chương 826: Lựa Chọn Quyết Định (6)"
+  },
+  {
+   "n": 827,
+   "title": "Chương 827: Lựa Chọn Quyết Định (7)"
+  },
+  {
+   "n": 828,
+   "title": "Chương 828: Săn Quỷ"
+  },
+  {
+   "n": 829,
+   "title": "Chương 829: Săn Quỷ (2)"
+  },
+  {
+   "n": 830,
+   "title": "Chương 830: Săn Quỷ (3)"
+  },
+  {
+   "n": 831,
+   "title": "Chương 831: Săn Quỷ (4)"
+  },
+  {
+   "n": 832,
+   "title": "Chương 832: Săn Quỷ (5)"
+  },
+  {
+   "n": 833,
+   "title": "Chương 833: Khai Phản"
+  },
+  {
+   "n": 834,
+   "title": "Chương 834: Khai Phản (2)"
+  },
+  {
+   "n": 835,
+   "title": "Chương 835: Khai Phản (3)"
+  },
+  {
+   "n": 836,
+   "title": "Chương 836: Khai Phản (4)"
+  },
+  {
+   "n": 837,
+   "title": "Chương 837: Kiêu Ngạo"
+  },
+  {
+   "n": 838,
+   "title": "Chương 838: Kiêu Ngạo (2)"
+  },
+  {
+   "n": 839,
+   "title": "Chương 839: Kiêu Ngạo (3)"
+  },
+  {
+   "n": 840,
+   "title": "Chương 840: Kiêu Ngạo (4)"
+  },
+  {
+   "n": 841,
+   "title": "Chương 841: Cá Voi và Tôm Thiệu"
+  },
+  {
+   "n": 842,
+   "title": "Chương 842: Cá Voi và Tôm Thiệu (2)"
+  },
+  {
+   "n": 843,
+   "title": "Chương 843: Cá Voi và Tôm Thiệu (3)"
+  },
+  {
+   "n": 844,
+   "title": "Chương 844: Cá Voi và Tôm Thiệu (4)"
+  },
+  {
+   "n": 845,
+   "title": "Chương 845: Cá Voi và Tôm Thiệu (5)"
+  },
+  {
+   "n": 846,
+   "title": "Chương 846: Cá Voi và Tôm Thiệu (6)"
+  },
+  {
+   "n": 847,
+   "title": "Chương 847: Cá Voi và Tôm Thiệu (7)"
+  },
+  {
+   "n": 848,
+   "title": "Chương 848: Táo Vàng"
+  },
+  {
+   "n": 849,
+   "title": "Chương 849: Táo Vàng (2)"
+  },
+  {
+   "n": 850,
+   "title": "Chương 850: Táo Vàng (3)"
+  },
+  {
+   "n": 851,
+   "title": "Chương 851: Táo Vàng (4)"
+  },
+  {
+   "n": 852,
+   "title": "Chương 852: Táo Vàng (5)"
+  },
+  {
+   "n": 853,
+   "title": "Chương 853: Táo Vàng (6)"
+  },
+  {
+   "n": 854,
+   "title": "Chương 854: Táo Vàng (7)"
+  },
+  {
+   "n": 855,
+   "title": "Chương 855: Táo Vàng (8)"
+  },
+  {
+   "n": 856,
+   "title": "Chương 856: Táo Vàng (9)"
+  },
+  {
+   "n": 857,
+   "title": "Chương 857: Táo Vàng (10)"
+  },
+  {
+   "n": 858,
+   "title": "Chương 858: Táo Vàng (11)"
+  },
+  {
+   "n": 859,
+   "title": "Chương 859: Đêm Tiền"
+  },
+  {
+   "n": 860,
+   "title": "Chương 860: Đêm Tiền (2)"
+  },
+  {
+   "n": 861,
+   "title": "Chương 861: Đêm Tiền (3)"
+  },
+  {
+   "n": 862,
+   "title": "Chương 862: Lời Ngọt"
+  },
+  {
+   "n": 863,
+   "title": "Chương 863: Một Lời Lỡ"
+  },
+  {
+   "n": 864,
+   "title": "Chương 864: Một Lời Lỡ (2)"
+  },
+  {
+   "n": 865,
+   "title": "Chương 865: Một Lời Lỡ (3)"
+  },
+  {
+   "n": 866,
+   "title": "Chương 866: Một Lời Lỡ (4)"
+  },
+  {
+   "n": 867,
+   "title": "Chương 867: Một Lời Lỡ (5)"
+  },
+  {
+   "n": 868,
+   "title": "Chương 868: Một Lời Lỡ (6)"
+  },
+  {
+   "n": 869,
+   "title": "Chương 869: Ecleksis"
+  },
+  {
+   "n": 870,
+   "title": "Chương 870: Ecleksis (2)"
+  },
+  {
+   "n": 871,
+   "title": "Chương 871: Ecleksis (3)"
+  },
+  {
+   "n": 872,
+   "title": "Chương 872: Ecleksis (4)"
+  },
+  {
+   "n": 873,
+   "title": "Chương 873: Ecleksis (5)"
+  },
+  {
+   "n": 874,
+   "title": "Chương 874: Ecleksis (6)"
+  },
+  {
+   "n": 875,
+   "title": "Chương 875: An Lành"
+  },
+  {
+   "n": 876,
+   "title": "Chương 876: An Lành (2)"
+  },
+  {
+   "n": 877,
+   "title": "Chương 877: Xác Nhận Tử Thần"
+  },
+  {
+   "n": 878,
+   "title": "Chương 878: Xác Nhận Tử Thần (2)"
+  },
+  {
+   "n": 879,
+   "title": "Chương 879: Xác Nhận Tử Thần (3)"
+  },
+  {
+   "n": 880,
+   "title": "Chương 880: Hợp Lưu Thần Thức"
+  },
+  {
+   "n": 881,
+   "title": "Chương 881: Hợp Lưu Thần Thức (2)"
+  },
+  {
+   "n": 882,
+   "title": "Chương 882: Trao Tay"
+  },
+  {
+   "n": 883,
+   "title": "Chương 883: Trao Tay (2)"
+  },
+  {
+   "n": 884,
+   "title": "Chương 884: Tàn dư"
+  },
+  {
+   "n": 885,
+   "title": "Chương 885: Tàn dư (2)"
+  },
+  {
+   "n": 886,
+   "title": "Chương 886: Tàn dư (3)"
   }
  ]
 }

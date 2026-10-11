@@ -16,13 +16,18 @@ WEB = ROOT.parent / "web"
 # Chapters translated from an older scrape have the closing quote/bracket of a line as a
 # paragraph of its own ('"Hello.' then '"'); glue it back so the reader shows no lone quotes.
 STRAY = re.compile(r"""^["'\])”’」』]+$""")
+# Watermarks the source site plants mid-sentence, often with Cyrillic look-alike letters, that
+# survived into some translations: "◆ Nоvеlіgһt ◆ (Only on Nоvеlіgһt)", "[# Nоvеlight #]", ...
+# Any symbol pair around the name, then the short "(Read the full story)"-style note that follows it.
+NOVELIGHT = r"N[oоο][vѵν][eеε][lӏ][iіıι][gɡ][hһ][tт]"
+STAMP = re.compile(rf"\s*\[?\s*[^\w\s\[\]()]{{1,2}}\s*{NOVELIGHT}\s*[^\w\s\[\]()]{{1,2}}(?:\s*\])?(?:\s*\([^()]{{0,40}}\))?", re.I)
 
 
 def _paragraphs(ch):
     out = []
     for p in ch["paragraphs"]:
         en = p["en"].strip()
-        vi = p["vi"].strip() or en
+        vi = STAMP.sub("", p["vi"]).strip() or en
         if out and STRAY.match(vi) and (not en or STRAY.match(en)):
             prev = out[-1]
             if not prev[0].endswith(vi):
