@@ -10,7 +10,7 @@
    titles from the built-in lists skip the model and get a default rendering.
 3. Character pairs that share dialogue scenes, as suggestions for xưng hô rules.
 
-Outputs glossary_draft.yaml (readable) and data/terms.json (for the editor).
+Outputs books/<book>/glossary_draft.yaml (readable) and data/books/<book>/terms.json (for the editor).
 """
 import json
 import re
@@ -18,10 +18,10 @@ import time
 from collections import Counter, defaultdict
 from itertools import combinations
 
-from common import chapter_path, fmt_duration, read_json, safe_name, write_json
-from glossary import LABELS, Glossary, term_pattern
-from llm import Ollama
-from translator import make_chunks
+from core.common import chapter_path, fmt_duration, read_json, safe_name, write_json
+from pipeline.glossary import LABELS, Glossary, term_pattern
+from core.llm import Ollama
+from pipeline.translator import make_chunks
 
 PROMPT_VERSION = 1
 BATCH = 12

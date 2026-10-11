@@ -7,18 +7,18 @@ pairs and the speaker of each line (the translator's cached speaker pass). It an
 (punctuation, quotes, meaning) cannot be touched. A replacement is applied only when both sides consist of
 pronoun / address words and the old words really occur in that paragraph.
 
-Output: data/vi/<name>/NNNN.json + output/md/<name>/NNNN.md, and output/xung-ho/NNNN.md listing every
+Output: data/books/<book>/vi/<name>/NNNN.json + output/<book>/md/<name>/NNNN.md, and output/<book>/xung-ho/NNNN.md listing every
 replacement (before / after) for review.
 """
 import json
 import re
 import time
 
-from common import chapter_path, fmt_duration, read_json, write_json
-from exporter import write_md
-from llm import Ollama
-from selector import read_style
-from translator import Stats, Translator, make_chunks
+from core.common import chapter_path, fmt_duration, read_json, write_json
+from export.exporter import write_md
+from core.llm import Ollama
+from pipeline.selector import read_style
+from pipeline.translator import Stats, Translator, make_chunks
 
 RULES = """\
 Bạn là biên tập viên tiếng Việt của bản dịch một web novel giả tưởng (dịch từ tiếng Anh).

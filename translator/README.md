@@ -9,18 +9,21 @@ Ngoài việc tải trang truyện, không có gì được gửi ra ngoài.
 
 ## Quy trình
 
-1. **Tải truyện**: `python novel.py scrape`
-   Tải tiếp các chương còn thiếu đến hết truyện. Chạy lại khi truyện ra chương mới.
-   Nguồn thứ hai: `python novel.py scrape --source novelight` (4 luồng, cấu hình ở mục `novelight` trong `config.yaml`).
-   Chỉ tải chương miễn phí, lưu vào `data/en_novelight/`, đánh số theo thứ tự đọc (0001 = Prologue), giữ nhãn gốc của trang
-   (`1.1`, `1.2`... ứng với chương gốc tiếng Hàn). Chữ đóng dấu của trang bị xoá, ghi chú `[T/N: ...]` của nhóm dịch được
-   chuyển sang trường `tl_notes` (không đem dịch). Bản gốc trang trả về được giữ ở `data/cache/novelight/`, nên `--force`
-   dựng lại toàn bộ mà không tải lại.
-   **Nguồn chính hiện là novelight**: `python novel.py source` dựng `data/en` từ `data/en_novelight`, đổi các tên viết khác
-   theo `aliases.yaml` (từ chương 754 là người dịch khác: Atjie → Azier, Cybel → Sybil...). Chạy lại lệnh này sau mỗi lần
-   tải thêm chương hoặc sửa `aliases.yaml`. Bản novellunar cũ nằm ở `data/novellunar/` (kèm `map.json`: số chương cũ → mới).
+1. **Tải truyện**: `python novel.py scrape`, rồi `python novel.py source`
+   `scrape` tải các chương còn thiếu từ web nguồn của truyện (`site` trong `books/<truyện>/config.yaml`; đổi tạm bằng
+   `--source novelight|novellunar`) vào `data/sources/<web>/<truyện>/`. Chạy lại khi truyện ra chương mới.
+   - novelight: chỉ tải chương miễn phí (4 luồng), đánh số theo thứ tự đọc (0001 = Prologue), giữ nhãn gốc của trang
+     (`1.1`, `1.2`... ứng với chương gốc tiếng Hàn). Chữ đóng dấu của trang bị xoá, ghi chú `[T/N: ...]` của nhóm dịch được
+     chuyển sang trường `tl_notes` (không đem dịch). Bản gốc trang trả về được giữ ở `data/cache/novelight/`, nên `--force`
+     dựng lại toàn bộ mà không tải lại.
+   - novellunar: nguồn cũ của truyện chính (1–828), lần lượt từng chương.
+
+   `source` dựng `data/books/<truyện>/en/` (bản đem dịch) từ bản tải về, đổi các tên viết khác theo
+   `books/<truyện>/aliases.yaml` (truyện chính từ chương 754 là người dịch khác: Atjie → Azier, Cybel → Sybil...).
+   Chạy lại sau mỗi lần tải thêm chương hoặc sửa `aliases.yaml`. Bản novellunar cũ của truyện chính nằm ở
+   `data/sources/novellunar/the-academys-weapon-replicator/` (kèm `_archive/map.json`: số chương cũ → mới).
 2. **Làm glossary**
-   - `python novel.py terms` tạo `glossary_draft.yaml`. Script tìm mọi tên riêng (cụm viết hoa giữa câu, cụm trong `[ ]`),
+   - `python novel.py terms` tạo `books/<truyện>/glossary_draft.yaml`. Script tìm mọi tên riêng (cụm viết hoa giữa câu, cụm trong `[ ]`),
      rồi model phân loại thành nhân vật / địa danh / tổ chức / vũ khí / kỹ năng / vật phẩm / chủng tộc / danh hiệu / thuật ngữ.
      Với nhân vật, model đoán thêm giới tính dựa vào đại từ he/she đứng sau tên. Mỗi mục có gợi ý bản dịch và mô tả ngắn.
    - Cuối file nháp là danh sách các cặp nhân vật hay đối thoại với nhau, để bạn điền xưng hô.
@@ -28,40 +31,48 @@ Ngoài việc tải trang truyện, không có gì được gửi ra ngoài.
      Thêm `--no-llm` nếu chỉ cần danh sách thô, `--min 5` để bỏ các tên hiếm.
    - **Duyệt bằng công cụ**: `python novel.py edit` mở trang chỉnh sửa trên trình duyệt (Ctrl+C trong terminal để tắt).
      Các cách viết khác nhau của cùng một thứ được gom vào một nhóm (Empire / Terst Empire, Shadow Transfer / Shadow Transference,
-     Ameline / Amelie...). Tab "Xưng hô" có danh sách cặp nhân vật để bấm thêm quy tắc. Lưu (Ctrl+S) sẽ ghi đè `glossary.yaml`,
+     Ameline / Amelie...). Tab "Xưng hô" có danh sách cặp nhân vật để bấm thêm quy tắc. Lưu (Ctrl+S) sẽ ghi đè `books/<truyện>/glossary.yaml`,
      bản trước được giữ ở `glossary.yaml.bak`. Cũng có thể sửa tay `glossary.yaml`, hướng dẫn nằm ở đầu file.
-   - Sửa `style.md` để chỉnh văn phong và ngôi kể.
+   - Sửa `books/<truyện>/style.md` để chỉnh văn phong và ngôi kể.
 3. **Dịch thử** vài chương để kiểm tra glossary đã có tác dụng chưa: `python novel.py translate 1-10 --force`.
    Muốn so sánh với model khác thì dịch cùng chương bằng `--model <tên>`, rồi chạy
-   `python novel.py compare 1 --models gemma3:12b,<tên>` và mở `output/so-sanh_chuong-0001.html` để đọc song song.
+   `python novel.py compare 1 --models gemma3:12b,<tên>` và mở `output/<truyện>/so-sanh_chuong-0001.html` để đọc song song.
 4. **Dịch toàn bộ**: `python novel.py translate`
    Có thể dừng bất cứ lúc nào bằng Ctrl+C. Chạy lại lệnh thì chương nào xong rồi sẽ được bỏ qua.
 5. **Kiểm tra**: `python novel.py status`
    Lệnh này liệt kê các chương có đoạn cần xem lại, tức đoạn chưa dịch hoặc thiếu thuật ngữ.
-   Lý do model phải thử lại được ghi ở `data/vi/<model>/_log.txt`.
+   Lý do model phải thử lại được ghi ở `data/books/<truyện>/vi/<model>/_log.txt`.
 6. **Xuất sách**: `python novel.py export --format epub`
    Thêm `--bilingual` để kèm câu gốc tiếng Anh dưới mỗi đoạn. Có thể giới hạn chương, ví dụ `export 1-100`.
 
-## Truyện khác (`--book`)
-Mọi lệnh nhận thêm `--book <slug>` (hoặc link novelight, hoặc phần đầu slug: `--book death`). Không có `--book` là truyện chính.
-- `books/<slug>/`: phần sửa tay, được commit: `config.yaml` (chỉ ghi các mục khác với `config.yaml` chung: tên truyện,
-  nhân vật kể chuyện, `novelight.book`...), `glossary.yaml`, `aliases.yaml`, `style.md`, `story/` (tóm tắt, sổ tay).
-- `data/books/<slug>/`: phần sinh ra: `en/` và `vi/` (không commit vì chứa tiếng Anh), `analysis/`, `terms.json`.
-- `data/novelight/<slug>/`: bản tải thô từ novelight.
+## Nhiều truyện, nhiều web nguồn
+Mọi lệnh làm việc với truyện `default_book` trong `config.yaml`; truyện khác thì thêm `--book <tên thư mục>` (hoặc phần đầu
+của nó: `--book death`, hoặc link/slug của truyện trên web nguồn). Truyện nào cũng có cùng một bố cục:
+- `books/<truyện>/`: phần sửa tay, được commit: `config.yaml` (chỉ ghi các mục khác với `config.yaml` chung: tên truyện,
+  nhân vật kể chuyện, `site`, tên truyện trên web nguồn, quy tắc lọc rác riêng...), `glossary.yaml`, `aliases.yaml`,
+  `style.md`, `story/` (tóm tắt, sổ tay cốt truyện, `ngu_canh.yaml`).
+- `data/books/<truyện>/`: phần sinh ra: `en/` và `vi/` (không commit vì chứa tiếng Anh), `analysis/`, `terms.json`.
+- `data/sources/<web>/<truyện>/`: bản tải thô từ từng web (không commit).
+- `output/<truyện>/`: EPUB, TXT, MD, HTML so sánh và các báo cáo.
 
 Bắt đầu một truyện mới:
-1. Tạo `books/<slug>/config.yaml` (xem `books/death-is-the-only-ending-for-the-villain/config.yaml`).
-2. `python novel.py scrape --source novelight --book <slug>` rồi `python novel.py source --book <slug>`.
-3. Soát tên viết khác (`terms --book <slug> --no-llm`), ghi vào `books/<slug>/aliases.yaml`, chạy lại `source`.
-4. `python novel.py analyze --book <slug>` → `books/<slug>/story/tom_tat/`, rồi làm sổ tay cốt truyện.
+1. Tạo `books/<truyện>/config.yaml` (xem `books/death-is-the-only-ending-for-the-villain/config.yaml`).
+2. `python novel.py scrape --book <truyện>` rồi `python novel.py source --book <truyện>`.
+3. Soát tên viết khác (`terms --book <truyện> --no-llm`), ghi vào `books/<truyện>/aliases.yaml`, chạy lại `source`.
+4. `python novel.py analyze --book <truyện>` → `books/<truyện>/story/tom_tat/`, rồi làm sổ tay cốt truyện.
 
 Lọc rác của nhóm dịch tiếng Anh (chạy lại `scrape ... --force` là dựng lại từ cache, không tải lại):
-- Quy tắc chung trong `novelight.py`: dấu chèn tên trang (cả kiểu chữ Cyrillic "Nоvеlіgһt"), dòng chỉ có tiêu đề
-  ("Chapter 8", "Episode 84."), dòng `_____` cuối chương (mọi thứ sau nó là lời nhóm dịch), `(Note: …)`, `[T/N: …]`, `Tl:`,
-  `p/s:`, Q&A, "Translator: …". Phần bị tách được giữ trong trường `tl_notes`.
+- Quy tắc chung của web nằm trong `sources/<web>.py`. Với novelight: dấu chèn tên trang (cả kiểu chữ Cyrillic
+  "Nоvеlіgһt"), dòng chỉ có tiêu đề ("Chapter 8", "Episode 84."), dòng `_____` cuối chương (mọi thứ sau nó là lời nhóm
+  dịch), `(Note: …)`, `[T/N: …]`, `Tl:`, `p/s:`, Q&A, "Translator: …". Phần bị tách được giữ trong trường `tl_notes`.
 - Phần riêng từng truyện: `novelight.tl_lines` (bỏ cả dòng) và `novelight.tl_inline` (cắt một phần dòng) trong
-  `books/<slug>/config.yaml`.
+  `books/<truyện>/config.yaml`.
 - `novelight.first_line_names: true` khi trang đặt tên chương bằng câu mở đầu: giữ câu đó, tiêu đề là "Chapter N".
+- Dấu đóng dấu lọt vào bản tiếng Việt được lọc khi xuất web (`modifiers/watermarks.py`).
+
+Thêm một web nguồn: viết `sources/<web>.py` có hai hàm `scrape(cfg, paths, chapters, workers, force)` (lưu vào
+`paths.raw("<web>")`) và `title(ch, cfg)`, thêm tên web vào `SITES` trong `sources/__init__.py`, và thông số chung của web
+(base_url...) vào `config.yaml`.
 
 ## Đọc trên web (`../web`)
 App đọc truyện dạng trang tĩnh, lật trang kiểu Google Play Books, không cần build.
@@ -81,7 +92,7 @@ Vị trí đọc và tuỳ chỉnh được lưu trong trình duyệt của từ
   cho "Senior" và "Ellen", "Frondier-nim" cho "-nim" và "Frondier". Khi dịch, chúng được gửi kèm như *hướng dẫn cách gọi*,
   nên có thể ghi nhiều lựa chọn, ví dụ `ngài / anh / chị (tùy quan hệ)`; model chọn theo quan hệ hoặc lược bỏ.
 - **Chức danh** (Professor, Teacher, Librarian, Zodiac...) nằm ở `danh_hieu` với một bản dịch cố định để thống nhất cả bộ.
-  Chức danh riêng của truyện khai báo trong `config.yaml` → `terms.extra_titles`, để "Zodiac Monty" được tách thành "Zodiac" + "Monty".
+  Chức danh riêng của truyện khai báo trong `books/<truyện>/config.yaml` → `terms.extra_titles`, để "Zodiac Monty" được tách thành "Zodiac" + "Monty".
 - **Mục trùng** (Empire / Terst Empire, Shadow Unit / Empire Shadow Unit): giữ cả hai nếu cả hai thật sự xuất hiện,
   nhưng dịch thống nhất (Đế quốc / Đế quốc Terst). Bản viết sai chính tả của bản dịch Anh (Amelie, Mizonus...) thì cho cùng
   bản dịch với tên đúng hoặc bỏ tick.
@@ -114,14 +125,26 @@ Vì vậy nên chốt hai phần này trước khi dịch toàn bộ.
 ## Thư mục
 | Đường dẫn | Nội dung |
 |---|---|
-| `data/en/0001.json` | bản tiếng Anh, mỗi chương một file |
-| `data/vi/<model>/0001.json` | bản dịch; mỗi đoạn có cả `en` và `vi`, nên app Godot đọc thẳng được |
-| `data/cache/` | cache từng khối; giữ lại để dịch lại cho nhanh |
-| `output/` | EPUB, TXT, HTML so sánh |
+| `novel.py` | dòng lệnh |
+| `config.yaml` | cấu hình chung: truyện mặc định, thông số từng web nguồn, model, tham số dịch |
+| `core/` | đường dẫn, đọc cấu hình, gọi Ollama |
+| `sources/` | mỗi web nguồn một file: tải chương và lọc rác riêng của web đó |
+| `modifiers/` | biến đổi văn bản giữa các bước: đổi tên theo aliases, lọc dấu đóng dấu |
+| `pipeline/` | các bước dịch: thuật ngữ, glossary, phân tích, ngữ cảnh, dịch, ghép, chỉnh xưng hô, soát |
+| `export/` | xuất EPUB/TXT/MD, HTML so sánh, xuất cho web |
+| `editor/` | công cụ chỉnh glossary trên trình duyệt |
+| `books/<truyện>/` | phần sửa tay của từng truyện (xem trên) |
+| `data/books/<truyện>/en/0001.json` | bản tiếng Anh đem dịch, mỗi chương một file |
+| `data/books/<truyện>/vi/<model>/0001.json` | bản dịch; mỗi đoạn có cả `en` và `vi`, nên app Godot đọc thẳng được |
+| `data/sources/<web>/<truyện>/` | bản tải thô từ từng web |
+| `data/cache/` | cache từng khối gửi model và bản gốc trang tải về; giữ lại để dịch lại cho nhanh |
+| `data/logs/` | log các lần chạy dài |
+| `output/<truyện>/` | EPUB, TXT, MD, HTML so sánh, báo cáo |
 | `../web/` | app đọc truyện trên web; `books/` do lệnh `web` tạo ra |
 
 Thư mục này có file `.gdignore` để Godot không import hàng nghìn file JSON.
-App Godot muốn đọc bản dịch thì dùng `FileAccess` với đường dẫn tuyệt đối, hoặc copy `data/vi/<model>/` vào project.
+App Godot muốn đọc bản dịch thì dùng `FileAccess` với đường dẫn tuyệt đối, hoặc copy `data/books/<truyện>/vi/<model>/`
+vào project.
 
 ## Tham số đáng chỉnh (`config.yaml`)
 - `translate.chunk_chars` / `chunk_paragraphs`: khối to thì ít lượt gọi, ngữ cảnh rộng hơn, nhưng model nhỏ dễ gộp hoặc bỏ đoạn hơn.

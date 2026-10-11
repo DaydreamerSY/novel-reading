@@ -2,7 +2,7 @@
 translator needs later: summary, setting, characters present, key events, and relationship signals
 between the characters who interact (type, attitude, how one addresses the other).
 
-Output: data/analysis/NNNN.json per chapter, and readable digests story/tom_tat/XXXX-YYYY.md
+Output: data/books/<book>/analysis/NNNN.json per chapter, and readable digests books/<book>/story/tom_tat/XXXX-YYYY.md
 (100 chapters per file) for review and for building the story bible.
 """
 import json
@@ -10,9 +10,9 @@ import os
 import re
 import time
 
-from common import chapter_path, fmt_duration, read_json, write_json
-from glossary import Glossary
-from llm import Ollama
+from core.common import chapter_path, fmt_duration, read_json, write_json
+from pipeline.glossary import Glossary
+from core.llm import Ollama
 
 PROMPT_VERSION = 3
 LOAI = {

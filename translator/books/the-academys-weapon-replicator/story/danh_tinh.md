@@ -890,7 +890,7 @@ Model ghi lại khi một chương có chi tiết về danh tính. Có thể sai
 - ch806: Quạ: Có thể là người đưa tin cho Frondier, có khả năng giao tiếp bằng tiếng người.
 - ch808: Gregory: Có lẽ đang hoạt động bí mật và hỗ trợ Frondier mà không ai biết.
 - ch808: Con quạ: Được Gregory điều khiển để gửi thông tin đến Frondier, nhưng Malia đã nhận ra sự thật.
-- ch809: Nakjang: Kỹ thuật của Azier mà Frondier có thể sử dụng.
+- ch809: Fallen Spear: Kỹ thuật của Azier mà Frondier có thể sử dụng.
 - ch810: Sybil Forte là tên đầy đủ của Sybil.
 - ch811: Hector Von Urfa (tên thật của Hector)
 - ch813: Magic–Combat Combined: Lớp học kết hợp phép thuật và chiến đấu.
@@ -1032,9 +1032,9 @@ Model ghi lại khi một chương có chi tiết về danh tính. Có thể sai
 - ch942: Philly Terst (hoàng hậu)
 - ch942: Aten Terst (tam công chúa)
 - ch943: Fron (biệt danh của Frondier)
-- ch944: Aetius (Falind): Một lục địa cổ đại, có lẽ là tiền thân của Agoris.
+- ch944: Etius (Falind): Một lục địa cổ đại, có lẽ là tiền thân của Agoris.
 - ch944: Agoris: Lục địa hiện tại, nơi Frondier đang ở.
-- ch945: Aetius đổi thành Falind
+- ch945: Etius đổi thành Falind
 - ch945: Agoris vẫn là Agoris
 - ch945: Moirai được thay thế bằng Norn (Urd, Verdandi, Skuld)
 - ch946: Tyburn: Địa điểm nơi các vị thần sẽ xuất hiện.

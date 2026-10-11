@@ -4,7 +4,7 @@ import uuid
 import zipfile
 from datetime import datetime, timezone
 
-from common import available, chapter_path, read_json, safe_name
+from core.common import available, chapter_path, read_json, safe_name
 
 CSS = """body { font-family: serif; line-height: 1.6; margin: 0 4%; }
 h2 { text-align: center; margin: 1.5em 0 1em; }

@@ -1,29 +1,16 @@
-"""Download English chapters from novellunar.com into data/en/NNNN.json."""
+"""novellunar.com (the main book's first source, until 2026-10-06): chapters into
+data/sources/novellunar/<book>/NNNN.json."""
+import itertools
 import re
 import time
 
 import requests
 from bs4 import BeautifulSoup
 
-from common import chapter_path, write_json
+from core.common import chapter_path, write_json
+from sources.base import JUNK, USER_AGENT, Blocked
 
-USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-              "(KHTML, like Gecko) Chrome/130.0 Safari/537.36")
-
-# Watermark lines injected by aggregators, and the fan translator's end-of-chapter notes.
-JUNK = re.compile(
-    r"n[o0]v[e3]l\W{0,2}b[i1]n|novellunar|freewebnovel|lightnovelpub|lightnovelworld"
-    r"|\bwww\.|\.(com|net|org|me)\b"
-    r"|review this novel|bonus chapters? on reaching|^happy reading\W*$"
-    r"|ko-?fi|patreon|bonus chapters? thanks to|advanced? (chapters|tiers)"
-    r"|thank you (very much )?for visiting our website",
-    re.I,
-)
 TITLE = re.compile(r"chapter\s*\d+", re.I)
-
-
-class Blocked(Exception):
-    pass
 
 
 def _join(pieces):
@@ -86,10 +73,20 @@ def fetch(session, url):
     raise RuntimeError(f"Không tải được {url}: {err}")
 
 
-def scrape(cfg, paths, chapters, open_ended, force):
-    """Download chapters; when open_ended, keep going until the site has no more chapters."""
-    sc = cfg["source"]
+def title(ch, cfg):
+    return ch["title"]
+
+
+def scrape(cfg, paths, chapters=None, workers=None, force=False):
+    """Download the given chapters, or with none given, keep going until the site has no more.
+    One request at a time (`workers` is ignored), `delay_seconds` apart."""
+    sc = cfg["novellunar"]
+    if not sc.get("slug"):
+        raise SystemExit(f"books/{paths.book}/config.yaml chưa có novellunar.slug (tên truyện trên novellunar.com)")
     base, slug, delay = sc["base_url"].rstrip("/"), sc["slug"], float(sc["delay_seconds"])
+    folder = paths.raw("novellunar")
+    open_ended = chapters is None
+    chapters = itertools.count(1) if open_ended else chapters
     session = requests.Session()
     session.headers["User-Agent"] = USER_AGENT
 
@@ -99,7 +96,7 @@ def scrape(cfg, paths, chapters, open_ended, force):
         n = next(n_iter, None)
         if n is None:
             break
-        out = chapter_path(paths.en, n)
+        out = chapter_path(folder, n)
         if out.exists() and not force:
             continue
         url = f"{base}/novel/{slug}/chapter/{n}"
@@ -118,9 +115,10 @@ def scrape(cfg, paths, chapters, open_ended, force):
         else:
             empty_streak = 0
             ch["url"] = url
+            ch["source"] = "novellunar"
             write_json(out, ch)
             saved += 1
             note = f", bỏ {ch['dropped_lines']} dòng rác" if ch["dropped_lines"] else ""
             print(f"Chương {n}: {len(ch['paragraphs'])} đoạn, {sum(map(len, ch['paragraphs']))} ký tự{note}")
         time.sleep(delay)
-    print(f"Đã lưu {saved} chương vào {paths.en}")
+    print(f"Đã lưu {saved} chương vào {folder}")

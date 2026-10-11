@@ -8,15 +8,15 @@ Narration: in a paragraph without dialogue that names exactly one character (bes
 "người kể gọi là" (ngoi3) in story/ngu_canh.yaml at that chapter, the third-person pronouns of that character's
 gender are compared with it.
 
-Output: a table per translation and output/kiem-tra-xung-ho/<first>-<last>.md listing every mismatch.
+Output: a table per translation and output/<book>/kiem-tra-xung-ho/<first>-<last>.md listing every mismatch.
 """
 import re
 
-from common import chapter_path, read_json
-from context import _at
-from translator import Stats, Translator, make_chunks
+from core.common import chapter_path, read_json
+from pipeline.context import _at
+from pipeline.translator import Stats, Translator, make_chunks
 
-from pronouns import QUOTED, issues, status
+from pipeline.pronouns import QUOTED, issues, status
 
 MALE = ["anh ta", "anh ấy", "hắn", "gã", "ông ta", "ông ấy", "lão", "cậu ta", "cậu ấy", "y"]
 FEMALE = ["cô ta", "cô ấy", "nàng", "ả", "bà ta", "bà ấy", "cô bé", "mụ"]

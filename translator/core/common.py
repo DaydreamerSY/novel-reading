@@ -7,10 +7,15 @@ from pathlib import Path
 
 import yaml
 
-ROOT = Path(__file__).resolve().parent
-# Other books (--book <slug>): hand-edited files (config.yaml overrides, glossary, aliases, style, story)
-# live in books/<slug>/, generated data in data/books/<slug>/, the raw novelight scrape in data/novelight/<slug>/.
+ROOT = Path(__file__).resolve().parent.parent   # translator/
+# Every novel has the same layout, whichever book it is:
+#   books/<slug>/               hand-edited, committed: config.yaml (merged over config.yaml), glossary.yaml,
+#                               aliases.yaml, style.md, story/
+#   data/books/<slug>/          generated: en/ (English, after aliases), vi/<model>/, analysis/, terms.json
+#   data/sources/<site>/<slug>/ a source site's scrape of the book, as downloaded (see sources/)
+#   output/<slug>/              EPUB/TXT/MD exports and reports
 BOOKS = ROOT / "books"
+DATA = ROOT / "data"
 
 
 def _merge(base, over):
@@ -19,25 +24,32 @@ def _merge(base, over):
     return base
 
 
-def load_config(book=None):
-    with open(ROOT / "config.yaml", encoding="utf-8") as f:
-        cfg = yaml.safe_load(f)
-    own = BOOKS / book / "config.yaml" if book else None
-    if own and own.exists():
-        with open(own, encoding="utf-8") as f:
-            _merge(cfg, yaml.safe_load(f) or {})
-    return cfg
+def _yaml(path):
+    with open(path, encoding="utf-8") as f:
+        return yaml.safe_load(f) or {}
+
+
+def load_config(book):
+    """config.yaml (settings shared by every book) with books/<book>/config.yaml merged over it."""
+    cfg = _yaml(ROOT / "config.yaml")
+    own = BOOKS / book / "config.yaml"
+    return _merge(cfg, _yaml(own)) if own.exists() else cfg
 
 
 def book_slug(spec):
-    """A --book value (novelight link, slug, or a unique prefix of a book already on disk) -> its slug."""
+    """A --book value -> the book's folder name. Takes the folder name, a unique prefix of it, or the
+    book's slug / link on a source site (novelight.book in its config). None -> default_book."""
     if not spec:
-        return None
+        return _yaml(ROOT / "config.yaml")["default_book"]
     slug = spec.rstrip("/").rsplit("/book/", 1)[-1].split("?")[0]
-    known = sorted({p.name for d in (BOOKS, ROOT / "data" / "novelight") if d.is_dir()
-                    for p in d.iterdir() if p.is_dir()})
+    folders = [BOOKS, *(DATA / "sources").glob("*")]
+    known = sorted({p.name for d in folders if d.is_dir() for p in d.iterdir() if p.is_dir()})
     if slug in known:
         return slug
+    for k in known:
+        own = BOOKS / k / "config.yaml"
+        if own.exists() and any(isinstance(v, dict) and v.get("book") == slug for v in _yaml(own).values()):
+            return k
     hits = [k for k in known if k.startswith(slug)]
     if len(hits) > 1:
         raise SystemExit(f"--book {spec}: khớp nhiều truyện: {', '.join(hits)}")
@@ -49,20 +61,12 @@ def safe_name(s):
 
 
 class Paths:
-    def __init__(self, book=None):
-        data = ROOT / "data"
-        self.book = book                    # None = the main book, laid out as before
-        self.cache = data / "cache"         # LLM answers keyed by prompt hash: safe to share between books
-        if book:
-            self.home = BOOKS / book
-            self.data = data / "books" / book
-            self.en_novelight = data / "novelight" / book
-            self.output = ROOT / "output" / book
-        else:
-            self.home = ROOT
-            self.data = data
-            self.en_novelight = data / "en_novelight"
-            self.output = ROOT / "output"
+    def __init__(self, book):
+        self.book = book
+        self.home = BOOKS / book
+        self.data = DATA / "books" / book
+        self.output = ROOT / "output" / book
+        self.cache = DATA / "cache"         # LLM answers keyed by prompt hash: safe to share between books
         self.en = self.data / "en"
         self.vi_root = self.data / "vi"
         self.analysis = self.data / "analysis"
@@ -71,6 +75,10 @@ class Paths:
         self.aliases = self.home / "aliases.yaml"
         self.style = self.home / "style.md"
         self.story = self.home / "story"
+
+    def raw(self, site):
+        """A source site's scrape of this book: English as downloaded, before aliases are applied."""
+        return DATA / "sources" / site / self.book
 
     def vi(self, model):
         return self.vi_root / safe_name(model)

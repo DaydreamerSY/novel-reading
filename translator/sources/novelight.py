@@ -1,10 +1,12 @@
-"""Download the free English chapters from novelight.net into data/en_novelight/NNNN.json.
+"""novelight.net: the free English chapters into data/sources/novelight/<book>/NNNN.json.
 
 The site numbers chapters like the Korean original ("0" prologue, "1.1"/"1.2" for the two halves of
 chapter 1, ..., "607" side stories), so files are numbered by reading order (0001 = prologue) and keep
 the site's label. Locked (paid) chapters are skipped. Chapters download in parallel threads, with a
 shared rate limit so the whole pool never sends more than one request per `min_interval` seconds.
 Raw responses are kept in data/cache/novelight/, so `--force` re-parses without downloading again.
+The book's own chatter rules (tl_lines, tl_inline, first_line_names) come from the novelight section
+of books/<book>/config.yaml.
 """
 import re
 import threading
@@ -14,8 +16,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 from bs4 import BeautifulSoup
 
-from common import available, chapter_path, read_json, write_json
-from scraper import JUNK, USER_AGENT, Blocked
+from core.common import available, chapter_path, read_json, write_json
+from sources.base import JUNK, USER_AGENT, Blocked
 
 LABEL = re.compile(r"^\s*(\d+)(?:\.(\d+))?\s+chapter(?:\s*-\s*(.*))?\s*$", re.I)  # name is optional
 # The site stamps its name into sentences: in "mathematical bold" letters ("an ★ 𝐍... ★ event"), or spelled
@@ -246,15 +248,24 @@ def download(client, item, out, raw_dir, rules=None):
     return ch
 
 
+def title(ch, cfg):
+    """The site's chapter name ("<label> chapter - <name>"), or "Chapter <label>" when there is none or,
+    with first_line_names, when the "name" is really the chapter's opening line or a note."""
+    m = LABEL.match(ch["title"])
+    name = ((m.group(3) or "").strip() or f"Chapter {ch['label']}") if m else ch["title"]
+    if (cfg.get("novelight") or {}).get("first_line_names") and not HEADING.match(name):
+        name = f"Chapter {ch['label']}"
+    return name
+
+
 def scrape(cfg, paths, chapters=None, workers=None, force=False):
-    """The main book goes to data/en_novelight; another one (--book) to data/novelight/<slug>/."""
     sc = cfg.get("novelight", {})
     base = sc.get("base_url", "https://novelight.net").rstrip("/")
-    book = paths.book or sc.get("book", "the-academys-weapon-replicatorreplikator-iz-akademii-novella")
+    book = sc.get("book") or paths.book  # the book's slug on the site, if it differs from its folder name
     workers = int(workers or sc.get("workers", 4))
     rules = Rules(sc)
     client = Client(base, float(sc.get("min_interval", 0.3)))
-    folder = paths.en_novelight
+    folder = paths.raw("novelight")
     raw_dir = paths.cache / "novelight"
 
     print("Đang đọc mục lục...")
@@ -323,87 +334,3 @@ def scrape(cfg, paths, chapters=None, workers=None, force=False):
         print(f"Không có nội dung {len(empty)} chương: {empty}")
     have = available(folder)
     print(f"Hiện có {len(have)}/{len(free)} chương miễn phí trong {folder}")
-
-
-def _alias_pattern(mapping):
-    """One regex for all variants, longest first, so "Ria Liss" wins over "Liss" and "Lirih" over "Liri".
-    Hyphens count as edges: "P-Pielot", "Heukcheon-covered", "Atjie-nim"."""
-    if not mapping:
-        return None
-    names = sorted(mapping, key=len, reverse=True)
-    return re.compile(r"(?<!\w)(" + "|".join(re.escape(n) for n in names) + r")(?!\w)")
-
-
-def build_source(cfg, paths):
-    """Rebuild data/en from data/en_novelight, renaming the variant spellings listed in aliases.yaml,
-    so analysis, glossary and translation see one name per character. data/en_novelight stays untouched."""
-    import yaml
-
-    src, dst = paths.en_novelight, paths.en
-    have = available(src)
-    if not have:
-        print(f"Chưa có chương nào trong {src}. Chạy: python novel.py scrape --source novelight"
-              + (f" --book {paths.book}" if paths.book else ""))
-        return
-    foreign = [n for n in available(dst) if read_json(chapter_path(dst, n)).get("source") != "novelight"]
-    if foreign:
-        print(f"{dst} đang chứa {len(foreign)} chương không phải từ novelight. "
-              f"Hãy chuyển chúng sang chỗ khác trước (vd data/novellunar/en), lệnh này sẽ không ghi đè.")
-        return
-
-    a_path = paths.aliases
-    first_line_names = bool((cfg.get("novelight") or {}).get("first_line_names"))
-    a = (yaml.safe_load(open(a_path, encoding="utf-8")) or {}) if a_path.exists() else {}
-    every, late, start = a.get("doi_ten_moi_chuong") or {}, a.get("doi_ten") or {}, int(a.get("tu_chuong") or 1)
-    # "theo_khoang": {"970-971": {May: Mei}} — names that are only safe to rename inside a chapter range
-    ranged = []
-    for key, table in (a.get("theo_khoang") or {}).items():
-        lo, _, hi = str(key).partition("-")
-        ranged.append((int(lo), int(hi or lo), table or {}))
-    patterns = {}
-
-    totals, every_table = {}, {}
-    for n in have:
-        ch = read_json(chapter_path(src, n))
-        table = {**every, **(late if n >= start else {})}
-        for lo, hi, extra in ranged:
-            if lo <= n <= hi:
-                table.update(extra)
-        key = frozenset(table.items())
-        if key not in patterns:
-            patterns[key] = _alias_pattern(table)
-        pat = patterns[key]
-        every_table.update(table)
-        used = {}
-
-        def rename(text):
-            if pat is None:
-                return text
-
-            def one(m):
-                used[m.group(1)] = used.get(m.group(1), 0) + 1
-                return table[m.group(1)]
-            return pat.sub(one, text)
-
-        m = LABEL.match(ch["title"])
-        name = ((m.group(3) or "").strip() or f"Chapter {ch['label']}") if m else ch["title"]
-        if first_line_names and not HEADING.match(name):
-            name = f"Chapter {ch['label']}"  # the site's "name" is the opening line or a note, not a title
-        out = {"number": n, "title": rename(name), "label": ch["label"],
-               "paragraphs": [rename(p) for p in ch["paragraphs"]],
-               "source": "novelight", "source_id": ch["source_id"], "url": ch["url"]}
-        if used:
-            out["aliases"] = used
-        if ch.get("tl_notes"):
-            out["tl_notes"] = ch["tl_notes"]
-        write_json(chapter_path(dst, n), out)
-        for k, v in used.items():
-            totals[k] = totals.get(k, 0) + v
-
-    stale = [n for n in available(dst) if n not in set(have)]
-    for n in stale:
-        chapter_path(dst, n).unlink()
-    print(f"Đã dựng {len(have)} chương vào {dst} từ {src}" + (f", xoá {len(stale)} file thừa" if stale else ""))
-    if totals:
-        print("Đổi tên theo aliases.yaml: " + ", ".join(
-            f"{k} → {every_table[k]} ({v})" for k, v in sorted(totals.items(), key=lambda kv: -kv[1])))

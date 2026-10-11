@@ -1,20 +1,18 @@
-# Cấu hình dịch truyện. Sửa xong chạy lại lệnh là có hiệu lực.
+# Cấu hình chung cho mọi truyện. Phần riêng của từng truyện (tên, nhân vật chính, web nguồn, quy tắc lọc...)
+# nằm ở books/<truyện>/config.yaml và được ghép đè lên file này. Sửa xong chạy lại lệnh là có hiệu lực.
 
-book:
-  title: "Thiên Tài Sao Chép Vũ Khí Học Viện"
-  author: "서쪽"
-  protagonist: Frondier     # truyện kể ngôi thứ nhất: "I" là nhân vật này
+default_book: the-academys-weapon-replicator   # truyện dùng khi không ghi --book
 
-source:
-  base_url: https://novellunar.com
-  slug: the-academys-weapon-replicator
-  delay_seconds: 2          # nghỉ giữa 2 lần tải trang, đừng để quá thấp
-
-novelight:                  # nguồn thứ hai: python novel.py scrape --source novelight
+# Thông số chung của từng web nguồn (sources/<web>.py). Truyện nào lấy từ web nào, tên truyện trên web đó
+# và quy tắc lọc riêng thì ghi trong config của truyện.
+novelight:
   base_url: https://novelight.net
-  book: the-academys-weapon-replicatorreplikator-iz-akademii-novella
   workers: 4                # số luồng tải song song
   min_interval: 0.3         # giãn cách tối thiểu giữa 2 request của cả nhóm luồng (giây)
+
+novellunar:
+  base_url: https://novellunar.com
+  delay_seconds: 2          # nghỉ giữa 2 lần tải trang, đừng để quá thấp
 
 llm:
   url: http://localhost:11434
@@ -25,11 +23,6 @@ llm:
   num_ctx: 8192             # độ dài ngữ cảnh (token) mỗi lần gọi
   timeout_seconds: 900
   workers: 1                # số chương dịch song song; > 1 chỉ có lợi khi Ollama chạy với OLLAMA_NUM_PARALLEL >= workers
-
-terms:
-  # Chức danh riêng của truyện, ngoài danh sách có sẵn (Lord, Miss, Senior, Professor, -nim...).
-  # "Zodiac Monty" sẽ được tách thành "Zodiac" + "Monty".
-  extra_titles: [Zodiac]
 
 translate:
   chunk_chars: 3500        # số ký tự tiếng Anh mỗi lần gọi model

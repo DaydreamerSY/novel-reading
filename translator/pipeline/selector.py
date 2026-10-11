@@ -5,7 +5,7 @@ without a model; only real disagreements go to a judge model (a different model 
 does not favour its own writing), in batches, with the chapter summary, the characters present and the
 speaker / xưng hô of each line. The two candidates are shown as "1" and "2" in a random but reproducible order.
 
-Output: data/vi/<name>/NNNN.json + output/md/<name>/NNNN.md, and output/chon-loc/NNNN.md listing every
+Output: data/books/<book>/vi/<name>/NNNN.json + output/<book>/md/<name>/NNNN.md, and output/<book>/chon-loc/NNNN.md listing every
 disputed paragraph with both versions, the pick and the judge's reason.
 """
 import difflib
@@ -14,10 +14,10 @@ import random
 import re
 import time
 
-from common import chapter_path, fmt_duration, read_json, write_json
-from exporter import write_md
-from llm import Ollama
-from translator import Stats, Translator, make_chunks, problems
+from core.common import chapter_path, fmt_duration, read_json, write_json
+from export.exporter import write_md
+from core.llm import Ollama
+from pipeline.translator import Stats, Translator, make_chunks, problems
 
 JUDGE_RULES = """\
 You are the editor of a Vietnamese translation of a fantasy web novel. Each item gives the English source \

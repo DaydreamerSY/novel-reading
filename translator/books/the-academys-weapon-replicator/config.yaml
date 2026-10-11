@@ -1,0 +1,19 @@
+# Cấu hình riêng của truyện này: chỉ ghi các mục khác với translator/config.yaml (phần còn lại lấy từ đó).
+
+book:
+  title: "Thiên Tài Sao Chép Vũ Khí Học Viện"
+  author: "서쪽"
+  protagonist: Frondier     # truyện kể ngôi thứ nhất: "I" là nhân vật này
+
+site: novelight             # web nguồn chính: scrape và source mặc định dùng web này (từ 2026-10-06)
+
+novelight:
+  book: the-academys-weapon-replicatorreplikator-iz-akademii-novella   # tên truyện trên novelight.net
+
+novellunar:                 # nguồn cũ (1–828), bản tải giữ ở data/sources/novellunar/
+  slug: the-academys-weapon-replicator
+
+terms:
+  # Chức danh riêng của truyện, ngoài danh sách có sẵn (Lord, Miss, Senior, Professor, -nim...).
+  # "Zodiac Monty" sẽ được tách thành "Zodiac" + "Monty".
+  extra_titles: [Zodiac]

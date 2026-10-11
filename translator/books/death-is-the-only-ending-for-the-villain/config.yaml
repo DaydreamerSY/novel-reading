@@ -6,16 +6,15 @@ book:
   author: "권겨을"
   protagonist: Penelope     # truyện kể ngôi thứ nhất: "I" là nhân vật này
 
-source:
-  slug: death-is-the-only-ending-for-the-villain   # tên thư mục khi xuất web (web/books/<slug>)
+site: novelight             # web nguồn: scrape và source mặc định dùng web này
 
 novelight:
-  book: death-is-the-only-ending-for-the-villain
+  book: death-is-the-only-ending-for-the-villain   # tên truyện trên novelight.net
   first_line_names: true    # trang đặt "tên chương" bằng câu mở đầu: giữ câu đó trong bài, tiêu đề là "Chapter N"
   # Lời của các nhóm dịch tiếng Anh lẫn trong bài, chuyển sang tl_notes (không đem tóm tắt / dịch).
   # Quy tắc chung (dòng "_____" cuối chương, "(Note: ...)", "Tl:", "p/s:", Q&A...) nằm sẵn trong novelight.py;
   # ở đây chỉ là phần riêng của truyện này. Regex, không phân biệt hoa thường. Sửa xong chạy lại:
-  #   python novel.py scrape --source novelight --book death --force   (dựng lại từ cache, không tải lại)
+  #   python novel.py scrape --book death --force   (dựng lại từ cache, không tải lại)
   #   python novel.py source --book death
   tl_lines:                 # khớp ở đâu trong dòng thì bỏ cả dòng
     - 'akireatom'

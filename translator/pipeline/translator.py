@@ -13,13 +13,13 @@ import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from common import chapter_path, fmt_duration, read_json, safe_name, write_json
-from context import StoryContext
-from pronouns import fix_self
-from pronouns import issues as xh_issues
-from exporter import write_md
-from glossary import Glossary
-from llm import Ollama
+from core.common import chapter_path, fmt_duration, read_json, safe_name, write_json
+from pipeline.context import StoryContext
+from pipeline.pronouns import fix_self
+from pipeline.pronouns import issues as xh_issues
+from export.exporter import write_md
+from pipeline.glossary import Glossary
+from core.llm import Ollama
 
 PROMPT_VERSION = 2  # bump when RULES or the prompt layout changes, to invalidate the cache
 
@@ -441,7 +441,7 @@ class Translator:
                       "cached_chunks": stats.cached},
         }
         write_json(chapter_path(out_dir, n), out)
-        write_md(self.paths, self.model, [out])  # readable copy for review: output/md/<model>/NNNN.md
+        write_md(self.paths, self.model, [out])  # readable copy for review: output/<book>/md/<model>/NNNN.md
         return out
 
 

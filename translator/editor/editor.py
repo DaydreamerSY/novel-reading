@@ -1,6 +1,6 @@
 """Local web editor for glossary.yaml:  python novel.py edit
 
-Serves editor.html on http://127.0.0.1:<port>. The page shows every term from data/terms.json
+Serves editor.html on http://127.0.0.1:<port>. The page shows every term from the book's terms.json
 merged with the current glossary.yaml, grouped so that variants of the same thing sit together
 ("Empire" / "Terst Empire", "Shadow Unit" / "Empire Shadow Unit", "Shadow Transfer" /
 "Shadow Transference"), with honorifics and titles in a group of their own. Saving rewrites
@@ -14,17 +14,16 @@ import webbrowser
 from collections import defaultdict
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from itertools import combinations
+from pathlib import Path
 
 import yaml
 
-from common import ROOT, read_json, write_json
-from glossary import LABELS, Glossary
+from core.common import read_json, write_json
+from pipeline.glossary import LABELS, Glossary
 
-# The book being edited; serve() points these at its files (main book by default).
-GLOSSARY = ROOT / "glossary.yaml"
-TERMS = ROOT / "data" / "terms.json"
-STATE = ROOT / "data" / "editor_state.json"
-PAGE = ROOT / "editor.html"
+# The book being edited: serve() points these at its files.
+GLOSSARY = TERMS = STATE = None
+PAGE = Path(__file__).with_name("editor.html")
 SECTIONS = ["nhan_vat", "kinh_ngu", "danh_hieu", "dia_danh", "to_chuc", "vu_khi", "ky_nang", "vat_pham",
             "chung_toc", "thuat_ngu"]
 TITLE_SECTIONS = {"kinh_ngu", "danh_hieu"}
@@ -299,7 +298,7 @@ def serve(paths, port, open_browser):
     global GLOSSARY, TERMS, STATE
     GLOSSARY, TERMS, STATE = paths.glossary, paths.terms, paths.data / "editor_state.json"
     if not TERMS.exists():
-        print(f"Chưa có {TERMS}, hãy chạy: python novel.py terms" + (f" --book {paths.book}" if paths.book else ""))
+        print(f"Chưa có {TERMS}, hãy chạy: python novel.py terms --book {paths.book}")
     server = ThreadingHTTPServer(("127.0.0.1", port), Handler)
     url = f"http://127.0.0.1:{port}/"
     print(f"Công cụ glossary: {url}  ({GLOSSARY}, Ctrl+C để tắt)", flush=True)

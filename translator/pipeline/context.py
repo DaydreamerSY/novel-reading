@@ -2,15 +2,15 @@
 
 From story/ngu_canh.yaml it takes only what fits chapter n: the arc, the characters present (their stance
 towards the narrator, role and the pronoun the narrator uses for them at that point of the story) and the
-relationship stage of each pair present. From data/analysis/NNNN.json it adds the relationships the summary
+relationship stage of each pair present. From the book's analysis/NNNN.json it adds the relationships the summary
 pass saw in this very chapter (who is hostile to whom, who is seducing whom, how they address each other).
 """
 import re
 
 import yaml
 
-from common import chapter_path, read_json
-from glossary import _parse_range
+from core.common import chapter_path, read_json
+from pipeline.glossary import _parse_range
 
 
 def _ranges(items):

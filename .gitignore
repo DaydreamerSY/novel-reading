@@ -2,22 +2,25 @@ __pycache__/
 *.pyc
 *.tmp
 
-# translator: re-buildable cache, exports and run logs
+# translator: re-buildable cache, exports, run logs, glossary backups
 translator/data/cache/
+translator/data/logs/
 translator/data/*.txt
-translator/data/vi/*/_log.txt
 translator/output/
-translator/glossary.yaml.bak*
+translator/books/*/glossary.yaml.bak*
 
 .claude/settings.local.json
 
-# scraped English source: kept locally, not published
+# English source, never published:
+# raw scrapes of every site, and the English each book is translated from
+translator/data/sources/
+translator/data/books/*/en/
+# translations carry the English source line by line
+translator/data/books/*/vi/
+# older layouts, in case an old script recreates them
 translator/data/en/
 translator/data/en_novelight/
 translator/data/novelight/
 translator/data/novellunar/
-translator/data/books/*/en/
-
-# translations embed the English source line by line: never publish
 translator/data/vi/
-translator/data/books/*/vi/
+translator/glossary.yaml.bak*

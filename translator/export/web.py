@@ -10,24 +10,20 @@ machine (and the reader hides its bilingual option for books without it).
 import re
 from datetime import datetime, timezone
 
-from common import ROOT, available, chapter_path, read_json, write_json
+from core.common import ROOT, available, chapter_path, read_json, write_json
+from modifiers.watermarks import strip as strip_watermarks
 
 WEB = ROOT.parent / "web"
 # Chapters translated from an older scrape have the closing quote/bracket of a line as a
 # paragraph of its own ('"Hello.' then '"'); glue it back so the reader shows no lone quotes.
 STRAY = re.compile(r"""^["'\])”’」』]+$""")
-# Watermarks the source site plants mid-sentence, often with Cyrillic look-alike letters, that
-# survived into some translations: "◆ Nоvеlіgһt ◆ (Only on Nоvеlіgһt)", "[# Nоvеlight #]", ...
-# Any symbol pair around the name, then the short "(Read the full story)"-style note that follows it.
-NOVELIGHT = r"N[oоο][vѵν][eеε][lӏ][iіıι][gɡ][hһ][tт]"
-STAMP = re.compile(rf"\s*\[?\s*[^\w\s\[\]()]{{1,2}}\s*{NOVELIGHT}\s*[^\w\s\[\]()]{{1,2}}(?:\s*\])?(?:\s*\([^()]{{0,40}}\))?", re.I)
 
 
 def _paragraphs(ch):
     out = []
     for p in ch["paragraphs"]:
         en = p["en"].strip()
-        vi = STAMP.sub("", p["vi"]).strip() or en
+        vi = strip_watermarks(p["vi"]).strip() or en
         if out and STRAY.match(vi) and (not en or STRAY.match(en)):
             prev = out[-1]
             if not prev[0].endswith(vi):
@@ -45,7 +41,7 @@ def export_web(cfg, paths, model, chapters):
     if not chapters:
         print(f"Chưa có chương nào đã dịch bằng {model}.")
         return
-    slug = cfg["source"]["slug"]
+    slug = paths.book
     book_dir = WEB / "books" / slug
     for n in chapters:
         ch = read_json(chapter_path(folder, n))

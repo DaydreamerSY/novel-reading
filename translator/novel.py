@@ -1,8 +1,7 @@
-"""Dịch truyện offline: tải bản tiếng Anh → dịch bằng model local (Ollama) → xuất EPUB/TXT.
+"""Dịch truyện offline: tải bản tiếng Anh → dịch bằng model local (Ollama) → xuất EPUB/TXT/web.
 
-  python novel.py scrape                 tải tiếp các chương còn thiếu đến hết truyện
-  python novel.py scrape --source novelight  tải các chương miễn phí từ novelight.net (đa luồng)
-  python novel.py source                 dựng data/en từ bản novelight (đổi tên theo aliases.yaml)
+  python novel.py scrape                 tải các chương còn thiếu từ web nguồn của truyện (site trong config)
+  python novel.py source                 dựng bản tiếng Anh dùng để dịch từ bản tải về, đổi tên theo aliases.yaml
   python novel.py terms                  liệt kê tên riêng + model phân loại → glossary_draft.yaml
   python novel.py edit                   công cụ chỉnh glossary trên trình duyệt (gom mục trùng)
   python novel.py analyze                đọc trước toàn truyện: tóm tắt, bối cảnh, quan hệ → story/tom_tat/
@@ -15,45 +14,38 @@
   python novel.py export --format epub   xuất sách
   python novel.py web                    xuất cho app đọc truyện trên web (../web)
 
-Truyện khác: thêm --book <slug hoặc phần đầu slug> vào lệnh bất kỳ, vd
-  python novel.py scrape --source novelight --book death-is-the-only-ending-for-the-villain
+Mặc định là truyện default_book trong config.yaml. Truyện khác: thêm --book <tên thư mục, phần đầu của nó,
+hoặc link/slug trên web nguồn> vào lệnh bất kỳ, vd
+  python novel.py scrape --book death
   python novel.py analyze --book death
-Mỗi truyện có thư mục books/<slug>/ (config.yaml ghi đè config chung, glossary.yaml, aliases.yaml, style.md, story/)
-và data/books/<slug>/ (en, vi, analysis, terms.json).
+Mỗi truyện: books/<slug>/ (config.yaml ghi đè config chung, glossary.yaml, aliases.yaml, style.md, story/),
+data/books/<slug>/ (en, vi, analysis, terms.json), bản tải thô theo từng web ở data/sources/<web>/<slug>/.
 """
 import argparse
-import itertools
 
-from common import Paths, available, book_slug, chapter_path, fmt_duration, load_config, parse_range, read_json, utf8_console
+from core.common import Paths, available, book_slug, chapter_path, fmt_duration, load_config, parse_range, read_json, utf8_console
+from sources import SITES
 
 
 def cmd_scrape(cfg, paths, args):
-    if args.source == "novelight":
-        from novelight import scrape as scrape_novelight
-        scrape_novelight(cfg, paths, parse_range(args.range, []) if args.range else None, args.workers, args.force)
-        return
-    if paths.book:
-        raise SystemExit("--book chỉ dùng được với --source novelight")
-    from scraper import scrape
-    if args.range:
-        scrape(cfg, paths, parse_range(args.range, []), open_ended=False, force=args.force)
-    else:
-        scrape(cfg, paths, itertools.count(1), open_ended=True, force=args.force)
+    from sources import site
+    chapters = parse_range(args.range, []) if args.range else None
+    site(args.source or cfg["site"]).scrape(cfg, paths, chapters, args.workers, args.force)
 
 
 def cmd_source(cfg, paths, args):
-    from novelight import build_source
-    build_source(cfg, paths)
+    from modifiers.aliases import build_source
+    build_source(cfg, paths, args.source or cfg["site"])
 
 
 def cmd_terms(cfg, paths, args):
-    from entities import build_draft
+    from pipeline.entities import build_draft
     chapters = parse_range(args.range, available(paths.en))
     build_draft(cfg, paths, chapters, args.model or cfg["llm"]["model"], args.min, not args.no_llm)
 
 
 def cmd_analyze(cfg, paths, args):
-    from analyzer import report, run
+    from pipeline.analyzer import report, run
     if args.report:
         report(cfg, paths)
     else:
@@ -61,36 +53,36 @@ def cmd_analyze(cfg, paths, args):
 
 
 def cmd_edit(cfg, paths, args):
-    from editor import serve
+    from editor.editor import serve
     serve(paths, args.port, not args.no_browser)
 
 
 def cmd_translate(cfg, paths, args):
-    from translator import run
+    from pipeline.translator import run
     model = args.model or cfg["llm"]["model"]
     workers = args.workers or int(cfg["llm"].get("workers", 1))
     run(cfg, paths, parse_range(args.range, available(paths.en)), model, workers, args.force, args.no_cache)
 
 
 def cmd_merge(cfg, paths, args):
-    from selector import run
+    from pipeline.selector import run
     models = [m.strip() for m in args.models.split(",")] if args.models else None
     run(cfg, paths, parse_range(args.range, available(paths.en)), models, args.judge, args.name,
         False if args.no_reasons else None)
 
 
 def cmd_polish(cfg, paths, args):
-    from polish import run
+    from pipeline.polish import run
     run(cfg, paths, parse_range(args.range, available(paths.en)), args.model, args.source, args.name)
 
 
 def cmd_audit(cfg, paths, args):
-    from audit import run
+    from pipeline.audit import run
     run(cfg, paths, parse_range(args.range, []), [m.strip() for m in args.models.split(",") if m.strip()])
 
 
 def cmd_compare(cfg, paths, args):
-    from exporter import compare
+    from export.exporter import compare
     compare(paths, int(args.chapter), [m.strip() for m in args.models.split(",") if m.strip()])
 
 
@@ -118,14 +110,14 @@ def cmd_status(cfg, paths, args):
 
 
 def cmd_export(cfg, paths, args):
-    from exporter import export
+    from export.exporter import export
     model = args.model or cfg["llm"]["model"]
     chapters = parse_range(args.range, []) if args.range else None
     export(cfg, paths, model, chapters, args.format, args.bilingual)
 
 
 def cmd_web(cfg, paths, args):
-    from webexport import export_web
+    from export.web import export_web
     model = args.model or cfg["llm"]["model"]
     export_web(cfg, paths, model, parse_range(args.range, []) if args.range else None)
 
@@ -133,7 +125,7 @@ def cmd_web(cfg, paths, args):
 def main():
     utf8_console()
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    book_help = "truyện khác (slug, link novelight, hoặc phần đầu slug); mặc định truyện chính"
+    book_help = "truyện (tên thư mục trong books/, phần đầu của nó, hoặc link/slug trên web nguồn); mặc định default_book"
     p.add_argument("--book", help=book_help)
     # also accepted after the command; SUPPRESS keeps a missing one from overwriting the value given before it
     shared = argparse.ArgumentParser(add_help=False)
@@ -147,12 +139,13 @@ def main():
     s.add_argument("range", nargs="?", help="vd 1-50; bỏ trống = tải tiếp đến hết truyện")
     s.add_argument("--force", action="store_true",
                    help="tải lại cả chương đã có (novelight: dựng lại từ data/cache/novelight, không tải lại)")
-    s.add_argument("--source", choices=["novellunar", "novelight"], default="novellunar",
-                   help="novelight: lưu vào data/en_novelight, đánh số theo thứ tự đọc (0001 = Prologue)")
+    s.add_argument("--source", choices=SITES, help="web nguồn; mặc định site trong config của truyện. "
+                   "Lưu vào data/sources/<web>/<truyện>/")
     s.add_argument("--workers", type=int, help="số luồng tải song song (novelight; mặc định trong config.yaml)")
     s.set_defaults(fn=cmd_scrape)
 
-    s = command("source", help="dựng data/en từ data/en_novelight, đổi tên theo aliases.yaml")
+    s = command("source", help="dựng data/books/<truyện>/en từ bản tải về, đổi tên theo aliases.yaml")
+    s.add_argument("--source", choices=SITES, help="dựng từ bản của web này; mặc định site trong config của truyện")
     s.set_defaults(fn=cmd_source)
 
     s = command("terms", help="liệt kê tên riêng, model phân loại → glossary_draft.yaml")
@@ -226,9 +219,7 @@ def main():
 
     args = p.parse_args()
     book = book_slug(args.book)
-    if book and book == load_config()["novelight"].get("book"):
-        book = None  # the main book's own slug
-    if book:
+    if args.book:
         print(f"Truyện: {book}")
     args.fn(load_config(book), Paths(book), args)
 
