@@ -1,0 +1,89 @@
+{
+ "number": 234,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Marienne vô tình tiết lộ tin đồn về mối quan hệ của Penelope và Thái tử Callisto, Penelope phải đối mặt với những lời đồn đại rằng cô là một con quái vật ma thuật nguy hiểm có thể phá hủy đế chế. Cô lo lắng về những tin đồn này và cách chúng ảnh hưởng đến danh tiếng của gia đình Eckart cũng như mối quan hệ của mình với Callisto. Cuối cùng, Penelope và Cedric trên đường đến gặp Thái tử để thảo luận về công việc liên quan đến các di tích cổ, Penelope suy nghĩ về tình hình hiện tại và một giải pháp tiềm năng cho nạn đói ở Tratan.",
+ "boi_canh": "Trong khu vực phục hồi di tích, gần giờ ăn trưa.",
+ "nhan_vat": [
+  "Penelope",
+  "Marienne",
+  "Callisto",
+  "Vinter",
+  "Cedric",
+  "Đế hoàng"
+ ],
+ "su_kien": [
+  "Marienne vô tình tiết lộ tin đồn về mối quan hệ giữa Penelope và Callisto.",
+  "Penelope tức giận vì những lời đồn đại rằng cô là một con quái vật ma thuật nguy hiểm.",
+  "Cedric thông báo cho Penelope về việc Thái tử muốn gặp để thảo luận về các di tích cổ.",
+  "Marienne đề xuất sử dụng tài sản của gia đình Hoàng hậu để giải quyết nạn đói ở Tratan.",
+  "Penelope suy nghĩ về cách đối phó với những tin đồn và tình hình chính trị hiện tại."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Marienne vô tình tiết lộ thông tin về mối quan hệ của Penelope và Callisto.",
+   "cach_goi": "gọi tên Marienne, thân mật"
+  },
+  {
+   "a": "Marienne",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Marienne vô tình tiết lộ thông tin về mối quan hệ của Penelope và Callisto.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Người yêu, mối quan hệ bí mật và đang phát triển.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Người yêu, mối quan hệ bí mật và đang phát triển.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò, Penelope được Cedric hỏi ý kiến về vấn đề chính trị.",
+   "cach_goi": "gọi tên Cedric, lễ phép"
+  },
+  {
+   "a": "Cedric",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Thầy trò, Cedric hỏi ý kiến của Penelope về vấn đề chính trị.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Marienne",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ, Marienne biết về tin đồn của Callisto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Marienne",
+   "loai": "nguoi_la",
+   "mo_ta": "Không rõ mối quan hệ, Marienne biết về tin đồn của Callisto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus",
+  "Vinter: Hầu tước Vinter Verdandi",
+  "Cedric: Cedric Porter"
+ ],
+ "stats": {
+  "tokens": 1034,
+  "seconds": 31.0
+ }
+}

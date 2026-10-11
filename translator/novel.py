@@ -14,11 +14,17 @@
   python novel.py status                 tiến độ và các chương cần xem lại
   python novel.py export --format epub   xuất sách
   python novel.py web                    xuất cho app đọc truyện trên web (../web)
+
+Truyện khác: thêm --book <slug hoặc phần đầu slug> vào lệnh bất kỳ, vd
+  python novel.py scrape --source novelight --book death-is-the-only-ending-for-the-villain
+  python novel.py analyze --book death
+Mỗi truyện có thư mục books/<slug>/ (config.yaml ghi đè config chung, glossary.yaml, aliases.yaml, style.md, story/)
+và data/books/<slug>/ (en, vi, analysis, terms.json).
 """
 import argparse
 import itertools
 
-from common import Paths, available, chapter_path, fmt_duration, load_config, parse_range, read_json, utf8_console
+from common import Paths, available, book_slug, chapter_path, fmt_duration, load_config, parse_range, read_json, utf8_console
 
 
 def cmd_scrape(cfg, paths, args):
@@ -26,6 +32,8 @@ def cmd_scrape(cfg, paths, args):
         from novelight import scrape as scrape_novelight
         scrape_novelight(cfg, paths, parse_range(args.range, []) if args.range else None, args.workers, args.force)
         return
+    if paths.book:
+        raise SystemExit("--book chỉ dùng được với --source novelight")
     from scraper import scrape
     if args.range:
         scrape(cfg, paths, parse_range(args.range, []), open_ended=False, force=args.force)
@@ -54,7 +62,7 @@ def cmd_analyze(cfg, paths, args):
 
 def cmd_edit(cfg, paths, args):
     from editor import serve
-    serve(args.port, not args.no_browser)
+    serve(paths, args.port, not args.no_browser)
 
 
 def cmd_translate(cfg, paths, args):
@@ -125,9 +133,17 @@ def cmd_web(cfg, paths, args):
 def main():
     utf8_console()
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    book_help = "truyện khác (slug, link novelight, hoặc phần đầu slug); mặc định truyện chính"
+    p.add_argument("--book", help=book_help)
+    # also accepted after the command; SUPPRESS keeps a missing one from overwriting the value given before it
+    shared = argparse.ArgumentParser(add_help=False)
+    shared.add_argument("--book", default=argparse.SUPPRESS, help=book_help)
     sub = p.add_subparsers(dest="cmd", required=True)
 
-    s = sub.add_parser("scrape", help="tải chương tiếng Anh")
+    def command(name, **kw):
+        return sub.add_parser(name, parents=[shared], **kw)
+
+    s = command("scrape", help="tải chương tiếng Anh")
     s.add_argument("range", nargs="?", help="vd 1-50; bỏ trống = tải tiếp đến hết truyện")
     s.add_argument("--force", action="store_true",
                    help="tải lại cả chương đã có (novelight: dựng lại từ data/cache/novelight, không tải lại)")
@@ -136,29 +152,29 @@ def main():
     s.add_argument("--workers", type=int, help="số luồng tải song song (novelight; mặc định trong config.yaml)")
     s.set_defaults(fn=cmd_scrape)
 
-    s = sub.add_parser("source", help="dựng data/en từ data/en_novelight, đổi tên theo aliases.yaml")
+    s = command("source", help="dựng data/en từ data/en_novelight, đổi tên theo aliases.yaml")
     s.set_defaults(fn=cmd_source)
 
-    s = sub.add_parser("terms", help="liệt kê tên riêng, model phân loại → glossary_draft.yaml")
+    s = command("terms", help="liệt kê tên riêng, model phân loại → glossary_draft.yaml")
     s.add_argument("range", nargs="?", help="vd 1-50; mặc định tất cả chương đã tải")
     s.add_argument("--min", type=int, default=3, help="số lần xuất hiện tối thiểu (mặc định 3)")
     s.add_argument("--model", help="model phân loại; mặc định llm.model trong config.yaml")
     s.add_argument("--no-llm", action="store_true", help="chỉ dùng script, không phân loại bằng model")
     s.set_defaults(fn=cmd_terms)
 
-    s = sub.add_parser("analyze", help="đọc từng chương, ghi tóm tắt / bối cảnh / quan hệ → story/tom_tat/*.md")
+    s = command("analyze", help="đọc từng chương, ghi tóm tắt / bối cảnh / quan hệ → story/tom_tat/*.md")
     s.add_argument("range", nargs="?", help="vd 288-308; mặc định tất cả chương đã tải")
     s.add_argument("--model", help="ghi đè llm.model trong config.yaml")
     s.add_argument("--force", action="store_true", help="phân tích lại cả chương đã có")
     s.add_argument("--report", action="store_true", help="chỉ tạo lại các file .md từ kết quả đã có, không gọi model")
     s.set_defaults(fn=cmd_analyze)
 
-    s = sub.add_parser("edit", help="mở công cụ chỉnh glossary trên trình duyệt")
+    s = command("edit", help="mở công cụ chỉnh glossary trên trình duyệt")
     s.add_argument("--port", type=int, default=8765)
     s.add_argument("--no-browser", action="store_true", help="không tự mở trình duyệt")
     s.set_defaults(fn=cmd_edit)
 
-    s = sub.add_parser("translate", help="dịch hàng loạt")
+    s = command("translate", help="dịch hàng loạt")
     s.add_argument("range", nargs="?", help="vd 1-50,60; mặc định tất cả chương đã tải")
     s.add_argument("--model", help="ghi đè llm.model trong config.yaml")
     s.add_argument("--workers", type=int, help="số chương dịch song song")
@@ -166,7 +182,7 @@ def main():
     s.add_argument("--no-cache", action="store_true", help="bỏ qua cache, gọi model lại từ đầu")
     s.set_defaults(fn=cmd_translate)
 
-    s = sub.add_parser("merge", help="ghép 2 bản dịch: tự kiểm tra trước, model phân xử phần khác nhau")
+    s = command("merge", help="ghép 2 bản dịch: tự kiểm tra trước, model phân xử phần khác nhau")
     s.add_argument("range", nargs="?", help="vd 610-612; mặc định mọi chương đã có đủ 2 bản dịch")
     s.add_argument("--models", help="2 model đã dịch, vd gemma3:12b,translategemma:12b (mặc định trong config.yaml)")
     s.add_argument("--judge", help="model phân xử, vd qwen3:8b (mặc định trong config.yaml)")
@@ -174,28 +190,28 @@ def main():
     s.add_argument("--no-reasons", action="store_true", help="không yêu cầu lý do (nhanh hơn với model chậm như 27B)")
     s.set_defaults(fn=cmd_merge)
 
-    s = sub.add_parser("polish", help="model lớn chỉ sửa xưng hô / đại từ trên bản dịch có sẵn")
+    s = command("polish", help="model lớn chỉ sửa xưng hô / đại từ trên bản dịch có sẵn")
     s.add_argument("range", nargs="?", help="vd 610-612; mặc định mọi chương đã có bản nguồn")
     s.add_argument("--model", help="model chỉnh (mặc định polish.model trong config.yaml)")
     s.add_argument("--source", help="bản dịch đem chỉnh, vd gemma3:12b hoặc tuyen-chon")
     s.add_argument("--name", help="tên thư mục kết quả (mặc định polish.name)")
     s.set_defaults(fn=cmd_polish)
 
-    s = sub.add_parser("audit", help="soát xưng hô của các bản dịch (không cần model)")
+    s = command("audit", help="soát xưng hô của các bản dịch (không cần model)")
     s.add_argument("range", help="vd 610-612")
     s.add_argument("--models", required=True, help="vd gemma3:12b,gemma3:27b-it-qat,translategemma:12b")
     s.set_defaults(fn=cmd_audit)
 
-    s = sub.add_parser("compare", help="HTML so sánh bản dịch của nhiều model")
+    s = command("compare", help="HTML so sánh bản dịch của nhiều model")
     s.add_argument("chapter")
     s.add_argument("--models", required=True, help="vd qwen3:8b,gemma3:12b")
     s.set_defaults(fn=cmd_compare)
 
-    s = sub.add_parser("status", help="tiến độ dịch")
+    s = command("status", help="tiến độ dịch")
     s.add_argument("--model")
     s.set_defaults(fn=cmd_status)
 
-    s = sub.add_parser("export", help="xuất EPUB/TXT")
+    s = command("export", help="xuất EPUB/TXT")
     s.add_argument("range", nargs="?", help="vd 1-100; mặc định tất cả chương đã dịch")
     s.add_argument("--model")
     s.add_argument("--format", choices=["md", "epub", "txt"], default="epub",
@@ -203,13 +219,18 @@ def main():
     s.add_argument("--bilingual", action="store_true", help="kèm câu tiếng Anh dưới mỗi đoạn")
     s.set_defaults(fn=cmd_export)
 
-    s = sub.add_parser("web", help="xuất cho app đọc truyện trên web (../web)")
+    s = command("web", help="xuất cho app đọc truyện trên web (../web)")
     s.add_argument("range", nargs="?", help="vd 1-100; mặc định tất cả chương đã dịch")
     s.add_argument("--model")
     s.set_defaults(fn=cmd_web)
 
     args = p.parse_args()
-    args.fn(load_config(), Paths(), args)
+    book = book_slug(args.book)
+    if book and book == load_config()["novelight"].get("book"):
+        book = None  # the main book's own slug
+    if book:
+        print(f"Truyện: {book}")
+    args.fn(load_config(book), Paths(book), args)
 
 
 if __name__ == "__main__":

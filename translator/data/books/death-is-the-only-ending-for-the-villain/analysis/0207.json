@@ -1,0 +1,102 @@
+{
+ "number": 207,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Công tước Eckart lo lắng về việc Reynold không về nhà và Derrick đi đâu đó gần kinh đô. Ông ta bực tức vì Reynold thường xuyên trốn tránh trách nhiệm và Derrick bỏ quên công việc để tìm Penelope. Sau khi Yvonne bị ốm, Công tước đến thăm cô nhưng phát hiện ra nhiều điều đáng lo ngại: Leah, hầu gái của Yvonne, đã bỏ trốn cùng một người đàn ông, và Yvonne có vẻ đang che giấu điều gì đó.",
+ "boi_canh": "Phòng làm việc của Công tước Eckart, buổi sáng.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Yvonne",
+  "Emily",
+  "Công tước Eckart",
+  "Người hầu"
+ ],
+ "su_kien": [
+  "Derrick không về nhà.",
+  "Công tước tức giận vì Derrick đi đâu đó gần kinh đô.",
+  "Yvonne bị ốm và có những vết bầm tím trên bụng.",
+  "Hầu gái Emily biến mất sau khi bị cáo buộc đánh Yvonne.",
+  "Công tước đến thăm Yvonne trong phòng khách."
+ ],
+ "quan_he": [
+  {
+   "a": "Công tước Eckart",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "cha con, Công tước tức giận vì hành động của Derrick.",
+   "cach_goi": "gọi tên Derrick, lạnh lùng"
+  },
+  {
+   "a": "Derrick",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "con trai, Derrick không có mặt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "cha con, Công tước thích Reynold hơn Derrick.",
+   "cach_goi": "gọi tên Reynold, thô lỗ"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Người hầu",
+   "loai": "nguoi_la",
+   "mo_ta": "chủ và người hầu, Công tước hỏi về tình hình của Derrick.",
+   "cach_goi": "gọi 'Butler', lễ phép"
+  },
+  {
+   "a": "Người hầu",
+   "b": "Công tước Eckart",
+   "loai": "nguoi_la",
+   "mo_ta": "người hầu báo cáo tình hình cho Công tước.",
+   "cach_goi": "gọi 'Duke', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "cha con, Công tước thăm hỏi Yvonne.",
+   "cach_goi": "gọi tên Yvonne, thân mật"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "con gái và cha, Yvonne trả lời Công tước.",
+   "cach_goi": "gọi 'Duke', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Emily",
+   "loai": "nguoi_la",
+   "mo_ta": "Công tước nhắc đến Emily, người đã biến mất.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Leah",
+   "loai": "ban_be",
+   "mo_ta": "hầu gái của Yvonne, Leah đã bỏ trốn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Leah",
+   "loai": "nguoi_la",
+   "mo_ta": "Công tước nhắc đến Leah, người đã bỏ trốn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Emily: bị cáo buộc đánh Yvonne nhưng sau đó biến mất khỏi nhà tù."
+ ],
+ "stats": {
+  "tokens": 1078,
+  "seconds": 32.4
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "number": 49,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope đi mua sắm và tìm kiếm vũ khí, đặc biệt là một thanh kiếm nhỏ gọn. Cô cũng mua một chiếc bùa hộ mệnh để tặng cho Eckles. Sau đó, cô cùng Eckles đến Hồ Calia và đối mặt với những cảm xúc của anh về sự ngược đãi từ Reynold. Cuối cùng, Penelope khẳng định sẽ bảo vệ Eckles và giữ anh trong chức vị hiệp sĩ.",
+ "boi_canh": "Penelope đang mua sắm tại một cửa hàng buôn bán vũ khí ở thủ đô vào ban ngày.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Reynold",
+  "Arms Dealer"
+ ],
+ "su_kien": [
+  "Penelope mua một thanh kiếm nhỏ gọn từ người buôn bán vũ khí.",
+  "Người buôn bán vũ khí mô tả những đặc tính độc đáo của thanh kiếm, bao gồm cả việc nó được làm từ thép của người lùn cổ đại.",
+  "Penelope mua một chiếc bùa hộ mệnh để tặng cho Eckles.",
+  "Penelope và Eckles đi dạo quanh Hồ Calia.",
+  "Penelope đối chất với Eckles về sự ngược đãi mà anh phải chịu từ Reynold."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope là chủ nhân của Eckles, đang cố gắng giúp anh cải thiện tình hình.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "Eckles là nô lệ của Penelope, tỏ ra thờ ơ và có phần mỉa mai.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Arms Dealer",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope là khách hàng, người buôn bán vũ khí là người bán.",
+   "cach_goi": "gọi 'người buôn bán vũ khí', lễ phép"
+  },
+  {
+   "a": "Arms Dealer",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Người buôn bán vũ khí đang cố gắng bán hàng cho Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope đang tìm cách bảo vệ Eckles khỏi sự ngược đãi của Reynold.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "Eckles đang phải chịu sự ngược đãi từ Reynold.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (đã biết đến với danh tính thật của mình trong game)",
+  "Eckles (nô lệ, sau này trở thành hiệp sĩ)"
+ ],
+ "stats": {
+  "tokens": 829,
+  "seconds": 26.0
+ }
+}

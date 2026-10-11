@@ -1,0 +1,74 @@
+{
+ "number": 276,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào Penelope và con gái Judith. Judith trốn khỏi phòng và Penelope phải cảnh cáo cô bé về việc đi đâu phải báo trước. Sau đó, Penelope phát hiện ra Judith đã phá một mảnh gương vỡ trong tầng hầm và giấu nó trong váy của mình. Cuối chương, Penelope mơ thấy Gương Chân Lý xuất hiện và cho thấy hình ảnh bản thân ở kiếp trước trong bệnh viện.",
+ "boi_canh": "Trong phòng ngủ của Judith tại cung điện, vào một buổi tối.",
+ "nhan_vat": [
+  "Penelope",
+  "Judith",
+  "Callisto",
+  "Vinter",
+  "Yvonne",
+  "Judith Regulus",
+  "Judith"
+ ],
+ "su_kien": [
+  "Judith trốn khỏi phòng và đi đâu không báo trước.",
+  "Penelope cảnh cáo Judith về việc phá hoại đồ vật và đi đâu phải báo trước.",
+  "Penelope phát hiện Judith giấu mảnh Gương Chân Lý trong váy.",
+  "Penelope mơ thấy Gương Chân Lý xuất hiện.",
+  "Gương Chân Lý cho Penelope thấy hình ảnh bản thân ở kiếp trước."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Judith",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ và con gái. Penelope lo lắng cho Judith.",
+   "cach_goi": "gọi tên Judith, thân mật"
+  },
+  {
+   "a": "Judith",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái và mẹ. Judith nghịch ngợm, Penelope yêu thương nhưng nghiêm khắc.",
+   "cach_goi": "gọi 'Judy’s mom', thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Judith Regulus",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Judith: Con gái của Penelope và Callisto."
+ ],
+ "stats": {
+  "tokens": 754,
+  "seconds": 22.5
+ }
+}

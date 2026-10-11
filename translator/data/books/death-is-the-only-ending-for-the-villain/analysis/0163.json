@@ -1,0 +1,54 @@
+{
+ "number": 163,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trò chuyện với Thái tử Callisto, Penelope bày tỏ sự bất định về tương lai của mình và những gì cô thực sự mong muốn ở một người đàn ông. Callisto phản ứng gay gắt, dẫn đến một cuộc tranh luận căng thẳng. Sau đó, anh ta rời đi vội vàng và gặp Yvonne, con gái thất lạc của Công tước Eckart, trong tình trạng khó xử.",
+ "boi_canh": "Trong nhà kính thủy tinh, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Penelope bày tỏ sự bất định về tương lai của mình với Callisto.",
+  "Callisto phản ứng giận dữ trước những lời nói của Penelope.",
+  "Penelope đề nghị Callisto nên kết hôn với một người phụ nữ khác, ám chỉ Yvonne.",
+  "Callisto rời đi sau cuộc tranh luận căng thẳng.",
+  "Callisto gặp Yvonne và có một cuộc đối thoại ngắn gọn nhưng đầy căng thẳng."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope bày tỏ sự bất mãn và mong muốn của mình với Callisto, người có địa vị cao hơn.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto phản ứng gay gắt và tỏ ra khó chịu với Penelope.",
+   "cach_goi": "gọi 'Princess', lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope quan sát Yvonne từ xa, có vẻ như đang suy nghĩ về tương lai của cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Callisto gặp Yvonne một cách tình cờ sau khi rời khỏi Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 594,
+  "seconds": 17.8
+ }
+}

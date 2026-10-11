@@ -1,0 +1,97 @@
+{
+ "number": 233,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tiễn Callisto đi, Penelope quay lại hiện trường phục hồi Di Bàn Chân Lý. Cô lo lắng về việc Vinter có thể tái xuất hiện và gây ra những chuyện tồi tệ như trước đây. Trong lúc làm việc, cô phát hiện ra một mảnh vỡ bị đặt sai vị trí và giúp đỡ các pháp sư trẻ tuổi. Sau đó, cô gặp Marienne, người đề nghị cô tham gia chương trình khảo cổ của Học Viện Hoàng Gia.",
+ "boi_canh": "Hiện trường phục hồi Di Bàn Chân Lý vào buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Vinter",
+  "Yvonne",
+  "Marienne",
+  "Eckles"
+ ],
+ "su_kien": [
+  "Callisto rời cung mà không có kiếm.",
+  "Penelope phát hiện một mảnh vỡ của Di Bàn Chân Lý bị đặt sai vị trí.",
+  "Marienne đề nghị Penelope tham gia chương trình khảo cổ của Học Viện Hoàng Gia.",
+  "Penelope tìm thấy tất cả 15 mảnh vỡ còn lại của Di Bàn Chân Lý.",
+  "Penelope lắp ráp thành công các mảnh vỡ của Di Bàn Chân Lý."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Vợ chồng tương lai, Penelope tiễn Callisto đi.",
+   "cach_goi": "gọi tên Callisto, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Vợ chồng tương lai, Callisto rời khỏi cung.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope lo lắng về sự tái xuất hiện của Vinter.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope lo lắng về Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "ban_be",
+   "mo_ta": "Hai người gặp nhau tại hiện trường phục hồi.",
+   "cach_goi": "gọi tên Marienne, thân mật"
+  },
+  {
+   "a": "Marienne",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Hai người gặp nhau tại hiện trường phục hồi.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "chu_to",
+   "mo_ta": "Penelope là chủ nhân của Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marienne",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Marienne đề nghị Penelope tham gia Học Viện Hoàng Gia.",
+   "cach_goi": "gọi tên Penelope, trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope trả lời Marienne.",
+   "cach_goi": "gọi tên Marienne, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: nô lệ Penelope mua về, sau thành hiệp sĩ hộ vệ của cô.",
+  "Callisto: Thái tử Callisto Regulus",
+  "Vinter: Hầu tước Vinter Verdandi",
+  "Yvonne: con gái ruột thất lạc của Công tước Eckart"
+ ],
+ "stats": {
+  "tokens": 1032,
+  "seconds": 31.0
+ }
+}

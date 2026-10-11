@@ -1,0 +1,95 @@
+{
+ "number": 132,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope và những người khác đang đối mặt với một nghi lễ bí ẩn trong một hang động. Cô sử dụng phép thuật để phá vỡ nó, vô tình gây ra sự tàn phá lớn. Trong quá trình hỗn loạn, Penelope phát hiện ra Yvonne, nữ chính của chế độ thường, đang có mặt ở đó. Cuối cùng, họ phải trốn thoát khỏi hang động đang sụp đổ do sức mạnh phép thuật của Penelope, bị đuổi theo bởi một con sóng khổng lồ.",
+ "boi_canh": "Bên trong một hang động tối tăm, nơi diễn ra một nghi lễ bí ẩn.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Vinter",
+  "Yvonne",
+  "Raon"
+ ],
+ "su_kien": [
+  "Penelope phá vỡ nghi lễ bằng phép thuật.",
+  "Một trận chiến nổ ra giữa Penelope và những người mặc áo choàng đen.",
+  "Penelope nhìn thấy Yvonne, nữ chính của chế độ thường.",
+  "Hang động bắt đầu sụp đổ do sức mạnh phép thuật của Penelope.",
+  "Penelope và Callisto trốn thoát khỏi hang động bị tấn công bởi một con sóng khổng lồ."
+ ],
+ "quan_he": [
+  {
+   "a": "chief",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Người đứng đầu chỉ vào Penelope.",
+   "cach_goi": "gọi Penelope, không rõ (có lẽ là lịch sự)"
+  },
+  {
+   "a": "Penelope",
+   "b": "chief",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope bị chỉ vào.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope bế và nâng đỡ Raon.",
+   "cach_goi": "gọi tên Raon, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto gọi Penelope một cách lo lắng khi cô ấy bị choáng váng.",
+   "cach_goi": "gọi tên Penelope, lo lắng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope nhìn Callisto với vẻ bối rối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Vinter đã rời đi trước khi hang động sụp đổ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope nhìn thấy Yvonne, người mà cô biết từ game.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Crown Prince",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thanh niên hoàng gia thúc giục Penelope rời đi.",
+   "cach_goi": "gọi tên Penelope, nghiêm khắc"
+  },
+  {
+   "a": "Penelope",
+   "b": "Crown Prince",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope nhìn Hoàng tử với vẻ bối rối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus, một trong các nam chính của game.",
+  "Vinter: Hầu tước Vinter Verdandi, pháp sư, một trong các nam chính.",
+  "Yvonne: Con gái ruột thất lạc của Công tước Eckart, nữ chính của chế độ thường (normal mode) trong game."
+ ],
+ "stats": {
+  "tokens": 1033,
+  "seconds": 30.8
+ }
+}

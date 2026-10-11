@@ -1,0 +1,57 @@
+{
+ "number": 263,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope chào đón Bobby đến thăm và cùng nhau ăn quả mâm xôi mà cha của Bobby hái được. Sau đó, một sự cố nhỏ xảy ra khi Penelope cảm thấy buồn nôn sau khi ăn súp do Bobby làm, dẫn đến những hiểu lầm hài hước về khả năng mang thai của cô. Cuối cùng, Penelope quyết định đi Horte để kiểm tra bằng Madogu và yêu cầu Bobby chuẩn bị xe ngựa bí mật.",
+ "boi_canh": "Trong khu dân cư, vào buổi sáng.",
+ "nhan_vat": [
+  "Penelope",
+  "Bobby",
+  "Callisto",
+  "Jean"
+ ],
+ "su_kien": [
+  "Penelope chào đón Bobby đến thăm và cùng nhau ăn quả mâm xôi.",
+  "Penelope cảm thấy buồn nôn sau khi ăn súp do Bobby làm.",
+  "Bobby lo lắng về tình trạng của Penelope và hỏi han.",
+  "Penelope quyết định đi Horte để kiểm tra bằng Madogu.",
+  "Penelope yêu cầu Bobby chuẩn bị xe ngựa bí mật."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Bobby",
+   "loai": "gia_dinh",
+   "mo_ta": "Mẹ con, Penelope quan tâm và cảm ơn Bobby.",
+   "cach_goi": "gọi tên Bobby, thân mật"
+  },
+  {
+   "a": "Bobby",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái, Bobby quan tâm và lo lắng cho Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Bạn trai, Penelope nhớ lại những ký ức về Callisto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Jean",
+   "loai": "thay_tro",
+   "mo_ta": "Người hầu, Penelope muốn nhờ Jean giúp đỡ nhưng không muốn để lộ bí mật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus; một trong các nam chính của game"
+ ],
+ "stats": {
+  "tokens": 596,
+  "seconds": 17.8
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "number": 134,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị Thái tử Callisto hôn một cách đột ngột, Penelope vô cùng bối rối và xấu hổ. Cô cố gắng trấn an bản thân nhưng không được. Sau đó, Raon tình cờ chứng kiến sự việc và bắt đầu trêu chọc cô. Hầu tước Vinter xuất hiện giúp che giấu chuyện này. Trong khi đó, Thái tử Callisto đã bí mật sử dụng một chiếc bản đồ cổ để tìm kiếm Penelope, dẫn đến những rắc rối tại cung điện Hoàng gia.",
+ "boi_canh": "Bãi biển cát trắng, buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Vinter",
+  "Cedric",
+  "Raon",
+  "Ellen"
+ ],
+ "su_kien": [
+  "Thái tử Callisto hôn Penelope.",
+  "Raon vô tình chứng kiến và trêu chọc Penelope.",
+  "Hầu tước Vinter xuất hiện để giúp che giấu sự việc.",
+  "Thái tử Callisto sử dụng bản đồ cổ bí mật để tìm kiếm Penelope.",
+  "Cedric, tùy viên thân cận của Thái tử, bày tỏ sự lo lắng về hành động của Thái tử."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ phức tạp, Penelope vừa bối rối vừa khó chịu với Thái tử.",
+   "cach_goi": "gọi tên 'Callisto', không rõ cảm xúc"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Thái tử có vẻ bị Penelope thu hút, nhưng Penelope không chắc chắn về cảm xúc của anh.",
+   "cach_goi": "gọi tên 'Penelope', thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ quen biết nhau, Penelope gọi Vinter một cách tự nhiên.",
+   "cach_goi": "gọi tên 'Vinter', thân thiện"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Vinter giúp Penelope che giấu sự việc với Thái tử.",
+   "cach_goi": "gọi tên 'Penelope', lịch sự"
+  },
+  {
+   "a": "Raon",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Raon là một cậu bé tinh nghịch, thích trêu chọc Penelope.",
+   "cach_goi": "gọi tên 'Penelope', thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Penelope bối rối khi Raon trêu chọc cô.",
+   "cach_goi": "gọi tên 'Raon', thân mật"
+  },
+  {
+   "a": "Cedric",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Cedric là tùy viên của Thái tử, tỏ ra lo lắng về hành động của anh.",
+   "cach_goi": "gọi 'Your Grace', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Cedric",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử có vẻ hơi khó chịu với Cedric.",
+   "cach_goi": "gọi tên 'Cedric', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính nhân vật trong chương này."
+ ],
+ "stats": {
+  "tokens": 954,
+  "seconds": 28.6
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "number": 7,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi rời khỏi phòng Công tước, Penelope bị Derrick chặn lại và đối chất về hành vi của cô. Để tránh rắc rối, Penelope đã xin lỗi và hứa sẽ im lặng hơn. Tuy nhiên, sau đó cô bị chóng mặt và suýt ngã, được Derrick đỡ lấy. Anh ta biết rõ sự thật nhưng vẫn cố tình đổ tội cho Penelope, khiến cô phải vội vàng rời đi.",
+ "boi_canh": "Hành lang trong phủ Công tước Eckart, vào một buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Emily",
+  "Công tước (không xuất hiện)"
+ ],
+ "su_kien": [
+  "Penelope rời khỏi phòng Công tước và bị Derrick chặn lại.",
+  "Derrick buộc tội Penelope về việc đuổi người hầu gái Emily đi.",
+  "Penelope xin lỗi và hứa sẽ im lặng hơn.",
+  "Penelope suýt ngã và được Derrick đỡ lấy.",
+  "Derrick biết rõ sự thật nhưng vẫn đổ tội cho Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Derrick nghi ngờ và đối đầu với Penelope. Mối quan hệ căng thẳng.",
+   "cach_goi": "gọi tên Derrick, lạnh lùng"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Derrick nghi ngờ và đối đầu với Penelope. Mối quan hệ căng thẳng.",
+   "cach_goi": "gọi tên Penelope, thô lỗ"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope và Emily không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Emily",
+   "loai": "nguoi_la",
+   "mo_ta": "Derrick và Emily không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính mới."
+ ],
+ "stats": {
+  "tokens": 590,
+  "seconds": 18.6
+ }
+}

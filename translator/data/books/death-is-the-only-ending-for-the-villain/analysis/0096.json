@@ -1,0 +1,41 @@
+{
+ "number": 96,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra trong phòng ngủ của Thái tử Callisto, nơi Penelope đến kiểm tra tình hình sức khỏe của ông. Cô nhận thấy tình trạng của ông đã cải thiện đáng kể so với những ngày trước đó. Sau khi trò chuyện ngắn gọn, Callisto đột ngột tỉnh lại và bắt đầu trêu chọc Penelope, khiến cô bối rối và nhận ra mức độ hảo cảm của mình đối với anh đã tăng lên.",
+ "boi_canh": "Phòng ngủ Thái tử, vài ngày sau khi ông bị đầu độc.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto"
+ ],
+ "su_kien": [
+  "Penelope kiểm tra tình trạng của Callisto và nhận thấy sức khỏe của anh đã tốt hơn.",
+  "Callisto đột ngột tỉnh lại khi Penelope đang thăm khám.",
+  "Callisto trêu chọc Penelope về việc cô thường xuyên đến kiểm tra sức khỏe của anh.",
+  "Penelope phát hiện mức độ hảo cảm của mình đối với Callisto đã tăng lên.",
+  "Cuộc trò chuyện giữa hai người tiết lộ một số thông tin về tình hình chính trị và những sự kiện xảy ra trong thời gian Callisto bất tỉnh."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope là người ngoài cuộc đến thăm Thái tử đang bệnh.",
+   "cach_goi": "gọi tên Callisto, không rõ"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Callisto là người bệnh đang hồi phục và trêu chọc Penelope.",
+   "cach_goi": "gọi tên Penelope, trêu chọc"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus"
+ ],
+ "stats": {
+  "tokens": 470,
+  "seconds": 14.0
+ }
+}

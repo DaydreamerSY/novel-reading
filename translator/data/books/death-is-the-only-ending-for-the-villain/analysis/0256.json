@@ -1,0 +1,89 @@
+{
+ "number": 256,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hòa giải với Thái tử Callisto và trở về cung điện, Penelope bắt đầu một ngày bận rộn với việc thành lập đội khảo sát di tích quốc gia và các dự án tái thiết văn hóa. Cô gặp phải những lời bàn tán xung quanh vị trí mới của mình và sự thay đổi thái độ của Công tước Terosi. Cuối cùng, Callisto thông báo về đính ước giữa hai người và Penelope chuẩn bị cho việc rời khỏi cung điện, nhưng lại bị Reynold đột nhập vào phòng.",
+ "boi_canh": "Trong phòng trang điểm của Penelope tại Cung điện Hoàng gia, vào ngày cô chuẩn bị rời đi.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Reynold",
+  "Cedric",
+  "Marienne",
+  "Công tước Terosi",
+  "Lính canh"
+ ],
+ "su_kien": [
+  "Thái tử Callisto thành lập đội khảo sát di tích quốc gia.",
+  "Marienne được bổ nhiệm làm trưởng phòng và nhận sự hỗ trợ từ các đồng nghiệp.",
+  "Callisto thông báo về đính ước giữa anh và Penelope.",
+  "Penelope chuẩn bị cho việc rời khỏi cung điện.",
+  "Reynold đột nhập vào phòng Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Đính ước với nhau, Penelope có vẻ bối rối và trêu chọc anh.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Lo lắng cho Penelope và muốn bảo vệ cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Marienne",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Marienne tỏ ra vui mừng và có phần điên cuồng khi biết tin.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "ban_be",
+   "mo_ta": "Không giao tiếp trực tiếp nhưng Penelope có vẻ hơi khó chịu với sự phấn khích của Marienne.",
+   "cach_goi": "gọi tên Marienne, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cedric",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thuộc hạ của Callisto, Cedric tỏ ra vui mừng và trêu chọc Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "cap_tren",
+   "mo_ta": "Không giao tiếp trực tiếp nhưng Penelope có vẻ khó chịu với sự trêu chọc của Cedric.",
+   "cach_goi": "gọi tên Cedric, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope, Reynold đột nhập vào phòng cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Không giao tiếp trực tiếp nhưng Penelope có vẻ ngạc nhiên khi thấy Reynold.",
+   "cach_goi": "gọi tên Reynold, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart: Nhân vật chính, con gái nuôi nhà Công tước Eckart.",
+  "Callisto Regulus: Thái tử, đính ước với Penelope."
+ ],
+ "stats": {
+  "tokens": 1007,
+  "seconds": 30.2
+ }
+}

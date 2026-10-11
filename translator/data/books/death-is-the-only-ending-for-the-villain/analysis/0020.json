@@ -1,0 +1,106 @@
+{
+ "number": 20,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với cảnh Penelope và Reynold cùng Derrick đi dạo phố trong lễ hội, nơi Penelope tỏ ra thờ ơ. Cô tìm cách trốn tránh việc mua sắm đồ trang sức và đang lo lắng về việc tìm Eckles. Sau đó, cô bị Reynold lôi vào một cửa hàng bán đồ trang sức, rồi vô tình kích hoạt sự kiện đặc biệt liên quan đến Eckles thông qua một thông báo hệ thống, đưa cô đến khu chợ nô lệ để giải cứu anh.",
+ "boi_canh": "Lễ hội đêm tại thành phố, nơi có nhiều đèn lồng và các gian hàng khác nhau.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold"
+ ],
+ "su_kien": [
+  "Penelope và Reynold cùng Derrick đi dạo trong lễ hội.",
+  "Penelope vô tình kích hoạt sự kiện 'The Unlucky Slave From A Defeated Country, Eckles'.",
+  "Penelope mua một chiếc mặt nạ trắng tại chợ.",
+  "Penelope bị tách khỏi Reynold và Derrick sau khi tay áo của Derrick bị rách.",
+  "Penelope đến khu chợ nô lệ."
+ ],
+ "quan_he": [
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi trêu chọc và quan tâm đến cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Cô trả lời anh một cách hờ hững.",
+   "cach_goi": "gọi tên Reynold, không thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi đi theo sau Penelope và Reynold.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi đi theo sau Penelope và Reynold.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người bán hàng",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Người bán hàng chào đón Penelope và Derrick.",
+   "cach_goi": "gọi 'dear customers', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Cô nhìn anh một cách mơ hồ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người bán hàng",
+   "b": "Derrick",
+   "loai": "nguoi_la",
+   "mo_ta": "Người bán hàng khen Derrick.",
+   "cach_goi": "gọi 'mister', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Cô quát anh.",
+   "cach_goi": "gọi tên Reynold, không thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Anh hỏi cô một cách lo lắng.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Người dẫn chương trình đấu giá",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Anh giới thiệu Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người dẫn chương trình đấu giá",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Anh giới thiệu Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Nút áo của Derrick: Biểu tượng gia tộc Eckart."
+ ],
+ "stats": {
+  "tokens": 1104,
+  "seconds": 34.9
+ }
+}

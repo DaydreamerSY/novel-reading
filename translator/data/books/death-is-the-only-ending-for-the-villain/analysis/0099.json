@@ -1,0 +1,70 @@
+{
+ "number": 99,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi giành chiến thắng trong cuộc thi săn bắn, Penelope được ca ngợi là nữ hoàng săn bắn và nhận được phần thưởng lớn. Cô ấy cảm thấy thất vọng vì phần thưởng không như mong đợi nhưng vẫn vui vẻ khi thấy hầu gái Emily phấn khích. Sau đó, Reynold đến phòng cô với mục đích đưa tin về bữa tối gia đình, và cuộc trò chuyện giữa họ xoay quanh những hiểu lầm về việc Penelope buồn bã vì không được nhận phần thưởng săn bắn của anh ta.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại Lâu đài Eckart sau khi kết thúc cuộc thi săn bắn.",
+ "nhan_vat": [
+  "Penelope",
+  "Reynold",
+  "Emily",
+  "Vinter",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Penelope giành chiến thắng trong cuộc thi săn bắn và được gọi là nữ hoàng săn bắn.",
+  "Emily thể hiện sự phấn khích của mình về chiến thắng của Penelope.",
+  "Penelope nhận thấy phần thưởng không lớn như mong đợi.",
+  "Reynold đến phòng Penelope để thông báo về bữa tối gia đình.",
+  "Reynold đưa cho Penelope những con thỏ mà anh ta đã săn được."
+ ],
+ "quan_he": [
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Hầu gái riêng của Penelope, rất vui mừng vì chiến thắng của cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Chủ nhân của Emily, cảm thấy vui vẻ khi thấy hầu gái phấn khích.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi của Penelope, đến thông báo về bữa tối gia đình và có vẻ hơi lo lắng.",
+   "cach_goi": "gọi tên Penelope, thân mật nhưng có chút trêu chọc"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi của Penelope, tỏ ra khó chịu với sự giàu có của cô.",
+   "cach_goi": "gọi tên Reynold, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 783,
+  "seconds": 23.6
+ }
+}

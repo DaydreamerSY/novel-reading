@@ -1,0 +1,113 @@
+{
+ "number": 213,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị thương ở mũi, Penelope được Thái tử Callisto chăm sóc chu đáo. Sự việc thu hút sự chú ý của Công tước Eckart và các anh trai nuôi của cô. Trong lúc đó, Yvonne xuất hiện cùng Derrick, dẫn đến một cuộc đối đầu căng thẳng giữa họ. Cuối cùng, những mảnh xác quái vật bị cắt đứt bắt đầu tái hợp lại, tạo ra một mối đe dọa mới.",
+ "boi_canh": "Trong vườn nhà Công tước Eckart, sau khi Penelope bị thương.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Penelope bị thương ở mũi.",
+  "Callisto chăm sóc vết thương cho Penelope.",
+  "Công tước Eckart và các anh trai nuôi của Penelope xuất hiện.",
+  "Cuộc đối đầu giữa Penelope và Yvonne, cùng sự xuất hiện của Derrick.",
+  "Những mảnh xác quái vật bị cắt đứt bắt đầu tái hợp lại."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope được Callisto chăm sóc sau khi bị thương; mối quan hệ chưa rõ.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Callisto chăm sóc vết thương cho Penelope; mối quan hệ chưa rõ.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi của Công tước; mối quan hệ cha con.",
+   "cach_goi": "gọi 'father', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi của Penelope; mối quan hệ cha con.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope; mối quan hệ anh em.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope; mối quan hệ anh em.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope; mối quan hệ anh em.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope; mối quan hệ anh em.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Penelope; mối quan hệ thù địch.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Penelope; mối quan hệ thù địch.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Derrick",
+   "loai": "khac",
+   "mo_ta": "Yvonne đang giữ Derrick; mối quan hệ không rõ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Yvonne",
+   "loai": "khac",
+   "mo_ta": "Yvonne đang giữ Derrick; mối quan hệ không rõ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1167,
+  "seconds": 34.9
+ }
+}

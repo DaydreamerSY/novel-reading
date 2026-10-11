@@ -1,0 +1,56 @@
+{
+ "number": 236,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi cãi vã với Penelope, bữa ăn kết thúc dần. Penelope hào hứng thưởng thức món chè dưa hấu tráng miệng thì một cận thần của Callisto xông vào phòng ăn báo cáo sự việc khẩn cấp. Callisto tỏ ra khó chịu và hẹn gặp mặt quan trọng. Sau đó, Penelope nhắc nhở anh về cuộc hẹn với thầy thuốc. Cuối cùng, họ trao nhau một nụ hôn bất ngờ trước khi Callisto tuyên bố sẽ kết hôn với Penelope.",
+ "boi_canh": "Phòng ăn hoàng cung, sau bữa trưa.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Yvonne",
+  "Ellen",
+  "Cận thần của Callisto"
+ ],
+ "su_kien": [
+  "Một cận thần báo cáo sự việc khẩn cấp với Callisto.",
+  "Callisto hủy bỏ bữa ăn để tham dự một cuộc họp quan trọng.",
+  "Penelope nhắc nhở Callisto về cuộc hẹn với thầy thuốc.",
+  "Callisto bất ngờ hôn Penelope lên môi.",
+  "Callisto tuyên bố anh và Penelope sẽ kết hôn."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "tình cảm đôi bên, có chút cãi vã nhưng cũng rất gần gũi.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "tình cảm đôi bên, có chút cãi vã nhưng cũng rất gần gũi.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Cận thần của Callisto",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "cận thần báo cáo sự việc khẩn cấp cho Hoàng tử.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Cận thần của Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng tử ra lệnh cho cận thần.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 606,
+  "seconds": 18.4
+ }
+}

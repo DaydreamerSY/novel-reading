@@ -1,0 +1,64 @@
+{
+ "number": 138,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope và Eckles luyện kiếm nhưng không thành công. Penelope nhận ra sự thay đổi trong suy nghĩ của Eckles về cô, cũng như những cảm xúc phức tạp mà anh dành cho mình. Cô trao cho anh một món quà là thảo dược và thuốc chữa bệnh, khiến favorability của anh tăng vọt, nhưng đồng thời làm dấy lên lo ngại về việc liệu cô có thể đạt được kết thúc mong muốn hay không. Cuối cùng, người hầu báo tin hoàng tử phái người đến, báo hiệu những rắc rối sắp tới liên quan đến Soleil.",
+ "boi_canh": "Một buổi chiều trên sân tập kiếm của nhà Công tước Eckart.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Sir Spencer",
+  "Butler"
+ ],
+ "su_kien": [
+  "Penelope và Eckles luyện kiếm nhưng không thành công.",
+  "Penelope suy nghĩ về những cảm xúc phức tạp của Eckles dành cho cô.",
+  "Penelope trao thảo dược và thuốc chữa bệnh cho Eckles.",
+  "Favorability của Eckles tăng vọt lên 96%.",
+  "Người hầu báo tin hoàng tử phái người đến."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "chu_to",
+   "mo_ta": "chủ nhân và nô lệ, Penelope có quyền lực hơn nhưng Eckles có những suy nghĩ phức tạp về cô.",
+   "cach_goi": "gọi tên Eckles, không rõ cảm xúc"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "nô lệ và chủ nhân, Eckles có những cảm xúc phức tạp về Penelope.",
+   "cach_goi": "gọi tên Penelope, tôn trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Sir Spencer",
+   "loai": "thay_tro",
+   "mo_ta": "giáo viên và học trò, Penelope nhớ lời khuyên của Sir Spencer.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Butler",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là chủ nhân, Butler là người hầu.",
+   "cach_goi": "gọi 'Butler', lễ phép"
+  },
+  {
+   "a": "Butler",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "người hầu báo tin cho chủ nhân.",
+   "cach_goi": "gọi 'my lady', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles từng là nô lệ, hận Penelope và đế chế Inca."
+ ],
+ "stats": {
+  "tokens": 705,
+  "seconds": 21.1
+ }
+}

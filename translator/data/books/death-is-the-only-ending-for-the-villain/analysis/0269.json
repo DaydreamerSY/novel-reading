@@ -1,0 +1,61 @@
+{
+ "number": 269,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope tỉnh dậy trong một nghi lễ kỳ lạ với những người đội mũ trùm đầu trắng và bị Callisto kéo ra. Họ đang ở trong một hang động ngầm có hồ nước lớn, nơi Penelope phát hiện ra tàn tích của các pháp sư cổ đại sau khi nước rút cạn. Cô tìm thấy những văn bản cổ nói về một cuộc thi kỳ lạ giữa thú vật và thực vật, gợi ý rằng sự biến đổi thành quái vật có thể liên quan đến các pháp sư cổ đại.",
+ "boi_canh": "Một hang động ngầm sâu dưới lòng đất, nơi có hồ nước lớn.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Marienne"
+ ],
+ "su_kien": [
+  "Penelope tỉnh dậy trong một nghi lễ kỳ lạ với những người đội mũ trùm đầu trắng.",
+  "Callisto kéo Penelope ra khỏi nghi lễ.",
+  "Họ phát hiện ra mình đang ở trong một hang động ngầm có hồ nước lớn.",
+  "Nước trong hồ cạn đi, để lộ tàn tích của các pháp sư cổ đại.",
+  "Penelope tìm thấy những văn bản cổ nói về một cuộc thi kỳ lạ giữa thú vật và thực vật."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Callisto lo lắng cho Penelope và ôm cô ấy sau khi cô bất tỉnh.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Callisto lo lắng cho Penelope và ôm cô ấy sau khi cô bất tỉnh.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp, Penelope đề cập đến Marienne trong một câu nói.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto nhắc nhở và mắng Penelope vì hành động bốc đồng.",
+   "cach_goi": "gọi tên Penelope, trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Penelope phản ứng lại lời mắng của Callisto.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 696,
+  "seconds": 20.9
+ }
+}

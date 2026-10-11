@@ -1,0 +1,69 @@
+{
+ "number": 36,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi quyết định không sử dụng [Ân huệ], Penelope gặp Vinter bất ngờ. Cô cố gắng trốn khỏi dinh thự để về nhà trước Derrick, nhưng cuối cùng bị anh bắt gặp tại một lỗ hổng trên tường. Derrick nghi ngờ hành động của cô và đòi lời giải thích, khiến Penelope phải chấp nhận chịu phạt.",
+ "boi_canh": "Trong một con hẻm tối tăm gần dinh thự Eckart vào buổi tối.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Penelope gặp Vinter bất ngờ và sử dụng [Ân huệ] để đến Hamilton street.",
+  "Cô trốn thoát khỏi dinh thự thông qua một lỗ hổng trên tường.",
+  "Derrick bắt gặp Penelope khi cô đang trèo qua lỗ hổng đó.",
+  "Vinter đưa Penelope đến Hamilton street bằng phép thuật.",
+  "Penelope bị Derrick bắt và phải đối mặt với hình phạt."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau bất ngờ và Penelope nhờ Vinter giúp đỡ.",
+   "cach_goi": "gọi tên Vinter, không rõ cảm xúc"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau bất ngờ và Penelope nhờ Vinter giúp đỡ.",
+   "cach_goi": "gọi tên Penelope, lịch sự"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, mối quan hệ căng thẳng và nghi ngờ.",
+   "cach_goi": "gọi tên Derrick, dè dặt"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, mối quan hệ căng thẳng và nghi ngờ.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "ban_be",
+   "mo_ta": "Nô lệ Penelope mua về, hiện là người bảo vệ của cô; Penelope lo lắng cho anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Nô lệ Penelope mua về, hiện là người bảo vệ của cô; Penelope lo lắng cho anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 743,
+  "seconds": 23.3
+ }
+}

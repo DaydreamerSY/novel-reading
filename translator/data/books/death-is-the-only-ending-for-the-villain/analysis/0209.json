@@ -1,0 +1,73 @@
+{
+ "number": 209,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong văn phòng tối tăm, Vinter và Yvonne có cuộc đối đầu căng thẳng xoay quanh những lời buộc tội và sự thật bị che giấu. Yvonne cáo buộc Vinter đã xa lánh cô và đổ lỗi cho Penelope về những đau khổ của mình. Vinter phản bác bằng cách vạch trần những hành động lừa dối của Yvonne, bao gồm cả việc sử dụng độc dược và thao túng tâm trí. Cuộc đối đầu leo thang khi Yvonne cố gắng sử dụng một mảnh gương để điều khiển tâm trí Vinter, nhưng anh ta đã được bảo vệ bởi một cổ vật ma thuật. Raon xuất hiện kịp thời để ngăn chặn Vinter tấn công Yvonne.",
+ "boi_canh": "Trong văn phòng tối tăm của lâu đài Eckart, vào một buổi tối đầy căng thẳng.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "Yvonne",
+  "Raon",
+  "Becky"
+ ],
+ "su_kien": [
+  "Vinter đóng cửa văn phòng để ngăn chặn người ngoài.",
+  "Yvonne cáo buộc Vinter đã xa lánh cô và đổ lỗi cho Penelope.",
+  "Vinter vạch trần những hành động lừa dối của Yvonne, bao gồm cả việc sử dụng độc dược.",
+  "Yvonne cố gắng điều khiển tâm trí Vinter bằng một mảnh gương.",
+  "Raon xuất hiện để ngăn chặn Vinter tấn công Yvonne."
+ ],
+ "quan_he": [
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "khac",
+   "mo_ta": "Vinter lo lắng cho Penelope, sợ cô sẽ bị tổn thương khi Yvonne lộ diện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Vinter",
+   "loai": "doi_thu",
+   "mo_ta": "Yvonne cố gắng thao túng và lừa dối Vinter để đạt được mục đích của mình.",
+   "cach_goi": "gọi tên Vinter, thân mật"
+  },
+  {
+   "a": "Vinter",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Vinter phớt lờ sự đau khổ của Yvonne và vạch trần những hành động sai trái của cô.",
+   "cach_goi": "gọi tên Yvonne, lạnh lùng"
+  },
+  {
+   "a": "Raon",
+   "b": "Vinter",
+   "loai": "ban_be",
+   "mo_ta": "Raon bảo vệ Vinter khỏi Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Yvonne đổ lỗi cho Penelope về những đau khổ của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Raon",
+   "loai": "thay_tro",
+   "mo_ta": "Vinter triệu hồi Raon để giúp đỡ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Yvonne có vẻ ngoài khác thường, một nửa mặt bị che khuất bởi bóng tối.",
+  "Vinter sử dụng một chiếc nhẫn cổ trên ngón tay trỏ để bảo vệ mình khỏi điều khiển tâm trí."
+ ],
+ "stats": {
+  "tokens": 858,
+  "seconds": 25.7
+ }
+}

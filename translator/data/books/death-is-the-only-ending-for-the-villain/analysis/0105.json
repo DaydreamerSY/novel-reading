@@ -1,0 +1,72 @@
+{
+ "number": 105,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi người quản gia báo cáo danh sách nhà đầu tư mỏ đá quý Emerald Đông Nam, Penelope đã nhanh chóng nắm bắt tình hình tài chính và lên kế hoạch bán tháo các loại đá quý chất lượng thấp để thu hút sự chú ý. Cô cũng yêu cầu người quản gia sắp xếp cuộc gặp với Eckles và ra lệnh cho anh ta mặc quần áo săn bắn mới. Sau đó, Penelope tìm đến nhà kính thủy tinh để thư giãn và vô tình bị Eckles bắt gặp đang ngủ.",
+ "boi_canh": "Sáng sớm ngày hôm sau tại phòng làm việc của Penelope.",
+ "nhan_vat": [
+  "Penelope",
+  "Người quản gia",
+  "Eckles",
+  "Derrick",
+  "Reynold"
+ ],
+ "su_kien": [
+  "Người quản gia đưa danh sách nhà đầu tư mỏ đá quý Emerald Đông Nam cho Penelope.",
+  "Penelope lên kế hoạch bán tháo các loại đá quý chất lượng thấp để thu hút sự chú ý.",
+  "Penelope yêu cầu người quản gia sắp xếp cuộc gặp với Eckles và ra lệnh cho anh ta mặc quần áo săn bắn mới.",
+  "Penelope tìm đến nhà kính thủy tinh để thư giãn.",
+  "Eckles bắt gặp Penelope đang ngủ trong nhà kính."
+ ],
+ "quan_he": [
+  {
+   "a": "Người quản gia",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "người quản gia báo cáo công việc và tuân theo chỉ thị của Penelope.",
+   "cach_goi": "gọi 'miss', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Người quản gia",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope ra lệnh và hỏi thông tin từ người quản gia.",
+   "cach_goi": "gọi 'sir', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope ra lệnh cho Eckles và quan tâm đến trang phục của anh ta.",
+   "cach_goi": "gọi tên 'Eckles', thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "Eckles tuân theo lệnh của Penelope và tỏ ra tôn trọng.",
+   "cach_goi": "gọi 'Master', lễ phép"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "anh trai nuôi của Penelope, có vẻ không hài lòng với việc Penelope được thừa kế mỏ đá quý.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "anh trai nuôi của Penelope, có vẻ không hài lòng với việc Penelope được thừa kế mỏ đá quý.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope là con gái ngoài giá luật của một gia đình giàu có (chaebol)."
+ ],
+ "stats": {
+  "tokens": 819,
+  "seconds": 24.5
+ }
+}

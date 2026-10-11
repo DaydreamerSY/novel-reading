@@ -1,0 +1,62 @@
+{
+ "number": 186,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị Penelope hét vào mặt vì sự xuất hiện bất ngờ của Reynold, hai người đã có một cuộc đối thoại căng thẳng. Reynold lo lắng về việc Penelope trốn thoát và tìm cách ngăn cản cô. Sau đó, họ cùng nhau khám phá một đường hầm bí mật mà Penelope vô tình phát hiện ra. Cuối cùng, Reynold bộc lộ những cảm xúc sâu kín của mình về sự hối hận và xin lỗi Penelope vì những hành động trước đây.",
+ "boi_canh": "Sáng sớm tại khuôn viên nhà Công tước Eckart.",
+ "nhan_vat": [
+  "Penelope",
+  "Reynold",
+  "Yvonne",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope hét lên khi Reynold bất ngờ xuất hiện.",
+  "Reynold ngăn cản Penelope trốn thoát khỏi nhà.",
+  "Họ cùng nhau khám phá một đường hầm bí mật.",
+  "Reynold bộc lộ sự hối hận và xin lỗi Penelope vì những hành động trước đây.",
+  "Penelope rời đi sau khi Reynold bày tỏ cảm xúc của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ căng thẳng, Penelope coi thường Reynold.",
+   "cach_goi": "gọi tên Reynold, lạnh lùng"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Lo lắng về hành động của Penelope, muốn ngăn cản cô.",
+   "cach_goi": "gọi tên Penelope, lo lắng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ, Emily là hầu gái riêng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi ăn năn vì những hành động trước đây.",
+   "cach_goi": "gọi tên Penelope, hối lỗi"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope trả lời lạnh lùng.",
+   "cach_goi": "gọi tên Reynold, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 664,
+  "seconds": 20.0
+ }
+}

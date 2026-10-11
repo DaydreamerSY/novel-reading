@@ -1,0 +1,106 @@
+{
+ "number": 224,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Thái tử Callisto đột ngột tấn công cung điện Hoàng gia, giết chết nhiều binh lính và gây ra hỗn loạn. Penelope quan sát sự kiện từ một lối đi bí mật, sau đó giải cứu những con tin nhưng phát hiện Raon bị tẩy não và Yvonne biến mất cùng kho báu của hoàng đế.",
+ "boi_canh": "Bên trong cung điện Hoàng gia, giữa lúc xảy ra một vụ tấn công bất ngờ.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Yvonne",
+  "Emily",
+  "Raon",
+  "Ellen",
+  "Hoàng đế (đã chết)",
+  "Nữ hoàng",
+  "Thái tử thứ hai"
+ ],
+ "su_kien": [
+  "Thái tử Callisto tấn công cung điện Hoàng gia, giết nhiều binh lính.",
+  "Penelope giải cứu những con tin khỏi nhà giam.",
+  "Raon bị tẩy não và tấn công mọi người xung quanh.",
+  "Yvonne biến mất cùng kho báu của hoàng đế thông qua một lối đi bí mật.",
+  "Thái tử Callisto đuổi theo Yvonne vào lối đi bí mật."
+ ],
+ "quan_he": [
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "khac",
+   "mo_ta": "Thái tử tấn công mà không hề biết Penelope đang quan sát.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "khac",
+   "mo_ta": "Penelope quan sát hành động của Thái tử.",
+   "cach_goi": "gọi tên Callisto, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Thái tử đuổi theo Yvonne để chiếm đoạt kho báu.",
+   "cach_goi": "gọi tên Yvonne, lạnh lùng"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Yvonne trốn chạy khỏi Thái tử.",
+   "cach_goi": "gọi tên Callisto, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope và Emily là hầu gái của nhau.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Emily giúp đỡ Penelope giải cứu con tin.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Raon",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Raon bị tẩy não và tấn công Penelope.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Penelope cố gắng trấn an Raon.",
+   "cach_goi": "gọi tên Raon, thân mật"
+  },
+  {
+   "a": "Ellen",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Hầu tước Ellen cố gắng ngăn cản hành động của Thái tử.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử chế nhạo Hầu tước Ellen.",
+   "cach_goi": "gọi tên Ellen, trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus (một trong các nam chính của game)",
+  "Yvonne: Con gái ruột thất lạc của Công tước Eckart, nữ chính của chế độ thường",
+  "Raon: Cậu bé pháp sư đeo mặt nạ sư tử"
+ ],
+ "stats": {
+  "tokens": 1102,
+  "seconds": 33.0
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "number": 110,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope và Thái tử Callisto thảo luận về những sự kiện năm ngoái liên quan đến Công tước Kellin và Nữ công tước Dorothea. Penelope tiết lộ thông tin chi tiết về các âm mưu và trò đùa mà cô đã trải qua, khiến Callisto vừa bất ngờ vừa thích thú. Cuối cùng, Callisto trao cho Penelope một phong bì trắng chứa tài sản quý giá, và Penelope phát hiện ra một người quen bí ẩn trong rừng.",
+ "boi_canh": "Trong phòng kín, Penelope và Thái tử Callisto đang trò chuyện về những sự kiện năm ngoái.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Công tước Kellin",
+  "Nữ công tước Dorothea",
+  "Tiffa Tijang"
+ ],
+ "su_kien": [
+  "Penelope và Callisto thảo luận về việc tái điều tra vụ án năm ngoái.",
+  "Penelope kể lại những trò đùa và âm mưu của Nữ công tước Dorothea.",
+  "Callisto bày tỏ sự ngạc nhiên và thích thú trước những gì Penelope trải qua.",
+  "Callisto trao cho Penelope một phong bì trắng chứa tài sản quý giá.",
+  "Penelope nhìn thấy Eckles trong rừng."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là người được Thái tử bảo vệ và quan tâm.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử Callisto có vẻ thích thú và quan tâm đến Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope thoáng nhìn thấy Eckles trong rừng, không rõ mối quan hệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử Callisto có vẻ thích trêu chọc Penelope.",
+   "cach_goi": "gọi tên Penelope, trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope có vẻ bối rối và khó chịu trước sự trêu chọc của Thái tử.",
+   "cach_goi": "gọi tên Callisto, không thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Tiffa Tijang (có thể là địa điểm thi đấu săn bắn)"
+ ],
+ "stats": {
+  "tokens": 732,
+  "seconds": 21.9
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "number": 261,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với tiếng còi báo động đánh thức Penelope khi bình minh vừa đến. Cô vội vã chuẩn bị đồ đạc để đối phó với quái vật tấn công làng Mall Trban. Jean, một quan chức trẻ tài năng, đã cứu cô khỏi một con ong khổng lồ bằng phép thuật. Sau đó, họ phát hiện ra một lượng lớn xác động vật chết bất thường gần khu rừng, gợi ý về một cuộc chiến tranh giành lãnh thổ hoặc một thế lực bí ẩn nào đó. Cuối cùng, Marienne xuất hiện và nhắc nhở Penelope về việc cô đã lâu không liên lạc với Callisto, dẫn đến sự hoảng loạn của Jean vì sợ bị trách mắng.",
+ "boi_canh": "Buổi sáng sớm tại làng Mall Trban.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Cedric",
+  "Marienne",
+  "Jean"
+ ],
+ "su_kien": [
+  "Quái vật tấn công làng Mall Trban vào buổi sáng sớm.",
+  "Jean sử dụng phép 'Đóng băng tay' để tiêu diệt con ong khổng lồ.",
+  "Penelope và Jean phát hiện ra một lượng lớn xác động vật chết gần khu rừng.",
+  "Marienne xuất hiện và nhắc nhở Penelope về việc cô đã lâu không liên lạc với Callisto.",
+  "Jean lo lắng vì sợ bị trách mắng nếu Penelope không thực hiện nhiệm vụ được giao."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là người được Callisto bảo vệ và có vẻ như họ có một mối quan hệ phức tạp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Penelope biết đến Cedric.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè thân thiết và có vẻ rất vui khi gặp lại nhau.",
+   "cach_goi": "gọi tên Marienne, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Jean",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có mối quan hệ đồng nghiệp và Penelope coi trọng Jean.",
+   "cach_goi": "gọi tên Jean, thân mật"
+  },
+  {
+   "a": "Jean",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Jean là người bảo vệ của Penelope và rất lo lắng cho cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Marienne",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Hai người là bạn bè thân thiết và có vẻ rất vui khi gặp lại nhau.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Jean",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Jean là người bảo vệ của Penelope và rất lo lắng cho cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Marienne",
+   "b": "Jean",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Marienne quan tâm đến Jean.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 959,
+  "seconds": 28.8
+ }
+}

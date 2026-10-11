@@ -9,7 +9,7 @@ import re
 
 import yaml
 
-from common import ROOT, chapter_path, read_json
+from common import chapter_path, read_json
 from glossary import _parse_range
 
 
@@ -30,7 +30,7 @@ def _at(periods, n):
 class StoryContext:
     def __init__(self, paths, glossary, hero=""):
         self.paths, self.glossary, self.hero = paths, glossary, hero
-        path = ROOT / "story" / "ngu_canh.yaml"
+        path = paths.story / "ngu_canh.yaml"
         data = {}
         if path.exists():
             with open(path, encoding="utf-8") as f:
@@ -87,7 +87,7 @@ class StoryContext:
 
     def seen(self, n, limit=12):
         """Relationships noted by the summary pass for this chapter."""
-        path = chapter_path(self.paths.cache.parent / "analysis", n)
+        path = chapter_path(self.paths.analysis, n)
         if not path.exists():
             return []
         out = []

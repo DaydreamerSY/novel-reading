@@ -1,0 +1,81 @@
+{
+ "number": 107,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope nhận được thư từ Thái tử Callisto yêu cầu gặp mặt và đe dọa sẽ khiến cô hối hận nếu không đến. Cô giả bệnh để tránh việc này, nhưng Thái tử bất ngờ xuất hiện tại dinh thự của Penelope cùng với Công tước Eckart. Thái tử có vẻ đang tìm Penelope và tỏ ra trêu chọc Công tước.",
+ "boi_canh": "Dinh thự của gia đình Penelope vào một buổi chiều, sau khi cô nhận được thư từ Thái tử Callisto.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Emily",
+  "Butler",
+  "Duke",
+  "Royal Messenger"
+ ],
+ "su_kien": [
+  "Penelope nhận được thư từ Thái tử Callisto yêu cầu gặp mặt.",
+  "Cô giả bệnh để tránh việc phải đến cung điện.",
+  "Thái tử bất ngờ xuất hiện tại dinh thự của Penelope.",
+  "Thái tử trêu chọc Công tước Eckart.",
+  "Penelope nhìn thấy mọi chuyện qua cửa sổ và chuẩn bị tinh thần đối phó."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "gia_dinh",
+   "mo_ta": "chủ nhân và người hầu; Penelope ra lệnh cho Eckles rời đi.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Thái tử gây khó dễ cho Penelope; Penelope cảm thấy bực bội.",
+   "cach_goi": "gọi tên Callisto, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Người hầu riêng của Penelope; Penelope ra lệnh cho Emily chuẩn bị đồ.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Butler",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope ra lệnh cho quản gia; Quản gia thực hiện theo yêu cầu của Penelope.",
+   "cach_goi": "gọi tên Butler, lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Duke",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử khiêu khích Công tước; Công tước bối rối.",
+   "cach_goi": "gọi 'Duke', trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Butler",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope ra lệnh cho quản gia; Quản gia thực hiện theo yêu cầu của Penelope.",
+   "cach_goi": "gọi tên Butler, lễ phép"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Người hầu của Penelope; Emily lo lắng cho Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto Regulus: Thái tử, người gửi thư yêu cầu gặp mặt Penelope."
+ ],
+ "stats": {
+  "tokens": 848,
+  "seconds": 25.2
+ }
+}

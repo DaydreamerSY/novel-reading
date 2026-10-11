@@ -1,0 +1,91 @@
+{
+ "number": 174,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trả lời Công tước Eckart, Derrick tìm thấy người hầu gái đang chờ đợi ông ta và được thông báo rằng Yvonne đang khóc lóc trong phòng. Ông ta định đến thăm Yvonne nhưng lại chần chừ vì cảm giác bất an. Sau đó, ông ta gặp Yvonne, người đã xin uống nước, và nhớ lại ký ức về việc mất tích của cô bé thời thơ ấu. Cuối cùng, Derrick đưa Yvonne đến sảnh đường, nơi ông ta lo lắng về phản ứng của Penelope. Ông ta vô tình nghe được Thái tử Callisto thú nhận với Penelope đang nguy kịch.",
+ "boi_canh": "Trong phòng làm việc của Công tước Eckart, vào buổi sáng.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick",
+  "Yvonne",
+  "Reynold",
+  "Vinter",
+  "Head Maid",
+  "Doctor",
+  "Butler",
+  "Maid"
+ ],
+ "su_kien": [
+  "Người hầu gái báo cho Derrick về tình trạng của Yvonne.",
+  "Derrick chần chừ khi định đến phòng Yvonne.",
+  "Yvonne xin Derrick nước và nhắc lại ký ức thời thơ ấu của Derrick.",
+  "Derrick đưa Yvonne đến sảnh đường.",
+  "Thái tử Callisto thú nhận với Penelope đang nguy kịch."
+ ],
+ "quan_he": [
+  {
+   "a": "Derrick",
+   "b": "Head Maid",
+   "loai": "cap_tren",
+   "mo_ta": "Người hầu gái báo cáo tình trạng của Yvonne cho Derrick.",
+   "cach_goi": "gọi 'Young Duke', lễ phép"
+  },
+  {
+   "a": "Head Maid",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Người hầu gái báo cáo tình trạng của Yvonne cho Derrick.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi và em gái, Derrick lo lắng cho Yvonne.",
+   "cach_goi": "gọi 'Young Duke', thân mật"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Em gái và anh trai nuôi, Yvonne tìm kiếm sự an ủi từ Derrick.",
+   "cach_goi": "gọi 'Brother', thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Derrick nghe lén cuộc trò chuyện của Callisto với Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Thái tử Callisto thú nhận với Penelope đang nguy kịch.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Butler",
+   "loai": "cap_tren",
+   "mo_ta": "Người hầu báo cáo cho Derrick về tình hình.",
+   "cach_goi": "gọi 'Young Duke', lễ phép"
+  },
+  {
+   "a": "Butler",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Người hầu báo cáo cho Derrick về tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Yvonne được xác định là người dân thường bị bắt cóc và mất trí nhớ, từng là chị gái của Derrick."
+ ],
+ "stats": {
+  "tokens": 956,
+  "seconds": 28.7
+ }
+}

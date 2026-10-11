@@ -1,0 +1,71 @@
+{
+ "number": 129,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope và Thái tử Callisto tranh luận về việc Penelope có phải là tà đạo Leila hay không, với những lời lẽ khiêu khích và mỉa mai từ phía Thái tử. Cuộc trò chuyện dẫn đến tiết lộ về quá khứ của bộ tộc Leila và sự hiểu biết của Thái tử về nó. Sau đó, họ tiếp tục hành trình trong một hang động, gặp phải Rain (Vinter) và vướng vào những tình huống dở khóc dở cười do Thái tử Callisto tỏ ra khó chịu với việc Rain đeo mặt nạ.",
+ "boi_canh": "Bên trong một hang động tối tăm, sau khi Penelope và Callisto tranh luận về sự liên quan của Penelope đến bộ tộc Leila.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Vinter",
+  "Raon"
+ ],
+ "su_kien": [
+  "Penelope và Callisto tranh cãi về việc Penelope có phải là người theo tà đạo Leila.",
+  "Thái tử Callisto tiết lộ sự hiểu biết của mình về bộ tộc Leila cổ đại.",
+  "Penelope và Callisto tiếp tục hành trình trong hang động, gặp Rain (Vinter).",
+  "Callisto tỏ ra khó chịu với việc Vinter đeo mặt nạ.",
+  "Callisto đề xuất một kế hoạch táo bạo để lật đổ đế chế Inca."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Tranh luận gay gắt, mỉa mai lẫn nhau.",
+   "cach_goi": "gọi tên Callisto, thân mật nhưng có chút dè chừng"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Khiêu khích, mỉa mai, dò xét.",
+   "cach_goi": "gọi tên Penelope, trịch thượng và khiêu khích"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "ban_be",
+   "mo_ta": "Người bạn đồng hành, Penelope gần như gọi sai tên.",
+   "cach_goi": "gọi tên Vinter, thân thiện và có chút ngượng ngùng"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Người bạn đồng hành, bị Penelope gọi sai tên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử Callisto có vẻ không thích Vinter.",
+   "cach_goi": "gọi tên Vinter, lạnh lùng và ra lệnh"
+  },
+  {
+   "a": "Callisto",
+   "b": "Raon",
+   "loai": "nguoi_la",
+   "mo_ta": "Không biết nhau, Callisto tỏ ra khó chịu với Rain.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Rain (tên thật của Vinter)"
+ ],
+ "stats": {
+  "tokens": 817,
+  "seconds": 24.5
+ }
+}

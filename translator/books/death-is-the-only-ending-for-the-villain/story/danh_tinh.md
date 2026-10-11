@@ -1,0 +1,326 @@
+# Ghi chú danh tính (tên giả, cải trang, tiết lộ thân phận)
+
+Model ghi lại khi một chương có chi tiết về danh tính. Có thể sai, dùng để đối chiếu.
+
+- ch1: Penelope Eckart: Nhân vật chính, xuyên vào ác nữ trong game hẹn hò.
+- ch1: Man: Chưa rõ danh tính, có vẻ là người có quyền lực và trách nhiệm với Penelope.
+- ch2: Penelope Eckart (nhân vật chính trong game)
+- ch2: Eckart (tên gia tộc bị rút khỏi Penelope)
+- ch3: Penelope: Villainess (trong game)
+- ch3: Reynold: Anh trai nuôi của Penelope, một trong các nam chính
+- ch4: Penelope Eckart: Nhân vật ác nữ trong game hẹn hò, con gái nuôi nhà Công tước Eckart. Tên thật là một thường dân không có họ.
+- ch4: Penelope (nữ chính): Người kể chuyện, xuyên vào vai Penelope Eckart.
+- ch6: Không có thay đổi về danh tính trong chương này.
+- ch7: Không có thông tin về danh tính mới.
+- ch8: Penelope Eckart (được nhận nuôi bởi Công tước Eckart)
+- ch14: Hoàng tử: Người cai trị, có vẻ thích tra tấn và đe dọa người khác.
+- ch14: Penelope: Nhân vật chính, đang cố gắng sống sót trong một thế giới xa lạ.
+- ch16: Crowned Prince: Người gây ra vết thương trên cổ Penelope bằng kiếm.
+- ch17: Penelope Eckart (Penelope là tên nhân vật trong game)
+- ch18: Penelope Eckart (được biết đến trong game và có thể là danh tính thật)
+- ch20: Nút áo của Derrick: Biểu tượng gia tộc Eckart.
+- ch21: Eckles: trước đây là nô lệ, sau này trở thành hiệp sĩ hộ vệ của Penelope.
+- ch23: Eckles: nô lệ được Penelope mua về, sau trở thành hiệp sĩ hộ vệ.
+- ch25: Eckles: trước đây là nô lệ, hiện tại là hiệp sĩ hộ vệ của Penelope.
+- ch26: Vinter: được nhắc đến là có một cơ sở hoạt động bí mật, một agency.
+- ch27: Hoàng tử Thái tử (Crown Prince): Người gửi thư mời bí ẩn cho Penelope.
+- ch28: Eckles: trước đây có thể là một quý tộc đã mất nước và bị biến thành nô lệ.
+- ch31: ancient sorcerer’s relic: Một di vật cổ của pháp sư, được Vinter tìm thấy ở phía Bắc và là duy nhất còn sót lại.
+- ch32: sang-dan-ju: Người đã dạy các em nhỏ sử dụng phép thuật.
+- ch33: Vinter là Hầu tước Vinter Verdandi, một pháp sư.
+- ch35: Eckles: nô lệ Penelope mua về, sau thành hiệp sĩ hộ vệ của cô.
+- ch35: Derrick: con trưởng nhà Công tước Eckart (tiểu công tước), anh trai nuôi của Penelope.
+- ch37: Đồi Đông (East Hill): Địa điểm hẹn hò thường thấy cho nữ chính và các nhân vật nam trong game.
+- ch37: Hamilton street: Một con phố ở thành phố, nơi xảy ra một vụ án mạng.
+- ch38: Penelope Eckart (Penelope, ác nữ Penelope trong game)
+- ch38: Eckles (nô lệ được Penelope mua về, hiệp sĩ hộ vệ)
+- ch39: Penelope Eckart (được xuyên vào từ game hẹn hò)
+- ch40: Penelope Eckart (nhân vật chính)
+- ch40: Crown Prince Root (được nhắc đến trong quá khứ)
+- ch41: Không có thông tin mới về danh tính nhân vật.
+- ch42: Donna: người hầu bị Công tước đuổi việc vì lạm dụng Penelope.
+- ch43: Penelope Eckart (đã xuyên vào cơ thể Penelope trong game)
+- ch43: Yvonne là nữ chính của chế độ thường (normal mode) trong game
+- ch44: Không có thông tin về danh tính mới hoặc bí mật nào được tiết lộ trong chương này.
+- ch45: Eckles: Trước đây là nô lệ, hiện đang được đào tạo để trở thành hiệp sĩ dưới sự bảo trợ của Công tước Eckart.
+- ch46: Eckles: nô lệ của Penelope, trước đây là hiệp sĩ hộ vệ.
+- ch46: Yvonne: con gái ruột thất lạc của Công tước Eckart, nữ chính của chế độ thường (normal mode) trong game.
+- ch48: Eckles: Có thể là một hiệp sĩ chính thức trong tương lai, nhưng hiện tại anh ấy nghĩ mình sẽ không bao giờ trở thành một hiệp sĩ.
+- ch49: Penelope Eckart (đã biết đến với danh tính thật của mình trong game)
+- ch49: Eckles (nô lệ, sau này trở thành hiệp sĩ)
+- ch50: Thanh kiếm được biến thành đồ trang sức của Eckles là một vật phẩm đặc biệt có khả năng biến đổi thành thanh kiếm dài khi được kích hoạt.
+- ch51: Mark: Hiệp sĩ bị Penelope khiển trách vì xúc phạm Eckles.
+- ch52: Eckles: Từ nô lệ đến hiệp sĩ hộ vệ của Penelope.
+- ch53: Penelope Eckart (được biết đến với danh tính là ác nữ trong game hẹn hò)
+- ch55: Tên thật của Eckles là Delman.
+- ch56: Eckles: Từ nô lệ của Penelope đến hiệp sĩ hộ vệ của cô; được sự cho phép ngầm của Derrick để tham gia huấn luyện.
+- ch57: Penelope Eckart: Nhân vật chính, xuyên vào ác nữ Penelope trong game hẹn hò.
+- ch58: Eckles: nô lệ của Penelope, hiệp sĩ hộ vệ của cô.
+- ch58: Penelope Eckart: nhân vật chính, xuyên vào ác nữ trong game hẹn hò.
+- ch59: Penelope Eckart: Nhân vật chính, xuyên vào ác nữ Penelope trong game hẹn hò.
+- ch61: Không có thông tin về danh tính khác của nhân vật nào trong chương này.
+- ch62: Callisto: Thái tử Callisto Regulus (nam chính game)
+- ch62: Derrick: Con trưởng nhà Công tước Eckart (tiểu công tước), anh trai nuôi của Penelope (nam chính)
+- ch62: Vinter: Hầu tước Vinter Verdandi, pháp sư (nam chính)
+- ch66: Penelope Eckart (được nhắc đến như Penelope)
+- ch68: Vinter Verdandi (Hầu tước Vinter)
+- ch68: Derrick (Tiểu công tước)
+- ch68: Reynold (Con thứ nhà Công tước Eckart)
+- ch72: Eckles: nô lệ Penelope mua về, sau này trở thành hiệp sĩ hộ vệ của cô.
+- ch73: Không có thông tin về danh tính khác.
+- ch74: Eckles: nô lệ Penelope mua, sau trở thành hiệp sĩ hộ vệ.
+- ch74: Callisto: Thái tử Callisto Regulus.
+- ch74: Derrick: con trưởng nhà Công tước Eckart, anh trai nuôi của Penelope.
+- ch74: Reynold: con thứ nhà Công tước Eckart, anh trai nuôi của Penelope.
+- ch75: Callisto: Thái tử Callisto Regulus
+- ch76: Callisto: Thái tử Callisto Regulus
+- ch77: Callisto Regulus: Thái tử Callisto Regulus
+- ch79: Hoàng tử được Penelope gọi là 'Your Highness'.
+- ch81: Penelope: Nhân vật chính, xuyên vào ác nữ Penelope Eckart.
+- ch81: Callisto: Thái tử Callisto Regulus
+- ch81: Derrick: Con trưởng nhà Công tước Eckart
+- ch81: Reynold: Con thứ nhà Công tước Eckart
+- ch81: Ellen: Hầu tước Ellen
+- ch82: Baron Tullet: Người đàn ông bị Penelope bắn tên trúng và được cho là đã nhìn thấy cô.
+- ch82: Lady Kellin: Fiance của Baron Tullet.
+- ch83: Callisto: Thái tử Callisto Regulus
+- ch86: Cuộn giấy cổ xưa: chứa thông tin về nền văn minh Balta đã mất.
+- ch86: Spell: Yetta Du Ddasi Ppasi - là bùa phép dịch chuyển bằng ma thuật cổ đại.
+- ch87: Baron Tullet: Người được Bá tước Ellen sử dụng thuốc tăng cường trí thông minh để biến thành một phần của kế hoạch ám sát.
+- ch88: Con dao Penelope tìm thấy có biểu tượng gia tộc bí ẩn trên lưỡi dao.
+- ch89: Penelope Eckart: Nhân vật chính, xuyên vào ác nữ trong game hẹn hò.
+- ch92: Baron Tullett: bị tình nghi là kẻ ám sát hoàng gia.
+- ch92: Marquis Ellen: bị tình nghi liên quan đến vụ án ám sát.
+- ch95: Không có thông tin mới về danh tính nhân vật trong chương này.
+- ch96: Callisto: Thái tử Callisto Regulus
+- ch97: Penelope là Công chúa Eckart của Đế quốc.
+- ch98: Penelope Eckart (đã được xác nhận là nhân vật chính và con gái nuôi nhà Công tước Eckart)
+- ch100: Eckles: Nô lệ mà Penelope mua về, sau này trở thành hiệp sĩ hộ vệ của cô.
+- ch100: Callisto: Thái tử Callisto Regulus
+- ch100: Vinter: Hầu tước Vinter Verdandi, pháp sư.
+- ch101: Eckles: nô lệ được Penelope mua về, sau này trở thành hiệp sĩ hộ vệ của cô.
+- ch104: Giấy tờ chuyển nhượng mỏ đá ngọc lục bảo Đông Nam được ghi tên Penelope Eckart.
+- ch105: Penelope là con gái ngoài giá luật của một gia đình giàu có (chaebol).
+- ch106: Eckles: Trước đây là nô lệ, hiện tại là hiệp sĩ hộ vệ của Penelope. Đeo sợi vòng cổ biểu tượng cho mối quan hệ chủ tớ.
+- ch107: Callisto Regulus: Thái tử, người gửi thư yêu cầu gặp mặt Penelope.
+- ch109: Bản đồ cổ được Callisto trao cho Penelope có nguồn gốc từ gia tộc Kellin.
+- ch110: Tiffa Tijang (có thể là địa điểm thi đấu săn bắn)
+- ch112: Eckles: nô lệ được Penelope mua về, sau trở thành hiệp sĩ hộ vệ của cô.
+- ch113: Eckles: Trước đây là nô lệ, hiện là hiệp sĩ hộ vệ của Penelope.
+- ch115: Mark (người bị sa thải khỏi chức vụ)
+- ch116: Không có thông tin mới về danh tính nhân vật.
+- ch117: Sir Spencer: trước đây là Phó trưởng phòng Kỵ binh Hoàng gia, sau đó nghỉ hưu và dạy viết lách và kiếm thuật cho trẻ em.
+- ch118: Penelope cải trang thành một cậu bé bằng vòng tay phép thuật của Derrick.
+- ch119: Eckles: nô lệ Penelope mua về, sau thành hiệp sĩ hộ vệ của cô.
+- ch119: Vinter: Hầu tước Vinter Verdandi, pháp sư.
+- ch120: Eckles: nô lệ Penelope mua về, sau thành hiệp sĩ hộ vệ của cô.
+- ch120: Derrick: con trưởng nhà Công tước Eckart, anh trai nuôi của Penelope.
+- ch120: Vinter: Hầu tước Vinter Verdandi, pháp sư.
+- ch121: Vinter sử dụng bướm để gửi thư cho Penelope.
+- ch122: Raon được gọi là 'Aunty' bởi một đứa trẻ, khiến Penelope bực mình.
+- ch122: Raon tiết lộ rằng tên thật của cậu là Raon và cậu chọn nó vì cậu thích sư tử.
+- ch123: Vinter Verdandi: Pháp sư Hầu tước Vinter, có vẻ đang che giấu điều gì đó.
+- ch123: Leila: Quốc gia mới, có mục tiêu loại bỏ tất cả các pháp sư khỏi thế giới.
+- ch124: Raon: Cậu bé pháp sư đeo mặt nạ sư tử, được Penelope bảo vệ.
+- ch126: Vinter: Hầu tước Vinter Verdandi, pháp sư
+- ch128: Callisto: Thái tử Callisto Regulus, một trong các nam chính của game
+- ch129: Rain (tên thật của Vinter)
+- ch130: Leila New Hingdom: Tên gọi ban đầu có vẻ 'lỗi' do hệ thống tạo ra, nhưng thực tế là một tổ chức/nhân vật quan trọng.
+- ch130: Người đàn ông mặc áo choàng trắng: Có thể là một nhân vật bí ẩn với vai trò quan trọng hơn những gì hiện tại thấy được.
+- ch132: Callisto: Thái tử Callisto Regulus, một trong các nam chính của game.
+- ch132: Vinter: Hầu tước Vinter Verdandi, pháp sư, một trong các nam chính.
+- ch132: Yvonne: Con gái ruột thất lạc của Công tước Eckart, nữ chính của chế độ thường (normal mode) trong game.
+- ch133: Callisto: Thái tử Callisto Regulus
+- ch133: Raon: Cậu bé pháp sư đeo mặt nạ sư tử
+- ch134: Không có thông tin mới về danh tính nhân vật trong chương này.
+- ch136: Eckles: Nô lệ được Penelope mua về, sau đó trở thành hiệp sĩ hộ vệ của cô.
+- ch137: Eckles: Trước đây là nô lệ, hiện là hiệp sĩ hộ vệ của Penelope.
+- ch138: Eckles từng là nô lệ, hận Penelope và đế chế Inca.
+- ch139: Eckles: trước đây là nô lệ, hiện tại là hiệp sĩ hộ vệ của Penelope.
+- ch139: Cedric: trợ lý của Thái tử.
+- ch140: Eckles: nô lệ Penelope mua về, sau thành hiệp sĩ hộ vệ của cô.
+- ch140: Reynold: con thứ nhà Công tước Eckart, anh trai nuôi của Penelope.
+- ch141: Penelope (đã bị chiếm đoạt và nhập vào cơ thể của ác nữ Penelope Eckart)
+- ch141: Callisto (Thái tử Callisto Regulus)
+- ch141: Derrick (Tiểu Công tước, con trưởng nhà Eckart)
+- ch141: Reynold (Con thứ nhà Eckart)
+- ch141: Vinter (Hầu tước Vinter Verdandi)
+- ch143: Callisto: Thái tử Callisto Regulus
+- ch143: Derrick: Con trưởng nhà Công tước Eckart, anh trai nuôi của Penelope
+- ch144: Callisto: Thái tử Callisto Regulus, một trong các nam chính của game.
+- ch144: Derrick: Con trưởng nhà Công tước Eckart (tiểu công tước), anh trai nuôi của Penelope; một trong các nam chính.
+- ch144: Vinter: Hầu tước Vinter Verdandi, pháp sư; một trong các nam chính.
+- ch146: Eckles: nô lệ Penelope mua về, hiệp sĩ hộ vệ của cô; một trong các nam chính.
+- ch146: Derrick: con trưởng nhà Công tước Eckart, anh trai nuôi của Penelope; một trong các nam chính.
+- ch150: Yvonne được xác định là người thừa kế thất lạc của Công tước Eckart, có thể là nữ chính của chế độ thường (normal mode) trong game.
+- ch151: Eckles: Có vẻ như anh ta đang lợi dụng tình hình để nâng cao địa vị và có mối quan hệ phức tạp với Yvonne và những nô lệ Delman.
+- ch152: Eckles: nô lệ Penelope mua, sau trở thành hiệp sĩ hộ vệ của cô.
+- ch152: Yvonne: nữ chính của chế độ thường trong game, con gái thất lạc của Công tước Eckart.
+- ch154: Becky: Hầu gái tạm thời, đến từ quê nhà của Penelope. Có thể bị lợi dụng vì quá tin tưởng vào những lời hứa.
+- ch154: Yvonne: Con gái thất lạc của Công tước Eckart, có một chấm giống như mẹ kế của Penelope.
+- ch155: Eckles: Có thể đã bán người nô lệ để thoát khỏi chế độ nô lệ, gây ra nghi ngờ từ Công tước.
+- ch155: Yvonne: Được tìm thấy là con gái ruột của Công tước.
+- ch156: Penelope (đã xuyên vào ác nữ Penelope Eckart)
+- ch156: Sử dụng vòng tay phép thuật để biến thành con trai.
+- ch157: Yvonne được xác định là người đã ra lệnh cho Penelope, không phải Penelope Eckart.
+- ch158: Chiếc nhẫn trên ngón tay Eckles: biểu tượng cho sự ràng buộc giữa anh ta và Penelope, giờ đây đã bị vứt bỏ.
+- ch160: Không có thông tin mới về danh tính nhân vật trong chương này.
+- ch162: Penelope Eckart được biết đến với biệt danh 'The Ugly Duckling of the Duke'.
+- ch162: Sự trở lại của công chúa thật nhà Eckart đã được tiết lộ, làm thay đổi vị thế của Penelope.
+- ch165: Penelope (đã xuyên vào cơ thể Penelope Eckart)
+- ch165: Vinter đã tặng Penelope một chiếc vòng cổ ma thuật.
+- ch166: Công tước Eckart: tiết lộ sự thật về việc Reynold đánh cắp vòng cổ của Yvonne, thay đổi nhận thức của Penelope về quá khứ.
+- ch167: Yvonne được tiết lộ là con gái ruột thất lạc của Công tước Eckart.
+- ch168: Ellen Wick Rose: Một loại hoa hồng màu hồng nhạt.
+- ch169: Callisto: Thái tử Callisto Regulus
+- ch169: Reynold: Con thứ nhà Công tước Eckart, anh trai nuôi của Penelope
+- ch170: Derrick: xuất hiện cùng Yvonne, tiết lộ là đã tìm Yvonne.
+- ch170: Yvonne: được Derrick đưa đến buổi lễ trưởng thành của Penelope, được biết là con gái thất lạc của Công tước Eckart.
+- ch171: Penelope Eckart (Penelope)
+- ch172: Không có thông tin mới về danh tính nhân vật.
+- ch173: Yvonne được xác định là con gái thất lạc của Công tước Eckart.
+- ch174: Yvonne được xác định là người dân thường bị bắt cóc và mất trí nhớ, từng là chị gái của Derrick.
+- ch175: Chiếc vòng cổ của Penelope có khả năng phản ứng với chất độc, thay đổi màu sắc khi có chất độc gần đó.
+- ch177: Di tích cổ của Yvonne biến thành một chiếc gương ma thuật lớn.
+- ch178: Becky đã qua đời vì tự sát, có thể liên quan đến Yvonne.
+- ch181: Vinter Verdandi: Hầu tước Vinter, pháp sư. Có vẻ như anh ta đã từng có mối quan hệ với Yvonne và che giấu sự thật để bảo vệ bản thân.
+- ch182: Becky: Người hầu tạm thời, có thể đã lấy độc dược theo lệnh của ai đó.
+- ch182: Yvonne: Có thể liên quan đến việc đầu độc Penelope.
+- ch184: Eckles Hhan Delman: Con trai ngoài giá thú của Crew Hhan Delman, hậu duệ cuối cùng của dòng dõi hoàng gia.
+- ch185: Eckles từng là hoàng tử, nhưng bị xóa tên khỏi lịch sử gia đình và trở thành nô lệ.
+- ch187: Không có thông tin mới về danh tính nhân vật.
+- ch188: Emily là Yvonne, nữ chính của chế độ thường (normal mode) trong game.
+- ch188: Yvonne giả trang thành hầu gái.
+- ch189: Penelope: Có thể đã chết trong thế giới thực và được đưa đến một không gian khác.
+- ch189: Penelope Eckart: Nhân vật chính, bị xuyên vào từ game hẹn hò.
+- ch190: Penelope (đang giả làm ác nữ Penelope Eckart)
+- ch190: Yvonne (người thật, bị tẩy não)
+- ch191: Eckles: Một trong các nam chính của game.
+- ch191: Derrick: Anh trai nuôi của Penelope; một trong các nam chính.
+- ch191: Vinter: Hầu tước Vinter Verdandi, pháp sư; một trong các nam chính.
+- ch191: Yvonne: Con gái ruột thất lạc của Công tước Eckart, nữ chính của chế độ thường (normal mode) trong game.
+- ch195: Bản đồ sao chép: Callisto đã tạo ra bản sao của bản đồ để theo dõi vị trí của Penelope.
+- ch196: Callisto: Thái tử Callisto Regulus
+- ch197: Callisto: Thái tử Callisto Regulus; một trong các nam chính của game.
+- ch197: Vinter: Hầu tước Vinter Verdandi, pháp sư; một trong các nam chính.
+- ch198: Young Leila: Được tiết lộ là một người có khả năng thay đổi hình dạng và kế hoạch trả thù tàn khốc.
+- ch198: Penelope: Được tiết lộ là hậu duệ của một pháp sư cổ đại.
+- ch199: Penelope Eckart (nhân vật chính)
+- ch199: Callisto Regulus (Thái tử)
+- ch199: Yvonne (nữ chính chế độ thường)
+- ch201: Callisto: Thái tử, con trai của Hoàng đế.
+- ch201: Yvonne: Con gái ruột thất lạc của Công tước Eckart, nữ chính trong chế độ thường (normal mode).
+- ch202: Callisto: Thái tử Callisto Regulus, một trong các nam chính của game.
+- ch202: Yvonne: Con gái ruột thất lạc của Công tước Eckart, nữ chính của chế độ thường (normal mode) trong game.
+- ch203: Callisto: Thái tử Callisto Regulus, một trong các nam chính của game.
+- ch203: Cedric: Cedric Porter, thuộc hạ thân cận của Thái tử.
+- ch204: Eckles: Trước đây là nô lệ của Penelope, sau này bị Yvonne tẩy não và tham gia vào phe nổi loạn.
+- ch205: Penelope Eckart (Penelope)
+- ch206: Leah: người làm của Penelope, là hôn thê của Paul.
+- ch206: Paul: người hứa hôn của Leah, biến mất cùng Leah.
+- ch207: Emily: bị cáo buộc đánh Yvonne nhưng sau đó biến mất khỏi nhà tù.
+- ch208: Yvonne được xác nhận là con gái ruột của Công tước Eckart thông qua các xét nghiệm.
+- ch208: Penelope biết bí mật về việc Yvonne là con gái ruột của Công tước, nhưng không tiết lộ.
+- ch209: Yvonne có vẻ ngoài khác thường, một nửa mặt bị che khuất bởi bóng tối.
+- ch209: Vinter sử dụng một chiếc nhẫn cổ trên ngón tay trỏ để bảo vệ mình khỏi điều khiển tâm trí.
+- ch210: Raon: Cậu bé pháp sư đeo mặt nạ sư tử bị Yvonne bắt cóc và điều khiển.
+- ch211: Becky từng là hầu gái của Penelope trước khi Penelope thành niên.
+- ch212: Eckles: nô lệ của Penelope, sau trở thành hiệp sĩ hộ vệ.
+- ch212: Callisto: Thái tử Callisto Regulus
+- ch212: Yvonne: con gái ruột thất lạc của Công tước Eckart.
+- ch216: Chiếc bùa hộ mệnh do Penelope tặng cho Công tước Eckart trước đây được tiết lộ là có khả năng bảo vệ ông khỏi axit của quái vật.
+- ch217: Yvonne: Được tiết lộ là có liên quan đến việc giải phong ấn của Leila.
+- ch217: Gương Chân lý: Một mảnh vỡ được Penelope tìm thấy, có thể liên quan đến Yvonne.
+- ch218: Táng kiến Leila: Địa điểm bí mật được Penelope vô tình tìm thấy.
+- ch219: Raon: Cậu bé pháp sư đeo mặt nạ sư tử đã bị tẩy não.
+- ch219: Vinter: Sử dụng phép thuật nghịch thời để thay đổi tương lai.
+- ch220: Eckles: trước đây là nô lệ, hiện tại là hiệp sĩ hộ vệ của Penelope.
+- ch220: Callisto: Thái tử Callisto Regulus
+- ch220: Vinter: Hầu tước Vinter Verdandi, pháp sư.
+- ch221: Eckles: Nô lệ được Penelope mua về, sau đó trở thành hiệp sĩ hộ vệ.
+- ch221: Callisto: Thái tử Callisto Regulus
+- ch221: Vinter: Hầu tước Vinter Verdandi, pháp sư
+- ch221: Yvonne: Con gái ruột thất lạc của Công tước Eckart
+- ch222: Eckles: Nô lệ Penelope mua về, sau trở thành hiệp sĩ hộ vệ của cô.
+- ch222: Callisto: Thái tử Callisto Regulus
+- ch222: Vinter: Hầu tước Vinter Verdandi, pháp sư
+- ch222: Yvonne: Con gái ruột thất lạc của Công tước Eckart
+- ch222: Raon: Cậu bé pháp sư đeo mặt nạ sư tử
+- ch222: Ellen: Hầu tước Ellen
+- ch224: Callisto: Thái tử Callisto Regulus (một trong các nam chính của game)
+- ch224: Yvonne: Con gái ruột thất lạc của Công tước Eckart, nữ chính của chế độ thường
+- ch224: Raon: Cậu bé pháp sư đeo mặt nạ sư tử
+- ch225: Eckles: trước đây là nô lệ, hiện là hiệp sĩ hộ vệ của Penelope.
+- ch225: Callisto: Thái tử Callisto Regulus
+- ch225: Vinter: Hầu tước Vinter Verdandi, pháp sư
+- ch225: Yvonne: Con gái ruột thất lạc của Công tước Eckart
+- ch226: Vinter đã tạo phép thuật phòng thủ cho Penelope, được kích hoạt bởi tiếng kêu của cô.
+- ch227: Eckles: Sử dụng thanh kiếm phép thuật mà Penelope đã tặng anh ta, điều này gây bất ngờ cho Callisto.
+- ch229: Con dao Penelope sử dụng được Callisto tặng.
+- ch230: Callisto: Thái tử Callisto Regulus
+- ch231: Leila: Linh hồn trong rồng đã bị tiêu diệt cùng với Yvonne.
+- ch231: Yvonne: Được tiết lộ là đã chết do quả cầu lửa của rồng.
+- ch232: Penelope Eckart (tên đầy đủ của nhân vật chính)
+- ch233: Eckles: nô lệ Penelope mua về, sau thành hiệp sĩ hộ vệ của cô.
+- ch233: Callisto: Thái tử Callisto Regulus
+- ch233: Vinter: Hầu tước Vinter Verdandi
+- ch233: Yvonne: con gái ruột thất lạc của Công tước Eckart
+- ch234: Callisto: Thái tử Callisto Regulus
+- ch234: Vinter: Hầu tước Vinter Verdandi
+- ch234: Cedric: Cedric Porter
+- ch235: Callisto: Thái tử Callisto Regulus, một trong các nam chính của game.
+- ch235: Cedric: Cedric Porter, thuộc hạ thân cận của Thái tử.
+- ch237: Callisto: Thái tử Callisto Regulus
+- ch237: Vinter: Hầu tước Vinter Verdandi, pháp sư
+- ch237: Cedric: Thuộc hạ thân cận của Thái tử
+- ch238: Callisto: Thái tử Callisto Regulus
+- ch238: Yvonne: Con gái ruột thất lạc của Công tước Eckart, nữ chính chế độ thường (normal mode)
+- ch239: Yvonne: Có thể là Yvonne thật sự từ trước khi Leila chiếm lấy cơ thể cô.
+- ch240: Yvonne: Có thể bị Leila chiếm hữu và thao túng.
+- ch242: Yvonne: Cô bé được tiết lộ là linh hồn của Yvonne, bị mắc kẹt trong không gian này sau khi Leila chiếm lấy cơ thể cô.
+- ch243: Vinter được biết đến với vai trò là người đứng đầu công ty thương mại của mình, ngoài danh hiệu Hầu tước Verdandi.
+- ch244: Chiếc nhẫn ngọc lục bảo: Được gọi là 'Nước Mắt của Nàng Tiên' (Mermaid’s Tear), có lời nguyền khiến chủ nhân gắn liền số phận với người khác vĩnh viễn.
+- ch245: Callisto: Thái tử Callisto Regulus, sẽ trở thành Hoàng đế.
+- ch245: Cedric: Thuộc hạ thân cận của Thái tử.
+- ch247: Không có thông tin mới về danh tính nhân vật.
+- ch248: Yvonne: Con gái ruột của Công tước Eckart, nữ chính của chế độ thường (normal mode) trong game.
+- ch248: Leila: Người đã chiếm đoạt cơ thể Yvonne.
+- ch249: Penelope Eckart: Tên đầy đủ của nhân vật chính, được nhắc đến rõ ràng trong chương này.
+- ch249: Yvonne: Nữ chính chế độ thường (normal mode) trong game, được đề cập đến như một yếu tố ảnh hưởng đến mối quan hệ giữa Penelope và Công tước.
+- ch250: Penelope là con gái nuôi nhà Công tước Eckart, xuyên vào ác nữ Penelope Eckart của game hẹn hò.
+- ch251: Chiếc gương của Yvonne là vật mà cô ấy muốn Derrick gửi lời cảm ơn và xin lỗi.
+- ch252: Yvonne là con gái ruột thất lạc của Công tước Eckart, nữ chính của chế độ thường (normal mode) trong game.
+- ch253: Callisto là Thái tử Callisto Regulus.
+- ch253: Marienne và Penelope có sự đồng thuận ngầm về vai trò 'con dê đẻ'.
+- ch253: Vinter Verdandi là một pháp sư.
+- ch255: Penelope Eckart: Nhân vật chính, người kể chuyện.
+- ch255: Callisto Regulus: Thái tử, một trong các nam chính.
+- ch256: Penelope Eckart: Nhân vật chính, con gái nuôi nhà Công tước Eckart.
+- ch256: Callisto Regulus: Thái tử, đính ước với Penelope.
+- ch257: Penelope Eckart: Nhân vật chính, xuyên vào ác nữ Penelope Eckart của game hẹn hò.
+- ch257: Derrick: Con trưởng nhà Công tước Eckart (tiểu công tước), anh trai nuôi của Penelope.
+- ch257: Reynold: Con thứ nhà Công tước Eckart, anh trai nuôi của Penelope.
+- ch259: Vinter đã từng bị giam giữ vì sử dụng phép thuật trái phép.
+- ch262: Callisto: Thái tử Regulus
+- ch262: Cedric: thuộc hạ thân cận của Callisto
+- ch263: Callisto: Thái tử Callisto Regulus; một trong các nam chính của game
+- ch264: Bobby: Người cung cấp thông tin về địa điểm, có thể là một người bạn hoặc đồng nghiệp của Penelope.
+- ch265: Eckles: trước đây được biết đến với tên Hamilton, một người lính đánh thuê.
+- ch265: Penelope: công nương Penelope Eckart, hôn phu của hoàng đế, giáo sư danh dự của Học viện Khảo cổ Hoàng gia.
+- ch266: Eckles: Mất trí nhớ, không nhớ về quá khứ với Penelope.
+- ch266: Vòng nô lệ của Eckles: Bị cắt bỏ bởi Penelope, biểu tượng cho sự thay đổi trong mối quan hệ của họ.
+- ch267: Eckles: Mất trí nhớ, không còn nhận ra Penelope.
+- ch268: Không có thông tin mới về danh tính nhân vật.
+- ch270: Eckles: Có thể đã mất trí nhớ và đang theo dõi Penelope.
+- ch272: Penelope Eckart: Nữ chính, nhân vật kể chuyện, xuyên vào ác nữ trong game.
+- ch272: Bubardia: Loài hoa có ý nghĩa 'Tôi là tù nhân của bạn'.
+- ch273: Ellenwork Rose: Tên loài hoa được nhắc đến trong ký ức của Penelope và Công tước.
+- ch274: Judith Regulus: Con gái của Penelope và Callisto, có mái tóc xoăn vàng và đôi mắt đỏ.
+- ch274: Leila: Một nhân vật bí ẩn trong quá khứ, từng sử dụng mặt nạ của Yvonne để xâm nhập cung điện.
+- ch275: Judith: Được biết đến với đôi cánh vàng từ khi mới sinh, biểu tượng của Rồng Vàng.
+- ch275: Callisto: Đã được Penelope gọi là 'cha'.
+- ch276: Judith: Con gái của Penelope và Callisto.
+- ch277: Penelope Eckart (Penelope)
+- ch277: Judith Regulus
+- ch278: Siyeon (Penelope) - Con gái ruột của Cha, bị gia đình đối xử tệ bạc trong quá khứ. Tên thật là Siyeon, nhưng gia đình không gọi cô bằng tên này.
+- ch279: Penelope (trước đây là Cha Siyeon)

@@ -1,0 +1,69 @@
+{
+ "number": 11,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi từ chối sự quan tâm của Reynold, Penelope nhận thấy thanh đo hứng thú của anh ta đột ngột tăng lên. Điều này khiến cô băn khoăn về những thay đổi trong cốt truyện và cách hành xử của mình. Sau đó, Penelope nhận được thư mời dự lễ sinh nhật của Hoàng tử thứ hai từ cung điện, nhưng cô lại lo lắng vì điều này có thể dẫn đến việc gặp gỡ Hoàng tử đội vương miện mà cô đã thấy trong hình minh họa đáng sợ.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại dinh thự nhà Công tước Eckart, vào một buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope từ chối sự quan tâm của Reynold.",
+  "Thanh đo hứng thú của Reynold đột ngột tăng lên.",
+  "Penelope nhận được thư mời dự lễ sinh nhật của Hoàng tử thứ hai.",
+  "Penelope lo lắng về việc gặp gỡ Hoàng tử đội vương miện.",
+  "Emily thông báo rằng Công tước sẽ không đi cùng và Derrick sẽ hộ tống Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope cố gắng tránh né sự quan tâm của Reynold.",
+   "cach_goi": "gọi tên Reynold, không thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Reynold cố gắng quan tâm đến Penelope.",
+   "cach_goi": "gọi tên Penelope, không thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân và Emily là hầu gái riêng của cô.",
+   "cach_goi": "gọi tên Emily, lễ phép"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Emily là hầu gái riêng của Penelope và luôn tỏ ra tôn trọng.",
+   "cach_goi": "gọi 'lady', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Derrick là anh trai nuôi của Penelope và có địa vị cao hơn.",
+   "cach_goi": "gọi tên Derrick, không thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Derrick là anh trai nuôi của Penelope và có địa vị cao hơn.",
+   "cach_goi": "gọi tên Penelope, không thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 756,
+  "seconds": 23.6
+ }
+}

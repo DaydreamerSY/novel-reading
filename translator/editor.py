@@ -20,6 +20,7 @@ import yaml
 from common import ROOT, read_json, write_json
 from glossary import LABELS, Glossary
 
+# The book being edited; serve() points these at its files (main book by default).
 GLOSSARY = ROOT / "glossary.yaml"
 TERMS = ROOT / "data" / "terms.json"
 STATE = ROOT / "data" / "editor_state.json"
@@ -294,12 +295,14 @@ class Handler(BaseHTTPRequestHandler):
         pass
 
 
-def serve(port, open_browser):
+def serve(paths, port, open_browser):
+    global GLOSSARY, TERMS, STATE
+    GLOSSARY, TERMS, STATE = paths.glossary, paths.terms, paths.data / "editor_state.json"
     if not TERMS.exists():
-        print("Chưa có data/terms.json, hãy chạy: python novel.py terms")
+        print(f"Chưa có {TERMS}, hãy chạy: python novel.py terms" + (f" --book {paths.book}" if paths.book else ""))
     server = ThreadingHTTPServer(("127.0.0.1", port), Handler)
     url = f"http://127.0.0.1:{port}/"
-    print(f"Công cụ glossary: {url}  (Ctrl+C để tắt)", flush=True)
+    print(f"Công cụ glossary: {url}  ({GLOSSARY}, Ctrl+C để tắt)", flush=True)
     if open_browser:
         webbrowser.open(url)
     try:

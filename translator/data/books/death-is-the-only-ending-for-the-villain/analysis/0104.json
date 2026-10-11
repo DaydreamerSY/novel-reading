@@ -1,0 +1,57 @@
+{
+ "number": 104,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope bất ngờ nhận được một cuộc viếng thăm từ Công tước Eckart trong phòng của mình. Ông trao cho cô một giấy tờ chuyển nhượng mỏ đá ngọc lục bảo ở Đông Nam, một món quà lớn và không rõ lý do. Sau khi trò chuyện về việc này, Công tước đề cập đến sự kiện tranh tài săn bắn gần đây và những lời hứa mà Penelope đã đưa ra, tiết lộ một bí mật đáng lo ngại. Cuối cùng, ông cố gắng xoa dịu cô bằng cách hạ thấp Derrick và khẳng định tình yêu thương của mình.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại dinh thự Eckart, vào một buổi chiều bất thường.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Công tước đột ngột ghé thăm phòng Penelope.",
+  "Công tước trao cho Penelope giấy tờ chuyển nhượng mỏ đá ngọc lục bảo Đông Nam.",
+  "Penelope bày tỏ sự bối rối và nghi ngờ về món quà bất ngờ này.",
+  "Công tước đề cập đến sự kiện tranh tài săn bắn và những lời hứa của Penelope.",
+  "Công tước cố gắng xoa dịu Penelope bằng cách hạ thấp Derrick."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Cạnh tranh về tình cảm và vị thế trong gia đình.",
+   "cach_goi": "gọi tên Derrick, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "Cạnh tranh về tình cảm và vị thế trong gia đình.",
+   "cach_goi": "gọi tên Reynold, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi và người cha nuôi, mối quan hệ phức tạp với những bí mật.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi và người cha nuôi, mối quan hệ phức tạp với những bí mật.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Giấy tờ chuyển nhượng mỏ đá ngọc lục bảo Đông Nam được ghi tên Penelope Eckart."
+ ],
+ "stats": {
+  "tokens": 684,
+  "seconds": 20.5
+ }
+}

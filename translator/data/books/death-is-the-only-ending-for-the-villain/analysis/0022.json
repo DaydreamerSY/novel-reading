@@ -1,0 +1,114 @@
+{
+ "number": 22,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope mua Eckles từ một cuộc đấu giá nô lệ và đưa anh về dinh thự của mình. Để kiểm soát Eckles đang nổi loạn, Penelope buộc phải vạch trần bản chất chủ tớ của anh bằng lời nói sắc bén và hành động phô trương quyền lực. Sau đó, cô ra lệnh cho những người xung quanh phục vụ Eckles để chứng minh giá trị của anh, đồng thời đối mặt với một nhóm người lạ chặn đường họ trên đường về nhà.",
+ "boi_canh": "Trong một cuộc đấu giá nô lệ vào đêm khuya.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Auctioneer",
+  "Worker",
+  "Slaver",
+  "Clurie",
+  "Servant"
+ ],
+ "su_kien": [
+  "Penelope vạch trần khuôn mặt của mình cho Eckles để khiến anh chấp nhận sự thật về địa vị của anh.",
+  "Penelope buộc người thợ làm nô lệ phải cởi quần áo và đưa cho Eckles.",
+  "Eckles được Penelope ra lệnh gật đầu để thể hiện sự hiểu biết của anh.",
+  "Một nhóm người chặn đường Penelope và Eckles trên đường về nhà.",
+  "Một người đàn ông tự xưng là Clurie xuất hiện."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "chu_to",
+   "mo_ta": "Chủ tớ và nô lệ; Penelope là chủ nhân, kiểm soát và ra lệnh cho Eckles.",
+   "cach_goi": "gọi tên Eckles, lạnh lùng"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "Nô lệ; Eckles tỏ ra bất tuân nhưng cuối cùng phải chấp nhận mệnh lệnh của Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Auctioneer",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng; Penelope ra lệnh cho người đấu giá.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Auctioneer",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Người đấu giá; sợ hãi và tuân theo mệnh lệnh của Penelope.",
+   "cach_goi": "gọi 'Miss', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Worker",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng; Penelope ra lệnh cho người thợ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Worker",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng; tuân theo mệnh lệnh của Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Slaver",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng; Penelope ra lệnh cho người bán nô lệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Slaver",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng; tuân theo mệnh lệnh của Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Clurie",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng; Penelope nghi ngờ Clurie.",
+   "cach_goi": "gọi 'Master', lễ phép (nhưng bị Servant chặn lại)"
+  },
+  {
+   "a": "Clurie",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng; Clurie cố gắng tự giới thiệu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Servant",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng; Servant bảo vệ Clurie.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Servant",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có mối quan hệ rõ ràng; Penelope nghi ngờ Servant.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1259,
+  "seconds": 39.1
+ }
+}

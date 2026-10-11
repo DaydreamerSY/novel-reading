@@ -1,0 +1,56 @@
+{
+ "number": 109,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope gặp Thái tử Callisto trong vườn, cuộc trò chuyện diễn ra khá căng thẳng và khó hiểu. Callisto có vẻ đang theo dõi Penelope và đưa ra những lời lẽ kỳ lạ. Sau đó, anh ta đột ngột trao cho cô một bản đồ cổ và một túi giấy bí ẩn, đồng thời tiết lộ thông tin về việc giải quyết vụ án ám sát Công tước Ellen và liên quan đến gia tộc Kellin.",
+ "boi_canh": "Vườn hoa, buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Ellen"
+ ],
+ "su_kien": [
+  "Penelope và Callisto có cuộc đối thoại căng thẳng.",
+  "Callisto trao cho Penelope một bản đồ cổ.",
+  "Callisto trao cho Penelope một túi giấy bí ẩn.",
+  "Callisto tiết lộ thông tin về vụ án ám sát Công tước Ellen.",
+  "Callisto nói về gia tộc Kellin và mỏ kim cương."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ căng thẳng, Penelope nghi ngờ và e ngại Callisto.",
+   "cach_goi": "gọi tên Callisto, không rõ cảm xúc"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ căng thẳng, Callisto có vẻ đang kiểm soát tình hình.",
+   "cach_goi": "gọi tên Penelope, có vẻ trêu chọc và dò xét"
+  },
+  {
+   "a": "Penelope",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope đang cố gắng tránh xa Ellen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Ellen",
+   "loai": "doi_thu",
+   "mo_ta": "Callisto và Ellen là đối thủ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Bản đồ cổ được Callisto trao cho Penelope có nguồn gốc từ gia tộc Kellin."
+ ],
+ "stats": {
+  "tokens": 555,
+  "seconds": 16.7
+ }
+}

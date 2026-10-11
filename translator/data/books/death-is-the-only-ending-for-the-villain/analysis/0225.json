@@ -1,0 +1,91 @@
+{
+ "number": 225,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đối mặt với một tình huống nguy hiểm liên quan đến Raon và Yvonne, Penelope đã quyết định hành động để cứu những đứa trẻ và thay đổi thế giới. Cô cùng Hoàng tử Callisto trốn thoát khỏi Cung điện Mặt trời, nhưng họ phải đối mặt với sự xuất hiện của một con rồng vàng thức tỉnh từ dưới lòng đất, có vẻ như liên quan đến Yvonne và linh hồn của Leila. Tình hình trở nên tồi tệ hơn khi con rồng phun lửa.",
+ "boi_canh": "Bên trong Cung điện Mặt trời, sau khi giải cứu những đứa trẻ.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Vinter",
+  "Yvonne",
+  "Emily",
+  "Raon"
+ ],
+ "su_kien": [
+  "Raon sử dụng phép thuật tạo ra quả cầu ánh sáng nguy hiểm.",
+  "Một đứa trẻ đeo mặt nạ heo trộm cây đàn của Raon và giấu vào quần lót.",
+  "Penelope giải cứu những đứa trẻ và lấy lại cây đàn gương từ tay Raon.",
+  "Con rồng vàng thức tỉnh từ dưới lòng đất, có vẻ như liên quan đến Yvonne.",
+  "Yvonne cầm một mảnh gương phát ra ánh sáng xanh kỳ lạ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope là chủ nhân của Eckles.",
+   "cach_goi": "gọi tên Eckles, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là người được bảo vệ bởi Hoàng tử.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope đã nhận được một món quà từ Vinter.",
+   "cach_goi": "gọi tên Vinter, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope và Yvonne là đối thủ.",
+   "cach_goi": "gọi tên Yvonne, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope và Emily là người hầu cận của nhau.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Penelope đã cứu Raon.",
+   "cach_goi": "gọi tên Raon, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto bảo vệ Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Yvonne là đối thủ của Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: trước đây là nô lệ, hiện là hiệp sĩ hộ vệ của Penelope.",
+  "Callisto: Thái tử Callisto Regulus",
+  "Vinter: Hầu tước Vinter Verdandi, pháp sư",
+  "Yvonne: Con gái ruột thất lạc của Công tước Eckart"
+ ],
+ "stats": {
+  "tokens": 950,
+  "seconds": 28.6
+ }
+}

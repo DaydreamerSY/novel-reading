@@ -1,0 +1,71 @@
+{
+ "number": 181,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope gặp gỡ Hầu tước Vinter tại một hành lang vắng vẻ. Vinter nghi ngờ Penelope có liên quan đến việc Yvonne bị đầu độc và chất vấn cô. Sau khi trao đổi, Vinter tiết lộ anh ta đã che giấu sự thật để bảo vệ bản thân và bày tỏ lo ngại về hành động của Penelope. Cuối cùng, cuộc đối thoại dẫn đến một lời thú nhận đau lòng từ Vinter về việc bỏ rơi Yvonne và những cảm xúc phức tạp của anh ta dành cho Penelope.",
+ "boi_canh": "Hành lang vắng vẻ trong lâu đài Eckart, vào buổi tối.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Vinter",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Vinter chất vấn Penelope về việc sử dụng độc dược.",
+  "Vinter tiết lộ anh ta đã che giấu sự thật để bảo vệ bản thân.",
+  "Penelope buộc Vinter phải thừa nhận anh ta đã bỏ rơi Yvonne.",
+  "Vinter thú nhận cảm xúc phức tạp của mình đối với Penelope.",
+  "Eckles đưa Yvonne trở lại."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "cap_tren",
+   "mo_ta": "chủ nhân và nô lệ; Penelope là chủ nhân, Eckles phục tùng.",
+   "cach_goi": "gọi tên Eckles, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "doi_thu",
+   "mo_ta": "cạnh tranh quyền lực và thông tin; có sự nghi ngờ lẫn nhau.",
+   "cach_goi": "gọi tên Vinter, lạnh lùng"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "cạnh tranh quyền lực và thông tin; có sự nghi ngờ lẫn nhau.",
+   "cach_goi": "gọi tên Penelope, thận trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ trong cuộc chiến giành quyền lực; Penelope có thể gây nguy hiểm cho Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter đã từng giúp đỡ Yvonne, nhưng hiện tại không liên quan.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "nô lệ phục tùng chủ nhân.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Vinter Verdandi: Hầu tước Vinter, pháp sư. Có vẻ như anh ta đã từng có mối quan hệ với Yvonne và che giấu sự thật để bảo vệ bản thân."
+ ],
+ "stats": {
+  "tokens": 799,
+  "seconds": 23.9
+ }
+}

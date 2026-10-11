@@ -1,0 +1,85 @@
+{
+ "number": 102,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope nhận được yêu cầu bất ngờ từ Công tước Eckart để tham gia bữa trưa gia đình tại nhà kính thủy tinh, nơi có sự hiện diện của Derrick và Reynold. Trong khi đó, cô phát hiện ra những thay đổi đáng ngờ trong thái độ của những người xung quanh và nhận thấy sự khác biệt trong mức độ ưa thích của họ thông qua thanh đo lường. Cuối cùng, Công tước thông báo về kế hoạch vẽ chân dung gia đình nhân dịp sinh nhật sắp tới của Penelope.",
+ "boi_canh": "Penelope đang nằm dài trên giường tại phòng của mình vào một buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Emily",
+  "Pennel",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Pennel đến thông báo về bữa trưa gia đình do Công tước yêu cầu.",
+  "Penelope phát hiện thanh đo lường mức độ ưa thích của Derrick và Reynold đã thay đổi màu sắc.",
+  "Công tước thông báo kế hoạch vẽ chân dung gia đình nhân dịp sinh nhật Penelope.",
+  "Bữa ăn diễn ra tại nhà kính thủy tinh, một nơi mà Penelope chưa từng đến trước đây.",
+  "Penelope nhận thấy sự thay đổi trong nhân viên phục vụ bữa ăn."
+ ],
+ "quan_he": [
+  {
+   "a": "Pennel",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Quản gia thông báo yêu cầu của Công tước.",
+   "cach_goi": "gọi 'Lady', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Pennel",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope trả lời Pennel.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Công tước yêu cầu Penelope tham gia bữa trưa.",
+   "cach_goi": "gọi 'Lady', trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope trả lời Công tước.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi nhìn Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi nhìn Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Công tước nhìn Reynold.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Reynold nhìn Công tước.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 897,
+  "seconds": 27.0
+ }
+}

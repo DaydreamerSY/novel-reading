@@ -42,6 +42,27 @@ Ngoài việc tải trang truyện, không có gì được gửi ra ngoài.
 6. **Xuất sách**: `python novel.py export --format epub`
    Thêm `--bilingual` để kèm câu gốc tiếng Anh dưới mỗi đoạn. Có thể giới hạn chương, ví dụ `export 1-100`.
 
+## Truyện khác (`--book`)
+Mọi lệnh nhận thêm `--book <slug>` (hoặc link novelight, hoặc phần đầu slug: `--book death`). Không có `--book` là truyện chính.
+- `books/<slug>/`: phần sửa tay, được commit: `config.yaml` (chỉ ghi các mục khác với `config.yaml` chung: tên truyện,
+  nhân vật kể chuyện, `novelight.book`...), `glossary.yaml`, `aliases.yaml`, `style.md`, `story/` (tóm tắt, sổ tay).
+- `data/books/<slug>/`: phần sinh ra: `en/` và `vi/` (không commit vì chứa tiếng Anh), `analysis/`, `terms.json`.
+- `data/novelight/<slug>/`: bản tải thô từ novelight.
+
+Bắt đầu một truyện mới:
+1. Tạo `books/<slug>/config.yaml` (xem `books/death-is-the-only-ending-for-the-villain/config.yaml`).
+2. `python novel.py scrape --source novelight --book <slug>` rồi `python novel.py source --book <slug>`.
+3. Soát tên viết khác (`terms --book <slug> --no-llm`), ghi vào `books/<slug>/aliases.yaml`, chạy lại `source`.
+4. `python novel.py analyze --book <slug>` → `books/<slug>/story/tom_tat/`, rồi làm sổ tay cốt truyện.
+
+Lọc rác của nhóm dịch tiếng Anh (chạy lại `scrape ... --force` là dựng lại từ cache, không tải lại):
+- Quy tắc chung trong `novelight.py`: dấu chèn tên trang (cả kiểu chữ Cyrillic "Nоvеlіgһt"), dòng chỉ có tiêu đề
+  ("Chapter 8", "Episode 84."), dòng `_____` cuối chương (mọi thứ sau nó là lời nhóm dịch), `(Note: …)`, `[T/N: …]`, `Tl:`,
+  `p/s:`, Q&A, "Translator: …". Phần bị tách được giữ trong trường `tl_notes`.
+- Phần riêng từng truyện: `novelight.tl_lines` (bỏ cả dòng) và `novelight.tl_inline` (cắt một phần dòng) trong
+  `books/<slug>/config.yaml`.
+- `novelight.first_line_names: true` khi trang đặt tên chương bằng câu mở đầu: giữ câu đó, tiêu đề là "Chapter N".
+
 ## Đọc trên web (`../web`)
 App đọc truyện dạng trang tĩnh, lật trang kiểu Google Play Books, không cần build.
 1. `python novel.py web` chép các chương đã dịch sang `../web/books/<slug>/`. Chạy lại mỗi khi dịch thêm chương.

@@ -1,0 +1,50 @@
+{
+ "number": 2,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope, sau khi đã hoàn thành tất cả các tuyến đường bình thường của trò chơi hẹn hò, quyết định thử sức với chế độ khó để mở khóa kết thúc ẩn. Tuy nhiên, chế độ khó lại vô cùng khắc nghiệt, khiến Penelope liên tục thất bại và chết đi nhiều lần. Bất chấp những nỗ lực không ngừng nghỉ, cô vẫn chưa thể đạt được mục tiêu của mình và cuối cùng ngã gục vì kiệt sức. Khi tỉnh dậy, Penelope phát hiện ra mình đang ở trong chính trò chơi mà cô đã dấn thân vào, với một người đàn ông có thanh đo sự quan tâm bằng 0%.",
+ "boi_canh": "Penelope đang chơi game hẹn hò ở nhà vào đêm khuya.",
+ "nhan_vat": [
+  "Penelope",
+  "Công tước Eckart (đề cập)",
+  "Người sản xuất trò chơi (đề cập)"
+ ],
+ "su_kien": [
+  "Penelope hoàn thành tất cả các tuyến đường bình thường của game.",
+  "Cô quyết định thử chế độ khó để mở khóa kết thúc ẩn.",
+  "Chế độ khó cực kỳ khó khăn, Penelope liên tục thất bại và chết đi.",
+  "Cô gần như bỏ cuộc nhưng vẫn tiếp tục cố gắng.",
+  "Penelope ngã gục vì kiệt sức và tỉnh dậy trong trò chơi."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "con gái nuôi, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Người sản xuất trò chơi",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope phàn nàn về độ khó của game, không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Người đàn ông có thanh đo sự quan tâm bằng 0%",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope tỉnh dậy và được người đàn ông gọi tên, không rõ mối quan hệ.",
+   "cach_goi": "gọi tên 'Penelope Eckart', lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (nhân vật chính trong game)",
+  "Eckart (tên gia tộc bị rút khỏi Penelope)"
+ ],
+ "stats": {
+  "tokens": 622,
+  "seconds": 19.5
+ }
+}

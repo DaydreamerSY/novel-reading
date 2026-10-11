@@ -1,0 +1,66 @@
+{
+ "number": 18,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Derrick đề cập đến một điều gì đó khó hiểu về 'first young master', anh ta trao cho Penelope một chiếc khăn quàng cổ. Sau đó, Penelope phát hiện ra Derrick biết cô đã giấu chiếc khăn mà Vinter tặng mà không hỏi. Tiếp theo, Penelope tìm thấy lối thoát khỏi lâu đài và gặp Reynold, người nghi ngờ cô đang làm gì và nhắc lại những chuyện xấu hổ trong quá khứ của Penelope. Một nhiệm vụ mới xuất hiện liên quan đến việc hẹn hò với Reynold.",
+ "boi_canh": "Trong vườn nhà Công tước Eckart vào buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Emily"
+ ],
+ "su_kien": [
+  "Derrick trao cho Penelope một chiếc khăn quàng cổ.",
+  "Penelope phát hiện ra Derrick biết về chiếc khăn mà Vinter tặng.",
+  "Penelope tìm thấy lối thoát khỏi lâu đài.",
+  "Penelope gặp Reynold gần lối thoát bí mật.",
+  "Một nhiệm vụ mới xuất hiện, yêu cầu Penelope hẹn hò với Reynold."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là con gái nuôi của Derrick; anh ta có vẻ khó chịu với cô.",
+   "cach_goi": "gọi tên Derrick, lạnh lùng"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Anh ta có vẻ khó chịu với cô.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope ra lệnh cho Emily; không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "dong_minh",
+   "mo_ta": "Anh ta có vẻ nghi ngờ và chế giễu cô.",
+   "cach_goi": "gọi tên Penelope, trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "dong_minh",
+   "mo_ta": "Cô ấy bực bội với sự dò xét của anh ta.",
+   "cach_goi": "gọi tên Reynold, không thân thiện"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (được biết đến trong game và có thể là danh tính thật)"
+ ],
+ "stats": {
+  "tokens": 704,
+  "seconds": 22.0
+ }
+}

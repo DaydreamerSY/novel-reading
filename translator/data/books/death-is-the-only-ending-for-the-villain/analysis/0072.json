@@ -1,0 +1,72 @@
+{
+ "number": 72,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với một buổi tiệc trà căng thẳng khi Penelope giả vờ bắn cung tên vào mọi người. Sau đó, cô lẻn vào khu vực săn bắn nhưng không tìm thấy con mồi nào. Cuối cùng, cô đuổi theo một con cáo xám và lạc vào khu vực nguy hiểm có những loài động vật ăn thịt lớn như gấu.",
+ "boi_canh": "Một buổi tiệc trà tại một nơi không xác định.",
+ "nhan_vat": [
+  "Penelope",
+  "Lady Kellin",
+  "Lady Aris",
+  "Countess Dorothea",
+  "Eckles (không xuất hiện trực tiếp)"
+ ],
+ "su_kien": [
+  "Penelope giả vờ bắn cung tên vào mọi người tại buổi tiệc trà.",
+  "Lady Kellin lo lắng khi thấy Penelope có hành động nguy hiểm.",
+  "Lady Aris sợ hãi sau trò đùa của Penelope.",
+  "Penelope lạc đường trong khu vực săn bắn.",
+  "Penelope gặp một con gấu lớn và nhận được nhiệm vụ mới từ hệ thống."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Lady Kellin",
+   "loai": "cap_tren",
+   "mo_ta": "Lady Kellin là cấp trên của Penelope, lo lắng cho sự an toàn của cô.",
+   "cach_goi": "gọi 'Princess', lễ phép"
+  },
+  {
+   "a": "Lady Kellin",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Lady Kellin là cấp trên của Penelope, lo lắng cho sự an toàn của cô.",
+   "cach_goi": "gọi 'Pri', thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Lady Aris",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ là bạn bè, nhưng Lady Aris sợ Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Countess Dorothea",
+   "loai": "dong_minh",
+   "mo_ta": "Penelope hỏi Countess Dorothea một câu hỏi, có vẻ như họ là những người cùng cấp bậc.",
+   "cach_goi": "gọi 'Countess', lễ phép"
+  },
+  {
+   "a": "Countess Dorothea",
+   "b": "Penelope",
+   "loai": "dong_minh",
+   "mo_ta": "Countess Dorothea là người tổ chức tiệc trà, và Penelope là khách mời.",
+   "cach_goi": "gọi 'Princess', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "chu_to",
+   "mo_ta": "Penelope là chủ nhân của Eckles, và đang nghĩ về anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: nô lệ Penelope mua về, sau này trở thành hiệp sĩ hộ vệ của cô."
+ ],
+ "stats": {
+  "tokens": 782,
+  "seconds": 24.4
+ }
+}

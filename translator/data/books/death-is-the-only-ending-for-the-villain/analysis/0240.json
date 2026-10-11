@@ -1,0 +1,94 @@
+{
+ "number": 240,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chứng kiến Derrick và Reynold đi tìm Yvonne thất lạc, Penelope tiếp tục theo dấu chiếc gương để tìm kiếm sự thật về quá khứ của Yvonne. Cô phát hiện ra Yvonne đã bị Leila chiếm hữu và liên tục ăn thịt người để duy trì sức mạnh. Sau đó, Penelope chứng kiến những đau khổ mà Yvonne phải chịu đựng khi bị bỏ rơi và bị Leila thao túng bằng những lời nói dối độc địa. Cuối cùng, Penelope can thiệp vào ký ức của Yvonne, phá vỡ ảo ảnh và khiến cả hai mắc kẹt trong một không gian đen tối.",
+ "boi_canh": "Một con hẻm tối tăm, buổi sáng sớm ngày hôm sau lễ hội.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Yvonne",
+  "Leila",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Derrick và Reynold đi tìm Yvonne thất lạc sau khi cô bị mất tích trong đám đông.",
+  "Penelope phát hiện Yvonne đang ăn thịt một người đàn ông dưới sự kiểm soát của Leila.",
+  "Yvonne tạm thời hồi phục ý thức, nhưng lại phải chịu đựng những lời nói dối độc địa từ Leila.",
+  "Penelope can thiệp vào ký ức của Yvonne và phá vỡ ảo ảnh.",
+  "Cả Penelope và Yvonne bị mắc kẹt trong một không gian đen tối."
+ ],
+ "quan_he": [
+  {
+   "a": "Derrick",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, lo lắng cho lẫn nhau.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, lo lắng cho lẫn nhau.",
+   "cach_goi": "gọi tên nhau, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát từ xa, không có mối quan hệ rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát từ xa, không có mối quan hệ rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, tìm kiếm em gái thất lạc.",
+   "cach_goi": "gọi tên nhau, lo lắng"
+  },
+  {
+   "a": "Reynold",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, tìm kiếm em gái thất lạc.",
+   "cach_goi": "gọi tên nhau, lo lắng"
+  },
+  {
+   "a": "Leila",
+   "b": "Yvonne",
+   "loai": "ke_thu",
+   "mo_ta": "Chiếm hữu cơ thể Yvonne và thao túng tâm trí cô.",
+   "cach_goi": "thao túng, độc địa"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Cha nuôi, đưa Penelope về nhà.",
+   "cach_goi": "lễ phép, tôn trọng"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái, nhìn từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Yvonne: Có thể bị Leila chiếm hữu và thao túng."
+ ],
+ "stats": {
+  "tokens": 1024,
+  "seconds": 30.7
+ }
+}

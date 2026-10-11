@@ -1,0 +1,88 @@
+{
+ "number": 219,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope phát hiện ra Vinter đang bốc cháy trong một vòng tròn ma thuật sự thật, và cô vội vàng giúp đỡ. Trong quá trình đó, họ khám phá ra Raon đã bị tẩy não bởi Leila, và Yvonne đang tìm cách hoàn thành một tạo tác quan trọng. Vinter cảnh báo Penelope về nguy hiểm của Yvonne và đưa ra những lời khuyên khó hiểu, bao gồm cả việc trốn chạy và giết Yvonne bằng ma thuật cấm. Cuối cùng, anh tiết lộ rằng anh đã sử dụng phép thuật nghịch thời để thay đổi tương lai và sẽ lặp lại quá trình nếu Penelope thất bại.",
+ "boi_canh": "Trong một vòng tròn ma thuật sự thật, nơi Vinter đang bốc cháy.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "Yvonne",
+  "Raon",
+  "Leila",
+  "Puck"
+ ],
+ "su_kien": [
+  "Vinter đột ngột bốc cháy trong vòng tròn ma thuật sự thật.",
+  "Penelope phát hiện Raon đã bị tẩy não bởi Leila.",
+  "Vinter cảnh báo về Yvonne và nguy cơ cô hoàn thành một tạo tác quan trọng.",
+  "Vinter đưa ra lời khuyên khó hiểu, bao gồm cả việc trốn chạy và giết Yvonne.",
+  "Vinter tiết lộ anh đã sử dụng phép thuật nghịch thời để thay đổi tương lai."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope vội vàng giúp đỡ Vinter khi anh gặp nạn.",
+   "cach_goi": "gọi tên Vinter, thân mật"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter đưa ra lời khuyên và cảnh báo cho Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Raon đã bị tẩy não.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Raon đã bị tẩy não.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope biết Yvonne đang tìm cách hoàn thành tạo tác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Vinter cảnh báo về Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Leila",
+   "loai": "ke_thu",
+   "mo_ta": "Leila đã tẩy não Raon và đang tìm cách hoàn thành tạo tác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Leila",
+   "loai": "ke_thu",
+   "mo_ta": "Vinter cảnh báo về Leila.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Raon: Cậu bé pháp sư đeo mặt nạ sư tử đã bị tẩy não.",
+  "Vinter: Sử dụng phép thuật nghịch thời để thay đổi tương lai."
+ ],
+ "stats": {
+  "tokens": 944,
+  "seconds": 28.3
+ }
+}

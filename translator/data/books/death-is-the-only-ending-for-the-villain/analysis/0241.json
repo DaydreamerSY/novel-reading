@@ -1,0 +1,64 @@
+{
+ "number": 241,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hiểu ra sự thật về quá khứ của Yvonne, Penelope đối mặt với cô bé và tiết lộ những đau khổ mà bản thân đã trải qua trong các vòng lặp thời gian. Cuộc trò chuyện dẫn đến việc Yvonne đặt câu hỏi về tình trạng hiện tại của cả hai người, và Penelope tiết lộ mục đích tìm kiếm Vinter để ngăn chặn sự lặp lại thời gian. Họ cùng nhau tìm thấy Vinter bị thương nặng trong hầm mộ Leila, và Penelope đã đánh thức ông ta.",
+ "boi_canh": "Trong hầm mộ Leila, sau khi Yvonne bày tỏ sự hoài nghi về những lời của Penelope.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Penelope tiết lộ sự thật về quá khứ của Yvonne.",
+  "Yvonne phản ứng bằng sự phủ nhận và tức giận.",
+  "Penelope giải thích lý do tại sao mình thay thế Yvonne.",
+  "Penelope và Yvonne tranh luận về việc Penelope có thể giúp Yvonne thoát khỏi tình trạng hiện tại hay không.",
+  "Penelope và Yvonne tìm thấy Vinter trong hầm mộ Leila."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope cố gắng giải thích sự thật cho Yvonne, dù Yvonne không tin.",
+   "cach_goi": "gọi tên Yvonne, thân mật nhưng có phần lạnh lùng"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Yvonne không tin lời của Penelope và phản ứng tiêu cực.",
+   "cach_goi": "gọi tên Penelope, thô lỗ và đầy ngờ vực"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope tìm kiếm và đánh thức Vinter.",
+   "cach_goi": "gọi tên Vinter, quan tâm và khẩn cấp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter vừa tỉnh lại và không hiểu chuyện gì đang xảy ra.",
+   "cach_goi": "gọi tên Penelope, bối rối và ngạc nhiên"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Yvonne quan sát Penelope và đưa ra những nhận xét.",
+   "cach_goi": "gọi tên Penelope, tò mò và có chút trêu chọc"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 718,
+  "seconds": 21.6
+ }
+}

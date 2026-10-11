@@ -1,0 +1,56 @@
+{
+ "number": 268,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope và Callisto đang chiến đấu với lũ rắn đá khi một con rắn khổng lồ xuất hiện. Callisto bất ngờ đưa Penelope lên lưng như một tấm khiên để tiếp tục chiến đấu. Tình hình trở nên nguy hiểm hơn khi một quái vật ba đầu xuất hiện, và cả hai rơi xuống một hố đen bí ẩn.",
+ "boi_canh": "Trong một hẻm núi đá, giữa lúc chiến đấu với lũ rắn đá.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto"
+ ],
+ "su_kien": [
+  "Rắn đá bị chặt đầu bởi một thanh kiếm bí ẩn.",
+  "Callisto bất ngờ xuất hiện và chiến đấu với lũ rắn.",
+  "Callisto đưa Penelope lên lưng như một tấm khiên.",
+  "Một quái vật ba đầu xuất hiện, gây náo loạn.",
+  "Penelope và Callisto rơi xuống một hố đen."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Người yêu, Penelope cảm thấy khó chịu khi Callisto cưỡi trên lưng cô.",
+   "cach_goi": "gọi tên 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Người yêu, Callisto bảo vệ Penelope và đưa cô lên lưng để chiến đấu.",
+   "cach_goi": "gọi tên 'Princess', thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "thay_tro",
+   "mo_ta": "Không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Callisto có những lời nói thô lỗ với Penelope.",
+   "cach_goi": "gọi tên 'Princess', trịch thượng"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính nhân vật."
+ ],
+ "stats": {
+  "tokens": 575,
+  "seconds": 17.1
+ }
+}

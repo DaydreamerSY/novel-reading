@@ -1,0 +1,79 @@
+{
+ "number": 118,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope nhận được một lời mời bí ẩn từ Vinter thông qua một chiếc khăn tay hình thỏ, dẫn đến việc cô sử dụng phép thuật thay đổi ngoại hình để cải trang thành một cậu bé. Cô đến gặp Vinter theo lời mời nhưng gặp phải những rắc rối nhỏ khi đến nơi và bị nghi ngờ. Cuối cùng, họ bước vào phòng làm việc của Vinter, nơi cuộc trò chuyện bắt đầu với một vài sự bối rối.",
+ "boi_canh": "Phòng làm việc của Vinter, thời điểm hiện tại (có lẽ là buổi chiều).",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Vinter",
+  "Người đàn ông đội mặt nạ thỏ",
+  "Người đàn ông đội mặt nạ sư tử"
+ ],
+ "su_kien": [
+  "Penelope nhận được lời mời bí ẩn thông qua một chiếc khăn tay hình thỏ.",
+  "Cô sử dụng phép thuật thay đổi ngoại hình để cải trang thành một cậu bé bằng vòng tay mà Derrick tặng.",
+  "Penelope gặp khó khăn khi đến nơi và bị nghi ngờ bởi người canh gác.",
+  "Vinter cho phép Penelope vào phòng làm việc của mình.",
+  "Cuộc trò chuyện bắt đầu với những sự bối rối nhỏ về thời gian và cách thức liên lạc."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, đã tịch thu mặt nạ của Penelope và tặng vòng tay phép thuật.",
+   "cach_goi": "gọi tên Derrick, không thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Người gửi lời mời bí ẩn, có vẻ đang điều tra Penelope.",
+   "cach_goi": "gọi tên Vinter, không thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Người đàn ông đội mặt nạ thỏ",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhân viên canh gác, nghi ngờ Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người đàn ông đội mặt nạ thỏ",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhân viên canh gác, nghi ngờ Penelope.",
+   "cach_goi": "gọi 'Who are you?', lạnh lùng"
+  },
+  {
+   "a": "Vinter",
+   "b": "Người đàn ông đội mặt nạ thỏ",
+   "loai": "cap_tren",
+   "mo_ta": "Vinter là người có quyền lực hơn, ra lệnh cho nhân viên canh gác.",
+   "cach_goi": "gọi 'Put it off.', lạnh lùng"
+  },
+  {
+   "a": "Người đàn ông đội mặt nạ thỏ",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Nhân viên canh gác, tuân theo mệnh lệnh của Vinter.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Người đàn ông đội mặt nạ sư tử",
+   "loai": "cap_tren",
+   "mo_ta": "Vinter là người có quyền lực hơn, ra lệnh cho nhân viên canh gác.",
+   "cach_goi": "gọi 'He's a guest.', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope cải trang thành một cậu bé bằng vòng tay phép thuật của Derrick."
+ ],
+ "stats": {
+  "tokens": 914,
+  "seconds": 27.5
+ }
+}

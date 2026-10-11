@@ -1,0 +1,86 @@
+{
+ "number": 226,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi quái vật phun lửa thiêu rụi cung điện, Penelope và Thái tử Callisto may mắn sống sót nhờ phép thuật phòng thủ của Vinter. Trong lúc hỗn loạn, họ phát hiện ra Yvonne đang trốn thoát và cố gắng đuổi theo. Tuy nhiên, Eckles xuất hiện, thể hiện sự lo lắng cho Penelope và đe dọa sẽ giết Yvonne nếu cô không ở lại bên anh ta, tạo nên một tình huống căng thẳng giữa ba người.",
+ "boi_canh": "Cung điện đang bị lửa quái vật thiêu rụi.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Vinter",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Quái vật phun lửa thiêu rụi cung điện.",
+  "Phép thuật phòng thủ của Vinter bảo vệ Penelope và Callisto.",
+  "Penelope phát hiện Yvonne đang trốn thoát.",
+  "Eckles xuất hiện, đe dọa sẽ giết Yvonne nếu Penelope không ở lại bên anh ta.",
+  "Eckles bị sét đánh nhưng vẫn sống sót."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Penelope và Callisto có tình cảm với nhau, thường xuyên cứu giúp lẫn nhau.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Penelope và Callisto có tình cảm với nhau, thường xuyên cứu giúp lẫn nhau.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "cap_tren",
+   "mo_ta": "Eckles là người bảo vệ Penelope, thể hiện sự lo lắng và chiếm hữu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Eckles là người bảo vệ Penelope, thể hiện sự lo lắng và chiếm hữu.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "ban_be",
+   "mo_ta": "Penelope và Yvonne là bạn bè, Penelope lo lắng cho sự an toàn của Yvonne.",
+   "cach_goi": "gọi tên Yvonne, thân mật"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Penelope và Yvonne là bạn bè, Penelope lo lắng cho sự an toàn của Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Eckles",
+   "loai": "doi_thu",
+   "mo_ta": "Callisto và Eckles có sự cạnh tranh giành Penelope.",
+   "cach_goi": "gọi tên Eckles, lạnh lùng"
+  },
+  {
+   "a": "Eckles",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Callisto và Eckles có sự cạnh tranh giành Penelope.",
+   "cach_goi": "gọi tên Callisto, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Vinter đã tạo phép thuật phòng thủ cho Penelope, được kích hoạt bởi tiếng kêu của cô."
+ ],
+ "stats": {
+  "tokens": 945,
+  "seconds": 28.2
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "number": 40,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope trải nghiệm bữa ăn thịnh soạn với những món ăn khó tiêu hóa và nhận ra sự bất ổn trong bếp núc của nhà Eckart. Sau đó, cô tham gia một cuộc họp gia đình nơi cha cô thông báo về việc thay đổi quy định cho phép phụ nữ tham gia vào cuộc thi săn bắn sắp tới, một sự kiện có liên quan đến quá khứ đen tối của nhân vật phản diện Penelope trước đây trong trò chơi. Cô cũng khám phá ra những hành động gây rối mà phiên bản Penelope trước đó đã thực hiện tại cuộc thi săn bắn và nhận được lời cảnh báo từ cha cô.",
+ "boi_canh": "Phòng ăn dinh thự Công tước Eckart, buổi trưa.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Emily",
+  "The Duke",
+  "Mrs. Donna"
+ ],
+ "su_kien": [
+  "Penelope thử nghiệm các dụng cụ ăn uống lớn nhỏ khác nhau với thức ăn.",
+  "Cha cô thông báo về cuộc thi săn bắn sắp tới và việc phụ nữ được phép tham gia.",
+  "Reynold nhắc lại những hành động gây rối của Penelope trước đây tại cuộc thi săn bắn.",
+  "Derrick kể chi tiết về cách Penelope đã sử dụng cung tên để tấn công một nhóm quý tộc.",
+  "Penelope nhận được lời cảnh báo từ cha cô về việc giữ im lặng."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Eckles, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi Penelope; không tương tác trực tiếp.",
+   "cach_goi": "gọi tên Derrick, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi Penelope; có sự đối đầu và căng thẳng.",
+   "cach_goi": "gọi tên Reynold, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Hầu gái của Penelope; có sự biết ơn và trân trọng.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "The Duke",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi của The Duke; có sự tôn trọng và đôi khi là thách thức.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "The Duke",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi của Penelope; có sự quan tâm và cảnh báo.",
+   "cach_goi": "gọi tên Penelope, nghiêm khắc"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Có sự cạnh tranh và chế giễu.",
+   "cach_goi": "gọi tên Penelope, thô lỗ"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi Penelope; không tương tác trực tiếp.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "The Duke",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Reynold; có sự khiển trách.",
+   "cach_goi": "gọi tên Reynold, nghiêm khắc"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (nhân vật chính)",
+  "Crown Prince Root (được nhắc đến trong quá khứ)"
+ ],
+ "stats": {
+  "tokens": 1060,
+  "seconds": 33.2
+ }
+}

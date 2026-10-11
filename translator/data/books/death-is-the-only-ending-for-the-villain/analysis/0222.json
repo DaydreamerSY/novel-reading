@@ -1,0 +1,93 @@
+{
+ "number": 222,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope gặp lại Callisto sau một thời gian ngắn và cùng anh trốn thoát khỏi cung điện. Cô phát hiện ra có đường hầm bí mật dẫn đến hậu cung, nơi cô bị giam giữ. Sau đó, Penelope tranh luận với Callisto về kế hoạch giải cứu con tin và quyết định sử dụng phép thuật phòng thủ để giúp đỡ, bất chấp sự phản đối của anh.",
+ "boi_canh": "Bên trong một đường hầm bí mật dưới cung điện Hoàng gia, vào thời điểm đang trốn thoát khỏi những kẻ bắt cóc.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Vinter",
+  "Yvonne",
+  "Raon",
+  "Ellen"
+ ],
+ "su_kien": [
+  "Penelope và Callisto trốn thoát khỏi cung điện.",
+  "Họ phát hiện ra một đường hầm bí mật dẫn đến hậu cung.",
+  "Penelope tranh luận với Callisto về kế hoạch giải cứu con tin.",
+  "Penelope tiết lộ cô có thể sử dụng phép thuật phòng thủ.",
+  "Callisto đồng ý cho Penelope tham gia, nhưng cảnh báo cô."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope là chủ nhân của Eckles, mối quan hệ hiện tại chưa rõ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Tình cảm lãng mạn đang phát triển giữa hai người.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Tình cảm lãng mạn đang phát triển giữa hai người.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope nhận chỉ dẫn từ Vinter, mối quan hệ có vẻ cấp trên - cấp dưới.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Vinter",
+   "loai": "thay_tro",
+   "mo_ta": "Callisto có vẻ tôn trọng Vinter, mối quan hệ thầy trò hoặc đồng nghiệp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người là đối thủ trong game.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ quen biết nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Ellen",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người là đối thủ trong game.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Nô lệ Penelope mua về, sau trở thành hiệp sĩ hộ vệ của cô.",
+  "Callisto: Thái tử Callisto Regulus",
+  "Vinter: Hầu tước Vinter Verdandi, pháp sư",
+  "Yvonne: Con gái ruột thất lạc của Công tước Eckart",
+  "Raon: Cậu bé pháp sư đeo mặt nạ sư tử",
+  "Ellen: Hầu tước Ellen"
+ ],
+ "stats": {
+  "tokens": 992,
+  "seconds": 29.7
+ }
+}

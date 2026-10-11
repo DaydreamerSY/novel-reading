@@ -1,0 +1,89 @@
+{
+ "number": 59,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Penelope vô tình trao tặng một vật phẩm cho Công tước Eckart, bầu không khí trở nên căng thẳng. Tại buổi tiệc săn bắn của Hoàng tử, Penelope bị mọi người chỉ trích vì trang phục và hành động kỳ lạ. Cô ấy đáp trả bằng cách mang theo cung tên và gây ra sự chú ý lớn, khiến những người xung quanh phải lo lắng. Cuối cùng, Công tước Eckart cảnh cáo Penelope về hành vi của cô.",
+ "boi_canh": "Buổi tiệc săn bắn tại Cung điện Hoàng gia, trước thềm lễ hội.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Emily",
+  "Công tước Eckart",
+  "Hoàng tử (Crown Prince)",
+  "Các quan khách"
+ ],
+ "su_kien": [
+  "Penelope trao tặng một vật phẩm cho Công tước, gây ra sự căng thẳng.",
+  "Derrick tỏ vẻ tức giận khi thấy Penelope nhận được vật phẩm đó.",
+  "Reynold cười lớn vì sự việc này.",
+  "Penelope bị mọi người chỉ trích vì trang phục và hành động kỳ lạ tại buổi tiệc.",
+  "Penelope mang cung tên đến buổi tiệc, gây ra sự chú ý lớn."
+ ],
+ "quan_he": [
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope, có vẻ tức giận với cô.",
+   "cach_goi": "gọi tên Penelope, không rõ cảm xúc"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Em trai nuôi của Penelope, cô cảm thấy bối rối khi anh tức giận.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope, cười lớn về sự việc.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Em trai nuôi của Penelope, cô không rõ cảm xúc của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi của Penelope, cố gắng xoa dịu tình hình.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi của Công tước, cảm thấy có lỗi với ông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Hầu gái của Penelope, lo lắng cho cô.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Chủ nhân của Emily, ra lệnh cho cô.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart: Nhân vật chính, xuyên vào ác nữ Penelope trong game hẹn hò."
+ ],
+ "stats": {
+  "tokens": 958,
+  "seconds": 30.0
+ }
+}

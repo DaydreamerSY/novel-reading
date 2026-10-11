@@ -1,0 +1,66 @@
+{
+ "number": 177,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope trải nghiệm một ký ức về quá khứ, chứng kiến cảnh Vinter và Callisto chiến đấu với những sinh vật kỳ lạ trong hang động dưới đáy biển Soleil Island. Cô nhìn thấy hình ảnh bản thân trước khi bị nhập vào cơ thể Penelope Eckart, sau đó cố gắng quay trở lại thực tại thông qua một chiếc gương ma thuật. Tuy nhiên, cô phát hiện ra rằng mình đã vô tình kích hoạt một 'Hidden Route' và phải đối mặt với những thử thách mới.",
+ "boi_canh": "Trong một không gian ngầm dưới đáy biển Soleil Island, Penelope đang chứng kiến ký ức về quá khứ.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Vinter",
+  "Yvonne",
+  "Emily",
+  "Raon"
+ ],
+ "su_kien": [
+  "Penelope thức dậy trong một không gian ngầm trên đảo Soleil Island.",
+  "Cô chứng kiến cảnh Yvonne sử dụng di tích cổ để cứu Raon.",
+  "Penelope nhìn thấy hình ảnh bản thân trước khi bị nhập vào cơ thể Penelope Eckart thông qua gương.",
+  "Cô cố gắng quay trở lại thực tại bằng cách chạm vào chiếc gương ma thuật.",
+  "Penelope phát hiện ra mình đã kích hoạt 'Hidden Route'."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope chứng kiến Callisto né tránh sinh vật kỳ lạ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope chứng kiến Vinter sử dụng phép thuật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope chứng kiến Yvonne sử dụng di tích cổ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "cap_tren",
+   "mo_ta": "Emily là hầu gái riêng của Penelope, báo cáo tình trạng của Penelope.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope chứng kiến Yvonne cứu Raon.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Di tích cổ của Yvonne biến thành một chiếc gương ma thuật lớn."
+ ],
+ "stats": {
+  "tokens": 702,
+  "seconds": 21.1
+ }
+}

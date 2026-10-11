@@ -1,0 +1,83 @@
+{
+ "number": 221,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope bị bắt đến Cung điện Hoàng gia bởi Eckles. Cô bị yêu cầu giao nộp mọi thứ trong túi và đối mặt với những lời nói cay nghiệt của anh ta khi cô tiết lộ về hoa hồng khô - một vật thể có liên quan đến Yvonne. Sau đó, Penelope bị giam giữ, nhưng sau đó Callisto đột nhập vào phòng cô thông qua lò sưởi.",
+ "boi_canh": "Trong Cung điện Hoàng gia, vào lúc không rõ thời gian.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Yvonne",
+  "Vinter",
+  "Jean"
+ ],
+ "su_kien": [
+  "Penelope bị đưa đến Cung điện Hoàng gia bởi Eckles.",
+  "Cô bị yêu cầu giao nộp mọi thứ trong túi.",
+  "Penelope tiết lộ về hoa hồng khô và nguồn gốc của nó.",
+  "Penelope bị giam giữ trong phòng.",
+  "Callisto đột nhập vào phòng cô thông qua lò sưởi."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ căng thẳng, Penelope nghi ngờ và đối đầu với Eckles.",
+   "cach_goi": "gọi tên Eckles, lạnh lùng"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ căng thẳng, Eckles dò xét và kiểm soát Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ bất ngờ, Penelope bối rối khi thấy Callisto.",
+   "cach_goi": "gọi tên Callisto, ngạc nhiên"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Gặp gỡ bất ngờ, Callisto hỏi thăm tình hình của Penelope.",
+   "cach_goi": "gọi tên Penelope, quan tâm"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "ke_thu",
+   "mo_ta": "Penelope và Yvonne là kẻ thù, liên quan đến những người con tin.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "khac",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Penelope cảm thấy tội lỗi khi liên quan đến Vinter.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Jean",
+   "loai": "thay_tro",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Penelope nhắc đến Jean và phép thuật của anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Nô lệ được Penelope mua về, sau đó trở thành hiệp sĩ hộ vệ.",
+  "Callisto: Thái tử Callisto Regulus",
+  "Vinter: Hầu tước Vinter Verdandi, pháp sư",
+  "Yvonne: Con gái ruột thất lạc của Công tước Eckart"
+ ],
+ "stats": {
+  "tokens": 893,
+  "seconds": 26.8
+ }
+}

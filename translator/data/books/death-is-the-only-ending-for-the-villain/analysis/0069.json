@@ -1,0 +1,99 @@
+{
+ "number": 69,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope bị Crown Prince trêu chọc khi anh ta lấy đi một món quà được khắc bùa phép phòng thủ mà cô đã chuẩn bị cho Reynold. Cô cố gắng giành lại nó nhưng không thành công vì chiều cao của anh ta. Sau đó, họ trao đổi những lời nói đùa và Penelope buộc phải thừa nhận rằng món quà là để tặng Reynold. Sự kiện này khiến favorability với Derrick và Reynold giảm xuống. Cuối cùng, Crown Prince đề nghị đi săn cùng cô, gây ra một cuộc đối đầu giữa các nhân vật chính và giới thiệu Countess Dorothea.",
+ "boi_canh": "Một buổi tiệc ngoài trời vào ban ngày.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Crown Prince",
+  "Duke of Eckart",
+  "Countess Dorothea"
+ ],
+ "su_kien": [
+  "Crown Prince lấy đi món quà mà Penelope đã chuẩn bị cho Reynold.",
+  "Penelope cố gắng giành lại món quà nhưng không thành công.",
+  "Penelope buộc phải thừa nhận rằng món quà là để tặng Reynold.",
+  "Crown Prince đề nghị đi săn cùng Penelope.",
+  "Countess Dorothea mời Penelope tham gia tiệc trà."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Crown Prince",
+   "loai": "doi_thu",
+   "mo_ta": "Trêu chọc và khiêu khích lẫn nhau, favorability tăng giảm thất thường.",
+   "cach_goi": "gọi tên 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Crown Prince",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Trêu chọc và khiêu khích lẫn nhau, favorability tăng giảm thất thường.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, Penelope xin lỗi vì đã 'bán' anh ta cho Crown Prince.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, Penelope xin lỗi vì đã 'bán' anh ta cho Crown Prince.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, favorability giảm sau sự kiện với Crown Prince.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, favorability giảm sau sự kiện với Crown Prince.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Duke of Eckart",
+   "b": "Crown Prince",
+   "loai": "cap_tren",
+   "mo_ta": "Cha của Reynold và Derrick, Duke tỏ ra tôn trọng Crown Prince.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Crown Prince",
+   "b": "Duke of Eckart",
+   "loai": "cap_tren",
+   "mo_ta": "Cha của Reynold và Derrick, Duke tỏ ra tôn trọng Crown Prince.",
+   "cach_goi": "gọi 'Duke', lễ phép"
+  },
+  {
+   "a": "Countess Dorothea",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, mời Penelope tham gia tiệc trà.",
+   "cach_goi": "gọi tên Penelope, lịch sự"
+  },
+  {
+   "a": "Penelope",
+   "b": "Countess Dorothea",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, mời Penelope tham gia tiệc trà.",
+   "cach_goi": "gọi tên 'Countess Dorothea', lịch sự"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1089,
+  "seconds": 34.0
+ }
+}

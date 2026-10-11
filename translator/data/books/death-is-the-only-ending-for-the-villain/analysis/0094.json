@@ -1,0 +1,83 @@
+{
+ "number": 94,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi rời khỏi phòng thẩm vấn, Penelope đã xin lỗi Vinter ở một nơi vắng vẻ. Vinter tặng cô một con thỏ làm từ khăn tay bằng ma thuật, khiến Penelope bất ngờ và vui vẻ. Cô được phép chuyển đến cung điện thay vì tham gia săn bắn, nhưng cảm thấy bực bội vì những hiểu lầm với gia đình Eckart. Cuối cùng, cô gặp lại Reynold.",
+ "boi_canh": "Trong một khu vực vắng vẻ sau phòng thẩm vấn.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Penelope xin lỗi Vinter vì sự việc liên quan đến Derrick.",
+  "Vinter tặng Penelope một con thỏ làm từ khăn tay bằng ma thuật.",
+  "Penelope được phép chuyển đến cung điện thay vì tham gia săn bắn.",
+  "Gia đình Eckart có vẻ hiểu lầm Penelope về vụ án ám sát thái tử.",
+  "Penelope gặp lại Reynold."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope xin lỗi Vinter vì sự vướng mắc giữa cô và Derrick.",
+   "cach_goi": "gọi tên Vinter, lễ phép"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter tặng khăn tay cho Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, có vẻ hiểu lầm Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, có vẻ lo lắng cho Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, có vẻ hiểu lầm Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, có vẻ lo lắng cho Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope cảm ơn Vinter.",
+   "cach_goi": "gọi tên Vinter, lễ phép"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter đáp lại lời cảm ơn của Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 851,
+  "seconds": 25.3
+ }
+}

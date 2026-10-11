@@ -1,0 +1,85 @@
+{
+ "number": 180,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Penelope tuyên bố mình là con tốt thí để trốn tránh tội lỗi, Công tước Eckart sốc và không tin được. Cô ấy cố gắng ngăn chặn cuộc điều tra, nhưng Derrick phản đối mạnh mẽ. Sự việc trở nên phức tạp hơn khi Yvonne xuất hiện và Reynold bày tỏ sự nghi ngờ của mình về động cơ của Penelope. Cuối cùng, để tránh làm tình hình thêm căng thẳng, Công tước cho phép Penelope nghỉ ngơi, trong khi các thành viên gia đình Eckart tranh cãi về cách xử lý vấn đề này.",
+ "boi_canh": "Trong phòng làm việc của Công tước Eckart, sau một cuộc đối chất căng thẳng.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Yvonne",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Penelope tuyên bố mình là con tốt thí.",
+  "Derrick phản đối việc Công tước ngăn chặn cuộc điều tra.",
+  "Yvonne xuất hiện và có vẻ sốc trước tình hình.",
+  "Reynold bày tỏ nghi ngờ về động cơ của Penelope.",
+  "Công tước cho phép Penelope nghỉ ngơi."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Căng thẳng và đối đầu; Penelope thách thức quyền lực của Derrick.",
+   "cach_goi": "gọi tên Derrick, lạnh lùng"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Căng thẳng và đối đầu; Derrick tức giận vì Penelope đã làm thay đổi kế hoạch của anh ta.",
+   "cach_goi": "gọi tên Penelope, thô lỗ"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, nhưng căng thẳng và đầy ngờ vực.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, nhưng có vẻ đang cố gắng kiểm soát Penelope.",
+   "cach_goi": "gọi 'Baby', thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Có vẻ như có sự tin tưởng lẫn nhau nhưng cũng có sự nghi ngờ và hiểu lầm.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Có vẻ như có sự tin tưởng lẫn nhau nhưng cũng có sự nghi ngờ và hiểu lầm.",
+   "cach_goi": "gọi tên Reynold, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Penelope một cách tò mò.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Quan sát Vinter một cách tò mò.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 947,
+  "seconds": 28.5
+ }
+}

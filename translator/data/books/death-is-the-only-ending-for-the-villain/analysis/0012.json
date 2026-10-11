@@ -1,0 +1,69 @@
+{
+ "number": 12,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope cảm thấy chán nản vì phải tham dự buổi lễ và cân nhắc việc trốn tránh. Cô lo lắng về việc Derrick có thể giảm sự quan tâm của mình nếu cô nói chuyện với anh ta. Sau khi Emily rời đi, Penelope suy nghĩ về những lựa chọn của mình, bao gồm cả việc giả vờ chết để thoát khỏi trò chơi này. Cuối cùng, cô quyết định tham dự buổi lễ với vẻ ngoài kín đáo và vô tình, sau đó bị Derrick bất ngờ lên chung xe ngựa với cô.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại dinh thự nhà Công tước Eckart vào một buổi sáng trước buổi lễ quan trọng.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope cân nhắc việc trốn tránh buổi lễ và lo lắng về sự quan tâm của Derrick.",
+  "Penelope suy nghĩ về việc giả vờ chết để thoát khỏi trò chơi.",
+  "Penelope quyết định tham dự buổi lễ với vẻ ngoài kín đáo.",
+  "Derrick bất ngờ lên chung xe ngựa với Penelope.",
+  "Sự quan tâm của Derrick đối với Penelope tăng lên 6%."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "người hầu gái riêng của Penelope; phục tùng và lo lắng.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "người hầu gái riêng của Penelope; phục tùng và lo lắng.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "cạnh tranh sự quan tâm, có vẻ lạnh lùng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "cạnh tranh sự quan tâm, có vẻ lạnh lùng.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "anh trai nuôi; Penelope suy nghĩ về anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "anh trai nuôi; Penelope suy nghĩ về anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 652,
+  "seconds": 20.7
+ }
+}

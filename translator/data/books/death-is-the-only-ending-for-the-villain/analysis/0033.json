@@ -1,0 +1,71 @@
+{
+ "number": 33,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope vô tình xâm nhập vào một nơi bí mật của Hầu tước Vinter Verdandi và gặp gỡ những đứa trẻ đeo mặt nạ động vật. Cô ấy cố gắng hành xử như một quý tộc kiêu ngạo để che giấu sự sợ hãi, nhưng cuối cùng bị cuốn vào một chuỗi các sự kiện bất ngờ liên quan đến một yêu cầu bí mật và một thỏa thuận mới với Vinter.",
+ "boi_canh": "Trong căn phòng bí mật của Hầu tước Vinter Verdandi vào giữa trưa.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Vinter",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope xâm nhập vào một nơi bí mật và gặp gỡ những đứa trẻ đeo mặt nạ.",
+  "Cô ấy cố gắng hành xử như một quý tộc kiêu ngạo để che giấu sự sợ hãi.",
+  "Vinter cố gắng đuổi Penelope ra khỏi đó.",
+  "Những đứa trẻ chào tạm biệt Penelope với lời mời chơi lại vào lần sau.",
+  "Penelope bị Vinter giữ lại và đồng ý nghe kết quả yêu cầu của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope cố gắng hành xử như một quý tộc, Vinter lịch sự và có phần bối rối.",
+   "cach_goi": "gọi tên 'Vinter', lễ phép"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Vinter lịch sự và có phần bối rối, cố gắng đuổi Penelope ra.",
+   "cach_goi": "gọi tên 'Penelope', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Những đứa trẻ đeo mặt nạ",
+   "loai": "dong_minh",
+   "mo_ta": "Penelope tương tác vui vẻ với những đứa trẻ.",
+   "cach_goi": "gọi 'Auntie', thân mật"
+  },
+  {
+   "a": "Những đứa trẻ đeo mặt nạ",
+   "b": "Penelope",
+   "loai": "dong_minh",
+   "mo_ta": "Những đứa trẻ chào tạm biệt Penelope.",
+   "cach_goi": "gọi 'Auntie', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Vinter là Hầu tước Vinter Verdandi, một pháp sư."
+ ],
+ "stats": {
+  "tokens": 781,
+  "seconds": 24.3
+ }
+}

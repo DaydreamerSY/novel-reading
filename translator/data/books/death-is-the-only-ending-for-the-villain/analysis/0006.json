@@ -1,0 +1,56 @@
+{
+ "number": 6,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope, nhập vai ác nữ Penelope Eckart trong game hẹn hò, đến gặp Công tước Eckart để đối mặt với sự nghiêm khắc của ông sau một vụ lộn xộn. Cô phải đối mặt với những lựa chọn kỳ lạ và khó xử trong cuộc trò chuyện, cuối cùng đã nhận được một chức năng đặc biệt cho phép cô tự do nói chuyện với cha dượng mà không bị giới hạn bởi các lựa chọn có sẵn. Sau khi cầu xin tha thứ, Penelope hứa sẽ chứng tỏ giá trị của mình trước buổi lễ thành niên.",
+ "boi_canh": "Phòng làm việc của Công tước Eckart vào buổi sáng.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Penelope đến phòng làm việc của Công tước.",
+  "Penelope đối mặt với các lựa chọn kỳ lạ trong hộp thoại với Công tước.",
+  "Penelope nhận được chức năng 'Choices ON/OFF'.",
+  "Penelope quỳ lạy trước mặt Công tước để xin lỗi.",
+  "Công tước chấp nhận lời xin lỗi của Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai nuôi, Penelope không giao tiếp trực tiếp với Derrick trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "cap_tren",
+   "mo_ta": "cha dượng, Penelope phải đối mặt với sự nghiêm khắc của Công tước.",
+   "cach_goi": "gọi 'Your Grace', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "cha dượng, Công tước tỏ ra xa cách và nghiêm khắc với Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "cha dượng, Penelope gọi Công tước là cha sau khi nhận được chức năng đặc biệt.",
+   "cach_goi": "gọi 'father', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thay đổi về danh tính trong chương này."
+ ],
+ "stats": {
+  "tokens": 636,
+  "seconds": 20.1
+ }
+}

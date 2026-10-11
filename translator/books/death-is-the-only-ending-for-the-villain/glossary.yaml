@@ -1,0 +1,81 @@
+# BẢNG THUẬT NGỮ của truyện "Death Is the Only Ending for the Villain". Sửa bằng công cụ: python novel.py edit --book death
+# Bản khởi đầu: chỉ các nhân vật chính (giới tính + vai trò), để bước phân tích (analyze) nhận đúng người.
+# Bản nháp đầy đủ: python novel.py terms --book death  → glossary_draft.yaml (duyệt rồi chép sang đây).
+# Cách viết: xem đầu file translator/glossary.yaml của truyện chính.
+
+nhan_vat:
+  "Penelope":  # 791 lần
+    vi: "Penelope"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: "nhân vật chính, người kể chuyện (tôi); xuyên vào ác nữ Penelope Eckart của game hẹn hò, con gái nuôi nhà Công tước Eckart"
+  "Eckles":  # 898 lần
+    vi: "Eckles"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "nô lệ Penelope mua về, sau thành hiệp sĩ hộ vệ của cô; một trong các nam chính của game"
+  "Callisto":  # 717 lần
+    vi: "Callisto"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Thái tử Callisto Regulus; một trong các nam chính của game"
+  "Derrick":  # 662 lần
+    vi: "Derrick"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "con trưởng nhà Công tước Eckart (tiểu công tước), anh trai nuôi của Penelope; một trong các nam chính"
+  "Reynold":  # 547 lần
+    vi: "Reynold"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "con thứ nhà Công tước Eckart, anh trai nuôi của Penelope; một trong các nam chính"
+  "Vinter":  # 601 lần
+    vi: "Vinter"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Hầu tước Vinter Verdandi, pháp sư; một trong các nam chính"
+  "Yvonne":  # 879 lần
+    vi: "Yvonne"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: "con gái ruột thất lạc của Công tước Eckart, nữ chính của chế độ thường (normal mode) trong game"
+  "Emily":  # 493 lần
+    vi: "Emily"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: "hầu gái riêng của Penelope"
+  "Pennel":  # 19 lần
+    vi: "Pennel"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "quản gia nhà Eckart"
+  "Cedric":  # 158 lần
+    vi: "Cedric"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Cedric Porter, thuộc hạ thân cận của Thái tử"
+  "Raon":  # 114 lần
+    vi: "Raon"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "cậu bé pháp sư đeo mặt nạ sư tử"
+  "Judith":  # 36 lần, ngoại truyện
+    vi: "Judith"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: "Judith Regulus, con gái của Penelope và Callisto"
+  "Marienne":  # 110 lần, ngoại truyện
+    vi: "Marienne"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: ""
+  "Becky":
+    vi: "Becky"
+    gioitinh: "nữ"
+    ngoi3: ""
+    ghichu: "hầu gái tạm thời"
+  "Ellen":
+    vi: "Ellen"
+    gioitinh: "nam"
+    ngoi3: ""
+    ghichu: "Hầu tước Ellen"

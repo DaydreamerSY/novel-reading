@@ -1,0 +1,99 @@
+{
+ "number": 60,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope bị mắc kẹt giữa những người thân trong gia đình không thích cô, sau khi vô tình gây ấn tượng với Thái tử Callisto. Sau đó, một loạt sự kiện diễn ra bao gồm lời khai của Thái tử về việc Hoàng hậu và hoàng tử thứ hai vắng mặt, cùng với những động thái đáng ngờ từ các nhân vật khác. Cuối cùng, Penelope nhận được nhiệm vụ chính mới liên quan đến việc cứu giúp những người hàng xóm đang gặp nguy hiểm.",
+ "boi_canh": "Một bữa tiệc săn bắn tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Emily",
+  "Ellen"
+ ],
+ "su_kien": [
+  "Derrick ngồi cạnh Penelope và cảnh báo cô.",
+  "Thái tử Callisto tuyên bố về việc Hoàng hậu và hoàng tử thứ hai không tham gia săn bắn.",
+  "Marquis Ellen đặt câu hỏi về sự vắng mặt của Hoàng hậu và hoàng tử thứ hai.",
+  "Penelope nhận được nhiệm vụ chính mới từ hệ thống.",
+  "Reynold rời khỏi bàn, bỏ Penelope lại một mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, có vẻ không thích cô.",
+   "cach_goi": "gọi tên Derrick, thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, có vẻ không thích cô.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope vô tình gây ấn tượng với Thái tử, và có vẻ như anh ta quan tâm đến cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Thái tử có vẻ quan tâm đến Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, rời khỏi bàn bỏ cô lại.",
+   "cach_goi": "gọi tên Reynold, thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, rời khỏi bàn bỏ cô lại.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Hầu gái riêng của Penelope, quan tâm đến cô.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Hầu gái riêng của Penelope, quan tâm đến cô.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Ellen",
+   "loai": "dong_minh",
+   "mo_ta": "Thái tử và Hầu tước Ellen trao đổi thông tin.",
+   "cach_goi": "gọi tên Ellen, lễ phép"
+  },
+  {
+   "a": "Ellen",
+   "b": "Callisto",
+   "loai": "dong_minh",
+   "mo_ta": "Thái tử và Hầu tước Ellen trao đổi thông tin.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1044,
+  "seconds": 32.7
+ }
+}

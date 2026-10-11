@@ -1,0 +1,55 @@
+{
+ "number": 147,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope nghe được những lời nói và hành động bạo lực bất thường từ Eckles khiến cô kinh ngạc. Sau đó, Eckles đề nghị Penelope trốn thoát cùng anh ta, điều này làm cô hoảng hốt và suy nghĩ về hậu quả của việc đó đối với các mối quan hệ khác. Cuối cùng, Penelope bác bỏ lời đề nghị của Eckles để bảo vệ vị thế của mình trong xã hội.",
+ "boi_canh": "Trong phòng, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold"
+ ],
+ "su_kien": [
+  "Penelope nghe những lời nói và hành động bạo lực từ Eckles.",
+  "Eckles đề nghị Penelope trốn thoát cùng anh ta.",
+  "Penelope suy nghĩ về việc ảnh hưởng của việc trốn thoát đến các mối quan hệ khác.",
+  "Penelope bác bỏ lời đề nghị của Eckles.",
+  "Eckles bày tỏ sự thất vọng."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "cap_tren",
+   "mo_ta": "Chủ tớ, Penelope là chủ và Eckles là người hầu. Có sự quan tâm lẫn nhau.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Người hầu trung thành và tận tâm với chủ.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, mối quan hệ phức tạp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, mối quan hệ phức tạp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 574,
+  "seconds": 17.1
+ }
+}

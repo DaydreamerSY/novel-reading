@@ -1,0 +1,47 @@
+{
+ "number": 54,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi xác nhận không có huấn luyện buổi tối từ quản gia, Penelope đọc sách và chờ hoàng hôn. Cô quyết định luyện bắn cung để tự vệ trước những mối đe dọa từ Hoàng tử. Trong lúc luyện tập, cô vô tình gặp Reynold trên đường đi săn, dẫn đến một cuộc đối thoại kỳ quặc và bất ngờ về lời xin lỗi.",
+ "boi_canh": "Trong khuôn viên trang viên Eckart vào buổi chiều tà.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Reynold"
+ ],
+ "su_kien": [
+  "Penelope luyện bắn cung để tự vệ.",
+  "Cô gặp Reynold trên đường đi săn.",
+  "Reynold chế nhạo Penelope về trang phục và cách đi săn của cô.",
+  "Penelope chấp nhận lời xin lỗi của Reynold một cách khác thường.",
+  "Reynold đột ngột rời đi sau khi nói những lời bối rối."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai nuôi, không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, có sự căng thẳng và những lời chế nhạo.",
+   "cach_goi": "gọi tên Reynold, lạnh lùng"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ, có sự chế nhạo và bối rối.",
+   "cach_goi": "gọi tên Penelope, thân mật nhưng hơi trịch thượng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 491,
+  "seconds": 15.4
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "number": 9,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi khiến quản gia phải quỳ lạy, Penelope cảm thấy khá thoải mái. Tuy nhiên, cô lo lắng về việc quản gia sẽ báo cáo mọi chuyện với Công tước Eckart. Sau đó, cô yêu cầu phục hồi chức vụ hầu gái cũ của Emily và quyết định tự mình gặp Công tước để giải quyết mọi việc. Cuối cùng, cô trừng phạt Emily bằng cách đòi cô đưa kim.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại dinh thự Eckart, vào buổi sáng.",
+ "nhan_vat": [
+  "Penelope",
+  "Reynold",
+  "Emily",
+  "Quản gia",
+  "Reina (head maid)"
+ ],
+ "su_kien": [
+  "Penelope khiến quản gia phải quỳ lạy.",
+  "Penelope lo lắng về việc quản gia báo cáo với Công tước.",
+  "Penelope yêu cầu phục hồi chức vụ của Emily.",
+  "Penelope quyết định tự mình gặp Công tước.",
+  "Penelope trừng phạt Emily bằng cách đòi kim."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Quản gia",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope trừng phạt quản gia bằng lời nói, khiến ông phải quỳ lạy.",
+   "cach_goi": "gọi 'lady', lễ phép"
+  },
+  {
+   "a": "Quản gia",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Quản gia quỳ lạy trước Penelope sau khi bị trừng phạt.",
+   "cach_goi": "gọi 'lady', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân, Emily là hầu gái.",
+   "cach_goi": "gọi 'lady', lễ phép"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Emily là hầu gái, cúi đầu trước Penelope.",
+   "cach_goi": "gọi 'lady', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reina (head maid)",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope ra lệnh cho Reina.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reina (head maid)",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Reina báo cáo với Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 710,
+  "seconds": 22.4
+ }
+}

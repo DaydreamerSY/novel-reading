@@ -1,0 +1,61 @@
+{
+ "number": 254,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong phòng thiêu đốt của dinh thự Công tước Eckart, Penelope và Thái tử Callisto xảy ra một cuộc tranh cãi nảy lửa khi Penelope giữ chặt tóc anh ta. Sau đó, Penelope khiến Callisto suy nghĩ về những lời nói và hành động của mình, cũng như về sự lựa chọn ở lại thế giới này của cô. Cuối cùng, họ giải quyết được một phần mâu thuẫn, với Callisto hứa sẽ thay đổi cách cư xử của mình.",
+ "boi_canh": "Trong phòng thiêu đốt tại dinh thự Công tước Eckart.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Cedric"
+ ],
+ "su_kien": [
+  "Penelope giữ chặt tóc Callisto trong phòng thiêu đốt.",
+  "Callisto bày tỏ sự lo lắng về việc Penelope lựa chọn ở lại thế giới này.",
+  "Penelope khiến Callisto suy nghĩ về những lời nói và hành động của mình.",
+  "Callisto hứa sẽ thay đổi cách cư xử của mình.",
+  "Cuộc trò chuyện giữa Penelope và Callisto hé lộ những suy tư sâu sắc về mối quan hệ và tương lai."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Mối quan hệ tình cảm, Penelope có phần trêu chọc và kiểm soát Callisto.",
+   "cach_goi": "gọi tên 'Thái tử', không trang trọng"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Callisto lo lắng và bám víu Penelope, thể hiện sự phụ thuộc.",
+   "cach_goi": "gọi tên 'Penelope', thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng có vẻ như Cedric là người thân cận của Callisto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Callisto cố gắng xin lỗi Penelope.",
+   "cach_goi": "gọi tên 'Công chúa', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Penelope trêu chọc Callisto.",
+   "cach_goi": "gọi tên 'Thái tử', không trang trọng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 693,
+  "seconds": 20.9
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "number": 112,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope, mệt mỏi vì bị đám quý tộc vây quanh, cố gắng lẻn vào phòng của Eckles. Cô gặp phải sự cản trở từ hầu cận và các hiệp sĩ, nhưng vẫn quyết tâm tiến lên. Sau khi chờ đợi bên ngoài cửa phòng, cô cuối cùng cũng được phép vào. Trong phòng, cô phát hiện ra Eckles đang ốm và buồn bã, và anh trao cho cô một vương miện hoa dại tự làm, khiến Penelope ngạc nhiên.",
+ "boi_canh": "Hành lang lâu đài, buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Butler",
+  "Knights"
+ ],
+ "su_kien": [
+  "Penelope bị đám quý tộc vây quanh.",
+  "Hầu cận cố gắng ngăn Penelope vào phòng Eckles.",
+  "Penelope thúc giục hầu cận nhường đường.",
+  "Eckles từ chối mở cửa cho Penelope.",
+  "Eckles trao tặng Penelope một vương miện hoa dại."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Butler",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là công chúa, ra lệnh cho hầu cận.",
+   "cach_goi": "gọi 'Butler', lễ phép"
+  },
+  {
+   "a": "Butler",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Hầu cận phục tùng mệnh lệnh của công chúa.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Knights",
+   "b": "Penelope",
+   "loai": "dong_minh",
+   "mo_ta": "Các hiệp sĩ cố gắng bảo vệ Penelope khỏi đám đông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope quan tâm đến tình trạng của Eckles.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Eckles có vẻ buồn bã và ngại ngùng khi Penelope đến.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: nô lệ được Penelope mua về, sau trở thành hiệp sĩ hộ vệ của cô."
+ ],
+ "stats": {
+  "tokens": 670,
+  "seconds": 20.1
+ }
+}

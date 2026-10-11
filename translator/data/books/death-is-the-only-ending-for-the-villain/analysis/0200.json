@@ -1,0 +1,53 @@
+{
+ "number": 200,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đánh bại quái vật và tìm thấy kho báu, Penelope cùng Thái tử Callisto trốn thoát đến một nơi quen thuộc. Trong lúc Callisto chăm sóc Penelope, cô vô tình tiết lộ về quá khứ của mình và sự thật rằng cô không phải là Penelope thực sự. Cô cũng chia sẻ những ước mơ thời thơ ấu về việc trở thành nhà khảo cổ học, và Callisto bày tỏ tình cảm với cô.",
+ "boi_canh": "Trong một khu vực đổ nát, đầy vàng bạc châu báu sau trận chiến.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto"
+ ],
+ "su_kien": [
+  "Penelope và Callisto trốn thoát khỏi hiện trường chiến đấu.",
+  "Callisto chăm sóc Penelope, lau nước mắt cho cô.",
+  "Penelope tiết lộ với Callisto rằng cô không phải là Penelope thật sự.",
+  "Penelope chia sẻ về ước mơ trở thành nhà khảo cổ học thời thơ ấu.",
+  "Callisto bày tỏ tình cảm với Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "tình cảm, Penelope bộc bạch những điều sâu kín.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "chăm sóc ân cần, bày tỏ tình cảm.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope bộc bạch những điều sâu kín.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Callisto lắng nghe và phản hồi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 560,
+  "seconds": 16.9
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "number": 135,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trốn thoát khỏi lâu đài, Penelope và Raon gặp Vinter tại một con hẻm tối tăm. Penelope quyết định quay trở lại phủ để giải quyết những vấn đề còn tồn đọng, nhưng Vinter đã bí mật theo dõi cô. Sau đó, vì lo ngại về sự an toàn của Penelope khi có tin đồn quân đội đang tìm kiếm cô, Vinter đã đưa cô về phòng và sử dụng phép thuật xóa ký ức cho mọi người trong phủ. Cuối cùng, Vinter chấm dứt hợp đồng với Penelope và rời đi, để lại nhiều suy đoán và lo lắng.",
+ "boi_canh": "Một con hẻm tối tăm ở đường Hamilton vào buổi tối.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "Emily",
+  "Raon"
+ ],
+ "su_kien": [
+  "Penelope và Raon gặp nhau tại một con hẻm.",
+  "Vinter bí mật theo dõi Penelope.",
+  "Vinter đưa Penelope về phòng và sử dụng phép thuật xóa ký ức cho mọi người trong phủ.",
+  "Vinter chấm dứt hợp đồng với Penelope.",
+  "Penelope yêu cầu Vinter không liên hệ với cô cho đến khi cô tìm ra sự thật."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Penelope tạm biệt Raon.",
+   "cach_goi": "gọi tên Raon, thân mật"
+  },
+  {
+   "a": "Raon",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Raon chào tạm biệt Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Vinter là người bảo vệ và có trách nhiệm với Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope có vẻ không tin tưởng Vinter hoàn toàn.",
+   "cach_goi": "gọi tên Vinter, lạnh lùng"
+  },
+  {
+   "a": "Vinter",
+   "b": "Raon",
+   "loai": "thay_tro",
+   "mo_ta": "Vinter là người thầy của Raon.",
+   "cach_goi": "gọi tên Raon, nghiêm khắc"
+  },
+  {
+   "a": "Raon",
+   "b": "Vinter",
+   "loai": "thay_tro",
+   "mo_ta": "Raon là học trò của Vinter.",
+   "cach_goi": "gọi 'Thầy', lễ phép"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Người hầu gái riêng của Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Người hầu gái riêng của Penelope.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 884,
+  "seconds": 26.4
+ }
+}

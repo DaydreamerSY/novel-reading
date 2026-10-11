@@ -1,0 +1,56 @@
+{
+ "number": 128,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhiệm vụ đột ngột kết thúc, Penelope gặp phải một loạt các sự kiện kỳ lạ liên quan đến Thái tử Callisto. Cô nhận ra cảm xúc phức tạp đối với anh ta và chứng kiến những hành động bất ngờ của anh ta, bao gồm cả việc cứu cô khỏi nguy hiểm và che giấu bí mật của hoàng gia. Cuối cùng, họ bắt đầu cuộc hành trình để giải cứu một đứa trẻ bị bắt cóc, được hướng dẫn bởi một dấu hiệu phép thuật chỉ Penelope mới nhìn thấy.",
+ "boi_canh": "Bên trong một hang động tối tăm trên Đảo Arkina, sau khi tiêu diệt quỷ dữ.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Raon"
+ ],
+ "su_kien": [
+  "Nhiệm vụ đột ngột kết thúc và cửa sổ vuông biến mất.",
+  "Thái tử Callisto lo lắng cho Penelope sau khi cô bị thương.",
+  "Penelope phát hiện vết thương trên tay Thái tử Callisto.",
+  "Penelope sử dụng phép thuật để kéo thanh kiếm của Thái tử ra khỏi quỷ dữ.",
+  "Penelope và Thái tử Callisto cùng nhau giải cứu một đứa trẻ bị bắt cóc."
+ ],
+ "quan_he": [
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử lo lắng và quan tâm đến Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope kính trọng Thái tử.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus, một trong các nam chính của game"
+ ],
+ "stats": {
+  "tokens": 601,
+  "seconds": 18.1
+ }
+}

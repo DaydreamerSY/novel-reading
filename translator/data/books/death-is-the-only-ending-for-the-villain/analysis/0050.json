@@ -1,0 +1,87 @@
+{
+ "number": 50,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chứng kiến anh trai Derrick và Reynold chế nhạo, Penelope đã quyết định không giải quyết vấn đề trực tiếp. Cô ấy cảm thấy khó khăn trong việc sống chung với sự bắt nạt và coi thường này. Sau đó, cô tặng Eckles một thanh kiếm được biến thành đồ trang sức, buộc anh phải tuyên thệ trung thành với cô. Cuối cùng, Penelope mua rất nhiều vũ khí và đồ dùng huấn luyện cho Eckles, khiến người hầu bối rối nhưng cũng thể hiện sự quan tâm của cô đối với những người xung quanh.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại dinh thự Công tước Eckart, vào một buổi sáng.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Emily",
+  "Butler"
+ ],
+ "su_kien": [
+  "Penelope chứng kiến sự bắt nạt của Derrick và Reynold.",
+  "Penelope tặng Eckles một thanh kiếm biến thành đồ trang sức.",
+  "Eckles tuyên thệ trung thành với Penelope.",
+  "Penelope mua rất nhiều vũ khí và đồ dùng huấn luyện cho Eckles.",
+  "Emily nhận được một chiếc bùa hộ mệnh từ Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope trao cho Eckles một thanh kiếm và buộc anh phải tuyên thệ trung thành.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Eckles tuyên thệ trung thành với Penelope sau khi nhận được thanh kiếm.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope chứng kiến sự bắt nạt của Derrick.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope chứng kiến sự bắt nạt của Reynold.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Penelope trao cho Emily một chiếc bùa hộ mệnh.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Emily bày tỏ lòng biết ơn và sự trung thành với Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Butler",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope giao tiếp với người hầu về việc mua vũ khí.",
+   "cach_goi": "gọi tên Butler, lễ phép"
+  },
+  {
+   "a": "Butler",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Người hầu báo cáo với Penelope về việc mua vũ khí.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Thanh kiếm được biến thành đồ trang sức của Eckles là một vật phẩm đặc biệt có khả năng biến đổi thành thanh kiếm dài khi được kích hoạt."
+ ],
+ "stats": {
+  "tokens": 946,
+  "seconds": 29.8
+ }
+}

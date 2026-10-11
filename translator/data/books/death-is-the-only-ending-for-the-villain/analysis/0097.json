@@ -1,0 +1,78 @@
+{
+ "number": 97,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tố giác một vị quan tòa, Penelope dự định trở về lãnh địa sau cuộc thi săn bắn. Tuy nhiên, Thái tử Callisto đã hành động sớm hơn dự kiến, khiến cô bối rối. Sau đó, anh ta đề nghị tặng cô một rương vàng và yêu cầu cô hứa sẽ không để anh ta giết cô. Cuối cùng, Penelope nhận được lời hứa này từ Thái tử và tham gia lễ trao giải cuộc thi săn bắn.",
+ "boi_canh": "Trong khu vực trống trải tại buổi lễ bế mạc cuộc thi săn bắn.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Eckles",
+  "Vinter",
+  "Ellen",
+  "Thẩm phán",
+  "Công tước",
+  "Hai người con của Công tước",
+  "Julie",
+  "Natalie",
+  "Prince Ronald Eckart"
+ ],
+ "su_kien": [
+  "Penelope bất ngờ dừng nói chuyện, Thái tử Callisto mở to mắt.",
+  "Thái tử Callisto đề nghị Penelope một rương vàng.",
+  "Penelope yêu cầu Thái tử Callisto hứa sẽ không giết cô.",
+  "Thái tử Callisto đồng ý lời hứa của Penelope.",
+  "Penelope tham gia lễ trao giải cuộc thi săn bắn."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope và Callisto vừa mới có một cuộc trò chuyện quan trọng.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Callisto và Penelope vừa mới có một cuộc trò chuyện quan trọng.",
+   "cach_goi": "gọi tên Penelope, lịch sự"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope là chủ nhân của Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Vinter",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ quen biết nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto là người có địa vị cao hơn Ellen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Prince Ronald Eckart",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người cùng tham gia cuộc thi săn bắn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope là Công chúa Eckart của Đế quốc."
+ ],
+ "stats": {
+  "tokens": 780,
+  "seconds": 23.3
+ }
+}

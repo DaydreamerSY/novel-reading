@@ -1,0 +1,63 @@
+{
+ "number": 31,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope khám phá một căn phòng bí mật ẩn sau bức tường trong lâu đài, có vẻ như là nơi làm việc của Vinter. Cô vô tình kích hoạt một nhiệm vụ bí mật liên quan đến việc tìm hiểu về quá khứ của Vinter và những bí mật mà anh ta đang che giấu. Sau khi chứng kiến cảnh các học trò nhỏ phá vỡ một khối băng cổ xưa chứa một di vật quan trọng, Penelope can thiệp để ngăn chặn họ.",
+ "boi_canh": "Penelope khám phá căn phòng bí mật trong lâu đài.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "sang-dan-ju (chỉ được nhắc đến)"
+ ],
+ "su_kien": [
+  "Penelope phát hiện một cánh cửa bí mật ẩn sau bức tường.",
+  "Cô kích hoạt một nhiệm vụ bí mật từ hệ thống: [Reveal the sorcerer’s secret!].",
+  "Penelope chứng kiến các học trò nhỏ phá vỡ một khối băng cổ xưa.",
+  "Cô tìm thấy một di vật cổ của pháp sư, 'ancient sorcerer’s relic'.",
+  "Penelope ngăn chặn các học trò tiếp tục phá hủy di vật."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "khac",
+   "mo_ta": "Penelope tò mò về Vinter và muốn tìm hiểu thêm về anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "sang-dan-ju (chỉ được nhắc đến)",
+   "loai": "khac",
+   "mo_ta": "Penelope không biết sang-dan-ju là ai, nhưng các học trò làm việc cho người này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "các học trò (lion mask, pig mask,...)",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope can thiệp vào hành động của các học trò.",
+   "cach_goi": "gọi 'kids', thân mật"
+  },
+  {
+   "a": "lion mask",
+   "b": "penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Hỏi Penelope một cách ngạc nhiên.",
+   "cach_goi": "gọi 'auntie', thân mật"
+  },
+  {
+   "a": "pig mask",
+   "b": "penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Hỏi Penelope một cách ngạc nhiên.",
+   "cach_goi": "gọi 'auntie', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "ancient sorcerer’s relic: Một di vật cổ của pháp sư, được Vinter tìm thấy ở phía Bắc và là duy nhất còn sót lại."
+ ],
+ "stats": {
+  "tokens": 733,
+  "seconds": 22.9
+ }
+}

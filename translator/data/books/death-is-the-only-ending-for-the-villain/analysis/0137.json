@@ -1,0 +1,63 @@
+{
+ "number": 137,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe kể về một sự việc kỳ lạ liên quan đến Eckles và những người nô lệ ở vùng quê, Penelope lo lắng về những nguy cơ tiềm ẩn đối với Eckles và gia đình nhà Công tước. Cô nghiêm khắc nhắc nhở Eckles phải báo cáo ngay lập tức nếu gặp rắc rối, đồng thời cho phép anh ta một giờ để tự do giúp đỡ mọi người. Cuối cùng, Penelope kiểm tra mức độ yêu thích của Eckles và nhận ra sự tăng trưởng đáng kể trong tình cảm của anh dành cho mình.",
+ "boi_canh": "Trong phòng làm việc của Penelope, sau khi nghe báo cáo từ Eckles.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick"
+ ],
+ "su_kien": [
+  "Eckles kể về việc chứng kiến nô lệ bị áp bức và một con quái vật tấn công ở quê nhà.",
+  "Penelope lo lắng Eckles có thể gặp rắc rối vì hành động của mình.",
+  "Penelope nghiêm khắc nhắc nhở Eckles phải báo cáo ngay lập tức khi gặp nguy hiểm.",
+  "Penelope cho phép Eckles một giờ tự do để giúp đỡ mọi người.",
+  "Penelope kiểm tra mức độ yêu thích của Eckles và thấy nó đã tăng lên đáng kể."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân của Eckles, lo lắng cho anh và đưa ra lời khuyên.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Eckles là người hầu của Penelope, kính trọng và lo lắng làm cô thất vọng.",
+   "cach_goi": "gọi 'Master', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "dong_minh",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Eckles là người hầu của Penelope, kính trọng và lo lắng làm cô thất vọng.",
+   "cach_goi": "gọi 'Master', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân của Eckles, lo lắng cho anh và đưa ra lời khuyên.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Trước đây là nô lệ, hiện là hiệp sĩ hộ vệ của Penelope."
+ ],
+ "stats": {
+  "tokens": 748,
+  "seconds": 22.4
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "number": 223,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi chiếm được cơ thể của Yvonne và thu thập đủ mảnh gương sự thật, Yvonne chuẩn bị thực hiện nghi thức trở thành Leila. Tuy nhiên, trong lúc đó, Eckles nhận ra Penelope có thể gặp nguy hiểm và bảo vệ con tin. Cuối cùng, Callisto xuất hiện để giúp đỡ, nhưng trước khi hành động, anh trao cho Penelope một nụ hôn.",
+ "boi_canh": "Trong Cung điện Hoàng đế, Yvonne đang chuẩn bị thực hiện nghi thức trở thành Leila.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Vinter",
+  "Yvonne",
+  "Marquis Ellen",
+  "Emily",
+  "Ellen"
+ ],
+ "su_kien": [
+  "Yvonne chiếm được cơ thể của Yvonne và thu thập mảnh gương sự thật.",
+  "Eckles trao cho Yvonne một vật phẩm bí ẩn.",
+  "Callisto xuất hiện và đề nghị giúp đỡ.",
+  "Eckles bảo vệ con tin khỏi nguy hiểm.",
+  "Callisto trao cho Penelope một nụ hôn trước khi chiến đấu."
+ ],
+ "quan_he": [
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "ke_thu",
+   "mo_ta": "đối thủ, Yvonne muốn chiếm đoạt cơ thể của Penelope",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Yvonne",
+   "loai": "cap_tren",
+   "mo_ta": "người bảo vệ trung thành của Yvonne",
+   "cach_goi": "gọi tên Yvonne, lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Yvonne",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh và có vẻ là người yêu tiềm năng của Yvonne",
+   "cach_goi": "gọi tên Yvonne, thân mật"
+  },
+  {
+   "a": "Vinter",
+   "b": "Yvonne",
+   "loai": "khac",
+   "mo_ta": "một nhân vật trong quá khứ, liên quan đến Leila",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marquis Ellen",
+   "b": "Yvonne",
+   "loai": "dong_minh",
+   "mo_ta": "một vị quý tộc phục tùng Yvonne",
+   "cach_goi": "gọi tên Yvonne, kính trọng"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "hầu gái của Penelope, quan sát tình hình từ xa",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Yvonne",
+   "loai": "dong_minh",
+   "mo_ta": "một vị quý tộc phục tùng Yvonne",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "không có mối quan hệ rõ ràng, Eckles bảo vệ Penelope",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "có tình cảm với Penelope, trao nụ hôn cho cô ấy",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 803,
+  "seconds": 24.2
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "number": 16,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi tỉnh lại sau 4 ngày hôn mê, Penelope gặp Emily, người vội vàng kể về sự lo lắng của gia đình và những diễn biến xung quanh tình trạng của cô. Sau đó, Pennel đến báo tin Công tước muốn gặp Penelope, khiến cô phải đối mặt với một cuộc trò chuyện khó xử. Cuối cùng, Penelope đã xin lỗi Công tước vì hành động gây ra rắc rối tại buổi lễ cung điện, nhưng lại bị ngắt lời và nhận được những lời khuyên bất ngờ từ ông.",
+ "boi_canh": "Phòng bệnh của Penelope, sáng ngày hôm sau.",
+ "nhan_vat": [
+  "Penelope",
+  "Emily",
+  "Pennel",
+  "Công tước Eckart (Duke Eckart)",
+  "Crowned Prince"
+ ],
+ "su_kien": [
+  "Penelope tỉnh lại sau 4 ngày hôn mê.",
+  "Emily kể về sự lo lắng của gia đình và những diễn biến xung quanh tình trạng của Penelope.",
+  "Pennel báo tin Công tước muốn gặp Penelope.",
+  "Penelope xin lỗi Công tước vì hành động gây ra rắc rối tại buổi lễ cung điện.",
+  "Công tước cảnh báo Penelope về việc không được quỳ lạy trước bất kỳ ai, kể cả hoàng gia."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Hầu gái riêng của Penelope, lo lắng và quan tâm đến cô.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Hầu gái riêng của Penelope, lo lắng và quan tâm đến cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Pennel",
+   "loai": "nguoi_la",
+   "mo_ta": "Quản gia nhà Eckart, nghiêm khắc và tuân thủ quy tắc.",
+   "cach_goi": "gọi tên Pennel, lễ phép"
+  },
+  {
+   "a": "Pennel",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Quản gia nhà Eckart, nghiêm khắc và tuân thủ quy tắc.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi của Công tước, đang xin lỗi vì hành động gây ra rắc rối.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi của Penelope, đang khiển trách và đưa ra lời khuyên.",
+   "cach_goi": "gọi tên Penelope, nghiêm khắc"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Hầu gái riêng của Penelope, phục tùng và làm theo lời cô chủ.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Pennel",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Quản gia nhà Eckart, phục tùng và làm theo lời cô chủ.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Crowned Prince: Người gây ra vết thương trên cổ Penelope bằng kiếm."
+ ],
+ "stats": {
+  "tokens": 972,
+  "seconds": 30.6
+ }
+}

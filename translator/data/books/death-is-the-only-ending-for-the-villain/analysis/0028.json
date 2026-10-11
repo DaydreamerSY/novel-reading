@@ -1,0 +1,49 @@
+{
+ "number": 28,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope vô tình kích động Eckles, khiến anh ta đập vỡ kiếm và quỳ xuống xin lỗi. Sau đó, Penelope nhận ra sự nguy hiểm tiềm ẩn từ hành động của Eckles và bắt đầu nghi ngờ về bản chất thật sự của anh ta. Cô cũng nhận ra rằng mình đã quá chủ quan khi tin tưởng vào tuyến đường an toàn của Eckles và quyết định tìm đến Vinter để cầu cứu.",
+ "boi_canh": "Sân luyện tập, trời mưa nặng hạt.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Eckles đập vỡ kiếm khi Penelope vô tình chạm vào anh.",
+  "Eckles quỳ xuống xin lỗi Penelope.",
+  "Penelope nhận ra sự nguy hiểm tiềm ẩn từ Eckles.",
+  "Penelope nghi ngờ về bản chất thật sự của Eckles.",
+  "Penelope quyết định tìm đến Vinter."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "cap_tren",
+   "mo_ta": "chủ tớ, Penelope là chủ và có vẻ hơi sợ Eckles.",
+   "cach_goi": "gọi tên Eckles, lạnh lùng"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "nô lệ/hiệp sĩ, Eckles rất trung thành và tôn trọng Penelope.",
+   "cach_goi": "gọi 'Master', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, Penelope cần sự giúp đỡ của Vinter.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: trước đây có thể là một quý tộc đã mất nước và bị biến thành nô lệ."
+ ],
+ "stats": {
+  "tokens": 511,
+  "seconds": 16.0
+ }
+}

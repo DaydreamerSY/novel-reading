@@ -1,0 +1,94 @@
+{
+ "number": 232,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Đế quốc rơi vào hỗn loạn, Penelope nhận thấy Thái tử Callisto đang làm việc quá sức để xử lý các vấn đề hậu chiến tranh. Mặc dù vậy, anh vẫn đến phòng cô mỗi đêm. Trong một buổi tối như bao ngày khác, Callisto phàn nàn về tình trạng sức khỏe của mình và nhờ Penelope giúp đỡ tắm rửa, khiến Penelope bối rối nhưng không thể từ chối.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại Cung điện Hoàng gia, vào một đêm muộn sau khi Đế quốc trải qua những biến động lớn.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Vinter",
+  "Yvonne",
+  "Cedric",
+  "Ellen"
+ ],
+ "su_kien": [
+  "Thái tử Callisto phàn nàn về tình trạng sức khỏe và làm việc quá sức.",
+  "Penelope lo lắng cho sức khỏe của Callisto và nhắc nhở anh chăm sóc bản thân.",
+  "Callisto nhờ Penelope giúp đỡ tắm rửa khi than thở rằng mình không đủ sức.",
+  "Cedric báo cáo với Callisto về việc bị giấu thanh kiếm của anh.",
+  "Penelope đồng ý giúp Callisto tắm rửa."
+ ],
+ "quan_he": [
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Thái tử đang mệt mỏi và dựa dẫm vào Penelope. Cô quan tâm đến anh.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Cô lo lắng cho sức khỏe của anh và cố gắng thuyết phục anh nghỉ ngơi.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Cedric",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử trách móc Cedric vì đã giấu thanh kiếm của anh.",
+   "cach_goi": "gọi tên Cedric, lạnh lùng"
+  },
+  {
+   "a": "Cedric",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Cedric báo cáo tình hình cho Thái tử.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Cô cẩn trọng và lo lắng cho anh.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Anh cố tình tỏ vẻ yếu đuối để khiến cô phải chiều theo.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (tên đầy đủ của nhân vật chính)"
+ ],
+ "stats": {
+  "tokens": 1005,
+  "seconds": 30.2
+ }
+}

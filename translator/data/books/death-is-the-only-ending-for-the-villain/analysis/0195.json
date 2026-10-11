@@ -1,0 +1,63 @@
+{
+ "number": 195,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đánh bại quái vật bạch tuộc, Penelope và Thái tử Callisto bị cuốn vào một loạt sự kiện hỗn loạn. Họ vô tình bị các thủy thủ nhìn thấy trong tư thế thân mật, dẫn đến những lời giải thích vụng về và những lời thú nhận bất ngờ từ phía Callisto. Cuối cùng, họ phát hiện ra rằng Callisto đã bí mật theo dõi Penelope bằng bản đồ sao chép, hé lộ một sự ám ảnh sâu sắc hơn là anh ta thừa nhận.",
+ "boi_canh": "Trên tàu chiến giữa biển, sau trận chiến với quái vật bạch tuộc.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope và Callisto đánh bại quái vật bạch tuộc bằng phép thuật 'Fire Pishon'.",
+  "Một thủy thủ bị thùng gỗ cuốn trôi xuống biển.",
+  "Callisto ôm Penelope để tránh các vật rơi.",
+  "Callisto cắt đứt chân bạch tuộc còn sót lại.",
+  "Callisto thừa nhận đã bí mật theo dõi Penelope bằng bản đồ sao chép."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ phức tạp, Penelope nghi ngờ và bực bội với sự theo đuổi của Callisto.",
+   "cach_goi": "gọi tên Callisto, không rõ (lễ phép)"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Callisto theo đuổi Penelope một cách ám ảnh và công khai.",
+   "cach_goi": "gọi tên Penelope, thân mật (lúc giận dữ), lễ phép (khi nói chuyện chính thức)"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân, Emily là hầu gái riêng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Callisto theo đuổi Penelope một cách ám ảnh và công khai.",
+   "cach_goi": "gọi tên Penelope, thân mật (lúc giận dữ), lễ phép (khi nói chuyện chính thức)"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ phức tạp, Penelope nghi ngờ và bực bội với sự theo đuổi của Callisto.",
+   "cach_goi": "gọi tên Callisto, không rõ (lễ phép)"
+  }
+ ],
+ "danh_tinh": [
+  "Bản đồ sao chép: Callisto đã tạo ra bản sao của bản đồ để theo dõi vị trí của Penelope."
+ ],
+ "stats": {
+  "tokens": 755,
+  "seconds": 22.7
+ }
+}

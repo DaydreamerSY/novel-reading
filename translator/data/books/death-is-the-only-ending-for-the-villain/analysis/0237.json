@@ -1,0 +1,75 @@
+{
+ "number": 237,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi rời khỏi phòng tiệc, Penelope đã tức giận vì phát hiện ra hôn lễ của mình trùng với ngày lên ngôi hoàng đế mà không hề được thông báo. Cô bực bội trách móc Callisto và bày tỏ sự phản đối kịch liệt. Sau đó, cô nhận ra những lời nói đùa của mình với Cedric đã bị ghi lại và được công bố dưới danh nghĩa cô, khiến tình hình trở nên phức tạp hơn. Cuối cùng, cô biết được Duke Eckart chưa hề hay tin và Cedric giải thích về sự lo lắng sâu sắc của Callisto.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại Hoàng cung, vào một buổi tối khi mọi thứ đang hỗn loạn.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Vinter",
+  "Cedric",
+  "Marienne",
+  "Duke Eckart"
+ ],
+ "su_kien": [
+  "Penelope phát hiện ra hôn lễ của mình trùng với ngày lên ngôi hoàng đế.",
+  "Penelope bực tức trách móc Callisto vì đã giấu kín thông tin.",
+  "Penelope biết được những lời nói đùa của mình với Cedric đã bị ghi lại và công bố dưới danh nghĩa cô.",
+  "Duke Eckart chưa hề hay tin về hôn lễ của Penelope.",
+  "Cedric giải thích sự lo lắng sâu sắc của Callisto."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope bực tức và phản đối hôn nhân với Callisto.",
+   "cach_goi": "gọi tên Callisto, lạnh lùng/thô lỗ"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Callisto bị Penelope trách móc và có vẻ lo lắng.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope nghi ngờ động cơ của Cedric và chất vấn anh.",
+   "cach_goi": "gọi tên Cedric, lạnh lùng/trịch thượng"
+  },
+  {
+   "a": "Cedric",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Cedric cố gắng giải thích tình hình và trấn an Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép/cẩn trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Duke Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Penelope, mối quan hệ gia đình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cedric",
+   "b": "Callisto",
+   "loai": "thay_tro",
+   "mo_ta": "Cedric là thuộc hạ của Callisto.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus",
+  "Vinter: Hầu tước Vinter Verdandi, pháp sư",
+  "Cedric: Thuộc hạ thân cận của Thái tử"
+ ],
+ "stats": {
+  "tokens": 844,
+  "seconds": 25.3
+ }
+}

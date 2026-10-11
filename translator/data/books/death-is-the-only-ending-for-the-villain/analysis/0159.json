@@ -1,0 +1,61 @@
+{
+ "number": 159,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi ném chiếc nhẫn bỏ đi, Penelope rời khỏi phòng giam mà không nhìn lại. Eckles cố gắng níu giữ nhưng bất lực. Anh ta suy nghĩ về hành động của Penelope và những thay đổi trong cách cô đối xử với anh. Sau đó, anh ta tìm thấy chiếc nhẫn bị rơi và nghe Yvonne nói chuyện, nhận ra rằng có một âm mưu nào đó đang diễn ra.",
+ "boi_canh": "Trong phòng giam tối tăm tại lâu đài.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Penelope ném chiếc nhẫn và rời đi mà không nhìn lại.",
+  "Eckles cố gắng níu giữ Penelope nhưng thất bại.",
+  "Eckles tìm thấy chiếc nhẫn bị rơi trên sàn nhà.",
+  "Anh ta nghe được cuộc trò chuyện của Yvonne.",
+  "Yvonne lén sử dụng một phép thuật."
+ ],
+ "quan_he": [
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "tên thuộc hạ trung thành và tận tụy với chủ nhân.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "ke_thu",
+   "mo_ta": "Penelope bỏ rơi Eckles, khiến anh ta đau khổ và bối rối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ phức tạp, có sự cạnh tranh và nghi ngờ.",
+   "cach_goi": "gọi tên Yvonne, lạnh lùng"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Yvonne cố gắng thao túng Eckles để đạt được mục đích của mình.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là chủ nhân, Eckles là kẻ hầu hạ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 549,
+  "seconds": 16.5
+ }
+}

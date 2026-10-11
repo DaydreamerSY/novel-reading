@@ -1,0 +1,72 @@
+{
+ "number": 185,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Eckles bị ám ảnh bởi quá khứ của mình thông qua một mảnh vỡ, Yvonne thúc giục anh ta hành động để giành lấy quyền lực và Penelope. Penelope, nghi ngờ rằng Yvonne đã lộ diện, trốn thoát khỏi lâu đài và phát hiện ra đường hầm bí mật mà cô ấy dự định sử dụng để trốn thoát đã biến mất. Cô bị bắt gặp bởi Vinter.",
+ "boi_canh": "Trong một kho chứa bên ngoài tường ngoại vi của dinh thự Eckart vào buổi tối.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Yvonne",
+  "Emily",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Eckles bị thôi miên bởi Yvonne và nhớ lại quá khứ của mình.",
+  "Yvonne thúc giục Eckles phản bội gia đình và nắm quyền kiểm soát đế chế.",
+  "Penelope nghe lén cuộc trò chuyện giữa Yvonne và Eckles.",
+  "Penelope cố gắng trốn thoát khỏi dinh thự bằng đường hầm bí mật.",
+  "Penelope bị Vinter bắt gặp khi đang trốn thoát."
+ ],
+ "quan_he": [
+  {
+   "a": "Eckles",
+   "b": "Yvonne",
+   "loai": "dong_minh",
+   "mo_ta": "Yvonne thao túng Eckles để đạt được mục đích của mình.",
+   "cach_goi": "gọi tên Yvonne, thân mật"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Eckles",
+   "loai": "cap_tren",
+   "mo_ta": "Yvonne thao túng Eckles để đạt được mục đích của mình.",
+   "cach_goi": "gọi tên Eckles, trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope nghi ngờ Eckles và đang theo dõi anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Hầu gái trung thành của Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Hầu gái trung thành của Penelope.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Vinter đang theo dõi Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles từng là hoàng tử, nhưng bị xóa tên khỏi lịch sử gia đình và trở thành nô lệ."
+ ],
+ "stats": {
+  "tokens": 754,
+  "seconds": 22.6
+ }
+}

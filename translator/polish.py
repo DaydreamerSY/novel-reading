@@ -69,7 +69,7 @@ class Polisher:
         self.llm = Ollama(cfg["llm"]["url"], model, int(cfg["llm"].get("timeout_seconds", 1800)))
         self.options = {"temperature": 0.1, "num_ctx": int(pc.get("num_ctx", 8192))}
         hero = self.tr.hero
-        style = read_style()
+        style = read_style(paths)
         self.system = RULES.format(
             narrator=f'Truyện kể ngôi thứ nhất: "tôi" trong lời kể là {hero}; giữ "tôi".' if hero else
             "Giữ ngôi kể như bản dịch.",

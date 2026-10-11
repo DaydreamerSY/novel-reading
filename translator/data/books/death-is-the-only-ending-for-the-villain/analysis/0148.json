@@ -1,0 +1,54 @@
+{
+ "number": 148,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Penelope vô tình chạm vào Eckles và nhận được sự quan tâm bất ngờ của anh ta, cô ấy lo lắng về việc liệu mình có thể đạt được 100% mức độ yêu thích (favorability) của anh ta hay không. Cô ấy sử dụng tiền để tăng mức độ yêu thích lên 98%, nhưng vẫn còn 2%. Sau đó, Penelope bị sốt và được miễn buổi tiệc, cô tìm kiếm Eckles và cuối cùng đạt được 99% mức độ yêu thích. Cuối cùng, Pennel thông báo về một bữa sáng bất ngờ do Công tước sắp đặt và một lá thư từ Hoàng cung, mà Penelope ra lệnh đốt bỏ.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại dinh thự Eckart vào buổi tối.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Pennel"
+ ],
+ "su_kien": [
+  "Penelope vô tình chạm vào tay Eckles và cảm nhận được sự quan tâm của anh ta.",
+  "Penelope sử dụng 14 triệu vàng để tăng mức độ yêu thích của Eckles lên 98%.",
+  "Penelope giả vờ bị bệnh để trốn tránh buổi tiệc.",
+  "Penelope đạt được 99% mức độ yêu thích của Eckles sau khi tìm kiếm anh ta.",
+  "Pennel thông báo về một bữa sáng bất ngờ do Công tước sắp đặt và một lá thư từ Hoàng cung."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Penelope đang cố gắng tăng mức độ yêu thích của Eckles để đạt được lời tỏ tình.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Eckles đang đáp lại sự quan tâm của Penelope và có vẻ bối rối về cảm xúc của mình.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Pennel",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là chủ nhân và Pennel là người hầu trung thành.",
+   "cach_goi": "gọi tên Pennel, lễ phép"
+  },
+  {
+   "a": "Pennel",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Pennel là người hầu trung thành và báo cáo cho Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 679,
+  "seconds": 20.5
+ }
+}

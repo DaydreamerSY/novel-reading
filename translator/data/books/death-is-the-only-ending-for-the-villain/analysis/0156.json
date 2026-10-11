@@ -1,0 +1,76 @@
+{
+ "number": 156,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Penelope trở về phòng, cô ấy phát hiện hai hiệp sĩ canh gác trước cửa. Cô ấy phớt lờ họ và nhờ hầu gái Emily chuẩn bị bữa ăn. Trong lúc đó, Penelope biết được nữ chính vẫn chưa thể rời khỏi lâu đài. Cô ấy yêu cầu Emily tìm hiểu hoạt động của nữ chính và phát hiện ra nữ chính đang đi dạo trong rừng cùng Eckles. Sau đó, Penelope quyết định đột nhập bằng cách mặc đồ hầu gái và trèo tường, nhưng một nhiệm vụ bất ngờ xuất hiện, đưa cô đến gặp Eckles tại nhà tù của hiệp sĩ.",
+ "boi_canh": "Trong phòng ngủ của Penelope ở lâu đài Eckart, vào buổi tối.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Emily",
+  "Becky"
+ ],
+ "su_kien": [
+  "Penelope phát hiện hai hiệp sĩ canh gác trước cửa phòng.",
+  "Penelope yêu cầu Emily tìm hiểu hoạt động của nữ chính.",
+  "Nữ chính đang đi dạo trong rừng cùng Eckles.",
+  "Penelope quyết định đột nhập bằng cách mặc đồ hầu gái.",
+  "Một nhiệm vụ bất ngờ xuất hiện, đưa Penelope đến gặp Eckles tại nhà tù của hiệp sĩ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân, Emily là hầu gái riêng của cô.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Emily là hầu gái riêng của Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope quan tâm đến Eckles và muốn tìm hiểu về hoạt động của anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Emily là hầu gái riêng của Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Derrick là anh trai nuôi của Penelope, có vẻ như có quyền lực hơn cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Derrick là anh trai nuôi của Penelope, có vẻ như có quyền lực hơn cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope (đã xuyên vào ác nữ Penelope Eckart)",
+  "Sử dụng vòng tay phép thuật để biến thành con trai."
+ ],
+ "stats": {
+  "tokens": 819,
+  "seconds": 24.4
+ }
+}

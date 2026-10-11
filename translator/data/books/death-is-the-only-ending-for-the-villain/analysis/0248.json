@@ -1,0 +1,81 @@
+{
+ "number": 248,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Penelope tiết lộ sự thật về cái chết của Yvonne và Leila, Công tước Eckart trải qua nỗi đau khổ tột cùng. Cô ấy cũng thông báo rằng Yvonne đã ra đi bình yên và nhắn nhủ những lời yêu thương đến gia đình. Cuối chương, Penelope tuyên bố sẽ rời khỏi công quốc để tìm lại cuộc sống của mình.",
+ "boi_canh": "Trong phòng làm việc của Công tước Eckart, vào một buổi tối đầy căng thẳng.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Yvonne",
+  "Duke (Công tước Eckart)",
+  "Leila",
+  "Marquis of Verdandi"
+ ],
+ "su_kien": [
+  "Penelope tiết lộ sự thật về cái chết của Yvonne và Leila.",
+  "Công tước Eckart đau khổ trước sự thật này.",
+  "Penelope thông báo rằng Yvonne đã ra đi bình yên và nhắn nhủ những lời yêu thương đến gia đình.",
+  "Công tước Eckart bày tỏ hy vọng tìm lại Yvonne.",
+  "Penelope tuyên bố sẽ rời khỏi công quốc để tìm lại cuộc sống của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Duke (Công tước Eckart)",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi của Công tước, Penelope thông báo những tin tức đau buồn và quyết định rời đi.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Duke (Công tước Eckart)",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Penelope, Công tước đau khổ và cố gắng kiểm soát cảm xúc.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope kể lại những lời Yvonne nhắn nhủ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Duke (Công tước Eckart)",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Yvonne, Công tước đau khổ vì mất con gái.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Duke (Công tước Eckart)",
+   "b": "Marquis of Verdandi",
+   "loai": "nguoi_la",
+   "mo_ta": "Đề cập đến việc giải cứu Marquis of Verdandi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Leila",
+   "loai": "ke_thu",
+   "mo_ta": "Penelope nhắc đến Leila, người đã chiếm đoạt cơ thể Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Yvonne: Con gái ruột của Công tước Eckart, nữ chính của chế độ thường (normal mode) trong game.",
+  "Leila: Người đã chiếm đoạt cơ thể Yvonne."
+ ],
+ "stats": {
+  "tokens": 886,
+  "seconds": 26.4
+ }
+}

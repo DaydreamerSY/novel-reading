@@ -1,0 +1,71 @@
+{
+ "number": 3,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope tỉnh dậy sau một đêm khó ngủ và phát hiện ra những vết bầm tím hình kim trên cánh tay mình. Cô bị một hầu gái châm kim, nhưng không thể phản kháng lại. Sau đó, cô bị ép ăn bữa sáng thối rữa và suýt chút nữa đã bị Reynold bắt gặp trong tình trạng này.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại dinh thự Công tước Eckart vào buổi sáng.",
+ "nhan_vat": [
+  "Penelope",
+  "Reynold",
+  "Maid"
+ ],
+ "su_kien": [
+  "Penelope tỉnh dậy và phát hiện ra những vết bầm tím hình kim trên cánh tay.",
+  "Một hầu gái châm Penelope bằng kim, nhưng cô không thể phản kháng lại.",
+  "Penelope bị ép ăn bữa sáng thối rữa.",
+  "Penelope suýt chút nữa đã bị Reynold bắt gặp trong tình trạng đó.",
+  "Reynold phát hiện ra bữa sáng dở dang và tức giận với hầu gái."
+ ],
+ "quan_he": [
+  {
+   "a": "Maid",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Hầu gái, có vẻ thích trêu chọc và tra tấn Penelope.",
+   "cach_goi": "gọi 'Lady', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Maid",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope không thể phản kháng lại hành động của hầu gái.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope, có vẻ quan tâm đến cô.",
+   "cach_goi": "gọi 'Lady', lịch sự"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope không thể tự do bày tỏ ý kiến của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Maid",
+   "loai": "nguoi_la",
+   "mo_ta": "Reynold tức giận với hầu gái vì đã đối xử tệ bạc với Penelope.",
+   "cach_goi": "gọi 'you', trịch thượng"
+  },
+  {
+   "a": "Maid",
+   "b": "Reynold",
+   "loai": "nguoi_la",
+   "mo_ta": "Hầu gái sợ hãi Reynold.",
+   "cach_goi": "gọi 'Young master', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope: Villainess (trong game)",
+  "Reynold: Anh trai nuôi của Penelope, một trong các nam chính"
+ ],
+ "stats": {
+  "tokens": 754,
+  "seconds": 23.5
+ }
+}

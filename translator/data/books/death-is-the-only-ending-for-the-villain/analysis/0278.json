@@ -1,0 +1,72 @@
+{
+ "number": 278,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope kể tội cả nhà: họ bắt cô sống như ở xó nhà, không một lời khen khi cô tự đỗ đại học, để cô ở phòng bán hầm ẩm mốc và làm ba việc làm thêm. Người cha nhận ra cô chính là Siyeon (qua lúm đồng tiền, nốt ruồi). Cha và hai người anh lần lượt quỳ xuống xin lỗi, thú nhận lỗi của mình. Penelope giật máy thở của thân xác cũ ném ra ngoài cửa sổ.",
+ "boi_canh": "Một phòng bệnh viện, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Penelope",
+  "Cha (Father)",
+  "Anh Hai (First Son)",
+  "Anh Hai Thứ Hai (Second Son)"
+ ],
+ "su_kien": [
+  "Penelope chất vấn gia đình về cách họ đối xử tệ bạc với cô trong quá khứ.",
+  "Gia đình trải qua một cuộc khủng hoảng cảm xúc và hối hận.",
+  "Cha nhận ra Penelope là Siyeon, con gái ông.",
+  "Anh Hai Thứ Hai quỳ gối xin lỗi Penelope vì những hành động tàn ác trước đây.",
+  "Penelope ném máy thở ra cửa sổ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Cha",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái ruột, Penelope chất vấn cha về quá khứ.",
+   "cach_goi": "gọi tên 'Father', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Anh Hai",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope chất vấn anh trai về cách đối xử với cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Anh Hai Thứ Hai",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope chất vấn anh trai thứ hai về cách đối xử với cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cha",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nhận ra Penelope là con gái ông, Siyeon.",
+   "cach_goi": "gọi tên 'Siyeon', ngạc nhiên"
+  },
+  {
+   "a": "Anh Hai Thứ Hai",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai thứ hai quỳ xin lỗi Penelope.",
+   "cach_goi": "gọi tên 'Cha Siyeon', thô lỗ"
+  },
+  {
+   "a": "Anh Hai",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nhìn Penelope với vẻ bối rối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Siyeon (Penelope) - Con gái ruột của Cha, bị gia đình đối xử tệ bạc trong quá khứ. Tên thật là Siyeon, nhưng gia đình không gọi cô bằng tên này."
+ ],
+ "stats": {
+  "tokens": 682,
+  "seconds": 21.3
+ },
+ "tom_tat_sua_tay": "Claude sửa theo bản gốc (2026-10-08)"
+}

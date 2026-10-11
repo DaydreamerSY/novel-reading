@@ -1,0 +1,78 @@
+{
+ "number": 153,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị đánh đập nhiều lần, Penelope cảm thấy mọi thứ có thể đã thay đổi. Cô cố tình khiêu khích Reynold và Yvonne, dẫn đến những diễn biến phức tạp về mối quan hệ giữa họ. Sau đó, Reynold xin lỗi, nhưng Penelope lại từ chối chấp nhận lời xin lỗi này một cách trịch thượng, khiến tình hình trở nên căng thẳng hơn. Cuối cùng, Emily thông báo Yvonne sẽ ở lại dinh thự Eckart.",
+ "boi_canh": "Dinh thự Công tước Eckart, buổi chiều",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Yvonne",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope khiêu khích Reynold và Yvonne.",
+  "Reynold xin lỗi Penelope sau một cuộc tranh cãi.",
+  "Penelope từ chối lời xin lỗi của Reynold một cách trịch thượng.",
+  "Emily thông báo Yvonne sẽ ở lại dinh thự Eckart.",
+  "Penelope thể hiện sự khó chịu với Reynold và những hành động của anh ta."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ căng thẳng, Penelope thường khiêu khích và trịch thượng.",
+   "cach_goi": "gọi tên Reynold, lạnh lùng"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Reynold cố gắng hòa giải nhưng bị Penelope từ chối.",
+   "cach_goi": "gọi tên Penelope, hối lỗi"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "dong_minh",
+   "mo_ta": "Penelope khiêu khích Yvonne, tạo ra sự căng thẳng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Yvonne và Reynold có vẻ thân thiết, Reynold bảo vệ Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Emily là hầu gái riêng của Penelope, lo lắng cho cô và báo cáo tình hình.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Penelope nhận xét về sự thay đổi trong lòng người khác.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Yvonne",
+   "loai": "ban_be",
+   "mo_ta": "Reynold bảo vệ Yvonne và quan tâm đến cô.",
+   "cach_goi": "gọi tên Yvonne, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 702,
+  "seconds": 21.1
+ }
+}

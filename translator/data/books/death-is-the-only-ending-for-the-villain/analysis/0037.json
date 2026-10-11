@@ -1,0 +1,65 @@
+{
+ "number": 37,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đi dạo một hồi trên phố chính, Penelope và Derrick rẽ vào một con đường vắng vẻ. Họ leo lên đồi Đông (East Hill), nơi có tầm nhìn tuyệt đẹp ra thành phố đang tổ chức lễ hội. Derrick liên tục trách móc Penelope vì đã lẻn ra ngoài, và cuộc trò chuyện dẫn đến việc Penelope phải đưa ra những lời giải thích để bảo vệ mình.",
+ "boi_canh": "Trên con đường lên đồi Đông, vào buổi tối trong một lễ hội.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Penelope và Derrick đi bộ đến đồi Đông.",
+  "Penelope nhận ra đây là địa điểm hẹn hò thường thấy trong game.",
+  "Derrick trách móc Penelope vì đã lẻn ra ngoài.",
+  "Penelope tranh cãi với Derrick về việc anh ta kéo cô đi nhanh quá.",
+  "Penelope đưa ra những lời giải thích để che giấu mục đích của mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ căng thẳng, Derrick thường trách móc và khiển trách Penelope.",
+   "cach_goi": "gọi tên Derrick, lạnh lùng"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ căng thẳng, Derrick thường trách móc và khiển trách Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, Penelope không có tương tác trực tiếp với Reynold trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Không có tương tác trực tiếp, Vinter là người Penelope kính trọng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Đồi Đông (East Hill): Địa điểm hẹn hò thường thấy cho nữ chính và các nhân vật nam trong game.",
+  "Hamilton street: Một con phố ở thành phố, nơi xảy ra một vụ án mạng."
+ ],
+ "stats": {
+  "tokens": 705,
+  "seconds": 22.1
+ }
+}

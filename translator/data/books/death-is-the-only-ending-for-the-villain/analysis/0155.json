@@ -1,0 +1,80 @@
+{
+ "number": 155,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope đối mặt với Công tước Eckart sau khi ông tìm thấy con gái ruột của mình, Yvonne. Cô ấy cố gắng thao túng tình hình để giữ Eckles bên cạnh mình và trì hoãn nghi lễ trưởng thành của mình, đồng thời sử dụng thông tin về hành động của Eckles để gây áp lực lên Công tước. Cuối cùng, Công tước từ chối cả hai yêu cầu của Penelope, khiến cô thất vọng.",
+ "boi_canh": "Trong phòng làm việc hình bầu dục của dinh thự Công tước, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Yvonne",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Công tước Eckart thông báo đã tìm thấy Yvonne.",
+  "Penelope bày tỏ sự quan tâm giả tạo và cố gắng kiểm soát tình hình.",
+  "Penelope đề cập đến hành động bán người nô lệ của Eckles để gây áp lực lên Công tước.",
+  "Penelope yêu cầu được gặp lại Eckles và hủy bỏ nghi lễ trưởng thành của mình.",
+  "Công tước từ chối cả hai yêu cầu của Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi, Penelope cố gắng kiểm soát Công tước để đạt được mục đích của mình.",
+   "cach_goi": "gọi 'Father', lễ phép nhưng có ý định thao túng"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi, Công tước cố gắng duy trì quyền kiểm soát tình hình.",
+   "cach_goi": "gọi tên Penelope, có phần mệt mỏi và thất vọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope muốn giữ Eckles bên cạnh mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Công tước có vẻ không thích Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope có vẻ không thích Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha ruột, Công tước quan tâm đến Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Derrick có vẻ không thích Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Có thể đã bán người nô lệ để thoát khỏi chế độ nô lệ, gây ra nghi ngờ từ Công tước.",
+  "Yvonne: Được tìm thấy là con gái ruột của Công tước."
+ ],
+ "stats": {
+  "tokens": 905,
+  "seconds": 27.1
+ }
+}

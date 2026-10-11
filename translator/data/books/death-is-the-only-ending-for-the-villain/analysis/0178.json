@@ -1,0 +1,105 @@
+{
+ "number": 178,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi gần như bị đầu độc đến chết, Penelope tỉnh lại trong sự hoảng loạn của gia đình Eckart. Cô nhận ra rằng mọi người đang lo lắng cho cô và những tin đồn lan truyền về việc cô cố gắng ám sát Yvonne. Emily báo cáo tình hình, tiết lộ rằng Thái tử đã rất quan tâm đến Penelope và thậm chí còn có ý định cầu hôn cô. Tuy nhiên, Thái tử đột ngột phải rời đi vì một cuộc nổi loạn ở phía bắc. Cuối cùng, Penelope phát hiện ra rằng Emily biết về việc cô tự mình uống thuốc độc và cảnh báo cô giữ bí mật để bảo toàn sự an toàn của bản thân.",
+ "boi_canh": "Phòng ngủ của Penelope tại dinh thự Công tước Eckart, sau khi cô gần như bị đầu độc.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Yvonne",
+  "Emily",
+  "Becky",
+  "Công tước Eckart",
+  "Quản gia",
+  "Bác sĩ già",
+  "Thái tử"
+ ],
+ "su_kien": [
+  "Penelope gần như bị đầu độc và tỉnh lại.",
+  "Gia đình Eckart hoảng loạn khi thấy Penelope tỉnh lại.",
+  "Emily báo cáo tình hình, bao gồm cả việc Thái tử quan tâm đến Penelope.",
+  "Thái tử phải rời đi vì một cuộc nổi loạn ở phía bắc.",
+  "Penelope phát hiện ra Emily biết cô tự mình uống thuốc độc."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Căng thẳng và nghi ngờ lẫn nhau.",
+   "cach_goi": "gọi tên Derrick, lạnh lùng"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Căng thẳng và nghi ngờ lẫn nhau.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "Không tương tác trực tiếp nhưng có sự đối đầu.",
+   "cach_goi": "gọi tên Reynold, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Không tương tác trực tiếp nhưng có sự đối đầu.",
+   "cach_goi": "gọi tên Penelope, thô lỗ"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi lo lắng cho con gái nuôi.",
+   "cach_goi": "gọi Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Không tương tác trực tiếp nhưng có mối quan hệ gia đình.",
+   "cach_goi": "gọi Công tước, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Hầu gái phục vụ Penelope.",
+   "cach_goi": "gọi Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Chủ nhân giao tiếp với hầu gái.",
+   "cach_goi": "gọi Emily, thân mật"
+  },
+  {
+   "a": "Becky",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Thái tử",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Becky đã qua đời vì tự sát, có thể liên quan đến Yvonne."
+ ],
+ "stats": {
+  "tokens": 1107,
+  "seconds": 33.2
+ }
+}

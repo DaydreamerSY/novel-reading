@@ -1,0 +1,84 @@
+{
+ "number": 215,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope từ chối món dây chuyền mà Derrick tặng và đối diện với những lời nói cay nghiệt của anh ta. Sau đó, Derrick đột ngột đổ máu, khiến mọi chuyện trở nên hỗn loạn hơn. Callisto can thiệp để bảo vệ Penelope, và Reynold bày tỏ sự lo lắng về Yvonne và quyết định đi tìm cô cùng cha.",
+ "boi_canh": "Trong vườn nhà Công tước Eckart, vào một buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Derrick tặng Penelope một chiếc dây chuyền có khắc phép thuật dịch chuyển.",
+  "Penelope từ chối món quà và chỉ trích Derrick vì những hành động trước đây của anh ta.",
+  "Derrick đột ngột đổ máu khi đang nói chuyện với Penelope.",
+  "Callisto can thiệp để bảo vệ Penelope khỏi Derrick.",
+  "Reynold quyết định đi tìm Yvonne cùng cha."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope căm ghét Derrick vì những hành động của anh ta trong quá khứ.",
+   "cach_goi": "gọi tên Derrick, lạnh lùng"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Derrick cố gắng thao túng Penelope nhưng bị từ chối.",
+   "cach_goi": "gọi tên Penelope, thô lỗ"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Callisto bảo vệ Penelope khỏi Derrick.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Penelope cảm thấy khó xử với sự quan tâm của Callisto.",
+   "cach_goi": "gọi tên Callisto, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Reynold lo lắng cho Penelope và muốn giúp đỡ cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Penelope cảm thấy nhẹ nhõm khi Reynold không bị Yvonne tẩy não.",
+   "cach_goi": "gọi tên Reynold, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Mối quan hệ giữa hai người căng thẳng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Mối quan hệ giữa hai người căng thẳng.",
+   "cach_goi": "gọi tên Callisto, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 886,
+  "seconds": 26.6
+ }
+}

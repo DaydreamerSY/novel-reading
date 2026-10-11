@@ -1,0 +1,78 @@
+{
+ "number": 56,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope gặp phải tình huống khó xử khi Derrick và Eckles xuất hiện cùng lúc. Sau đó, một cuộc đối đầu căng thẳng nổ ra giữa hai người vì vấn đề dạy bắn cung cho Penelope. Cuối cùng, Penelope đã trốn thoát khỏi tình hình hỗn loạn, lo sợ sẽ bị cuốn vào cuộc chiến của họ.",
+ "boi_canh": "Sân tập bắn trong lâu đài Eckart, một buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold"
+ ],
+ "su_kien": [
+  "Penelope bất ngờ gặp Derrick và Eckles cùng lúc.",
+  "Derrick tỏ vẻ khó chịu với việc Eckles dạy bắn cung cho Penelope.",
+  "Eckles đáp trả lại sự khiêu khích của Derrick bằng những lời lẽ sắc bén.",
+  "Penelope cố gắng trốn thoát khỏi cuộc đối đầu giữa hai người.",
+  "Eckles khẳng định sẽ trực tiếp dạy Penelope bắn cung, bất chấp sự phản đối của Derrick."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope là người mua nô lệ của Eckles, sau đó trở thành người được bảo vệ bởi anh ta; mối quan hệ phức tạp.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope là người mua nô lệ của Eckles, sau đó trở thành người được bảo vệ bởi anh ta; mối quan hệ phức tạp.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope; mối quan hệ căng thẳng.",
+   "cach_goi": "gọi tên Derrick, lễ phép"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope; mối quan hệ căng thẳng.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope; không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Eckles",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ đối địch, cạnh tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ đối địch, cạnh tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Từ nô lệ của Penelope đến hiệp sĩ hộ vệ của cô; được sự cho phép ngầm của Derrick để tham gia huấn luyện."
+ ],
+ "stats": {
+  "tokens": 854,
+  "seconds": 26.6
+ }
+}

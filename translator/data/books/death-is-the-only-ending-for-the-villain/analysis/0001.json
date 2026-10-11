@@ -1,0 +1,56 @@
+{
+ "number": 1,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trốn thoát khỏi gia đình mà Penelope căm ghét, cô tưởng tượng cuộc sống tự do của mình sẽ hạnh phúc. Tuy nhiên, ngay lập tức, cô bị một người đàn ông đối xử lạnh lùng và trách móc vì hành động của mình tại buổi tiệc. Một bảng thông tin kỳ lạ xuất hiện, đưa ra các lựa chọn trả lời mà Penelope buộc phải tuân theo. Cô phát hiện ra những người xung quanh có thanh đo 'Interest' trên đầu và nhận ra rằng cô đang ở trong một thế giới quen thuộc - thế giới của trò chơi hẹn hò mà cô từng chơi.",
+ "boi_canh": "Một căn phòng nhỏ, ẩm thấp, không rõ thời gian.",
+ "nhan_vat": [
+  "Penelope",
+  "Man (không rõ tên)"
+ ],
+ "su_kien": [
+  "Penelope trốn thoát khỏi gia đình và tìm thấy tự do.",
+  "Một người đàn ông trách móc Penelope vì hành động của cô tại buổi tiệc.",
+  "Một bảng thông tin kỳ lạ xuất hiện với các lựa chọn trả lời.",
+  "Penelope phát hiện ra những người xung quanh có thanh đo 'Interest' trên đầu.",
+  "Penelope nhận ra rằng mình đang ở trong thế giới của một trò chơi."
+ ],
+ "quan_he": [
+  {
+   "a": "Man",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Người đàn ông trách móc và kiểm soát Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Man",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope sợ hãi và tuân theo mệnh lệnh của người đàn ông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Pink-haired boy",
+   "b": "Penelope",
+   "loai": "ke_thu",
+   "mo_ta": "Cậu trai chế nhạo Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Pink-haired boy",
+   "loai": "ke_thu",
+   "mo_ta": "Penelope cảm thấy bị chế nhạo bởi cậu trai.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart: Nhân vật chính, xuyên vào ác nữ trong game hẹn hò.",
+  "Man: Chưa rõ danh tính, có vẻ là người có quyền lực và trách nhiệm với Penelope."
+ ],
+ "stats": {
+  "tokens": 645,
+  "seconds": 20.1
+ }
+}

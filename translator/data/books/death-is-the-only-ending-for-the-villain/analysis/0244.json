@@ -1,0 +1,56 @@
+{
+ "number": 244,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi thoát khỏi Gương Sự Thật, Penelope bị thái tử Callisto lôi đến cung điện của mình. Anh ta tỏ ra lo lắng và tìm kiếm cô một cách điên cuồng. Sau đó, anh ta bắt đầu buộc tội cô về những hành động bất tuân của cô. Cuối cùng, Callisto cầu hôn Penelope bằng một chiếc nhẫn ngọc lục bảo có lời nguyền, khiến cô kinh hãi.",
+ "boi_canh": "Sáng sớm tại Cung điện Thái tử.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Marienne"
+ ],
+ "su_kien": [
+  "Penelope thoát khỏi Gương Sự Thật.",
+  "Callisto tìm Penelope và lôi cô đến cung điện của mình.",
+  "Callisto buộc tội Penelope về những hành động bất tuân của cô.",
+  "Callisto giải trừ phép thuật trói buộc tay Penelope.",
+  "Callisto cầu hôn Penelope bằng một chiếc nhẫn ngọc lục bảo có lời nguyền."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Tình trạng phức tạp, Penelope miễn cưỡng và Callisto quá nhiệt tình.",
+   "cach_goi": "gọi tên Callisto, không rõ cảm xúc"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Tình trạng phức tạp, Callisto quá nhiệt tình và Penelope miễn cưỡng.",
+   "cach_goi": "gọi tên Penelope, trịch thượng khi buộc tội, ân cần khi lo lắng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Tình trạng phức tạp, Penelope miễn cưỡng và Callisto quá nhiệt tình.",
+   "cach_goi": "gọi tên Callisto, lạnh lùng khi phản bác"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Tình trạng phức tạp, Callisto quá nhiệt tình và Penelope miễn cưỡng.",
+   "cach_goi": "gọi tên Penelope, ân cần khi lo lắng"
+  }
+ ],
+ "danh_tinh": [
+  "Chiếc nhẫn ngọc lục bảo: Được gọi là 'Nước Mắt của Nàng Tiên' (Mermaid’s Tear), có lời nguyền khiến chủ nhân gắn liền số phận với người khác vĩnh viễn."
+ ],
+ "stats": {
+  "tokens": 666,
+  "seconds": 20.0
+ }
+}

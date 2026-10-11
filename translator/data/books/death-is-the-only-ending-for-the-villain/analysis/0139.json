@@ -1,0 +1,87 @@
+{
+ "number": 139,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope chứng kiến Eckles thể hiện cảm xúc mạnh mẽ khi tức giận, khiến cô ngạc nhiên. Sau đó, người quản gia can thiệp và trách móc Eckles vì hành động của mình. Penelope cố gắng xoa dịu tình hình nhưng cuối cùng phải ra lệnh cho Eckles rời đi. Cô sau đó gặp Cedric, trợ lý của Thái tử, người đã mang đến một chiếc váy và trang sức lộng lẫy để tặng cô nhân dịp sinh nhật sắp tới của Thái tử.",
+ "boi_canh": "Phòng làm việc trong phủ đệ, buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Emily",
+  "Cedric",
+  "Người quản gia"
+ ],
+ "su_kien": [
+  "Eckles thể hiện sự tức giận.",
+  "Người quản gia trách móc Eckles.",
+  "Penelope cố gắng xoa dịu tình hình giữa Eckles và người quản gia.",
+  "Cedric tặng Penelope một chiếc váy và trang sức lộng lẫy.",
+  "Penelope nghi ngờ Thái tử có động cơ ẩn sau việc tặng quà."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân, Eckles là người hầu và hiệp sĩ hộ vệ. Có vẻ như giữa họ có tình cảm đặc biệt.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Eckles thể hiện sự quan tâm và lo lắng cho Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Penelope và Emily là hầu gái riêng của Penelope, có mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Emily là hầu gái riêng của Penelope, có mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope và Cedric gặp nhau lần đầu tiên trong chương này.",
+   "cach_goi": "gọi tên Cedric, lịch sự"
+  },
+  {
+   "a": "Cedric",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Cedric là trợ lý của Thái tử, có vẻ như muốn tiếp cận Penelope.",
+   "cach_goi": "gọi tên Penelope, lịch sự"
+  },
+  {
+   "a": "Penelope",
+   "b": "Người quản gia",
+   "loai": "cap_tren",
+   "mo_ta": "Người quản gia là người có vị trí cao hơn Penelope, luôn quan tâm và lo lắng cho cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người quản gia",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Người quản gia là người có vị trí cao hơn Penelope, luôn quan tâm và lo lắng cho cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: trước đây là nô lệ, hiện tại là hiệp sĩ hộ vệ của Penelope.",
+  "Cedric: trợ lý của Thái tử."
+ ],
+ "stats": {
+  "tokens": 962,
+  "seconds": 28.9
+ }
+}

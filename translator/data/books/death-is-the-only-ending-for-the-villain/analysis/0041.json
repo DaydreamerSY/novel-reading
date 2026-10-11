@@ -1,0 +1,87 @@
+{
+ "number": 41,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong bữa tối gia đình, Penelope cố tình làm rơi thìa để thể hiện sự bất mãn với cách đối xử của gia đình Eckart dành cho bà Donna. Hành động này khiến mọi người chú ý và gây ra một cuộc tranh cãi nhỏ. Sau đó, Penelope bỏ ngang bữa ăn và lên phòng, trút giận lên Emily và bày tỏ sự chán ghét với hoàn cảnh hiện tại.",
+ "boi_canh": "Bữa tối gia đình tại dinh thự Công tước Eckart.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Emily",
+  "Donna",
+  "Công tước (The Duke)"
+ ],
+ "su_kien": [
+  "Penelope làm rơi thìa lần đầu khi bà Donna đang ăn.",
+  "Penelope làm rơi thìa lần thứ hai trước sự chú ý của mọi người.",
+  "Penelope bỏ ngang bữa tối và rời khỏi phòng ăn.",
+  "Penelope trút giận lên Emily vì đồ ăn không hợp khẩu vị.",
+  "Penelope hồi tưởng lại những khó khăn khi còn sống ở nhà cũ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Donna",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope thể hiện sự bất mãn với Donna bằng cách làm rơi thìa.",
+   "cach_goi": "gọi 'Mrs.', lạnh lùng"
+  },
+  {
+   "a": "Donna",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Donna tỏ ra bình thản trước hành động của Penelope.",
+   "cach_goi": "gọi 'lady', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Derrick quan sát Penelope với ánh mắt lạnh lùng.",
+   "cach_goi": "gọi tên, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "cap_tren",
+   "mo_ta": "Reynold phản ứng ngạc nhiên trước hành động của Penelope.",
+   "cach_goi": "gọi tên, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope trút giận lên Emily vì đồ ăn.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Emily lo lắng và cố gắng chăm sóc Penelope.",
+   "cach_goi": "gọi tên, lễ phép"
+  },
+  {
+   "a": "Công tước (The Duke)",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Công tước tỏ ra tức giận trước hành động của Penelope.",
+   "cach_goi": "gọi tên, nghiêm khắc"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước (The Duke)",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope cố tình khiêu khích Công tước.",
+   "cach_goi": "gọi 'Father', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính nhân vật."
+ ],
+ "stats": {
+  "tokens": 905,
+  "seconds": 28.4
+ }
+}

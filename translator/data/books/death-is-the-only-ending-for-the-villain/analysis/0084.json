@@ -1,0 +1,39 @@
+{
+ "number": 84,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope và Thái tử Callisto tình cờ phát hiện ra một vòng tròn ma thuật kỳ lạ trong một hang động bí mật bên trong cung điện Hoàng gia. Họ khám phá ra những tàn tích cổ xưa được bảo tồn bởi mana, có vẻ như là kết quả của một nghi lễ hiến tế. Sau khi phá hủy vòng tròn ma thuật và giải phóng năng lượng còn sót lại, Penelope quyết định thực hiện một nghi thức tôn trọng trước khi tiếp cận các vật phẩm trên thi thể, khiến Thái tử Callisto tỏ ra khó hiểu.",
+ "boi_canh": "Bên trong một hang động bí mật bên trong cung điện Hoàng gia, nơi những tàn tích cổ xưa được bảo tồn bởi mana.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto"
+ ],
+ "su_kien": [
+  "Penelope và Callisto leo lên một vách đá và phát hiện ra vòng tròn ma thuật.",
+  "Vòng tròn ma thuật kích hoạt, tạo ra ánh sáng xanh và năng lượng mạnh mẽ.",
+  "Callisto phá hủy vòng tròn ma thuật bằng thanh kiếm của mình.",
+  "Penelope quan sát những tàn tích cổ xưa được bảo tồn bởi mana.",
+  "Penelope thực hiện một nghi thức tôn trọng trước khi tiếp cận các vật phẩm trên thi thể."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là công chúa, Callisto là Thái tử, có mối quan hệ cấp trên - hạ thuộc.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto là Thái tử, Penelope là công chúa, có mối quan hệ cấp trên - hạ thuộc.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 489,
+  "seconds": 15.2
+ }
+}

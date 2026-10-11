@@ -1,0 +1,72 @@
+{
+ "number": 245,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Thái tử Callisto cầu hôn Penelope một cách bộc phát và kỳ lạ, cô đã trả đũa bằng cách đe dọa sẽ kể mọi chuyện cho Cedric. Tuy nhiên, Callisto vẫn giữ nguyên vị trí quỳ trước mặt cô và cuối cùng cũng đồng ý để cô thực hiện ước mơ học tập của mình. Sau đó, anh ta dùng những cử chỉ thân mật khiến Penelope khó chịu, và khi cô cố gắng rời đi, cô phát hiện ra rằng mình đã bị giam trong phòng của Callisto.",
+ "boi_canh": "Trong phòng ngủ của Thái tử Callisto, vào buổi trưa.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Cedric",
+  "Baroness (head maid)"
+ ],
+ "su_kien": [
+  "Thái tử Callisto cầu hôn Penelope bằng cách quỳ gối.",
+  "Penelope đe dọa sẽ kể chuyện cho Cedric.",
+  "Callisto đồng ý để Penelope theo đuổi ước mơ học tập và nghiên cứu khảo cổ học.",
+  "Callisto dùng những cử chỉ thân mật khiến Penelope khó chịu.",
+  "Penelope phát hiện ra mình bị giam trong phòng của Callisto."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Mối quan hệ tình cảm, Penelope có phần trêu chọc và khó chịu với Callisto.",
+   "cach_goi": "gọi tên 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Mối quan hệ tình cảm, Callisto có phần bốc đồng và kiểm soát.",
+   "cach_goi": "gọi tên 'Princess', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "ban_be",
+   "mo_ta": "Penelope đe dọa sẽ kể chuyện cho Cedric.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Cedric",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử là cấp trên của Cedric.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Baroness",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope cảm thấy khó chịu với sự thân thiết của Baroness.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Baroness",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Baroness là người hầu của Thái tử, đối xử với Penelope như thể cô là chủ nhà.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus, sẽ trở thành Hoàng đế.",
+  "Cedric: Thuộc hạ thân cận của Thái tử."
+ ],
+ "stats": {
+  "tokens": 803,
+  "seconds": 24.2
+ }
+}

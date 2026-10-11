@@ -1,0 +1,65 @@
+{
+ "number": 73,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Ở khu săn thú dữ, Penelope gặp quest bất ngờ: một con gấu nâu khổng lồ đã bị thương lao vào cô, phải bắn trúng ba điểm đỏ trên người nó trong thời gian giới hạn. Cô bắn trượt, quest thất bại rồi được thử lại với thời gian còn ngắn hơn. Đúng lúc con gấu sắp vồ tới, Thái tử Callisto xuất hiện và giết nó.",
+ "boi_canh": "Trong khu rừng hoang dã, Penelope đang thực hiện một nhiệm vụ săn gấu trong một trò chơi mô phỏng hẹn hò.",
+ "nhan_vat": [
+  "Penelope",
+  "Bear",
+  "SYSTEM",
+  "Crown Prince"
+ ],
+ "su_kien": [
+  "Penelope bắt đầu nhiệm vụ săn gấu.",
+  "Gấu tấn công Penelope và có vẻ rất nguy hiểm.",
+  "Penelope bắn tên vào gấu, nhưng không đủ để hạ gục nó.",
+  "Penelope thất bại trong nhiệm vụ và được cho cơ hội thử lại.",
+  "Hoàng tử Crown Prince bất ngờ xuất hiện và cứu Penelope khỏi gấu."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Bear",
+   "loai": "ke_thu",
+   "mo_ta": "Penelope phải săn gấu, đối mặt với sự tấn công của nó.",
+   "cach_goi": "gọi tên 'Bear', không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Bear",
+   "b": "Penelope",
+   "loai": "ke_thu",
+   "mo_ta": "Gấu tấn công Penelope để bảo vệ bản thân.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "SYSTEM",
+   "loai": "khac",
+   "mo_ta": "Hệ thống đưa ra nhiệm vụ và thông báo kết quả.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Crown Prince",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng tử Crown Prince cứu Penelope và tỏ ra chế nhạo cô.",
+   "cach_goi": "gọi tên 'Penelope', trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Crown Prince",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope gặp Crown Prince lần đầu tiên.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính khác."
+ ],
+ "stats": {
+  "tokens": 683,
+  "seconds": 21.2
+ },
+ "tom_tat_sua_tay": "Claude sửa theo bản gốc (2026-10-08)"
+}

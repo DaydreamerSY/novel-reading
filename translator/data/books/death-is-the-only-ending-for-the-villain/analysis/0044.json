@@ -1,0 +1,56 @@
+{
+ "number": 44,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope và Reynold có một cuộc đối đầu căng thẳng khi Reynold nghi ngờ cô là người thay thế cho Yvonne. Penelope sử dụng những câu chuyện bịa đặt về quá khứ nghèo khó của mình để khiến Reynold cảm thấy tội lỗi và bối rối, dẫn đến sự thay đổi đáng kể trong mức độ yêu thích của anh dành cho cô. Cuối cùng, họ chứng kiến pháo hoa cùng nhau, và Penelope nhận được phần thưởng từ hệ thống sau một nhiệm vụ bí mật.",
+ "boi_canh": "Trong phòng làm việc tại dinh thự Eckart vào buổi tối có pháo hoa.",
+ "nhan_vat": [
+  "Penelope",
+  "Reynold",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Reynold nghi ngờ Penelope là người thay thế cho Yvonne.",
+  "Penelope bịa đặt về một quá khứ khó khăn để thao túng Reynold.",
+  "Mức độ yêu thích của Reynold dành cho Penelope giảm mạnh do những lời nói dối của cô.",
+  "Cả hai cùng xem pháo hoa, tạo nên khoảnh khắc im lặng giữa họ.",
+  "Penelope nhận được phần thưởng từ hệ thống sau khi hoàn thành một nhiệm vụ bí mật."
+ ],
+ "quan_he": [
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Căng thẳng và nghi ngờ lẫn nhau. Reynold tỏ ra khó chịu với Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "Thao túng và khiêu khích để đạt được mục đích của mình.",
+   "cach_goi": "gọi tên Reynold, trịch thượng"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Anh trai nuôi và người thay thế. Reynold có quyền lực hơn.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope cố tình khiêu khích Reynold.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính mới hoặc bí mật nào được tiết lộ trong chương này."
+ ],
+ "stats": {
+  "tokens": 646,
+  "seconds": 20.2
+ }
+}

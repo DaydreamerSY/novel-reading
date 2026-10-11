@@ -18,7 +18,7 @@ import time
 from collections import Counter, defaultdict
 from itertools import combinations
 
-from common import ROOT, chapter_path, fmt_duration, read_json, safe_name, write_json
+from common import chapter_path, fmt_duration, read_json, safe_name, write_json
 from glossary import LABELS, Glossary, term_pattern
 from llm import Ollama
 from translator import make_chunks
@@ -465,7 +465,7 @@ def write_draft(path, records, pairs, n_chapters, model):
 
 
 def build_draft(cfg, paths, chapters, model, min_count, use_llm):
-    glossary = Glossary(ROOT / "glossary.yaml")
+    glossary = Glossary(paths.glossary)
     extra = (cfg.get("terms") or {}).get("extra_titles") or []
     data, terms = collect(paths, chapters, extra)
     terms = [t for t in terms if t.count >= min_count]
@@ -484,14 +484,14 @@ def build_draft(cfg, paths, chapters, model, min_count, use_llm):
              if r["loai"] == "nhan_vat" or (not results and not t.fixed and t.male + t.female >= 3)]
     pairs = scene_pairs(data, chars[:150])
 
-    write_json(paths.cache.parent / "terms.json", {"chapters": len(data), "model": model if use_llm else None,
+    write_json(paths.terms, {"chapters": len(data), "model": model if use_llm else None,
                                                     "terms": records, "pairs": pairs})
     new = [r for r in records if r["name"] not in glossary.known]
-    out = ROOT / "glossary_draft.yaml"
+    out = paths.home / "glossary_draft.yaml"
     write_draft(out, new, pairs, len(data), model if use_llm else None)
 
     kinds = Counter(r["loai"] for r in records)
-    print(f"→ {out} và data/terms.json\n  " + ", ".join(f"{LABELS.get(k, k)} {v}" for k, v in kinds.most_common())
+    print(f"→ {out} và {paths.terms}\n  " + ", ".join(f"{LABELS.get(k, k)} {v}" for k, v in kinds.most_common())
           + f"; {len(pairs)} cặp nhân vật gợi ý xưng hô")
     warn = Counter(r["warn"][:1] for r in records if r["warn"])
     if warn:

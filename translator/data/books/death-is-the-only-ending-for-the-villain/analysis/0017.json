@@ -1,0 +1,90 @@
+{
+ "number": 17,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Penelope vô tình gây ra sự phẫn nộ của Công tước và suýt bị trừng phạt, cô bất ngờ nhận được phần thưởng và lời khuyên từ Công tước về việc sử dụng sự tức giận của Thái tử làm lợi thế. Sau đó, Penelope phát hiện ra những thông tin bí mật liên quan đến Thái tử và Hoàng hậu thứ hai. Cô cũng nhận được một thông báo về 'fame' tăng lên và bắt đầu tìm kiếm đường thoát khỏi lâu đài, vô tình gặp lại Derrick.",
+ "boi_canh": "Trong phòng làm việc của Công tước Eckart, sau buổi nói chuyện giữa Penelope và Công tước.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Emily",
+  "Thái tử (Crown Prince)",
+  "Công tước Eckart",
+  "Hoàng hậu thứ hai (Second Empress)"
+ ],
+ "su_kien": [
+  "Penelope vô tình khiến Công tước nổi giận.",
+  "Công tước đề nghị sử dụng sự phẫn nộ của Thái tử để gây áp lực.",
+  "Penelope nhận được phần thưởng bất ngờ từ Công tước.",
+  "Penelope phát hiện ra thông tin bí mật về Thái tử và Hoàng hậu thứ hai.",
+  "Penelope gặp Derrick trong vườn và bắt đầu một cuộc trò chuyện."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi và cha nuôi, Penelope vừa bị Công tước khiển trách nhưng sau đó được khen thưởng.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi và con gái nuôi, Công tước có vẻ đang dạy dỗ Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Thái tử (Crown Prince)",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope vô tình khiến Thái tử tức giận.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Thái tử (Crown Prince)",
+   "loai": "khac",
+   "mo_ta": "Quan hệ không rõ ràng, Công tước có vẻ không thích Thái tử.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Chủ nhân và hầu gái riêng, Penelope đối xử lịch sự với Emily.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Hầu gái và chủ nhân.",
+   "cach_goi": "gọi tên Lady Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Anh trai nuôi và em gái nuôi, Penelope và Derrick có vẻ không thích nhau.",
+   "cach_goi": "gọi tên Derrick, lạnh lùng"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Anh trai nuôi và em gái nuôi, Derrick có vẻ không thích Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (Penelope là tên nhân vật trong game)"
+ ],
+ "stats": {
+  "tokens": 996,
+  "seconds": 31.4
+ }
+}

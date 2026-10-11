@@ -1,0 +1,102 @@
+{
+ "number": 171,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, sau khi chế độ Hard Mode kết thúc một cách thảm hại, Penelope vẫn còn mắc kẹt trong game. Cô ấy cố gắng hành động như một quý cô lịch sự nhưng lại có những hành động kỳ lạ. Để đạt được mục tiêu của mình, Penelope đã lợi dụng Yvonne và tạo ra một màn kịch giả để đánh lạc hướng mọi người. Cuối cùng, cô ta sử dụng độc dược và kích hoạt một nhiệm vụ ẩn, dẫn đến một kết thúc bất ngờ.",
+ "boi_canh": "Buổi tiệc mừng thọ của Công tước Eckart.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Yvonne",
+  "Emily",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Chế độ Hard Mode kết thúc.",
+  "Penelope lợi dụng Yvonne để tạo ra một màn kịch giả.",
+  "Penelope cố tình khiến mọi người nghĩ rằng cô ta là một quý cô lịch sự.",
+  "Penelope sử dụng độc dược.",
+  "Nhiệm vụ ẩn được kích hoạt."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Cạnh tranh vị trí trong gia đình.",
+   "cach_goi": "gọi tên Derrick, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "Cạnh tranh vị trí trong gia đình.",
+   "cach_goi": "gọi tên Reynold, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Vinter, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Cạnh tranh vị trí nữ chính.",
+   "cach_goi": "gọi tên Yvonne, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Hầu gái riêng của Penelope.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi của Công tước.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (Penelope)"
+ ],
+ "stats": {
+  "tokens": 1019,
+  "seconds": 30.5
+ }
+}

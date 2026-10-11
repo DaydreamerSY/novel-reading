@@ -1,0 +1,73 @@
+{
+ "number": 252,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe Derrick thú nhận tội lỗi với Penelope, cô đã phản ứng mạnh mẽ và chế giễu anh ta. Cuộc đối đầu leo thang khi Penelope đe dọa sẽ kết hôn với Hoàng tử Callisto nếu Derrick không thay đổi. Sau đó, Hoàng tử Callisto xuất hiện và can thiệp, bảo vệ Penelope khỏi sự bực bội của Derrick. Cuối cùng, cả ba rời đi, để lại nhiều câu hỏi chưa được giải đáp về mối quan hệ phức tạp giữa họ.",
+ "boi_canh": "Trong phòng nung lò sưởi vào một buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Derrick",
+  "Yvonne",
+  "Reynold"
+ ],
+ "su_kien": [
+  "Derrick thú nhận tội lỗi của mình với Penelope.",
+  "Penelope chế giễu Derrick và đe dọa sẽ kết hôn với Callisto.",
+  "Hoàng tử Callisto xuất hiện và bảo vệ Penelope.",
+  "Penelope mỉa mai Derrick bằng những lời nói cay nghiệt.",
+  "Derrick rời khỏi phòng, ôm theo chiếc gương của Yvonne."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope chế giễu và đe dọa Derrick.",
+   "cach_goi": "gọi tên Derrick, lạnh lùng"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Derrick cố gắng xin lỗi và nhận được sự phản ứng lạnh lùng từ Penelope.",
+   "cach_goi": "gọi tên Penelope, hối lỗi"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Callisto bảo vệ và quan tâm đến Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope chế giễu và đe dọa Callisto.",
+   "cach_goi": "gọi tên Callisto, trịch thượng"
+  },
+  {
+   "a": "Callisto",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Callisto bảo vệ Penelope và có vẻ như đang đối đầu với Derrick.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Derrick không tỏ ra kính trọng với Callisto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Yvonne là con gái ruột thất lạc của Công tước Eckart, nữ chính của chế độ thường (normal mode) trong game."
+ ],
+ "stats": {
+  "tokens": 783,
+  "seconds": 23.6
+ }
+}

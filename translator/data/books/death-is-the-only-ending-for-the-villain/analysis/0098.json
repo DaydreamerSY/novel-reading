@@ -1,0 +1,95 @@
+{
+ "number": 98,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope chứng kiến các quý tộc khác công bố chiến lợi phẩm săn bắn của họ, bao gồm cả Thái tử Callisto và Công tước Reynold. Sau đó, một loạt sự kiện bất ngờ xảy ra khi Vinter tặng toàn bộ chiến lợi phẩm của mình cho Penelope, Thái tử Callisto cũng tuyên bố hiến dâng chiến lợi phẩm của mình cho cô, và cuối cùng Penelope giành giải nhất với việc hạ gục một con gấu nâu. Sự kiện này khiến mọi người chú ý đến Penelope, dẫn đến những tình huống khó xử và sự thay đổi trong mối quan hệ giữa các nhân vật.",
+ "boi_canh": "Một khu vực trống trải tại một cuộc thi săn bắn, buổi lễ trao giải thưởng.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Công tước Kellin (đề cập)"
+ ],
+ "su_kien": [
+  "Các quý tộc công bố chiến lợi phẩm săn bắn của họ.",
+  "Vinter hiến tặng toàn bộ chiến lợi phẩm của mình cho Penelope.",
+  "Thái tử Callisto cũng hiến dâng chiến lợi phẩm của mình cho Penelope.",
+  "Penelope giành giải nhất với việc hạ gục một con gấu nâu.",
+  "Penelope nhận được danh hiệu 'Nữ hoàng cuộc thi săn bắn' và phần thưởng."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope cảm thấy khó chịu khi Reynold khoe khoang.",
+   "cach_goi": "gọi tên Reynold, không thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Reynold khoe khoang và được Penelope chú ý.",
+   "cach_goi": "gọi tên Penelope, không thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, Penelope quan sát Derrick.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope quan tâm đến Vinter và sự đa tài của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter tặng chiến lợi phẩm cho Penelope.",
+   "cach_goi": "gọi tên Penelope, trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope nhận thấy sự khác thường ở Callisto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Callisto hiến dâng chiến lợi phẩm cho Penelope và có vẻ quan tâm đặc biệt.",
+   "cach_goi": "gọi tên Penelope, trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, Penelope cảm thấy khó chịu khi nhìn vào mắt Derrick.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, Derrick nhìn Penelope với ánh mắt kỳ lạ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (đã được xác nhận là nhân vật chính và con gái nuôi nhà Công tước Eckart)"
+ ],
+ "stats": {
+  "tokens": 1047,
+  "seconds": 31.2
+ }
+}

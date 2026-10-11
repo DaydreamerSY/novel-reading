@@ -1,0 +1,64 @@
+{
+ "number": 205,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope bị Eckles đe dọa và cố gắng trốn thoát bằng cách tấn công anh ta bằng cây đàn gương. Cô vô tình gây ra một cuộc hỗn loạn và được Thái tử Callisto giải cứu. Trong lúc nguy hiểm, Penelope kích hoạt sức mạnh ma thuật cổ xưa của mình thông qua cây đàn gương, làm đông cứng mọi thứ xung quanh.",
+ "boi_canh": "Một khu rừng ngập mặn, giữa chiến sự.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Penelope bị Eckles đe dọa.",
+  "Penelope tấn công Eckles bằng cây đàn gương.",
+  "Callisto giải cứu Penelope khỏi nguy hiểm.",
+  "Penelope kích hoạt sức mạnh ma thuật cổ xưa.",
+  "Mọi thứ xung quanh đóng băng."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope cố gắng trốn thoát khỏi sự kiểm soát của Eckles.",
+   "cach_goi": "gọi tên Eckles, lạnh lùng"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Eckles cố gắng bắt giữ Penelope.",
+   "cach_goi": "gọi tên Penelope, thô lỗ"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope được Callisto giải cứu và bảo vệ.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Callisto quan tâm và bảo vệ Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (Penelope)"
+ ],
+ "stats": {
+  "tokens": 611,
+  "seconds": 18.4
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "number": 24,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope cố gắng thuyết phục cha và anh trai mình cho phép Eckles gia nhập đội ngũ hiệp sĩ của nhà Eckart để làm vệ sĩ cá nhân cho cô. Sau một hồi tranh luận, cha của Penelope đồng ý với điều kiện cô nghỉ ngơi, nhưng Derrick lại được yêu cầu ở lại. Cuối cùng, Penelope từ chối nhiệm vụ hẹn hò với Derrick và cảm thấy bực bội vì hệ thống game tiếp tục xuất hiện.",
+ "boi_canh": "Phòng làm việc của Công tước Eckart, buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Emily",
+  "Công tước (Cha của Penelope và Derrick)"
+ ],
+ "su_kien": [
+  "Penelope bị Derrick trách móc vì xông vào phòng.",
+  "Penelope cố gắng thuyết phục cha mình cho phép Eckles gia nhập đội ngũ hiệp sĩ.",
+  "Derrick phản đối việc huấn luyện một nô lệ thành hiệp sĩ.",
+  "Cha của Penelope đồng ý để Penelope có vệ sĩ cá nhân.",
+  "Penelope từ chối nhiệm vụ hẹn hò với Derrick."
+ ],
+ "quan_he": [
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Anh trai nuôi của Penelope, có vẻ khó chịu với hành động của cô.",
+   "cach_goi": "gọi tên Penelope, không thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Anh trai nuôi của Penelope, có vẻ khó chịu với hành động của cô.",
+   "cach_goi": "gọi tên Derrick, không thân mật"
+  },
+  {
+   "a": "Công tước",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Derrick, có vẻ nghiêm khắc.",
+   "cach_goi": "gọi tên Derrick, lễ phép"
+  },
+  {
+   "a": "Derrick",
+   "b": "Công tước",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai của Công tước, có vẻ tôn trọng.",
+   "cach_goi": "gọi 'father', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái của Công tước, có vẻ tôn trọng.",
+   "cach_goi": "gọi 'father', lễ phép"
+  },
+  {
+   "a": "Công tước",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Penelope, có vẻ quan tâm.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Nô lệ mà Penelope mua về, đang được cô cố gắng thuyết phục cha mình cho gia nhập đội ngũ hiệp sĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Nô lệ mà Penelope mua về, đang được cô cố gắng thuyết phục cha mình cho gia nhập đội ngũ hiệp sĩ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Hầu gái riêng của Penelope, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Hầu gái riêng của Penelope, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1064,
+  "seconds": 33.1
+ }
+}

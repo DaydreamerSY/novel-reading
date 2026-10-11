@@ -1,0 +1,66 @@
+{
+ "number": 27,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhận được thư mời bí ẩn từ Hoàng tử Thái tử, Penelope lo lắng và tìm cách trốn tránh. Cô giả bệnh để ở trong nhà và cử Emily đi thu thập thông tin. Thông qua Emily, cô biết được Hoàng tử Thái tử đang chờ đợi mình tại một nơi đặc biệt. Trong lúc dạo bộ trong vườn mưa, Penelope tình cờ gặp Eckles đang tập luyện với vẻ mặt lạnh lùng và nguy hiểm.",
+ "boi_canh": "Trong khuôn viên trang viên Công tước Eckart, vào một ngày mưa.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Emily",
+  "Hoàng tử Thái tử (Crown Prince)"
+ ],
+ "su_kien": [
+  "Penelope nhận được thư mời bí ẩn từ Hoàng tử Thái tử.",
+  "Cô giả bệnh để tránh mặt Hoàng tử Thái tử.",
+  "Emily đi thu thập thông tin và báo cáo về một nơi đặc biệt mà Hoàng tử Thái tử đang chờ đợi.",
+  "Penelope gặp Eckles trong khi dạo bộ dưới mưa.",
+  "Eckles sử dụng kỹ năng kiếm thuật tuyệt vời, khiến Penelope giật mình."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "chủ và hầu gái riêng, Penelope giao việc cho Emily.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Butler",
+   "loai": "cap_tren",
+   "mo_ta": "chủ và người hầu lâu năm, Penelope ra lệnh cho Butler.",
+   "cach_goi": "gọi 'Butler', lễ phép"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "hầu gái và chủ nhân, Emily báo cáo tình hình cho Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "chủ nhân và người hầu, Penelope bất ngờ gặp Eckles trong lúc dạo bộ.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "người hầu và chủ nhân, Eckles tỏ ra bối rối khi gặp Penelope.",
+   "cach_goi": "gọi 'Master', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Hoàng tử Thái tử (Crown Prince): Người gửi thư mời bí ẩn cho Penelope."
+ ],
+ "stats": {
+  "tokens": 715,
+  "seconds": 22.3
+ }
+}

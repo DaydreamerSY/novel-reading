@@ -1,0 +1,90 @@
+{
+ "number": 146,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi dự tiệc chúc mừng của Hoàng đế, Penelope lẻn ra ngoài bằng xe ngựa và đi dạo quanh thành phố. Cô bị lính canh chặn lại tại cổng phủ đệ, nhưng đã trốn thoát và tiếp tục đi bộ một mình trong đêm tối. Cô dừng lại trước phòng làm việc của Derrick, nơi có một con chim cảnh đang nuôi nhốt, và bỗng nhiên Eckles xuất hiện.",
+ "boi_canh": "Đêm khuya tại khuôn viên phủ đệ sau tiệc chúc mừng của Hoàng đế.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Hoàng đế",
+  "Người hầu",
+  "Kỵ sĩ",
+  "Lính canh",
+  "Đức Công tước"
+ ],
+ "su_kien": [
+  "Penelope lẻn ra ngoài tiệc bằng xe ngựa.",
+  "Cô bị lính canh chặn lại tại cổng phủ đệ.",
+  "Penelope trốn thoát và đi bộ một mình trong đêm tối.",
+  "Cô dừng lại trước phòng làm việc của Derrick và nhìn con chim cảnh.",
+  "Eckles bất ngờ xuất hiện."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Người hầu",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope nhờ vả Người hầu để mượn xe ngựa.",
+   "cach_goi": "gọi tên Người hầu, không trang trọng"
+  },
+  {
+   "a": "Người hầu",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu phục vụ Penelope.",
+   "cach_goi": "gọi tên Penelope, không trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Kỵ sĩ",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope trả tiền cho Kỵ sĩ để được đưa đi.",
+   "cach_goi": "gọi 'anh', không trang trọng"
+  },
+  {
+   "a": "Kỵ sĩ",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Kỵ sĩ phục vụ Penelope.",
+   "cach_goi": "gọi tên Penelope, không trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Lính canh",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope cố gắng vượt qua Lính canh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lính canh",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Lính canh ngăn cản Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope quan sát Eckles từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Eckles theo dõi Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: nô lệ Penelope mua về, hiệp sĩ hộ vệ của cô; một trong các nam chính.",
+  "Derrick: con trưởng nhà Công tước Eckart, anh trai nuôi của Penelope; một trong các nam chính."
+ ],
+ "stats": {
+  "tokens": 929,
+  "seconds": 27.7
+ }
+}

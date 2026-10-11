@@ -1,0 +1,72 @@
+{
+ "number": 162,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope bị triệu tập đến cung điện và có cuộc đối đầu căng thẳng với Thái tử Callisto về việc cô đang giảm cân. Họ tranh luận về mối quan hệ của họ và những kỳ vọng xung quanh hôn nhân chính trị. Cuối cùng, Penelope khẳng định rằng cô không muốn kết hôn nếu không có tình yêu và tiết lộ thông tin về sự trở lại của công chúa thật nhà Eckart.",
+ "boi_canh": "Trong phòng tiếp khách tại cung điện, trong một cuộc gặp gỡ bất ngờ.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Cedric"
+ ],
+ "su_kien": [
+  "Penelope bị triệu tập đến cung điện.",
+  "Penelope và Callisto tranh cãi về việc cô giảm cân.",
+  "Penelope từ chối lời cầu hôn của Callisto.",
+  "Penelope tiết lộ thông tin về sự trở lại của công chúa thật nhà Eckart.",
+  "Callisto thừa nhận rằng anh quan tâm đến Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là người được giao phó và tôn trọng Thái tử, nhưng cũng có sự thách thức.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử có vẻ bực bội và quan tâm đến Penelope, nhưng vẫn giữ thái độ trang trọng.",
+   "cach_goi": "gọi 'Princess', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "gia_dinh",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Tranh cãi và đối đầu, Penelope thách thức Thái tử.",
+   "cach_goi": "gọi 'Your Highness', thô lỗ"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Tranh cãi và đối đầu, Thái tử bực bội với Penelope.",
+   "cach_goi": "gọi 'Princess', thô lỗ"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart được biết đến với biệt danh 'The Ugly Duckling of the Duke'.",
+  "Sự trở lại của công chúa thật nhà Eckart đã được tiết lộ, làm thay đổi vị thế của Penelope."
+ ],
+ "stats": {
+  "tokens": 781,
+  "seconds": 23.4
+ }
+}

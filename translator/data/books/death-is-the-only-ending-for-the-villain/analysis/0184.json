@@ -1,0 +1,56 @@
+{
+ "number": 184,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope đối mặt với Eckles sau khi anh ta bị giải phóng. Cô ấy sử dụng những lời nói cay nghiệt để tra tấn tâm lý anh ta và khiến anh ta phải thừa nhận tình cảm của mình. Sau đó, cô ta lợi dụng sự tuyệt vọng của Eckles để gỡ bỏ xiềng xích nô lệ của anh ta, nhưng lại tuyên bố rằng anh ta không còn là chủ nhân của cô nữa. Cuối cùng, Yvonne xuất hiện và thúc đẩy Eckles tìm cách có được quyền lực để giành lấy Penelope.",
+ "boi_canh": "Trong phòng thiêu phép, sau khi giải thoát Eckles khỏi xiềng xích nô lệ.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Penelope đối diện với Eckles và dùng lời nói tra tấn anh ta.",
+  "Eckles gỡ bỏ xiềng xích nô lệ của chính mình.",
+  "Penelope tuyên bố rằng Eckles không còn là chủ nhân của cô nữa.",
+  "Yvonne thúc đẩy Eckles tìm cách có được quyền lực.",
+  "Eckles nhận ra mình là hậu duệ cuối cùng của một dòng dõi hoàng gia."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "ke_thu",
+   "mo_ta": "Penelope tra tấn tâm lý Eckles để đạt được mục đích của mình.",
+   "cach_goi": "gọi tên Eckles, lạnh lùng"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "Eckles vẫn tôn trọng Penelope như chủ nhân, dù bị tra tấn.",
+   "cach_goi": "gọi 'Master', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người cạnh tranh giành tình cảm của Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Eckles",
+   "loai": "ban_be",
+   "mo_ta": "Yvonne cố gắng an ủi và thúc đẩy Eckles.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles Hhan Delman: Con trai ngoài giá thú của Crew Hhan Delman, hậu duệ cuối cùng của dòng dõi hoàng gia."
+ ],
+ "stats": {
+  "tokens": 650,
+  "seconds": 19.6
+ }
+}

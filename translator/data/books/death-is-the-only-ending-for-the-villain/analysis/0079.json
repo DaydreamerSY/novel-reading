@@ -1,0 +1,49 @@
+{
+ "number": 79,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope cố tình thay đổi lần gặp gỡ đầu tiên với Hoàng tử để tránh sự khó xử. Trong lúc trò chuyện, cô khen ngợi ngoại hình của Hoàng tử bằng những so sánh kỳ lạ, khiến anh tỏ ra bối rối và gọi cô là 'kỳ lạ'. Sau đó, vì quá lạnh, Penelope bị Hoàng tử ôm vào lòng để giữ ấm, tạo nên một tình huống ngại ngùng.",
+ "boi_canh": "Trong hang động tối tăm, đêm khuya.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "Crown Prince"
+ ],
+ "su_kien": [
+  "Penelope thay đổi câu chuyện về lần gặp đầu tiên với Hoàng tử.",
+  "Penelope khen ngợi ngoại hình của Hoàng tử bằng những so sánh kỳ lạ.",
+  "Hoàng tử gọi Penelope là 'kỳ lạ'.",
+  "Penelope run rẩy vì lạnh và bị Hoàng tử ôm vào lòng.",
+  "Hoàng tử giải thích việc ôm Penelope là để giữ ấm trong điều kiện khắc nghiệt."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Crown Prince",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope kính trọng nhưng có phần trêu chọc Hoàng tử.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Crown Prince",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Hoàng tử có vẻ khó chịu với những lời nói của Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "thay_tro",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Hoàng tử được Penelope gọi là 'Your Highness'."
+ ],
+ "stats": {
+  "tokens": 503,
+  "seconds": 15.8
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "number": 208,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Công tước Eckart đang suy tư về lời nói kỳ lạ của Penelope liên quan đến việc nhìn vào nước trà. Ông nhớ lại cuộc trò chuyện trước đó với Penelope và những ký ức mơ hồ về một bữa trưa, cùng với sự xuất hiện của Yvonne, người mà ông tin là con gái ruột của mình. Sau khi Yvonne rời đi, Công tước ra lệnh theo dõi cô và triệu tập các pháp sư để chuẩn bị cho một cuộc khủng hoảng sắp tới, trong khi Vinter Verdandi đến văn phòng sau một ngày dài tìm kiếm tài liệu cổ.",
+ "boi_canh": "Trong thư phòng của Công tước Eckart vào buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Vinter",
+  "Yvonne",
+  "Pennel",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Công tước Eckart nhớ lại lời nói của Penelope về việc nhìn vào nước trà.",
+  "Công tước Eckart có một bữa trưa mơ hồ với Penelope và Yvonne.",
+  "Yvonne bày tỏ mong muốn được ra ngoài thăm những người mồ côi mà cô chăm sóc.",
+  "Công tước Eckart ra lệnh theo dõi Yvonne và triệu tập các pháp sư.",
+  "Vinter Verdandi đến văn phòng sau một ngày dài tìm kiếm tài liệu cổ."
+ ],
+ "quan_he": [
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "cha và con gái nuôi, mối quan hệ phức tạp và đầy bí mật.",
+   "cach_goi": "gọi tên Penelope, không rõ cảm xúc"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "cha và con gái nuôi, mối quan hệ phức tạp và đầy bí mật.",
+   "cach_goi": "gọi tên Công tước, không rõ cảm xúc"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "cha và con trai, mối quan hệ không được đề cập trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "mối quan hệ không được đề cập trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "cha và con gái ruột, mối quan hệ đầy bí mật.",
+   "cach_goi": "gọi tên Yvonne, lịch sự"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "cha và con gái ruột, mối quan hệ đầy bí mật.",
+   "cach_goi": "gọi tên Công tước, thân thiện"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Pennel",
+   "loai": "cap_tren",
+   "mo_ta": "chủ và người hầu lâu năm.",
+   "cach_goi": "gọi tên Pennel, trang trọng"
+  },
+  {
+   "a": "Pennel",
+   "b": "Công tước Eckart",
+   "loai": "cap_tren",
+   "mo_ta": "người hầu và chủ.",
+   "cach_goi": "gọi tên Công tước, tôn trọng"
+  },
+  {
+   "a": "Vinter",
+   "b": "Không ai",
+   "loai": "khac",
+   "mo_ta": "đang suy nghĩ một mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Yvonne được xác nhận là con gái ruột của Công tước Eckart thông qua các xét nghiệm.",
+  "Penelope biết bí mật về việc Yvonne là con gái ruột của Công tước, nhưng không tiết lộ."
+ ],
+ "stats": {
+  "tokens": 1079,
+  "seconds": 32.3
+ }
+}

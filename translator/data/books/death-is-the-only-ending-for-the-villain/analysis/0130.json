@@ -1,0 +1,81 @@
+{
+ "number": 130,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi thất bại trong việc dịch chuyển tức thời do địa hình phức tạp, nhóm Penelope tiếp tục di chuyển trong hang động. Họ phát hiện ra một căn cứ bí mật với những nghi lễ đáng sợ liên quan đến việc 'dâng' người làm thức ăn cho một thực thể nào đó. Raon bị bắt giữ và có nguy cơ bị tẩy não. Vinter can thiệp để ngăn chặn, dẫn đến một cuộc ẩu tấu và tiết lộ thêm về quá khứ của Leila.",
+ "boi_canh": "Bên trong một căn cứ bí mật dưới đảo Arkina, vào thời điểm nghi lễ đang diễn ra.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Vinter",
+  "Raon",
+  "Người đàn ông mặc áo choàng trắng (White Robe)",
+  "Những người đàn ông mặc áo choàng đen (Black Robes)"
+ ],
+ "su_kien": [
+  "Thất bại trong việc dịch chuyển tức thời do địa hình phức tạp.",
+  "Phát hiện căn cứ bí mật với nghi lễ dâng tế.",
+  "Raon bị bắt giữ và có nguy cơ bị tẩy não.",
+  "Vinter can thiệp để ngăn chặn nghi lễ.",
+  "Một người đàn ông biến mất sau khi hôn một người phụ nữ mặc áo choàng trắng."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "ban_be",
+   "mo_ta": "đồng minh, cùng nhau tìm đường thoát.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope phụ thuộc vào Vinter để bảo vệ và chỉ dẫn.",
+   "cach_goi": "gọi tên Vinter, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto tôn trọng và tuân theo chỉ dẫn của Vinter.",
+   "cach_goi": "gọi tên Vinter, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Penelope lo lắng cho Raon.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto tôn trọng và tuân theo chỉ dẫn của Vinter.",
+   "cach_goi": "gọi tên Vinter, lễ phép"
+  },
+  {
+   "a": "Người đàn ông mặc áo choàng trắng",
+   "b": "Những người đàn ông mặc áo choàng đen",
+   "loai": "chu_to",
+   "mo_ta": "người điều khiển nghi lễ, có quyền lực đối với những người khác.",
+   "cach_goi": "gọi 'các bạn', trịch thượng"
+  },
+  {
+   "a": "Người đàn ông mặc áo choàng trắng",
+   "b": "Raon",
+   "loai": "ke_thu",
+   "mo_ta": "có ý định lợi dụng Raon.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Leila New Hingdom: Tên gọi ban đầu có vẻ 'lỗi' do hệ thống tạo ra, nhưng thực tế là một tổ chức/nhân vật quan trọng.",
+  "Người đàn ông mặc áo choàng trắng: Có thể là một nhân vật bí ẩn với vai trò quan trọng hơn những gì hiện tại thấy được."
+ ],
+ "stats": {
+  "tokens": 936,
+  "seconds": 28.1
+ }
+}

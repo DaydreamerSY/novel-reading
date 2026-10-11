@@ -1,0 +1,84 @@
+{
+ "number": 142,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope cố gắng tránh khiêu vũ với các nhân vật nam chính trong game, nhưng liên tục bị cuốn vào những tình huống dở khóc dở cười. Cô nhận được yêu cầu khiêu vũ bất ngờ từ Derrick, sau đó bị Thái tử Callisto cướp đi cơ hội. Cuối cùng, để thoát khỏi tình hình khó xử, Penelope buộc phải chấp nhận lời mời của Thái tử, khiến mọi thứ trở nên phức tạp hơn.",
+ "boi_canh": "Một buổi tiệc tại lâu đài Eckart, vào một đêm đặc biệt.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Penelope liên tục từ chối lời mời khiêu vũ.",
+  "Reynold đuổi theo Penelope và có những tương tác kỳ lạ với cô.",
+  "Derrick bất ngờ đề nghị Penelope khiêu vũ.",
+  "Thái tử Callisto cướp lời mời khiêu vũ của Derrick.",
+  "Penelope buộc phải chấp nhận lời mời của Thái tử để tránh rắc rối."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi Penelope, có vẻ quan tâm đến Vinter.",
+   "cach_goi": "gọi tên Reynold, không thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi Penelope, có vẻ quan tâm đến Vinter.",
+   "cach_goi": "gọi tên Penelope, không thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, thường xuyên xuất hiện trong các sự kiện.",
+   "cach_goi": "gọi tên Derrick, không thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, thường xuyên xuất hiện trong các sự kiện.",
+   "cach_goi": "gọi tên Penelope, không thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Thái tử, có vẻ thích Penelope.",
+   "cach_goi": "gọi tên Callisto, không thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Thái tử, có vẻ thích Penelope.",
+   "cach_goi": "gọi tên Penelope, không thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Derrick là người có địa vị thấp hơn Callisto.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto là người có địa vị cao hơn Derrick.",
+   "cach_goi": "gọi tên Derrick, không thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 892,
+  "seconds": 26.7
+ }
+}

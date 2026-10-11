@@ -1,0 +1,88 @@
+{
+ "number": 220,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi phá hủy hầm mộ Leila cổ đại, Penelope nhận ra mình đã đi ngược lại Yvonne và những người khác. Cô nghe được những lời cảnh báo về tương lai từ Vinter và lo lắng về số phận của những con tin. Sau đó, cô gặp Eckles trên đường phố, người đưa cô lên một cỗ xe sang trọng với sự hộ tống nghiêm ngặt. Cuộc trò chuyện giữa Penelope và Eckles bộc lộ sự phức tạp trong mối quan hệ của họ và kế hoạch trả thù của anh ta dành cho những kẻ đã từng sỉ nhục cô, khiến Penelope cảm thấy bối rối và lo lắng.",
+ "boi_canh": "Đầu tiên, trên đường phố thủ đô vào buổi sáng sớm.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Vinter",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Hầm mộ Leila bị phá hủy.",
+  "Penelope nhận ra mình đã đi ngược lại Yvonne.",
+  "Penelope nghe được lời cảnh báo từ Vinter về tương lai.",
+  "Eckles đưa Penelope lên cỗ xe sang trọng.",
+  "Cuộc trò chuyện giữa Penelope và Eckles bộc lộ kế hoạch trả thù của anh ta."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope ngạc nhiên và khó chịu khi gặp lại Eckles.",
+   "cach_goi": "gọi tên Eckles, không thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Eckles đưa ra yêu cầu và đe dọa Penelope.",
+   "cach_goi": "gọi tên Penelope, không thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope cảm thấy tức giận với Vinter.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Vinter đã gây ra những rắc rối cho Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "ban_be",
+   "mo_ta": "Penelope lo lắng cho Callisto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Callisto quan tâm đến Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope đang đối đầu với Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Yvonne là đối thủ của Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: trước đây là nô lệ, hiện tại là hiệp sĩ hộ vệ của Penelope.",
+  "Callisto: Thái tử Callisto Regulus",
+  "Vinter: Hầu tước Vinter Verdandi, pháp sư."
+ ],
+ "stats": {
+  "tokens": 937,
+  "seconds": 28.1
+ }
+}

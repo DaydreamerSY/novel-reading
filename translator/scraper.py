@@ -15,7 +15,8 @@ JUNK = re.compile(
     r"n[o0]v[e3]l\W{0,2}b[i1]n|novellunar|freewebnovel|lightnovelpub|lightnovelworld"
     r"|\bwww\.|\.(com|net|org|me)\b"
     r"|review this novel|bonus chapters? on reaching|^happy reading\W*$"
-    r"|ko-?fi|patreon|bonus chapters? thanks to|advanced? (chapters|tiers)",
+    r"|ko-?fi|patreon|bonus chapters? thanks to|advanced? (chapters|tiers)"
+    r"|thank you (very much )?for visiting our website",
     re.I,
 )
 TITLE = re.compile(r"chapter\s*\d+", re.I)

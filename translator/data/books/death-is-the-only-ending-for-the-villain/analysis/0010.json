@@ -1,0 +1,69 @@
+{
+ "number": 10,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi phát hiện ra Emily, người hầu riêng của Penelope, đã cố tình gây khó dễ cho cô bằng kim tiêm, Penelope đã thực hiện một màn trừng phạt công khai để cảnh cáo Emily. Sau đó, Reynold xuất hiện và bắt đầu chất vấn Penelope về việc sử dụng Emily làm hầu gái cá nhân. Cuối cùng, Penelope tiết lộ rằng cha và Derrick không đồng ý với việc đuổi Emily đi.",
+ "boi_canh": "Phòng ăn của dinh thự Eckart, buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Emily",
+  "Derrick",
+  "Reynold"
+ ],
+ "su_kien": [
+  "Emily bị Penelope bắt quả tang đang giấu kim tiêm trong tóc.",
+  "Penelope trừng phạt Emily bằng cách tự đâm kim vào tay mình và giả vờ đau khổ.",
+  "Reynold xuất hiện và chất vấn Penelope về việc sử dụng Emily làm hầu gái cá nhân.",
+  "Penelope tiết lộ rằng cha và Derrick không đồng ý với việc đuổi Emily đi.",
+  "Emily rời khỏi phòng sau khi bị Reynold ngăn cản."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "chủ và người hầu, Penelope trừng phạt Emily vì hành động sai trái.",
+   "cach_goi": "gọi tên Emily, lạnh lùng"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "người hầu sợ hãi Penelope sau khi bị trừng phạt.",
+   "cach_goi": "gọi 'Lady', lễ phép"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "anh trai nuôi và em gái nuôi, mối quan hệ căng thẳng.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "anh trai nuôi và em gái nuôi, Penelope cố tình khiêu khích Reynold.",
+   "cach_goi": "gọi tên Reynold, thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Emily",
+   "loai": "nguoi_la",
+   "mo_ta": "Reynold tức giận Emily vì hành động của cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Reynold",
+   "loai": "nguoi_la",
+   "mo_ta": "Emily sợ hãi Reynold.",
+   "cach_goi": "gọi 'Young Master', lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 743,
+  "seconds": 23.3
+ }
+}

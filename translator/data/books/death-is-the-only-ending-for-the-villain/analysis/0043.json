@@ -1,0 +1,65 @@
+{
+ "number": 43,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Penelope được phép lên tầng ba, cô gặp Reynold trong gác mái. Họ tranh cãi về lý do Penelope ở đó và những lời nói đùa của Reynold khiến Penelope bực bội. Sau đó, Reynold tiết lộ rằng anh đã để người hầu trai tập luyện đến kiệt sức và chết, gây ra sự sụt giảm đáng kể về mức độ yêu thích của Eckles đối với Penelope. Cuối cùng, họ cãi nhau về việc Penelope có nên xin lỗi vì những hành động trong quá khứ hay không, và Reynold bắt đầu nghi ngờ động cơ thực sự của cô.",
+ "boi_canh": "Gác mái nhà Công tước Eckart, vào một buổi tối cuối lễ hội.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Reynold",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Penelope và Reynold gặp nhau trong gác mái.",
+  "Reynold tiết lộ rằng anh đã để người hầu trai tập luyện đến chết.",
+  "Mức độ yêu thích của Eckles đối với Penelope giảm mạnh.",
+  "Reynold bắt đầu nghi ngờ động cơ của Penelope.",
+  "Penelope xin lỗi vì những hành động trong quá khứ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "Cả hai đều không thích sự hiện diện của đối phương và thường xuyên cãi nhau.",
+   "cach_goi": "gọi tên Reynold, thân mật nhưng có chút khó chịu"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Anh ta cố tình khiêu khích cô để xem phản ứng của cô.",
+   "cach_goi": "gọi tên Penelope, trêu chọc và có phần thô lỗ"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "khac",
+   "mo_ta": "Penelope lo lắng về sự thay đổi trong mức độ yêu thích của Eckles đối với cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Eckles",
+   "loai": "cap_tren",
+   "mo_ta": "Reynold là con trai của Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người cạnh tranh vị trí của mình trong gia đình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (đã xuyên vào cơ thể Penelope trong game)",
+  "Yvonne là nữ chính của chế độ thường (normal mode) trong game"
+ ],
+ "stats": {
+  "tokens": 748,
+  "seconds": 23.5
+ }
+}

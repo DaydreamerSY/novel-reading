@@ -1,0 +1,71 @@
+{
+ "number": 193,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi rời khỏi văn phòng của Vinter, Penelope nhanh chóng di chuyển và sử dụng cuộn phép để tránh bị theo dõi. Cô phát hiện ra lính canh có biểu tượng nhà Eckart đang chờ đợi, cho thấy họ đang cố gắng bắt cô. Sau đó, cô tìm thấy một loạt cuộn phép từ Vinter và thử dùng cuộn 'Di Chuyển Phép' đến Arkina nhưng gặp lỗi do rào cản ma thuật. Cuối cùng, sau khi bị Derrick phát hiện và đối chất, Penelope sử dụng cuộn 'Di Chuyển Phép' đến Tratan.",
+ "boi_canh": "Trong một con hẻm tối tăm gần văn phòng của Vinter vào buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Yvonne",
+  "Pennel"
+ ],
+ "su_kien": [
+  "Penelope sử dụng cuộn phép 'Di Chuyển Phép' để tránh bị theo dõi, nhưng gặp lỗi.",
+  "Derrick phát hiện Penelope và đối chất với cô trong một con hẻm.",
+  "Derrick bày tỏ tình cảm phức tạp và sự bối rối của mình với Penelope.",
+  "Penelope sử dụng cuộn 'Di Chuyển Phép' đến Tratan để trốn thoát.",
+  "Penelope tìm kiếm một chiếc thuyền đến Arkina Islands tại cảng Tratan."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope nhận cuộn phép từ Vinter, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Đối đầu căng thẳng, Derrick bày tỏ tình cảm phức tạp.",
+   "cach_goi": "gọi tên Derrick, lạnh lùng"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Bày tỏ tình cảm và sự bối rối, cố gắng níu giữ Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật/trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "dong_minh",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Pennel",
+   "loai": "chu_to",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 686,
+  "seconds": 20.5
+ }
+}

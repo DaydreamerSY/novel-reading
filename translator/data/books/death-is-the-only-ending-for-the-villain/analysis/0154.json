@@ -1,0 +1,82 @@
+{
+ "number": 154,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào cuộc trò chuyện của Penelope với Emily về một hầu gái tạm thời tên Becky, người đến từ quê nhà của Penelope. Sau đó, Penelope được triệu tập bởi Công tước Eckart để thảo luận về việc cô thuê gia sư cho anh trai và những hậu quả liên quan đến việc giúp đỡ nô lệ Delman trốn thoát. Cuối cùng, Công tước thông báo rằng Yvonne sẽ ở lại dinh thự một thời gian.",
+ "boi_canh": "Trong phòng của Penelope tại dinh thự Eckart vào buổi sáng.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Yvonne",
+  "Emily",
+  "Becky",
+  "Công tước Eckart",
+  "người hầu"
+ ],
+ "su_kien": [
+  "Penelope và Emily thảo luận về Becky, một hầu gái tạm thời từ quê nhà của Penelope.",
+  "Công tước Eckart triệu tập Penelope để nói chuyện về việc cô thuê gia sư cho anh trai.",
+  "Penelope thừa nhận đã giúp đỡ nô lệ Delman trốn thoát và bày tỏ hối lỗi.",
+  "Công tước thông báo Yvonne sẽ ở lại dinh thự một thời gian.",
+  "Penelope trả lời một cách lạnh lùng sau khi Công tước thông báo về việc Yvonne được phép ở lại."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân, Emily là hầu gái riêng của cô, mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Emily là hầu gái riêng của Penelope, tôn trọng và lo lắng cho cô.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Becky",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope và Becky chưa từng gặp nhau, Emily là người giới thiệu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Becky",
+   "loai": "ban_be",
+   "mo_ta": "Emily và Becky là bạn bè từ quê nhà của Penelope.",
+   "cach_goi": "gọi tên Becky, thân mật"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Công tước là cha của Penelope, mối quan hệ nghiêm khắc nhưng quan tâm.",
+   "cach_goi": "gọi tên Penelope, trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope là con gái của Công tước, tôn trọng và đôi khi đối đầu.",
+   "cach_goi": "gọi tên Công tước, lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "người hầu",
+   "loai": "dong_minh",
+   "mo_ta": "Công tước và người hầu không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Becky: Hầu gái tạm thời, đến từ quê nhà của Penelope. Có thể bị lợi dụng vì quá tin tưởng vào những lời hứa.",
+  "Yvonne: Con gái thất lạc của Công tước Eckart, có một chấm giống như mẹ kế của Penelope."
+ ],
+ "stats": {
+  "tokens": 940,
+  "seconds": 28.1
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "number": 190,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope sử dụng phép thuật 'Lacracio' để phá vỡ sự tẩy não của gia đình, nhưng điều này lại kích hoạt một nhiệm vụ mới và khiến cô phải đối mặt với Yvonne. Sau khi Yvonne bị đánh bại, Penelope phát hiện ra những âm mưu ẩn giấu và được Emily giúp đỡ trốn thoát, nhận lấy một lời nguyền mới và một bản đồ dẫn đến 'Tomb of the Ancient Leila'.",
+ "boi_canh": "Trong phòng của Penelope tại dinh thự Eckart.",
+ "nhan_vat": [
+  "Penelope",
+  "Yvonne",
+  "Emily",
+  "Công tước Eckart (đề cập)",
+  "Butler (đề cập)",
+  "Maid (đề cập)"
+ ],
+ "su_kien": [
+  "Penelope sử dụng phép 'Lacracio' để phá vỡ sự tẩy não.",
+  "Yvonne bị đánh bại bởi phép thuật của Penelope.",
+  "Penelope nhận được một lời nguyền mới và nhiệm vụ chính mới.",
+  "Emily giúp đỡ Penelope trốn thoát khỏi dinh thự.",
+  "Penelope tìm thấy bản đồ dẫn đến 'Tomb of the Ancient Leila'."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ trực tiếp, Penelope muốn phá hủy kế hoạch của Yvonne.",
+   "cach_goi": "gọi tên Yvonne, lạnh lùng"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "cố gắng thuyết phục Penelope giúp đỡ sau khi bị đánh bại.",
+   "cach_goi": "gọi tên Penelope, khẩn cầu"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "chủ và hầu gái riêng, Penelope cảm thấy có lỗi vì đã nghi ngờ Emily.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "hầu gái trung thành, Emily giúp đỡ Penelope trốn thoát.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Head Maid",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope tránh mặt người hầu gái trưởng, không có mối quan hệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Head Maid",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu gái trưởng ngăn cản Penelope rời đi, không có mối quan hệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope (đang giả làm ác nữ Penelope Eckart)",
+  "Yvonne (người thật, bị tẩy não)"
+ ],
+ "stats": {
+  "tokens": 790,
+  "seconds": 23.6
+ }
+}

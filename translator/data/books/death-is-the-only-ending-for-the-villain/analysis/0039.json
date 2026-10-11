@@ -1,0 +1,80 @@
+{
+ "number": 39,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi suy nghĩ về một cách để cải thiện mối quan hệ với những người khác, Penelope bị triệu tập đến bữa trưa gia đình do cha dượng là Công tước tổ chức. Cô lo lắng vì phải đối mặt với sự thiếu thân thiện của gia đình và những lời chỉ trích tiềm ẩn. Trong bữa ăn, cô phát hiện ra rằng bàn ăn đã được chuẩn bị đặc biệt để làm cô bẽ mặt, khiến cô nhận ra sự thật về mối quan hệ thực sự của mình trong gia đình.",
+ "boi_canh": "Trong phòng làm việc của Penelope tại dinh thự Eckart.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Vinter",
+  "Emily",
+  "Pennel",
+  "Công tước (Duke)"
+ ],
+ "su_kien": [
+  "Penelope suy nghĩ về cách cải thiện mối quan hệ với người khác và cảm thấy lo lắng.",
+  "Cô nhận được yêu cầu đến bữa trưa gia đình do Công tước tổ chức.",
+  "Pennel, quản gia, thông báo cho Penelope về bữa trưa.",
+  "Penelope phát hiện ra rằng các món ăn được phục vụ cho cô là dành cho trẻ em.",
+  "Công tước để ý và hỏi Penelope có vấn đề gì."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi; Penelope cảm thấy khó chịu với anh.",
+   "cach_goi": "gọi tên Derrick, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Một người có thể gây ảnh hưởng đến mối quan hệ của cô; Penelope lo lắng về mức độ yêu thích của anh.",
+   "cach_goi": "gọi tên Vinter, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Hầu gái riêng; Penelope thường xuyên trêu chọc cô.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Pennel",
+   "loai": "chu_to",
+   "mo_ta": "Quản gia; Penelope yêu cầu ông mang thuốc tiêu hóa.",
+   "cach_goi": "gọi tên Pennel, lễ phép"
+  },
+  {
+   "a": "Pennel",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "Quản gia; thông báo cho Penelope về bữa trưa của Công tước.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước",
+   "loai": "cap_tren",
+   "mo_ta": "Cha dượng; Penelope cảm thấy khó chịu khi phải ăn trưa với ông.",
+   "cach_goi": "gọi 'Duke', lễ phép"
+  },
+  {
+   "a": "Công tước",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Cha dượng; tỏ ra thiếu quan tâm đến Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (được xuyên vào từ game hẹn hò)"
+ ],
+ "stats": {
+  "tokens": 885,
+  "seconds": 27.6
+ }
+}

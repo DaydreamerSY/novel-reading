@@ -1,0 +1,78 @@
+{
+ "number": 206,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một trận chiến bất ngờ nổ ra khi Penelope và quân đội của Thái tử Callisto đối mặt với quân nổi loạn Delman. Binh lính bị cuốn vào một khu vực đầm lầy nguy hiểm do những thân cây quái dị điều khiển. Eckles cố gắng bảo vệ Penelope nhưng cuối cùng bị kéo xuống đầm lầy, khiến Penelope phải đưa ra quyết định khó khăn. Cuối chương, người làm của Penelope biến mất và Reynold đang vật vã trong rượu sau khi Penelope rời đi.",
+ "boi_canh": "Một trận chiến hỗn loạn diễn ra tại một khu vực đầm lầy.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Reynold",
+  "Yvonne",
+  "Pennel",
+  "Delman",
+  "Paul",
+  "Leah",
+  "Duke of Eckart"
+ ],
+ "su_kien": [
+  "Một trận chiến bất ngờ nổ ra với sự xuất hiện của nhiều quái vật.",
+  "Quân đội Delman bị cuốn vào đầm lầy bởi những thân cây điều khiển.",
+  "Eckles cố gắng bảo vệ Penelope nhưng bị kéo xuống đầm lầy.",
+  "Penelope phải đưa ra quyết định khó khăn về việc có nên giết Eckles hay không.",
+  "Người làm của Penelope, Leah, biến mất cùng với người hứa hôn Paul."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope cảm thấy khó xử và có phần ghét bỏ Eckles nhưng vẫn còn chút do dự.",
+   "cach_goi": "gọi tên Eckles, lạnh lùng"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Eckles hết lòng bảo vệ Penelope và có tình cảm sâu đậm với cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Callisto quan tâm đến Penelope và có vẻ cạnh tranh với Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Delman",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Quân đội Delman là kẻ thù của Penelope và Thái tử.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Duke of Eckart",
+   "b": "Pennel",
+   "loai": "chu_to",
+   "mo_ta": "Công tước giao phó công việc cho quản gia.",
+   "cach_goi": "gọi 'Butler', lễ phép"
+  },
+  {
+   "a": "Pennel",
+   "b": "Duke of Eckart",
+   "loai": "chu_to",
+   "mo_ta": "Quản gia báo cáo tình hình cho Công tước.",
+   "cach_goi": "gọi 'Your Grace', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Leah: người làm của Penelope, là hôn thê của Paul.",
+  "Paul: người hứa hôn của Leah, biến mất cùng Leah."
+ ],
+ "stats": {
+  "tokens": 856,
+  "seconds": 25.7
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "number": 238,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope tức giận vì Callisto bí mật sắp xếp hôn lễ mà không hỏi ý kiến cô, sau khi cô đã từ bỏ mọi thứ để cứu sống anh. Cô phát hiện ra Callisto đã theo dõi và biết được kế hoạch gia nhập Học Viện Hoàng Gia của mình. Cedric khuyên Penelope nên tự quyết định cuộc đời mình và đặt câu hỏi về việc Callisto giữ chân cô như thế nào. Cuối cùng, Penelope khám phá thấy Gương Sự Thật đang phát sáng kỳ lạ và tìm thấy Yvonne bên trong.",
+ "boi_canh": "Đêm tối tại cung điện Hoàng Gia.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Yvonne",
+  "Cedric",
+  "Marienne"
+ ],
+ "su_kien": [
+  "Callisto bí mật sắp xếp hôn lễ với Penelope.",
+  "Penelope phát hiện ra Callisto đã theo dõi cô và biết kế hoạch gia nhập Học Viện Hoàng Gia của mình.",
+  "Cedric khuyên Penelope nên tự quyết định cuộc đời mình.",
+  "Gương Sự Thật bất ngờ phát sáng.",
+  "Penelope tìm thấy Yvonne bên trong Gương Sự Thật."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Penelope tức giận vì hành động bí mật của Callisto.",
+   "cach_goi": "gọi tên Callisto, không rõ cảm xúc"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Callisto bí mật sắp xếp hôn lễ với Penelope.",
+   "cach_goi": "gọi tên Penelope, không rõ cảm xúc"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope và Cedric trao đổi về kế hoạch của Penelope.",
+   "cach_goi": "gọi tên Cedric, không rõ cảm xúc"
+  },
+  {
+   "a": "Cedric",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Cedric khuyên nhủ và quan sát Penelope.",
+   "cach_goi": "gọi tên Penelope, thân thiện"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "ban_be",
+   "mo_ta": "Penelope tìm kiếm Marienne tại phòng phục hồi di vật.",
+   "cach_goi": "gọi tên Marienne, không rõ cảm xúc"
+  },
+  {
+   "a": "Marienne",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Marienne không xuất hiện trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope gặp Yvonne trong Gương Sự Thật.",
+   "cach_goi": "gọi tên Yvonne, ngạc nhiên"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Yvonne nhìn Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus",
+  "Yvonne: Con gái ruột thất lạc của Công tước Eckart, nữ chính chế độ thường (normal mode)"
+ ],
+ "stats": {
+  "tokens": 927,
+  "seconds": 27.7
+ }
+}

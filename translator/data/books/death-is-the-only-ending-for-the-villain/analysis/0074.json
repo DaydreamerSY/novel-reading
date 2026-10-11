@@ -1,0 +1,68 @@
+{
+ "number": 74,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope và Thái tử Callisto gặp nhau trong một cuộc săn gấu. Callisto đã cứu Penelope khỏi gấu nhưng sau đó lại đưa cho cô đầu của con gấu như một cách để chứng minh rằng cô đã săn được nó, đồng thời cũng là để trả ơn vì Penelope đã lấy trộm vòng cổ Amulet của anh ta. Penelope vô cùng khó xử và sợ hãi trước hành động kỳ lạ này.",
+ "boi_canh": "Trong khu rừng trong cuộc thi săn gấu.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Derrick",
+  "Reynold"
+ ],
+ "su_kien": [
+  "Callisto cứu Penelope khỏi gấu.",
+  "Quest ‘Great Bear Hunting’ thất bại.",
+  "Callisto đưa đầu con gấu cho Penelope.",
+  "Penelope từ chối nhận đầu gấu.",
+  "Callisto trêu chọc Penelope vì sợ máu."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope kính trọng Thái tử, nhưng cảm thấy bối rối và khó chịu với hành động của anh.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử Callisto có vẻ thích trêu chọc và khiêu khích Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật/trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "khac",
+   "mo_ta": "Penelope nghĩ về Eckles và trách móc anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope nghĩ về Derrick.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope nghĩ về Reynold.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: nô lệ Penelope mua, sau trở thành hiệp sĩ hộ vệ.",
+  "Callisto: Thái tử Callisto Regulus.",
+  "Derrick: con trưởng nhà Công tước Eckart, anh trai nuôi của Penelope.",
+  "Reynold: con thứ nhà Công tước Eckart, anh trai nuôi của Penelope."
+ ],
+ "stats": {
+  "tokens": 702,
+  "seconds": 22.0
+ }
+}

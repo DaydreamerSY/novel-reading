@@ -1,0 +1,80 @@
+{
+ "number": 62,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi vô tình gây ra sự chú ý của Thái tử Callisto, Penelope bị cuốn vào một cuộc đối đầu kỳ lạ. Một con quái vật hình quả bóng khổng lồ bất ngờ xuất hiện và tấn công bữa tiệc, khiến mọi người hoảng loạn. Thái tử Callisto nhanh chóng giải quyết được mối nguy hiểm này, nhưng sau đó lại vướng phải một âm mưu từ những kẻ mặc đồ đen, có liên quan đến Leila New Kingdom. Cuộc đối đầu trở nên căng thẳng hơn khi Thái tử Callisto và Penelope bị dồn vào thế khó.",
+ "boi_canh": "Bữa tiệc tại một địa điểm không xác định, thời gian hiện tại.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Penelope vô tình gây ấn tượng xấu với Thái tử Callisto.",
+  "Một con quái vật hình quả bóng khổng lồ bất ngờ xuất hiện và tấn công bữa tiệc.",
+  "Thái tử Callisto giải cứu một quý tộc khỏi quái vật.",
+  "Những kẻ mặc đồ đen tấn công, tiết lộ âm mưu liên quan đến Leila New Kingdom.",
+  "Thái tử Callisto đối mặt với những kẻ tấn công."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope vô tình gây ấn tượng xấu với Thái tử, mối quan hệ căng thẳng.",
+   "cach_goi": "gọi tên 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử có vẻ khó chịu với Penelope, nhưng vẫn bảo vệ cô.",
+   "cach_goi": "gọi tên 'princess', thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, Penelope có vẻ lo lắng về phản ứng của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, Derrick có vẻ quan tâm đến Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Derrick",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ quen biết nhau, nhưng không tương tác nhiều.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Penelope đã nghe về Vinter từ trước.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Penelope đã nghe về Vinter từ trước.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus (nam chính game)",
+  "Derrick: Con trưởng nhà Công tước Eckart (tiểu công tước), anh trai nuôi của Penelope (nam chính)",
+  "Vinter: Hầu tước Vinter Verdandi, pháp sư (nam chính)"
+ ],
+ "stats": {
+  "tokens": 920,
+  "seconds": 28.9
+ }
+}

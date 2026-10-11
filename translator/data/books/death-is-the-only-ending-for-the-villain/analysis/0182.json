@@ -1,0 +1,66 @@
+{
+ "number": 182,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope và Vinter có một cuộc đối thoại căng thẳng về Yvonne và những hành động của cô ấy. Vinter nghi ngờ Penelope đang che giấu điều gì đó liên quan đến Yvonne, và họ tranh luận về vấn đề tin tưởng lẫn nhau. Cuối cùng, Penelope tiết lộ rằng cô đã sử dụng độc dược mà Becky (người hầu) đã lấy được, và ám chỉ Yvonne có thể đứng sau mọi chuyện, khiến Vinter vô cùng sốc.",
+ "boi_canh": "Trong vườn sau của lâu đài, vào một buổi tối đầy căng thẳng.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "Yvonne",
+  "Becky",
+  "Eckles"
+ ],
+ "su_kien": [
+  "Penelope và Vinter tranh cãi về việc Penelope có ý định giết Yvonne.",
+  "Penelope tiết lộ rằng hành động của Vinter giống như một nhân vật trong truyện.",
+  "Penelope hỏi Vinter về sự quan tâm của anh ấy đối với cô.",
+  "Penelope tiết lộ rằng cô đã sử dụng độc dược mà Becky lấy được.",
+  "Penelope ám chỉ Yvonne có thể liên quan đến việc đầu độc."
+ ],
+ "quan_he": [
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter nghi ngờ Penelope và chất vấn cô.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope trả lời một cách mỉa mai và thách thức.",
+   "cach_goi": "gọi tên Vinter, thân mật"
+  },
+  {
+   "a": "Vinter",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Vinter có vẻ tin Yvonne là một người tốt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Becky",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope nhắc đến Becky để ám chỉ Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter lo lắng cho sự an toàn của Penelope.",
+   "cach_goi": "gọi tên Penelope, lo lắng"
+  }
+ ],
+ "danh_tinh": [
+  "Becky: Người hầu tạm thời, có thể đã lấy độc dược theo lệnh của ai đó.",
+  "Yvonne: Có thể liên quan đến việc đầu độc Penelope."
+ ],
+ "stats": {
+  "tokens": 708,
+  "seconds": 21.3
+ }
+}

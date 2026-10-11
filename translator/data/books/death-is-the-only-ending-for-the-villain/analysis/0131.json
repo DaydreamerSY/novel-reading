@@ -1,0 +1,104 @@
+{
+ "number": 131,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Thái tử Callisto đuổi theo Vinter, một tiếng động lớn vang lên trong đại sảnh. Penelope chứng kiến Vinter sử dụng phép thuật để phá hủy một cổ vật bị hư hại, giải phóng một tấm gương kỳ lạ. Trong lúc hỗn loạn, Thái tử Callisto giết chết một con rắn khổng lồ và đối mặt với những kẻ địch vô hình. Cuối cùng, Penelope kích hoạt một phép thuật mới, 'Dekina Reptium', tiêu diệt lũ quỷ khổng lồ và cứu Raon.",
+ "boi_canh": "Trong đại sảnh của một pháo đài cổ, giữa lúc hỗn loạn chiến đấu.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Vinter",
+  "Raon"
+ ],
+ "su_kien": [
+  "Vinter sử dụng phép thuật phá hủy một cổ vật bị hư hại, giải phóng một tấm gương.",
+  "Thái tử Callisto giết chết một con rắn khổng lồ bằng kiếm.",
+  "Penelope chứng kiến những kẻ địch vô hình và các phép thuật bí ẩn.",
+  "Penelope kích hoạt phép thuật 'Dekina Reptium'.",
+  "Phép thuật mới tiêu diệt lũ quỷ khổng lồ."
+ ],
+ "quan_he": [
+  {
+   "a": "Callisto",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử ra lệnh cho Vinter phá hủy cổ vật.",
+   "cach_goi": "gọi tên Vinter, không trang trọng"
+  },
+  {
+   "a": "Vinter",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Pháp sư báo cáo tình hình cho Thái tử.",
+   "cach_goi": "gọi tên Callisto, không trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope quan sát Thái tử chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Vinter",
+   "loai": "ban_be",
+   "mo_ta": "Thái tử và pháp sư phối hợp chiến đấu.",
+   "cach_goi": "gọi tên Vinter, không trang trọng"
+  },
+  {
+   "a": "Vinter",
+   "b": "Callisto",
+   "loai": "ban_be",
+   "mo_ta": "Pháp sư và Thái tử phối hợp chiến đấu.",
+   "cach_goi": "gọi tên Callisto, không trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope quan sát Vinter chiến đấu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Pháp sư không tương tác trực tiếp với Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Thái tử gọi tên Penelope khi cô ấy hoảng loạn.",
+   "cach_goi": "gọi tên Penelope, không trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope lắng nghe Thái tử.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Raon",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Raon bị Thái tử cứu.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Raon",
+   "loai": "nguoi_la",
+   "mo_ta": "Thái tử cứu Raon.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1093,
+  "seconds": 32.6
+ }
+}

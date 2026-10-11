@@ -1,0 +1,55 @@
+{
+ "number": 127,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope cùng Vinter chiến đấu với lũ quỷ trong một hang động, sử dụng phép thuật 'Fire Pisson' và 'Prisson'. Khi Penelope tưởng chừng đã hoàn thành nhiệm vụ, một con quỷ khổng lồ bất ngờ xuất hiện. Ngay lúc nguy cấp, Thái tử Callisto kịp thời cứu cô, phối hợp cùng Penelope tiêu diệt con quỷ cuối cùng và hoàn thành nhiệm vụ.",
+ "boi_canh": "Trong một hang động tối tăm, Penelope đang chiến đấu với lũ quỷ.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "Raon",
+  "Callisto"
+ ],
+ "su_kien": [
+  "Penelope vô tình rơi xuống hang động thông qua một ô cửa sổ.",
+  "Penelope và Vinter chiến đấu với lũ quỷ bằng phép 'Fire Pisson' và 'Prisson'.",
+  "Một con quỷ khổng lồ bất ngờ xuất hiện, tấn công Penelope.",
+  "Callisto cứu Penelope khỏi miệng của con quỷ khổng lồ.",
+  "Penelope và Callisto phối hợp tiêu diệt con quỷ cuối cùng, hoàn thành nhiệm vụ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội chiến đấu cùng nhau.",
+   "cach_goi": "gọi tên Vinter, thân mật"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "đồng đội chiến đấu cùng nhau.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là cấp dưới của Callisto, cảm thấy bất ngờ khi được cứu.",
+   "cach_goi": "gọi tên Callisto, ngạc nhiên"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto là cấp trên của Penelope, ra lệnh cho cô.",
+   "cach_goi": "gọi tên Penelope, trịch thượng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 588,
+  "seconds": 17.4
+ }
+}

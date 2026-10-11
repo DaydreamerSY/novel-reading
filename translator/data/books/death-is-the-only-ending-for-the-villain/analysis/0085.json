@@ -1,0 +1,53 @@
+{
+ "number": 85,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope đang khai quật một bộ xương và cuộn giấy cổ trong một hang động. Thái tử Callisto xuất hiện và cản trở công việc của cô, dẫn đến những trao đổi gay gắt. Penelope sử dụng tóc để làm sạch xương, than bùn để hút ẩm cho cuộn giấy, và cuối cùng đã lấy được nó ra khỏi bộ xương. Sau đó, một nhiệm vụ ẩn được kích hoạt khi Thái tử mở một trong các cuộn giấy, tiết lộ bản đồ ma thuật cổ xưa của Rừng phía Bắc.",
+ "boi_canh": "Trong một hang động ẩm ướt, Penelope đang khai quật di tích cổ.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto"
+ ],
+ "su_kien": [
+  "Penelope khai quật bộ xương và cuộn giấy cổ.",
+  "Callisto ngăn cản Penelope và tranh luận với cô.",
+  "Penelope sử dụng tóc để làm sạch xương và than bùn để hút ẩm cho cuộn giấy.",
+  "Cuộn giấy được lấy ra khỏi bộ xương một cách an toàn.",
+  "Một nhiệm vụ ẩn được kích hoạt khi Callisto mở cuộn giấy, tiết lộ bản đồ ma thuật."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là cấp dưới của Callisto, nhưng thường xuyên cãi lại và tỏ ra bất cần.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto là người có địa vị cao hơn, thường xuyên chỉ trích và chế nhạo Penelope.",
+   "cach_goi": "gọi tên Penelope, thô lỗ"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Penelope quan sát Callisto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Callisto quan sát Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 612,
+  "seconds": 18.3
+ }
+}

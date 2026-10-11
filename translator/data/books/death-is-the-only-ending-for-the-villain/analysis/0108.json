@@ -1,0 +1,70 @@
+{
+ "number": 108,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope cố gắng che giấu vẻ ngoài mệt mỏi bằng lớp trang điểm dày đặc trước khi quản gia Pennel báo tin Hoàng tử muốn gặp mặt. Cô giả vờ yếu đuối để được Hoàng tử đến tận phòng và tạo cơ hội để thao túng tình hình. Sau đó, Penelope chủ động hẹn Hoàng tử trong rừng, nơi cô hy vọng có thể lợi dụng sự đồng cảm của anh ta để đạt được mục đích. Trong lúc đó, cô nhận thấy một sự thay đổi đáng lo ngại trong ánh mắt của Hoàng tử, khiến cô hoảng sợ.",
+ "boi_canh": "Phòng trang điểm của Penelope, buổi sáng.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Reynold",
+  "Pennel",
+  "Hoàng tử (Crown Prince)"
+ ],
+ "su_kien": [
+  "Penelope trang điểm dày đặc để che giấu vẻ mệt mỏi.",
+  "Quản gia Pennel báo tin Hoàng tử muốn gặp Penelope.",
+  "Penelope giả vờ ốm yếu để được Hoàng tử đến tận phòng.",
+  "Penelope hẹn Hoàng tử trong rừng.",
+  "Penelope nhận thấy sự thay đổi đáng lo ngại trong ánh mắt của Hoàng tử."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "khac",
+   "mo_ta": "Penelope không tương tác trực tiếp với Eckles trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "khac",
+   "mo_ta": "Penelope không tương tác trực tiếp với Reynold trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Pennel",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope và Pennel tương tác ngắn gọn, Penelope tỏ ra khó chịu với sự xuất hiện của ông.",
+   "cach_goi": "gọi 'Butler', lễ phép"
+  },
+  {
+   "a": "Pennel",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Pennel báo tin và quan sát Penelope, thể hiện sự lo lắng.",
+   "cach_goi": "gọi 'Lady', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Hoàng tử (Crown Prince)",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope cố tình tạo cơ hội gặp gỡ Hoàng tử để thao túng anh ta.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Hoàng tử (Crown Prince)",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Hoàng tử tỏ ra quan tâm đến Penelope, nhưng cũng có vẻ nghi ngờ.",
+   "cach_goi": "gọi 'My Lady', lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 786,
+  "seconds": 23.5
+ }
+}

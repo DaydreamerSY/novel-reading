@@ -1,0 +1,73 @@
+{
+ "number": 45,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi ăn sáng do Emily chuẩn bị, Penelope hỏi về tình hình của Eckles và những thay đổi trong cuộc sống của anh ta sau khi được giải thoát khỏi chế độ nô lệ. Cô ấy phát hiện ra rằng Eckles đang được đào tạo trở thành một hiệp sĩ nhưng không có người hướng dẫn chính thức. Lo lắng về tương lai của Eckles và những khó khăn mà anh ta phải đối mặt, Penelope quyết định đi mua sắm để thăm hỏi và động viên anh ta.",
+ "boi_canh": "Trong phòng ăn sáng của Penelope tại dinh thự nhà Công tước Eckart.",
+ "nhan_vat": [
+  "Penelope",
+  "Emily",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Old Butler"
+ ],
+ "su_kien": [
+  "Penelope ăn sáng do Emily chuẩn bị và khen ngợi chất lượng món ăn đã được cải thiện.",
+  "Penelope trấn an Emily sau khi cô hầu gái khóc vì cảm thấy mình không xứng đáng với sự quan tâm của Penelope.",
+  "Người quản gia báo cáo về việc Công tước Eckart cho phép Penelope sử dụng gác mái và Derrick muốn tổ chức bữa trưa cùng Penelope.",
+  "Penelope hỏi về tình hình của Eckles và phát hiện ra anh ta không có người hướng dẫn chính thức khi trở thành hiệp sĩ.",
+  "Penelope quyết định đi mua sắm để thăm hỏi và động viên Eckles."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "chủ nhân và hầu gái riêng, Penelope quan tâm và trân trọng Emily.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "hầu gái riêng của Penelope, Emily trung thành và tận tâm.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Old Butler",
+   "loai": "cap_tren",
+   "mo_ta": "chủ nhân và người hầu lâu năm, Penelope ra lệnh cho Old Butler.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Old Butler",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "người hầu lâu năm của nhà Eckart, Old Butler báo cáo tình hình cho Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope quan tâm đến Eckles nhưng có vẻ đang lo lắng về hoàn cảnh của anh ta.",
+   "cach_goi": "gọi tên Eckles, không rõ (sử dụng từ 'slave'),"
+  },
+  {
+   "a": "Old Butler",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Người quản gia biết về Eckles và tình hình của anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Trước đây là nô lệ, hiện đang được đào tạo để trở thành hiệp sĩ dưới sự bảo trợ của Công tước Eckart."
+ ],
+ "stats": {
+  "tokens": 861,
+  "seconds": 27.1
+ }
+}

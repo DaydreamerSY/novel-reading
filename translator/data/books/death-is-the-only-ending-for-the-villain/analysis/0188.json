@@ -1,0 +1,66 @@
+{
+ "number": 188,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope về phòng, bắt gặp một hầu gái che mặt đang lục ngăn kéo bàn trang điểm. Nhìn vào gương, cô thấy hầu gái ấy không có bóng phản chiếu: đó là Yvonne. Yvonne bỏ khăn che mặt, thừa nhận đã khiến Công tước mời Penelope đi ăn trưa, nói những câu bí ẩn về \"lần trước\", vặn cổ hơn 90 độ như quái vật. Cô ta đòi lại mảnh gương Penelope đã lấy và hỏi Penelope dùng ma thuật cổ bằng cách nào. Penelope chối, đổ cho một pháp sư đi cùng; Yvonne đoán ngay là Vinter Verdandi rồi rút ra một mảnh gương.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại dinh thự Công tước Eckart, vào buổi chiều khi Penelope đang kiểm tra đồ đạc.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "Yvonne",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope bị Emily bắt gặp khi lục ngăn kéo.",
+  "Emily tiết lộ rằng cô được yêu cầu dọn phòng.",
+  "Yvonne, hóa trang thành hầu gái, xuất hiện và đối đầu với Penelope.",
+  "Yvonne vạch trần Penelope về những hành động trước đây của cô trong game.",
+  "Yvonne đòi lại một mảnh gương từ Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope bắt gặp Emily đang dọn phòng và chất vấn cô.",
+   "cach_goi": "gọi tên Emily, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Emily trả lời chất vấn của Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope và Yvonne đối đầu nhau sau khi Yvonne lộ diện.",
+   "cach_goi": "gọi tên Yvonne, lạnh lùng"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Yvonne chất vấn và vạch trần Penelope.",
+   "cach_goi": "gọi tên Penelope, trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope suy nghĩ về Vinter.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Emily là Yvonne, nữ chính của chế độ thường (normal mode) trong game.",
+  "Yvonne giả trang thành hầu gái."
+ ],
+ "stats": {
+  "tokens": 686,
+  "seconds": 20.6
+ },
+ "tom_tat_sua_tay": "Claude sửa theo bản gốc (2026-10-08)"
+}

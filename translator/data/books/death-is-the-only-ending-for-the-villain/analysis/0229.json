@@ -1,0 +1,65 @@
+{
+ "number": 229,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị tấn công bởi Yvonne, Penelope phản ứng bằng cách sử dụng phép thuật và một cây đũa gương để phòng thủ. Cuộc chiến trở nên căng thẳng hơn khi Yvonne liên tục tấn công và phá hủy đũa gương của Penelope. Trong tình thế nguy hiểm, Penelope đã lợi dụng sự yếu đuì của Yvonne để tấn công trả đũ lại, cuối cùng giết chết Yvonne bằng một con dao và phá vỡ chiếc gương mà Yvonne đang giữ. Trước khi Yvonne qua đời, cô ta bày tỏ sự tức giận và thất vọng với Penelope vì đã cướp đi cơ hội được yêu thương.",
+ "boi_canh": "Cuộc chiến diễn ra trong một căn phòng có cửa sổ, nơi Yvonne tấn công Penelope.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Vinter",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Penelope bị tấn công bởi Yvonne bằng phép thuật và dao.",
+  "Đũa gương của Penelope bị phá vỡ trong cuộc chiến.",
+  "Penelope sử dụng con dao do Callisto tặng để tấn công Yvonne.",
+  "Yvonne bị giết chết sau khi chiếc gương mà cô ta đang giữ bị phá vỡ.",
+  "Penelope cảm thấy nhẹ nhõm và tự hào sau khi hoàn thành nhiệm vụ cuối cùng."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ trực tiếp trong trận chiến sinh tử.",
+   "cach_goi": "gọi tên Yvonne, thù địch"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "đối thủ trực tiếp trong trận chiến sinh tử.",
+   "cach_goi": "gọi tên Penelope, thù địch"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope nhận con dao từ Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope nhận con dao từ Callisto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope biết Vinter đã giúp Yvonne hoàn thành chiếc gương.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Con dao Penelope sử dụng được Callisto tặng."
+ ],
+ "stats": {
+  "tokens": 707,
+  "seconds": 21.3
+ }
+}

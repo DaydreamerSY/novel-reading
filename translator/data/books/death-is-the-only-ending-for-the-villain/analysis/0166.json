@@ -1,0 +1,72 @@
+{
+ "number": 166,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị gián đoạn bởi Công tước, Penelope phải đối mặt với những lời thú tội và sự hối lỗi của ông ta về quá khứ. Ông ta tiết lộ rằng Reynold đã đánh cắp vòng cổ của Yvonne và bày tỏ sự day nghiệt vì không thể trừng phạt con trai mình. Cuộc trò chuyện dẫn đến một sự thức tỉnh đáng sợ cho Penelope khi cô nhận ra rằng những cảm xúc bị kìm nén của bản thân đã khiến cô trở nên vô hồn, gần như chết đi bên trong.",
+ "boi_canh": "Phòng làm việc của Penelope tại dinh thự Công tước Eckart vào buổi sáng trước ngày trưởng thành của cô.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Yvonne",
+  "Công tước (Duke)"
+ ],
+ "su_kien": [
+  "Công tước đến phòng Penelope bất ngờ.",
+  "Công tước thú nhận rằng Reynold đã đánh cắp vòng cổ của Yvonne.",
+  "Penelope nhận ra mình đã kìm nén cảm xúc đến mức trở nên vô hồn.",
+  "Công tước bày tỏ hối hận vì không thể bảo vệ Penelope khi cô còn nhỏ.",
+  "Penelope và Công tước thảo luận về việc sắp xếp lại lính canh."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Công tước (Duke)",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi và người cha, Penelope cảm thấy bối rối và xa cách.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Công tước (Duke)",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Người cha bày tỏ hối lỗi và sự quan tâm đến con gái nuôi.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, nhưng Penelope biết Reynold đã đánh cắp vòng cổ của Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước (Duke)",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Người cha bày tỏ sự thất vọng và hối tiếc vì không thể trừng phạt con trai mình.",
+   "cach_goi": "gọi tên Reynold, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Công tước Eckart: tiết lộ sự thật về việc Reynold đánh cắp vòng cổ của Yvonne, thay đổi nhận thức của Penelope về quá khứ."
+ ],
+ "stats": {
+  "tokens": 829,
+  "seconds": 25.0
+ }
+}

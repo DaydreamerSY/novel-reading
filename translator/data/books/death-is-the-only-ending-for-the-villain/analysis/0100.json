@@ -1,0 +1,60 @@
+{
+ "number": 100,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope chuẩn bị một món quà cho Eckles và đến thăm anh ta trong khi trời mưa, nhưng phát hiện ra anh ta đang luyện tập chăm chỉ. Cô ấy trao tặng chiếc vòng cổ làm từ ngà voi và răng hổ trắng cho anh ta, khiến anh ta rất bất ngờ và tăng đáng kể thiện cảm của cô với anh ta. Sau đó, Eckles hôn chiếc vòng cổ và Penelope nhận được thông báo về việc hoàn thành một mục tiêu bí mật.",
+ "boi_canh": "Trong khu rừng, vào buổi sáng mưa bão.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Vinter",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope chuẩn bị quà cho Eckles.",
+  "Cô ấy đến thăm anh ta trong khi trời mưa.",
+  "Eckles đang luyện tập chăm chỉ một mình.",
+  "Penelope tặng Eckles chiếc vòng cổ làm từ ngà voi và răng hổ trắng.",
+  "Eckles hôn chiếc vòng cổ, khiến thiện cảm của Penelope với anh ta tăng vọt."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân, Emily là hầu gái riêng của cô.",
+   "cach_goi": "gọi 'Emily', lễ phép"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Emily là hầu gái riêng của Penelope.",
+   "cach_goi": "gọi 'miss', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope là chủ nhân, Eckles là nô lệ của cô.",
+   "cach_goi": "gọi tên 'Eckles', thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "Eckles là nô lệ, Penelope là chủ nhân của anh ta.",
+   "cach_goi": "gọi 'Master', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Nô lệ mà Penelope mua về, sau này trở thành hiệp sĩ hộ vệ của cô.",
+  "Callisto: Thái tử Callisto Regulus",
+  "Vinter: Hầu tước Vinter Verdandi, pháp sư."
+ ],
+ "stats": {
+  "tokens": 641,
+  "seconds": 19.3
+ }
+}

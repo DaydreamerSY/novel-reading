@@ -1,0 +1,72 @@
+{
+ "number": 198,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope đọc một câu chuyện ẩn trong hệ thống, tiết lộ Yvonne là ác nữ thực sự với kế hoạch trả thù tàn khốc và sử dụng Vinter để đạt được mục đích. Câu chuyện cũng hé lộ về quá khứ của Leila, những người anh em bị phong ấn và vai trò của Penelope trong việc ngăn chặn Yvonne. Cuối cùng, một thông báo hệ thống xuất hiện, đưa ra một nhiệm vụ mới cho Penelope với phần thưởng hấp dẫn.",
+ "boi_canh": "Penelope đọc câu chuyện ẩn trong một hang động tối tăm.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "Yvonne",
+  "Leila (Young Leila)"
+ ],
+ "su_kien": [
+  "Penelope kích hoạt 'Gương Chân Lý'.",
+  "Đọc về quá khứ của gia tộc Leila và kế hoạch trả thù của Young Leila.",
+  "Tìm hiểu về vai trò của Yvonne trong việc thao túng Vinter và chiếm đoạt Công tước Eckart.",
+  "Penelope chứng kiến cái chết của bản thân trong tương lai.",
+  "Một thông báo hệ thống xuất hiện, đưa ra một nhiệm vụ mới với phần thưởng là 'Răng Rồng Vàng'."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope quan sát và suy đoán về hành động của Vinter trong câu chuyện.",
+   "cach_goi": "gọi tên Vinter, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Vinter bị Yvonne lợi dụng và sau này hối hận về việc đó.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Yvonne là đối thủ của Penelope và có kế hoạch chiếm đoạt mọi thứ từ cô.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope nhận ra Yvonne là mối đe dọa và cố gắng ngăn chặn cô.",
+   "cach_goi": "gọi tên Yvonne, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Young Leila",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Young Leila lợi dụng Vinter để đạt được mục đích của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Young Leila",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter bị Young Leila thao túng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Young Leila: Được tiết lộ là một người có khả năng thay đổi hình dạng và kế hoạch trả thù tàn khốc.",
+  "Penelope: Được tiết lộ là hậu duệ của một pháp sư cổ đại."
+ ],
+ "stats": {
+  "tokens": 835,
+  "seconds": 25.0
+ }
+}

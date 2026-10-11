@@ -1,0 +1,102 @@
+{
+ "number": 176,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi người làm bị sát hại vì ngộ độc, gia đình Công tước Eckart và Thái tử Callisto bắt đầu điều tra để tìm ra kẻ chủ mưu. Trong quá trình đó, những nghi ngờ nảy sinh xung quanh hành động của Penelope, cũng như mối quan hệ giữa cô và Yvonne. Sau cuộc họp, Thái tử Callisto lẻn đến phòng của Penelope, bày tỏ sự lo lắng và hứa hẹn sẽ bảo vệ cô.",
+ "boi_canh": "Phòng khách dinh thự Công tước Eckart, buổi chiều ngày điều tra về cái chết của người làm.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Yvonne",
+  "Cedric",
+  "Công tước Eckart",
+  "Người hầu"
+ ],
+ "su_kien": [
+  "Người làm bị sát hại vì ngộ độc.",
+  "Gia đình Công tước Eckart và Thái tử Callisto bắt đầu điều tra.",
+  "Nhiều nghi ngờ nảy sinh xung quanh hành động của Penelope.",
+  "Thái tử Callisto bày tỏ sự lo lắng khi đến thăm Penelope trong phòng cô.",
+  "Thái tử hứa hẹn sẽ bảo vệ Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Tình nhân, lo lắng cho sự an toàn của nhau.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Cha nuôi, Thái tử.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, nghi ngờ Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, tham gia điều tra.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "dong_minh",
+   "mo_ta": "Pháp sư, quan sát và suy đoán về Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Nữ chính chế độ thường, có liên quan đến vụ ngộ độc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cedric",
+   "b": "Callisto",
+   "loai": "thay_tro",
+   "mo_ta": "Thừa hình, báo cáo tình hình cho Thái tử.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Người hầu",
+   "loai": "chu_to",
+   "mo_ta": "Chủ nhân, người làm đã qua đời vì ngộ độc theo lệnh của Penelope (nghi ngờ).",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Derrick",
+   "loai": "khac",
+   "mo_ta": "Thái tử và tiểu công tước tranh cãi về Penelope.",
+   "cach_goi": "gọi tên Derrick, không rõ tone"
+  },
+  {
+   "a": "Callisto",
+   "b": "Vinter",
+   "loai": "khac",
+   "mo_ta": "Thái tử hỏi dò pháp sư về Penelope.",
+   "cach_goi": "gọi tên Vinter, không rõ tone"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 863,
+  "seconds": 26.0
+ }
+}

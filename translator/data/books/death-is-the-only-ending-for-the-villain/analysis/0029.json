@@ -1,0 +1,71 @@
+{
+ "number": 29,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope xem xét thông tin từ những người cung cấp thông tin mà Emily tìm kiếm, nhưng nhận thấy thông tin còn quá chung chung. Cô ấy quyết định phải tự mình tham gia các buổi tiệc để tìm kiếm Vinter. Sau đó, Emily cầu xin Penelope cho cô cơ hội chứng minh sự trung thành và mong muốn trở thành hầu gái riêng thực thụ của Penelope. Cuối cùng, một hệ thống thông báo về việc danh tiếng của Penelope tăng lên.",
+ "boi_canh": "Trong phòng làm việc của Penelope tại dinh thự Eckart, vào buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope xem xét thông tin từ những người cung cấp thông tin.",
+  "Emily giải thích về kết quả điều tra và xin lỗi vì không đủ chi tiết.",
+  "Penelope quyết định tự mình tham gia các buổi tiệc để tìm Vinter.",
+  "Emily cầu xin Penelope cho cô cơ hội trở thành hầu gái riêng thực thụ.",
+  "Hệ thống thông báo danh tiếng của Penelope tăng lên."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope quan tâm đến Eckles nhưng lo ngại về sự thay đổi nhanh chóng trong mức độ hứng thú của anh ta.",
+   "cach_goi": "gọi tên Eckles, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope; mối quan hệ bình thường.",
+   "cach_goi": "gọi tên Derrick, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope; mối quan hệ bình thường.",
+   "cach_goi": "gọi tên Reynold, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope đang tìm kiếm Vinter; mối quan hệ đối đầu.",
+   "cach_goi": "gọi tên Vinter, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Hầu gái riêng của Penelope; mối quan hệ chủ tớ.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Hầu gái của Penelope; Emily rất tôn trọng và muốn chứng minh sự trung thành.",
+   "cach_goi": "gọi 'Lady', lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 781,
+  "seconds": 24.5
+ }
+}

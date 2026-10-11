@@ -1,0 +1,88 @@
+{
+ "number": 210,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Yvonne tấn công Vinter bằng phép thuật, bắt cóc Raon và sử dụng cậu ta để tìm kiếm một vật thể bí mật. Cô ta còn tiết lộ kế hoạch thao túng Penelope và những hành động tàn ác mà cô dự định thực hiện. Cuối cùng, Yvonne trốn thoát sau vụ nổ và bị Duke Eckart cùng các hiệp sĩ vây bắt.",
+ "boi_canh": "Trong phòng làm việc bí mật của một tòa nhà, vào ban đêm.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Yvonne",
+  "Emily",
+  "Raon"
+ ],
+ "su_kien": [
+  "Yvonne tấn công Vinter bằng phép thuật.",
+  "Raon bị Yvonne bắt cóc và sử dụng để tìm kiếm vật thể bí mật.",
+  "Yvonne tiết lộ kế hoạch thao túng Penelope.",
+  "Vinter cố gắng cứu Raon nhưng bị Yvonne ngăn cản.",
+  "Yvonne trốn thoát sau vụ nổ và bị các hiệp sĩ vây bắt."
+ ],
+ "quan_he": [
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "khac",
+   "mo_ta": "Vinter lo lắng cho Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Vinter",
+   "loai": "doi_thu",
+   "mo_ta": "Yvonne tấn công Vinter và thao túng Raon.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Vinter cố gắng ngăn chặn Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Raon",
+   "loai": "nguoi_la",
+   "mo_ta": "Yvonne bắt cóc và điều khiển Raon.",
+   "cach_goi": "ra lệnh, trịch thượng"
+  },
+  {
+   "a": "Raon",
+   "b": "Vinter",
+   "loai": "khac",
+   "mo_ta": "Raon bị Yvonne điều khiển, Vinter lo lắng cho Raon.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "Derrick nhìn Yvonne với ánh mắt lạnh lùng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "Reynold nhìn Yvonne với ánh mắt lạnh lùng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Duke Eckart",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "Duke Eckart đối mặt Yvonne với vẻ mặt nghiêm nghị.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Raon: Cậu bé pháp sư đeo mặt nạ sư tử bị Yvonne bắt cóc và điều khiển."
+ ],
+ "stats": {
+  "tokens": 879,
+  "seconds": 26.4
+ }
+}

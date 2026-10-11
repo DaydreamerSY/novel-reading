@@ -1,0 +1,56 @@
+{
+ "number": 189,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Yvonne cố gắng sử dụng mảnh gương để tẩy não Penelope, Penelope đã thoát khỏi sự kiểm soát và nhận ra Yvonne đang cố gắng thao túng những người cô yêu thương. Cô ấy bị cuốn vào một chuỗi ảo ảnh đáng sợ trước khi tỉnh dậy trong phòng của mình, nơi cô phát hiện ra mình dường như đã chết. Sau đó, cô lại xuất hiện tại buổi tang lễ của chính mình, chứng kiến gia đình đổ lỗi cho nhau về cái chết của cô và cuối cùng rơi vào trạng thái tuyệt vọng.",
+ "boi_canh": "Trong một căn phòng bí mật, Yvonne đang cố gắng tẩy não Penelope.",
+ "nhan_vat": [
+  "Penelope",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Yvonne cố gắng sử dụng mảnh gương để tẩy não Penelope.",
+  "Penelope thoát khỏi sự kiểm soát của Yvonne và nhận ra kế hoạch của cô ta.",
+  "Penelope tỉnh dậy trong phòng của mình, phát hiện ra mình dường như đã chết.",
+  "Penelope chứng kiến buổi tang lễ của chính mình.",
+  "Gia đình Penelope đổ lỗi cho nhau về cái chết của cô."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope đang cố gắng thoát khỏi sự tẩy não của Yvonne.",
+   "cach_goi": "gọi tên Yvonne, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Yvonne đang cố gắng tẩy não Penelope để đạt được mục đích của mình.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cha (của Penelope)",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ xa cách, căng thẳng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Anh trai thứ hai (của Penelope)",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ thù địch, đổ lỗi cho nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope: Có thể đã chết trong thế giới thực và được đưa đến một không gian khác.",
+  "Penelope Eckart: Nhân vật chính, bị xuyên vào từ game hẹn hò."
+ ],
+ "stats": {
+  "tokens": 641,
+  "seconds": 19.2
+ }
+}

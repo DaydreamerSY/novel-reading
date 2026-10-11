@@ -1,0 +1,65 @@
+{
+ "number": 25,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trốn khỏi Reynold, Penelope đã đưa Eckles vào biệt thự và giao cho anh ta một nhiệm vụ để chứng tỏ bản thân. Cô ấy cũng nhận thấy sự thay đổi trong mức độ quan tâm của Eckles và lo ngại về sự trung thành của anh ta. Sau đó, Emily thông báo rằng món hàng cô đã đặt từ thợ kim hoàn đã đến, khiến Penelope trở nên cảnh giác.",
+ "boi_canh": "Trong phòng của Penelope tại biệt thự Eckart, vào một buổi trưa.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope trốn khỏi Reynold.",
+  "Penelope giao nhiệm vụ cho Eckles để chứng tỏ bản thân.",
+  "Mức độ quan tâm của Eckles tăng lên 20%.",
+  "Emily thông báo món hàng từ thợ kim hoàn đã đến.",
+  "Penelope nhớ lại việc mình đã từng điên cuồng mua đồ trang sức."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope trốn tránh Reynold.",
+   "cach_goi": "gọi tên Reynold, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "chu_to",
+   "mo_ta": "Penelope là chủ nhân và đang kiểm soát Eckles.",
+   "cach_goi": "gọi tên Eckles, ra lệnh"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Eckles phục tùng và muốn làm hài lòng Penelope.",
+   "cach_goi": "gọi tên Penelope, tôn trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân và Emily là người hầu.",
+   "cach_goi": "gọi tên Emily, ra lệnh"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Emily là người hầu và phục vụ Penelope.",
+   "cach_goi": "gọi tên Penelope, phục tùng"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: trước đây là nô lệ, hiện tại là hiệp sĩ hộ vệ của Penelope."
+ ],
+ "stats": {
+  "tokens": 664,
+  "seconds": 20.9
+ }
+}

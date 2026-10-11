@@ -1,0 +1,91 @@
+{
+ "number": 87,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Công chúa Eckart trở về từ khu rừng và bị bắt giữ, tin tức lan truyền khắp nơi. Bá tước Ellen và những người thân cận của ông ta đang lên kế hoạch đổ tội cho công chúa trong vụ ám sát Thái tử, lợi dụng sự hỗn loạn để loại bỏ các đối thủ tiềm năng. Tuy nhiên, Baron Tullet, một thành viên quan trọng trong âm mưu này, lại bị ảnh hưởng bởi tác dụng phụ của thuốc tăng cường trí thông minh, khiến kế hoạch gặp nhiều trở ngại.",
+ "boi_canh": "Trong khu rừng, vào thời điểm sau cuộc săn bắn.",
+ "nhan_vat": [
+  "Marquis Ellen",
+  "Ellen",
+  "Princess Eckart",
+  "Crown Prince",
+  "Lady Kellin",
+  "Baron Tullet",
+  "Gloria",
+  "Count Kellin",
+  "royal physician",
+  "servants"
+ ],
+ "su_kien": [
+  "Công chúa Eckart bị bắt giữ sau khi trở về từ khu rừng.",
+  "Thái tử bị đưa đến cung điện trong tình trạng mất trí.",
+  "Bá tước Ellen và những người thân cận của ông ta lên kế hoạch đổ tội cho Công chúa Eckart.",
+  "Baron Tullet, một thành viên quan trọng trong âm mưu, bị ảnh hưởng bởi tác dụng phụ của thuốc tăng cường trí thông minh.",
+  "Lady Kellin thể hiện sự tức giận đối với Công chúa Eckart."
+ ],
+ "quan_he": [
+  {
+   "a": "Marquis Ellen",
+   "b": "Ellen",
+   "loai": "cap_tren",
+   "mo_ta": "Bá tước là cấp trên của Ellen.",
+   "cach_goi": "gọi tên Ellen, không rõ tone"
+  },
+  {
+   "a": "Marquis Ellen",
+   "b": "Princess Eckart",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Bá tước muốn đổ tội cho công chúa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marquis Ellen",
+   "b": "Crown Prince",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Bá tước muốn loại bỏ Thái tử.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Marquis Ellen",
+   "b": "Lady Kellin",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Bá tước muốn lợi dụng lời khai của bà.",
+   "cach_goi": "gọi tên Lady Kellin, lễ phép"
+  },
+  {
+   "a": "Marquis Ellen",
+   "b": "Baron Tullet",
+   "loai": "gia_dinh",
+   "mo_ta": "Họ hàng, Bá tước không hài lòng với hành động của Baron.",
+   "cach_goi": "gọi tên Baron Tullet, thô lỗ"
+  },
+  {
+   "a": "Baron Tullet",
+   "b": "Gloria",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha con, Baron đang mất trí.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Count Kellin",
+   "b": "Gloria",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha con, Count đang an ủi con gái.",
+   "cach_goi": "gọi tên Gloria, thân mật"
+  },
+  {
+   "a": "Count Kellin",
+   "b": "Marquis Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Người lạ, Count bày tỏ lo ngại với Bá tước.",
+   "cach_goi": "gọi tên Marquis Ellen, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Baron Tullet: Người được Bá tước Ellen sử dụng thuốc tăng cường trí thông minh để biến thành một phần của kế hoạch ám sát."
+ ],
+ "stats": {
+  "tokens": 1000,
+  "seconds": 29.7
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "number": 66,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Penelope bắn hạ kẻ tấn công, Công tước Eckart nổi giận dữ và muốn trừng phạt những kẻ còn sót lại của quốc gia mới. Penelope đã cắt lời để làm dịu tình hình và nghỉ ngơi. Sau đó, trong quá trình di chuyển đến khu cắm trại, Reynold đi theo Penelope một cách kỳ lạ, dẫn đến một cuộc đối đầu căng thẳng và sự tiết lộ về một vết sẹo trên cổ Penelope.",
+ "boi_canh": "Khu cắm trại của Công tước Eckart, buổi tối trong quá trình điều tra vụ tấn công.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Emily"
+ ],
+ "su_kien": [
+  "Công tước Eckart nổi giận sau vụ tấn công.",
+  "Penelope cắt lời Công tước để làm dịu tình hình.",
+  "Penelope và Emily di chuyển đến khu cắm trại, Reynold đi theo họ.",
+  "Reynold phát hiện vết sẹo trên cổ Penelope.",
+  "Reynold điều trị vết thương cho Penelope và đột ngột rời đi."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Derrick, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, có mối quan hệ phức tạp và căng thẳng.",
+   "cach_goi": "gọi tên Reynold, ban đầu lạnh lùng, sau đó thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Penelope suy nghĩ về tuổi tác của Vinter.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Hầu gái riêng, Penelope cảm ơn Emily.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi, thể hiện sự lo lắng và tự hào xen lẫn trách mắng.",
+   "cach_goi": "gọi tên Penelope, vừa trịch thượng vừa quan tâm"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (được nhắc đến như Penelope)"
+ ],
+ "stats": {
+  "tokens": 931,
+  "seconds": 29.2
+ }
+}

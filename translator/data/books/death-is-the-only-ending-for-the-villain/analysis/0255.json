@@ -1,0 +1,56 @@
+{
+ "number": 255,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Thái tử Callisto Regulus cầu xin Penelope Eckart tha thứ và hứa hẹn sự chân thành, anh ta đã quỳ gối trước mặt cô trên nền đất bẩn để chứng minh lòng trung thực của mình. Sau đó, anh ta đề nghị một loạt các món quà đắt giá để bù đắp cho việc giam giữ cô. Cuối cùng, họ đồng ý kết hôn và Penelope nhận chiếc nhẫn ngọc lục bảo từ Callisto, mặc dù anh ta đã bí mật mất chiếc nhẫn đôi của mình. Anh ta cũng tiết lộ rằng chiếc nhẫn bị nguyền rủa chỉ có thể được gỡ bỏ bằng máu của một nàng tiên cá.",
+ "boi_canh": "Trong phòng đốt rác vào buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto"
+ ],
+ "su_kien": [
+  "Callisto quỳ gối trước Penelope để xin lỗi.",
+  "Callisto đề nghị các món quà đắt giá để bù đắp cho việc giam giữ Penelope.",
+  "Penelope đồng ý kết hôn với Callisto.",
+  "Callisto trao cho Penelope chiếc nhẫn ngọc lục bảo.",
+  "Callisto tiết lộ rằng anh ta đã mất chiếc nhẫn đôi và nó cần máu tiên cá để gỡ bỏ lời nguyền."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Đang trong quá trình hẹn hò, Penelope tỏ ra khó tính và kiểm soát.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Thái tử đang cố gắng chứng minh tình yêu của mình và xin lỗi vì những hành động trước đây.",
+   "cach_goi": "gọi tên Penelope, tôn trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Penelope đang tận hưởng việc kiểm soát tình hình và khiến Callisto phải chứng tỏ bản thân.",
+   "cach_goi": "gọi tên Callisto, trịch thượng"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Callisto đang cố gắng đáp ứng yêu cầu của Penelope và chứng minh tình yêu của mình.",
+   "cach_goi": "gọi tên Penelope, tôn trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart: Nhân vật chính, người kể chuyện.",
+  "Callisto Regulus: Thái tử, một trong các nam chính."
+ ],
+ "stats": {
+  "tokens": 692,
+  "seconds": 20.8
+ }
+}

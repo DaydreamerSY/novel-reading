@@ -1,0 +1,63 @@
+{
+ "number": 192,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope khám phá một chiếc gương kỳ lạ trong ẩn náu của Vinter, có vẻ liên quan đến giấc mơ và quá khứ của cô. Cô phát hiện ra những người theo dõi Leila đang lợi dụng sức mạnh của các tấm gương để thao túng tâm trí mọi người. Sau khi đối mặt với sự thật về việc bị tẩy não, Penelope yêu cầu Vinter giúp đỡ và trao đổi thông tin. Cuối cùng, họ chia tay trong một không khí buồn bã, với những cảm xúc phức tạp giữa hai người.",
+ "boi_canh": "Trong ẩn náu của Vinter, vào thời điểm Penelope đang điều tra về chiếc gương kỳ lạ.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "Emily",
+  "Callisto",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Penelope tìm thấy một chiếc gương giống như trong giấc mơ của mình.",
+  "Vinter giải thích về nguồn gốc và mục đích của chiếc gương.",
+  "Penelope phát hiện ra những người theo dõi Leila đang lợi dụng sức mạnh của các tấm gương.",
+  "Penelope trao đổi một mảnh gương khác cho Vinter, được Emily lấy từ Yvonne.",
+  "Vinter bày tỏ sự đau khổ vì Penelope bị tẩy não và trao tặng cô một đóa hồng tím."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope tìm kiếm sự giúp đỡ từ Vinter để điều tra về chiếc gương và những người theo dõi Leila.",
+   "cach_goi": "gọi tên Vinter, không rõ cảm xúc"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Vinter quan tâm đến Penelope và lo lắng cho sự an toàn của cô.",
+   "cach_goi": "gọi tên Penelope, lo lắng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope và Emily có mối quan hệ chủ tớ, Emily hỗ trợ Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Yvonne",
+   "loai": "ban_be",
+   "mo_ta": "Vinter có vẻ quan tâm đến Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "khac",
+   "mo_ta": "Penelope lo lắng cho Callisto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 696,
+  "seconds": 21.0
+ }
+}

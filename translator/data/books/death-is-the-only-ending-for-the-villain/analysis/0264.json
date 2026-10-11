@@ -1,0 +1,73 @@
+{
+ "number": 264,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi kiểm tra dữ liệu nghiên cứu, Penelope lẻn ra khỏi làng để tìm kiếm theo chỉ dẫn của Bobby. Cô phát hiện ra một loài hoa đặc biệt có tên là Moon Shadow Flower và ăn quả của nó vì tò mò. Sau đó, cô nhận ra mình đang mang thai. Trong lúc hoảng hốt, một con rắn đá khổng lồ xuất hiện và tấn công cô, nhưng may mắn được cứu bởi một người bí ẩn.",
+ "boi_canh": "Đêm tối tại một khu vực khai quật gần làng.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Marienne",
+  "Bobby",
+  "Jean",
+  "Madogu"
+ ],
+ "su_kien": [
+  "Penelope tìm thấy và ăn quả Moon Shadow Flower.",
+  "Penelope phát hiện ra mình đang mang thai.",
+  "Một con rắn đá khổng lồ tấn công Penelope.",
+  "Penelope sử dụng phép thuật để chống lại rắn đá.",
+  "Một người bí ẩn cứu Penelope khỏi rắn đá."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Bobby",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Penelope, cung cấp thông tin về địa điểm.",
+   "cach_goi": "gọi tên Bobby, thân mật"
+  },
+  {
+   "a": "Bobby",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Penelope, cung cấp thông tin về địa điểm.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Bạn trai của Penelope, cô dự định sẽ báo tin cho anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "khac",
+   "mo_ta": "Một người phụ nữ khác, Penelope nghĩ về việc có một gia đình với cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Jean",
+   "loai": "nguoi_la",
+   "mo_ta": "Một người sống trong làng, Penelope đề cập đến túp lều của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Madogu",
+   "loai": "thay_tro",
+   "mo_ta": "Người mà Penelope dự định sẽ kiểm tra lại kết quả.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Bobby: Người cung cấp thông tin về địa điểm, có thể là một người bạn hoặc đồng nghiệp của Penelope."
+ ],
+ "stats": {
+  "tokens": 738,
+  "seconds": 22.1
+ }
+}

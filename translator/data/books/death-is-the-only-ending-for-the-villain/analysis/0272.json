@@ -1,0 +1,74 @@
+{
+ "number": 272,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trở về kinh đô, Penelope đối mặt với chuỗi ngày bận rộn chuẩn bị cho hôn lễ hoàng gia. Cô liên tục bị Thái tử Callisto làm phiền với những yêu cầu chọn hoa cưới kỳ lạ. Trong lúc chọn hoa Bubardia có ý nghĩa 'Tôi là tù nhân của bạn', Penelope cảm thấy bối rối trước sự nhiệt tình của Callisto và hối tiếc vì đã không kết hôn với anh ta sớm hơn. Sau đó, cô đến thăm cha ruột tại dinh thự Công tước Eckart sau 5 năm xa cách và phát hiện ra ông đang có sở thích mới là cải tạo hoa.",
+ "boi_canh": "Trong phòng ngủ của Penelope ở kinh đô, vào buổi sáng trước hôn lễ.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Cedric",
+  "Công tước Eckart",
+  "người hầu"
+ ],
+ "su_kien": [
+  "Penelope phải chọn hoa cưới cho hôn lễ hoàng gia.",
+  "Penelope chọn Bubardia màu đỏ và nhận xét về ý nghĩa của nó ('Tôi là tù nhân của bạn').",
+  "Callisto tỏ ra rất vui mừng khi Penelope chọn hoa mà anh thích.",
+  "Penelope đến thăm cha ruột tại dinh thự Công tước Eckart sau 5 năm.",
+  "Công tước Eckart tiết lộ rằng ông đã cải tạo hoa và gửi chúng cho Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Tình cảm mập mờ, Penelope bối rối trước sự nhiệt tình của Callisto.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Nhiệt tình và chu đáo, Callisto luôn muốn làm cho Penelope vui vẻ.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là người lớn hơn và có địa vị cao hơn Cedric.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cedric",
+   "b": "Callisto",
+   "loai": "thay_tro",
+   "mo_ta": "Cedric là thuộc hạ của Callisto, luôn giữ thái độ tôn trọng.",
+   "cach_goi": "gọi 'Your Majesty', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, Penelope và Công tước đã lâu không gặp.",
+   "cach_goi": "gọi 'Duke', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Mối quan hệ cha con, Công tước vui mừng khi Penelope trở về.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart: Nữ chính, nhân vật kể chuyện, xuyên vào ác nữ trong game.",
+  "Bubardia: Loài hoa có ý nghĩa 'Tôi là tù nhân của bạn'."
+ ],
+ "stats": {
+  "tokens": 882,
+  "seconds": 26.5
+ }
+}

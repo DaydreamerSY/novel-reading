@@ -1,0 +1,115 @@
+{
+ "number": 179,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau vài ngày hồi phục, Penelope được triệu tập đến văn phòng Công tước để thẩm vấn về vụ ngộ độc tại lễ thành niên. Trong cuộc họp, những mâu thuẫn và nghi ngờ giữa các thành viên gia đình Eckart bùng nổ khi Yvonne tố cáo Penelope đã cố tình đầu độc mình. Sau đó, Penelope bất ngờ thú nhận đã lợi dụng Becky, người hầu tạm thời, để tạo ra một màn kịch đánh lạc hướng sự chú ý khỏi Yvonne, đồng thời tiết lộ rằng cô ta muốn thử xem liệu mình có thể chết được không. Cuối cùng, Penelope đề nghị được phép rời đi.",
+ "boi_canh": "Trong văn phòng Công tước Eckart, sau buổi thẩm vấn về vụ ngộ độc tại lễ thành niên.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Yvonne",
+  "Emily",
+  "Becky",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Penelope được triệu tập thẩm vấn về vụ ngộ độc.",
+  "Yvonne tố cáo Penelope cố tình đầu độc mình.",
+  "Penelope thú nhận đã lợi dụng Becky để tạo ra màn kịch.",
+  "Penelope tiết lộ mong muốn được chết.",
+  "Derrick phát hiện sự thay đổi màu sắc của vòng cổ Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi, bị Công tước thẩm vấn.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi, thẩm vấn Penelope.",
+   "cach_goi": "gọi tên Penelope, nghiêm khắc"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, có vẻ nghi ngờ Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, có vẻ nghi ngờ Penelope.",
+   "cach_goi": "gọi tên Penelope, dò xét"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, phản ứng mạnh mẽ trước lời thú nhận của Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, phản ứng mạnh mẽ trước lời thú nhận của Penelope.",
+   "cach_goi": "gọi tên Penelope, phẫn nộ"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Pháp sư, quan sát Penelope với ánh mắt dò xét.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Pháp sư, quan sát Penelope với ánh mắt dò xét.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, có mối quan hệ phức tạp và nghi ngờ lẫn nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, có mối quan hệ phức tạp và nghi ngờ lẫn nhau.",
+   "cach_goi": "gọi 'Lady Penelope', trang trọng"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Hầu gái riêng, bị Penelope lợi dụng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Becky",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Hầu gái tạm thời, bị Penelope lợi dụng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1215,
+  "seconds": 36.5
+ }
+}

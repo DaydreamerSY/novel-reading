@@ -1,0 +1,91 @@
+{
+ "number": 70,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope tham gia một buổi tiệc trà do Công tước Eckart tổ chức, nơi có nhiều quý cô và phụ nữ thượng lưu khác. Cô cảm thấy lạc lõng vì ăn mặc không phù hợp với quy tắc của giới quý tộc. Trong khi cố gắng hòa nhập, Penelope phát hiện ra rằng Lady Kellin, người mà cô đã từng gặp trong một sự kiện săn bắn trước đây (và đã suýt bị giết bởi cô ta), đang có mặt và dường như đang cố tình bêu xấu danh tiếng của mình.",
+ "boi_canh": "Một buổi tiệc trà tại khu vực tổ chức cuộc thi săn bắn, thời điểm hiện tại.",
+ "nhan_vat": [
+  "Penelope",
+  "Emily",
+  "Countess Dorothea",
+  "Lady Aris",
+  "Lady Kellin"
+ ],
+ "su_kien": [
+  "Penelope tham gia buổi tiệc trà với sự lo lắng.",
+  "Lady Kellin nhắc lại sự kiện năm ngoái khi Penelope suýt bị bắn tên.",
+  "Các quý cô bắt đầu bàn tán về hành động của Penelope trong quá khứ và hiện tại.",
+  "Countess Dorothea cố gắng xoa dịu tình hình.",
+  "Penelope nhận ra Lady Kellin là người mà cô đã từng gặp trước đây."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Người hầu riêng của Penelope, cô ấy không đi cùng Penelope đến buổi tiệc.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Countess Dorothea",
+   "loai": "cap_tren",
+   "mo_ta": "Người tổ chức buổi tiệc, Penelope cúi chào để tỏ ra lịch sự.",
+   "cach_goi": "gọi 'Countess', lễ phép"
+  },
+  {
+   "a": "Countess Dorothea",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Người tổ chức buổi tiệc, cố gắng tạo không khí thoải mái cho Penelope.",
+   "cach_goi": "gọi tên Penelope, trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Lady Aris",
+   "loai": "ban_be",
+   "mo_ta": "Một trong những quý cô tham gia tiệc trà, Penelope cố gắng ghi nhớ tên của cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lady Aris",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Một trong những quý cô tham gia tiệc trà, tỏ vẻ thích Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Lady Kellin",
+   "loai": "doi_thu",
+   "mo_ta": "Một quý cô có mái tóc xanh, Penelope cảm thấy có sự dè chừng và ngờ vực.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Lady Kellin",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Một quý cô có mái tóc xanh, dường như đang cố tình bêu xấu Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Countess Dorothea",
+   "b": "Lady Kellin",
+   "loai": "nguoi_la",
+   "mo_ta": "Người tổ chức buổi tiệc hỏi Lady Kellin về ý kiến của cô ấy.",
+   "cach_goi": "gọi tên Lady Kellin, trang trọng"
+  },
+  {
+   "a": "Lady Aris",
+   "b": "Lady Kellin",
+   "loai": "nguoi_la",
+   "mo_ta": "Một quý cô tham gia tiệc trà thúc giục Lady Kellin chia sẻ ý kiến của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1040,
+  "seconds": 32.5
+ }
+}

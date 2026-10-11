@@ -1,0 +1,123 @@
+{
+ "number": 170,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, buổi lễ trưởng thành của Penelope diễn ra với nhiều nghi thức rườm rà và lời lẽ giáo huấn từ người thân. Sự vắng mặt bất ngờ của Derrick gây xôn xao, nhưng sau đó anh ta xuất hiện cùng Yvonne, cô con gái thất lạc của Công tước Eckart. Cuối chương, hệ thống game thông báo Penelope đã thất bại trong nhiệm vụ (không hoàn thành mục tiêu trước thời hạn) và bị phạt giảm độ thân thiện với tất cả các nhân vật nam chính.",
+ "boi_canh": "Buổi lễ trưởng thành của Penelope tại dinh thự Công tước Eckart.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Yvonne",
+  "Emily",
+  "Công tước Eckart",
+  "Người hầu (dưới quyền Hoàng đế)",
+  "Trưởng lão gia đình",
+  "Quản gia",
+  "Hầu gái"
+ ],
+ "su_kien": [
+  "Buổi lễ trưởng thành của Penelope diễn ra với nhiều nghi thức.",
+  "Derrick vắng mặt trong buổi lễ, gây xôn xao.",
+  "Derrick xuất hiện cùng Yvonne, cô con gái thất lạc của Công tước Eckart.",
+  "Penelope giả vờ uống rượu chúc mừng và đổ đi.",
+  "Hệ thống game thông báo Penelope thất bại nhiệm vụ và bị phạt giảm độ thân thiện với các nhân vật nam chính."
+ ],
+ "quan_he": [
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "cha nuôi và con gái; Công tước giáo huấn Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "con gái nuôi và cha; Penelope phải tuân theo lời giáo huấn của ông.",
+   "cach_goi": "gọi tên Công tước, lễ phép"
+  },
+  {
+   "a": "Reynold",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai nuôi và cha; Reynold trêu chọc ông.",
+   "cach_goi": "gọi tên Công tước, thân mật"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "cha và con trai; Công tước có vẻ bực bội với Reynold.",
+   "cach_goi": "gọi tên Reynold, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "chưa có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "chưa có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai nuôi và em gái; Penelope quan sát Derrick.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "anh trai nuôi và em gái; Derrick có vẻ không quan tâm đến Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "chưa có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "chưa có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "hầu gái và chủ nhân; Penelope quan sát Emily.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "anh và em gái; Derrick đưa Yvonne đến buổi lễ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Derrick: xuất hiện cùng Yvonne, tiết lộ là đã tìm Yvonne.",
+  "Yvonne: được Derrick đưa đến buổi lễ trưởng thành của Penelope, được biết là con gái thất lạc của Công tước Eckart."
+ ],
+ "stats": {
+  "tokens": 1333,
+  "seconds": 39.9
+ }
+}

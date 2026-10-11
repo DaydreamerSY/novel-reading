@@ -1,0 +1,72 @@
+{
+ "number": 152,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope gặp Yvonne trên đường đi rừng. Ban đầu, cả hai có vẻ xa cách và dè chừng, nhưng sau đó Yvonne đã xin lỗi Penelope vì một lý do nào đó. Cuối cùng, Reynold xuất hiện và cãi vã với Penelope về cách cô đối xử với Yvonne.",
+ "boi_canh": "Một con đường mòn trong rừng vào buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Reynold",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Penelope và Yvonne gặp nhau trên đường đi rừng.",
+  "Yvonne xin lỗi Penelope một cách nước mắt lã chã.",
+  "Penelope chỉ ra vết thương trên trán Yvonne.",
+  "Reynold xuất hiện và cãi vã với Penelope.",
+  "Penelope nhớ lại một ký ức đau buồn từ quá khứ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp nhau lần đầu, Penelope nghi ngờ động cơ của Yvonne.",
+   "cach_goi": "gọi tên Yvonne, không rõ cảm xúc"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Yvonne xin lỗi Penelope một cách nước mắt lã chã.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope và Reynold cãi nhau về cách Penelope đối xử với Yvonne.",
+   "cach_goi": "gọi tên Reynold, lạnh lùng"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope và Reynold cãi nhau về cách Penelope đối xử với Yvonne.",
+   "cach_goi": "gọi tên Penelope, trịch thượng"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Yvonne.",
+   "cach_goi": "gọi tên Reynold, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "khac",
+   "mo_ta": "Penelope lo lắng về việc Eckles bị Yvonne giam giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: nô lệ Penelope mua, sau trở thành hiệp sĩ hộ vệ của cô.",
+  "Yvonne: nữ chính của chế độ thường trong game, con gái thất lạc của Công tước Eckart."
+ ],
+ "stats": {
+  "tokens": 745,
+  "seconds": 22.4
+ }
+}

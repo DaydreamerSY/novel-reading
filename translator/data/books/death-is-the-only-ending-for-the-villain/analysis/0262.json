@@ -1,0 +1,81 @@
+{
+ "number": 262,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope chuẩn bị bữa sáng và liên lạc với Thái tử Callisto qua tinh thể pha lê. Cuộc trò chuyện diễn ra đầy căng thẳng khi Callisto lo lắng về việc Penelope có thể rời đi sớm hơn dự kiến và những tin đồn xung quanh vị hôn phu của mình. Sau đó, Penelope đột ngột cảm thấy buồn nôn, và cuộc trò chuyện kết thúc vội vàng bởi sự can thiệp của Cedric.",
+ "boi_canh": "Trong phòng ăn của Penelope ở vùng núi Maltban, vào buổi sáng.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Cedric",
+  "Marienne",
+  "Bobby",
+  "Jean"
+ ],
+ "su_kien": [
+  "Penelope liên lạc với Callisto qua tinh thể pha lê.",
+  "Callisto bày tỏ sự lo lắng về việc Penelope có thể rời đi sớm hơn dự kiến.",
+  "Penelope đột ngột cảm thấy buồn nôn và phải dừng ăn.",
+  "Cedric cắt ngang cuộc trò chuyện giữa Penelope và Callisto.",
+  "Penelope kết thúc cuộc gọi một cách vội vàng."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Vị hôn phu, Penelope thường xuyên trêu chọc và khiêu khích Callisto.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Thái tử Callisto lo lắng và quan tâm đến Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Cedric cắt ngang cuộc trò chuyện của Penelope và Callisto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Cedric",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử Callisto tỏ ra khó chịu với Cedric.",
+   "cach_goi": "gọi tên Cedric, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp, Penelope nghe tin tức từ Marienne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Bobby",
+   "loai": "ban_be",
+   "mo_ta": "Người nấu ăn cho Penelope.",
+   "cach_goi": "gọi tên Bobby, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Jean",
+   "loai": "dong_minh",
+   "mo_ta": "Không có tương tác trực tiếp, Penelope nghe báo cáo từ Jean.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Regulus",
+  "Cedric: thuộc hạ thân cận của Callisto"
+ ],
+ "stats": {
+  "tokens": 840,
+  "seconds": 25.3
+ }
+}

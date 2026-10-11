@@ -1,0 +1,77 @@
+{
+ "number": 81,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe câu chuyện về cuộc gặp gỡ với con gấu của Thái tử Callisto, Penelope cảm thấy bối rối. Thái tử có vẻ đang trêu chọc cả cô và chính bản thân mình trong quá khứ. Sau đó, họ trao đổi những lời khen ngợi ngắn gọn. Cuộc trò chuyện bị gián đoạn bởi sự khó chịu của Thái tử về việc Penelope không tỏ ra cảm xúc với câu chuyện của anh ta. Tiếp theo là một cuộc đối đầu nhỏ khi Penelope nhận xét về sự sống sót của anh ta, khiến anh ta phản ứng gay gắt. Sau đó, Thái tử đột ngột thể hiện sự thích thú với Penelope và favorability của cô tăng lên đáng kể. Cuối cùng, họ rời đi và Công tước Eckart và Derrick lo lắng cho sự an toàn của Penelope khi cô biến mất trong rừng.",
+ "boi_canh": "Trong khu vực cắm trại săn bắn, sau bữa tối.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Ellen",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Thái tử Callisto kể lại câu chuyện về cuộc gặp gỡ với con gấu.",
+  "Penelope và Callisto trao đổi những lời khen ngợi ngắn gọn về kỹ năng bắn cung của nhau.",
+  "Callisto tỏ ra khó chịu khi Penelope không cảm xúc với câu chuyện của anh ta.",
+  "Favorability của Penelope tăng đột ngột lên 34% sau một bình luận.",
+  "Công tước Eckart và Derrick lo lắng cho sự an toàn của Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Cạnh tranh và có vẻ như đang cố gắng hiểu nhau hơn.",
+   "cach_goi": "gọi tên Callisto, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Có vẻ như đang cố gắng tìm hiểu và trêu chọc Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và cha, lo lắng cho Penelope.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, lo lắng cho Penelope.",
+   "cach_goi": "gọi tên Derrick, thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và cha, báo cáo về tình hình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Ellen",
+   "b": "Công tước Eckart",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope: Nhân vật chính, xuyên vào ác nữ Penelope Eckart.",
+  "Callisto: Thái tử Callisto Regulus",
+  "Derrick: Con trưởng nhà Công tước Eckart",
+  "Reynold: Con thứ nhà Công tước Eckart",
+  "Ellen: Hầu tước Ellen"
+ ],
+ "stats": {
+  "tokens": 924,
+  "seconds": 29.1
+ }
+}

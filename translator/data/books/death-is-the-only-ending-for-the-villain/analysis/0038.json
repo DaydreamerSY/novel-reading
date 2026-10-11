@@ -1,0 +1,82 @@
+{
+ "number": 38,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Derrick từ chối yêu cầu của Penelope về việc tìm kiếm người đàn ông không rõ nguồn gốc, anh ta đã đưa ra những lời khuyên và cảnh báo cô. Anh ta cũng tặng cho Penelope một chiếc vòng tay có ma thuật bảo vệ và thay đổi diện mạo. Sau đó, Penelope phát hiện ra rằng mình đã hoàn thành một nhiệm vụ bí mật và nhận được phần thưởng từ hệ thống, bao gồm cả sự gia tăng về mức độ yêu thích của Derrick. Cuối cùng, Penelope bắt đầu xem xét lại các mối quan hệ với các nam chính trong game.",
+ "boi_canh": "Phòng làm việc của Penelope tại dinh thự nhà Eckart vào một buổi tối.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Emily",
+  "Eckles",
+  "Callisto",
+  "Reynold",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Derrick từ chối yêu cầu của Penelope về việc tìm kiếm người đàn ông không rõ nguồn gốc.",
+  "Derrick đưa ra lời khuyên và cảnh báo cho Penelope.",
+  "Derrick tặng cho Penelope một chiếc vòng tay có ma thuật bảo vệ và thay đổi diện mạo.",
+  "Penelope hoàn thành nhiệm vụ bí mật và nhận được phần thưởng từ hệ thống.",
+  "Penelope xem xét lại các mối quan hệ với các nam chính trong game."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ căng thẳng, Penelope cố gắng thao túng Derrick.",
+   "cach_goi": "gọi tên Derrick, lạnh lùng"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Anh trai nuôi của Penelope, có vẻ quan tâm nhưng cũng cảnh báo cô.",
+   "cach_goi": "gọi tên Penelope, nghiêm khắc"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "nguoi_la",
+   "mo_ta": "Hầu gái của Penelope, không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (Penelope, ác nữ Penelope trong game)",
+  "Eckles (nô lệ được Penelope mua về, hiệp sĩ hộ vệ)"
+ ],
+ "stats": {
+  "tokens": 889,
+  "seconds": 27.9
+ }
+}

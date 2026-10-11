@@ -1,0 +1,99 @@
+{
+ "number": 103,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe lời tiên đoán về tương lai và nhận ra thời gian mình còn lại rất ngắn để trốn thoát khỏi cuộc đời ác nữ Penelope, Penelope Eckart trở nên bồn chồn. Tại bữa ăn tối gia đình, cô cố tình từ chối quà sinh nhật và yêu cầu một khoản tiền riêng, gây ra sự bất đồng với cha dượng Công tước và các anh trai nuôi. Cuối cùng, cô bỏ về phòng và triệu tập quản gia để chuẩn bị cho kế hoạch tăng độ thân thiện của Eckles.",
+ "boi_canh": "Bữa tối tại dinh thự Công tước Eckart.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Emily",
+  "Công tước (Duke)"
+ ],
+ "su_kien": [
+  "Penelope nghe lời tiên đoán về tương lai và nhận ra thời gian mình còn lại rất ngắn.",
+  "Cô từ chối quà sinh nhật và yêu cầu một khoản tiền riêng tại bữa tối gia đình.",
+  "Reynold trêu chọc Penelope, gây ra tranh cãi với Công tước.",
+  "Penelope bỏ về phòng sau khi bị từ chối yêu cầu.",
+  "Cô triệu tập quản gia để chuẩn bị cho kế hoạch tăng độ thân thiện của Eckles."
+ ],
+ "quan_he": [
+  {
+   "a": "Công tước",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "cha dượng và con gái nuôi, mối quan hệ căng thẳng do sự khác biệt trong ý kiến.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước",
+   "loai": "gia_dinh",
+   "mo_ta": "con gái nuôi và cha dượng, Penelope cố gắng tỏ ra lịch sự nhưng có phần bướng bỉnh.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "anh trai nuôi và em gái nuôi, Reynold thích trêu chọc Penelope.",
+   "cach_goi": "gọi tên Penelope, trêu chọc"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "anh trai nuôi và em gái nuôi, Penelope không thích bị Reynold trêu chọc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "anh trai nuôi và em gái nuôi, Derrick quan sát Penelope với ánh mắt dò xét.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "ban_be",
+   "mo_ta": "anh trai nuôi và em gái nuôi, Penelope không quan tâm đến thái độ của Derrick.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "hầu gái và chủ nhân, Emily phục tùng mệnh lệnh của Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "chủ nhân và hầu gái, Penelope ra lệnh cho Emily.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope quan tâm đến suy nghĩ của Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope quan tâm đến suy nghĩ của Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1105,
+  "seconds": 33.3
+ }
+}

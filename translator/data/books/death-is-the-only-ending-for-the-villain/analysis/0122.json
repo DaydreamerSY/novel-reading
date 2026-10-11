@@ -1,0 +1,86 @@
+{
+ "number": 122,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope và Vinter đến một thành phố cảng bị chiến tranh tàn phá để giúp đỡ người dân. Cô gặp lại Raon, cậu bé pháp sư đeo mặt nạ sư tử, người đã cứu cô trong quá khứ. Họ phát hiện ra rằng phần lớn những người đến nhận thức ăn là trẻ em mồ côi và Vinter phải ngăn chặn một số đứa trẻ đang lợi dụng tình hình để lấy nhiều hơn mức cần thiết. Penelope nhận ra sự thật tàn khốc đằng sau cuộc chiến tranh và cảm thấy hối tiếc vì đã phán xét Vinter.",
+ "boi_canh": "Một thành phố cảng bị chiến tranh tàn phá, vào buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "Raon",
+  "Lynolds"
+ ],
+ "su_kien": [
+  "Penelope và Vinter đến một thành phố cảng bị chiến tranh tàn phá.",
+  "Penelope gặp lại Raon, người đã cứu cô trong quá khứ.",
+  "Họ phát hiện ra rằng phần lớn những người đến nhận thức ăn là trẻ em mồ côi.",
+  "Vinter ngăn chặn một số đứa trẻ đang lợi dụng tình hình để lấy nhiều hơn mức cần thiết.",
+  "Penelope và Vinter tranh luận về cách đối phó với những đứa trẻ đó."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope đi cùng Vinter để giúp đỡ người dân, có chút khó chịu vì phải xa rời sự thoải mái.",
+   "cach_goi": "gọi tên 'Vinter', không rõ cảm xúc"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Vinter dẫn dắt Penelope, có vẻ như đang cố gắng dạy cô về những khó khăn của cuộc sống.",
+   "cach_goi": "gọi tên 'Penelope', lịch sự"
+  },
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Penelope và Raon có vẻ quen biết nhau, Penelope cảm ơn Raon vì đã cứu cô trong quá khứ.",
+   "cach_goi": "gọi tên 'Raon', thân mật"
+  },
+  {
+   "a": "Raon",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Raon rất vui khi gặp lại Penelope và tỏ ra ngưỡng mộ cô.",
+   "cach_goi": "gọi tên 'Penelope', thân mật"
+  },
+  {
+   "a": "Vinter",
+   "b": "Raon",
+   "loai": "thay_tro",
+   "mo_ta": "Vinter giao cho Raon nhiệm vụ kiểm tra sự an toàn xung quanh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Raon",
+   "b": "Vinter",
+   "loai": "thay_tro",
+   "mo_ta": "Raon tuân theo lệnh của Vinter.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Lynolds",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope quan sát Lynolds, những người dân địa phương.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Lynolds",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter phân phát thức ăn cho Lynolds.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Raon được gọi là 'Aunty' bởi một đứa trẻ, khiến Penelope bực mình.",
+  "Raon tiết lộ rằng tên thật của cậu là Raon và cậu chọn nó vì cậu thích sư tử."
+ ],
+ "stats": {
+  "tokens": 1013,
+  "seconds": 30.2
+ }
+}

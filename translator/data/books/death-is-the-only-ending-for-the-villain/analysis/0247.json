@@ -1,0 +1,83 @@
+{
+ "number": 247,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với Penelope nghe Marienne kể về tình hình hiện tại và bày tỏ sự bất công của việc phải từ bỏ những gì mình muốn. Sau đó, Penelope được Marienne mời tham gia một đoàn nghiên cứu, và cô đồng ý xem xét. Tiếp theo, Penelope trừng phạt Callisto bằng cách xáo trộn giấy tờ trên bàn làm việc của anh ta. Cuối cùng, với sự giúp đỡ của Marienne, Penelope đã trốn thoát khỏi cung điện và gặp lại cha ruột, Công tước Eckart, nhưng cuộc tái hợp này diễn ra đầy kịch tính khi Công tước vô cùng tức giận vì đã bị ngăn cản gặp con gái.",
+ "boi_canh": "Trong phòng khách của Cung điện Thái tử, vào một buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Marienne",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Yvonne",
+  "Cedric",
+  "Công tước Eckart",
+  "Người hầu"
+ ],
+ "su_kien": [
+  "Penelope nghe Marienne kể về tình hình hiện tại.",
+  "Marienne mời Penelope tham gia đoàn nghiên cứu.",
+  "Penelope xáo trộn giấy tờ trên bàn làm việc của Callisto.",
+  "Marienne giúp Penelope trốn thoát khỏi cung điện.",
+  "Penelope gặp lại Công tước Eckart."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Penelope cảm ơn Marienne vì đã mời cô tham gia đoàn nghiên cứu.",
+   "cach_goi": "gọi tên Marienne, thân mật"
+  },
+  {
+   "a": "Marienne",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Marienne mời Penelope tham gia đoàn nghiên cứu.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Penelope tức giận vì bị Callisto giam giữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha con, Công tước rất mừng khi gặp lại con gái sau thời gian dài.",
+   "cach_goi": "gọi tên Penelope, thân mật nhưng lo lắng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha con, Penelope cảm ơn cha vì đã giúp đỡ.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Marienne",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Marienne giúp đỡ Penelope trốn thoát.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, Penelope cảm ơn Marienne vì đã giúp đỡ.",
+   "cach_goi": "gọi tên Marienne, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính nhân vật."
+ ],
+ "stats": {
+  "tokens": 902,
+  "seconds": 27.1
+ }
+}

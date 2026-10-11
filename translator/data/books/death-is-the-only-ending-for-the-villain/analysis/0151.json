@@ -1,0 +1,94 @@
+{
+ "number": 151,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope phát hiện ra mình bị giam lỏng và theo dõi sau khi Công tước ra lệnh cô không được phép gặp gỡ bất kỳ ai, kể cả Eckles. Cô tìm hiểu thông tin về việc Yvonne bị thương và sự liên quan của Eckles đến những nô lệ Delman trốn thoát, nhận ra anh ta đang lợi dụng tình hình để nâng cao địa vị. Bất mãn với tình hình, Penelope quyết định tự mình đi tìm Eckles trong khu rừng.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại dinh thự Công tước, vào một buổi sáng khi cô cố gắng gặp Eckles.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Yvonne",
+  "Butler",
+  "Sir Philip",
+  "Sir Ed"
+ ],
+ "su_kien": [
+  "Công tước ra lệnh Penelope không được phép gặp gỡ bất kỳ ai, kể cả Eckles.",
+  "Penelope phát hiện ra Yvonne bị thương và sự liên quan của Eckles đến những nô lệ Delman trốn thoát.",
+  "Penelope bị chặn lại khi cố gắng rời khỏi phòng.",
+  "Penelope quyết định đi tìm Eckles trong khu rừng.",
+  "Penelope gặp Yvonne trên đường đi."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Cô muốn khiến anh ta thú nhận tình cảm nhưng bị cấm gặp gỡ.",
+   "cach_goi": "gọi tên Eckles, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Anh ta đang lợi dụng tình hình để nâng cao địa vị.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người có vẻ như không thích nhau.",
+   "cach_goi": "gọi 'princess', lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Butler",
+   "loai": "cap_tren",
+   "mo_ta": "Cô nghi ngờ Butler đang che giấu điều gì đó.",
+   "cach_goi": "gọi 'Butler', lạnh lùng"
+  },
+  {
+   "a": "Butler",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Ông ta báo cáo tình hình và thực hiện mệnh lệnh của Công tước.",
+   "cach_goi": "gọi 'my lady', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Sir Philip",
+   "loai": "nguoi_la",
+   "mo_ta": "Anh ta là một trong những người hộ tống mới của Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Sir Ed",
+   "loai": "nguoi_la",
+   "mo_ta": "Anh ta là một trong những người hộ tống mới của Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Sir Philip",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Anh ta là một trong những người hộ tống mới của Penelope.",
+   "cach_goi": "gọi 'my lady', lễ phép"
+  },
+  {
+   "a": "Sir Ed",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Anh ta là một trong những người hộ tống mới của Penelope.",
+   "cach_goi": "gọi 'my lady', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Có vẻ như anh ta đang lợi dụng tình hình để nâng cao địa vị và có mối quan hệ phức tạp với Yvonne và những nô lệ Delman."
+ ],
+ "stats": {
+  "tokens": 1034,
+  "seconds": 31.1
+ }
+}

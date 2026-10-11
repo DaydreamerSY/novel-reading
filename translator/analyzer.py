@@ -10,7 +10,7 @@ import os
 import re
 import time
 
-from common import ROOT, chapter_path, fmt_duration, read_json, write_json
+from common import chapter_path, fmt_duration, read_json, write_json
 from glossary import Glossary
 from llm import Ollama
 
@@ -74,12 +74,12 @@ class Analyzer:
     def __init__(self, cfg, paths, model):
         self.paths, self.model = paths, model
         self.llm = Ollama(cfg["llm"]["url"], model, int(cfg["llm"].get("timeout_seconds", 900)))
-        self.glossary = Glossary(ROOT / "glossary.yaml")
+        self.glossary = Glossary(paths.glossary)
         hero = (cfg.get("book") or {}).get("protagonist", "")
         narrator = (f'The story is narrated in the first person: "I" is {hero}. Use the name {hero} '
                     f'for the narrator in every field.') if hero else ""
         self.system = SYSTEM.format(narrator=narrator, loai=", ".join(LOAI))
-        self.out_dir = paths.cache.parent / "analysis"
+        self.out_dir = paths.analysis
 
     def cast(self, text):
         """Known characters of this chapter from the glossary, so names and genders stay consistent."""
@@ -155,9 +155,9 @@ def run(cfg, paths, chapters, model, force):
 
 def _canonical(paths):
     """Map names the model wrote ("Frondier de Roach", "Aten Terst", "I") to the glossary's main name."""
-    terms_file = paths.cache.parent / "terms.json"
+    terms_file = paths.terms
     counts = {t["name"]: t["count"] for t in read_json(terms_file)["terms"]} if terms_file.exists() else {}
-    people = [e.en for e in Glossary(ROOT / "glossary.yaml").entries if e.section == "nhan_vat"]
+    people = [e.en for e in Glossary(paths.glossary).entries if e.section == "nhan_vat"]
     cache = {}
 
     def canon(name):
@@ -171,7 +171,7 @@ def _canonical(paths):
 
 def write_report(paths, cfg=None, min_shared=3):
     """Relationship timelines per pair and identity notes, aggregated over all analysed chapters."""
-    folder = paths.cache.parent / "analysis"
+    folder = paths.analysis
     done = sorted(int(p.stem) for p in folder.glob("[0-9][0-9][0-9][0-9].json"))
     if not done:
         return
@@ -234,8 +234,8 @@ def write_report(paths, cfg=None, min_shared=3):
             shown = uniq[:4] + (["…"] + uniq[-3:] if len(uniq) > 7 else uniq[4:7])
             lines.append(f"- {a} gọi {b} ({len(said)} lần ghi nhận): " + "; ".join(shown))
         lines.append("")
-    out = ROOT / "story"
-    out.mkdir(exist_ok=True)
+    out = paths.story
+    out.mkdir(parents=True, exist_ok=True)
     (out / "quan_he_tong_hop.md").write_text("\n".join(lines), encoding="utf-8")
 
     id_lines = ["# Ghi chú danh tính (tên giả, cải trang, tiết lộ thân phận)", "",
@@ -247,11 +247,11 @@ def write_report(paths, cfg=None, min_shared=3):
 
 def write_digests(paths, per_file=100):
     """Readable markdown, 100 chapters per file: story/tom_tat/0001-0100.md ..."""
-    folder = paths.cache.parent / "analysis"
+    folder = paths.analysis
     done = sorted(int(p.stem) for p in folder.glob("[0-9][0-9][0-9][0-9].json"))
     if not done:
         return
-    out_dir = ROOT / "story" / "tom_tat"
+    out_dir = paths.story / "tom_tat"
     out_dir.mkdir(parents=True, exist_ok=True)
     for start in range(((done[0] - 1) // per_file) * per_file + 1, done[-1] + 1, per_file):
         nums = [n for n in done if start <= n < start + per_file]

@@ -1,0 +1,63 @@
+{
+ "number": 113,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope vô tình chạm mặt Eckles khi anh đang khóc nức nở. Cô phát hiện ra favorability của anh giảm xuống và cố gắng an ủi anh. Sau đó, Crown Prince ghé thăm dinh thự của Duke để trao trả cổ vật và tài liệu từ cung điện. Eckles bày tỏ sự thù hận đối với Crown Prince và thể hiện mong muốn được trở thành hiệp sĩ duy nhất của Penelope.",
+ "boi_canh": "Trong phòng làm việc tại dinh thự của Duke, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Crown Prince"
+ ],
+ "su_kien": [
+  "Eckles khóc nức nở khi Penelope chạm mặt anh.",
+  "Favorability của Eckles giảm xuống 84%.",
+  "Crown Prince ghé thăm dinh thự Duke để trao trả cổ vật và tài liệu.",
+  "Eckles bày tỏ sự thù hận đối với Crown Prince.",
+  "Eckles mong muốn trở thành hiệp sĩ duy nhất của Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân của Eckles, cô an ủi và xoa dịu anh.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Eckles là hiệp sĩ hộ vệ của Penelope, anh bày tỏ tình cảm và mong muốn được bảo vệ cô.",
+   "cach_goi": "gọi tên Penelope, tôn trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Crown Prince",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope không tương tác trực tiếp với Crown Prince.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Crown Prince",
+   "loai": "doi_thu",
+   "mo_ta": "Eckles có sự thù hận đối với Crown Prince.",
+   "cach_goi": "gọi 'The Man', thô lỗ"
+  },
+  {
+   "a": "Crown Prince",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Crown Prince trao trả cổ vật và tài liệu cho Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Trước đây là nô lệ, hiện là hiệp sĩ hộ vệ của Penelope."
+ ],
+ "stats": {
+  "tokens": 690,
+  "seconds": 20.6
+ }
+}

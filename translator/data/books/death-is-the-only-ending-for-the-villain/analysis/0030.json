@@ -1,0 +1,70 @@
+{
+ "number": 30,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope tỉnh dậy trong phòng của mình và chứng kiến một chú thỏ trắng xuất hiện kỳ lạ sau cơn gió mạnh. Chú thỏ này đột ngột nói ra một thông điệp bí mật trước khi biến mất. Sau đó, Penelope quyết định tìm đến căn cứ của nhóm 'White Rabbit' để gặp Vinter, nhưng lại trải qua những rung động bất thường trong quá trình chờ đợi.",
+ "boi_canh": "Phòng ngủ của Penelope, buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Reynold",
+  "Vinter",
+  "Emily"
+ ],
+ "su_kien": [
+  "Một cơn gió mạnh ập vào phòng Penelope.",
+  "Một chú thỏ trắng xuất hiện trong phòng.",
+  "Chú thỏ nói ra một thông điệp bí mật.",
+  "Penelope quyết định tìm đến căn cứ của nhóm 'White Rabbit'.",
+  "Xảy ra rung động bất thường tại căn cứ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "khac",
+   "mo_ta": "Penelope từng nghĩ sẽ gắn bó với Eckles, nhưng hiện tại đang nghi ngờ anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope muốn tìm Vinter để tăng sự quan tâm của anh đối với mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Người hầu riêng của Penelope; không có tương tác nhiều trong chương này.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Chú thỏ trắng",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope gặp chú thỏ trắng kỳ lạ, người đột ngột nói ra thông điệp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Chú thỏ trắng",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 583,
+  "seconds": 18.3
+ }
+}

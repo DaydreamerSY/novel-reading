@@ -1,0 +1,92 @@
+{
+ "number": 141,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này diễn ra vào ngày sinh nhật Thái tử Callisto. Penelope, sau khi bị triệu hồi, cố gắng tránh xa những rắc rối liên quan đến anh ta bằng cách thay đổi trang phục và chỉ dự tiệc một lát. Trên đường đến cung điện, cô gặp phải nhiều tình huống dở khóc dở cười với gia đình Eckart, đặc biệt là sự đối đầu giữa Reynold và cha của họ. Cuối cùng, Penelope chạm mặt Vinter tại buổi tiệc, và hệ thống đột ngột đưa ra yêu cầu nhảy điệu với cả Vinter lẫn Reynold, khiến cô vô cùng bối rối.",
+ "boi_canh": "Buổi tiệc sinh nhật Thái tử Callisto tại cung điện Hoàng gia.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Emily",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Penelope được yêu cầu mặc một chiếc váy mới do Thái tử Callisto tặng.",
+  "Penelope cố tình từ chối chiếc váy và chọn một chiếc váy tối màu khác để tránh sự chú ý.",
+  "Gia đình Eckart đi cùng Penelope đến cung điện, gây ra nhiều tranh cãi.",
+  "Penelope chạm mặt Vinter tại buổi tiệc, và hệ thống đưa ra yêu cầu nhảy điệu.",
+  "Hệ thống đột ngột đưa ra hai yêu cầu nhảy điệu với cả Vinter lẫn Reynold."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân, Emily là hầu gái riêng của Penelope.",
+   "cach_goi": "gọi 'Emily', thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope.",
+   "cach_goi": "gọi tên Penelope, không rõ cảm xúc"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope, thường xuyên trêu chọc cô.",
+   "cach_goi": "gọi tên Penelope, trêu chọc"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi của Penelope, thường xuyên khiển trách cô.",
+   "cach_goi": "gọi tên Penelope, nghiêm khắc"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope gọi Derrick là anh trai nuôi, thể hiện sự gần gũi.",
+   "cach_goi": "gọi 'brother', thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai của Công tước, thường xuyên bị cha khiển trách.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người gặp mặt lần đầu tại buổi tiệc.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Reynold nhìn Vinter với ánh mắt nghi ngờ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope (đã bị chiếm đoạt và nhập vào cơ thể của ác nữ Penelope Eckart)",
+  "Callisto (Thái tử Callisto Regulus)",
+  "Derrick (Tiểu Công tước, con trưởng nhà Eckart)",
+  "Reynold (Con thứ nhà Eckart)",
+  "Vinter (Hầu tước Vinter Verdandi)"
+ ],
+ "stats": {
+  "tokens": 1057,
+  "seconds": 31.7
+ }
+}

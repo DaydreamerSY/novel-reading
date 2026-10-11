@@ -1,0 +1,75 @@
+{
+ "number": 165,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope chuẩn bị cho buổi tiệc quan trọng, trải qua quá trình trang điểm và chọn trang phục cầu kỳ dưới sự thúc đẩy của các hầu gái. Cô ấy thoáng buồn khi nhìn thấy hình ảnh bản thân trong gương, nhớ lại chủ nhân cũ của cơ thể này. Sau đó, cô phát hiện ra một thông tin đáng ngờ liên quan đến Becky, người hầu tạm thời của Yvonne, và tìm thấy một chiếc vòng cổ ma thuật kỳ lạ từ Vinter, khiến cô nhận ra mối nguy hiểm tiềm ẩn trong tình cảm của Eckles.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại dinh thự Công tước Eckart, vào buổi sáng trước một buổi tiệc quan trọng.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Vinter",
+  "Yvonne",
+  "Emily",
+  "Becky"
+ ],
+ "su_kien": [
+  "Các hầu gái thúc ép Penelope trang điểm và chọn trang phục.",
+  "Penelope nhìn thấy hình ảnh bản thân trong gương và cảm thấy buồn.",
+  "Emily báo cáo về việc Becky hỏi đường đến văn phòng của Công tước.",
+  "Penelope tìm thấy chiếc vòng cổ ma thuật từ Vinter.",
+  "Penelope nhận ra tình cảm nguy hiểm của Eckles thông qua chiếc vòng cổ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân, Emily là hầu gái riêng của cô; Emily tuân theo mệnh lệnh nhưng cũng cố gắng thuyết phục Penelope.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Becky",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope nghi ngờ Becky; Becky là người hầu tạm thời của Yvonne.",
+   "cach_goi": "gọi tên Becky, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Emily là hầu gái của Penelope; Emily tuân theo mệnh lệnh và báo cáo lại cho Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "khac",
+   "mo_ta": "Penelope suy đoán về hành động của Vinter; mối quan hệ chưa rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope đang lên kế hoạch chống lại Eckles; mối quan hệ nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Becky",
+   "loai": "nguoi_la",
+   "mo_ta": "Emily quan sát Becky; Becky là người hầu tạm thời của Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope (đã xuyên vào cơ thể Penelope Eckart)",
+  "Vinter đã tặng Penelope một chiếc vòng cổ ma thuật."
+ ],
+ "stats": {
+  "tokens": 836,
+  "seconds": 25.1
+ }
+}

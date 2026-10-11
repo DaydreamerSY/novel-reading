@@ -1,0 +1,75 @@
+{
+ "number": 95,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Reynold chất vấn Penelope về tin đồn tình cảm giữa cô và Thái tử. Sau khi Penelope phủ nhận, Reynold lộ rõ sự lo lắng và nghi ngờ. Cuối cùng, anh ta đưa thuốc cho cô để chữa vết thương cổ và thừa nhận đã tin lời của Penelope, khiến cô ngạc nhiên.",
+ "boi_canh": "Tại khu cắm trại của Công tước vào buổi sáng sớm.",
+ "nhan_vat": [
+  "Penelope",
+  "Reynold",
+  "Derrick",
+  "Vinter",
+  "Emily",
+  "Ellen",
+  "Thái tử (Crown Prince)",
+  "Người hầu của Thái tử"
+ ],
+ "su_kien": [
+  "Reynold chất vấn Penelope về tin đồn tình cảm với Thái tử.",
+  "Penelope phủ nhận tin đồn và giải thích về cuộc gặp gỡ với Thái tử là do hoàn cảnh.",
+  "Reynold lo lắng và nghi ngờ, nhưng cuối cùng đã tin lời của Penelope.",
+  "Anh ta đưa thuốc cho Penelope để chữa vết thương cổ.",
+  "Penelope phát hiện ra sự thay đổi trong thái độ của Reynold."
+ ],
+ "quan_he": [
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi lo lắng và nghi ngờ về mối quan hệ của cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Em gái nuôi giải thích và trấn an anh trai nuôi.",
+   "cach_goi": "gọi tên Reynold, lễ phép"
+  },
+  {
+   "a": "Reynold",
+   "b": "Thái tử (Crown Prince)",
+   "loai": "doi_thu",
+   "mo_ta": "Có sự nghi ngờ và lo ngại giữa hai người.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Thái tử (Crown Prince)",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người có một cuộc gặp gỡ bí mật và bị truy đuổi bởi sát thủ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Hầu gái riêng của Penelope, không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người hầu của Thái tử",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu tiếp đón Penelope tại cung điện.",
+   "cach_goi": "gọi 'Princess', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin mới về danh tính nhân vật trong chương này."
+ ],
+ "stats": {
+  "tokens": 772,
+  "seconds": 23.2
+ }
+}

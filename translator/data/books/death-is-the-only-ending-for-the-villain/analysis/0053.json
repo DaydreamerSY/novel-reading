@@ -1,0 +1,87 @@
+{
+ "number": 53,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị cha là Công tước Eckart đe dọa về việc bắn cung, Penelope vô tình nhận được một món quà từ ông và cũng nhận được thư từ Thái tử Callisto Regulus. Nội dung thư cho thấy Callisto vẫn còn nhớ lời hứa giữa họ và ám chỉ đến bệnh ngộ độc sắt của Penelope. Bị sốc trước những sự kiện này, Penelope quyết định tập bắn cung để giải tỏa căng thẳng.",
+ "boi_canh": "Trong phòng làm việc của Công tước Eckart, buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Vinter",
+  "Emily",
+  "Công tước Eckart",
+  "Người quản gia"
+ ],
+ "su_kien": [
+  "Công tước Eckart đe dọa Penelope về việc bắn cung.",
+  "Penelope tặng Công tước Eckart một chiếc bùa hộ mệnh có khả năng dịch chuyển tức thời.",
+  "Penelope nhận được thư từ Thái tử Callisto Regulus, nhắc lại lời hứa và ám chỉ đến bệnh ngộ độc sắt của cô.",
+  "Công tước Eckart khen Penelope đã trưởng thành hơn.",
+  "Penelope quyết định tập bắn cung thay vì nghỉ ngơi."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi và cha, mối quan hệ căng thẳng.",
+   "cach_goi": "gọi 'Father', thân mật"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con gái nuôi, Công tước có vẻ không thích Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người có một lời hứa chưa rõ ràng trong quá khứ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người có một lời hứa chưa rõ ràng trong quá khứ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Chủ và hầu gái riêng, mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Chủ và hầu gái riêng, mối quan hệ thân thiết.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Người quản gia",
+   "loai": "nguoi_la",
+   "mo_ta": "Chủ và người hầu, mối quan hệ bình thường.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Người quản gia",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Chủ và người hầu, mối quan hệ bình thường.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (được biết đến với danh tính là ác nữ trong game hẹn hò)"
+ ],
+ "stats": {
+  "tokens": 939,
+  "seconds": 29.3
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "number": 52,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Penelope gây ra tranh cãi vì cách cư xử của các hiệp sĩ, Công tước Eckart đã cố gắng giải thích và khẳng định sự trung thành của họ thuộc về gia đình. Tuy nhiên, Penelope vẫn kiên quyết chỉ chấp nhận những người thực sự bảo vệ cô. Sau đó, một loạt sự kiện diễn ra, bao gồm việc trao thưởng crossbow phép thuật và tiết lộ về viên đạn gây mê, khiến Penelope cảm thấy bối rối và lo lắng về cuộc săn bắn sắp tới.",
+ "boi_canh": "Phòng khách dinh thự Công tước Eckart, buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Reynold",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Penelope tranh cãi với Công tước về sự trung thành của các hiệp sĩ.",
+  "Công tước trao crossbow phép thuật cho Penelope như một phần thưởng.",
+  "Công tước giải thích về viên đạn gây mê được sử dụng thay vì mũi tên.",
+  "Penelope bày tỏ lo ngại về cuộc săn bắn sắp tới và mong muốn tránh mặt Thái tử.",
+  "Viên crossbow là phần thưởng từ nhiệm vụ với Reynold."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope là người bảo trợ của Eckles.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Eckles phục tùng Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, mối quan hệ phức tạp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, mối quan hệ phức tạp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi, mối quan hệ căng thẳng.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi, lo lắng cho Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Từ nô lệ đến hiệp sĩ hộ vệ của Penelope."
+ ],
+ "stats": {
+  "tokens": 755,
+  "seconds": 23.7
+ }
+}

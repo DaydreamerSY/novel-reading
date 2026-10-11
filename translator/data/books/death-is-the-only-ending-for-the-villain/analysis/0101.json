@@ -1,0 +1,55 @@
+{
+ "number": 101,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope phát hiện ra hệ thống thay đổi cách hiển thị mức độ yêu thích của Eckles, giờ đây phải trả tiền hoặc danh tiếng để kiểm tra. Cô vô tình chi 2 triệu vàng và lo lắng về việc này. Sau khi trêu chọc Eckles một chút, Penelope trở lại phòng và nhận ra số vàng đã bị trừ, khiến cô tức giận vì hệ thống Hard Mode khắc nghiệt. Cô tự an ủi mình rằng sẽ sớm đạt được mức độ yêu thích 100% với Eckles.",
+ "boi_canh": "Trong phòng ngủ của Penelope, sau cơn mưa.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles"
+ ],
+ "su_kien": [
+  "Hệ thống thay đổi cách hiển thị mức độ yêu thích của Eckles.",
+  "Penelope vô tình chi 2 triệu vàng để kiểm tra mức độ yêu thích của Eckles.",
+  "Penelope trêu chọc và tiếp cận Eckles sau khi trao tặng vòng cổ cho anh ta.",
+  "Penelope phát hiện ra số vàng trong hộp đã bị trừ.",
+  "Penelope tự an ủi mình về việc sẽ sớm đạt được mức độ yêu thích 100% với Eckles."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope trao vòng cổ cho Eckles và trêu chọc anh ta.",
+   "cach_goi": "gọi tên Eckles, không rõ ràng"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "ke_thu",
+   "mo_ta": "Eckles phục tùng Penelope, nhưng có vẻ hơi bối rối.",
+   "cach_goi": "gọi 'Master', thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope trêu chọc và tiếp cận Eckles sau khi trao tặng vòng cổ cho anh ta.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Eckles trả lời Penelope một cách dè dặt.",
+   "cach_goi": "gọi 'Master', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: nô lệ được Penelope mua về, sau này trở thành hiệp sĩ hộ vệ của cô."
+ ],
+ "stats": {
+  "tokens": 651,
+  "seconds": 19.5
+ }
+}

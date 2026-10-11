@@ -1,0 +1,64 @@
+{
+ "number": 228,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope bàng hoàng sau cái chết của Eckles. Thái tử Callisto vác cô chạy qua chiến trường tới chân tháp; cả hai thừa nhận đều sợ. Callisto nhắc cô nhớ vì sao mình làm việc này, rồi bàn hai cách: phá chiếc gương, hoặc moi Nanh Rồng Vàng khỏi ngực con rồng. Anh ở lại cầm chân con rồng (anh còn chiếc khuyên tai ruby chữa thương cô tặng), cô leo lên đỉnh tháp. Yvonne chờ sẵn ở đó, nói chính Penelope đã giết Eckles vì không chịu nói dối là yêu hắn. Penelope giờ coi Yvonne là kẻ phản diện; phép ánh sáng của cô bị gương hút hết, Yvonne bắn một tia sáng xanh làm thủng tường.",
+ "boi_canh": "Trên đỉnh tháp ngự trị của một lâu đài đổ nát, giữa chốn chiến tranh.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Vinter",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Rồng giẫm đạp lên Eckles.",
+  "Callisto ngăn Penelope sử dụng phép thuật.",
+  "Callisto cõng Penelope qua trận chiến.",
+  "Penelope và Callisto đối mặt với Yvonne trên đỉnh tháp.",
+  "Yvonne tiết lộ rằng Penelope đã giết Eckles."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope nghi ngờ Eckles và Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope phụ thuộc vào Callisto, sợ hãi và ngưỡng mộ.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Callisto bảo vệ Penelope, thể hiện sự quan tâm.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope nghi ngờ Yvonne và muốn đối đầu với cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "ke_thu",
+   "mo_ta": "Yvonne chế giễu và khiêu khích Penelope.",
+   "cach_goi": "gọi tên Penelope, trịch thượng"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 527,
+  "seconds": 16.5
+ },
+ "tom_tat_sua_tay": "Claude sửa theo bản gốc (2026-10-08)"
+}

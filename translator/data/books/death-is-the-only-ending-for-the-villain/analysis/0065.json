@@ -1,0 +1,99 @@
+{
+ "number": 65,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị một người gọi tên, Penelope nhận ra đó là Vinter và cảm thấy bối rối vì sự thay đổi trong cách xưng hô. Trong lúc hỗn loạn tại lễ hội đêm, Vinter đã cứu cô, khiến Penelope phải đối mặt với những ký ức đau buồn về quá khứ. Cuộc trò chuyện giữa họ bị gián đoạn bởi Reynold, người tỏ ra ghen tuông và cấm đoán Penelope tiếp cận Vinter. Sự việc kết thúc bằng lời hứa hẹn của Vinter và sự lo lắng của cha cô.",
+ "boi_canh": "Lễ hội đêm tại một địa điểm không xác định.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope bị một người gọi tên, hóa ra là Vinter.",
+  "Vinter cứu Penelope khỏi nguy hiểm tại lễ hội đêm.",
+  "Penelope trải qua những ký ức đau buồn về quá khứ khi nhìn thấy tay mình run rẩy.",
+  "Reynold xuất hiện và ngăn cản Penelope tiếp cận Vinter.",
+  "Vinter hứa sẽ chờ đợi câu trả lời từ Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope cảm thấy bối rối khi gọi Vinter bằng chức danh của ông, thể hiện sự thay đổi trong mối quan hệ.",
+   "cach_goi": "gọi 'Marquis', lễ phép"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter quan tâm đến Penelope và bày tỏ lòng biết ơn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, có vẻ ghen tuông và bảo vệ cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, có vẻ ghen tuông và bảo vệ cô.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Anh trai nuôi Penelope, có vẻ ghen tuông và bảo vệ cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Reynold",
+   "loai": "nguoi_la",
+   "mo_ta": "Anh trai nuôi Penelope, có vẻ ghen tuông và bảo vệ cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Hầu gái riêng của Penelope.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Hầu gái riêng của Penelope.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi của Penelope, lo lắng cho cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi của Penelope, lo lắng cho cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1067,
+  "seconds": 33.4
+ }
+}

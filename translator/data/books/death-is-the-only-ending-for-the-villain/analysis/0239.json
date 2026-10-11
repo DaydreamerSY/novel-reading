@@ -1,0 +1,72 @@
+{
+ "number": 239,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đánh bại Yvonne trong trận chiến tại tháp, Penelope bàng hoàng phát hiện ra cô ta vẫn còn sống. Tuy nhiên, Yvonne mà Penelope nhìn thấy lại là một bé gái tám tuổi với vẻ ngoài khác biệt hoàn toàn so với hình ảnh Yvonne mà cô nhớ. Khi Penelope tiến lại gần, chiếc gương ma thuật trong tay cô đột ngột rung chuyển và Yvonne đã cướp lấy nó để bỏ trốn. Sau đó, Penelope bị đưa đến một cảnh tượng quá khứ - ngày gia đình Eckart mất đi Yvonne thật sự, chứng kiến những tương tác ấm áp giữa Derrick và em gái khi còn bé trước khi Yvonne bị dòng người cuốn đi. Cuối cùng, Penelope nắm được chiếc gương mà Yvonne đánh rơi.",
+ "boi_canh": "Một con phố gần dinh thự Công tước Eckart vào ban đêm, trong một cảnh tượng quá khứ.",
+ "nhan_vat": [
+  "Penelope",
+  "Yvonne",
+  "Eckles",
+  "Derrick",
+  "Reynold"
+ ],
+ "su_kien": [
+  "Penelope gặp lại Yvonne, người mà cô nghĩ là đã chết.",
+  "Yvonne đột ngột cướp chiếc gương ma thuật từ tay Penelope và bỏ trốn.",
+  "Penelope chứng kiến cảnh Derrick và Yvonne khi còn nhỏ.",
+  "Yvonne bị dòng người cuốn đi trong một cuộc diễu hành.",
+  "Penelope nắm được chiếc gương mà Yvonne đánh rơi."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Penelope bàng hoàng khi thấy Yvonne còn sống.",
+   "cach_goi": "gọi tên Yvonne, ngạc nhiên"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ, Yvonne cướp chiếc gương và bỏ trốn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp, Penelope quan sát Derrick từ xa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, Derrick chăm sóc và yêu thương em gái.",
+   "cach_goi": "gọi tên Yvonne, thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, Reynold nhắc nhở và bảo vệ em gái.",
+   "cach_goi": "gọi tên Yvonne, thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, Derrick trách móc Reynold.",
+   "cach_goi": "gọi tên Reynold, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Yvonne: Có thể là Yvonne thật sự từ trước khi Leila chiếm lấy cơ thể cô."
+ ],
+ "stats": {
+  "tokens": 826,
+  "seconds": 24.8
+ }
+}

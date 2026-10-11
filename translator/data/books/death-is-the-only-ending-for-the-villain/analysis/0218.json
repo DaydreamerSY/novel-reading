@@ -1,0 +1,73 @@
+{
+ "number": 218,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đến một địa điểm được cho là nơi ẩn náu của Vinter, Penelope và Jean phát hiện ra văn phòng bị phá hủy hoàn toàn. Bất chấp sự nghi ngờ về ma thuật quang học, Penelope quyết định khám phá thêm và vô tình kích hoạt một lối đi bí mật dẫn đến Táng kiến Leila cổ xưa, nơi cô tìm thấy Gương Chân lý đã được phục hồi cùng với một người lạ đang nằm bất động trong vòng hào quang ma thuật đỏ.",
+ "boi_canh": "Sáng sớm tại một con hẻm ở thủ đô.",
+ "nhan_vat": [
+  "Penelope",
+  "Jean",
+  "Callisto",
+  "Vinter",
+  "Yvonne",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope và Jean đến một địa điểm được cho là nơi ẩn náu của Vinter.",
+  "Họ phát hiện ra văn phòng bị phá hủy hoàn toàn.",
+  "Penelope nghi ngờ có ma thuật quang học.",
+  "Một lối đi bí mật được kích hoạt, dẫn đến Táng kiến Leila cổ xưa.",
+  "Penelope tìm thấy Gương Chân lý đã được phục hồi và một người lạ nằm bất động trong vòng hào quang ma thuật đỏ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Jean",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành và người hầu trung thành của Penelope.",
+   "cach_goi": "gọi tên Jean, thân mật"
+  },
+  {
+   "a": "Jean",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Người hầu trung thành và lo lắng cho sự an toàn của Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope đang tìm kiếm Vinter, người có địa vị cao hơn cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jean",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Jean đang tìm kiếm Vinter, người có địa vị cao hơn anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope nghi ngờ Yvonne liên quan đến sự phá hủy.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jean",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Bạn đồng hành và người hầu trung thành của Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Táng kiến Leila: Địa điểm bí mật được Penelope vô tình tìm thấy."
+ ],
+ "stats": {
+  "tokens": 763,
+  "seconds": 22.9
+ }
+}

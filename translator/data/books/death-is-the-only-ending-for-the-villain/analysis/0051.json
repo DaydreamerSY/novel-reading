@@ -1,0 +1,82 @@
+{
+ "number": 51,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Ở chương này, Penelope bị cha cô gọi đến phòng làm việc để giải quyết về sự cố trên thao trường quân sự. Cô phải đối mặt với sự nghi ngờ của cha mình và cuối cùng buộc phải thú nhận lý do cô gây ra rắc rối là vì một hiệp sĩ đã xúc phạm Eckles. Cuộc trò chuyện hé lộ sự thay đổi trong cách Duke nhìn nhận Penelope, cũng như những suy nghĩ phức tạp của Penelope về vị thế của mình.",
+ "boi_canh": "Phòng làm việc của Công tước Eckart, buổi sáng.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Công tước (Duke)",
+  "Người hầu (Butler)",
+  "Tỳ nữ (Maid)",
+  "Mark (hiệp sĩ)"
+ ],
+ "su_kien": [
+  "Penelope bị cha gọi đến phòng làm việc.",
+  "Cô và Duke có cuộc trò chuyện đầu tiên mà không cần phải quỳ lạy.",
+  "Penelope thú nhận đã gây ra sự cố trên thao trường quân sự.",
+  "Cô tiết lộ lý do cô hành động là vì hiệp sĩ Mark xúc phạm Eckles.",
+  "Duke tỏ ra bất ngờ và phẫn nộ trước lời khai của Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Người hầu (Butler)",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope nhận lệnh từ Người hầu, có vẻ tôn trọng.",
+   "cach_goi": "gọi tên 'Người hầu', lễ phép"
+  },
+  {
+   "a": "Người hầu (Butler)",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Người hầu thông báo lệnh của Duke cho Penelope.",
+   "cach_goi": "gọi tên 'Penelope', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Duke",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi của Duke, mối quan hệ đang thay đổi.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Duke",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha của Penelope, đang nghi ngờ và chất vấn cô.",
+   "cach_goi": "gọi tên 'Penelope', lạnh lùng"
+  },
+  {
+   "a": "Duke",
+   "b": "Tỳ nữ (Maid)",
+   "loai": "nguoi_la",
+   "mo_ta": "Duke ra lệnh cho Tỳ nữ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope bảo vệ Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Duke",
+   "b": "Mark (hiệp sĩ)",
+   "loai": "doi_thu",
+   "mo_ta": "Duke không hài lòng với hành động của hiệp sĩ Mark.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Mark: Hiệp sĩ bị Penelope khiển trách vì xúc phạm Eckles."
+ ],
+ "stats": {
+  "tokens": 855,
+  "seconds": 26.9
+ }
+}

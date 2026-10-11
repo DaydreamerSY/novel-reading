@@ -1,0 +1,78 @@
+{
+ "number": 115,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Penelope phàn nàn về việc các hiệp sĩ nói xấu cô, Derrick đề nghị trừng phạt họ. Sau đó, Penelope yêu cầu Derrick chỉ định một kiếm sĩ làm tùy tùng cho Eckles và cung cấp thông tin cá nhân của các ứng viên tiềm năng. Cuộc trò chuyện trở nên căng thẳng khi Penelope nhắc đến mối quan hệ giữa cô và Eckles, và cuối cùng Derrick đồng ý nhưng đưa ra những hạn chế về việc dạy kiếm thuật cho Eckles vì luật pháp Đế quốc. Một con chim lạ tên Flapopinho xuất hiện, và Derrick tiết lộ nó là một báu vật của vương quốc Exchequer.",
+ "boi_canh": "Trong phòng trà của dinh thự Công tước Eckart, vào buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Ellen",
+  "Eckles"
+ ],
+ "su_kien": [
+  "Penelope phàn nàn về việc các hiệp sĩ nói xấu cô.",
+  "Derrick đề nghị trừng phạt các hiệp sĩ.",
+  "Penelope yêu cầu Derrick chỉ định một kiếm sĩ làm tùy tùng cho Eckles.",
+  "Derrick đồng ý nhưng đưa ra hạn chế về việc dạy kiếm thuật cho Eckles.",
+  "Sự xuất hiện của chim Flapopinho và tiết lộ nó là báu vật quốc gia."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope phàn nàn với cấp trên của mình.",
+   "cach_goi": "gọi tên Derrick, không rõ ràng (lễ phép)"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Derrick trả lời và đưa ra yêu cầu.",
+   "cach_goi": "gọi tên Penelope, không rõ ràng (lễ phép)"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope muốn Eckles trở thành tùy tùng của mình.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Derrick đề cập đến Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Đề cập đến Hầu tước Ellen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Cảnh báo Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope phản bác lại Derrick.",
+   "cach_goi": "gọi tên Derrick, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Mark (người bị sa thải khỏi chức vụ)"
+ ],
+ "stats": {
+  "tokens": 849,
+  "seconds": 25.4
+ }
+}

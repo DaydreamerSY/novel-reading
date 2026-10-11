@@ -1,0 +1,41 @@
+{
+ "number": 106,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope tỉnh dậy và thấy Eckles canh giữ bên cạnh giường. Cô yêu cầu được ra ngoài, và khi đối diện với ánh mắt của anh, Eckles lùi lại một cách khó xử. Penelope nhận ra anh vẫn đeo sợi vòng cổ mà cô đã tặng trước đó, biểu tượng cho mối quan hệ chủ tớ. Sau khi tiêu tốn một khoản tiền lớn để tăng hảo cảm của anh, Penelope phát hiện ra Eckles muốn giữ sợi vòng cổ vì nó giúp anh tránh bị hiểu lầm và trừng phạt từ chủ nhân. Cuối cùng, anh cầu xin cô đừng tháo nó ra.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại dinh thự công tước, vào một buổi sáng có mưa.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles"
+ ],
+ "su_kien": [
+  "Penelope yêu cầu được ra khỏi giường.",
+  "Eckles đeo sợi vòng cổ Penelope tặng.",
+  "Penelope tiêu tốn 4 triệu vàng để tăng hảo cảm của Eckles.",
+  "Eckles bày tỏ mong muốn được giữ sợi vòng cổ.",
+  "Penelope phát hiện Eckles đang cầu xin cô đừng tháo nó ra."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân của Eckles, có vẻ đang cố gắng tạo hảo cảm cho anh.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "Eckles là người hầu của Penelope, tỏ ra kính trọng và có chút lo lắng.",
+   "cach_goi": "gọi 'Master', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Trước đây là nô lệ, hiện tại là hiệp sĩ hộ vệ của Penelope. Đeo sợi vòng cổ biểu tượng cho mối quan hệ chủ tớ."
+ ],
+ "stats": {
+  "tokens": 506,
+  "seconds": 15.1
+ }
+}

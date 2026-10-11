@@ -1,0 +1,71 @@
+{
+ "number": 57,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope chuẩn bị cho cuộc thi săn bắn lớn sắp diễn ra, nơi có nhiều quý tộc và hoàng gia từ các quốc gia khác tham dự. Cô được hầu gái trang điểm lộng lẫy nhưng vẫn lo lắng về những chuyện đã xảy ra trong quá khứ liên quan đến mẹ cô. Sau đó, Penelope kiểm tra tình trạng của Eckles để đảm bảo anh không bị Derrick làm hại và tăng mức độ yêu thích của anh bằng cách trêu chọc và kiểm soát anh.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại dinh thự Công tước Eckart vào buổi sáng trước cuộc thi săn bắn.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope được thức dậy sớm để chuẩn bị cho cuộc thi săn bắn.",
+  "Các hầu gái thúc giục Penelope trang điểm và ăn mặc đẹp đẽ.",
+  "Penelope nhắc lại về những chuyện đen tối trong quá khứ của mẹ cô, khiến Emily ngượng ngùng.",
+  "Penelope lên kế hoạch trêu chọc các đối thủ bằng cách bắn tên vào họ trong cuộc thi săn bắn.",
+  "Penelope kiểm tra tình trạng của Eckles và tăng mức độ yêu thích của anh."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân, Emily là hầu gái riêng của cô.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Emily là hầu gái riêng của Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "chu_to",
+   "mo_ta": "Penelope là chủ nhân, Eckles là nô lệ của cô.",
+   "cach_goi": "gọi tên Eckles, trịch thượng"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "Eckles là nô lệ của Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người có mối quan hệ phức tạp, có thể là đối thủ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Derrick",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người có mối quan hệ cạnh tranh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart: Nhân vật chính, xuyên vào ác nữ Penelope trong game hẹn hò."
+ ],
+ "stats": {
+  "tokens": 777,
+  "seconds": 24.4
+ }
+}

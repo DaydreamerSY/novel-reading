@@ -1,0 +1,70 @@
+{
+ "number": 48,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào việc Penelope mua sắm vũ khí cùng Eckles. Cô nhận ra Eckles có lẽ đã 17 tuổi và băn khoăn về sự khác biệt trong cảm xúc của họ. Trong quá trình mua sắm, Eckles tiết lộ rằng anh ấy không muốn sử dụng kiếm thật vì anh ấy nghĩ mình sẽ không bao giờ trở thành một hiệp sĩ chính thức.",
+ "boi_canh": "Bên trong cửa hàng vũ khí của Đế chế, vào buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Arms Dealer"
+ ],
+ "su_kien": [
+  "Penelope ước tính tuổi của Eckles dựa trên ngoại hình của anh ấy.",
+  "Penelope và Eckles đến cửa hàng vũ khí để mua kiếm gỗ có bùa chú.",
+  "Eckles từ chối sử dụng kiếm thật vì nghĩ rằng mình sẽ không bao giờ trở thành hiệp sĩ.",
+  "Arms Dealer cố gắng thuyết phục Penelope mua nhiều kiếm hơn.",
+  "Penelope phát hiện ra một thanh kiếm nhỏ được giấu trong hộp, có thể biến thành kiếm thật khi thổi mana vào."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope là chủ nhân của Eckles, quan tâm đến anh nhưng đôi khi hơi độc đoán.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "Eckles là nô lệ của Penelope, luôn tuân theo mệnh lệnh nhưng có những suy nghĩ riêng.",
+   "cach_goi": "gọi 'Master', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Arms Dealer",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope là khách hàng, Arms Dealer cố gắng bán hàng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arms Dealer",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Arms Dealer cố gắng làm hài lòng Penelope để bán được hàng.",
+   "cach_goi": "gọi 'Lady', lễ phép"
+  },
+  {
+   "a": "Eckles",
+   "b": "Arms Dealer",
+   "loai": "nguoi_la",
+   "mo_ta": "Eckles không giao tiếp với Arms Dealer, chỉ nghe theo lệnh của Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Arms Dealer",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Arms Dealer không giao tiếp với Eckles, chỉ quan tâm đến việc bán hàng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Có thể là một hiệp sĩ chính thức trong tương lai, nhưng hiện tại anh ấy nghĩ mình sẽ không bao giờ trở thành một hiệp sĩ."
+ ],
+ "stats": {
+  "tokens": 801,
+  "seconds": 25.1
+ }
+}

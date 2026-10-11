@@ -1,0 +1,49 @@
+{
+ "number": 259,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope chuẩn bị rời khỏi cổng Cung Mặt Trời thì bỗng nhiên những mảnh vàng rơi xuống. Cô ngạc nhiên nhận ra đó là những cánh hoa vàng được làm từ vàng thật. Sau đó, Hầu tước Vinter xuất hiện và tiết lộ anh ta đã được thả ra sau khi bị giam giữ vì sử dụng phép thuật trái phép. Họ trao đổi về tình hình của Vinter và những thay đổi trong triều đình, trước khi cùng nhau rời đi để xem lễ đăng quang với một bộ trang phục mới do Vinter tạo ra.",
+ "boi_canh": "Trước cổng Cung Mặt Trời, vào thời điểm chuẩn bị rời khỏi cung điện.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Những mảnh vàng hình cánh hoa rơi xuống.",
+  "Hầu tước Vinter xuất hiện sau khi được thả ra khỏi ngục.",
+  "Vinter tiết lộ về việc anh ta bị giam giữ vì sử dụng phép thuật trái phép.",
+  "Penelope và Vinter trao đổi về tình hình chính trị và sự thay đổi trong triều đình.",
+  "Vinter tạo ra một chiếc áo choàng đen để Penelope có thể tham gia lễ đăng quang."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là cấp dưới của Callisto, cảm thấy khó chịu khi nhớ lại những gì đã xảy ra với anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người có mối quan hệ phức tạp, Penelope cảm thấy thương hại cho Vinter.",
+   "cach_goi": "gọi tên Vinter, thân mật"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Hai người có mối quan hệ phức tạp, Vinter tỏ ra quan tâm đến Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Vinter đã từng bị giam giữ vì sử dụng phép thuật trái phép."
+ ],
+ "stats": {
+  "tokens": 561,
+  "seconds": 16.9
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "number": 183,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope thức dậy muộn và ăn sáng trễ. Cô đi dạo quanh trang viên, tránh né sự chú ý của hầu hạ. Trong lúc đó, cô đốt một mảnh gương ma thuật và độc dược trong lò thiêu để loại bỏ chúng. Sau đó, Eckles bất ngờ xuất hiện với nhiều vết thương, bày tỏ lòng trung thành và mong muốn báo thù thay cho Penelope. Cuối cùng, Penelope buộc phải nhắc nhở anh về vai trò của anh trong tình trạng hiện tại của cô.",
+ "boi_canh": "Penelope đang đi dạo quanh trang viên vào buổi sáng.",
+ "nhan_vat": [
+  "Penelope",
+  "Emily",
+  "Pennel",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Yvonne",
+  "Hans",
+  "Peter Reiner",
+  "Gerick",
+  "Mark Albert"
+ ],
+ "su_kien": [
+  "Penelope ăn bữa sáng muộn.",
+  "Cô đốt mảnh gương ma thuật và độc dược trong lò thiêu.",
+  "Eckles xuất hiện với nhiều vết thương.",
+  "Anh bày tỏ lòng trung thành và mong muốn báo thù thay cho Penelope.",
+  "Penelope nhắc nhở Eckles về vai trò của anh trong tình trạng hiện tại của cô."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân, Emily là hầu gái riêng.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Pennel",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope là chủ nhân, Pennel là quản gia; không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope và Eckles gặp lại nhau sau một thời gian; mối quan hệ căng thẳng.",
+   "cach_goi": "gọi tên Eckles, lạnh lùng"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "Eckles bày tỏ lòng trung thành với Penelope.",
+   "cach_goi": "gọi tên Penelope, tôn trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi; không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi; không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Hans",
+   "loai": "doi_thu",
+   "mo_ta": "Một trong những người Penelope muốn Eckles báo thù; không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Peter Reiner",
+   "loai": "doi_thu",
+   "mo_ta": "Một trong những người Penelope muốn Eckles báo thù; không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Gerick",
+   "loai": "doi_thu",
+   "mo_ta": "Một trong những người Penelope muốn Eckles báo thù; không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Mark Albert",
+   "loai": "doi_thu",
+   "mo_ta": "Một trong những người Penelope muốn Eckles báo thù; không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1018,
+  "seconds": 30.5
+ }
+}

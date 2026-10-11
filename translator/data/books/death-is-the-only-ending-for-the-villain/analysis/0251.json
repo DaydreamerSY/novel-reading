@@ -1,0 +1,56 @@
+{
+ "number": 251,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị tấn công bởi Leila, Derrick tìm Penelope để nói chuyện. Anh ta có vẻ đang gặp vấn đề sức khỏe và muốn Penelope ở lại lâu đài. Tuy nhiên, Penelope đã quyết định rời đi và trao cho Derrick một chiếc gương của Yvonne như một lời nhắn nhủ từ em gái anh ta. Cuối cùng, Derrick quỳ xuống xin lỗi và cầu xin Penelope đừng bỏ mặc anh.",
+ "boi_canh": "Trong phòng làm việc của Công tước Eckart, vào thời điểm Penelope chuẩn bị rời khỏi lâu đài.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Derrick có vẻ ốm yếu và thở gấp khi tìm Penelope.",
+  "Penelope phát hiện Derrick bị thương ở thắt lưng.",
+  "Penelope trao cho Derrick chiếc gương của Yvonne.",
+  "Derrick quỳ xuống xin lỗi và cầu xin Penelope đừng bỏ mặc anh ta.",
+  "Derrick nói rằng sẽ thay đổi và bồi thường cho những đau khổ mà Penelope đã trải qua."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là cấp trên của Derrick và giữ thái độ lạnh lùng, xa cách.",
+   "cach_goi": "gọi tên Derrick, không thân thiết"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Derrick là cấp dưới của Penelope và cố gắng thuyết phục cô ấy ở lại.",
+   "cach_goi": "gọi tên Penelope, không thân thiết"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope chỉ biết về Yvonne thông qua chiếc gương và lời nhắn nhủ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai và em gái ruột, Derrick đau khổ vì Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Chiếc gương của Yvonne là vật mà cô ấy muốn Derrick gửi lời cảm ơn và xin lỗi."
+ ],
+ "stats": {
+  "tokens": 612,
+  "seconds": 18.4
+ }
+}

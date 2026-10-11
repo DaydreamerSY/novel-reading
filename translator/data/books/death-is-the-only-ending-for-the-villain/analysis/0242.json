@@ -1,0 +1,72 @@
+{
+ "number": 242,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi đánh thức Vinter khỏi sự bất tỉnh kéo dài, Penelope phát hiện ra rằng anh ta đã từ bỏ mọi thứ và chờ đợi kết thúc. Cô giải thích về Yvonne và tình trạng của cô, đồng thời tiết lộ rằng linh hồn của Yvonne bị mắc kẹt trong không gian này sau khi Leila chiếm lấy cơ thể cô. Cuối cùng, Yvonne quyết định chấp nhận lời đề nghị tái sinh từ hệ thống game, để lại Penelope với những cảm xúc lẫn lộn nhưng cũng là một bước tiến quan trọng hướng tới tương lai.",
+ "boi_canh": "Trong một không gian kỳ lạ, nơi Yvonne bị mắc kẹt sau khi Leila chiếm lấy cơ thể cô.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Vinter tỉnh dậy sau thời gian bất tỉnh kéo dài.",
+  "Penelope giải thích về Yvonne và tình trạng của cô.",
+  "Yvonne quyết định chấp nhận lời đề nghị tái sinh từ hệ thống game.",
+  "Penelope trao lại chiếc gương tay cho Yvonne.",
+  "Yvonne biến mất sau khi nói lời tạm biệt."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope giải thích tình hình cho Vinter.",
+   "cach_goi": "gọi tên Vinter, không trang trọng"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter lắng nghe và phản hồi những lời giải thích của Penelope.",
+   "cach_goi": "gọi tên Penelope, không trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "ban_be",
+   "mo_ta": "Penelope trấn an và giải thích cho Yvonne.",
+   "cach_goi": "gọi tên Yvonne, thân mật"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Yvonne hỏi Penelope những câu hỏi và bày tỏ cảm xúc của mình.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter quan sát và đưa ra nhận xét về hành động của Penelope.",
+   "cach_goi": "gọi tên Penelope, không trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope trả lời những câu hỏi và giải thích cho Vinter.",
+   "cach_goi": "gọi tên Vinter, không trang trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Yvonne: Cô bé được tiết lộ là linh hồn của Yvonne, bị mắc kẹt trong không gian này sau khi Leila chiếm lấy cơ thể cô."
+ ],
+ "stats": {
+  "tokens": 793,
+  "seconds": 23.8
+ }
+}

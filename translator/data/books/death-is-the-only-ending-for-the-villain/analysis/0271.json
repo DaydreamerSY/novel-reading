@@ -1,0 +1,62 @@
+{
+ "number": 271,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Callisto bày tỏ sự lo lắng về việc Penelope rời đi, cô trấn an anh bằng cách khẳng định tình yêu và cam kết ở lại. Cuộc trò chuyện dẫn đến những tiết lộ bất ngờ: Callisto có kế hoạch nhận nuôi một đứa trẻ để thừa kế ngai vàng, và Penelope phát hiện ra mình đang mang thai con của họ. Sự kiện này làm dấy lên những cảm xúc lẫn lộn giữa cả hai, nhưng cuối cùng Penelope đề nghị kết hôn với Callisto, và anh chấp nhận.",
+ "boi_canh": "Trong phòng riêng của Callisto tại cung điện, vào một buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Marienne"
+ ],
+ "su_kien": [
+  "Callisto bày tỏ sự lo lắng về việc Penelope rời đi.",
+  "Penelope tiết lộ mình đang mang thai.",
+  "Callisto có kế hoạch nhận nuôi một đứa trẻ để thừa kế ngai vàng.",
+  "Penelope đề nghị kết hôn với Callisto.",
+  "Callisto chấp nhận lời cầu hôn của Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Người yêu, Penelope trấn an Callisto và bày tỏ tình cảm.",
+   "cach_goi": "gọi tên 'Callisto', thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Người yêu, Callisto bày tỏ sự lo lắng và sau đó chấp nhận lời cầu hôn của Penelope.",
+   "cach_goi": "gọi tên 'Penelope', thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Marienne",
+   "loai": "dong_minh",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 665,
+  "seconds": 20.1
+ }
+}

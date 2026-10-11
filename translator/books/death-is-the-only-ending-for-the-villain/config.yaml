@@ -1,0 +1,52 @@
+# Cấu hình riêng của truyện này: chỉ ghi các mục khác với translator/config.yaml (phần còn lại lấy từ đó).
+# Dùng bằng cách thêm --book death vào lệnh, vd: python novel.py analyze --book death
+
+book:
+  title: "Kết Cục Của Nhân Vật Phản Diện Chỉ Có Thể Là Cái Chết"
+  author: "권겨을"
+  protagonist: Penelope     # truyện kể ngôi thứ nhất: "I" là nhân vật này
+
+source:
+  slug: death-is-the-only-ending-for-the-villain   # tên thư mục khi xuất web (web/books/<slug>)
+
+novelight:
+  book: death-is-the-only-ending-for-the-villain
+  first_line_names: true    # trang đặt "tên chương" bằng câu mở đầu: giữ câu đó trong bài, tiêu đề là "Chapter N"
+  # Lời của các nhóm dịch tiếng Anh lẫn trong bài, chuyển sang tl_notes (không đem tóm tắt / dịch).
+  # Quy tắc chung (dòng "_____" cuối chương, "(Note: ...)", "Tl:", "p/s:", Q&A...) nằm sẵn trong novelight.py;
+  # ở đây chỉ là phần riêng của truyện này. Regex, không phân biệt hoa thường. Sửa xong chạy lại:
+  #   python novel.py scrape --source novelight --book death --force   (dựng lại từ cache, không tải lại)
+  #   python novel.py source --book death
+  tl_lines:                 # khớp ở đâu trong dòng thì bỏ cả dòng
+    - 'akireatom'
+    - '^\s*//'
+    - '^\s*hi (?:guy|everyone|again)'
+    - '^\s*guys\b'
+    - '\b(?:my|first|last) (?:time )?translat|\bI(?:''m| am)? translat|translating this|privilege to translate'
+    - 'let me translate|google translate|papago|\bmtl\b'
+    - 'Sorry guys for the delay|Thankyou to this kind-hearted angel|Any theories\?|lets all blessed the author'
+    - '^PREPARE YOURSELF, CALLISTO|^MY EYES HAS BEEN BLESSED|^LOOH SEXY|^\*Ughhhh'
+    - '^Is he going too\? What do you think\?$'
+    - '^\(¹°□°\)'
+    - '^Death Is The Only Ending For The Villain\b'
+    - '^PS: (?:Chapter|PREPARE)'
+    - '^Sorry for the long wait guys|^\s*Tl\s*$'
+    - '^This art is for wicked yvonne|^Welp this is not the real Callisto|^God this chapter was a roller coaster'
+    - '^anyway, my reaction is on the picture'
+  tl_inline:                # chỉ cắt phần khớp
+    - '\s*\((?=[^()]*(?:translat|papago|\bmtl\b|literal|pronunciation|\blol\b|\bidk\b|\bomg\b|xixi|kyaa|hoho|wohoo|ohmahgad|gosh|if you forgot|notice how|\bXD\b|ㅠ|ㅋ))[^()]*\)'
+    - '\s+(?:note\s*:|Tl\s*[:.]|akireatom\s*:).*$'
+    - '\s*This chapter really drain my tears.*$'
+    # ghi chú viết dính vào lời truyện trong cùng một đoạn (ch127, ch133)
+    - '^\s*note:\s*(?:if you being eaten then this will be the last chapter heh|NOOOOOOO Penny why did you crush my dream sob sob|PENNY! give him his kiss)\s*'
+    # bản dịch ngoại truyện (ch232+): "(?)" và lời bình trong ngoặc, có cả dấu nháy cong
+    - '\s*\(\?\)'
+    - '\s*\{[^{}]*\}'
+    - '\s*\([^()]*\(\s*͡°[^()]*\)[^()]*\)'
+    - "\\s*\\((?=[^()]*(?:\\bI think\\b|\\bnot sure\\b|\\bI don['’]t (?:know|think)\\b|can['’]t tell|\\bhaha|\\bAww|hottie|\\bI['’]m dead\\b|Poor Callisto|Don['’]t ask me|Is this what I think|Can he not|audacity|so sad\\)|\\bktl\\b|goosebumps|I['’]m the one who['’]s crying|\\b(?:she|he) (?:means|meant)\\b|She knows|\\bsfx\\b|Please not again|͡°|such a mood|app said|I might be wrong|let['’]s assume|Seriously can['’]t|best we could|drama trash|\\bPenny\\b|^\\s*\\*\\*|got it\\)|no idea what|who he is\\)|went to that academy|As if a man|couldn['’]t possibly think|dying of beauty))[^()]*\\)"
+    # chú giải chen giữa câu (tên người nói, nghĩa của từ) ở ch114–274
+    - "\\s*\\((?:Derek|Vinter|Penelope|Eclise|Marquis|Callisto|The crowd|hostess|bandage|the duchess|new escorts|his hair|legit|eiffel|Penelope POV|A thing of evil|the sound of (?:the sword|closing the door|his steps)|threw up her admiration|her = the dress|full = satisfied|I don['’]t want to\\?|haven\\s*:[^()]*|young master ?= ?young duke|I guess it['’]s the princess|Guess she['’]s cursing[^()]*|the dead duchess['’] name|The people from where Eclise originally lived|Gong meaning[^()]*|my poor baby[^()]*)\\)"
+    - '\bchapter\s*117\s*\(start from here\)'
+
+terms:
+  extra_titles: []          # không dùng danh sách của truyện chính (Zodiac)

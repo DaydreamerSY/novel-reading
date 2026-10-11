@@ -17,17 +17,34 @@ from bs4 import BeautifulSoup
 from common import available, chapter_path, read_json, write_json
 from scraper import JUNK, USER_AGENT, Blocked
 
-LABEL = re.compile(r"^\s*(\d+)(?:\.(\d+))?\s+chapter\s*-\s*(.*)$", re.I)
+LABEL = re.compile(r"^\s*(\d+)(?:\.(\d+))?\s+chapter(?:\s*-\s*(.*))?\s*$", re.I)  # name is optional
 # The site stamps its name into sentences: in "mathematical bold" letters ("an ★ 𝐍... ★ event"), or spelled
-# out between brackets ("[N O V E L I G H T]", "{N•o•v•e•l•i•g•h•t}", "«N.o.v.e.l.i.g.h.t»").
-_NAME = r"n\W{0,2}[o0]\W{0,2}v\W{0,2}[e3]\W{0,2}l\W{0,2}[i1]\W{0,2}g\W{0,2}h\W{0,2}t(?:\W{0,2}net)?"
-STAMP = re.compile("\\s*[★☆✦✧]*\\s*(?:[\U0001D400-\U0001D7FF][\U0001D400-\U0001D7FF\\s.]*"
+# out between brackets ("[N O V E L I G H T]", "{N•o•v•e•l•i•g•h•t}", "«N.o.v.e.l.i.g.h.t»", "/N_o_v_e_l_i_g_h_t/"),
+# sometimes with only the "o" and "e" in math letters ("°• N 𝑜 v 𝑒 l i g h t •°").
+_OE = r"[\U0001D400-\U0001D7FF]"
+_GAP = r"[\W_]{0,2}"
+_NAME = ("n" + _GAP + "(?:[o0]|" + _OE + ")" + _GAP + "v" + _GAP + "(?:[e3]|" + _OE + ")" + _GAP + "l" + _GAP + "[i1]"
+         + _GAP + "g" + _GAP + "h" + _GAP + "t(?:" + _GAP + "net)?")
+STAMP = re.compile("\\s*[★☆✦✧°•/]*\\s*(?:[\U0001D400-\U0001D7FF][\U0001D400-\U0001D7FF\\s.]*"
                    r"|[\[{(«<【]\s*" + _NAME + r"\s*[\]})»>】]|" + _NAME + ")"
-                   "\\s*[★☆✦✧]*\\s*", re.I)
-# Fan translator's notes: inline "[T/N: ...]" and whole lines. Kept in "tl_notes", not translated.
-TN_INLINE = re.compile(r"\s*\[\s*(?:T/?N|TL ?Note)\s*:?([^\]]*)\]", re.I)
-NOTE_LINE = re.compile(r"^\s*(?:T/?N|TL ?Note)\s*:|mass release|catch up to (?:the )?previous translator"
+                   "\\s*[★☆✦✧°•/]*\\s*", re.I)
+# Newer stamps spell the name with Cyrillic look-alikes ("Nоvеlіgһt", "Nоvеl ght"), between two marks, often with
+# a slogan after it: "◆ Nоvеlіgһt ◆ (Only on Nоvеlіgһt)", "➤ NоvеⅠight ➤ (Read more on our source)", "~Nоvеl ght~".
+# Plain English never has a Cyrillic "о"/"е", so the look-alike word alone is safe to match.
+DECOY = re.compile("\\s*(?P<m>[^\\w\\s\"'“”‘’()]?)\\s*N\u043ev\u0435\\S*(?:\\s+ght\\b)?\\s*(?P=m)"
+                   "(?:\\s*\\([^()]{0,40}\\))?\\s*")
+# Fan translator's notes: kept in "tl_notes", not translated.
+# Inline: "[T/N: ...]", "(Note: ...)", "(Tl: ...)", and a trailing "Translator: name".
+_TN = r"\s*\*?\s*(?:T/?N|A/N|TL ?Note|TL|Note)\b\s*[:.]?"
+TN_INLINE = re.compile(r"\s*\[" + _TN + r"([^\]]*)\]|\s*\(" + _TN + r"([^)]*)\)|\s*\bTranslator\s*:(.*)$", re.I)
+# Whole lines: "T/N: ...", "Note: ...", "Tl. ...", "p/s: ...", "Translator: ...", Q&A with readers, "COMMENTS (On the raws):".
+NOTE_LINE = re.compile(r"^\s*\(?\s*(?:(?:T/?N|TL ?Note|Note|Important Note|Translator|Translated by|Editor|Edited by"
+                       r"|Proofreader|Raw provider)\s*[:：]|(?:TL|p/s)\s*[:：.])"  # not "P.S.": letters in the story use it
+                       r"|^\s*[QA]\s*:\s|mass release|catch up to (?:the )?previous translator"
                        r"|chapters will be released", re.I)
+COMMENTS = re.compile(r"^\s*COMMENTS\b")
+# A line of underscores: everything after it is the translator's end-of-chapter section (sign-off, comments, Q&A).
+SEPARATOR = re.compile(r"^\s*_+\s*$")
 
 
 class Client:
@@ -114,13 +131,13 @@ def fetch_index(client, book):
                 continue
             label = lm.group(1) + (f".{lm.group(2)}" if lm.group(2) else "")
             cid = int(a["href"].rstrip("/").rsplit("/", 1)[-1])
-            items[cid] = {"id": cid, "label": label, "name": lm.group(3).strip(), "title": title,
+            items[cid] = {"id": cid, "label": label, "name": (lm.group(3) or "").strip(), "title": title,
                           "locked": a.select_one(".fa-lock") is not None}
     ordered = []
     for it in sorted(items.values(), key=lambda it: (sort_key(it["label"]), it["id"])):
         # The same chapter uploaded twice in a row ("554 Niflheim (6)" then "555 Niflheim (6)"):
         # keep the later upload, which carries the right label.
-        if ordered and ordered[-1]["name"] == it["name"]:
+        if ordered and it["name"] and ordered[-1]["name"] == it["name"]:
             dup = ordered.pop()
             print(f"  bỏ bản đăng trùng: {dup['label']} {dup['name']} (id {dup['id']}), giữ {it['label']} (id {it['id']})")
         ordered.append(it)
@@ -129,12 +146,35 @@ def fetch_index(client, book):
     return book_id, ordered
 
 
+# A line that is only a chapter heading: "Prologue.", "Chapter 8", "Episode 84.", "Chapter 105.1:.1", "Side Story - 20".
+HEADING = re.compile(r"^(?:prologue|epilogue|(?:chapter|episode|ch\.?|ep\.?)\s*\d+(?:\.\d+)?|side story(?: extra)?\s*-?\s*\d*)"
+                     r"[\s\d.:–-]*(?:\(end\))?\s*$", re.I)
+
+
 def _heading(name):
     """'The Human Sloth Frondier (1) Part 1' -> 'the human sloth frondier (1)' for matching the in-text heading."""
     return re.sub(r"\s*part\s*\d+\s*$", "", name, flags=re.I).strip().lower()
 
 
-def parse_content(data, item, base):
+def _any(patterns):
+    return re.compile("|".join(f"(?:{p})" for p in patterns), re.I) if patterns else None
+
+
+class Rules:
+    """How to read one book's pages, from the novelight section of its config:
+    first_line_names: the site's chapter names are not titles (mostly the chapter's opening line), so a first
+      paragraph that matches the name is text, not a repeated heading;
+    tl_lines / tl_inline: regexes for that book's translator chatter, a whole line / a part of a line."""
+
+    def __init__(self, sc=None):
+        sc = sc or {}
+        self.first_line_names = bool(sc.get("first_line_names"))
+        self.lines = _any(sc.get("tl_lines"))
+        self.inline = _any(sc.get("tl_inline"))
+
+
+def parse_content(data, item, base, rules=None):
+    rules = rules or Rules()
     soup = BeautifulSoup(data.get("content") or "", "lxml")
     cls = data.get("class")
     box = soup.select_one(f".{cls}") if cls else None
@@ -142,19 +182,33 @@ def parse_content(data, item, base):
         box = soup.select_one(".chapter-text")
     if box is None:
         return None
-    paragraphs, dropped, notes = [], 0, []
+    paragraphs, dropped, notes, tail = [], 0, [], False
+
+    def note(text):
+        if text.strip():
+            notes.append({"paragraph": len(paragraphs), "text": text.strip()})
+
     for el in box.find_all(recursive=False):
         if el.name in ("script", "style", "ins") or "advertisment" in (el.get("class") or []):
             continue
         for junk in el.find_all(["script", "style", "ins"]):
             junk.decompose()
         raw = " ".join(el.get_text(" ").split())
-        text = STAMP.sub(" ", raw)
+        text = DECOY.sub(" ", STAMP.sub(" ", raw))
+        if tail or SEPARATOR.match(text):
+            tail = True
+            note(text.strip(" _"))
+            continue
         for m in TN_INLINE.finditer(text):
-            notes.append({"paragraph": len(paragraphs), "text": m.group(1).strip()})
-        text = re.sub(r"\s+([,.!?;:])", r"\1", " ".join(TN_INLINE.sub(" ", text).split()))
-        if text and NOTE_LINE.search(text):
-            notes.append({"paragraph": len(paragraphs), "text": text})
+            note(m.group(1) or m.group(2) or m.group(3) or "")
+        text = TN_INLINE.sub(" ", text)
+        if rules.inline:
+            for m in rules.inline.finditer(text):
+                note(m.group(0))
+            text = rules.inline.sub(" ", text)
+        text = re.sub(r"\s+([,.!?;:])", r"\1", " ".join(text.split()))
+        if text and (NOTE_LINE.search(text) or COMMENTS.match(text) or (rules.lines and rules.lines.search(text))):
+            note(text)
             text = ""
         if not text or JUNK.search(text):
             if raw:
@@ -162,7 +216,10 @@ def parse_content(data, item, base):
             continue
         paragraphs.append(text)
     # The first line repeats the chapter heading ("The Human Sloth Frondier (1)"); the title keeps it.
-    if paragraphs and _heading(paragraphs[0]).strip(" .") == _heading(item["name"]).strip(" ."):
+    if (paragraphs and not rules.first_line_names
+            and _heading(paragraphs[0]).strip(" .") == _heading(item["name"]).strip(" .")):
+        paragraphs.pop(0)
+    while paragraphs and HEADING.match(paragraphs[0]):  # "Chapter 8" on its own line
         paragraphs.pop(0)
     if not paragraphs:
         return None
@@ -171,7 +228,7 @@ def parse_content(data, item, base):
             "source_id": item["id"], "url": f"{base}/book/chapter/{item['id']}"}
 
 
-def download(client, item, out, raw_dir):
+def download(client, item, out, raw_dir, rules=None):
     cid = item["id"]
     raw = raw_dir / f"{cid}.json"
     if raw.exists():
@@ -183,17 +240,19 @@ def download(client, item, out, raw_dir):
         except ValueError:
             return None
         write_json(raw, data)
-    ch = parse_content(data, item, client.base)
+    ch = parse_content(data, item, client.base, rules)
     if ch is not None:
         write_json(out, ch)
     return ch
 
 
 def scrape(cfg, paths, chapters=None, workers=None, force=False):
+    """The main book goes to data/en_novelight; another one (--book) to data/novelight/<slug>/."""
     sc = cfg.get("novelight", {})
     base = sc.get("base_url", "https://novelight.net").rstrip("/")
-    book = sc.get("book", "the-academys-weapon-replicatorreplikator-iz-akademii-novella")
+    book = paths.book or sc.get("book", "the-academys-weapon-replicatorreplikator-iz-akademii-novella")
     workers = int(workers or sc.get("workers", 4))
+    rules = Rules(sc)
     client = Client(base, float(sc.get("min_interval", 0.3)))
     folder = paths.en_novelight
     raw_dir = paths.cache / "novelight"
@@ -226,7 +285,8 @@ def scrape(cfg, paths, chapters=None, workers=None, force=False):
 
     saved, failed, empty, t0 = 0, [], [], time.monotonic()
     pool = ThreadPoolExecutor(max_workers=workers)
-    futures = {pool.submit(download, client, it, chapter_path(folder, it["number"]), raw_dir): it for it in todo}
+    futures = {pool.submit(download, client, it, chapter_path(folder, it["number"]), raw_dir, rules): it
+               for it in todo}
     try:
         for i, fut in enumerate(as_completed(futures), 1):
             it = futures[fut]
@@ -279,12 +339,11 @@ def build_source(cfg, paths):
     so analysis, glossary and translation see one name per character. data/en_novelight stays untouched."""
     import yaml
 
-    from common import ROOT
-
     src, dst = paths.en_novelight, paths.en
     have = available(src)
     if not have:
-        print(f"Chưa có chương nào trong {src}. Chạy: python novel.py scrape --source novelight")
+        print(f"Chưa có chương nào trong {src}. Chạy: python novel.py scrape --source novelight"
+              + (f" --book {paths.book}" if paths.book else ""))
         return
     foreign = [n for n in available(dst) if read_json(chapter_path(dst, n)).get("source") != "novelight"]
     if foreign:
@@ -292,7 +351,8 @@ def build_source(cfg, paths):
               f"Hãy chuyển chúng sang chỗ khác trước (vd data/novellunar/en), lệnh này sẽ không ghi đè.")
         return
 
-    a_path = ROOT / "aliases.yaml"
+    a_path = paths.aliases
+    first_line_names = bool((cfg.get("novelight") or {}).get("first_line_names"))
     a = (yaml.safe_load(open(a_path, encoding="utf-8")) or {}) if a_path.exists() else {}
     every, late, start = a.get("doi_ten_moi_chuong") or {}, a.get("doi_ten") or {}, int(a.get("tu_chuong") or 1)
     # "theo_khoang": {"970-971": {May: Mei}} — names that are only safe to rename inside a chapter range
@@ -326,7 +386,9 @@ def build_source(cfg, paths):
             return pat.sub(one, text)
 
         m = LABEL.match(ch["title"])
-        name = m.group(3).strip() if m else ch["title"]
+        name = ((m.group(3) or "").strip() or f"Chapter {ch['label']}") if m else ch["title"]
+        if first_line_names and not HEADING.match(name):
+            name = f"Chapter {ch['label']}"  # the site's "name" is the opening line or a note, not a title
         out = {"number": n, "title": rename(name), "label": ch["label"],
                "paragraphs": [rename(p) for p in ch["paragraphs"]],
                "source": "novelight", "source_id": ch["source_id"], "url": ch["url"]}

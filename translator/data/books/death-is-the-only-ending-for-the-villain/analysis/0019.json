@@ -1,0 +1,55 @@
+{
+ "number": 19,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope trốn thoát khỏi phòng bằng dây làm từ ga trải giường để tham gia lễ hội, nhưng bị Reynold phát hiện. Cô suýt ngã nhưng được anh ta cứu. Reynold nghi ngờ cô đang trốn đi đâu và đe dọa sẽ báo cho cha nếu cô nói dối.",
+ "boi_canh": "Đêm đầu tiên của lễ hội, tại lâu đài Eckart.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Emily"
+ ],
+ "su_kien": [
+  "Penelope trèo ra khỏi cửa sổ bằng dây ga trải giường tự chế.",
+  "Cô bị dây quá ngắn và suýt rơi xuống.",
+  "Reynold phát hiện Penelope đang trốn thoát.",
+  "Penelope gần như ngã, nhưng Reynold cứu cô.",
+  "Reynold đe dọa sẽ báo cho cha nếu Penelope nói dối."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope và Reynold có mối quan hệ đối địch, Penelope thường xuyên trốn tránh anh.",
+   "cach_goi": "gọi tên Reynold, không thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Reynold trêu chọc và nghi ngờ Penelope.",
+   "cach_goi": "gọi tên Penelope, chế giễu"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope và Emily không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Derrick",
+   "loai": "dong_minh",
+   "mo_ta": "Hai anh em không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 553,
+  "seconds": 17.9
+ }
+}

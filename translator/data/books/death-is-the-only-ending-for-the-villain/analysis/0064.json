@@ -1,0 +1,78 @@
+{
+ "number": 64,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau một cuộc tấn công bất ngờ vào buổi tiệc, Penelope chứng kiến sự xuất hiện của các pháp sư hoàng cung và những người bị bắt giữ liên quan đến vụ việc. Những kẻ nổi loạn bị bắt đã tiết lộ danh tính thật của họ, và Thái tử Callisto có vẻ như đang lên kế hoạch xử tử họ. Tuy nhiên, Vinter can thiệp để kêu gọi ân xá, và Penelope bất ngờ đứng ra ủng hộ, khiến Thái tử khó chịu nhưng cuối cùng cũng đồng ý giao những đứa trẻ cho Vinter. Sau đó, danh tiếng của Penelope tăng lên.",
+ "boi_canh": "Trong đại sảnh tiệc, sau một cuộc tấn công bởi quái vật.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Emily"
+ ],
+ "su_kien": [
+  "Một cuộc tấn công bất ngờ vào buổi tiệc khiến mọi người hoảng loạn.",
+  "Các pháp sư hoàng cung đến để xác nhận và vô hiệu hóa mối đe dọa.",
+  "Những kẻ nổi loạn bị bắt tiết lộ danh tính thật, bao gồm cả một bà lão và những đứa trẻ.",
+  "Thái tử Callisto có vẻ như đang lên kế hoạch xử tử những kẻ nổi loạn.",
+  "Penelope bất ngờ ủng hộ việc ân xá cho những đứa trẻ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope kính trọng Thái tử, nhưng cũng dám thách thức quyết định của ông.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử tỏ ra khó chịu và hơi chế nhạo Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope quan sát Vinter, tò mò về động cơ của ông.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter không giao tiếp trực tiếp với Penelope, nhưng quan sát cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Emily",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp giữa Callisto và Emily.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, Penelope quan sát anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, Penelope quan sát anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 867,
+  "seconds": 27.0
+ }
+}

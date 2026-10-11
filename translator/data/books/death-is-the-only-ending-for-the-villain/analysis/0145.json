@@ -1,0 +1,54 @@
+{
+ "number": 145,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope gặp Thái tử Callisto trong một tình huống kỳ lạ và căng thẳng. Họ trao đổi những lời nói đầy ẩn ý về quá khứ và mối quan hệ của họ. Sau đó, Callisto đưa cho Penelope một con dao găm và đề nghị một 'mối quan hệ' dựa trên lợi ích chung. Cuối cùng, Penelope bất ngờ bày tỏ tình cảm với Callisto, khiến anh ta ngạc nhiên, nhưng cũng nhanh chóng bác bỏ nó bằng những lý do thực tế.",
+ "boi_canh": "Một khu vườn bí mật vào ban đêm, trong một buổi tiệc.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Cedric"
+ ],
+ "su_kien": [
+  "Penelope và Callisto gặp nhau trong một tình huống kỳ lạ.",
+  "Callisto nhắc đến quá khứ của Penelope và những lời nói vô tình của anh ta.",
+  "Callisto đưa cho Penelope một con dao găm và đề nghị một 'mối quan hệ'.",
+  "Penelope bày tỏ tình cảm với Callisto.",
+  "Callisto bác bỏ tình cảm của Penelope và rời đi."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope kính trọng Thái tử, nhưng cảm thấy bối rối và có chút tình cảm.",
+   "cach_goi": "gọi tên 'Thái tử', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử Callisto có vẻ quan tâm đến Penelope, nhưng lại tỏ ra thực tế và tính toán.",
+   "cach_goi": "gọi tên 'Công chúa', thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp giữa Penelope và Cedric.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Cedric",
+   "loai": "thay_tro",
+   "mo_ta": "Thái tử Callisto có vẻ bực bội với Cedric.",
+   "cach_goi": "gọi tên 'Porter', thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 606,
+  "seconds": 18.3
+ }
+}

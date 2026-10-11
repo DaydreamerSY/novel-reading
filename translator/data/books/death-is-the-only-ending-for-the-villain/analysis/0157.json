@@ -1,0 +1,64 @@
+{
+ "number": 157,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Derrick gọi Penelope và đặt câu hỏi về việc ai đã ra lệnh cho cô, một cuộc đối đầu căng thẳng diễn ra giữa Penelope, Derrick và một người đàn ông khác. Penelope cố gắng thao túng tình hình để thoát khỏi nghi ngờ, nhưng lời nói của Derrick khiến cô bối rối. Cuối cùng, Penelope gặp Eckles trong nhà tù ngầm và đối diện với những cảm xúc lẫn lộn về sự phản bội và thất vọng.",
+ "boi_canh": "Trong một nhà tù ngầm, vào buổi tối.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Yvonne",
+  "Eckles"
+ ],
+ "su_kien": [
+  "Derrick chất vấn Penelope về việc ai đã ra lệnh cho cô.",
+  "Một người đàn ông lạ chất vấn Penelope về lý do cô ở đó.",
+  "Penelope cố tình đổ lỗi cho Yvonne để tránh nghi ngờ.",
+  "Penelope gặp Eckles trong nhà tù ngầm.",
+  "Eckles tiết lộ rằng anh ta muốn ở lại vì bản thân, không phải vì Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Anh trai nuôi của Penelope, có vẻ nghi ngờ cô.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi của Penelope, cô đang cố gắng thao túng anh.",
+   "cach_goi": "gọi tên Derrick, không chắc chắn"
+  },
+  {
+   "a": "Người đàn ông lạ",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Một người lạ chất vấn Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope gặp Eckles trong nhà tù ngầm.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Eckles bày tỏ sự trung thành với Penelope.",
+   "cach_goi": "gọi tên Penelope, tôn trọng"
+  }
+ ],
+ "danh_tinh": [
+  "Yvonne được xác định là người đã ra lệnh cho Penelope, không phải Penelope Eckart."
+ ],
+ "stats": {
+  "tokens": 674,
+  "seconds": 20.2
+ }
+}

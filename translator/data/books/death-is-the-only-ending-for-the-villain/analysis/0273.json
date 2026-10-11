@@ -1,0 +1,63 @@
+{
+ "number": 273,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Công tước nói xong, Penelope chợt nhớ lại những ký ức đã lãng quên về loài hoa Ellenwork Rose mà trước đây cô vô tình nhắc đến. Cô và Công tước có một cuộc trò chuyện ngắn ngủi về loài hoa này, sau đó Công tước đột ngột đề nghị kết hôn với Hoàng tử Callisto và bày tỏ sự lo lắng của ông dành cho Penelope. Cuối cùng, Penelope thú nhận mình đang mang thai, khiến Công tước sốc đến mức khóc lóc và định huy động quân đội tiến đánh cung điện hoàng gia.",
+ "boi_canh": "Trong phòng ăn tại trang viên Eckart vào một buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Duke"
+ ],
+ "su_kien": [
+  "Công tước nhắc lại ký ức về loài hoa Ellenwork Rose mà Penelope từng nói là đẹp.",
+  "Penelope nhớ ra tên của loài hoa đó.",
+  "Công tước bày tỏ sự lo lắng khi Penelope sắp kết hôn với Callisto.",
+  "Penelope thú nhận mình đang mang thai.",
+  "Công tước sốc và định huy động quân đội tiến đánh cung điện hoàng gia."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Duke",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi của Công tước, Penelope cảm thấy bối rối trước sự quan tâm của ông.",
+   "cach_goi": "gọi 'Cha', lễ phép"
+  },
+  {
+   "a": "Duke",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Công tước thể hiện sự quan tâm và lo lắng cho Penelope.",
+   "cach_goi": "gọi 'con gái', thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Duke",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Công tước thể hiện sự quan tâm và lo lắng cho Penelope.",
+   "cach_goi": "gọi 'con gái', thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Duke",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi của Công tước, Penelope cảm thấy bối rối trước sự quan tâm của ông.",
+   "cach_goi": "gọi 'Cha', lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Ellenwork Rose: Tên loài hoa được nhắc đến trong ký ức của Penelope và Công tước."
+ ],
+ "stats": {
+  "tokens": 713,
+  "seconds": 21.4
+ }
+}

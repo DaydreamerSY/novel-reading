@@ -1,0 +1,56 @@
+{
+ "number": 158,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe Eckles nói rằng mọi thứ anh ta làm đều vì bản thân, Penelope hoàn toàn bối rối và chất vấn anh ta. Cô ấy đã cố gắng hết sức để theo đuổi con đường của anh ta nhưng giờ đây cô cảm thấy thất vọng và không hiểu. Cuộc đối thoại căng thẳng giữa hai người phơi bày những suy nghĩ đen tối và ám ảnh của Eckles về Yvonne và Penelope, kết thúc bằng một sự chia ly đau đớn khi Penelope vứt bỏ chiếc nhẫn mà anh ta đeo.",
+ "boi_canh": "Trong phòng làm việc tối tăm, vài ngày trước khi Penelope trốn thoát.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Penelope chất vấn Eckles về động cơ của anh ta.",
+  "Penelope và Eckles tranh cãi gay gắt, với những lời buộc tội và sự phơi bày cảm xúc.",
+  "Eckles tiết lộ những suy nghĩ đen tối của mình về Yvonne và Penelope.",
+  "Penelope vứt bỏ chiếc nhẫn mà Eckles đeo.",
+  "Penelope rời đi, chấm dứt mối quan hệ giữa họ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope chất vấn và trách móc Eckles về hành động của anh ta.",
+   "cach_goi": "gọi tên Eckles, thân mật"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Eckles trả lời chất vấn của Penelope và phơi bày những suy nghĩ đen tối.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope tức giận và vứt bỏ chiếc nhẫn của Eckles.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Eckles cố gắng níu kéo Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Chiếc nhẫn trên ngón tay Eckles: biểu tượng cho sự ràng buộc giữa anh ta và Penelope, giờ đây đã bị vứt bỏ."
+ ],
+ "stats": {
+  "tokens": 657,
+  "seconds": 19.8
+ }
+}

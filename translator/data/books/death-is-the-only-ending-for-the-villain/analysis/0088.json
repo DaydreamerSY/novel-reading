@@ -1,0 +1,57 @@
+{
+ "number": 88,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị bắt vì bắn crossbow, Penelope bị giam trong một phòng của tháp gần cung điện. Cô lo lắng về tình hình của Derrick và Reynold, nhưng quan trọng hơn là cô nhận ra mình đang đối mặt với một tình huống nguy hiểm. Trong lúc tìm kiếm bằng chứng để chứng minh sự vô tội, Penelope gặp lại Derrick, người có vẻ không tin tưởng cô chút nào và nghi ngờ cô đã ám sát hoàng tử.",
+ "boi_canh": "Trong phòng giam tại tháp gần cung điện, vào thời điểm Penelope bị tạm giữ vì bắn crossbow.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Ellen"
+ ],
+ "su_kien": [
+  "Penelope bị bắt và giam trong tháp.",
+  "Cô tìm thấy một con dao độc với biểu tượng gia tộc bí ẩn trên lưỡi dao.",
+  "Derrick đến thăm Penelope trong phòng giam.",
+  "Derrick tố cáo Penelope bắn crossbow vào quý tộc và Baron Tullet.",
+  "Hoàng tử bị ngộ độc."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope bị giam giữ bởi Derrick; có sự nghi ngờ và thiếu tin tưởng.",
+   "cach_goi": "gọi tên Derrick, không rõ (có vẻ hơi tôn trọng)"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Derrick là người có quyền lực hơn; tỏ ra không tin tưởng và nghi ngờ Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, Penelope lo lắng cho tình hình của anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, Derrick có vẻ quan tâm đến Reynold.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Con dao Penelope tìm thấy có biểu tượng gia tộc bí ẩn trên lưỡi dao."
+ ],
+ "stats": {
+  "tokens": 611,
+  "seconds": 18.3
+ }
+}

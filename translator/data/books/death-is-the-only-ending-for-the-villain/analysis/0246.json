@@ -1,0 +1,77 @@
+{
+ "number": 246,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope tìm cách gặp Thái tử Callisto nhưng bị lính canh ngăn cản. Cô gửi một thông điệp khiêu khích đến Thái tử và sau đó gặp Marienne, người đã đợi cô trong phòng khách. Trong cuộc trò chuyện, Marienne thông báo rằng cô sẽ rời khỏi Học viện Hoàng gia để tham gia một nhóm nghiên cứu khảo cổ độc lập và ngỏ ý mời Penelope đi cùng. Cuối chương, Penelope tiết lộ lý do tại sao cô không thể rời xa kinh đô là vì Thái tử Callisto mất ngủ.",
+ "boi_canh": "Trong phòng khách của Cung điện Hoàng gia, vào buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Vinter",
+  "Marienne",
+  "Head maid"
+ ],
+ "su_kien": [
+  "Penelope cố gắng gặp Thái tử Callisto và gửi một thông điệp khiêu khích.",
+  "Marienne đã đợi Penelope trong phòng khách.",
+  "Marienne thông báo cô sẽ rời khỏi Học viện Hoàng gia.",
+  "Marienne mời Penelope đi cùng cô.",
+  "Penelope tiết lộ lý do tại sao cô không thể rời kinh đô là vì Thái tử Callisto mất ngủ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope muốn gặp Callisto, nhưng bị lính canh ngăn cản. Cô gửi thông điệp khiêu khích.",
+   "cach_goi": "gọi tên 'Thái tử', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto ngăn cản Penelope gặp anh ta và gửi thông điệp trả lời.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "ban_be",
+   "mo_ta": "Hai người gặp nhau và trò chuyện. Marienne mời Penelope đi cùng.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Marienne",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Hai người gặp nhau và trò chuyện. Marienne mời Penelope đi cùng.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Head maid",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope yêu cầu Head maid mang giấy và bút cho cô.",
+   "cach_goi": "gọi 'Head maid', lễ phép"
+  },
+  {
+   "a": "Head maid",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Head maid báo cáo với Penelope và cố gắng thuyết phục cô ăn uống.",
+   "cach_goi": "gọi tên, lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 835,
+  "seconds": 25.1
+ }
+}

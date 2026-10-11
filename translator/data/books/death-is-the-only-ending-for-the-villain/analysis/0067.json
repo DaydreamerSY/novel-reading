@@ -1,0 +1,122 @@
+{
+ "number": 67,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với bữa sáng gia đình Công tước Eckart khi Penelope bất ngờ phải đối mặt với việc Derrick vẫn còn bị thẩm vấn. Cô tỏ ra khó chịu và phản bác lại quan điểm của cha mình về tầm quan trọng của danh tiếng Đế chế. Sau đó, Penelope tìm cách trốn tránh cuộc thi săn bắn bằng cách giả bệnh, nhưng lại bị Công tước thúc giục tham gia một buổi tiệc trà xã giao. Cuối cùng, cô quyết định mặc đồ săn và mang theo cung tên để tham gia, gây chú ý cho mọi người xung quanh.",
+ "boi_canh": "Trong bữa sáng tại khu nghỉ dưỡng của Công tước Eckart.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Emily",
+  "Công tước Eckart",
+  "Nữ công tước Dorothea (đề cập)",
+  "Các quý tộc khác"
+ ],
+ "su_kien": [
+  "Derrick vẫn còn bị thẩm vấn, khiến Penelope khó chịu.",
+  "Penelope giả bệnh để tránh cuộc thi săn bắn.",
+  "Công tước thúc giục Penelope tham gia buổi tiệc trà xã giao.",
+  "Penelope quyết định mặc đồ săn và mang cung tên đến buổi tiệc.",
+  "Vinter xuất hiện tại buổi lễ, gây chú ý."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, tranh luận về cuộc thi săn bắn.",
+   "cach_goi": "gọi tên Derrick, không thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, tranh luận về cuộc thi săn bắn.",
+   "cach_goi": "gọi tên Penelope, không thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi của Công tước, tranh luận về cuộc thi săn bắn.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi của Penelope, thúc giục cô tham gia tiệc trà.",
+   "cach_goi": "gọi tên Penelope, không thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, trêu chọc về cách ăn mặc của cô.",
+   "cach_goi": "gọi tên Reynold, không thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, trêu chọc về cách ăn mặc của cô.",
+   "cach_goi": "gọi tên Penelope, không thân mật"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi của Reynold, mắng Reynold vì thiếu hấp dẫn với phụ nữ.",
+   "cach_goi": "gọi tên Reynold, không thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai của Công tước, phản bác lại lời mắng của cha.",
+   "cach_goi": "gọi 'Father', không thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "nguoi_la",
+   "mo_ta": "Không nói chuyện trực tiếp.",
+   "cach_goi": "gọi tên Derrick, không thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Hầu gái riêng của Penelope, lo lắng về việc Penelope mang cung tên.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Hầu gái riêng của Penelope, lo lắng về việc Penelope mang cung tên.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Không nói chuyện trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Không nói chuyện trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1337,
+  "seconds": 41.8
+ }
+}

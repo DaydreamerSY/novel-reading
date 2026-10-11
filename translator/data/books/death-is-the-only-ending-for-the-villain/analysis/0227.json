@@ -1,0 +1,88 @@
+{
+ "number": 227,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong một trận chiến hỗn loạn với quân nổi loạn và sự xuất hiện của rồng, Penelope vô tình sử dụng phép thuật gây ra nhiều biến cố. Eckles, người hầu cận của cô, đã bảo vệ cô khỏi nguy hiểm, thậm chí hy sinh bản thân để cứu cô. Trước khi qua đời, anh thú nhận tình cảm dành cho Penelope.",
+ "boi_canh": "Trong khu vườn Hoàng gia, giữa một trận chiến đang diễn ra.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Reynold",
+  "Công tước Eckart",
+  "Vinter",
+  "Yvonne"
+ ],
+ "su_kien": [
+  "Callisto phản ứng nhanh chóng để đỡ đòn tấn công.",
+  "Eckles can thiệp, ngăn chặn cuộc chiến giữa Callisto và quân nổi loạn.",
+  "Penelope sử dụng phép thuật tạo ra những cây hoa hồng khổng lồ để trói rồng.",
+  "Eckles bảo vệ Penelope khỏi sự tấn công của rồng và bị thương nặng.",
+  "Eckles thú nhận tình cảm với Penelope trước khi qua đời."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope kính trọng Callisto, Thái tử.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Callisto bảo vệ Penelope, mối quan hệ chưa rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "chu_to",
+   "mo_ta": "Eckles là nô lệ Penelope, sau trở thành hiệp sĩ bảo vệ cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "Eckles trung thành và bảo vệ Penelope, có tình cảm với cô.",
+   "cach_goi": "gọi 'Master', thân mật"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha nuôi của Penelope, mối quan hệ cha con.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope, mối quan hệ anh em.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Bạn của Penelope, mối quan hệ bạn bè.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Eckles",
+   "loai": "doi_thu",
+   "mo_ta": "Hai người đang chiến đấu với nhau.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Sử dụng thanh kiếm phép thuật mà Penelope đã tặng anh ta, điều này gây bất ngờ cho Callisto."
+ ],
+ "stats": {
+  "tokens": 905,
+  "seconds": 27.2
+ }
+}

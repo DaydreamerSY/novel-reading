@@ -1,0 +1,67 @@
+{
+ "number": 120,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope tìm kiếm Hầu tước Vinter Verdandi để ký một hợp đồng bí mật, nhưng lại vô tình khiến anh ta tò mò về danh tính của mình. Thay vì ký hợp đồng khai thác đá ngọc lục bảo như đã định ban đầu, Penelope đề nghị một thỏa thuận mới: hợp tác khai thác kim cương và quản lý tài chính cho cô, đổi lấy 60% lợi nhuận và các cuộc gặp gỡ riêng tư để giải đáp sự tò mò của Vinter. Sau khi ký kết hợp đồng, họ trao đổi một cái bắt tay ngắn ngủi, Penelope vô tình kiểm tra được mức độ yêu thích của mình với Vinter đã tăng lên đáng kể, và cuối cùng là rời đi bằng xe ngựa do Vinter sắp xếp.",
+ "boi_canh": "Trong phòng làm việc của Hầu tước Vinter Verdandi, vào một buổi chiều không xác định.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Vinter",
+  "Butler (không xuất hiện trực tiếp)"
+ ],
+ "su_kien": [
+  "Penelope đề nghị Vinter ký hợp đồng khai thác đá ngọc lục bảo.",
+  "Vinter thể hiện sự tò mò về danh tính của Penelope.",
+  "Penelope thay đổi đề nghị thành hợp tác khai thác kim cương và quản lý tài chính.",
+  "Hai người ký kết hợp đồng mới với các điều khoản đặc biệt.",
+  "Penelope kiểm tra mức độ yêu thích của mình với Vinter và thấy nó đã tăng lên đáng kể."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope cố gắng đạt được một thỏa thuận kinh doanh với Vinter, nhưng cũng tìm cách để hiểu rõ hơn về anh ta.",
+   "cach_goi": "gọi tên 'Vinter', lễ phép"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter tò mò về Penelope và muốn tìm hiểu thêm về cô.",
+   "cach_goi": "gọi tên 'Lady', trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter bày tỏ sự quan tâm và mong muốn được làm việc cùng Penelope.",
+   "cach_goi": "gọi tên 'Lady', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: nô lệ Penelope mua về, sau thành hiệp sĩ hộ vệ của cô.",
+  "Derrick: con trưởng nhà Công tước Eckart, anh trai nuôi của Penelope.",
+  "Vinter: Hầu tước Vinter Verdandi, pháp sư."
+ ],
+ "stats": {
+  "tokens": 829,
+  "seconds": 24.8
+ }
+}

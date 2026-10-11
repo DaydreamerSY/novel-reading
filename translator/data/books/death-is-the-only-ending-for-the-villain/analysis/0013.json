@@ -1,0 +1,54 @@
+{
+ "number": 13,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị Derrick thúc giục rời khỏi xe ngựa, Penelope bước vào buổi tiệc tại cung điện và nhanh chóng cảm thấy nhàm chán vì sự chú ý hạn chế. Bất ngờ, một sự kiện kinh hoàng xảy ra: Hoàng tử kế vị Callisto xuất hiện, ném đầu của một người đàn ông đã bị giết đến chân Thái tử thứ hai. Sau đó, Penelope được Hoàng tử kế vị tiếp cận trong vườn mê cung và bị đe dọa bằng kiếm.",
+ "boi_canh": "Buổi tiệc tại cung điện, vào thời điểm Hoàng tử kế vị Callisto xuất hiện.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick"
+ ],
+ "su_kien": [
+  "Penelope bị Derrick thúc giục rời khỏi xe ngựa.",
+  "Hoàng tử kế vị Callisto ngồi trên ngai vàng của Hoàng đế.",
+  "Hoàng tử kế vị Callisto ném đầu một người đàn ông đã bị giết đến chân Thái tử thứ hai.",
+  "Penelope được Hoàng tử kế vị tiếp cận trong vườn mê cung.",
+  "Hoàng tử kế vị đe dọa Penelope bằng kiếm."
+ ],
+ "quan_he": [
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi thúc giục Penelope rời khỏi xe ngựa.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope đáp lại lời thúc giục của anh trai nuôi.",
+   "cach_goi": "gọi tên Derrick, lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Hoàng tử kế vị nhìn Penelope với sự tò mò và đe dọa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope bị Hoàng tử kế vị đe dọa bằng kiếm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 599,
+  "seconds": 18.9
+ }
+}

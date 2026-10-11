@@ -1,0 +1,95 @@
+{
+ "number": 58,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope trừng phạt Eckles vì sự bướng bỉnh của cậu ta và tăng khả năng yêu thích của cậu ta. Sau đó, cô gặp Công tước Eckart và Reynold, Derrick trên đường xuống tầng dưới cùng, dẫn đến một cuộc đối đầu nhỏ về trang phục của Penelope. Cuối cùng, họ lên xe ngựa đi cung điện, nơi sự khó xử gia đình tiếp tục khi Công tước khoe chiếc bùa hộ mệnh mà Penelope đã bí mật tặng ông.",
+ "boi_canh": "Trong phòng khách nhà Công tước Eckart vào buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Derrick",
+  "Reynold",
+  "Công tước Eckart",
+  "Người hầu"
+ ],
+ "su_kien": [
+  "Penelope trừng phạt Eckles vì sự bướng bỉnh của cậu ta.",
+  "Khả năng yêu thích của Penelope đối với Eckles tăng lên hơn 50%.",
+  "Penelope gặp Công tước và Reynold, Derrick trên đường xuống tầng dưới cùng.",
+  "Công tước chỉ trích trang phục của Penelope.",
+  "Công tước khoe chiếc bùa hộ mệnh mà Penelope đã bí mật tặng ông."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope là chủ nhân của Eckles, trừng phạt cậu ta vì sự bướng bỉnh.",
+   "cach_goi": "gọi tên Eckles, lạnh lùng"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "Eckles là nô lệ của Penelope, cầu xin sự tha thứ.",
+   "cach_goi": "gọi 'Master', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, Penelope và Derrick ngồi cạnh nhau trên xe ngựa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, Penelope và Reynold ngồi cạnh nhau trên xe ngựa.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái, Penelope chào Công tước.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha, Công tước chỉ trích trang phục của Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Người hầu",
+   "loai": "nguoi_la",
+   "mo_ta": "Người hầu cắt ngang cuộc đối thoại giữa Penelope và Công tước.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, Công tước và Reynold tranh cãi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, Công tước và Derrick tranh cãi.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: nô lệ của Penelope, hiệp sĩ hộ vệ của cô.",
+  "Penelope Eckart: nhân vật chính, xuyên vào ác nữ trong game hẹn hò."
+ ],
+ "stats": {
+  "tokens": 1044,
+  "seconds": 32.8
+ }
+}

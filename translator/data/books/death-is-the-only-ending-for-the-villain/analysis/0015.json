@@ -1,0 +1,68 @@
+{
+ "number": 15,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope bị thương trong một cuộc tấn công và được Derrick đưa đi. Sau khi ngất xỉu tại buổi dạ hội, cô tỉnh dậy trong bệnh viện và nhớ lại những ký ức đau buồn về thời niên thiếu bị bắt nạt ở trường học. Cô cũng có một cuộc đối đầu đầy giận dữ với anh trai cùng cha khác (Derrick) trước khi bất tỉnh lần nữa.",
+ "boi_canh": "Buổi dạ hội tại cung điện hoàng gia, vài ngày sau đó.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Penelope bị thương và được Derrick đưa đi.",
+  "Penelope ngất xỉu tại buổi dạ hội.",
+  "Penelope hồi tưởng lại những ký ức bị bắt nạt ở trường học.",
+  "Derrick lo lắng cho Penelope khi cô ngất xỉu.",
+  "Penelope đối chất với Derrick và bày tỏ sự căm ghét."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, lo lắng cho cô.",
+   "cach_goi": "gọi tên 'Brother', lễ phép"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, lo lắng và bảo vệ cô.",
+   "cach_goi": "gọi tên Penelope, quan tâm"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, lo lắng và bảo vệ cô.",
+   "cach_goi": "gọi tên Penelope, lo lắng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, Penelope bày tỏ sự căm ghét.",
+   "cach_goi": "gọi tên 'Brother', thô lỗ"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, sốc trước thái độ của Penelope.",
+   "cach_goi": "gọi tên Penelope, ngạc nhiên"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 594,
+  "seconds": 18.7
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "number": 92,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, một cuộc họp quan trọng diễn ra để điều tra về vụ án ám sát hoàng gia. Penelope bất ngờ được Vinter đứng lên làm chứng và phơi bày những bằng chứng liên quan đến Baron Tullett và các quý tộc khác. Cuối cùng, những người bị tình nghi đã bị bắt giữ, và Penelope nhận được phần thưởng là tăng điểm hảo cảm với các nam chính và danh tiếng. Sau đó, Penelope gặp lại Vinter và trao đổi vài lời.",
+ "boi_canh": "Trong phòng họp của một cuộc điều tra ám sát hoàng gia.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Ellen",
+  "Viscount Gavoil",
+  "Judge General",
+  "Baron Tullett",
+  "Marquis Ellen",
+  "Count Kellin",
+  "Sir Walter",
+  "Captain of the Guard"
+ ],
+ "su_kien": [
+  "Vinter bất ngờ xuất hiện và làm chứng tại cuộc họp.",
+  "Vinter phơi bày bằng chứng liên quan đến Baron Tullett và các quý tộc khác.",
+  "Judge General ra lệnh bắt giữ những người bị tình nghi.",
+  "Penelope nhận được phần thưởng là tăng điểm hảo cảm với các nam chính và danh tiếng.",
+  "Penelope gặp lại Vinter sau khi cuộc họp kết thúc."
+ ],
+ "quan_he": [
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Vinter làm chứng và hỗ trợ Penelope trong cuộc họp.",
+   "cach_goi": "gọi tên Penelope, không rõ cảm xúc"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope cảm ơn Vinter vì đã giúp đỡ.",
+   "cach_goi": "gọi tên Vinter, lịch sự"
+  },
+  {
+   "a": "Marquis Ellen",
+   "b": "Vinter",
+   "loai": "doi_thu",
+   "mo_ta": "Ellen phản đối lời khai của Vinter.",
+   "cach_goi": "gọi 'Your Honor', lễ phép"
+  },
+  {
+   "a": "Vinter",
+   "b": "Marquis Ellen",
+   "loai": "doi_thu",
+   "mo_ta": "Vinter phản bác lời của Marquis Ellen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Judge General",
+   "b": "Viscount Gavoil",
+   "loai": "cap_tren",
+   "mo_ta": "Judge General khiển trách Viscount vì đã ngắt lời.",
+   "cach_goi": "gọi tên Viscount, thô lỗ"
+  },
+  {
+   "a": "Viscount Gavoil",
+   "b": "Judge General",
+   "loai": "cap_tren",
+   "mo_ta": "Viscount bị Judge General khiển trách.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Derrick có vẻ tức giận khi Penelope nói ra sự thật.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope quan sát phản ứng của Derrick.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Baron Tullett: bị tình nghi là kẻ ám sát hoàng gia.",
+  "Marquis Ellen: bị tình nghi liên quan đến vụ án ám sát."
+ ],
+ "stats": {
+  "tokens": 959,
+  "seconds": 28.7
+ }
+}

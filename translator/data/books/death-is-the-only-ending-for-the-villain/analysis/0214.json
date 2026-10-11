@@ -1,0 +1,78 @@
+{
+ "number": 214,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này mở đầu với cảnh Yvonne bị Derrick đâm và những lời lẽ điên cuồng của anh ta, phủ nhận sự thật rằng cô là em gái mình. Yvonne khẳng định đã thay thế 'Yvonne' thật và tiết lộ rằng cô đã lấy đi người em gái đó. Sau đó, một loạt các sự kiện hỗn loạn xảy ra, bao gồm Derrick bị tấn công bởi một kẻ bí ẩn và Yvonne trốn thoát trên một quái vật bay. Cuối cùng, Penelope nhận được một chiếc vòng cổ từ Derrick trước khi anh ta bị đưa đi, khiến cô nghi ngờ về những gì đang diễn ra.",
+ "boi_canh": "Trong khuôn viên trang viên Eckart, giữa một trận chiến hỗn loạn.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Yvonne",
+  "Emily",
+  "Reynold",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Yvonne bị Derrick đâm.",
+  "Derrick phủ nhận Yvonne là em gái mình và tấn công cô bằng lời nói.",
+  "Một cuộc tấn công bí ẩn khiến Derrick bị thương.",
+  "Yvonne trốn thoát trên một quái vật bay.",
+  "Derrick trao cho Penelope một chiếc vòng cổ trước khi bị đưa đi."
+ ],
+ "quan_he": [
+  {
+   "a": "Derrick",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Derrick tấn công Yvonne bằng lời nói và vũ khí sau khi đâm cô ấy.",
+   "cach_goi": "gọi tên, lạnh lùng"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Derrick",
+   "loai": "ke_thu",
+   "mo_ta": "Yvonne chế nhạo Derrick và tiết lộ những bí mật đen tối về quá khứ của anh ta.",
+   "cach_goi": "gọi tên, trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope chứng kiến sự kiện từ xa, cảm thấy tội lỗi và bối rối.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Reynold an ủi Penelope sau khi chứng kiến những sự kiện hỗn loạn.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Derrick trao cho Penelope một món đồ trước khi bị đưa đi, có vẻ như là một lời cảnh báo.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Penelope",
+   "loai": "ke_thu",
+   "mo_ta": "Yvonne chế nhạo Penelope và đe dọa cô, sử dụng những lời nói cay nghiệt.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Emily được nhắc đến trong suy nghĩ của Penelope, gợi ý một bí mật tiềm ẩn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 746,
+  "seconds": 22.5
+ }
+}

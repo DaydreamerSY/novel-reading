@@ -1,0 +1,95 @@
+{
+ "number": 173,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Yvonne trở về, Công tước Eckart nổi giận dữ vì một sự cố nào đó liên quan đến Penelope. Ông ta tiết lộ những quyết định trước đây và bày tỏ sự thất vọng với Derrick. Sau đó, một vụ ngộ độc xảy ra với Penelope, khiến mọi thứ trở nên nghiêm trọng hơn. Derrick bắt đầu có những biểu hiện bất thường trong trí nhớ và cảm xúc của mình.",
+ "boi_canh": "Trong phòng làm việc của Công tước Eckart, vào thời điểm các đại diện của Hoàng đế và Thái tử đang có mặt.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Yvonne",
+  "Becky",
+  "Ellen",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Công tước Eckart tức giận vì một sự cố liên quan đến Penelope.",
+  "Derrick có những lời lẽ chỉ trích Yvonne và Penelope.",
+  "Penelope bị ngộ độc và xuất huyết.",
+  "Derrick bắt đầu mất trí nhớ và có biểu hiện bất thường.",
+  "Công tước Eckart ra lệnh cho Derrick không được tham gia điều tra vụ án."
+ ],
+ "quan_he": [
+  {
+   "a": "Công tước Eckart",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "cha con, Công tước thất vọng với Derrick.",
+   "cach_goi": "gọi tên Derrick, lạnh lùng"
+  },
+  {
+   "a": "Derrick",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "con trai, Derrick có vẻ bất mãn với cha.",
+   "cach_goi": "gọi tên cha, không rõ cảm xúc"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "thượng cấp, Công tước tức giận Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "không quen biết, Derrick có vẻ không thích Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "cha con, Công tước có vẻ lo lắng cho Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "anh em, Derrick có vẻ không thích Yvonne.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "cha con, Công tước có vẻ không hài lòng với Reynold.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Becky",
+   "loai": "nguoi_la",
+   "mo_ta": "không quen biết, Becky bị bắt giam.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "không quen biết, Công tước nhắc đến Hầu tước Ellen.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Yvonne được xác định là con gái thất lạc của Công tước Eckart."
+ ],
+ "stats": {
+  "tokens": 997,
+  "seconds": 29.9
+ }
+}

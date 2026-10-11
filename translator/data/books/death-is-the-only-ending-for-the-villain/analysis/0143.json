@@ -1,0 +1,64 @@
+{
+ "number": 143,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope bị Thái tử Callisto Regulus kéo vào một điệu nhảy kỳ lạ sau khi anh ta trêu chọc cô ấy. Sự việc gây ra sự chú ý của nhiều quý tộc và khiến Penelope bối rối. Sau đó, Thái tử đuổi theo cô đến hiên nhà để tiếp tục trò chuyện, bất chấp nỗ lực trốn tránh của cô.",
+ "boi_canh": "Một buổi tiệc sinh nhật tại một nơi không xác định.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick"
+ ],
+ "su_kien": [
+  "Thái tử Callisto Regulus trêu chọc Penelope và kéo cô vào một điệu nhảy.",
+  "Các quý tộc bắt đầu chú ý đến Thái tử và Penelope.",
+  "Penelope cố gắng trốn tránh Thái tử.",
+  "Thái tử đuổi theo Penelope lên hiên nhà.",
+  "Một nhiệm vụ [On this Burning Night, Dancing with You] được hoàn thành, tăng Favorability với Callisto và Fame."
+ ],
+ "quan_he": [
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Thái tử trêu chọc và khiêu khích Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope cố gắng tránh xa Thái tử.",
+   "cach_goi": "gọi tên Callisto, lạnh lùng"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope, quan sát sự tương tác giữa cô và Callisto.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Thái tử khiêu khích và bắt Penelope nhảy cùng anh ta.",
+   "cach_goi": "gọi tên Penelope, trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope phản ứng lại sự khiêu khích của Thái tử.",
+   "cach_goi": "gọi tên Callisto, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus",
+  "Derrick: Con trưởng nhà Công tước Eckart, anh trai nuôi của Penelope"
+ ],
+ "stats": {
+  "tokens": 684,
+  "seconds": 20.6
+ }
+}

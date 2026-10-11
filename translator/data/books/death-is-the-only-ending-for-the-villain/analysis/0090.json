@@ -1,0 +1,123 @@
+{
+ "number": 90,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi một nhóm người gây rối tại buổi tiệc trà bằng cách chế giễu Penelope, cô đã bị buộc tội tấn công bằng cung tên. Tuy nhiên, Penelope đã phản bác lại bằng chứng và lời khai của những người khác, vạch trần sự thật đằng sau hành động của họ. Cuối cùng, để giải quyết những nghi ngờ về mối quan hệ bí mật với Hoàng tử, Penelope đã phải thú nhận một cách miễn cưỡng, gây sốc cho mọi người.",
+ "boi_canh": "Buổi tiệc trà ồn ào, căng thẳng.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Ellen",
+  "Countess Dorothea",
+  "Lady Kellin",
+  "Baron Tullet",
+  "Judge general",
+  "Viscount Gavoil",
+  "Marquis Ellen"
+ ],
+ "su_kien": [
+  "Một nhóm người gây rối buổi tiệc trà bằng cách chế giễu Penelope.",
+  "Penelope bị buộc tội tấn công bằng cung tên.",
+  "Derrick biện hộ cho Penelope.",
+  "Penelope phản bác lại bằng chứng và lời khai của những người khác.",
+  "Penelope thú nhận có tình cảm với Hoàng tử, gây sốc cho mọi người."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope, bảo vệ cô.",
+   "cach_goi": "gọi tên Derrick, thân mật"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi của Penelope, bảo vệ cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Countess Dorothea",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Penelope, cố gắng bẽ mặt cô.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Countess Dorothea",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Penelope, cố gắng bẽ mặt cô.",
+   "cach_goi": "gọi tên Countess Dorothea, trịch thượng"
+  },
+  {
+   "a": "Lady Kellin",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Penelope, cố gắng hãm hại cô.",
+   "cach_goi": "gọi tên Penelope, thô lỗ"
+  },
+  {
+   "a": "Penelope",
+   "b": "Lady Kellin",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Penelope, cố gắng hãm hại cô.",
+   "cach_goi": "gọi tên Lady Kellin, lạnh lùng"
+  },
+  {
+   "a": "Judge general",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Người điều hành phiên tòa, giữ trật tự.",
+   "cach_goi": "gọi 'Princess Eckart', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Judge general",
+   "loai": "cap_tren",
+   "mo_ta": "Người điều hành phiên tòa, giữ trật tự.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Viscount Gavoil",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Penelope, cố gắng đổ lỗi cho cô.",
+   "cach_goi": "gọi tên Penelope, thô lỗ"
+  },
+  {
+   "a": "Penelope",
+   "b": "Viscount Gavoil",
+   "loai": "doi_thu",
+   "mo_ta": "Đối thủ của Penelope, cố gắng đổ lỗi cho cô.",
+   "cach_goi": "gọi tên Viscount Gavoil, lạnh lùng"
+  },
+  {
+   "a": "Marquis Ellen",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marquis Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 1267,
+  "seconds": 37.8
+ }
+}

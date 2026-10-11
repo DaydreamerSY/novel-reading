@@ -1,0 +1,56 @@
+{
+ "number": 126,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope và Vinter tiếp tục hành trình vào hang động, nơi có những dấu hiệu của sự hiện diện của tàn dư Leila. Trong quá trình này, Penelope phát hiện ra một số thông tin đáng lo ngại về kế hoạch của tàn dư Leila và vai trò của Vinter trong cuộc chiến chống lại họ. Bất ngờ, Vinter bị tách khỏi Penelope và biến mất trong bóng tối, khiến cô rơi vào tình trạng nguy hiểm khi đối mặt với những sinh vật kỳ lạ.",
+ "boi_canh": "Bên trong một hang động tối tăm, ẩm ướt, trên đường đến căn cứ của tàn dư Leila.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "Raon"
+ ],
+ "su_kien": [
+  "Vinter đưa cho Penelope một đôi giày lớn để bảo vệ chân cô.",
+  "Penelope và Vinter đi vào hang động có cầu thang dẫn xuống dưới lòng đất.",
+  "Penelope hỏi về kế hoạch của tàn dư Leila, và Vinter tiết lộ rằng họ đang sử dụng mana của trẻ em để thực hiện nghi lễ phục hồi Leila.",
+  "Vinter bị tách khỏi Penelope trong bóng tối.",
+  "Một nhiệm vụ bất ngờ xuất hiện, yêu cầu Penelope tiêu diệt [Maemul] và tìm kiếm Raon."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là cấp dưới của Vinter, nhưng có vẻ đang nghi ngờ và đặt câu hỏi về hành động của ông.",
+   "cach_goi": "gọi tên Vinter, không rõ cảm xúc"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Vinter cố gắng bảo vệ Penelope nhưng cũng có vẻ như đang che giấu điều gì đó.",
+   "cach_goi": "gọi tên Penelope, thân mật pha lẫn trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Penelope quan tâm đến Raon nhưng không có cơ hội tương tác trực tiếp với cậu bé trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Vinter đang tìm kiếm Raon.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Vinter: Hầu tước Vinter Verdandi, pháp sư"
+ ],
+ "stats": {
+  "tokens": 666,
+  "seconds": 19.9
+ }
+}

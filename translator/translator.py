@@ -13,7 +13,7 @@ import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from common import ROOT, chapter_path, fmt_duration, read_json, safe_name, write_json
+from common import chapter_path, fmt_duration, read_json, safe_name, write_json
 from context import StoryContext
 from pronouns import fix_self
 from pronouns import issues as xh_issues
@@ -161,7 +161,7 @@ class Translator:
         self.max_paras = int(tr["chunk_paragraphs"])
         self.context_n = int(tr["context_paragraphs"])
         self.retries = int(tr["max_retries"])
-        self.glossary = Glossary(ROOT / "glossary.yaml")
+        self.glossary = Glossary(paths.glossary)
         self.hero = (cfg.get("book") or {}).get("protagonist", "")  # the first-person narrator, always "in" a scene
         self.story = StoryContext(paths, self.glossary, self.hero)
         self._packs = {}  # chapter -> its context block, sent first so every chunk of a chapter shares a prefix
@@ -173,7 +173,7 @@ class Translator:
         self._speaker_llm = None
         self.speaker_system = SPEAKER_RULES.format(
             narrator=f'Most chapters are narrated in the first person: "I" is {self.hero}.\n' if self.hero else "")
-        style_file = ROOT / "style.md"
+        style_file = paths.style
         style = ""
         if style_file.exists():
             style = "\n".join(line for line in style_file.read_text(encoding="utf-8").splitlines()

@@ -14,7 +14,10 @@ translator/glossary.yaml.bak*
 # scraped English source: kept locally, not published
 translator/data/en/
 translator/data/en_novelight/
+translator/data/novelight/
 translator/data/novellunar/
+translator/data/books/*/en/
 
 # translations embed the English source line by line: never publish
 translator/data/vi/
+translator/data/books/*/vi/

@@ -1,0 +1,57 @@
+{
+ "number": 42,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nhớ lại quá khứ nghèo khó, Penelope quyết định đi dạo để xua tan những suy nghĩ tiêu cực. Trong lúc đó, cô tình cờ gặp quản gia và được thông báo về việc ông đã dọn dẹp gác mái theo chỉ đạo của Công tước. Sau khi biết tin Donna bị đuổi việc vì tội lạm dụng Penelope, cô quyết định đi lên gác mái để tận hưởng không gian riêng tư, nơi mà trước đây bị cấm cô đến.",
+ "boi_canh": "Penelope đang trên đường đi dạo trong lâu đài vào một buổi chiều muộn.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Emily",
+  "Quản gia"
+ ],
+ "su_kien": [
+  "Penelope hồi tưởng về quá khứ nghèo khó của mình.",
+  "Cô gặp quản gia trên đường đi dạo và được thông báo về việc dọn dẹp gác mái.",
+  "Donna bị đuổi việc vì lạm dụng Penelope.",
+  "Penelope quyết định lên gác mái, nơi trước đây cô bị cấm đến.",
+  "Cô nhìn ra ngoài cửa sổ gác mái và suy ngẫm về quá khứ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Quản gia",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope gặp quản gia trên đường đi, không quen biết rõ ràng.",
+   "cach_goi": "gọi 'Lady', lễ phép"
+  },
+  {
+   "a": "Quản gia",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Quản gia gặp Penelope trên đường đi, không quen biết rõ ràng.",
+   "cach_goi": "gọi 'Lady Penelope', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, mối quan hệ bạn bè.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Hầu gái riêng, mối quan hệ bạn bè.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Donna: người hầu bị Công tước đuổi việc vì lạm dụng Penelope."
+ ],
+ "stats": {
+  "tokens": 627,
+  "seconds": 19.7
+ }
+}

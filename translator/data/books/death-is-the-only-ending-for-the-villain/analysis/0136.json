@@ -1,0 +1,73 @@
+{
+ "number": 136,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope lo lắng khi người hầu báo Eckles không trở về sau buổi học kiếm với Sir Spencer. Nghi ngờ anh ta bỏ trốn, cô cố gắng trấn an bản thân và nhờ người tìm kiếm. Sau một ngày đầy lo lắng, cuối cùng Eckles cũng quay lại, nhưng vẻ ngoài mệt mỏi và có vẻ như đã trải qua điều gì đó. Anh giải thích rằng mình gặp gỡ những người đồng hương cũ là nô lệ.",
+ "boi_canh": "Trong phòng ngủ của Penelope tại lâu đài, vào một buổi sáng sớm khi người hầu báo tin Eckles mất tích.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "Emily",
+  "Eckles",
+  "Derrick",
+  "Butler"
+ ],
+ "su_kien": [
+  "Người hầu báo Eckles không trở về sau buổi học kiếm.",
+  "Penelope nghi ngờ Eckles bỏ trốn.",
+  "Penelope yêu cầu tìm kiếm Eckles và triệu tập các pháp sư gia tộc.",
+  "Eckles quay lại, vẻ ngoài mệt mỏi.",
+  "Eckles giải thích rằng anh ta gặp những người đồng hương cũ là nô lệ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "gọi tên Vinter, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "ban_be",
+   "mo_ta": "Người hầu riêng của Penelope, phục tùng và quan tâm đến cô.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "chu_to",
+   "mo_ta": "Penelope là chủ nhân của Eckles, mối quan hệ phức tạp và đầy lo lắng.",
+   "cach_goi": "gọi tên Eckles, thân mật nhưng có chút căng thẳng"
+  },
+  {
+   "a": "Butler",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Người hầu trung thành, báo cáo tình hình và tuân theo mệnh lệnh của Penelope.",
+   "cach_goi": "gọi 'miss', lễ phép"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "chu_to",
+   "mo_ta": "Người hầu của Penelope, tỏ ra kính trọng nhưng có vẻ đang che giấu điều gì đó.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Butler",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Nô lệ được Penelope mua về, sau đó trở thành hiệp sĩ hộ vệ của cô."
+ ],
+ "stats": {
+  "tokens": 797,
+  "seconds": 23.9
+ }
+}

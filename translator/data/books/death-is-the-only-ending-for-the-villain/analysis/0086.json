@@ -1,0 +1,56 @@
+{
+ "number": 86,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong chương này, Penelope và Thái tử Callisto khám phá một hang động cổ chứa những cuộn giấy cổ xưa liên quan đến một nền văn minh đã mất tên là Balta. Họ sử dụng một cuộn giấy phép dịch chuyển bằng ma thuật cổ đại để thoát khỏi rừng, nhưng sau đó Thái tử Callisto đột ngột bị bệnh nặng và Penelope phải chạy đi tìm kiếm sự giúp đỡ, bị bắt giữ ngay sau đó với cáo buộc âm mưu giết người.",
+ "boi_canh": "Trong một hang động cổ trong khu vực săn bắn nhỏ.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto"
+ ],
+ "su_kien": [
+  "Penelope và Callisto tìm thấy cuộn giấy cổ xưa mô tả về nền văn minh Balta.",
+  "Họ sử dụng cuộn giấy phép dịch chuyển bằng ma thuật để thoát khỏi rừng.",
+  "Thái tử Callisto đột ngột bị bệnh nặng sau khi dịch chuyển.",
+  "Penelope chạy đi tìm kiếm sự giúp đỡ cho Callisto.",
+  "Penelope bị bắt giữ với cáo buộc âm mưu giết người."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là công chúa, Callisto là thái tử. Penelope giúp đỡ và bảo vệ Callisto.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto là thái tử, Penelope là công chúa. Callisto tỏ ra ngạc nhiên và tò mò về khả năng của Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope lo lắng cho sức khỏe của Callisto.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Callisto cảm thấy khó chịu khi bị Penelope chăm sóc.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Cuộn giấy cổ xưa: chứa thông tin về nền văn minh Balta đã mất.",
+  "Spell: Yetta Du Ddasi Ppasi - là bùa phép dịch chuyển bằng ma thuật cổ đại."
+ ],
+ "stats": {
+  "tokens": 652,
+  "seconds": 19.4
+ }
+}

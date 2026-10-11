@@ -1,0 +1,90 @@
+{
+ "number": 217,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Thái tử Callisto nhận được sự hỗ trợ từ Công tước Eckart để đối phó với cuộc nổi loạn, Penelope lo lắng về an toàn của Yvonne và những con tin. Cô ấy cố gắng đi cùng Callisto nhưng bị ngăn cản. Sau đó, Penelope phát hiện ra một mối liên hệ đáng báo động giữa Yvonne và mảnh gương vỡ từ 'Gương Chân lý', dẫn đến nghi ngờ rằng Yvonne đang tìm kiếm các mảnh khác để giải phong ấn của Leila. Cô quyết định phải tìm gặp Hầu tước Vinter ngay lập tức.",
+ "boi_canh": "Trong phòng làm việc của Công tước Eckart, vào buổi sáng khi cuộc nổi loạn đang diễn ra.",
+ "nhan_vat": [
+  "Callisto",
+  "Reynold",
+  "Vinter",
+  "Yvonne",
+  "Cedric",
+  "Ellen",
+  "Penelope",
+  "Jean"
+ ],
+ "su_kien": [
+  "Công tước Eckart tuyên bố sẽ hỗ trợ Thái tử Callisto.",
+  "Thái tử Callisto và Công tước Eckart thảo luận về quá khứ của Hầu tước Ellen.",
+  "Penelope cố gắng đi cùng Thái tử Callisto đến cung điện.",
+  "Penelope phát hiện ra mối liên hệ giữa Yvonne và mảnh gương vỡ.",
+  "Penelope quyết định tìm gặp Hầu tước Vinter."
+ ],
+ "quan_he": [
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Thái tử Callisto ngăn cản Penelope đi cùng ông và bảo vệ cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Penelope cố gắng đi cùng Thái tử và bày tỏ lo lắng.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Thái tử và Công tước có mối quan hệ cha con, vừa tôn trọng vừa ngạc nhiên.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Eckart",
+   "b": "Callisto",
+   "loai": "gia_dinh",
+   "mo_ta": "Công tước và Thái tử có mối quan hệ gia đình, vừa tôn trọng vừa ngạc nhiên.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Hai người có vẻ là bạn bè, nhưng không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cedric",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Cedric là thuộc hạ của Callisto, không tương tác trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Jean",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Jean là một pháp sư và được Penelope yêu cầu giúp đỡ.",
+   "cach_goi": "gọi tên Penelope, lịch sự"
+  },
+  {
+   "a": "Penelope",
+   "b": "Jean",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope ra lệnh cho Jean sử dụng phép thuật.",
+   "cach_goi": "gọi tên Jean, lạnh lùng"
+  }
+ ],
+ "danh_tinh": [
+  "Yvonne: Được tiết lộ là có liên quan đến việc giải phong ấn của Leila.",
+  "Gương Chân lý: Một mảnh vỡ được Penelope tìm thấy, có thể liên quan đến Yvonne."
+ ],
+ "stats": {
+  "tokens": 1017,
+  "seconds": 30.5
+ }
+}

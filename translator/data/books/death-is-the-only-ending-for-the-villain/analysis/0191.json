@@ -1,0 +1,76 @@
+{
+ "number": 191,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope trốn khỏi dinh thự Công tước bằng cách sử dụng một lỗ hổng và tìm đến Hầu tước Vinter để lấy tiền mà cô đã cất giữ. Cô vô tình kích hoạt một nhiệm vụ ẩn trong game, dẫn đến việc cô bị cuốn vào một câu chuyện phức tạp liên quan đến Gương Chân lý và những bí mật về Leila.",
+ "boi_canh": "Bên trong dinh thự Công tước, vào ban đêm, Penelope tìm kiếm sự giúp đỡ từ Vinter.",
+ "nhan_vat": [
+  "Penelope",
+  "Emily",
+  "Derrick",
+  "Vinter",
+  "Yvonne",
+  "Eckles"
+ ],
+ "su_kien": [
+  "Penelope trốn khỏi dinh thự bằng cách sử dụng một lỗ hổng.",
+  "Cô gặp Vinter và yêu cầu anh ta trả lại tiền của cô.",
+  "Một nhiệm vụ ẩn được kích hoạt khi Penelope chấp nhận lời mời đến không gian bí mật của Vinter.",
+  "Vinter giải thích về Gương Chân lý và Leila.",
+  "Penelope biết được thông tin chi tiết về Gương Chân lý mà lẽ ra cô không nên biết."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Hầu gái riêng của Penelope, cung cấp quần áo cho cô.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Anh trai nuôi của Penelope; đã cho cô vòng tay phép thuật.",
+   "cach_goi": "gọi tên Derrick, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Hầu tước Vinter Verdandi; Penelope tìm kiếm sự giúp đỡ từ anh ta.",
+   "cach_goi": "gọi tên Vinter, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Hầu tước Vinter Verdandi; giúp đỡ và giải thích cho Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "doi_thu",
+   "mo_ta": "Con gái thất lạc của Công tước; Penelope lo sợ sự biến mất của tiền bạc.",
+   "cach_goi": "gọi tên Yvonne, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "ban_be",
+   "mo_ta": "Người Penelope đã mua về làm nô lệ; cô lo sợ bị phản bội.",
+   "cach_goi": "gọi tên Eckles, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Một trong các nam chính của game.",
+  "Derrick: Anh trai nuôi của Penelope; một trong các nam chính.",
+  "Vinter: Hầu tước Vinter Verdandi, pháp sư; một trong các nam chính.",
+  "Yvonne: Con gái ruột thất lạc của Công tước Eckart, nữ chính của chế độ thường (normal mode) trong game."
+ ],
+ "stats": {
+  "tokens": 874,
+  "seconds": 26.2
+ }
+}

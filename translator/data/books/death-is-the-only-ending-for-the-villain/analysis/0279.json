@@ -1,0 +1,86 @@
+{
+ "number": 279,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope tỉnh dậy trong một cơ thể khác, đối diện những người thân thiết tưởng chừng đã qua đời. Cô phủ nhận quá khứ và tuyên bố không còn là Cha Siyeon nữa, quyết định cắt đứt mọi liên hệ để tìm lại cuộc sống của mình cùng Callisto và Judith. Sau đó, cô trải qua một giấc mơ kỳ lạ về việc phải rời bỏ gia đình, nhưng cuối cùng được vỗ về bởi sự hiện diện của Callisto và Judith.",
+ "boi_canh": "Một căn phòng bệnh viện, thời điểm Penelope tỉnh dậy sau khi tưởng chừng đã chết.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Judith"
+ ],
+ "su_kien": [
+  "Penelope tỉnh dậy trong cơ thể của Cha Siyeon.",
+  "Cô phủ nhận thân phận và tuyên bố không còn là Cha Siyeon.",
+  "Callisto, Derrick và Reynold sốc trước lời nói của Penelope.",
+  "Penelope trải qua một giấc mơ kỳ lạ về việc phải rời bỏ gia đình.",
+  "Judith gọi Callisto là 'Servant Emperor'."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "yêu nhau, Penelope tìm được sự an ủi từ Callisto.",
+   "cach_goi": "gọi tên Callisto, không rõ tình cảm"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "yêu Penelope, bảo vệ và vỗ về cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "ban_be",
+   "mo_ta": "anh trai nuôi, mối quan hệ không rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "anh trai nuôi, mối quan hệ không rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "anh trai nuôi, mối quan hệ không rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "anh trai nuôi, mối quan hệ không rõ ràng.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Judith",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ con, Penelope yêu thương và bảo vệ Judith.",
+   "cach_goi": "gọi tên Judith, thân mật"
+  },
+  {
+   "a": "Judith",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "con gái, Judith yêu thương và tin tưởng Penelope.",
+   "cach_goi": "gọi 'Mom', thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope (trước đây là Cha Siyeon)"
+ ],
+ "stats": {
+  "tokens": 891,
+  "seconds": 26.8
+ }
+}

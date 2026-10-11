@@ -1,0 +1,64 @@
+{
+ "number": 197,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope và Thái tử Callisto khám phá một ngôi đền bí ẩn dưới lòng đất, nơi chứa đầy xương người và những vật báu. Họ tìm thấy một chiếc gương cổ xưa và Penelope kích hoạt một nhiệm vụ chính mới liên quan đến 'Gương Chân Lý', đưa cô vào một chuỗi sự kiện và tiết lộ thông tin về quá khứ của lục địa.",
+ "boi_canh": "Penelope và Thái tử Callisto đang ở bên trong một ngôi đền cổ xưa, dưới lòng đất trên một hòn đảo hoang vắng.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Penelope và Callisto đến trước một công trình kiến trúc kỳ lạ.",
+  "Họ khám phá một lối vào bí mật dẫn xuống lòng đất.",
+  "Penelope tìm thấy một kho báu chứa đầy xương người, dấu hiệu của những nạn nhân bị tra tấn.",
+  "Penelope kích hoạt nhiệm vụ chính mới thông qua 'Gương Chân Lý'.",
+  "Penelope bị đưa vào một không gian đen tối và chứng kiến cảnh nền tảng về quá khứ của lục địa."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope đi theo sau và lắng nghe mệnh lệnh của Thái tử.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử Callisto bảo vệ và ra lệnh cho Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử Callisto phàn nàn với Penelope.",
+   "cach_goi": "gọi tên Penelope, trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope cảm ơn Callisto.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus; một trong các nam chính của game.",
+  "Vinter: Hầu tước Vinter Verdandi, pháp sư; một trong các nam chính."
+ ],
+ "stats": {
+  "tokens": 710,
+  "seconds": 21.2
+ }
+}

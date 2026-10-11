@@ -1,0 +1,459 @@
+# BẢN NHÁP GLOSSARY: trích tự động từ 279 chương (chưa phân loại bằng model).
+# CẦN DUYỆT TAY: model có thể phân loại sai, đoán sai giới tính, gợi ý bản dịch chưa hay.
+# Dễ hơn: python novel.py edit  (công cụ chỉnh sửa trên trình duyệt, gom các mục trùng nhau).
+# - Cuối mỗi dòng: số lần xuất hiện, chương đầu-cuối; nhân vật có thêm số lần he/she đứng ngay sau tên.
+# - Mục nào để vi rỗng thì không được gửi cho model.
+
+kinh_ngu:  # kính ngữ: 7 mục
+  "Highness": "Điện hạ"  # 297 lần, ch60-274 | kính ngữ
+  "Lady": "tiểu thư / phu nhân (quý tộc)"  # 160 lần, ch9-260 | kính ngữ
+  "Master": "chủ nhân / sư phụ (tùy ngữ cảnh)"  # 67 lần, ch42-227 | kính ngữ
+  "Majesty": "Bệ hạ"  # 62 lần, ch60-279 | kính ngữ
+  "Miss": "cô / tiểu thư (quý tộc)"  # 44 lần, ch49-225 | kính ngữ
+  "Sir": "ngài / hiệp sĩ"  # 14 lần, ch90-257 | kính ngữ
+  "Mrs": "bà"  # 11 lần, ch40-122 | kính ngữ
+
+danh_hieu:  # danh hiệu: 14 mục
+  "Duke": "Công tước"  # 1100 lần, ch5-279 | chức danh
+  "Princess": "Công chúa"  # 237 lần, ch46-269 | chức danh
+  "Marquis": "Hầu tước"  # 151 lần, ch5-259 | chức danh
+  "Prince": "Hoàng tử"  # 64 lần, ch59-260 | chức danh
+  "Emperor": "Hoàng đế"  # 60 lần, ch60-276 | chức danh
+  "Countess": "Nữ bá tước / Bá tước phu nhân"  # 31 lần, ch40-109 | chức danh
+  "Empress": "Hoàng hậu / Nữ hoàng"  # 22 lần, ch60-279 | chức danh
+  "Baron": "Nam tước"  # 18 lần, ch82-109 | chức danh
+  "Count": "Bá tước"  # 16 lần, ch81-274 | chức danh
+  "Queen": "Nữ vương / Hoàng hậu"  # 14 lần, ch60-224 | chức danh
+  "Viscount": "Tử tước"  # 14 lần, ch89-92 | chức danh
+  "Captain": "đội trưởng"  # 5 lần, ch194-217 | chức danh
+  "Professor": "giáo sư"  # 5 lần, ch261-263 | chức danh
+  "Duchess": "Nữ công tước / Công tước phu nhân"  # 3 lần, ch102-214 | chức danh
+
+chua_phan_loai:  # chưa phân loại: 343 mục
+  "Eckles": ""  # 898 lần, ch5-272
+  "Yvonne": ""  # 879 lần, ch8-277
+  "Crown Prince": ""  # 798 lần, ch38-274
+  "Penelope": ""  # 791 lần, ch4-277
+  "Callisto": ""  # 717 lần, ch5-279
+  "Derrick": ""  # 662 lần, ch5-279
+  "Vinter": ""  # 601 lần, ch5-276
+  "Reynold": ""  # 547 lần, ch3-279
+  "Emily": ""  # 493 lần, ch7-250
+  "Eckart": ""  # 192 lần, ch1-279
+  "Leila": ""  # 190 lần, ch34-278
+  "Father": ""  # 163 lần, ch6-279
+  "Cedric": ""  # 158 lần, ch133-272
+  "Come": ""  # 132 lần, ch5-279
+  "Raon": ""  # 114 lần, ch122-250
+  "Marienne": ""  # 110 lần, ch233-271
+  "SYSTEM": ""  # 98 lần, ch20-230
+  "God": ""  # 96 lần, ch41-278
+  "Imperial Palace": ""  # 91 lần, ch78-274
+  "Penelope Eckart": ""  # 82 lần, ch1-271
+  "Favorability": ""  # 81 lần, ch44-178
+  "Ellen": ""  # 69 lần, ch60-250
+  "Empire": ""  # 68 lần, ch48-275
+  "Someone": ""  # 64 lần, ch7-279
+  "Stop": ""  # 60 lần, ch8-277
+  "Go": ""  # 53 lần, ch14-263
+  "Kellin": ""  # 51 lần, ch40-107
+  "ML": ""  # 49 lần, ch41-229
+  "Jean": ""  # 45 lần, ch217-271
+  "Look": ""  # 41 lần, ch8-278
+  "Delman": ""  # 36 lần, ch55-267
+  "Judith": ""  # 36 lần, ch274-279
+  "N": ""  # 36 lần, ch1-272
+  "Everything": ""  # 35 lần, ch1-244
+  "Young Duke": ""  # 35 lần, ch115-215
+  "Mirror of Truth": ""  # 34 lần, ch190-246
+  "Butler": ""  # 31 lần, ch3-273
+  "Everyone": ""  # 31 lần, ch8-274
+  "Arkina Islands": ""  # 30 lần, ch95-260
+  "Brother": ""  # 30 lần, ch7-278
+  "Dukedom": ""  # 30 lần, ch44-231
+  "Reject": ""  # 30 lần, ch18-230
+  "FL": ""  # 28 lần, ch38-167
+  "Vinter Verdandi": ""  # 28 lần, ch5-253
+  "Bobby": ""  # 27 lần, ch262-264
+  "Dorothea": ""  # 27 lần, ch67-110
+  "X": ""  # 27 lần, ch5-229
+  "Siyeon": ""  # 25 lần, ch278-279
+  "Fame": ""  # 24 lần, ch9-169
+  "Soleil": ""  # 24 lần, ch125-219
+  "Am I": ""  # 21 lần, ch33-265
+  "Marquis of Verdandi": ""  # 21 lần, ch68-253
+  "Tratan": ""  # 21 lần, ch121-234
+  "Young": ""  # 20 lần, ch3-252
+  "Ack": ""  # 19 lần, ch2-76
+  "Pennel": ""  # 19 lần, ch8-212
+  "Becky": ""  # 18 lần, ch154-211
+  "Lady Penelope": ""  # 18 lần, ch16-209
+  "Little Duke": ""  # 18 lần, ch45-98
+  "Tullet": ""  # 18 lần, ch82-109
+  "Wh": ""  # 18 lần, ch13-273
+  "Wha": ""  # 18 lần, ch35-229
+  "MLs": ""  # 17 lần, ch63-101
+  "Duke of Eckart": ""  # 16 lần, ch44-256
+  "Magic": ""  # 16 lần, ch48-237
+  "Whatever": ""  # 16 lần, ch29-247
+  "[Yes. / No.]": ""  # 16 lần, ch6-230
+  "Balta": ""  # 15 lần, ch86-205
+  "Crown Princess": ""  # 15 lần, ch162-258
+  "Hyuk": ""  # 15 lần, ch59-274
+  "[Accept / Reject]": ""  # 15 lần, ch18-230
+  "Ck": ""  # 14 lần, ch53-103
+  "Sun Palace": ""  # 14 lần, ch216-276
+  "Verdandi": ""  # 14 lần, ch64-275
+  "[Yes.]": ""  # 14 lần, ch6-230
+  "Duchy": ""  # 13 lần, ch155-231
+  "Ehm": ""  # 13 lần, ch52-99
+  "Fire Pisson": ""  # 13 lần, ch127-264
+  "Gavoil": ""  # 13 lần, ch89-92
+  "Goddess": ""  # 13 lần, ch87-223
+  "Normal Mode": ""  # 13 lần, ch38-239
+  "OFF": ""  # 13 lần, ch6-104
+  "Quest": ""  # 13 lần, ch18-230
+  "Tak-": ""  # 13 lần, ch7-257
+  "Argh": ""  # 12 lần, ch31-264
+  "Donna": ""  # 12 lần, ch40-106
+  "Golden Dragon": ""  # 12 lần, ch197-254
+  "Inca Empire": ""  # 12 lần, ch40-233
+  "Leave": ""  # 12 lần, ch9-247
+  "Main Quest": ""  # 12 lần, ch60-190
+  "Maltban": ""  # 12 lần, ch261-271
+  "Mark": ""  # 12 lần, ch46-115
+  "Normal": ""  # 12 lần, ch40-264
+  "Tang": ""  # 12 lần, ch63-258
+  "Time": ""  # 12 lần, ch72-247
+  "Tsk": ""  # 12 lần, ch13-279
+  "Whenever": ""  # 12 lần, ch68-277
+  "[Accept]": ""  # 12 lần, ch63-230
+  "Coming": ""  # 11 lần, ch20-270
+  "Gasp": ""  # 11 lần, ch3-269
+  "Hm": ""  # 11 lần, ch14-245
+  "Hnowing": ""  # 11 lần, ch138-227
+  "Prisson": ""  # 11 lần, ch127-268
+  "Vince": ""  # 11 lần, ch118-169
+  "Whew": ""  # 11 lần, ch8-276
+  "Anyways": ""  # 10 lần, ch5-272
+  "Back": ""  # 10 lần, ch117-273
+  "Eckarts": ""  # 10 lần, ch13-273
+  "Judi": ""  # 10 lần, ch274-279
+  "Pardon": ""  # 10 lần, ch8-237
+  "Shall": ""  # 10 lần, ch16-279
+  "Somewhere": ""  # 10 lần, ch73-257
+  "Wizard": ""  # 10 lần, ch48-211
+  "Aris": ""  # 9 lần, ch70-72
+  "Call": ""  # 9 lần, ch45-263
+  "Chalkak": ""  # 9 lần, ch73-77
+  "Compensation": ""  # 9 lần, ch76-142
+  "Derrick Eckart": ""  # 9 lần, ch5-214
+  "Heep": ""  # 9 lần, ch164-254
+  "Palace": ""  # 9 lần, ch107-247
+  "Quang-": ""  # 9 lần, ch84-227
+  "Tak": ""  # 9 lần, ch7-257
+  "White Rabbit": ""  # 9 lần, ch29-161
+  "Aah": ""  # 8 lần, ch79-274
+  "Callisto Regulus": ""  # 8 lần, ch53-258
+  "Cedric Porter": ""  # 8 lần, ch133-232
+  "Check": ""  # 8 lần, ch90-158
+  "Cough": ""  # 8 lần, ch133-229
+  "Fire Pishon": ""  # 8 lần, ch194-195
+  "Hidden Quest": ""  # 8 lần, ch6-123
+  "Highness the Crown Prince": ""  # 8 lần, ch74-237
+  "Hnock": ""  # 8 lần, ch114-207
+  "Million Gold": ""  # 8 lần, ch101-169
+  "Phew": ""  # 8 lần, ch29-262
+  "Sword Master": ""  # 8 lần, ch45-117
+  "Ta-ang-": ""  # 8 lần, ch59-77
+  "Tch": ""  # 8 lần, ch195-242
+  "[2 million gold]": ""  # 8 lần, ch101-145
+  "Academy": ""  # 7 lần, ch233-261
+  "Amulet": ""  # 7 lần, ch49-74
+  "Awesome": ""  # 7 lần, ch6-269
+  "Chaeng": ""  # 7 lần, ch77-227
+  "Crown Prince Palace": ""  # 7 lần, ch234-247
+  "Hamilton": ""  # 7 lần, ch36-265
+  "Hellin": ""  # 7 lần, ch109-110
+  "Huck": ""  # 7 lần, ch54-226
+  "Hugh": ""  # 7 lần, ch177-229
+  "Imperial": ""  # 7 lần, ch107-279
+  "Judge": ""  # 7 lần, ch89-91
+  "Mom": ""  # 7 lần, ch275-279
+  "Royal Academy": ""  # 7 lần, ch233-246
+  "Several": ""  # 7 lần, ch46-228
+  "Terosi": ""  # 7 lần, ch233-247
+  "Thunderpirum": ""  # 7 lần, ch124-125
+  "Young Miss": ""  # 7 lần, ch250-250
+  "[You were abandoned.]": ""  # 7 lần, ch240-240
+  "Bbiyo": ""  # 6 lần, ch114-146
+  "Brothers": ""  # 6 lần, ch59-149
+  "Cha Siyeon": ""  # 6 lần, ch278-279
+  "Chaeng-": ""  # 6 lần, ch77-227
+  "Congratulations": ""  # 6 lần, ch98-183
+  "Early": ""  # 6 lần, ch94-264
+  "Emperor Palace": ""  # 6 lần, ch223-224
+  "Furthermore": ""  # 6 lần, ch83-207
+  "Grace": ""  # 6 lần, ch75-134
+  "Guards": ""  # 6 lần, ch62-161
+  "Hard": ""  # 6 lần, ch2-230
+  "Hard Mode": ""  # 6 lần, ch59-239
+  "Honor": ""  # 6 lần, ch90-92
+  "Imperial Family": ""  # 6 lần, ch78-200
+  "Jabbuck": ""  # 6 lần, ch157-176
+  "Listen": ""  # 6 lần, ch45-229
+  "Main": ""  # 6 lần, ch41-199
+  "Marquis of Ellen": ""  # 6 lần, ch60-224
+  "Miss Penelope": ""  # 6 lần, ch99-153
+  "Penny": ""  # 6 lần, ch33-279
+  "Pointing": ""  # 6 lần, ch51-251
+  "Pri": ""  # 6 lần, ch46-72
+  "Reynold Eckart": ""  # 6 lần, ch5-183
+  "Spencer": ""  # 6 lần, ch117-138
+  "Subtract": ""  # 6 lần, ch101-148
+  "Taak-": ""  # 6 lần, ch120-221
+  "Tadak": ""  # 6 lần, ch77-183
+  "W": ""  # 6 lần, ch13-26
+  "[Favorability 32%]": ""  # 6 lần, ch47-98
+  "Ahhh": ""  # 5 lần, ch77-213
+  "Arriving": ""  # 5 lần, ch46-269
+  "BGM": ""  # 5 lần, ch2-198
+  "Bbiyo-yo": ""  # 5 lần, ch146-146
+  "Chak": ""  # 5 lần, ch82-82
+  "Crown Prince of the Empire": ""  # 5 lần, ch79-169
+  "Dad": ""  # 5 lần, ch66-275
+  "Dekina": ""  # 5 lần, ch131-228
+  "Favorability-": ""  # 5 lần, ch44-69
+  "Hang-": ""  # 5 lần, ch158-229
+  "Heeeeeek-": ""  # 5 lần, ch213-213
+  "Hu": ""  # 5 lần, ch84-229
+  "Imperial Army": ""  # 5 lần, ch56-227
+  "Kyu": ""  # 5 lần, ch30-30
+  "Lacracio": ""  # 5 lần, ch190-190
+  "Lastly": ""  # 5 lần, ch90-275
+  "Leah": ""  # 5 lần, ch206-208
+  "Magic Circle": ""  # 5 lần, ch84-221
+  "Male": ""  # 5 lần, ch91-226
+  "Penelope-": ""  # 5 lần, ch63-206
+  "Princess Palace": ""  # 5 lần, ch274-275
+  "Puck": ""  # 5 lần, ch76-219
+  "Qoo": ""  # 5 lần, ch62-63
+  "Shout": ""  # 5 lần, ch6-195
+  "Tang-": ""  # 5 lần, ch77-259
+  "Uhh": ""  # 5 lần, ch3-204
+  "[Choices ON/OFF]": ""  # 5 lần, ch6-31
+  "[Interest 0%]": ""  # 5 lần, ch1-14
+  "Ancient Magic": ""  # 4 lần, ch199-212
+  "Arkina": ""  # 4 lần, ch193-203
+  "Brrr": ""  # 4 lần, ch202-238
+  "Bug": ""  # 4 lần, ch156-246
+  "Coming-of-Age Day": ""  # 4 lần, ch161-232
+  "Creak-": ""  # 4 lần, ch5-33
+  "Danger": ""  # 4 lần, ch60-189
+  "Decline": ""  # 4 lần, ch63-125
+  "Delmans": ""  # 4 lần, ch137-267
+  "Division": ""  # 4 lần, ch46-208
+  "Dragon": ""  # 4 lần, ch225-228
+  "Fa": ""  # 4 lần, ch6-273
+  "Flapopinho": ""  # 4 lần, ch98-115
+  "Gold": ""  # 4 lần, ch79-133
+  "Hahh": ""  # 4 lần, ch5-27
+  "Hidden Route": ""  # 4 lần, ch177-177
+  "Hunting": ""  # 4 lần, ch69-168
+  "MAIN QUEST": ""  # 4 lần, ch121-230
+  "Mana": ""  # 4 lần, ch83-264
+  "Maze Garden": ""  # 4 lần, ch13-14
+  "North": ""  # 4 lần, ch31-217
+  "Northeast": ""  # 4 lần, ch267-270
+  "Ooh": ""  # 4 lần, ch2-250
+  "Paul": ""  # 4 lần, ch206-208
+  "Piratio": ""  # 4 lần, ch124-218
+  "Quuu": ""  # 4 lần, ch60-63
+  "Refuse": ""  # 4 lần, ch121-131
+  "Soleil Island": ""  # 4 lần, ch150-234
+  "Taang-": ""  # 4 lần, ch63-73
+  "Tuk": ""  # 4 lần, ch45-216
+  "Unexpected": ""  # 4 lần, ch38-190
+  "Whoo": ""  # 4 lần, ch83-279
+  "Whoo-hoo-ooh-ooh-ooh-ooh-ooh": ""  # 4 lần, ch82-225
+  "Whoosh-": ""  # 4 lần, ch17-30
+  "[Accept / Refuse]": ""  # 4 lần, ch121-131
+  "[Fame +50]": ""  # 4 lần, ch63-143
+  "[Favorability 22%]": ""  # 4 lần, ch54-89
+  "[Favorability 27%]": ""  # 4 lần, ch63-93
+  "[Favorability 29%]": ""  # 4 lần, ch69-93
+  "[Hidden Ending]": ""  # 4 lần, ch198-230
+  "[Interest 6%]": ""  # 4 lần, ch12-34
+  "[accept]": ""  # 4 lần, ch83-142
+  "[reward]": ""  # 4 lần, ch230-230
+  "Ahem": ""  # 3 lần, ch233-247
+  "Ahhh-": ""  # 3 lần, ch194-254
+  "Ahhhhh": ""  # 3 lần, ch132-185
+  "Assassin": ""  # 3 lần, ch76-90
+  "Assassination": ""  # 3 lần, ch77-91
+  "Baby": ""  # 3 lần, ch167-212
+  "Breathe": ""  # 3 lần, ch55-201
+  "Brrrrr": ""  # 3 lần, ch238-240
+  "But-": ""  # 3 lần, ch50-183
+  "Cabana": ""  # 3 lần, ch57-87
+  "Chae-ing-": ""  # 3 lần, ch77-227
+  "Clack": ""  # 3 lần, ch7-239
+  "Cough-": ""  # 3 lần, ch171-190
+  "D-": ""  # 3 lần, ch154-161
+  "Diamond": ""  # 3 lần, ch109-120
+  "East Hill": ""  # 3 lần, ch37-42
+  "Favourability": ""  # 3 lần, ch112-158
+  "Fire Pison": ""  # 3 lần, ch127-127
+  "Flop-": ""  # 3 lần, ch19-47
+  "Garboil": ""  # 3 lần, ch89-92
+  "Gee": ""  # 3 lần, ch112-168
+  "Gloria": ""  # 3 lần, ch87-87
+  "Guard": ""  # 3 lần, ch92-216
+  "Gwang-": ""  # 3 lần, ch173-221
+  "Haaa": ""  # 3 lần, ch74-185
+  "Hamilton Street": ""  # 3 lần, ch120-135
+  "Hick": ""  # 3 lần, ch121-258
+  "Hnights": ""  # 3 lần, ch113-115
+  "Hong": ""  # 3 lần, ch211-221
+  "Hooray": ""  # 3 lần, ch203-260
+  "Hraken": ""  # 3 lần, ch194-194
+  "Hwak": ""  # 3 lần, ch143-143
+  "Korean": ""  # 3 lần, ch8-277
+  "Layla": ""  # 3 lần, ch87-260
+  "Leila New Hingdom": ""  # 3 lần, ch130-261
+  "Likes": ""  # 3 lần, ch102-141
+  "Magudo": ""  # 3 lần, ch263-263
+  "Mark Albert": ""  # 3 lần, ch46-220
+  "Mas": ""  # 3 lần, ch27-184
+  "Mirror Wand of Truth": ""  # 3 lần, ch199-205
+  "Mother": ""  # 3 lần, ch224-279
+  "Office": ""  # 3 lần, ch51-208
+  "Ow": ""  # 3 lần, ch194-236
+  "Pa": ""  # 3 lần, ch53-195
+  "Penalty": ""  # 3 lần, ch170-170
+  "Priboux": ""  # 3 lần, ch151-154
+  "Princess-": ""  # 3 lần, ch197-204
+  "Ra": ""  # 3 lần, ch124-134
+  "Recognizing": ""  # 3 lần, ch88-216
+  "Reflectively": ""  # 3 lần, ch39-222
+  "Reina": ""  # 3 lần, ch9-9
+  "Royal Family": ""  # 3 lần, ch144-184
+  "Royal Highness the Crown Prince": ""  # 3 lần, ch169-258
+  "START": ""  # 3 lần, ch73-194
+  "Scroll": ""  # 3 lần, ch86-267
+  "Secretary of State": ""  # 3 lần, ch45-56
+  "Setina": ""  # 3 lần, ch62-70
+  "Slap": ""  # 3 lần, ch121-279
+  "Sorcerer Help": ""  # 3 lần, ch35-36
+  "Sword": ""  # 3 lần, ch45-158
+  "Ta-ak": ""  # 3 lần, ch73-187
+  "Tullett": ""  # 3 lần, ch89-92
+  "Ughh": ""  # 3 lần, ch152-210
+  "Uhhh": ""  # 3 lần, ch134-225
+  "Unng": ""  # 3 lần, ch274-276
+  "Urgh": ""  # 3 lần, ch3-21
+  "VIP": ""  # 3 lần, ch20-92
+  "Whoo-ooh-ooh-ooh-ooh-ooh": ""  # 3 lần, ch82-83
+  "Wind Prashon": ""  # 3 lần, ch194-195
+  "Yala Bula Artino": ""  # 3 lần, ch196-202
+  "[10 million gold]": ""  # 3 lần, ch114-137
+  "[2 million gold / 200 fame]": ""  # 3 lần, ch141-145
+  "[??]": ""  # 3 lần, ch72-127
+  "[Accept / Decline]": ""  # 3 lần, ch63-91
+  "[Accept/Reject]": ""  # 3 lần, ch141-142
+  "[Dance Application]": ""  # 3 lần, ch141-142
+  "[Date At The Festival]": ""  # 3 lần, ch18-25
+  "[Favorability 25%]": ""  # 3 lần, ch58-77
+  "[Favorability 26%]": ""  # 3 lần, ch59-89
+  "[Favorability 44%]": ""  # 3 lần, ch55-98
+  "[GAME OVER]": ""  # 3 lần, ch177-177
+  "[Interest 13%]": ""  # 3 lần, ch34-37
+  "[Interest 3%]": ""  # 3 lần, ch11-33
+  "[Interest 8%]": ""  # 3 lần, ch17-34
+  "[The Sorcerer’s Help 1 use]": ""  # 3 lần, ch35-36
+  "[Who is the real villain?]": ""  # 3 lần, ch198-230
+  "[refuse]": ""  # 3 lần, ch61-83
+
+xung_ho:
+  # Các cặp nhân vật hay cùng xuất hiện trong cảnh có hội thoại, nhiều nhất trước.
+  # Bỏ dấu # và điền "tự xưng / gọi". Quan hệ thay đổi theo thời gian: dùng khoảng chương (xem glossary.yaml).
+  # "Callisto > Crown Prince": ""    # 183 cảnh chung, từ ch53
+  # "Crown Prince > Callisto": ""
+  # "Derrick > Penelope": ""    # 156 cảnh chung, từ ch5
+  # "Penelope > Derrick": ""
+  # "Eckart > Penelope": ""    # 148 cảnh chung, từ ch1
+  # "Penelope > Eckart": ""
+  # "Penelope > Yvonne": ""    # 133 cảnh chung, từ ch8
+  # "Yvonne > Penelope": ""
+  # "Derrick > Reynold": ""    # 127 cảnh chung, từ ch5
+  # "Reynold > Derrick": ""
+  # "Penelope > Reynold": ""    # 123 cảnh chung, từ ch5
+  # "Reynold > Penelope": ""
+  # "Crown Prince > Penelope": ""    # 99 cảnh chung, từ ch38
+  # "Penelope > Crown Prince": ""
+  # "Eckles > Penelope": ""    # 92 cảnh chung, từ ch5
+  # "Penelope > Eckles": ""
+  # "Derrick > Eckart": ""    # 87 cảnh chung, từ ch5
+  # "Eckart > Derrick": ""
+  # "Callisto > Penelope": ""    # 84 cảnh chung, từ ch5
+  # "Penelope > Callisto": ""
+  # "Crown Prince > Eckart": ""    # 81 cảnh chung, từ ch40
+  # "Eckart > Crown Prince": ""
+  # "Vinter > Yvonne": ""    # 77 cảnh chung, từ ch123
+  # "Yvonne > Vinter": ""
+  # "Callisto > Eckart": ""    # 76 cảnh chung, từ ch38
+  # "Eckart > Callisto": ""
+  # "Penelope > Vinter": ""    # 74 cảnh chung, từ ch5
+  # "Vinter > Penelope": ""
+  # "Derrick > Yvonne": ""    # 74 cảnh chung, từ ch82
+  # "Yvonne > Derrick": ""
+  # "Father > Penelope": ""    # 73 cảnh chung, từ ch8
+  # "Penelope > Father": ""
+  # "Eckles > Yvonne": ""    # 70 cảnh chung, từ ch46
+  # "Yvonne > Eckles": ""
+  # "Emily > Penelope": ""    # 69 cảnh chung, từ ch9
+  # "Penelope > Emily": ""
+  # "Crown Prince > Yvonne": ""    # 67 cảnh chung, từ ch132
+  # "Yvonne > Crown Prince": ""
+  # "Leila > Yvonne": ""    # 65 cảnh chung, từ ch150
+  # "Yvonne > Leila": ""
+  # "Eckart > Reynold": ""    # 64 cảnh chung, từ ch5
+  # "Reynold > Eckart": ""
+  # "Reynold > Yvonne": ""    # 61 cảnh chung, từ ch8
+  # "Yvonne > Reynold": ""
+  # "Crown Prince > Derrick": ""    # 60 cảnh chung, từ ch38
+  # "Derrick > Crown Prince": ""
+  # "Callisto > Yvonne": ""    # 59 cảnh chung, từ ch132
+  # "Yvonne > Callisto": ""
+  # "Eckart > Yvonne": ""    # 57 cảnh chung, từ ch44
+  # "Yvonne > Eckart": ""
+  # "Father > Reynold": ""    # 55 cảnh chung, từ ch8
+  # "Reynold > Father": ""
+  # "Derrick > Vinter": ""    # 54 cảnh chung, từ ch15
+  # "Vinter > Derrick": ""
+  # "Derrick > Eckles": ""    # 54 cảnh chung, từ ch17
+  # "Eckles > Derrick": ""
+  # "Crown Prince > Vinter": ""    # 54 cảnh chung, từ ch38
+  # "Vinter > Crown Prince": ""
+  # "Father > Yvonne": ""    # 51 cảnh chung, từ ch8
+  # "Yvonne > Father": ""
+  # "Leila > Vinter": ""    # 50 cảnh chung, từ ch34
+  # "Vinter > Leila": ""
+  # "Derrick > Emily": ""    # 47 cảnh chung, từ ch7
+  # "Emily > Derrick": ""
+  # "Emily > Reynold": ""    # 47 cảnh chung, từ ch9
+  # "Reynold > Emily": ""
+  # "Derrick > Father": ""    # 47 cảnh chung, từ ch23
+  # "Father > Derrick": ""
+  # "Crown Prince > Eckles": ""    # 46 cảnh chung, từ ch38
+  # "Eckles > Crown Prince": ""
+  # "Crown Prince > Leila": ""    # 46 cảnh chung, từ ch62
+  # "Leila > Crown Prince": ""
+  # "Callisto > Vinter": ""    # 45 cảnh chung, từ ch5
+  # "Vinter > Callisto": ""
+  # "Callisto > Leila": ""    # 45 cảnh chung, từ ch62
+  # "Leila > Callisto": ""
+  # "Callisto > Cedric": ""    # 45 cảnh chung, từ ch134
+  # "Cedric > Callisto": ""
+  # "Eckart > Father": ""    # 44 cảnh chung, từ ch10
+  # "Father > Eckart": ""

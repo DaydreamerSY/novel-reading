@@ -1,0 +1,72 @@
+{
+ "number": 133,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi bị cuốn vào một hang động do vụ sạt lở, Penelope tỉnh dậy trên một hòn đảo nhỏ cùng với Thái tử Callisto và Raon. Họ được giải cứu bởi một phép thuật bí ẩn, nhưng Penelope lo lắng về sự biến mất của Leila và những tàn dư của đế chế. Callisto đưa ra những lời khen thưởng trêu chọc và đề nghị phong hàm hiệp sĩ cho cô. Sau đó, họ nhận được thông báo về nhiệm vụ hoàn thành và phần thưởng từ hệ thống, cùng với một hình ảnh thoáng qua về một người đàn ông bí ẩn. Cuối cùng, Thái tử phải rời đi để đối phó với những vấn đề chính trị, trước khi trao cho Penelope một nụ hôn bất ngờ.",
+ "boi_canh": "Trên một bãi biển vắng vẻ sau vụ sạt lở.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Cedric",
+  "Raon"
+ ],
+ "su_kien": [
+  "Penelope tỉnh dậy sau khi bị cuốn vào hang động và gần chết đuối.",
+  "Họ được đưa đến một hòn đảo nhỏ.",
+  "Penelope lo lắng về sự biến mất của Leila và những tàn dư của đế chế.",
+  "Callisto đề nghị phong hàm hiệp sĩ cho Penelope.",
+  "Thái tử trao cho Penelope một nụ hôn bất ngờ trước khi rời đi."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là công chúa, Callisto là thái tử. Có vẻ như họ có một mối quan hệ khá gần gũi.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử Callisto có vẻ thích trêu chọc và tán tỉnh Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Penelope quan tâm đến Raon và lo lắng cho sức khỏe của cậu bé.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Raon",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Raon là một người bạn đồng hành của Penelope, nhưng không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Cedric",
+   "loai": "cap_tren",
+   "mo_ta": "Cedric là người hầu cận của Callisto, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Cedric",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Cedric là người hầu cận của Callisto, không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus",
+  "Raon: Cậu bé pháp sư đeo mặt nạ sư tử"
+ ],
+ "stats": {
+  "tokens": 858,
+  "seconds": 25.7
+ }
+}

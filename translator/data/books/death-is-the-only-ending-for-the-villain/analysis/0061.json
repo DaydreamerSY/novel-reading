@@ -1,0 +1,70 @@
+{
+ "number": 61,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope vô tình kích hoạt một nhiệm vụ chính trong game, nhưng đã từ chối nó. Ngay sau đó, Thái tử xuất hiện với vẻ ngoài đáng sợ và bắt đầu tra tấn Penelope bằng những lời nói khiêu khích. Cô cố gắng xoa dịu tình hình bằng cách xin lỗi và phủ nhận tình cảm của mình, nhưng Thái tử lại không chấp nhận mà còn truy hỏi về người cô thích. Cuối cùng, sau khi bị Thái tử đe dọa bằng kiếm, Penelope buộc phải thú nhận rằng cô chưa có ai yêu cả, khiến Thái tử nghi ngờ và tức giận. Derrick xuất hiện kịp thời để can thiệp.",
+ "boi_canh": "Phòng tiệc, trong một sự kiện không rõ thời gian.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Thái tử"
+ ],
+ "su_kien": [
+  "Penelope vô tình kích hoạt nhiệm vụ chính.",
+  "Thái tử xuất hiện và bắt đầu tra tấn Penelope bằng lời nói.",
+  "Penelope xin lỗi và phủ nhận tình cảm của mình với Thái tử.",
+  "Thái tử truy hỏi về người mà Penelope thích.",
+  "Derrick can thiệp để ngăn chặn sự căng thẳng giữa Penelope và Thái tử."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Thái tử",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ đối địch, Thái tử tra tấn Penelope bằng lời nói.",
+   "cach_goi": "gọi tên 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Thái tử",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ đối địch, Thái tử tra tấn Penelope bằng lời nói.",
+   "cach_goi": "gọi tên 'Princess', trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, Penelope tìm đến Derrick để được bảo vệ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi, Derrick bảo vệ Penelope khỏi Thái tử.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Thái tử",
+   "loai": "cap_tren",
+   "mo_ta": "Mối quan hệ cấp trên, Derrick can thiệp để bảo vệ Penelope.",
+   "cach_goi": "gọi tên 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Thái tử",
+   "b": "Derrick",
+   "loai": "cap_tren",
+   "mo_ta": "Mối quan hệ cấp trên, Derrick can thiệp để bảo vệ Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Không có thông tin về danh tính khác của nhân vật nào trong chương này."
+ ],
+ "stats": {
+  "tokens": 791,
+  "seconds": 24.7
+ }
+}

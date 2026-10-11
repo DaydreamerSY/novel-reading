@@ -14,7 +14,7 @@ import random
 import re
 import time
 
-from common import ROOT, chapter_path, fmt_duration, read_json, write_json
+from common import chapter_path, fmt_duration, read_json, write_json
 from exporter import write_md
 from llm import Ollama
 from translator import Stats, Translator, make_chunks, problems
@@ -40,9 +40,9 @@ def _schema(reasons):
         "type": "object", "required": list(item), "properties": item}}}}
 
 
-def read_style():
+def read_style(paths):
     """style.md without its # comment lines (the same text the translator sends)."""
-    path = ROOT / "style.md"
+    path = paths.style
     if not path.exists():
         return ""
     return "\n".join(line for line in path.read_text(encoding="utf-8").splitlines()
@@ -66,7 +66,7 @@ class Selector:
         self.options = {"temperature": 0.1, "num_ctx": int(mc.get("num_ctx", 12288))}
         # Reasons help reviewing, but cost generated tokens: a slow judge (27B) runs without them.
         self.reasons = bool(mc.get("reasons", True)) if reasons is None else reasons
-        style = read_style()
+        style = read_style(paths)
         self.rules = JUDGE_RULES.format(style=f"The book's style guide (Vietnamese):\n{style}\n" if style else "",
                                         why=WHY if self.reasons else "Answer with the picks only.")
         self.schema = _schema(self.reasons)
@@ -141,7 +141,7 @@ class Selector:
         a_all = [p["vi"] for p in cands[0]["paragraphs"]]
         b_all = [p["vi"] for p in cands[1]["paragraphs"]]
         who = self.speakers(n, paras)
-        analysis = self.paths.cache.parent / "analysis" / f"{n:04d}.json"
+        analysis = chapter_path(self.paths.analysis, n)
         summary = read_json(analysis).get("tom_tat", "") if analysis.exists() else ""
 
         picks, disputed = [None] * len(paras), []

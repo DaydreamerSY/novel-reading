@@ -1,0 +1,71 @@
+{
+ "number": 167,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trốn thoát khỏi gia đình, Penelope bỗng nhiên cảm thấy hoảng loạn và suy nghĩ trở nên hỗn độn. Cô đối diện với sự thật về việc mình bị mắc kẹt trong một trò chơi đầy rẫy những bí mật và âm mưu. Cuộc trò chuyện với Công tước Eckart khiến cô nhận ra nhiều điều về quá khứ của gia đình, đặc biệt là mối quan hệ giữa ông ta và Yvonne. Cuối cùng, Penelope quyết định từ chối nghi thức trưởng thành và bày tỏ mong muốn rời khỏi gia tộc, gây ra sự bực bội cho Công tước.",
+ "boi_canh": "Trong phòng ăn của nhà Công tước Eckart vào một buổi sáng.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Yvonne",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Penelope trải qua cơn hoảng loạn và suy nghĩ hỗn độn.",
+  "Công tước Eckart bày tỏ sự lo lắng về việc Penelope có thể trốn thoát khỏi trò chơi.",
+  "Penelope chất vấn Công tước về những động cơ của ông ta trong quá khứ.",
+  "Công tước đồng ý để Eckles hộ tống Penelope sau lễ trưởng thành.",
+  "Penelope từ chối tham gia nghi thức trưởng thành và bày tỏ mong muốn rời khỏi gia tộc."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái nuôi và người cha, Penelope bày tỏ sự nghi ngờ và thất vọng.",
+   "cach_goi": "gọi 'Father', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Người cha cố gắng xoa dịu và trấn an con gái nuôi.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope quan tâm đến Eckles, nhưng không giao tiếp trực tiếp với anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Eckles",
+   "loai": "cap_tren",
+   "mo_ta": "Công tước hỏi về Eckles và sự quan trọng của anh ta đối với Penelope.",
+   "cach_goi": "gọi tên Eckles, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Yvonne",
+   "loai": "dong_minh",
+   "mo_ta": "Hai chị em, Penelope và Yvonne, có mối quan hệ phức tạp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Yvonne",
+   "loai": "gia_dinh",
+   "mo_ta": "Người cha quan tâm đến Yvonne và có những kế hoạch riêng cho cô.",
+   "cach_goi": "gọi tên Yvonne, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Yvonne được tiết lộ là con gái ruột thất lạc của Công tước Eckart."
+ ],
+ "stats": {
+  "tokens": 845,
+  "seconds": 25.2
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "number": 204,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong một trận chiến bất ngờ với quân địch, Penelope bị Callisto cứu và đưa đi tản bộ trong rừng. Tuy nhiên, khi cô đang do dự, Eckles xuất hiện, bắt cóc cô bằng cách cưỡi một con quái vật bay. Anh ta tiết lộ rằng anh ta đã bị Yvonne tẩy não để trở thành người nổi loạn và căm ghét Penelope vì đã bỏ rơi anh ta.",
+ "boi_canh": "Một trận chiến hỗn loạn trên đầm lầy, giữa quân đội Hoàng gia và quân địch.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Yvonne",
+  "Cedric",
+  "Wizard (Imperial Palace)"
+ ],
+ "su_kien": [
+  "Quân địch tấn công bằng tên, gây thương vong cho quân đội Hoàng gia.",
+  "Callisto cứu Penelope và ra lệnh đưa cô vào rừng.",
+  "Eckles xuất hiện và bắt cóc Penelope trên lưng quái vật bay.",
+  "Eckles tiết lộ anh ta đã bị Yvonne tẩy não để trở thành người nổi loạn.",
+  "Penelope cố gắng thoát khỏi sự giam cầm của Eckles."
+ ],
+ "quan_he": [
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Callisto bảo vệ và ra lệnh cho Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope do dự và phản đối mệnh lệnh của Callisto.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Eckles bắt cóc và giam giữ Penelope.",
+   "cach_goi": "gọi tên Penelope, thô lỗ"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope phản đối và cố gắng thoát khỏi sự giam cầm của Eckles.",
+   "cach_goi": "gọi tên Eckles, thô lỗ"
+  },
+  {
+   "a": "Cedric",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Cedric báo cáo tình hình chiến sự cho Callisto.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Wizard (Imperial Palace)",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Bị thương và không thể giao tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Yvonne",
+   "b": "Eckles",
+   "loai": "doi_thu",
+   "mo_ta": "Tẩy não Eckles để trở thành người nổi loạn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Trước đây là nô lệ của Penelope, sau này bị Yvonne tẩy não và tham gia vào phe nổi loạn."
+ ],
+ "stats": {
+  "tokens": 843,
+  "seconds": 25.3
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "number": 123,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Penelope tìm gặp Vinter để làm rõ một số vấn đề, cô phát hiện ra anh đã chủ động tham gia các hoạt động thiện nguyện cùng Yeoju. Cô lo lắng về việc Vinter có thể sớm đưa Yvonne trở lại và đối mặt với những nguy hiểm tiềm tàng. Trong quá trình này, họ trao đổi những lời nói đầy ẩn ý về sự nghèo đói và trải nghiệm cá nhân. Sau đó, họ đến một khu ổ chuột bị bỏ quên, nơi Penelope phát hiện ra những bí mật đáng lo ngại liên quan đến việc sử dụng mana và mối đe dọa từ quốc gia Leila. Cuối cùng, cô nhận được một vật phẩm cổ từ Vinter và chứng kiến sự tương tác giữa anh với thủ lĩnh của khu ổ chuột, trước khi Raon đột ngột biến mất.",
+ "boi_canh": "Một khu ổ chuột ven biển vào lúc hoàng hôn.",
+ "nhan_vat": [
+  "Penelope",
+  "Vinter",
+  "Yvonne",
+  "Raon"
+ ],
+ "su_kien": [
+  "Penelope phát hiện Vinter đã tham gia hoạt động thiện nguyện với Yeoju.",
+  "Penelope và Vinter trao đổi những lời nói đầy ẩn ý về sự nghèo đói và trải nghiệm cá nhân.",
+  "Họ đến một khu ổ chuột bị bỏ quên, nơi người dân phải sử dụng mana để sinh tồn.",
+  "Vinter trao cho Penelope một vật phẩm cổ và giải thích cách sử dụng nó.",
+  "Raon đột ngột biến mất sau khi xin phép Penelope được ra biển."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là người được Vinter bảo vệ và hướng dẫn; có vẻ như Vinter đang cố gắng kiểm soát Penelope.",
+   "cach_goi": "gọi tên Vinter, không trang trọng"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Vinter đang cố gắng kiểm soát Penelope.",
+   "cach_goi": "gọi tên Penelope, không trang trọng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Penelope và Raon có vẻ là bạn bè; Penelope tỏ ra quan tâm đến sự an toàn của Raon.",
+   "cach_goi": "gọi tên Raon, không trang trọng"
+  },
+  {
+   "a": "Raon",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Raon coi Penelope như một người bạn lớn.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Vinter Verdandi: Pháp sư Hầu tước Vinter, có vẻ đang che giấu điều gì đó.",
+  "Leila: Quốc gia mới, có mục tiêu loại bỏ tất cả các pháp sư khỏi thế giới."
+ ],
+ "stats": {
+  "tokens": 746,
+  "seconds": 22.2
+ }
+}

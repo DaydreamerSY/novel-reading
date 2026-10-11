@@ -1,0 +1,79 @@
+{
+ "number": 235,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này xoay quanh cuộc trò chuyện giữa Penelope và Cedric về đề xuất quan hệ ngoại giao của Vương quốc Baien, trong đó Penelope đưa ra giải pháp sử dụng đá quý để trao đổi thay vì khoáng sản chất lượng thấp. Sau đó, cô gặp Thái tử Callisto, người bày tỏ sự khó chịu khi thấy cô đi bộ và trêu chọc cô về những tin đồn xung quanh mối quan hệ của họ.",
+ "boi_canh": "Trong vườn cung điện Hoàng gia, sau bữa ăn tối.",
+ "nhan_vat": [
+  "Penelope",
+  "Cedric",
+  "Callisto",
+  "Marienne"
+ ],
+ "su_kien": [
+  "Penelope đồng ý đề xuất của Cedric về việc xem xét quan hệ ngoại giao với Vương quốc Baien.",
+  "Penelope đề xuất đổi đá quý lấy đồ gốm sứ từ Vương quốc Baien thay vì khoáng sản.",
+  "Cedric ghi chép lại các đề xuất và nhận xét của Penelope.",
+  "Callisto bày tỏ sự khó chịu khi thấy Penelope đi bộ thay vì sử dụng xe ngựa mà anh ta gửi.",
+  "Penelope và Callisto tranh cãi về những tin đồn xung quanh mối quan hệ của họ."
+ ],
+ "quan_he": [
+  {
+   "a": "Cedric",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Cedric hỏi ý kiến Penelope về các vấn đề chính trị và ghi chép lại câu trả lời của cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "thay_tro",
+   "mo_ta": "Penelope trả lời các câu hỏi của Cedric và đưa ra những đề xuất.",
+   "cach_goi": "gọi tên Cedric, không thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto phàn nàn với Penelope về việc cô đi bộ và trêu chọc cô về những tin đồn.",
+   "cach_goi": "gọi tên Penelope, trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope cố gắng xoa dịu sự khó chịu của Callisto và trả lời những câu hỏi của anh.",
+   "cach_goi": "gọi tên Callisto, không thân mật"
+  },
+  {
+   "a": "Cedric",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Cedric phục vụ Callisto và chịu sự trách mắng của anh.",
+   "cach_goi": "gọi 'Thái tử' (His Highness), lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Cedric",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto trách mắng Cedric vì đã không sử dụng xe ngựa và làm việc lười biếng.",
+   "cach_goi": "gọi tên Cedric, thô lỗ"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus, một trong các nam chính của game.",
+  "Cedric: Cedric Porter, thuộc hạ thân cận của Thái tử."
+ ],
+ "stats": {
+  "tokens": 915,
+  "seconds": 27.3
+ }
+}

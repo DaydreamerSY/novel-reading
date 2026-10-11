@@ -1,0 +1,103 @@
+{
+ "number": 277,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong giấc mơ, Penelope gắn mảnh gương Judith mang về vào Gương Sự Thật và bước vào một phòng bệnh ở thế giới cũ, vẫn trong thân xác Penelope. Thân xác thật của cô (Cha Siyeon) còn sống nhờ máy thở; cha ruột và người anh thứ hai ngủ canh bên giường. Cô định tháo máy thở thì họ tỉnh dậy, tưởng cô là kẻ đột nhập. Người anh thứ nhất bước vào, ra giá mua chuộc rồi đe doạ; người cha van xin, sẵn sàng giao cả tập đoàn Taesung. Penelope hỏi vì sao họ đã hành hạ cô gái ấy tới chết.",
+ "boi_canh": "Một phòng bệnh viện hiện đại, vào một thời điểm không xác định.",
+ "nhan_vat": [
+  "Penelope",
+  "Yvonne",
+  "Judith",
+  "Callisto (Cha)",
+  "Con trai cả",
+  "Con trai thứ hai"
+ ],
+ "su_kien": [
+  "Penelope tìm thấy một mảnh gương sự thật.",
+  "Cô sử dụng mảnh gương để nhìn thấy quá khứ của mình trong bệnh viện.",
+  "Penelope nhìn thấy cơ thể mình đang hấp hối, được hỗ trợ bởi thiết bị y tế.",
+  "Cha và các anh trai xuất hiện bên cạnh giường bệnh.",
+  "Penelope bị đối chất về vai trò của mình trong tình trạng hiện tại."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Mirror of Truth",
+   "loai": "khac",
+   "mo_ta": "Penelope sử dụng mảnh gương để nhìn thấy quá khứ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto (Cha)",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha Penelope đang chăm sóc cô trong bệnh viện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Con trai cả",
+   "loai": "doi_thu",
+   "mo_ta": "Anh trai Penelope tỏ ra nghi ngờ và đối đầu với cô.",
+   "cach_goi": "gọi 'Brother', lạnh lùng"
+  },
+  {
+   "a": "Con trai cả",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Anh trai Penelope tỏ ra nghi ngờ và đối đầu với cô.",
+   "cach_goi": "gọi 'you', lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Con trai thứ hai",
+   "loai": "doi_thu",
+   "mo_ta": "Anh trai Penelope tỏ ra nghi ngờ và đối đầu với cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Con trai thứ hai",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Anh trai Penelope tỏ ra nghi ngờ và đối đầu với cô.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto (Cha)",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha Penelope đang cố gắng ngăn cản sự đối đầu giữa các con trai và Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Con trai thứ hai",
+   "b": "Callisto (Cha)",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai thứ hai gọi cha là 'Father' một cách thân mật.",
+   "cach_goi": "gọi 'Father', thân mật"
+  },
+  {
+   "a": "Callisto (Cha)",
+   "b": "Con trai cả",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha Penelope đang cố gắng ngăn cản sự đối đầu giữa các con trai và Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto (Cha)",
+   "b": "Con trai thứ hai",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha Penelope đang cố gắng ngăn cản sự đối đầu giữa các con trai và Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope Eckart (Penelope)",
+  "Judith Regulus"
+ ],
+ "stats": {
+  "tokens": 1054,
+  "seconds": 32.7
+ },
+ "tom_tat_sua_tay": "Claude sửa theo bản gốc (2026-10-08)"
+}

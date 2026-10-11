@@ -1,0 +1,73 @@
+{
+ "number": 26,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi hầu gái Emily mang đến một chiếc hộp quà tặng xa xỉ, Penelope mở ra và thấy một viên đá lapis lazuli màu xanh lam đậm tuyệt đẹp. Cô ấy giao việc tìm kiếm một người đàn ông cho Emily, đồng thời cảnh báo cô về hậu quả nếu thất bại. Cuối cùng, một lời mời từ cung điện hoàng gia dành cho Penelope đã đến, khiến cô tò mò về lý do tại sao Thái tử lại chủ trì.",
+ "boi_canh": "Trong phòng của Penelope ở dinh thự Eckart, vào buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Emily",
+  "Pennel",
+  "Eckles",
+  "Vinter",
+  "Renna"
+ ],
+ "su_kien": [
+  "Emily mang đến một chiếc hộp quà tặng chứa viên đá lapis lazuli.",
+  "Penelope giao nhiệm vụ tìm kiếm người đàn ông cho Emily.",
+  "Emily tiết lộ về Renna, một người có thể biết thêm thông tin.",
+  "Penelope cảnh báo Emily về hậu quả nếu thất bại.",
+  "Một lời mời từ cung điện hoàng gia dành cho Penelope."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "chủ nhân và hầu gái riêng; Penelope giao việc cho Emily.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "hầu gái riêng; Emily phục tùng mệnh lệnh của Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Pennel",
+   "loai": "nguoi_la",
+   "mo_ta": "chủ nhân và quản gia; Penelope yêu cầu Pennel vào phòng.",
+   "cach_goi": "gọi tên Pennel, lễ phép"
+  },
+  {
+   "a": "Pennel",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "quản gia; Pennel báo cáo về lời mời từ cung điện.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "thay_tro",
+   "mo_ta": "chủ nhân và hầu gái riêng; Penelope cảnh báo Emily.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "hầu gái riêng; Emily đáp lại lời cảnh báo của Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  }
+ ],
+ "danh_tinh": [
+  "Vinter: được nhắc đến là có một cơ sở hoạt động bí mật, một agency."
+ ],
+ "stats": {
+  "tokens": 766,
+  "seconds": 24.1
+ }
+}

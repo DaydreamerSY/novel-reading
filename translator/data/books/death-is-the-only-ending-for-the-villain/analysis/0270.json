@@ -1,0 +1,64 @@
+{
+ "number": 270,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope tình cờ gặp Callisto trong một cuộc thám hiểm khảo cổ, dẫn đến những câu hỏi và nghi ngờ về lý do cô lẻn ra ngoài. Cuộc đối đầu giữa họ leo thang khi Callisto chất vấn Penelope về sự vắng mặt của Eckles và những bí mật mà cô che giấu. Cuối cùng, Callisto quyết định đưa Penelope trở lại kinh đô và tạm dừng việc tìm kiếm các di tích cổ.",
+ "boi_canh": "Trong một khu khảo cổ cổ xưa vào ban đêm.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Marienne"
+ ],
+ "su_kien": [
+  "Penelope phát hiện ra sự thay đổi kỳ lạ ở các di tích cổ.",
+  "Callisto bất ngờ xuất hiện và chất vấn Penelope về việc cô lẻn đi.",
+  "Penelope cố gắng giải thích lý do của mình nhưng bị Callisto nghi ngờ.",
+  "Callisto nhắc đến Eckles, khiến Penelope bối rối.",
+  "Callisto quyết định đưa Penelope trở lại kinh đô và tạm dừng các hoạt động khảo cổ."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là cấp dưới của Callisto, cố gắng giải thích hành động của mình.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto là người có quyền lực hơn, chất vấn và kiểm soát Penelope.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope lo lắng về sự xuất hiện của Eckles và những bí mật liên quan đến anh ta.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Eckles",
+   "loai": "doi_thu",
+   "mo_ta": "Callisto nghi ngờ Eckles và sự liên quan của anh ta với Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "khac",
+   "mo_ta": "Không có tương tác trực tiếp, nhưng Marienne được nhắc đến trong bối cảnh liên quan đến việc bảo vệ Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Có thể đã mất trí nhớ và đang theo dõi Penelope."
+ ],
+ "stats": {
+  "tokens": 704,
+  "seconds": 21.1
+ }
+}

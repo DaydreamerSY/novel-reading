@@ -1,0 +1,54 @@
+{
+ "number": 125,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Penelope tỉnh dậy, cô thấy mình ở một địa điểm hoàn toàn khác biệt. Raon đã sử dụng phép thuật để bảo vệ cô khỏi những kẻ bắt cóc. Vinter lo lắng cho sự an toàn của Penelope và nghi ngờ cô liên quan đến vụ bắt cóc trẻ em, dẫn đến một cuộc đối đầu căng thẳng giữa hai người. Cuối cùng, họ chấp nhận tham gia vào nhiệm vụ chính để giải cứu Raon và các trẻ em bị bắt cóc.",
+ "boi_canh": "Trên vách đá của một ngôi đền tồi tàn gần biển, vào thời điểm hiện tại là lúc đang truy tìm dấu vết của những kẻ bắt cóc.",
+ "nhan_vat": [
+  "Penelope",
+  "Raon",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Raon sử dụng phép thuật để bảo vệ Penelope khỏi bị thương.",
+  "Penelope nhìn thấy một vụ nổ ánh sáng xanh từ xa, có lẽ là nơi những kẻ bắt cóc đang ở.",
+  "Vinter ngăn cản Penelope chạy đến mép vách đá.",
+  "Vinter nghi ngờ Penelope liên quan đến vụ bắt cóc trẻ em và chất vấn cô.",
+  "Penelope và Vinter chấp nhận tham gia vào nhiệm vụ chính để giải cứu Raon."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Raon",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Raon bảo vệ Penelope.",
+   "cach_goi": "gọi tên Raon, thân mật"
+  },
+  {
+   "a": "Raon",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Bạn bè thân thiết, Raon bảo vệ Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope và Vinter có mối quan hệ cấp trên - cấp dưới, Penelope nghi ngờ và khó chịu với Vinter.",
+   "cach_goi": "gọi tên Vinter, lạnh lùng"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Vinter là người có địa vị cao hơn, lo lắng cho Penelope và nghi ngờ cô.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 639,
+  "seconds": 19.1
+ }
+}

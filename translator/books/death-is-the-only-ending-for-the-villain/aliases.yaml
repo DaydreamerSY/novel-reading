@@ -1,0 +1,77 @@
+# Tên viết khác trong bản tiếng Anh của novelight (nhiều nhóm dịch nối nhau, mỗi nhóm phiên âm một kiểu).
+# Dạng:   tên trong novelight: tên chuẩn (khoá trong glossary.yaml)
+# Khi dựng nguồn (python novel.py source --book death), tên bên trái được đổi thành tên bên phải TRƯỚC khi
+# tóm tắt / dịch. data/novelight/<slug> giữ nguyên bản gốc.
+# Tên chuẩn theo bản tiếng Anh chính thức (webtoon) khi có. Số trong ghi chú: số lần xuất hiện (đã xem ngữ cảnh).
+
+doi_ten_moi_chuong:
+  # --- anh em nhà Eckart ---
+  Derick: Derrick       # 154 (Derrick 370)
+  Derek: Derrick        # 136
+  Dereck: Derrick       # 2
+  Deric: Derrick        # 1
+  Derdick: Derrick      # 1
+  Leonard: Reynold      # 214 (người anh thứ hai; Reynold 30)
+  Renald: Reynold       # 208
+  Rennald: Reynold      # 94
+  Renold: Reynold       # 2
+  Roynold: Reynold      # 1
+  Ekart: Eckart         # 12
+  Eckhart: Eckart       # 6
+  Ekarte: Eckart        # 1
+  Eckrat: Eckart        # 2
+  # --- nam chính ---
+  Eclise: Eckles        # 586 (nô lệ / hiệp sĩ của Penelope)
+  Eckliss: Eckles       # 218
+  Eclis: Eckles         # 65
+  Eclipse: Eckles       # 37 (đều là tên người)
+  Ecklis: Eckles        # 4
+  Ekcliss: Eckles       # 1
+  Ecliss: Eckles        # 1
+  Eclisel: Eckles       # 1
+  Calisto: Callisto     # 66
+  Carlysto: Callisto    # 3
+  Carristo: Callisto    # 2
+  Cllisto: Callisto     # 1
+  Legulus: Regulus      # 2
+  Legoulus: Regulus     # 1
+  Vuinter: Vinter       # 89
+  Buinter: Vinter       # 22
+  Winter: Vinter        # 15 (không chỗ nào là mùa đông)
+  Vintet: Vinter        # 9
+  Binter: Vinter        # 1
+  Berdandi: Verdandi    # 3
+  Vernandi: Verdandi    # 2
+  Verandi: Verdandi     # 1
+  # --- nhân vật khác ---
+  Yvon: Yvonne          # 3
+  Yvonnne: Yvonne       # 1
+  Yvvone: Yvonne        # 1
+  Pennell: Pennel       # 3 (quản gia)
+  Fennel: Pennel        # 2
+  Cedrick: Cedric       # 4
+  Potter: Porter        # 1 (Cedric Porter 8)
+  Laon: Raon            # 2
+  Dortea: Dorothea      # 5 (Countess Dorothea)
+  Keline: Kellin        # 1
+  Marianne: Marienne    # 2
+  Marieenne: Marienne   # 1
+  Judit: Judith         # 1
+  Gavail: Gavoil        # 4 (Viscount Gavoil)
+  Hellin: Kellin        # 7, ch109–110: Bá tước Kellin (bản dịch lỗi K→H như "Hnights", "Heep")
+  Rennaldd: Reynold     # 1
+  Terrosh: Terosi       # 1, Bá tước Terosi, cha của Marienne
+  Hraken: Kraken        # 4, ch194–195 (quái bạch tuộc, lỗi K→H)
+  # --- địa danh ---
+  Reila: Leila          # 1
+  Lelia: Leila          # 1
+  Leyla: Leila          # 4
+  Valtha: Balta         # 6 (vương quốc cổ)
+  Archina: Arkina       # 19 (Arkina Islands 11)
+  Soleia: Soleil        # 2
+  Solail: Soleil        # 1
+  Solleil: Soleil       # 1
+
+theo_khoang:            # chỉ an toàn khi giới hạn trong khoảng chương
+  "100-279":
+    Penel: Pennel       # 4, quản gia; ở ch58 "Penel..." là tên Penelope bị ngắt

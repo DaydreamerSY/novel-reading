@@ -1,0 +1,55 @@
+{
+ "number": 83,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi nghe một nhận xét bất ngờ, Penelope và Thái tử Callisto đã đi vào một hang động để điều tra. Trong quá trình đó, Callisto bị chóng mặt và Penelope hỗ trợ anh ta. Họ gặp phải những dấu hiệu đáng ngờ và bắt đầu một nhiệm vụ bí mật trong hang động. Cuối cùng, họ đến một khu vực rộng lớn hơn, nơi họ phát hiện ra một bộ xương với một cuộn giấy cổ.",
+ "boi_canh": "Bên trong một hang động tối tăm, vào thời điểm Thái tử Callisto bị chóng mặt.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto"
+ ],
+ "su_kien": [
+  "Thái tử Callisto đột ngột bị chóng mặt.",
+  "Penelope hỗ trợ Thái tử Callisto khi anh ta loạng choạng.",
+  "Một nhiệm vụ ẩn 'Explore [Suspicious Cave]' xuất hiện.",
+  "Penelope và Callisto tìm thấy một bộ xương với cuộn giấy cổ.",
+  "Ánh sáng xanh bao quanh bộ xương."
+ ],
+ "quan_he": [
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử Callisto là người cấp trên của Penelope, thể hiện sự lo lắng và tin tưởng ở cô.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope quan tâm đến Thái tử Callisto và lo lắng cho sức khỏe của anh.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử Callisto chế giễu Penelope một cách hài hước.",
+   "cach_goi": "gọi tên Penelope, trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope trả lời Callisto trong suy nghĩ của mình.",
+   "cach_goi": "gọi tên Callisto, không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus"
+ ],
+ "stats": {
+  "tokens": 599,
+  "seconds": 18.7
+ }
+}

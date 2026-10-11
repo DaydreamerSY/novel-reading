@@ -1,0 +1,58 @@
+{
+ "number": 202,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi trốn thoát khỏi ngôi đền cổ xưa Leila bằng một cây đàn gương phép thuật, Penelope và Thái tử Callisto bị mắc kẹt trên một hòn đảo hoang vắng. Họ tranh cãi về việc có nên ở lại hay không, nhưng cuối cùng nhận ra rằng họ bị mắc kẹt do rào cản ma thuật. Khi Penelope chuẩn bị rời đi để tìm kiếm sự giúp đỡ, Callisto đột ngột liên lạc với Cedric bằng một quả cầu pha lê phép thuật và lên kế hoạch triệu hồi cả hai trở về kinh đô.",
+ "boi_canh": "Trên một hòn đảo hoang vắng, gần bờ biển, sau khi trốn thoát khỏi ngôi đền Leila.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Yvonne",
+  "Cedric"
+ ],
+ "su_kien": [
+  "Penelope và Callisto trốn thoát khỏi ngôi đền Leila bằng cây đàn gương phép thuật.",
+  "Họ tranh cãi về việc có nên ở lại hòn đảo hay không.",
+  "Callisto liên lạc với Cedric qua quả cầu pha lê phép thuật.",
+  "Cedric báo cáo tình hình chiến sự cho Callisto.",
+  "Callisto và Penelope bắt đầu nghi thức triệu hồi trở về kinh đô."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Cùng nhau trốn thoát và bị mắc kẹt trên đảo; Penelope bực bội với những lời nói vô nghĩa của Callisto.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Cùng nhau trốn thoát và bị mắc kẹt trên đảo; Callisto có vẻ thích thú với sự bực bội của Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Cedric",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto là cấp trên của Cedric; Callisto cắt ngang lời Cedric một cách thô lỗ.",
+   "cach_goi": "gọi tên Cedric, lạnh lùng"
+  },
+  {
+   "a": "Cedric",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Cedric báo cáo tình hình cho cấp trên; Cedric gần như sợ hãi khi nói chuyện với Callisto.",
+   "cach_goi": "gọi tên Callisto, lo lắng"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus, một trong các nam chính của game.",
+  "Yvonne: Con gái ruột thất lạc của Công tước Eckart, nữ chính của chế độ thường (normal mode) trong game."
+ ],
+ "stats": {
+  "tokens": 724,
+  "seconds": 21.7
+ }
+}

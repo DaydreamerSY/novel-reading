@@ -1,0 +1,81 @@
+{
+ "number": 250,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi rời khỏi văn phòng Công tước, Penelope đi thẳng đến sảnh có cầu thang trung tâm để lên phòng của mình. Cô nghe thấy tiếng động ngay sau khi bước ra khỏi hành lang dài. Người quản gia gọi cô và một hàng nhân viên đứng hai bên đường dẫn đến phòng của cô. Họ chào đón cô với sự tôn trọng lớn lao, khiến cô bối rối. Sau đó, Penelope nhanh chóng quay trở lại Cung điện Hoàng gia, yêu cầu người quản gia mang cho cô sổ sách khai thác mỏ và trao đổi vài lời với Emily trước khi rời đi.",
+ "boi_canh": "Trong sảnh của dinh thự Công tước, vào một buổi chiều.",
+ "nhan_vat": [
+  "Penelope",
+  "Derrick",
+  "Reynold",
+  "Emily",
+  "Raon",
+  "Ellen",
+  "Người quản gia"
+ ],
+ "su_kien": [
+  "Penelope rời văn phòng Công tước và đi lên phòng.",
+  "Một hàng nhân viên chào đón Penelope với sự tôn trọng lớn lao.",
+  "Penelope yêu cầu người quản gia mang sổ sách khai thác mỏ.",
+  "Penelope trao đổi với Emily trước khi quay lại Cung điện Hoàng gia.",
+  "Penelope đốt bỏ những đồ vật liên quan đến trò chơi."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Người quản gia",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là chủ nhân, người quản gia phục tùng và tôn trọng.",
+   "cach_goi": "gọi 'Young Miss', lễ phép"
+  },
+  {
+   "a": "Người quản gia",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Người quản gia phục tùng và tôn trọng Penelope.",
+   "cach_goi": "gọi 'Young Miss', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope và Emily là người hầu gái riêng của Penelope.",
+   "cach_goi": "gọi tên, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "thay_tro",
+   "mo_ta": "Emily là người hầu gái của Penelope, tôn trọng và trung thành.",
+   "cach_goi": "gọi 'Young Miss', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Ellen",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Penelope là con gái nuôi nhà Công tước Eckart, xuyên vào ác nữ Penelope Eckart của game hẹn hò."
+ ],
+ "stats": {
+  "tokens": 868,
+  "seconds": 26.1
+ }
+}

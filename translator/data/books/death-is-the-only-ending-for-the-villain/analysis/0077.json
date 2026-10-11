@@ -1,0 +1,41 @@
+{
+ "number": 77,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này bắt đầu với cảnh Penelope (Penelope) và Thái tử Callisto Regulus đang bị tấn công bởi những kẻ ám sát trong khi di chuyển trên một con đường mòn hẹp. Sau khi bắn cung tên tiêu diệt dần các kẻ địch, họ phát hiện ra mình đã đến cuối vách đá. Một trận chiến ngắn diễn ra, Penelope tham gia hỗ trợ Thái tử Callisto Regulus. Cuối cùng, sau khi tiêu diệt hết những kẻ ám sát còn lại, cả hai rơi xuống vực sâu và được cứu sống. Khi tỉnh dậy, Penelope phát hiện mình đang ở một hang động với Thái tử Callisto Regulus trong tình trạng bán thân, dẫn đến một cuộc đối thoại bối rối và trêu chọc.",
+ "boi_canh": "Trên một con đường mòn hẹp ven vách đá, giữa lúc bị tấn công bởi những kẻ ám sát.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto Regulus"
+ ],
+ "su_kien": [
+  "Penelope và Callisto Regulus bị phục kích bởi các kẻ ám sát.",
+  "Penelope sử dụng cung tên để tiêu diệt dần các kẻ địch.",
+  "Họ phát hiện ra mình đã đến cuối vách đá.",
+  "Một trận chiến ngắn diễn ra giữa Penelope, Callisto Regulus và những kẻ ám sát còn lại.",
+  "Cả hai rơi xuống vực sâu sau khi tiêu diệt hết kẻ thù."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto Regulus",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope là công chúa và Callisto là Thái tử, Penelope bảo vệ Callisto.",
+   "cach_goi": "gọi tên Callisto, lễ phép"
+  },
+  {
+   "a": "Callisto Regulus",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Callisto là Thái tử và Penelope là công chúa, Callisto bảo vệ Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto Regulus: Thái tử Callisto Regulus"
+ ],
+ "stats": {
+  "tokens": 534,
+  "seconds": 16.7
+ }
+}

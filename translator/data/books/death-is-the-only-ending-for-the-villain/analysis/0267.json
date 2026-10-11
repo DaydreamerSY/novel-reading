@@ -1,0 +1,71 @@
+{
+ "number": 267,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Penelope gặp lại Eckles sau khi anh mất trí nhớ. Anh ta tỏ ra xa lạ và thậm chí thù địch với cô, bày tỏ sự khó chịu khi nhìn thấy Penelope. Sau đó, Eckles tiết lộ rằng anh ta theo dõi Penelope vì tò mò về lý do cô sử dụng anh ta trong quá khứ. Cuối cùng, anh ta rời đi để tìm kiếm một cuộc sống mới ở vùng Northeast và giúp đỡ Penelope thoát khỏi một bầy rắn đá nguy hiểm.",
+ "boi_canh": "Một hẻm núi hoang vắng, vào ban đêm.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Marienne"
+ ],
+ "su_kien": [
+  "Eckles tỏ ra thù địch với Penelope và nói rằng anh ta muốn giết cô.",
+  "Eckles tiết lộ rằng anh ta đã mất trí nhớ và không còn nhận ra Penelope.",
+  "Eckles đề nghị giúp Penelope thoát khỏi bầy rắn đá.",
+  "Eckles rời đi để tìm kiếm một cuộc sống mới ở vùng Northeast.",
+  "Penelope bị bỏ lại một mình đối mặt với bầy rắn đá."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ phức tạp, với sự thù địch và tò mò lẫn nhau.",
+   "cach_goi": "gọi tên Eckles, lạnh lùng"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ phức tạp, với sự thù địch và tò mò lẫn nhau.",
+   "cach_goi": "gọi tên Penelope, lạnh lùng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Marienne",
+   "loai": "nguoi_la",
+   "mo_ta": "Không tương tác trực tiếp trong chương này.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Eckles",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Eckles có vẻ như đang cố tình khiêu khích Penelope.",
+   "cach_goi": "gọi tên Penelope, trịch thượng"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope có vẻ đang cố tình khiêu khích Eckles.",
+   "cach_goi": "gọi tên Eckles, thô lỗ"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: Mất trí nhớ, không còn nhận ra Penelope."
+ ],
+ "stats": {
+  "tokens": 776,
+  "seconds": 23.3
+ }
+}

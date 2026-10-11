@@ -1,0 +1,84 @@
+{
+ "number": 63,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Thái tử Callisto gây ra một cuộc hỗn loạn bằng cách tiêu diệt những kẻ mặc đồ đen, Penelope vô tình bị cuốn vào sự kiện đó. Một loạt quái vật xuất hiện và tấn công mọi người trong đại sảnh tiệc. Trong lúc hỗn loạn, Penelope nhận được nhiệm vụ chính mới từ hệ thống game và buộc phải chấp nhận nó để sống sót. Cô sử dụng cung tên crossbow một cách thành thạo để tiêu diệt quái vật, trở thành tâm điểm của sự chú ý và nhận được sự ngưỡng mộ từ mọi người.",
+ "boi_canh": "Đại sảnh tiệc tại lâu đài, trong lúc hỗn loạn do quái vật gây ra.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Derrick",
+  "Reynold",
+  "Vinter"
+ ],
+ "su_kien": [
+  "Thái tử Callisto tiêu diệt những kẻ mặc đồ đen.",
+  "Quái vật xuất hiện và tấn công mọi người.",
+  "Penelope nhận được nhiệm vụ chính mới từ hệ thống game.",
+  "Penelope sử dụng cung tên crossbow để tiêu diệt quái vật.",
+  "Mọi người bắt đầu ngưỡng mộ Penelope sau khi cô cứu họ."
+ ],
+ "quan_he": [
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Thái tử Callisto gây ra hỗn loạn và vô tình khiến Penelope bị cuốn vào.",
+   "cach_goi": "gọi tên Penelope, không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Penelope chứng kiến hành động của Callisto và cảm thấy nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Derrick",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, cùng tham gia vào cuộc hỗn loạn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Derrick",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope chứng kiến hành động của Derrick trong cuộc hỗn loạn.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Anh trai nuôi Penelope, cố gắng bảo vệ cô trong lúc nguy hiểm.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope nhận được sự giúp đỡ của Reynold trong lúc nguy hiểm.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope nhìn thấy Vinter đứng một mình trong lúc hỗn loạn, có vẻ do dự về việc giúp đỡ.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope nhận thấy sự hiện diện của Vinter và tò mò về hành động của anh ta.",
+   "cach_goi": "gọi tên Vinter, thân mật"
+  }
+ ],
+ "danh_tinh": [],
+ "stats": {
+  "tokens": 933,
+  "seconds": 29.2
+ }
+}

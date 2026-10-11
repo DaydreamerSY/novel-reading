@@ -1,0 +1,95 @@
+{
+ "number": 140,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi một sự cố hiểu lầm xảy ra liên quan đến lời nói của Penelope về Thái tử, Cedric, tùy viên của Thái tử, đã đến để truyền đạt một thông điệp bí mật từ chính Thái tử. Thông điệp này ám chỉ một mối quan hệ phức tạp giữa Thái tử và Penelope, khiến Penelope bối rối và cố gắng phủ nhận những tin đồn. Sau đó, Penelope tìm kiếm Eckles nhưng anh ấy đang bận rộn với việc luyện tập kiếm thuật, càng làm tăng thêm sự lo lắng của cô về tình hình hiện tại.",
+ "boi_canh": "Trong phòng tiếp khách của dinh thự, sau khi Cedric đến thăm để truyền đạt thông điệp từ Thái tử.",
+ "nhan_vat": [
+  "Penelope",
+  "Cedric",
+  "Emily",
+  "Eckles",
+  "Reynold",
+  "Butler"
+ ],
+ "su_kien": [
+  "Cedric đến và truyền đạt thông điệp bí mật từ Thái tử.",
+  "Penelope cố gắng phủ nhận những tin đồn về mối quan hệ với Thái tử.",
+  "Penelope tìm kiếm Eckles nhưng anh ấy đang luyện tập kiếm thuật.",
+  "Reynold chất vấn Penelope về sự hiện diện của tùy viên của Thái tử.",
+  "Penelope nhận được thư mời tham dự tiệc sinh nhật của Thái tử."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Cedric",
+   "loai": "nguoi_la",
+   "mo_ta": "Penelope tiếp đón Cedric một cách lịch sự sau khi anh ta đến mang thông điệp từ Thái tử.",
+   "cach_goi": "gọi tên Cedric, lễ phép"
+  },
+  {
+   "a": "Cedric",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Cedric truyền đạt thông điệp từ Thái tử cho Penelope.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Penelope ra lệnh cho Emily về việc dọn dẹp đồ đạc.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Emily nhận lệnh từ Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Butler",
+   "loai": "cap_tren",
+   "mo_ta": "Penelope ra lệnh cho quản gia và hỏi về tình hình của Eckles.",
+   "cach_goi": "gọi tên Butler, lễ phép"
+  },
+  {
+   "a": "Butler",
+   "b": "Penelope",
+   "loai": "cap_tren",
+   "mo_ta": "Quản gia báo cáo cho Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Reynold chất vấn Penelope về sự hiện diện của tùy viên Thái tử.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Penelope né tránh câu hỏi của Reynold.",
+   "cach_goi": "gọi tên Reynold, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Eckles",
+   "loai": "nguoi_yeu",
+   "mo_ta": "Penelope tìm kiếm Eckles nhưng không gặp được anh.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Eckles: nô lệ Penelope mua về, sau thành hiệp sĩ hộ vệ của cô.",
+  "Reynold: con thứ nhà Công tước Eckart, anh trai nuôi của Penelope."
+ ],
+ "stats": {
+  "tokens": 1042,
+  "seconds": 31.2
+ }
+}

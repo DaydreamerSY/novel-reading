@@ -1,0 +1,83 @@
+{
+ "number": 274,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Chương này tập trung vào sự lo lắng của Penelope khi con gái, Judith, mất tích trong khuôn viên cung điện Hoàng gia. Sau một hồi tìm kiếm vất vả, họ cuối cùng cũng tìm thấy Judith ngủ say dưới Sun Palace, nơi có những báu vật ma thuật bị phong ấn. Sự việc này làm dấy lên nghi ngờ về khả năng Judith phá bỏ phép bảo vệ và gợi lại những ký ức đau buồn về quá khứ của Penelope liên quan đến Leila.",
+ "boi_canh": "Trong khuôn viên cung điện Hoàng gia, vào buổi tối sau lễ hội săn bắn.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Reynold",
+  "Yvonne",
+  "Judith",
+  "Judith Regulus",
+  "Leila",
+  "Marquess Verdandi"
+ ],
+ "su_kien": [
+  "Judith, 3 tuổi, mất tích sau khi tham gia lễ hội săn bắn.",
+  "Penelope và Callisto cùng những người khác tìm kiếm Judith khắp khu rừng.",
+  "Judith được tìm thấy ngủ say dưới Sun Palace, nơi có phép bảo vệ ma thuật.",
+  "Marquess Verdandi báo cáo rằng Judith đã phá bỏ phép bảo vệ của Sun Palace.",
+  "Penelope lo lắng về khả năng Judith bị hại bởi những thế lực thù địch trong cung điện."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_yeu",
+   "mo_ta": "vợ chồng, Penelope lo lắng và Callisto an ủi.",
+   "cach_goi": "gọi tên Callisto, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "nguoi_yeu",
+   "mo_ta": "chồng và vợ, Callisto trấn an Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Judith",
+   "loai": "gia_dinh",
+   "mo_ta": "mẹ và con gái, Penelope lo lắng cho Judith.",
+   "cach_goi": "gọi tên Judy, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Judith",
+   "loai": "gia_dinh",
+   "mo_ta": "cha và con gái, Callisto yêu thương Judith.",
+   "cach_goi": "gọi tên Judi, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "anh trai nuôi, Penelope nhắc đến Reynold vì cậu đã bị cấm vào cung điện.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Marquess Verdandi",
+   "loai": "cap_tren",
+   "mo_ta": "chủ và thuộc hạ, Callisto nhận báo cáo từ Marquess Verdandi.",
+   "cach_goi": "gọi tên Marquess Verdandi, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Leila",
+   "loai": "ke_thu",
+   "mo_ta": "Penelope lo lắng về khả năng Leila quay trở lại trả thù.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Judith Regulus: Con gái của Penelope và Callisto, có mái tóc xoăn vàng và đôi mắt đỏ.",
+  "Leila: Một nhân vật bí ẩn trong quá khứ, từng sử dụng mặt nạ của Yvonne để xâm nhập cung điện."
+ ],
+ "stats": {
+  "tokens": 931,
+  "seconds": 28.0
+ }
+}

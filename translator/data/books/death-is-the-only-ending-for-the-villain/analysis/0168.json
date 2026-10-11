@@ -1,0 +1,82 @@
+{
+ "number": 168,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Công tước rời đi, Emily đưa Penelope đến địa điểm tổ chức lễ thành niên của cô ấy. Địa điểm này là một sảnh tiệc được trang trí lộng lẫy trong khuôn viên dinh thự, với nhiều chi tiết xa hoa như rèm trắng, lều bạt, hoa tươi, pha lê và vàng bạc. Trong lúc Penelope đang ngắm nhìn cảnh tượng đó, cô vô tình chạm vào cánh hoa hồng Ellen Wick màu hồng nhạt và bị Reynold giằng tay lại. Sau một vài tranh cãi nhỏ, Reynold thú nhận rằng anh được Công tước yêu cầu phải hộ tống Penelope đến buổi lễ để tránh những rắc rối có thể xảy ra. Cuối cùng, Reynold tặng cho Penelope một hộp đựng bốn chú thỏ con và chúc cô mừng sinh nhật.",
+ "boi_canh": "Trong sảnh tiệc trang trí lộng lẫy tại dinh thự Công tước Eckart, chuẩn bị cho lễ thành niên của Penelope.",
+ "nhan_vat": [
+  "Penelope",
+  "Emily",
+  "Derrick",
+  "Reynold",
+  "Vinter",
+  "Yvonne",
+  "Ellen",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Emily đưa Penelope đến địa điểm tổ chức lễ thành niên.",
+  "Penelope chạm vào cánh hoa hồng Ellen Wick và bị Reynold giằng tay.",
+  "Reynold thú nhận rằng anh được Công tước yêu cầu hộ tống Penelope.",
+  "Reynold tặng cho Penelope một hộp đựng bốn chú thỏ con.",
+  "Vinter nhìn Penelope với ánh mắt lạnh lùng."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Emily",
+   "loai": "gia_dinh",
+   "mo_ta": "Hầu gái riêng của Penelope, phục tùng và chu đáo.",
+   "cach_goi": "gọi tên Emily, thân mật"
+  },
+  {
+   "a": "Emily",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Hầu gái riêng của Penelope, phục tùng và chu đáo.",
+   "cach_goi": "gọi tên Penelope, lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi của Penelope, thường xuyên cãi vã và trêu chọc.",
+   "cach_goi": "gọi tên Reynold, lạnh lùng"
+  },
+  {
+   "a": "Reynold",
+   "b": "Penelope",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi của Penelope, thường xuyên cãi vã và trêu chọc.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Reynold",
+   "b": "Emily",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vinter",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhìn nhau với ánh mắt lạnh lùng, có vẻ như Vinter nhận ra Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Vinter",
+   "b": "Penelope",
+   "loai": "nguoi_la",
+   "mo_ta": "Nhìn nhau với ánh mắt lạnh lùng, có vẻ như Vinter nhận ra Penelope.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Ellen Wick Rose: Một loại hoa hồng màu hồng nhạt."
+ ],
+ "stats": {
+  "tokens": 951,
+  "seconds": 28.7
+ }
+}

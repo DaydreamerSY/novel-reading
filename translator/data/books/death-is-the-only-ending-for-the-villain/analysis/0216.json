@@ -1,0 +1,109 @@
+{
+ "number": 216,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Sau khi Công tước Eckart bị quái vật tấn công, Reynold đã nhanh chóng đưa cha anh tỉnh lại. Penelope cũng theo sau với vẻ mặt bối rối. Thái tử Callisto xuất hiện và tấn công Công tước, nhưng sau đó lại nhận ra sự thật và hạ kiếm xuống. Sau đó, Công tước giải thích về việc mình được cứu bởi một chiếc bùa hộ mệnh do Penelope tặng trước đây. Cuộc gặp gỡ này diễn ra trong bối cảnh căng thẳng, với những tiết lộ bất ngờ và những mối quan hệ phức tạp giữa các nhân vật. Báo động về cuộc nổi dậy của Hronian đã làm thay đổi hoàn toàn tình hình.",
+ "boi_canh": "Trong khu vườn của dinh thự Eckart, sau một trận chiến với quái vật.",
+ "nhan_vat": [
+  "Penelope",
+  "Eckles",
+  "Callisto",
+  "Reynold",
+  "Yvonne",
+  "Ellen",
+  "Công tước Eckart"
+ ],
+ "su_kien": [
+  "Reynold đánh thức Công tước.",
+  "Thái tử Callisto tấn công Công tước với kiếm.",
+  "Công tước giải thích về chiếc bùa hộ mệnh Penelope tặng.",
+  "Báo động về cuộc nổi dậy của Hronian và việc Hoàng đế bị bắt cóc.",
+  "Penelope bày tỏ sự hối lỗi với Công tước."
+ ],
+ "quan_he": [
+  {
+   "a": "Reynold",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con trai và cha, Reynold lo lắng cho Công tước.",
+   "cach_goi": "gọi 'Father', thân mật"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, Công tước trả lời sự lo lắng của Reynold.",
+   "cach_goi": "gọi tên Reynold, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Công tước Eckart",
+   "loai": "gia_dinh",
+   "mo_ta": "Con gái và cha, Penelope quan tâm đến Công tước.",
+   "cach_goi": "gọi 'Father', thân mật"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con gái, Công tước đáp lại sự quan tâm của Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Callisto",
+   "b": "Công tước Eckart",
+   "loai": "cap_tren",
+   "mo_ta": "Thái tử và Công tước, Thái tử tỏ ra tức giận nhưng sau đó hạ kiếm.",
+   "cach_goi": "gọi 'Duke', lễ phép"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Callisto",
+   "loai": "cap_tren",
+   "mo_ta": "Công tước và Thái tử, Công tước trả lời Thái tử.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "nguoi_la",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Reynold",
+   "b": "Callisto",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Không có tương tác trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Reynold",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con trai, Công tước trả lời sự lo lắng của Reynold.",
+   "cach_goi": "gọi tên Reynold, thân mật"
+  },
+  {
+   "a": "Công tước Eckart",
+   "b": "Penelope",
+   "loai": "gia_dinh",
+   "mo_ta": "Cha và con gái, Công tước đáp lại sự quan tâm của Penelope.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  }
+ ],
+ "danh_tinh": [
+  "Chiếc bùa hộ mệnh do Penelope tặng cho Công tước Eckart trước đây được tiết lộ là có khả năng bảo vệ ông khỏi axit của quái vật."
+ ],
+ "stats": {
+  "tokens": 1236,
+  "seconds": 37.0
+ }
+}

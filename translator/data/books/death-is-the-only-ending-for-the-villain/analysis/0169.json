@@ -1,0 +1,87 @@
+{
+ "number": 169,
+ "model": "gemma3:12b",
+ "version": 3,
+ "tom_tat": "Trong buổi lễ thành niên của Penelope, Thái tử Callisto xuất hiện bất ngờ, khiến cô bối rối và ngạc nhiên. Hai người trao đổi những lời nói đùa trêu chọc lẫn nhau, hé lộ sự phức tạp trong mối quan hệ của họ. Callisto khen ngợi vẻ đẹp của Penelope và bày tỏ sự khó chịu khi bị cô từ chối quà tặng, đồng thời tiết lộ một chút về quá khứ của họ. Cuối cùng, sau một khoảnh khắc thân mật ngắn ngủi, Callisto rời đi để tham gia nghi lễ, nhưng không trước khi khiến Penelope cảm thấy bồn chồn và lo lắng.",
+ "boi_canh": "Buổi lễ thành niên của Penelope tại lâu đài công tước.",
+ "nhan_vat": [
+  "Penelope",
+  "Callisto",
+  "Reynold",
+  "Duke",
+  "Vince"
+ ],
+ "su_kien": [
+  "Thái tử Callisto bất ngờ xuất hiện tại buổi lễ thành niên của Penelope.",
+  "Penelope và Callisto trao đổi những lời trêu chọc, thể hiện sự ngại ngùng và phức tạp trong mối quan hệ của họ.",
+  "Callisto khen ngợi vẻ đẹp của Penelope một cách kỳ lạ.",
+  "Callisto tiết lộ sự khó chịu khi bị Penelope từ chối quà tặng.",
+  "Penelope nhận ra chiếc vòng cổ mà cô đang đeo là món quà từ Vince."
+ ],
+ "quan_he": [
+  {
+   "a": "Penelope",
+   "b": "Callisto",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ phức tạp, vừa trêu chọc lẫn nhau vừa có sự thu hút.",
+   "cach_goi": "gọi 'Your Highness', lễ phép"
+  },
+  {
+   "a": "Callisto",
+   "b": "Penelope",
+   "loai": "doi_thu",
+   "mo_ta": "Mối quan hệ phức tạp, vừa trêu chọc lẫn nhau vừa có sự thu hút.",
+   "cach_goi": "gọi tên Penelope, thân mật"
+  },
+  {
+   "a": "Penelope",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Anh trai nuôi, mối quan hệ thân thiết.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Reynold",
+   "loai": "ban_be",
+   "mo_ta": "Mối quan hệ đồng minh, có thể là bạn bè.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Penelope",
+   "b": "Duke",
+   "loai": "cap_tren",
+   "mo_ta": "Mối quan hệ tôn kính, Penelope là con gái của Duke.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Duke",
+   "loai": "cap_tren",
+   "mo_ta": "Mối quan hệ chính trị, tôn trọng lẫn nhau.",
+   "cach_goi": "gọi 'Duke', lễ phép"
+  },
+  {
+   "a": "Penelope",
+   "b": "Vince",
+   "loai": "nguoi_la",
+   "mo_ta": "Người đã tặng Penelope chiếc vòng cổ, chưa gặp mặt trực tiếp.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  },
+  {
+   "a": "Callisto",
+   "b": "Vince",
+   "loai": "nguoi_la",
+   "mo_ta": "Không biết Vince là ai.",
+   "cach_goi": "không nói chuyện trực tiếp"
+  }
+ ],
+ "danh_tinh": [
+  "Callisto: Thái tử Callisto Regulus",
+  "Reynold: Con thứ nhà Công tước Eckart, anh trai nuôi của Penelope"
+ ],
+ "stats": {
+  "tokens": 972,
+  "seconds": 29.2
+ }
+}
