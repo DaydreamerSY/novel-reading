@@ -10,18 +10,23 @@ const smooth = (a, b, x) => {
 };
 
 const ARCH = 0.13;    // height of the opening arch, as a share of the page width
-const TRAIL = 1.35;   // how far the outer edge lags mid-turn (radians)
+const TRAIL = 1.5;    // how far the outer edge lags mid-turn (radians)
 const FLEX = 1.4;     // > 1 puts more of the bending towards the outer edge
 
 /**
- * t: 0 = page flat, 1 = turned over onto the left. Returns, for each of n strips, the position
- * of its left edge (x, z) and its tilt phi (0 = lying flat, π = turned over).
+ * t: 0 = page flat, 1 = turned over onto the left. dir < 0 is a turn back (t runs 1 -> 0).
+ * Returns, for each of n strips, the position of its spine-side edge (x, z) and its tilt phi
+ * (0 = lying flat on the right, π = lying flat on the left).
  */
-export function bendStrips(t, n, W) {
+export function bendStrips(t, n, W, dir = 1) {
+  // Turning back is the same motion mirrored across the spine and run from its own start: the sheet
+  // arches as it lifts off the left-hand pages, and lands flat on the right with no bulge left over.
+  if (dir < 0) return bendStrips(1 - t, n, W).map(({ x, z, phi }) => ({ x: -x, z, phi: Math.PI - phi }));
   const swing = Math.PI * smooth(0.12, 1, t);
   const arch = ARCH * (t < 0.25 ? smooth(0, 0.25, t) : 1 - smooth(0.25, 0.8, t));
-  // the lag never exceeds the swing, so the outer edge doesn't dip below the page underneath
-  const trail = Math.min(TRAIL * Math.sin(swing), 0.9 * swing);
+  // Lag grows from nothing (so the outer edge never dips below the page underneath) and fades as the
+  // sheet lands, smoothly: a min() of two curves here made the outer edge lurch mid-turn.
+  const trail = TRAIL * Math.sin(swing) * (1 - Math.exp(-1.2 * swing));
   const sw = W / n, out = [];
   let x = 0, z = 0;
   for (let k = 0; k < n; k++) {

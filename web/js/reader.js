@@ -394,7 +394,7 @@ export class Reader {
   }
 
   drawBend(f) {
-    const { W } = this, sw = this.stripW, geo = bendStrips(f.t, this.strips.length, W);
+    const { W } = this, sw = this.stripW, geo = bendStrips(f.t, this.strips.length, W, f.dir);
     // Shade each strip with a gradient between the tilts at its two edges, so the light runs
     // smoothly across the sheet instead of in bands.
     const tone = phi => {
