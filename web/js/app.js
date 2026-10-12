@@ -74,5 +74,22 @@ function route() {
   }
 }
 
+// Chrome/Edge offer installing the site as an app (opens without browser bars): keep that offer for our button.
+let installOffer = null;
+const installButton = document.getElementById("install");
+window.addEventListener("beforeinstallprompt", e => {
+  e.preventDefault();
+  installOffer = e;
+  installButton.hidden = false;
+});
+installButton.addEventListener("click", async () => {
+  if (!installOffer) return;
+  installOffer.prompt();
+  await installOffer.userChoice.catch(() => {});
+  installOffer = null;
+  installButton.hidden = true;
+});
+window.addEventListener("appinstalled", () => { installButton.hidden = true; });
+
 window.addEventListener("hashchange", route);
 route();

@@ -28,12 +28,13 @@ export function loadSettings() {
   const dark = window.matchMedia?.("(prefers-color-scheme: dark)").matches;
   const s = {
     theme: dark ? "dark" : "light", font: "literata", size: 18, lh: 1.6,
-    margin: "normal", justify: true, anim: "curl", bilingual: false,
+    margin: "normal", justify: true, anim: "curl", bilingual: false, fullscreen: "auto",
     ...get("settings", {}),
   };
   if (!(s.font in FONTS)) s.font = "literata";
   if (!(s.margin in MARGINS)) s.margin = "normal";
   if (!["curl", "bend", "slide", "none"].includes(s.anim)) s.anim = "curl";
+  if (!["auto", "manual"].includes(s.fullscreen)) s.fullscreen = "auto";
   return s;
 }
 
