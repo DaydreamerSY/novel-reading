@@ -3,7 +3,7 @@
  "title": "Thiên Tài Sao Chép Vũ Khí Học Viện",
  "author": "서쪽",
  "model": "gemma3:12b",
- "updated": "2026-10-11T05:59:03Z",
+ "updated": "2026-10-12T13:30:08Z",
  "bilingual": false,
  "chapters": [
   {
@@ -1029,6 +1029,346 @@
   {
    "n": 886,
    "title": "Chương 886: Tàn dư (3)"
+  },
+  {
+   "n": 887,
+   "title": "Chương 887: Tàn dư (4)"
+  },
+  {
+   "n": 888,
+   "title": "Chương 888: Tàn dư (5)"
+  },
+  {
+   "n": 889,
+   "title": "Chương 889: Tô Màu"
+  },
+  {
+   "n": 890,
+   "title": "Chương 890: Tô Màu (2)"
+  },
+  {
+   "n": 891,
+   "title": "Chương 891: Tô Màu (3)"
+  },
+  {
+   "n": 892,
+   "title": "Chương 892: Tô Màu (4)"
+  },
+  {
+   "n": 893,
+   "title": "Chương 893: Arald"
+  },
+  {
+   "n": 894,
+   "title": "Chương 894: Moirai (thuật ngữ)"
+  },
+  {
+   "n": 895,
+   "title": "Chương 895: Moirai (thuật ngữ) (2)"
+  },
+  {
+   "n": 896,
+   "title": "Chương 896: Moirai (thuật ngữ) (3)"
+  },
+  {
+   "n": 897,
+   "title": "Chương 897: Moirai (thuật ngữ) (4)"
+  },
+  {
+   "n": 898,
+   "title": "Chương 898: Moirai (thuật ngữ) (5)"
+  },
+  {
+   "n": 899,
+   "title": "Chương 899: Moirai (thuật ngữ) (6)"
+  },
+  {
+   "n": 900,
+   "title": "Chương 900: Thiên Thanh Lam Ảnh"
+  },
+  {
+   "n": 901,
+   "title": "Chương 901: Thiên Thanh Lam Ảnh (2)"
+  },
+  {
+   "n": 902,
+   "title": "Chương 902: Thiên Thanh Lam Ảnh (3)"
+  },
+  {
+   "n": 903,
+   "title": "Chương 903: Thiên Thanh Lam Ảnh (4)"
+  },
+  {
+   "n": 904,
+   "title": "Chương 904: Thiên Thanh Lam Ảnh (5)"
+  },
+  {
+   "n": 905,
+   "title": "Chương 905: Thiên Thanh Lam Ảnh (6)"
+  },
+  {
+   "n": 906,
+   "title": "Chương 906: Địa ngục"
+  },
+  {
+   "n": 907,
+   "title": "Chương 907: Địa ngục (2)"
+  },
+  {
+   "n": 908,
+   "title": "Chương 908: Địa ngục (3)"
+  },
+  {
+   "n": 909,
+   "title": "Chương 909: Nastrond"
+  },
+  {
+   "n": 910,
+   "title": "Chương 910: Nastrond (2)"
+  },
+  {
+   "n": 911,
+   "title": "Chương 911: Nastrond (3)"
+  },
+  {
+   "n": 912,
+   "title": "Chương 912: Nastrond (4)"
+  },
+  {
+   "n": 913,
+   "title": "Chương 913: Nastrond (5)"
+  },
+  {
+   "n": 914,
+   "title": "Chương 914: Nastrond (6)"
+  },
+  {
+   "n": 915,
+   "title": "Chương 915: Nastrond (7)"
+  },
+  {
+   "n": 916,
+   "title": "Chương 916: Hoàng đế"
+  },
+  {
+   "n": 917,
+   "title": "Chương 917: Hoàng đế (2)"
+  },
+  {
+   "n": 918,
+   "title": "Chương 918: Niflheim"
+  },
+  {
+   "n": 919,
+   "title": "Chương 919: Niflheim (2)"
+  },
+  {
+   "n": 920,
+   "title": "Chương 920: Niflheim (3)"
+  },
+  {
+   "n": 921,
+   "title": "Chương 921: Niflheim (4)"
+  },
+  {
+   "n": 922,
+   "title": "Chương 922: Niflheim (5)"
+  },
+  {
+   "n": 923,
+   "title": "Chương 923: Niflheim (6)"
+  },
+  {
+   "n": 924,
+   "title": "Chương 924: Niflheim (7)"
+  },
+  {
+   "n": 925,
+   "title": "Chương 925: Niflheim (8)"
+  },
+  {
+   "n": 926,
+   "title": "Chương 926: Mistilteinn"
+  },
+  {
+   "n": 927,
+   "title": "Chương 927: Mistilteinn (2)"
+  },
+  {
+   "n": 928,
+   "title": "Chương 928: Mistilteinn (3)"
+  },
+  {
+   "n": 929,
+   "title": "Chương 929: Mistilteinn (4)"
+  },
+  {
+   "n": 930,
+   "title": "Chương 930: Mistilteinn (5)"
+  },
+  {
+   "n": 931,
+   "title": "Chương 931: Mistilteinn (6)"
+  },
+  {
+   "n": 932,
+   "title": "Chương 932: Mistilteinn (7)"
+  },
+  {
+   "n": 933,
+   "title": "Chương 933: Mistilteinn (8)"
+  },
+  {
+   "n": 934,
+   "title": "Chương 934: Mistilteinn (9)"
+  },
+  {
+   "n": 935,
+   "title": "Chương 935: Mistilteinn (10)"
+  },
+  {
+   "n": 936,
+   "title": "Chương 936: Mistilteinn (11)"
+  },
+  {
+   "n": 937,
+   "title": "Chương 937: Mistilteinn (12)"
+  },
+  {
+   "n": 938,
+   "title": "Chương 938: Triệu Hồi (1)"
+  },
+  {
+   "n": 939,
+   "title": "Chương 939: Triệu Hồi (2)"
+  },
+  {
+   "n": 940,
+   "title": "Chương 940: Triệu Hồi (3)"
+  },
+  {
+   "n": 941,
+   "title": "Chương 941: Triệu Hồi (4)"
+  },
+  {
+   "n": 942,
+   "title": "Chương 942: Triệu Hồi (5)"
+  },
+  {
+   "n": 943,
+   "title": "Chương 943: Triệu Hồi (6)"
+  },
+  {
+   "n": 944,
+   "title": "Chương 944: Cân Bằng"
+  },
+  {
+   "n": 945,
+   "title": "Chương 945: Cân Bằng (2)"
+  },
+  {
+   "n": 946,
+   "title": "Chương 946: Cân Bằng (3)"
+  },
+  {
+   "n": 947,
+   "title": "Chương 947: Cân Bằng (4)"
+  },
+  {
+   "n": 948,
+   "title": "Chương 948: Cân Bằng (5)"
+  },
+  {
+   "n": 949,
+   "title": "Chương 949: Cân Bằng (6)"
+  },
+  {
+   "n": 950,
+   "title": "Chương 950: Cân Bằng (7)"
+  },
+  {
+   "n": 951,
+   "title": "Chương 951: Cân Bằng (8)"
+  },
+  {
+   "n": 952,
+   "title": "Chương 952: Gia đình"
+  },
+  {
+   "n": 953,
+   "title": "Chương 953: Gia đình (2)"
+  },
+  {
+   "n": 954,
+   "title": "Chương 954: Gia đình (3)"
+  },
+  {
+   "n": 955,
+   "title": "Chương 955: Đói"
+  },
+  {
+   "n": 956,
+   "title": "Chương 956: Đói (2)"
+  },
+  {
+   "n": 957,
+   "title": "Chương 957: Đánh Giá"
+  },
+  {
+   "n": 958,
+   "title": "Chương 958: Đánh Giá (2)"
+  },
+  {
+   "n": 959,
+   "title": "Chương 959: Đánh Giá (3)"
+  },
+  {
+   "n": 960,
+   "title": "Chương 960: Đánh Giá (4)"
+  },
+  {
+   "n": 961,
+   "title": "Chương 961: Đánh Giá (5)"
+  },
+  {
+   "n": 962,
+   "title": "Chương 962: Lạm Dâm"
+  },
+  {
+   "n": 963,
+   "title": "Chương 963: Lạm Dâm (2)"
+  },
+  {
+   "n": 964,
+   "title": "Chương 964: Lạm Dâm (3)"
+  },
+  {
+   "n": 965,
+   "title": "Chương 965: Lạm Dâm (4)"
+  },
+  {
+   "n": 966,
+   "title": "Chương 966: Lạm Dâm (5)"
+  },
+  {
+   "n": 967,
+   "title": "Chương 967: Lạm Dâm (6)"
+  },
+  {
+   "n": 968,
+   "title": "Chương 968: Lạm Dâm (7)"
+  },
+  {
+   "n": 969,
+   "title": "Chương 969: Lạm Dâm (8)"
+  },
+  {
+   "n": 970,
+   "title": "Chương 970: Cứu Rỗi"
+  },
+  {
+   "n": 971,
+   "title": "Chương 971: Cứu Rỗi (2)"
   }
  ]
 }
