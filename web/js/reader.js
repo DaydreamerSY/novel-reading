@@ -14,6 +14,9 @@ const easeInOut = k => (k < 0.5 ? 4 * k ** 3 : 1 - (-2 * k + 2) ** 3 / 2);
 const polygon = pts => (pts.length < 3 ? "polygon(0 0, 0 0, 0 0)"
   : `polygon(${pts.map(([x, y]) => `${x.toFixed(1)}px ${y.toFixed(1)}px`).join(",")})`);
 const div = cls => Object.assign(document.createElement("div"), { className: cls });
+const FS_ENTER = "M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z";
+const FS_EXIT = "M5 16h3v3h2v-5H5v2zm3-8H5v2h5V5H8v3zm6 11h2v-3h3v-2h-5v5zm2-11V5h-2v5h5V8h-3z";
+const fullscreenNow = () => !!(document.fullscreenElement || document.webkitFullscreenElement);
 
 export async function fetchJSON(url, fresh = false) {
   const r = await fetch(url, fresh ? { cache: "no-cache" } : undefined);
@@ -89,6 +92,7 @@ export class Reader {
     this.bindInput();
     this.bindChrome();
     this.bindSettings();
+    this.setupFullscreen();
   }
 
   makePage(extra) {
@@ -105,6 +109,7 @@ export class Reader {
   async open(slug, n) {
     this.close();
     const token = (this.token = Symbol());
+    this.autoFullscreenTried = false;
     this.root.hidden = false;
     this.busy(true);
     try {
@@ -590,6 +595,11 @@ export class Reader {
     const g = this.g;
     if (!g || e.pointerId !== g.id) return;
     this.g = null;
+    // A finger lifted is the user gesture fullscreen needs: go fullscreen on the first touch of a reading session.
+    if (e.pointerType === "touch" && this.s.fullscreen === "auto" && !this.autoFullscreenTried) {
+      this.autoFullscreenTried = true;
+      this.fullscreen(true);
+    }
     const f = this.flip;
     if (g.live && f && f.target == null) {
       const h = g.hist, dt = h[h.length - 1][0] - h[0][0];
@@ -647,6 +657,42 @@ export class Reader {
     }
   }
 
+  // ---------- fullscreen: hide the browser's own bars ----------
+
+  // The Fullscreen API works in Android browsers, on iPad and on desktop; iPhone Safari only allows it for
+  // video, so there the way to read without browser bars is to add the site to the home screen.
+  setupFullscreen() {
+    const d = document.documentElement;
+    this.fsRequest = d.requestFullscreen || d.webkitRequestFullscreen;
+    this.fsSupported = !!(this.fsRequest && (document.fullscreenEnabled || document.webkitFullscreenEnabled));
+    // opened from the home screen: no browser bars to hide (checked now, before any fullscreen of our own)
+    this.installed = navigator.standalone === true
+      || window.matchMedia?.("(display-mode: standalone), (display-mode: fullscreen)").matches;
+    const btn = this.$('[data-act="fullscreen"]');
+    btn.hidden = this.$("#fs-row").hidden = !this.fsSupported || this.installed;
+    const hint = this.$("#install-hint");
+    hint.hidden = this.installed;
+    hint.textContent = this.fsSupported
+      ? "Hoặc cài làm ứng dụng để luôn mở không có thanh công cụ: menu trình duyệt → “Thêm vào màn hình chính”."
+      : "Trình duyệt này không cho trang web toàn màn hình. Trên iPhone: bấm Chia sẻ → “Thêm vào MH chính”, "
+        + "rồi mở Tủ Truyện từ biểu tượng đó để đọc không có thanh công cụ.";
+    const sync = () => {
+      btn.querySelector("path").setAttribute("d", fullscreenNow() ? FS_EXIT : FS_ENTER);
+      btn.setAttribute("aria-label", fullscreenNow() ? "Thoát toàn màn hình" : "Toàn màn hình");
+    };
+    document.addEventListener("fullscreenchange", sync);
+    document.addEventListener("webkitfullscreenchange", sync);
+  }
+
+  fullscreen(on) {
+    if (!this.fsSupported || this.installed || fullscreenNow() === on) return;
+    try {
+      const done = on ? this.fsRequest.call(document.documentElement, { navigationUI: "hide" })
+        : (document.exitFullscreen || document.webkitExitFullscreen).call(document);
+      done?.catch?.(() => {});
+    } catch { /* refused, e.g. not from a user gesture */ }
+  }
+
   // ---------- chrome: bars, table of contents, settings ----------
 
   bindChrome() {
@@ -656,6 +702,7 @@ export class Reader {
       if (act === "back") location.hash = "#/";
       else if (act === "toc") this.openPanel("#toc");
       else if (act === "settings") this.openPanel("#settings");
+      else if (act === "fullscreen") this.fullscreen(!fullscreenNow());
       else if (act === "close") this.closePanel();
       else if (act === "prev-chap" || act === "next-chap") {
         const ci = this.pos.ci + (act === "next-chap" ? 1 : -1);
@@ -786,7 +833,7 @@ export class Reader {
       saveSettings(this.s);
       applyLook(this.s);
       this.syncSettings();
-      if (key !== "theme" && key !== "anim") this.relayout();
+      if (!["theme", "anim", "fullscreen"].includes(key)) this.relayout();
     });
   }
 

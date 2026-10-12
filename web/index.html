@@ -4,6 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#ffffff">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Tủ Truyện">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <title>Tủ Truyện</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,6 +25,7 @@
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 1l-5 5v11l5-4.5V1zM1 6v14.65c0 .25.25.5.5.5.1 0 .15-.05.25-.05C3.1 20.45 5.05 20 6.5 20c1.95 0 4.05.4 5.5 1.5V6c-1.45-1.1-3.55-1.5-5.5-1.5S2.45 4.9 1 6zm22 13.5V6c-.6-.45-1.25-.75-2-1v13.5c-1.1-.35-2.3-.5-3.5-.5-1.7 0-4.15.65-5.5 1.5v2c1.35-.85 3.8-1.5 5.5-1.5 1.65 0 3.35.3 4.75 1.05.1.05.15.05.25.05.25 0 .5-.25.5-.5v-1.1z"/></svg>
       Tủ Truyện
     </div>
+    <button class="btn install" id="install" hidden>Cài ứng dụng</button>
   </header>
   <div class="lib-wrap">
     <section id="continue"></section>
@@ -34,6 +40,7 @@
   <header class="bar top">
     <button class="icon" data-act="back" aria-label="Về thư viện"><svg viewBox="0 0 24 24"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg></button>
     <div class="titles"><div id="r-book"></div><div id="r-chap"></div></div>
+    <button class="icon" data-act="fullscreen" aria-label="Toàn màn hình" hidden><svg viewBox="0 0 24 24"><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg></button>
     <button class="icon" data-act="toc" aria-label="Mục lục"><svg viewBox="0 0 24 24"><path d="M3 9h14V7H3v2zm0 4h14v-2H3v2zm0 4h14v-2H3v2zm16 0h2v-2h-2v2zm0-10v2h2V7h-2zm0 6h2v-2h-2v2z"/></svg></button>
     <button class="icon" data-act="settings" aria-label="Tuỳ chỉnh hiển thị"><svg viewBox="0 0 24 24"><path d="M9 4v3h5v12h3V7h5V4H9zm-6 8h3v7h3v-7h3V9H3v3z"/></svg></button>
   </header>
@@ -107,6 +114,12 @@
         <button data-v="false">Tắt</button><button data-v="true">Kèm câu tiếng Anh</button>
       </div>
     </div>
+    <div class="row" id="fs-row" hidden><span class="lbl">Toàn màn hình</span>
+      <div class="chips" data-set="fullscreen">
+        <button data-v="auto">Tự bật khi đọc</button><button data-v="manual">Chỉ khi bấm nút</button>
+      </div>
+    </div>
+    <p class="hint" id="install-hint" hidden></p>
   </section>
 
   <div class="toast" role="status"></div>
